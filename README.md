@@ -55,6 +55,27 @@ npm test
 
 jsdom 仅用于测试，不会随网站部署，也不是构建依赖。
 
+## 日常采编与成本控制
+
+重复工作由本地程序处理，不调用模型 API：研究采集支持缓存与断点；资料包按人提取；译文只导出变化字段；页面、检查和交付包统一生成。AI 仍负责来源判断、履历取舍、原创概述、翻译与语义复核。程序检查通过不等于事实或母语审校完成。
+
+```sh
+npm run workflow:status
+npm run content:plan -- --domain technology --limit 12
+npm run content:brief -- --person demis-hassabis
+npm run i18n:snapshot
+# 修改中文底本后，导出指定人物指定语言的差异
+npm run i18n:delta:export -- --locale en --person sam-altman --out /tmp/sam-en-delta.json
+# 编辑并完成差异审阅后导入
+npm run i18n:delta:import -- --locale en --person sam-altman --file /tmp/sam-en-delta.json
+npm run workflow:verify
+npm run workflow:package -- --out /tmp/bignames-delivery
+```
+
+`snapshot` 必须在底本变更前运行，只记录通过既有完整性检查的翻译底本，不表示人工审校。增量包为零项时无需翻译；日期、来源、生卒等共享事实变化仍要求检查相关旧译文。资料包省略的条目保留稳定 ID，可用 `content:detail` 按需读取；完整研究记录不会删减。新增人物或语言的首次翻译继续使用下方完整导出流程。
+
+`workflow:package` 必须先通过构建、数据与链接检查、Node 测试、Python 采集测试，再输出两个 ZIP、校验和与验证清单。它不部署、不推送，也不声称完成真实浏览器验收。完整分工与署名见 [AI 与程序化流程说明](docs/AUTHORSHIP-AND-AUTOMATION.md)，常用操作见 [采编操作手册](docs/EDITORIAL-OPERATIONS.md)。
+
 ## 域名、子目录与 404
 
 ### GitHub Pages
@@ -105,6 +126,7 @@ data/
   i18n/<语言>/ui.json      对应语言的界面、分类与辅助页面文案
   i18n/<语言>/ui-source.json  界面底本版本记录
   i18n/<语言>/people/     每个人一份译文，仅存展示文字和底本哈希
+  i18n/snapshots/         按内容哈希保存的共享翻译底本，用于差异比较
 public/assets/
   portraits/              本地人物图片
   site.css                全站与打印样式
@@ -116,6 +138,10 @@ scripts/
   assemble-collection.mjs  合并领域池、去重、生成1000人名单与队列
   research-fetch.py       开发阶段采集公开资料，可断点续采
   research-drafts.mjs     从同一事实记录生成八语编辑草稿
+  content.mjs             采编排序、精简资料包和单项原始资料查询
+  i18n-delta.mjs          增量翻译底本快照、差异导出与审阅导入
+  workflow.mjs            状态检查、完整验证和本地交付打包入口
+  package.mjs             可复现 ZIP、输入指纹、校验和与交付清单
 tests/                    日期安全边界与 DOM 交互回归测试
 docs/
   CONTENT-PLAN.md         收录策略与扩充方法

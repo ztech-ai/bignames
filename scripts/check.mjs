@@ -30,10 +30,7 @@ for(const file of files) {
   people.push(p);
   sourceStrings(p); // Translation keys require stable, unique IDs.
   validateInfluence(p.influence,p.id);
-  if(p.influence)for(const locale of enabledLocales) {
-    const rationale=locale.id===sourceLocale?p.influence.rationale:p.influence.rationales?.[locale.id];
-    assert(typeof rationale==='string'&&rationale.trim(),`${p.id}: missing ${locale.id} influence rationale`);
-  }
+  // Rating reasons use the same strict translation contract as biography prose.
   for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt']) assert.equal(typeof p[key],'string',`${p.id}: missing ${key}`);
   assert.match(p.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
   assert.match(p.birth,datePattern);

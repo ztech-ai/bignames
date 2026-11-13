@@ -16,7 +16,16 @@
     "collection:assemble": "node scripts/assemble-collection.mjs",
     "research:fetch": "python3 scripts/research-fetch.py --roster data/collections/contemporary-1000.json --resume",
     "research:drafts": "node scripts/research-drafts.mjs",
-    "research:test": "python3 tests/research-fetch.test.py"
+    "research:test": "python3 tests/research-fetch.test.py",
+    "content:plan": "node scripts/content.mjs plan",
+    "content:brief": "node scripts/content.mjs brief",
+    "content:detail": "node scripts/content.mjs detail",
+    "i18n:snapshot": "node scripts/i18n-delta.mjs snapshot",
+    "i18n:delta:export": "node scripts/i18n-delta.mjs export",
+    "i18n:delta:import": "node scripts/i18n-delta.mjs import",
+    "workflow:status": "node scripts/workflow.mjs status",
+    "workflow:verify": "node scripts/workflow.mjs verify",
+    "workflow:package": "node scripts/workflow.mjs package"
   },
   "engines": {
     "node": "^22.22.2 || ^24.15.0 || >=26.0.0"

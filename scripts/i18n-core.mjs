@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 
 export function sourceStrings(person) {
   const strings=Object.fromEntries(['name','role','country','summary','coverageNote'].map(key=>[key,person[key]]));
+  if(person.influence) strings['influence.rationale']=person.influence.rationale;
   for(const tag of person.tags) strings[`tags.${tag}`]=tag;
   for(const group of ['facts','highlights','timeline']) {
     const ids=new Set();
@@ -30,6 +31,7 @@ export function localizePerson(person,translation) {
   const result={...person,aliases:[...new Set([person.name,...person.aliases])],tagIds:[...person.tags]};
   for(const key of ['name','role','country','summary','coverageNote'])result[key]=strings[key];
   result.tags=person.tags.map(tag=>strings[`tags.${tag}`]);
+  if(person.influence)result.influence={...person.influence,localizedRationale:strings['influence.rationale']};
   for(const group of ['facts','highlights','timeline'])result[group]=person[group].map(item=>{
     const next={...item};
     for(const key of group==='facts'?['label','value']:['title','text'])next[key]=strings[`${group}.${item.id}.${key}`];

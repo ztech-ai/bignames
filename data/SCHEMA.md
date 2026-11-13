@@ -38,4 +38,6 @@ highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早
 
 图片元数据另由图像任务提供 `data/images/<slug>.json`，不要放入人物文件。来源必须实际打开/搜索核对。
 
+当代新增档案的 `influence` 包含 `stars`（1—5）、`scope`（`global` / `field` / `regional`）、中文 `rationale`、`assessedAt`、`methodVersion`、`reviewStatus`。评级衡量影响范围，不是道德评价；原有档案允许暂未评级。完整档案与候选名单的星级、范围、中文理由应一致。各语言理由存于译文 `strings["influence.rationale"]`，不在基础数据重复保存外语理由。评级标准见 `data/collections/influence-method.json`。
+
 多语言：`facts`、`highlights`、`timeline` 的每个条目必须有稳定且组内唯一的 `id`。修改内容或调整顺序时保留原 ID；新增条目使用新 ID。人物译文位于 `data/i18n/<语言>/people/<slug>.json`，只翻译展示文字，日期、来源、分类 ID、图片和 `death` 均复用基础数据。详见 `docs/TRANSLATION-CONTRACT.md`。

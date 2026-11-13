@@ -102,7 +102,7 @@ ${campaignBanner()}<section id="explore" class="explore-section" aria-labelledby
 }
 function influenceMarkup(rating, detailed=false) {
   if(!rating||!Number.isInteger(rating.stars)||rating.stars<1||rating.stars>5)return `<span class="influence-unrated">${t('influence.unrated')}</span>`;
-  const rationale=locale.id===sourceLocale?rating.rationale:(rating.rationales?.[locale.id]??(locale.id==='en'?rating.rationaleEn:null));
+  const rationale=locale.id===sourceLocale?rating.rationale:rating.localizedRationale;
   return `<div class="influence-rating${detailed?' influence-detail':''}"><span class="influence-stars" role="img" aria-label="${t('influence.stars',{stars:rating.stars})}"><span aria-hidden="true">${'★'.repeat(rating.stars)}${'☆'.repeat(5-rating.stars)}</span></span><span class="influence-scope">${t(`influence.${rating.scope}`)}</span>${rating.reviewStatus==='provisional'?`<small>${t('influence.provisional')}</small>`:''}${detailed&&rationale?`<p>${e(rationale)}</p>`:''}${detailed?`<p class="influence-note">${t('influence.note')}</p>`:''}</div>`;
 }
 function sourceLinks(p, ids) {
