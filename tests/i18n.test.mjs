@@ -94,9 +94,19 @@ for (const locale of locales) {
         assert.equal(details[0], `${year(person.birth)} — ${person.death === null ? ui['date.present'] : year(person.death)}`);
         const image = document.querySelector('.profile-photo .person-portrait');
         const metadata = await json(`data/images/${person.id}.json`);
-        assert.equal(image.src, `${baseURL}${metadata.src}`);
+        if(metadata.kind==='placeholder') {
+          assert.equal(image.tagName,'DIV');
+          assert.equal(image.getAttribute('role'),'img');
+          assert.equal(image.getAttribute('aria-label'),formatMessage(ui['image.pendingAlt'],{name:p.name}));
+          assert.ok(image.textContent.includes(p.name));
+          assert.ok(image.textContent.includes(ui['image.pending']));
+          assert.equal(document.querySelector('.profile-photo img'),null);
+          assert.equal(document.querySelector('.photo-credit a'),null,'A placeholder must not fabricate an image license or source');
+        } else {
+          assert.equal(image.src, `${baseURL}${metadata.src}`);
+          assert.equal(image.alt, formatMessage(ui[metadata.kind === 'photo' ? 'image.altPhoto' : 'image.altArtwork'], { name: p.name }));
+        }
         assert.equal(image.dataset.lifeStatus, person.death === null ? 'living' : 'deceased');
-        assert.equal(image.alt, formatMessage(ui[metadata.kind === 'photo' ? 'image.altPhoto' : 'image.altArtwork'], { name: p.name }));
         assert.equal(document.querySelector('link[rel="stylesheet"]').href, `${baseURL}assets/site.css`);
         assertLanguageNavigation(document, locale, page);
         const tagLinks = [...document.querySelectorAll('.profile-tags a')].filter(a => new URL(a.href).searchParams.has('tag'));

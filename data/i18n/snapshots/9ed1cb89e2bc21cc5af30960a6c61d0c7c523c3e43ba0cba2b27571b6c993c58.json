@@ -1,0 +1,203 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "9ed1cb89e2bc21cc5af30960a6c61d0c7c523c3e43ba0cba2b27571b6c993c58",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "linus-torvalds",
+    "name": "林纳斯·托瓦兹",
+    "enName": "Linus Torvalds",
+    "aliases": [
+      "林纳斯·托瓦兹",
+      "Linus Torvalds"
+    ],
+    "birth": "1969-12-28",
+    "death": null,
+    "country": "芬兰 / 美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "tags": [
+      "开源软件",
+      "操作系统"
+    ],
+    "role": "Linux内核与Git创建者",
+    "summary": "林纳斯·托瓦兹在学生时代创建Linux内核，后来创建Git以支持分布式开发。他长期协调内核维护，但Linux的成熟依靠全球社区和企业共同贡献。Linux是操作系统内核，而Git是版本控制工具，两者承担不同职责。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "Linux内核",
+        "text": "创建并长期协调Linux内核，支持服务器、移动设备等计算基础设施。",
+        "sourceIds": [
+          "chm",
+          "mit"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "Git版本控制",
+        "text": "为内核协作创建Git，随后成为广泛使用的分布式开发工具。",
+        "sourceIds": [
+          "git"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "芬兰赫尔辛基"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "赫尔辛基大学计算机科学硕士"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-11-08",
+        "title": "继续内核发布工作",
+        "text": "发布Linux 7.4-rc2测试候选版；它不是稳定正式版。",
+        "sourceIds": [
+          "release"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2012",
+        "title": "千禧技术奖",
+        "text": "因开源操作系统贡献获得2012年千禧技术奖。",
+        "sourceIds": [
+          "prize"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2005-04",
+        "title": "创建Git",
+        "text": "为Linux开发协作建立分布式版本控制系统。",
+        "sourceIds": [
+          "git"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "2003",
+        "title": "专注内核维护",
+        "text": "离开Transmeta，加入开放源码开发实验室。",
+        "sourceIds": [
+          "mit"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1997",
+        "title": "加入Transmeta",
+        "text": "移居美国，在处理器公司任职并继续Linux工作。",
+        "sourceIds": [
+          "mit"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1994",
+        "title": "Linux 1.0发布",
+        "text": "与贡献者共同推进内核达到1.0版本。",
+        "sourceIds": [
+          "chm"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1991",
+        "title": "公开Linux项目",
+        "text": "在赫尔辛基学习期间分享内核开发工作与源代码。",
+        "sourceIds": [
+          "mit"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1988",
+        "title": "进入赫尔辛基大学",
+        "text": "开始学习计算机科学。",
+        "sourceIds": [
+          "helsinki"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1969-12-28",
+        "title": "出生于赫尔辛基",
+        "text": "出生于芬兰的瑞典语家庭。",
+        "sourceIds": [
+          "mit",
+          "wiki"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "mit",
+        "title": "Linus Torvalds",
+        "publisher": "MIT Lemelson",
+        "url": "https://lemelson.mit.edu/resources/linus-torvalds"
+      },
+      {
+        "id": "chm",
+        "title": "Linus Torvalds",
+        "publisher": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/linus-torvalds/"
+      },
+      {
+        "id": "git",
+        "title": "Git turns 20: Q&A with Linus Torvalds",
+        "publisher": "GitHub",
+        "url": "https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/"
+      },
+      {
+        "id": "prize",
+        "title": "Open source operating system: 2012 prize",
+        "publisher": "Technology Academy Finland",
+        "url": "https://millenniumprize.org/winners/open-source-operating-system/"
+      },
+      {
+        "id": "helsinki",
+        "title": "How did the 30-year-old Linux conquer the world?",
+        "publisher": "University of Helsinki",
+        "url": "https://www.helsinki.fi/en/news/mathematics-and-science/how-did-30-year-old-linux-conquer-world"
+      },
+      {
+        "id": "wiki",
+        "title": "Linus Torvalds",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Linus_Torvalds"
+      },
+      {
+        "id": "release",
+        "title": "Linux 7.4-rc2 — release announcement",
+        "publisher": "Linus Torvalds / Linux Kernel Mailing List",
+        "url": "https://lists.openwall.net/linux-kernel/2026/11/09/84"
+      }
+    ],
+    "coverageNote": "资料检索截至2026年11月13日；年表选录至2026年的主要履历，不是逐日新闻记录。机构成果属于团队贡献，宣布的计划不等于已经完成。",
+    "verifiedAt": "2026-11-13",
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "创建Linux内核与Git版本控制系统，推动开放源代码协作和全球软件基础设施发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

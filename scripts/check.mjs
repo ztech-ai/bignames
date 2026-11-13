@@ -6,6 +6,7 @@ import { timelineOrder, yearOf, safeUrl, lifeStatus } from './utils.mjs';
 import { sourceStrings, validateTranslation, validateUI, validateUISource } from './i18n-core.mjs';
 import { validateInfluence } from './influence.mjs';
 import { createHash } from 'node:crypto';
+import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const readJson = async name => JSON.parse(await readFile(path.join(root,name),'utf8'));
@@ -56,12 +57,12 @@ for(const file of files) {
     assert(!i||timelineOrder(p.timeline[i-1],t)<=0,`${p.id}: chronology not descending`);
   });
   const image = await readJson(`data/images/${p.id}.json`);
-  assert.match(image.src,/^assets\/portraits\/[a-z0-9-]+\.(jpg|jpeg|png|webp)$/);
-  assert(['photo','painting','engraving'].includes(image.kind));
-  assert(image.credit&&image.alt&&image.license&&safeUrl(image.sourceUrl)&&safeUrl(image.licenseUrl),`${p.id}: incomplete image provenance`);
-  const imageStat=await stat(path.join(root,'public',image.src));
-  assert(imageStat.size>1000,`${p.id}: suspicious image size`);
-  portraitStatuses.set(image.src,lifeStatus(p));
+  validateImageMetadata(image,p.id);
+  if(hasPortrait(image)) {
+    const imageStat=await stat(path.join(root,'public',image.src));
+    assert(imageStat.size>1000,`${p.id}: suspicious image size`);
+    portraitStatuses.set(image.src,lifeStatus(p));
+  }
   assert(candidates.some(c=>c.id===p.id),`${p.id}: absent from roster`);
   events+=p.timeline.length;
   references+=p.sources.length;
@@ -166,4 +167,4 @@ for(const [file,html] of readHtml) {
 }
 assert.equal(htmlFiles.length,(ids.size+5)*enabledLocales.length,'Missing generated localized pages');
 console.log(`PASS: ${ids.size} profiles, ${events} dated events, ${references} source records, ${candidates.length} candidates.`);
-console.log(`PASS: ${htmlFiles.length} complete HTML pages, ${links} local links/assets/anchors, ${ids.size} shared portrait licenses, ${enabledLocales.length} languages.`);
+console.log(`PASS: ${htmlFiles.length} complete HTML pages, ${links} local links/assets/anchors, ${portraitStatuses.size} shared portrait licenses, ${ids.size-portraitStatuses.size} approved name placeholders, ${enabledLocales.length} languages.`);

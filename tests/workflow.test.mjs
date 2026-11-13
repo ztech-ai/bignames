@@ -20,7 +20,7 @@ async function fixture(t) {
   await put('data/i18n/zh/ui.json',ui);await put('data/i18n/en/ui.json',{title:'People {count}'});await put('data/i18n/en/ui-source.json',{sourceHash:sourceHash(ui)});
   await put('data/people/sample-person.json',person);
   await put('data/i18n/en/people/sample-person.json',{sourceHash:sourceHash(person),strings:sourceStrings(person)});
-  await put('data/images/sample-person.json',{src:'assets/portraits/sample-person.jpg',alt:'人物',credit:'Photographer',license:'CC BY',sourceUrl:'https://example.com/photo',licenseUrl:'https://creativecommons.org/licenses/by/4.0/'});
+  await put('data/images/sample-person.json',{kind:'photo',src:'assets/portraits/sample-person.jpg',alt:'人物',credit:'Photographer',license:'CC BY',sourceUrl:'https://example.com/photo',licenseUrl:'https://creativecommons.org/licenses/by/4.0/'});
   await put('public/assets/portraits/sample-person.jpg',Buffer.alloc(1024,1));
   await put('data/collections/contemporary-1000.json',{people:[{id:'sample-person'},{id:'candidate-person'}]});
   await put('data/research/evidence/candidate-person.json','not parsed by status');

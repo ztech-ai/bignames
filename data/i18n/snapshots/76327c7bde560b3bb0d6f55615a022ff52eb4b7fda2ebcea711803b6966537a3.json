@@ -1,0 +1,211 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "76327c7bde560b3bb0d6f55615a022ff52eb4b7fda2ebcea711803b6966537a3",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "martin-hellman",
+    "name": "马丁·赫尔曼",
+    "enName": "Martin Hellman",
+    "aliases": [
+      "Martin Hellman",
+      "马丁·赫尔曼"
+    ],
+    "birth": "1945-10-02",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "密码学",
+      "技术伦理"
+    ],
+    "role": "公钥密码学先驱 · 技术风险研究",
+    "summary": "马丁·赫尔曼与惠特菲尔德·迪菲、拉尔夫·默克尔的研究，为无需预先共享秘密的安全通信开辟了方向。他长期在斯坦福大学任教，参与加密研究公开发表与隐私权讨论，随后把风险分析方法用于核威慑与国际安全。其影响既来自密码学基础，也来自对技术责任的持续关注。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "公钥密码学",
+        "text": "与迪菲合作提出公钥密码思想及密钥交换方法；默克尔的研究也是该领域的重要基础。",
+        "sourceIds": [
+          "paper",
+          "award"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "技术与和平",
+        "text": "将风险分析用于核安全，并推动研究自由和技术伦理讨论。",
+        "sourceIds": [
+          "home",
+          "interview"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国纽约市"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "纽约大学学士（1966）；斯坦福硕士（1967）、博士（1969）"
+      },
+      {
+        "id": "fact-3",
+        "label": "关联机构",
+        "value": "斯坦福大学；曾任职IBM及MIT"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-09-08",
+        "title": "讨论核威慑风险",
+        "text": "在访谈中把密码学的系统思维与核风险、网络安全问题联系起来。",
+        "sourceIds": [
+          "interview"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2016-03-01",
+        "title": "获2015年度图灵奖",
+        "text": "ACM宣布其与惠特菲尔德·迪菲共同获奖，表彰公钥密码学贡献。",
+        "sourceIds": [
+          "award"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2016",
+        "title": "合著关系与和平著作",
+        "text": "与妻子Dorothie出版《A New Map for Relationships》，讨论个人关系与和平。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "1996",
+        "title": "成为斯坦福荣休教授",
+        "text": "结束常规教职，继续研究技术风险与公共议题。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1987",
+        "title": "合编美苏对话著作",
+        "text": "与阿纳托利·葛罗米柯合编《Breakthrough》，推动核时代的和平思考。",
+        "sourceIds": [
+          "home"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1976",
+        "title": "发表密码学新方向",
+        "text": "与迪菲发表论文，提出公钥与数字签名思想及密钥交换方法。",
+        "sourceIds": [
+          "paper"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1971",
+        "title": "加入斯坦福教职",
+        "text": "从MIT返回斯坦福大学，开展电气工程与密码学研究。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1969",
+        "title": "博士毕业并赴MIT",
+        "text": "获得斯坦福电气工程博士，随后担任MIT助理教授。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1966",
+        "title": "获得工程学士",
+        "text": "毕业于纽约大学，随后赴斯坦福深造。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1945-10-02",
+        "title": "出生于纽约",
+        "text": "出生于美国纽约市。",
+        "sourceIds": [
+          "birth",
+          "bio"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Martin Hellman — Stanford profile",
+        "publisher": "Stanford University",
+        "url": "https://profiles.stanford.edu/martin-hellman"
+      },
+      {
+        "id": "home",
+        "title": "Martin E. Hellman — Home page",
+        "publisher": "Stanford University / Martin Hellman",
+        "url": "https://ee.stanford.edu/~hellman/"
+      },
+      {
+        "id": "paper",
+        "title": "New Directions in Cryptography",
+        "publisher": "Whitfield Diffie and Martin E. Hellman / IEEE",
+        "url": "https://ee.stanford.edu/~hellman/publications/24.pdf"
+      },
+      {
+        "id": "award",
+        "title": "Cryptography Pioneers Receive ACM A.M. Turing Award",
+        "publisher": "ACM",
+        "url": "https://awards.acm.org/binaries/content/assets/press-releases/turing-award-2015.pdf"
+      },
+      {
+        "id": "interview",
+        "title": "The Creator of Cryptography Is Now Thinking Nuclear Deterrence",
+        "publisher": "Emmanuel Daniel",
+        "url": "https://www.emmanueldaniel.com/the-man-who-helped-secure-the-internet-is-rethinking-risk/"
+      },
+      {
+        "id": "birth",
+        "title": "Martin Hellman",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Martin_Hellman"
+      }
+    ],
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2026年；不是逐日新闻记录。共同成果按合作者及团队归属表述。",
+    "verifiedAt": "2026-11-13",
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "共同奠定公钥密码学的重要基础，推动安全通信研究并参与技术风险与公共政策讨论。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

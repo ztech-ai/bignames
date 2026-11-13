@@ -41,3 +41,7 @@ highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早
 当代新增档案的 `influence` 包含 `stars`（1—5）、`scope`（`global` / `field` / `regional`）、中文 `rationale`、`assessedAt`、`methodVersion`、`reviewStatus`。评级衡量影响范围，不是道德评价；原有档案允许暂未评级。完整档案与候选名单的星级、范围、中文理由应一致。各语言理由存于译文 `strings["influence.rationale"]`，不在基础数据重复保存外语理由。评级标准见 `data/collections/influence-method.json`。
 
 多语言：`facts`、`highlights`、`timeline` 的每个条目必须有稳定且组内唯一的 `id`。修改内容或调整顺序时保留原 ID；新增条目使用新 ID。人物译文位于 `data/i18n/<语言>/people/<slug>.json`，只翻译展示文字，日期、来源、分类 ID、图片和 `death` 均复用基础数据。详见 `docs/TRANSLATION-CONTRACT.md`。
+
+## 缺失肖像的明确例外
+
+实际照片/画像继续要求 `src`、`alt`、`credit`、`license`、`licenseUrl`、`sourceUrl`。仅经用户明确同意的例外可使用 `{ "kind": "placeholder", "status": "awaiting-permission", "approvedBy": "user", "verifiedAt": "2026-11-13", "reason": "具体原因与确认范围" }`。这种记录禁止包含 `src`、`credit`、`license`、`licenseUrl`、`sourceUrl`，不能把姓名框描述成授权图片。本批仅奥特加适用。列表、详情、许可页及八语无障碍标签统一显示肖像待补；随后取得授权彩照时换成完整照片元数据并重新构建即可。

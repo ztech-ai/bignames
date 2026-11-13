@@ -3,7 +3,8 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 import { validateTranslation, validateUI, validateUISource, sourceStrings } from './i18n-core.mjs';
-import { lifeStatus, safeUrl } from './utils.mjs';
+import { lifeStatus } from './utils.mjs';
+import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 import { fingerprint, packageArtifacts, validateOutputDirectory } from './package.mjs';
 
 const defaultRoot=fileURLToPath(new URL('../',import.meta.url));
@@ -16,18 +17,18 @@ export async function workflowStatus(root=defaultRoot) {
   const base=await readJson(root,`data/i18n/${source}/ui.json`);
   let collection=[];try{collection=(await readJson(root,'data/collections/contemporary-1000.json')).people;}catch(error){if(error.code!=='ENOENT')issue('collection','data/collections/contemporary-1000.json',error);}
   const files=await names(root,'data/people'),published=new Set(),evidence=new Set((await names(root,'data/research/evidence')).map(n=>n.slice(0,-5))),drafts=new Set((await names(root,'data/research/drafts')).map(n=>n.slice(0,-5)));
-  let translations=0,images=0;
+  let translations=0,images=0,pendingPortraits=0;
   for(const locale of locales){const f=`data/i18n/${locale.id}/ui.json`;try{validateUI(base,await readJson(root,f),locale.id);if(locale.id!==source)validateUISource(base,await readJson(root,`data/i18n/${locale.id}/ui-source.json`),locale.id);}catch(error){issue('ui',f,error);}}
   for(const filename of files){
     const f=`data/people/${filename}`;let person;
     try{person=await readJson(root,f);if(filename!==`${person.id}.json`)throw new Error('Filename and person ID differ');sourceStrings(person);lifeStatus(person);for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt'])if(typeof person[key]!=='string'||!person[key].trim())throw new Error(`Missing ${key}`);if(!person.timeline?.length||!person.sources?.length)throw new Error('Missing timeline or sources');published.add(person.id);}catch(error){issue('profile',f,error);continue;}
     const imageFile=`data/images/${person.id}.json`;
-    try{const image=await readJson(root,imageFile);if(!/^assets\/portraits\/[a-z0-9-]+\.(jpg|jpeg|png|webp)$/.test(image.src??'')||!image.credit||!image.alt||!image.license||!safeUrl(image.sourceUrl)||!safeUrl(image.licenseUrl))throw new Error('Missing or invalid portrait provenance');if((await stat(path.join(root,'public',image.src))).size<=1000)throw new Error('Portrait file is missing or too small');images++;}catch(error){issue('image',imageFile,error);}
+    try{const image=await readJson(root,imageFile);validateImageMetadata(image,person.id);if(hasPortrait(image)){if((await stat(path.join(root,'public',image.src))).size<=1000)throw new Error('Portrait file is missing or too small');images++;}else pendingPortraits++;}catch(error){issue('image',imageFile,error);}
     for(const locale of locales.filter(l=>l.id!==source)){const translationFile=`data/i18n/${locale.id}/people/${person.id}.json`;try{validateTranslation(person,await readJson(root,translationFile),locale.id);translations++;}catch(error){issue('translation',translationFile,error);}}
   }
   let pages=0;async function countHtml(dir){try{for(const entry of await readdir(dir,{withFileTypes:true})){if(entry.isDirectory())await countHtml(path.join(dir,entry.name));else if(entry.name.endsWith('.html'))pages++;}}catch(error){if(error.code!=='ENOENT')throw error;}}await countHtml(path.join(root,'dist'));
   const evidencePresent=collection.filter(p=>evidence.has(p.id)).length,draftsPresent=collection.filter(p=>drafts.has(p.id)).length;
-  return {status:problems.length?'attention-needed':'ready-for-verification',counts:{selectedCandidates:collection.length,profileFiles:files.length,enabledLanguages:locales.length,validTranslations:translations,expectedTranslations:files.length*Math.max(0,locales.length-1),validPortraits:images,existingHtmlPages:pages,expectedHtmlPages:(files.length+5)*locales.length,selectedEvidenceFiles:evidencePresent,selectedDraftFiles:draftsPresent,selectedProfiles:collection.filter(p=>published.has(p.id)).length},problems,limitations:['Status is a file and metadata preflight, not a full verification.','Evidence/draft presence is counted without reading the large research payloads; their facts and review status are not certified.','Browser layout, typography and print appearance require visual review.'],modelCalls:0,networkActions:0};
+  return {status:problems.length?'attention-needed':'ready-for-verification',counts:{selectedCandidates:collection.length,profileFiles:files.length,enabledLanguages:locales.length,validTranslations:translations,expectedTranslations:files.length*Math.max(0,locales.length-1),validPortraits:images,pendingPortraits,existingHtmlPages:pages,expectedHtmlPages:(files.length+5)*locales.length,selectedEvidenceFiles:evidencePresent,selectedDraftFiles:draftsPresent,selectedProfiles:collection.filter(p=>published.has(p.id)).length},problems,limitations:['Status is a file and metadata preflight, not a full verification.','Evidence/draft presence is counted without reading the large research payloads; their facts and review status are not certified.','Browser layout, typography and print appearance require visual review.'],modelCalls:0,networkActions:0};
 }
 export function verificationPlan({quick=false}={}) {
   const plan=[{name:'build',command:process.execPath,args:['scripts/build.mjs']},{name:'data-and-links',command:process.execPath,args:['scripts/check.mjs']}];

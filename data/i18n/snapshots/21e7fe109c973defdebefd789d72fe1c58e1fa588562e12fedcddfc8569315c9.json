@@ -1,0 +1,207 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "21e7fe109c973defdebefd789d72fe1c58e1fa588562e12fedcddfc8569315c9",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "yann-lecun",
+    "name": "扬·勒昆",
+    "enName": "Yann LeCun",
+    "aliases": [
+      "Yann LeCun",
+      "扬·勒昆"
+    ],
+    "birth": "1960-07-08",
+    "death": null,
+    "country": "法国 / 美国",
+    "domains": [
+      "technology",
+      "science"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "tags": [
+      "深度学习",
+      "计算机视觉"
+    ],
+    "role": "深度学习先驱 · 计算机视觉与世界模型",
+    "summary": "扬·勒昆推动卷积神经网络从研究走向手写识别等应用，与合作者发展LeNet及基于梯度的学习方法。他在贝尔实验室、纽约大学和FAIR组织研究，并与辛顿、本吉奥共享图灵奖。离开Meta后，他参与创立AMI，研究能够学习物理世界结构的模型；这仍是持续探索中的技术路线。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "卷积网络与识别",
+        "text": "与Bottou、Bengio、Haffner等合作，将卷积网络用于文档与手写识别。",
+        "sourceIds": [
+          "paper",
+          "award"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "长期研究组织",
+        "text": "在学术与产业机构推动机器学习，并把后续研究重点扩展到世界模型。",
+        "sourceIds": [
+          "bio",
+          "ami"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "法国苏瓦西苏蒙莫朗西"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "ESIEE工程师文凭（1983）；巴黎第六大学计算机科学博士（1987）"
+      },
+      {
+        "id": "fact-3",
+        "label": "关联机构",
+        "value": "贝尔实验室；纽约大学；FAIR；AMI"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-03-10",
+        "title": "AMI公布种子轮融资",
+        "text": "其共同创立的AMI宣布融资，支持世界模型研究；融资不等于技术目标已实现。",
+        "sourceIds": [
+          "ami"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2025",
+        "title": "离开Meta",
+        "text": "结束在Meta担任首席AI科学家的阶段，转向新的研究与创业安排。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2019-03-27",
+        "title": "获2018年度图灵奖",
+        "text": "ACM宣布其与杰弗里·辛顿、约书亚·本吉奥共同获奖。",
+        "sourceIds": [
+          "award"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "2013",
+        "title": "创建Facebook AI Research",
+        "text": "担任FAIR创始负责人，组织长期人工智能研究。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "2003",
+        "title": "加入纽约大学",
+        "text": "成为教授，继续研究机器学习、视觉及计算感知。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1998-11",
+        "title": "发表文档识别研究",
+        "text": "与合作者发表梯度学习及卷积网络研究，系统介绍LeNet-5等方法。",
+        "sourceIds": [
+          "paper"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1988",
+        "title": "加入贝尔实验室",
+        "text": "在多伦多博士后研究后，进入AT&T Bell Labs从事神经网络研究。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1987",
+        "title": "获得计算机科学博士",
+        "text": "在巴黎第六大学完成博士，随后赴多伦多大学研究。",
+        "sourceIds": [
+          "birth",
+          "bio"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1983",
+        "title": "获得工程师文凭",
+        "text": "毕业于巴黎ESIEE，接受电子与计算技术训练。",
+        "sourceIds": [
+          "birth"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1960-07-08",
+        "title": "出生于法国",
+        "text": "出生于法国苏瓦西苏蒙莫朗西。",
+        "sourceIds": [
+          "birth"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Yann LeCun — AI at Dartmouth",
+        "publisher": "Dartmouth College",
+        "url": "https://ai.dartmouth.edu/people/yann-lecun"
+      },
+      {
+        "id": "birth",
+        "title": "2022 Princess of Asturias Award — Laureate biographies",
+        "publisher": "Fundación Princesa de Asturias",
+        "url": "https://www.fpa.es/en/area-of-communication-and-media/press-releases/geoffrey-hinton-yann-lecun-yoshua-bengio-and-demis-hassabis-princess-of-asturias-award-for-technical-and-scientific-research/?especifica=0"
+      },
+      {
+        "id": "paper",
+        "title": "Gradient-based Learning Applied to Document Recognition",
+        "publisher": "Proceedings of the IEEE",
+        "url": "https://proceedingsoftheieee.ieee.org/gradient-based-learning-applied-to-document-recognition/"
+      },
+      {
+        "id": "award",
+        "title": "Fathers of the Deep Learning Revolution Receive ACM A.M. Turing Award",
+        "publisher": "ACM",
+        "url": "https://awards.acm.org/binaries/content/assets/press-releases/2019/march/turing-award-2018.pdf"
+      },
+      {
+        "id": "ami",
+        "title": "Ex-Meta AI chief Yann LeCun’s AMI raises $1.03 billion",
+        "publisher": "Reuters",
+        "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/"
+      }
+    ],
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2026年；不是逐日新闻记录。共同成果按合作者及团队归属表述。",
+    "verifiedAt": "2026-11-13",
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "推动卷积神经网络和机器视觉研究，对深度学习系统及其大规模产业应用具有基础性影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}
