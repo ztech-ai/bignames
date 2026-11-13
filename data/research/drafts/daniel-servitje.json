@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "daniel-servitje",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/daniel-servitje.json",
+    "sha256": "5ed0044a93ceedc00cfaac8b9a20c867bc8af496a90a3f8cc5a4717afe96401c",
+    "capturedAt": "2026-11-13T11:26:23Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+      "https://en.wikipedia.org/wiki/Daniel_Servitje",
+      "https://www.wikidata.org/wiki/Q64494491"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q64494491",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Daniel Servitje",
+    "sourceIdentity": {
+      "requestedName": "Daniel Servitje",
+      "requestedTitle": "Daniel Servitje",
+      "resolvedTitle": "Daniel Servitje",
+      "wikidataId": "Q64494491",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-f6e3a08d0fc0e715614a",
+      "property": "P106",
+      "claimId": "Q64494491$7a1a3d8b-dcf5-4e13-8c2a-b783772f873c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 169514,
+                "id": "Q169514"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q169514"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8b7d4fc3ee4769c99d0b",
+      "property": "P27",
+      "claimId": "Q64494491$6d0acaa2-45e0-da1f-60fb-3061c304d58a",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 96,
+          "id": "Q96"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-40ace23959aea8bf4cc2",
+      "property": "P569",
+      "claimId": "Q64494491$38d980d7-b814-4159-85aa-9b0480b6f108",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1959-01-01T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1959"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 169514,
+                "id": "Q169514"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q169514"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1959-01-01T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1959",
+        "earliest": "1959-01-01",
+        "latest": "1959-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-c7d33cdbf4792769eac4",
+      "property": "P19",
+      "claimId": "Q64494491$C753CB2A-C918-470B-889F-01858A0460F0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1489,
+          "id": "Q1489"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b7f516b50099c33419e6",
+      "property": "P69",
+      "claimId": "Q64494491$283dc651-4e3f-41e7-96d4-6f92ed2c7d8d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 41506,
+          "id": "Q41506"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 169514,
+                "id": "Q169514"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q169514"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-94ede512a2e69449998d",
+      "factId": "fact-40ace23959aea8bf4cc2",
+      "claimId": "Q64494491$38d980d7-b814-4159-85aa-9b0480b6f108",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1959",
+      "precision": 9,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1364451178",
+        "https://en.wikipedia.org/wiki/Daniel_Servitje",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q64494491"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "丹尼尔·塞尔维特赫",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "国籍",
+          "value": "墨西哥",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "来源所记出生日期",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "出生地",
+          "value": "墨西哥城",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "就读机构",
+          "value": "史丹佛大學",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1959",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Daniel Servitje",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "Citizenship",
+          "value": "Mexico",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "Source-reported birth date",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "Place of birth",
+          "value": "Mexico City",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "Educational institution",
+          "value": "Stanford University",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1959",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Daniel Servitje",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "Nationalité",
+          "value": "Mexique",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "Lieu de naissance",
+          "value": "Mexico",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "Établissement fréquenté",
+          "value": "Université Stanford",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1959",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Daniel Servitje",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "الجنسية",
+          "value": "المكسيك",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "مكان الميلاد",
+          "value": "مدينة مكسيكو",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ستانفورد",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1959",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Daniel Servitje",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "Staatsangehörigkeit",
+          "value": "Mexiko",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "Geburtsort",
+          "value": "Mexiko-Stadt",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "Bildungseinrichtung",
+          "value": "Stanford University",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1959",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Daniel Servitje",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "国籍",
+          "value": "メキシコ",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "出典に記載された生年月日",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "出生地",
+          "value": "メキシコシティ",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "在籍した教育機関",
+          "value": "スタンフォード大学",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1959",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Daniel Servitje Montull",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "Nacionalidad",
+          "value": "México",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "Lugar de nacimiento",
+          "value": "Ciudad de México",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "Institución educativa",
+          "value": "Universidad Stanford",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1959",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Daniel Servitje",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f6e3a08d0fc0e715614a",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-8b7d4fc3ee4769c99d0b",
+          "label": "국적",
+          "value": "멕시코",
+          "notes": []
+        },
+        {
+          "id": "fact-40ace23959aea8bf4cc2",
+          "label": "출처에 기재된 출생일",
+          "value": "1959",
+          "notes": []
+        },
+        {
+          "id": "fact-c7d33cdbf4792769eac4",
+          "label": "출생지",
+          "value": "멕시코시티",
+          "notes": []
+        },
+        {
+          "id": "fact-b7f516b50099c33419e6",
+          "label": "교육 기관",
+          "value": "스탠퍼드 대학교",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-94ede512a2e69449998d",
+          "factId": "fact-40ace23959aea8bf4cc2",
+          "date": "1959",
+          "precision": 9,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1959",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniel Servitje",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniel Servitje",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniel Servitje",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniel Servitje",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniel Servitje",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 5,
+    "factsWithoutExternalReference": 5,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

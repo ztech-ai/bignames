@@ -1,0 +1,4406 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "ronaldo",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/ronaldo.json",
+    "sha256": "e60e22d108c475538c08d9ef8ba4fd40e67ae8c3c35a62f618249b563b598854",
+    "capturedAt": "2026-11-13T11:26:00Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+      "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+      "https://www.wikidata.org/wiki/Q529207"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q529207",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Ronaldo",
+    "sourceIdentity": {
+      "requestedName": "Ronaldo",
+      "requestedTitle": "Ronaldo (Brazilian footballer)",
+      "resolvedTitle": "Ronaldo (Brazilian footballer)",
+      "wikidataId": "Q529207",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-efc6105d859ecd854111",
+      "property": "P106",
+      "claimId": "q529207$2E387D63-F4B5-40A1-AB62-C2639EF5C204",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 937857,
+          "id": "Q937857"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+2011-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-2bb7e492da56b7370697",
+      "property": "P27",
+      "claimId": "Q529207$DE9159D4-BA75-430B-9FA7-1FB464CD57D7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 155,
+          "id": "Q155"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5ef958846a6c5fc67df1",
+      "property": "P569",
+      "claimId": "q529207$C61B9761-0CE6-481E-AA8A-01B2C42D81FF",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1976-09-22T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1976-09-22"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1340194,
+                "id": "Q1340194"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://global.britannica.com/biography/Ronaldo"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 815748,
+                "id": "Q815748"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 19368470,
+                "id": "Q19368470"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-18"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://global.britannica.com/biography/Ronaldo",
+        "https://www.wikidata.org/wiki/Q1340194",
+        "https://www.wikidata.org/wiki/Q19368470",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q815748"
+      ],
+      "referenceUrls": [
+        "https://global.britannica.com/biography/Ronaldo",
+        "https://www.wikidata.org/wiki/Q1340194",
+        "https://www.wikidata.org/wiki/Q19368470",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q815748"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1976-09-22T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1976-09-22",
+        "earliest": "1976-09-22",
+        "latest": "1976-09-22",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-8867356803c74434dc1e",
+      "property": "P569",
+      "claimId": "Q529207$2894DDF1-77E6-4034-99C5-37EA1C84ADFF",
+      "rank": "preferred",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1976-09-18T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1976-09-18"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1768199,
+                "id": "Q1768199"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://veja.abril.com.br/esporte/ronaldo-um-fenomeno-40-anos-em-40-atos/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Ronaldo, um fenômeno: 40 anos em 40 atos",
+                "language": "pt-br"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-01-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-01-17"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://as.com/futbol/2021/09/23/internacional/1632408257_731451.html"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Ronaldo Nazário cumple los años el 22 de septiembre… ¡y el 18!",
+                "language": "es"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-09-24T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-09-24"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-01-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-01-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://as.com/futbol/2021/09/23/internacional/1632408257_731451.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://veja.abril.com.br/esporte/ronaldo-um-fenomeno-40-anos-em-40-atos/",
+        "https://www.wikidata.org/wiki/Q1768199",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [
+        "https://as.com/futbol/2021/09/23/internacional/1632408257_731451.html",
+        "https://veja.abril.com.br/esporte/ronaldo-um-fenomeno-40-anos-em-40-atos/",
+        "https://www.wikidata.org/wiki/Q1768199"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1976-09-18T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1976-09-18",
+        "earliest": "1976-09-18",
+        "latest": "1976-09-18",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-7c59c8417a9771b82f51",
+      "property": "P19",
+      "claimId": "Q529207$616B0233-4849-4972-B895-990C009A1679",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 730437,
+          "id": "Q730437"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.msn.com/es-es/deportes/futbol/la-incre%C3%ADble-historia-de-ronaldo-naz%C3%A1rio-de-lima/ss-AA16uK9F"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.elmundo.es/especiales/2002/09/deportes/ronaldo/miercoles.html"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.kodromagazine.com/ronaldo-nazario-origen/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.elmundo.es/especiales/2002/09/deportes/ronaldo/miercoles.html",
+        "https://www.kodromagazine.com/ronaldo-nazario-origen/",
+        "https://www.msn.com/es-es/deportes/futbol/la-incre%C3%ADble-historia-de-ronaldo-naz%C3%A1rio-de-lima/ss-AA16uK9F",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [
+        "https://www.elmundo.es/especiales/2002/09/deportes/ronaldo/miercoles.html",
+        "https://www.kodromagazine.com/ronaldo-nazario-origen/",
+        "https://www.msn.com/es-es/deportes/futbol/la-incre%C3%ADble-historia-de-ronaldo-naz%C3%A1rio-de-lima/ss-AA16uK9F"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8abd8d706f354f1e0c95",
+      "property": "P19",
+      "claimId": "Q529207$D5266543-916F-40CC-A4EF-E05C8F58E600",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 8678,
+          "id": "Q8678"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-18"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-06fb6dbca766b4974b1c",
+      "property": "P166",
+      "claimId": "Q529207$f76b23cf-4b08-c240-c2e9-afdb415bad87",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 233454,
+          "id": "Q233454"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2f5a3fba0c34a64cf3ec",
+      "property": "P166",
+      "claimId": "Q529207$98b031d2-4ff7-1132-a288-4c68296f7ab3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 554495,
+          "id": "Q554495"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-31711a251a61a471316e",
+      "property": "P166",
+      "claimId": "Q529207$a188280f-446b-8c40-4925-0c8ee6de15c9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 83710,
+          "id": "Q83710"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2006-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2006"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2006-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2006",
+          "earliest": "2006-01-01",
+          "latest": "2006-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6ab033e704fe985a8fab",
+      "property": "P166",
+      "claimId": "Q529207$7BFA3FFC-19F9-47BC-9D80-3492E93BBF61",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 166177,
+          "id": "Q166177"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2002-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2002"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2002-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2002",
+          "earliest": "2002-01-01",
+          "latest": "2002-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-804f89ff0cf8889e3eea",
+      "property": "P166",
+      "claimId": "Q529207$90636c2d-40a5-2b32-522b-f8dcd7e2a65f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3494048,
+          "id": "Q3494048"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2002-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2002"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2002-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2002",
+          "earliest": "2002-01-01",
+          "latest": "2002-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-90e0bbd10a74b7b2bf0a",
+      "property": "P166",
+      "claimId": "Q529207$e68d1ea1-4bcb-235b-a739-35a0cc1ccc4e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 729513,
+          "id": "Q729513"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-96e41fca6a29fcb71db8",
+      "property": "P166",
+      "claimId": "Q529207$03a767ef-4f5e-5bd7-ddaf-cd5bbbc3c267",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 17355204,
+          "id": "Q17355204"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://de.fifa.com/worldcup/awards/golden-ball/intro.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://de.fifa.com/worldcup/awards/golden-ball/intro.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [
+        "http://de.fifa.com/worldcup/awards/golden-ball/intro.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1998-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-af30768975da1a23517e",
+      "property": "P166",
+      "claimId": "Q529207$76e60816-4988-3d5f-0ded-c52820d8afd0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1187699,
+          "id": "Q1187699"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b02d07854c568c23cb0e",
+      "property": "P166",
+      "claimId": "Q529207$43bac01d-4010-61dd-3d4b-3d3bdcbbdc5f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 101116082,
+          "id": "Q101116082"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2020-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020",
+          "earliest": "2020-01-01",
+          "latest": "2020-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-de2b49f6089537e4237c",
+      "property": "P166",
+      "claimId": "Q529207$70b294e0-40f6-2aa7-536b-58bcd4cf89d3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 182529,
+          "id": "Q182529"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2002-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2002"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2002-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2002",
+          "earliest": "2002-01-01",
+          "latest": "2002-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e2aabc8348528ec17803",
+      "property": "P166",
+      "claimId": "Q529207$5b6a403d-46c5-a7c0-0ab3-7bdca9725f27",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1847685,
+          "id": "Q1847685"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fd1c95f2315a4bdb4f06",
+      "property": "P856",
+      "claimId": "Q529207$5837ED63-F2C3-4C34-8B01-2CC67CEB542E",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://www.ronaldo.com/"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-36386386061c2ecac669",
+      "property": "P2031",
+      "claimId": "Q529207$0C4CB975-D572-4A04-A874-8BB2061D6CEE",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1992-05-25T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1992-05-25"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1992-05-25T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1992-05-25",
+        "earliest": "1992-05-25",
+        "latest": "1992-05-25",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-ea3e091cca253c7b77ad",
+      "property": "P2032",
+      "claimId": "Q529207$ADB76233-B395-403A-AF24-01DBE7BD4E24",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+2011-02-14T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "2011-02-14"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+2011-02-14T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "2011-02-14",
+        "earliest": "2011-02-14",
+        "latest": "2011-02-14",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-24ddb0f05d7dc8271239",
+      "factId": "fact-b02d07854c568c23cb0e",
+      "claimId": "Q529207$43bac01d-4010-61dd-3d4b-3d3bdcbbdc5f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2020",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-caba8feca9fd627c65b2",
+      "factId": "fact-e2aabc8348528ec17803",
+      "claimId": "Q529207$5b6a403d-46c5-a7c0-0ab3-7bdca9725f27",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-818e78dc73ad7afb6834",
+      "factId": "fact-31711a251a61a471316e",
+      "claimId": "Q529207$a188280f-446b-8c40-4925-0c8ee6de15c9",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2006",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-0ccbefedc9244873741a",
+      "factId": "fact-90e0bbd10a74b7b2bf0a",
+      "claimId": "Q529207$e68d1ea1-4bcb-235b-a739-35a0cc1ccc4e",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2004",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-67e7533858fb9710641e",
+      "factId": "fact-804f89ff0cf8889e3eea",
+      "claimId": "Q529207$90636c2d-40a5-2b32-522b-f8dcd7e2a65f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2002",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-adc9b58416b5d1240a87",
+      "factId": "fact-de2b49f6089537e4237c",
+      "claimId": "Q529207$70b294e0-40f6-2aa7-536b-58bcd4cf89d3",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2002",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-dab83d4fc102cb0ae70c",
+      "factId": "fact-6ab033e704fe985a8fab",
+      "claimId": "Q529207$7BFA3FFC-19F9-47BC-9D80-3492E93BBF61",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2002",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-1be5645d22083ac9de11",
+      "factId": "fact-2f5a3fba0c34a64cf3ec",
+      "claimId": "Q529207$98b031d2-4ff7-1132-a288-4c68296f7ab3",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1998",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-777d4d86f6cef60c2472",
+      "factId": "fact-96e41fca6a29fcb71db8",
+      "claimId": "Q529207$03a767ef-4f5e-5bd7-ddaf-cd5bbbc3c267",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1998",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "http://de.fifa.com/worldcup/awards/golden-ball/intro.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9fe97399b00ec219b3bd",
+      "factId": "fact-af30768975da1a23517e",
+      "claimId": "Q529207$76e60816-4988-3d5f-0ded-c52820d8afd0",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1998",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-06101be471c928329b14",
+      "factId": "fact-06fb6dbca766b4974b1c",
+      "claimId": "Q529207$f76b23cf-4b08-c240-c2e9-afdb415bad87",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-395306e9c3ae820cd64c",
+      "factId": "fact-90e0bbd10a74b7b2bf0a",
+      "claimId": "Q529207$e68d1ea1-4bcb-235b-a739-35a0cc1ccc4e",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4a75aeeed86d998c7840",
+      "factId": "fact-de2b49f6089537e4237c",
+      "claimId": "Q529207$70b294e0-40f6-2aa7-536b-58bcd4cf89d3",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8af7caecc729435c2932",
+      "factId": "fact-6ab033e704fe985a8fab",
+      "claimId": "Q529207$7BFA3FFC-19F9-47BC-9D80-3492E93BBF61",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d044f573eb261405a19b",
+      "factId": "fact-2f5a3fba0c34a64cf3ec",
+      "claimId": "Q529207$98b031d2-4ff7-1132-a288-4c68296f7ab3",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9266235b913377549f01",
+      "factId": "fact-de2b49f6089537e4237c",
+      "claimId": "Q529207$70b294e0-40f6-2aa7-536b-58bcd4cf89d3",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1996",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-46d870734e20fdde9c65",
+      "factId": "fact-5ef958846a6c5fc67df1",
+      "claimId": "q529207$C61B9761-0CE6-481E-AA8A-01B2C42D81FF",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1976-09-22",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://global.britannica.com/biography/Ronaldo",
+        "https://www.wikidata.org/wiki/Q1340194",
+        "https://www.wikidata.org/wiki/Q19368470",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q529207",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q815748"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f304ad705b0daf0f6738",
+      "factId": "fact-8867356803c74434dc1e",
+      "claimId": "Q529207$2894DDF1-77E6-4034-99C5-37EA1C84ADFF",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1976-09-18",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://as.com/futbol/2021/09/23/internacional/1632408257_731451.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1383866847",
+        "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
+        "https://veja.abril.com.br/esporte/ronaldo-um-fenomeno-40-anos-em-40-atos/",
+        "https://www.wikidata.org/wiki/Q1768199",
+        "https://www.wikidata.org/wiki/Q529207"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "罗纳尔多",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "职业",
+          "value": "足球运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "国籍",
+          "value": "巴西",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "来源所记出生日期",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "来源所记出生日期",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "出生地",
+          "value": "伊塔瓜伊",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "出生地",
+          "value": "里约热内卢",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "奖项",
+          "value": "歐洲金靴獎",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "奖项",
+          "value": "英勇獎",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "奖项",
+          "value": "金足奖",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "奖项",
+          "value": "金球奖",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "奖项",
+          "value": "BBC年度最佳海外運動員獎",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "奖项",
+          "value": "皮奇奇獎",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "奖项",
+          "value": "世界杯金球奖",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "奖项",
+          "value": "UEFA Club Footballer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "奖项",
+          "value": "Ballon d'Or Dream Team",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "奖项",
+          "value": "国际足联年度世界最佳球员",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "奖项",
+          "value": "意大利足球名人堂",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "官方网站",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "活动开始日期",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "活动结束日期",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Ballon d'Or Dream Team",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 意大利足球名人堂",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金足奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 皮奇奇獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: BBC年度最佳海外運動員獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 国际足联年度世界最佳球员",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金球奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 英勇獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 世界杯金球奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: UEFA Club Footballer of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 歐洲金靴獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 皮奇奇獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 国际足联年度世界最佳球员",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金球奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 英勇獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 国际足联年度世界最佳球员",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1976-09-22",
+          "text": "来源记载出生日期",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1976-09-18",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Ronaldo",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "Occupation",
+          "value": "association football player",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "Citizenship",
+          "value": "Brazil",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "Source-reported birth date",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "Source-reported birth date",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "Place of birth",
+          "value": "Itaguaí",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "Place of birth",
+          "value": "Rio de Janeiro",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "Award",
+          "value": "European Golden Shoe",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "Award",
+          "value": "Bravo Award",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "Award",
+          "value": "Golden Foot",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "Award",
+          "value": "Ballon d'Or",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "Award",
+          "value": "BBC World Sport Star of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "Award",
+          "value": "Pichichi Trophy",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "Award",
+          "value": "World Cup Golden Ball",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "Award",
+          "value": "UEFA Club Footballer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "Award",
+          "value": "Ballon d'Or Dream Team",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "Award",
+          "value": "FIFA World Player of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "Award",
+          "value": "Italian Football Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "Official website",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "Activity start date",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "Activity end date",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Ballon d'Or Dream Team",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Italian Football Hall of Fame",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Golden Foot",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Pichichi Trophy",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: BBC World Sport Star of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: FIFA World Player of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Ballon d'Or",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Bravo Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: World Cup Golden Ball",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: UEFA Club Footballer of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: European Golden Shoe",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Pichichi Trophy",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: FIFA World Player of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Ballon d'Or",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Bravo Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: FIFA World Player of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1976-09-22",
+          "text": "Birth date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1976-09-18",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Ronaldo",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "Profession",
+          "value": "footballeur ou footballeuse",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "Nationalité",
+          "value": "Brésil",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "Lieu de naissance",
+          "value": "Itaguaí",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "Lieu de naissance",
+          "value": "Rio de Janeiro",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "Distinction",
+          "value": "Soulier d'or européen",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "Distinction",
+          "value": "trophée Bravo",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "Distinction",
+          "value": "Golden Foot",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "Distinction",
+          "value": "Ballon d'or",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "Distinction",
+          "value": "Sportif international de l'année",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "Distinction",
+          "value": "trophée Pichichi",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "Distinction",
+          "value": "Ballon d'or de la Coupe du monde",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "Distinction",
+          "value": "UEFA Club Footballer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "Distinction",
+          "value": "Ballon d'Or Dream Team",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "Distinction",
+          "value": "Meilleur footballeur de l'année FIFA",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "Distinction",
+          "value": "Temple de la renommée du football italien",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "Site officiel",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "Date de début d'activité",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "Date de fin d'activité",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Ballon d'Or Dream Team",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Temple de la renommée du football italien",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Golden Foot",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: trophée Pichichi",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Sportif international de l'année",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Meilleur footballeur de l'année FIFA",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Ballon d'or",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: trophée Bravo",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Ballon d'or de la Coupe du monde",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: UEFA Club Footballer of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Soulier d'or européen",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: trophée Pichichi",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Meilleur footballeur de l'année FIFA",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Ballon d'or",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: trophée Bravo",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Meilleur footballeur de l'année FIFA",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1976-09-22",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1976-09-18",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "رونالدو",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "المهنة",
+          "value": "لاعب كرة قدم",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "الجنسية",
+          "value": "البرازيل",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "مكان الميلاد",
+          "value": "إيتاغواي",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "مكان الميلاد",
+          "value": "ريو دي جانيرو",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "الجائزة",
+          "value": "جائزة الحذاء الذهبي الأوروبي",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "الجائزة",
+          "value": "جائزة برافو",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "الجائزة",
+          "value": "جائزة القدم الذهبية",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "الجائزة",
+          "value": "جائزة الكرة الذهبية",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "الجائزة",
+          "value": "شخصية بي بي سي الرياضية نجم الرياضة العالمية لهذا العام",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "الجائزة",
+          "value": "جائزة بيتشيشي",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "الجائزة",
+          "value": "كرة أديداس الذهبية",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "الجائزة",
+          "value": "جائزة اليويفا لأفضل لاعب",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "الجائزة",
+          "value": "فريق الأحلام لجائزة الكرة الذهبية",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "الجائزة",
+          "value": "جائزة أفضل لاعب كرة قدم في العالم",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "الجائزة",
+          "value": "قاعة مشاهير كرة القدم الإيطالية",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "الموقع الرسمي",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "تاريخ بدء النشاط",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "تاريخ انتهاء النشاط",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: فريق الأحلام لجائزة الكرة الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: قاعة مشاهير كرة القدم الإيطالية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة القدم الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة بيتشيشي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: شخصية بي بي سي الرياضية نجم الرياضة العالمية لهذا العام",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة أفضل لاعب كرة قدم في العالم",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الكرة الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة برافو",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: كرة أديداس الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة اليويفا لأفضل لاعب",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الحذاء الذهبي الأوروبي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة بيتشيشي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة أفضل لاعب كرة قدم في العالم",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الكرة الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة برافو",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة أفضل لاعب كرة قدم في العالم",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1976-09-22",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1976-09-18",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Ronaldo",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "Beruf",
+          "value": "Fußballspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "Staatsangehörigkeit",
+          "value": "Brasilien",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "Geburtsort",
+          "value": "Itaguaí",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "Geburtsort",
+          "value": "Rio de Janeiro",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "Auszeichnung",
+          "value": "Goldener Schuh",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "Auszeichnung",
+          "value": "Trofeo Bravo",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "Auszeichnung",
+          "value": "Golden Foot",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "Auszeichnung",
+          "value": "Ballon d’Or",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "Auszeichnung",
+          "value": "BBC Overseas Sports Personality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "Auszeichnung",
+          "value": "Pichichi-Trophäe",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "Auszeichnung",
+          "value": "Adidas Golden Ball",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "Auszeichnung",
+          "value": "UEFA Club Footballer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "Auszeichnung",
+          "value": "Ballon d’Or Dream Team",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "Auszeichnung",
+          "value": "FIFA-Weltfußballer des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "Auszeichnung",
+          "value": "Italienische Hall of Fame des Fußballs",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "Offizielle Website",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "Beginn der Tätigkeit",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "Ende der Tätigkeit",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Ballon d’Or Dream Team",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Italienische Hall of Fame des Fußballs",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Golden Foot",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Pichichi-Trophäe",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: BBC Overseas Sports Personality of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: FIFA-Weltfußballer des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Ballon d’Or",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Trofeo Bravo",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Adidas Golden Ball",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: UEFA Club Footballer of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Goldener Schuh",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Pichichi-Trophäe",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: FIFA-Weltfußballer des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Ballon d’Or",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Trofeo Bravo",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: FIFA-Weltfußballer des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1976-09-22",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1976-09-18",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ロナウド",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "職業",
+          "value": "サッカー選手",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "国籍",
+          "value": "ブラジル",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "出典に記載された生年月日",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "出典に記載された生年月日",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "出生地",
+          "value": "イタグアイ",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "出生地",
+          "value": "リオデジャネイロ",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "受賞",
+          "value": "ヨーロッパ・ゴールデンシュー",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "受賞",
+          "value": "ブラヴォー賞",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "受賞",
+          "value": "ゴールデンフット賞",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "受賞",
+          "value": "バロンドール",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "受賞",
+          "value": "BBC World Sport Star of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "受賞",
+          "value": "ピチーチ賞",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "受賞",
+          "value": "World Cup Golden Ball",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "受賞",
+          "value": "UEFA年間最優秀選手",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "受賞",
+          "value": "バロンドール・ドリームチーム",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "受賞",
+          "value": "FIFA最優秀選手賞",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "受賞",
+          "value": "イタリアサッカー殿堂",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "公式サイト",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "活動開始日",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "活動終了日",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: バロンドール・ドリームチーム",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: イタリアサッカー殿堂",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ゴールデンフット賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ピチーチ賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: BBC World Sport Star of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: FIFA最優秀選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: バロンドール",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ブラヴォー賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: World Cup Golden Ball",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: UEFA年間最優秀選手",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ヨーロッパ・ゴールデンシュー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ピチーチ賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: FIFA最優秀選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: バロンドール",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ブラヴォー賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: FIFA最優秀選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1976-09-22",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1976-09-18",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Ronaldo",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "Ocupación",
+          "value": "futbolista",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "Nacionalidad",
+          "value": "Brasil",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "Lugar de nacimiento",
+          "value": "Itaguaí",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "Lugar de nacimiento",
+          "value": "Río de Janeiro",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "Distinción",
+          "value": "Bota de Oro",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "Distinción",
+          "value": "Trofeo Bravo",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "Distinción",
+          "value": "Premio Golden Foot",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "Distinción",
+          "value": "Balón de Oro",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "Distinción",
+          "value": "BBC World Sport Star of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "Distinción",
+          "value": "Trofeo Pichichi",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "Distinción",
+          "value": "Balón de oro de la Copa del mundo",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "Distinción",
+          "value": "UEFA Club Footballer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "Distinción",
+          "value": "Dream Team del Balón de Oro",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "Distinción",
+          "value": "Jugador Mundial de la FIFA",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "Distinción",
+          "value": "Salón de la Fama del fútbol italiano",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "Sitio web oficial",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "Inicio de actividad",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "Fin de actividad",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Dream Team del Balón de Oro",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Salón de la Fama del fútbol italiano",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Golden Foot",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Trofeo Pichichi",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: BBC World Sport Star of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Jugador Mundial de la FIFA",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Balón de Oro",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Trofeo Bravo",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Balón de oro de la Copa del mundo",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: UEFA Club Footballer of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Bota de Oro",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Trofeo Pichichi",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Jugador Mundial de la FIFA",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Balón de Oro",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Trofeo Bravo",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Jugador Mundial de la FIFA",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1976-09-22",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1976-09-18",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "호나우두",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-efc6105d859ecd854111",
+          "label": "직업",
+          "value": "축구 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-2bb7e492da56b7370697",
+          "label": "국적",
+          "value": "브라질",
+          "notes": []
+        },
+        {
+          "id": "fact-5ef958846a6c5fc67df1",
+          "label": "출처에 기재된 출생일",
+          "value": "1976-09-22",
+          "notes": []
+        },
+        {
+          "id": "fact-8867356803c74434dc1e",
+          "label": "출처에 기재된 출생일",
+          "value": "1976-09-18",
+          "notes": []
+        },
+        {
+          "id": "fact-7c59c8417a9771b82f51",
+          "label": "출생지",
+          "value": "이타구아이",
+          "notes": []
+        },
+        {
+          "id": "fact-8abd8d706f354f1e0c95",
+          "label": "출생지",
+          "value": "리우데자네이루",
+          "notes": []
+        },
+        {
+          "id": "fact-06fb6dbca766b4974b1c",
+          "label": "수상",
+          "value": "유러피언 골든슈",
+          "notes": []
+        },
+        {
+          "id": "fact-2f5a3fba0c34a64cf3ec",
+          "label": "수상",
+          "value": "브라보상",
+          "notes": []
+        },
+        {
+          "id": "fact-31711a251a61a471316e",
+          "label": "수상",
+          "value": "Golden Foot",
+          "notes": []
+        },
+        {
+          "id": "fact-6ab033e704fe985a8fab",
+          "label": "수상",
+          "value": "발롱도르",
+          "notes": []
+        },
+        {
+          "id": "fact-804f89ff0cf8889e3eea",
+          "label": "수상",
+          "value": "BBC World Sport Star of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-90e0bbd10a74b7b2bf0a",
+          "label": "수상",
+          "value": "피치치",
+          "notes": []
+        },
+        {
+          "id": "fact-96e41fca6a29fcb71db8",
+          "label": "수상",
+          "value": "World Cup Golden Ball",
+          "notes": []
+        },
+        {
+          "id": "fact-af30768975da1a23517e",
+          "label": "수상",
+          "value": "UEFA 올해의 클럽 축구 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-b02d07854c568c23cb0e",
+          "label": "수상",
+          "value": "Ballon d'Or Dream Team",
+          "notes": []
+        },
+        {
+          "id": "fact-de2b49f6089537e4237c",
+          "label": "수상",
+          "value": "FIFA 올해의 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-e2aabc8348528ec17803",
+          "label": "수상",
+          "value": "Italian Football Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-fd1c95f2315a4bdb4f06",
+          "label": "공식 웹사이트",
+          "value": "http://www.ronaldo.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-36386386061c2ecac669",
+          "label": "활동 시작일",
+          "value": "1992-05-25",
+          "notes": []
+        },
+        {
+          "id": "fact-ea3e091cca253c7b77ad",
+          "label": "활동 종료일",
+          "value": "2011-02-14",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-24ddb0f05d7dc8271239",
+          "factId": "fact-b02d07854c568c23cb0e",
+          "date": "2020",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Ballon d'Or Dream Team",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-caba8feca9fd627c65b2",
+          "factId": "fact-e2aabc8348528ec17803",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Italian Football Hall of Fame",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-818e78dc73ad7afb6834",
+          "factId": "fact-31711a251a61a471316e",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Golden Foot",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-0ccbefedc9244873741a",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 피치치",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-67e7533858fb9710641e",
+          "factId": "fact-804f89ff0cf8889e3eea",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: BBC World Sport Star of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-adc9b58416b5d1240a87",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: FIFA 올해의 선수",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-dab83d4fc102cb0ae70c",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 발롱도르",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-1be5645d22083ac9de11",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 브라보상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-777d4d86f6cef60c2472",
+          "factId": "fact-96e41fca6a29fcb71db8",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: World Cup Golden Ball",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9fe97399b00ec219b3bd",
+          "factId": "fact-af30768975da1a23517e",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: UEFA 올해의 클럽 축구 선수",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-06101be471c928329b14",
+          "factId": "fact-06fb6dbca766b4974b1c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 유러피언 골든슈",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-395306e9c3ae820cd64c",
+          "factId": "fact-90e0bbd10a74b7b2bf0a",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 피치치",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4a75aeeed86d998c7840",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: FIFA 올해의 선수",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8af7caecc729435c2932",
+          "factId": "fact-6ab033e704fe985a8fab",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 발롱도르",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-d044f573eb261405a19b",
+          "factId": "fact-2f5a3fba0c34a64cf3ec",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 브라보상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9266235b913377549f01",
+          "factId": "fact-de2b49f6089537e4237c",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: FIFA 올해의 선수",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-46d870734e20fdde9c65",
+          "factId": "fact-5ef958846a6c5fc67df1",
+          "date": "1976-09-22",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1976-09-22",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        },
+        {
+          "id": "event-f304ad705b0daf0f6738",
+          "factId": "fact-8867356803c74434dc1e",
+          "date": "1976-09-18",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1976-09-18",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "de",
+        "key": "Q1187699"
+      },
+      {
+        "locale": "es",
+        "key": "Q3494048"
+      },
+      {
+        "locale": "fr",
+        "key": "Q1187699"
+      },
+      {
+        "locale": "ja",
+        "key": "Q17355204"
+      },
+      {
+        "locale": "ja",
+        "key": "Q3494048"
+      },
+      {
+        "locale": "ko",
+        "key": "Q101116082"
+      },
+      {
+        "locale": "ko",
+        "key": "Q17355204"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1847685"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3494048"
+      },
+      {
+        "locale": "ko",
+        "key": "Q83710"
+      },
+      {
+        "locale": "zh",
+        "key": "Q101116082"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1187699"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "de",
+        "key": "Q1187699",
+        "fallbackLocale": "en",
+        "value": "UEFA Club Footballer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q3494048",
+        "fallbackLocale": "en",
+        "value": "BBC World Sport Star of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q1187699",
+        "fallbackLocale": "en",
+        "value": "UEFA Club Footballer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q17355204",
+        "fallbackLocale": "en",
+        "value": "World Cup Golden Ball",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q3494048",
+        "fallbackLocale": "en",
+        "value": "BBC World Sport Star of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q101116082",
+        "fallbackLocale": "en",
+        "value": "Ballon d'Or Dream Team",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q17355204",
+        "fallbackLocale": "en",
+        "value": "World Cup Golden Ball",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1847685",
+        "fallbackLocale": "en",
+        "value": "Italian Football Hall of Fame",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3494048",
+        "fallbackLocale": "en",
+        "value": "BBC World Sport Star of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q83710",
+        "fallbackLocale": "en",
+        "value": "Golden Foot",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q101116082",
+        "fallbackLocale": "en",
+        "value": "Ballon d'Or Dream Team",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1187699",
+        "fallbackLocale": "en",
+        "value": "UEFA Club Footballer of the Year",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 18,
+    "professionalEventCount": 16,
+    "factCount": 20,
+    "factsWithoutExternalReference": 16,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

@@ -1,0 +1,3847 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "peter-diamond",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/peter-diamond.json",
+    "sha256": "74e53d7064691a4d1df6596ff59fe3dc94a7c8ccfd635a1b571e565a11bf0ea2",
+    "capturedAt": "2026-11-13T11:25:52Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+      "https://en.wikipedia.org/wiki/Peter_Diamond",
+      "https://www.wikidata.org/wiki/Q109570"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q109570",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Peter Diamond",
+    "sourceIdentity": {
+      "requestedName": "Peter Diamond",
+      "requestedTitle": "Peter Diamond",
+      "resolvedTitle": "Peter Diamond",
+      "wikidataId": "Q109570",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1be331e944fc2f36e9a4",
+      "property": "P106",
+      "claimId": "q109570$DE3A2249-CFA4-4DF0-A578-A4A43510E768",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 188094,
+          "id": "Q188094"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-06-25T00:00:00Z",
+                "timezone": 60,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015-06-25"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-86846d0fc8a8b350840f",
+      "property": "P106",
+      "claimId": "Q109570$B1EFFEDC-5BA7-470F-B3B5-FA4C95AE8401",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 121594,
+          "id": "Q121594"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://finance.fortune.cnn.com/2011/02/10/fed-finds-itself-shorthanded-again/"
+            },
+            {
+              "type": "string",
+              "value": "https://fortune.com/2011/02/10/fed-finds-itself-shorthanded-again/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Fed finds itself shorthanded -- again",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2011-02-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2011-02-10"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.c-span.org/video/?180310-1/saving-social-security"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Saving Social Security",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2004-01-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2004-01-29"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://finance.fortune.cnn.com/2011/02/10/fed-finds-itself-shorthanded-again/",
+        "http://www.c-span.org/video/?180310-1/saving-social-security",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://fortune.com/2011/02/10/fed-finds-itself-shorthanded-again/",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [
+        "http://finance.fortune.cnn.com/2011/02/10/fed-finds-itself-shorthanded-again/",
+        "http://www.c-span.org/video/?180310-1/saving-social-security",
+        "https://fortune.com/2011/02/10/fed-finds-itself-shorthanded-again/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-973c3d31b21923253edd",
+      "property": "P106",
+      "claimId": "Q109570$46929D68-6F16-4576-92D9-4EC0E7C1C22F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1622272,
+          "id": "Q1622272"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a02a41e87f3a56744af1",
+      "property": "P27",
+      "claimId": "q109570$993B15E7-400C-4173-9880-C789986D3356",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.bbc.co.uk/news/business-11515509"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Nobel prize for economics awarded to trio of academics",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-10-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010-10-11"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.nytimes.com/ref/opinion/17opclassic.html"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Few Olympic Medals? Who Cares?",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1988-03-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1988-03-06"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.bbc.co.uk/news/business-11515509",
+        "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond",
+        "http://www.nytimes.com/ref/opinion/17opclassic.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceUrls": [
+        "http://www.bbc.co.uk/news/business-11515509",
+        "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond",
+        "http://www.nytimes.com/ref/opinion/17opclassic.html",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6c87d3a577931d580233",
+      "property": "P569",
+      "claimId": "q109570$4D7526AD-A818-4521-BD2B-7825AD27E54B",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1940-04-29T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1940-04-29"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.nndb.com/lists/496/000063307/"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2010/diamond-facts.html"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Peter A. Diamond Facts",
+                "language": "en"
+              }
+            }
+          ],
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 23684016,
+                "id": "Q23684016"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 29861311,
+                "id": "Q29861311"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 107343683,
+                "id": "Q107343683"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond",
+        "http://www.nndb.com/lists/496/000063307/",
+        "http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2010/diamond-facts.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q23684016",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceUrls": [
+        "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond",
+        "http://www.nndb.com/lists/496/000063307/",
+        "http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2010/diamond-facts.html",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q23684016",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1940-04-29T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1940-04-29",
+        "earliest": "1940-04-29",
+        "latest": "1940-04-29",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-f530a3af2d8331e85837",
+      "property": "P19",
+      "claimId": "q109570$C836859B-99B3-4EF5-B003-B50F2C7D00E7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60,
+          "id": "Q60"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://dspace.mit.edu/bitstream/handle/1721.1/59420/33490193.pdf?sequence=1"
+            }
+          ],
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 100274631,
+                "id": "Q100274631"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 100274840,
+                "id": "Q100274840"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://dspace.mit.edu/bitstream/handle/1721.1/59420/33490193.pdf?sequence=1",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q100274631",
+        "https://www.wikidata.org/wiki/Q100274840",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "http://dspace.mit.edu/bitstream/handle/1721.1/59420/33490193.pdf?sequence=1",
+        "https://www.wikidata.org/wiki/Q100274631",
+        "https://www.wikidata.org/wiki/Q100274840",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-006023a11293341e643c",
+      "property": "P69",
+      "claimId": "Q109570$A0AA0D3D-2E88-4C1F-9677-1FAE3CE9F354",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49112,
+          "id": "Q49112"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-4b19fc634114db3801f2",
+      "property": "P69",
+      "claimId": "Q109570$09BB33D5-31AB-4A3A-8747-E877AB433EDD",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 6504154,
+          "id": "Q6504154"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c23a92416d88fc72aa66",
+      "property": "P69",
+      "claimId": "Q109570$78035425-22E8-4ED5-85BA-1FDCB357E0AC",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49108,
+          "id": "Q49108"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1963-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1963"
+          }
+        ],
+        "P512": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 752297,
+              "id": "Q752297"
+            }
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+1963-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1963",
+          "earliest": "1963-01-01",
+          "latest": "1963-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-07f01c790dbf1e5e63f6",
+      "property": "P108",
+      "claimId": "Q109570$6B4083A5-0F87-4127-BD79-C9B35319E759",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49108,
+          "id": "Q49108"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-9c32faf69da8e40395e0",
+      "property": "P108",
+      "claimId": "Q109570$3A6EE77F-F338-460E-9731-64116DB9A861",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168756,
+          "id": "Q168756"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-4e3046bb4f5194ad5ee3",
+      "property": "P39",
+      "claimId": "Q109570$759c700c-b976-4e96-b46f-a223f85cda01",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30461,
+          "id": "Q30461"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 199698,
+                "id": "Q199698"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q199698"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q199698"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0f973a0daeb29c71ec7e",
+      "property": "P166",
+      "claimId": "Q109570$BBA98C01-FD84-496C-A4E3-105C4A67DE45",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 59766840,
+          "id": "Q59766840"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1968-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1968"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.econometricsociety.org/society/organization-and-governance/fellows/current"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-04-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-04-06"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.econometricsociety.org/society/organization-and-governance/fellows/current",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [
+        "https://www.econometricsociety.org/society/organization-and-governance/fellows/current"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1968-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-3701474a39c57241a41e",
+      "property": "P166",
+      "claimId": "Q109570$DFA6B2A5-1260-4D4B-B85D-095AD67DA92B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 47170,
+          "id": "Q47170"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2010",
+                "language": "en"
+              }
+            }
+          ],
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 23684016,
+                "id": "Q23684016"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-02-03T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-02-03"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q23684016"
+      ],
+      "referenceUrls": [
+        "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+        "https://www.wikidata.org/wiki/Q23684016"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2010-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-38042d26a2a9bfce59c4",
+      "property": "P166",
+      "claimId": "Q109570$1BD03B84-DB7A-4DD9-9F7B-842695C971B7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5454750,
+          "id": "Q5454750"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-51206ba686b059c07d1f",
+      "property": "P166",
+      "claimId": "Q109570$B0DFF8CB-9B62-48B3-8466-37C554538CDE",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 52382875,
+          "id": "Q52382875"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6746b524e70d357e7096",
+      "property": "P166",
+      "claimId": "Q109570$EDCF9B56-3B2F-4FD0-8F2F-2BC6C6877ADC",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1316544,
+          "id": "Q1316544"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1965-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1965"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1965-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1965",
+          "earliest": "1965-01-01",
+          "latest": "1965-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7a0b38d8cf5889eff2db",
+      "property": "P166",
+      "claimId": "Q109570$AAB47758-347C-46FD-8E40-C7285ACD3B39",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 59766247,
+          "id": "Q59766247"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-8a1c877f398c694766a5",
+      "property": "P166",
+      "claimId": "Q109570$7FF52320-0706-47DA-8E53-8348F61CD2E0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1627355,
+          "id": "Q1627355"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.nemmers.northwestern.edu/economics.html"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-03-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-03-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.nemmers.northwestern.edu/economics.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [
+        "http://www.nemmers.northwestern.edu/economics.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-978fc7b3243612a9bce1",
+      "property": "P101",
+      "claimId": "Q109570$b6ea7fca-49c1-7799-8163-c937e4b97414",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 647525,
+          "id": "Q647525"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-be8ca0857b71d97a328b",
+      "property": "P101",
+      "claimId": "Q109570$A0C94E9F-EB7D-4E99-960F-0BE12717350B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 47555,
+          "id": "Q47555"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-fcdaf300bdfb621b0b5e",
+      "property": "P101",
+      "claimId": "Q109570$661ef0b9-4ca5-da49-1d7d-56a61081d882",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 851147,
+          "id": "Q851147"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5f6f252fa00b6c8f089c",
+      "property": "P463",
+      "claimId": "Q109570$B57579FD-B5FD-4FE9-A994-F6923CE55AE7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1282089,
+          "id": "Q1282089"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1968-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1968"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.econometricsociety.org/society/organization-and-governance/fellows/current"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-04-06T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-04-06"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.econometricsociety.org/society/organization-and-governance/fellows/current",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [
+        "https://www.econometricsociety.org/society/organization-and-governance/fellows/current"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1968-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-8688f4085dbce656ef3e",
+      "property": "P463",
+      "claimId": "Q109570$14BEA279-233F-4D52-9DC7-B30E0F22F65C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 270794,
+          "id": "Q270794"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-982ad57a77f8739a4a14",
+      "property": "P463",
+      "claimId": "Q109570$F22E6452-1AD3-4E6B-BFBC-733C040808E8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 40358,
+          "id": "Q40358"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1373513,
+                "id": "Q1373513"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q1373513"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q1373513"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b80f7cb46b90b3afecb7",
+      "property": "P463",
+      "claimId": "Q109570$8F0E3026-84D6-4441-A57E-23BB845E1B25",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 463303,
+          "id": "Q463303"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-8e2ae478377487e1e265",
+      "factId": "fact-3701474a39c57241a41e",
+      "claimId": "Q109570$DFA6B2A5-1260-4D4B-B85D-095AD67DA92B",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2010",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q23684016"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e6820c0859825f3f1809",
+      "factId": "fact-8a1c877f398c694766a5",
+      "claimId": "Q109570$7FF52320-0706-47DA-8E53-8348F61CD2E0",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1994",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "http://www.nemmers.northwestern.edu/economics.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b95cd56a43cdba81b793",
+      "factId": "fact-0f973a0daeb29c71ec7e",
+      "claimId": "Q109570$BBA98C01-FD84-496C-A4E3-105C4A67DE45",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1968",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.econometricsociety.org/society/organization-and-governance/fellows/current",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8b1ddc697dc80dd4d689",
+      "factId": "fact-6746b524e70d357e7096",
+      "claimId": "Q109570$EDCF9B56-3B2F-4FD0-8F2F-2BC6C6877ADC",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1965",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-bb366799a0949072e54e",
+      "factId": "fact-c23a92416d88fc72aa66",
+      "claimId": "Q109570$78035425-22E8-4ED5-85BA-1FDCB357E0AC",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1963",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q109570"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-836eba4beca4bf3653f9",
+      "factId": "fact-6c87d3a577931d580233",
+      "claimId": "q109570$4D7526AD-A818-4521-BD2B-7825AD27E54B",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1940-04-29",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "http://www.britannica.com/EBchecked/topic/1717018/Peter-A-Diamond",
+        "http://www.nndb.com/lists/496/000063307/",
+        "http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2010/diamond-facts.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1380233520",
+        "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q109570",
+        "https://www.wikidata.org/wiki/Q23684016",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "彼得·戴蒙德",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "职业",
+          "value": "经济学家",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "职业",
+          "value": "教授",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "职业",
+          "value": "大學教師",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "来源所记出生日期",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "出生地",
+          "value": "纽约",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "就读机构",
+          "value": "耶魯大學",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "就读机构",
+          "value": "勞倫斯高中",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "就读机构",
+          "value": "麻省理工學院",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "雇主",
+          "value": "麻省理工學院",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "雇主",
+          "value": "加州大學柏克萊分校",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "担任职务",
+          "value": "总统",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "奖项",
+          "value": "Fellow of the Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "奖项",
+          "value": "诺贝尔经济学奖",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "奖项",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "奖项",
+          "value": "美国文理科学院院士",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "奖项",
+          "value": "古根海姆奖",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "奖项",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "奖项",
+          "value": "欧文·普莱因·内默斯经济学奖",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "研究领域",
+          "value": "行為經濟學",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "研究领域",
+          "value": "政治经济学",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "研究领域",
+          "value": "福利经济学",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "组织成员",
+          "value": "經濟計量學會",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "组织成员",
+          "value": "美国国家科学院",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "组织成员",
+          "value": "美國科學促進會",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "组织成员",
+          "value": "美国文理科学院",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 诺贝尔经济学奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 欧文·普莱因·内默斯经济学奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Fellow of the Econometric Society",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 古根海姆奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 麻省理工學院",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1940-04-29",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Peter Diamond",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "Occupation",
+          "value": "economist",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "Occupation",
+          "value": "professor",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "Occupation",
+          "value": "university teacher",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "Source-reported birth date",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "Place of birth",
+          "value": "New York City",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "Educational institution",
+          "value": "Yale University",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "Educational institution",
+          "value": "Lawrence High School",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "Educational institution",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "Employer",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "Employer",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "Position held",
+          "value": "president",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "Award",
+          "value": "Fellow of the Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "Award",
+          "value": "Prize in Economic Sciences in Memory of Alfred Nobel",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "Award",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "Award",
+          "value": "Fellow of the American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "Award",
+          "value": "Guggenheim Fellowship",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "Award",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "Award",
+          "value": "Erwin Plein Nemmers Prize in Economics",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "Field of work",
+          "value": "behavioral economics",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "Field of work",
+          "value": "political economics",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "Field of work",
+          "value": "welfare economics",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "Organization membership",
+          "value": "Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "Organization membership",
+          "value": "National Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "Organization membership",
+          "value": "American Association for the Advancement of Science",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "Organization membership",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Prize in Economic Sciences in Memory of Alfred Nobel",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Erwin Plein Nemmers Prize in Economics",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Fellow of the Econometric Society",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Guggenheim Fellowship",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Massachusetts Institute of Technology",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1940-04-29",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Peter Diamond",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "Profession",
+          "value": "économiste",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "Profession",
+          "value": "professeur",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "Profession",
+          "value": "professeur d'université",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "Lieu de naissance",
+          "value": "New York",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "Établissement fréquenté",
+          "value": "Université Yale",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "Établissement fréquenté",
+          "value": "Lawrence High School",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "Établissement fréquenté",
+          "value": "Institut de technologie du Massachusetts",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "Employeur",
+          "value": "Institut de technologie du Massachusetts",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "Employeur",
+          "value": "Université de Californie à Berkeley",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "Fonction exercée",
+          "value": "président ou présidente",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "Distinction",
+          "value": "membre associé de la Société d'économétrie",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "Distinction",
+          "value": "prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "Distinction",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "Distinction",
+          "value": "membre de l'Académie américaine des arts et des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "Distinction",
+          "value": "bourse Guggenheim",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "Distinction",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "Distinction",
+          "value": "prix Erwin Plein Nemmers en économie",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "Domaine de travail",
+          "value": "économie comportementale",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "Domaine de travail",
+          "value": "économie politique",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "Domaine de travail",
+          "value": "économie du bien-être",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "Organisation dont la personne est membre",
+          "value": "Société d'économétrie",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie américaine des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "Organisation dont la personne est membre",
+          "value": "Association américaine pour l'avancement des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie américaine des arts et des sciences",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Erwin Plein Nemmers en économie",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: membre associé de la Société d'économétrie",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: bourse Guggenheim",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Institut de technologie du Massachusetts",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1940-04-29",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "بيتر دايموند",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "المهنة",
+          "value": "اقتصادي",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "المهنة",
+          "value": "أستاذ جامعي",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "المهنة",
+          "value": "مُدرِّس جامعي",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "مكان الميلاد",
+          "value": "نيويورك",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ييل",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "المؤسسة التعليمية",
+          "value": "Lawrence High School",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "المؤسسة التعليمية",
+          "value": "معهد ماساتشوستس للتقانة",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "جهة العمل",
+          "value": "معهد ماساتشوستس للتقانة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "جهة العمل",
+          "value": "جامعة كاليفورنيا، بركلي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "المنصب",
+          "value": "رئيس",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "الجائزة",
+          "value": "زمالة جمعية الاقتصاد القياسي",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "الجائزة",
+          "value": "جائزة نوبل في العلوم الاقتصادية",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "الجائزة",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "الجائزة",
+          "value": "زمالة الأكاديمية الأمريكية للفنون والعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "الجائزة",
+          "value": "زمالة غوغنهايم",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "الجائزة",
+          "value": "الزمالة المتميزة في الرابطة الاقتصادية الأمريكية",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "الجائزة",
+          "value": "جائزة إروين بلين نمرز في الاقتصاد",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "مجال العمل",
+          "value": "اقتصاد سلوكي",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "مجال العمل",
+          "value": "اقتصاد سياسي",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "مجال العمل",
+          "value": "اقتصاد الرفاه",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "عضوية منظمة",
+          "value": "جمعية الاقتصاد القياسي",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الوطنية للعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "عضوية منظمة",
+          "value": "الجمعية الأمريكية لتقدم العلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الأمريكية للفنون والعلوم",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة نوبل في العلوم الاقتصادية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة إروين بلين نمرز في الاقتصاد",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: زمالة جمعية الاقتصاد القياسي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: زمالة غوغنهايم",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: معهد ماساتشوستس للتقانة",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1940-04-29",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Peter A. Diamond",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "Beruf",
+          "value": "Wirtschaftswissenschaftler",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "Beruf",
+          "value": "Professor",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "Beruf",
+          "value": "Hochschullehrer",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "Geburtsort",
+          "value": "New York City",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "Bildungseinrichtung",
+          "value": "Yale University",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "Bildungseinrichtung",
+          "value": "Lawrence High School",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "Bildungseinrichtung",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "Arbeitgeber",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "Arbeitgeber",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "Ausgeübtes Amt",
+          "value": "Präsident",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "Auszeichnung",
+          "value": "Fellow of the Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "Auszeichnung",
+          "value": "Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "Auszeichnung",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "Auszeichnung",
+          "value": "Fellow of the American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "Auszeichnung",
+          "value": "Guggenheim-Stipendium",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "Auszeichnung",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "Auszeichnung",
+          "value": "Nemmers-Preis für Wirtschaftswissenschaften",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "Arbeitsgebiet",
+          "value": "Verhaltensökonomik",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "Arbeitsgebiet",
+          "value": "politische Ökonomik",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "Arbeitsgebiet",
+          "value": "Wohlfahrtsökonomik",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "Mitgliedschaft",
+          "value": "Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "Mitgliedschaft",
+          "value": "National Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "Mitgliedschaft",
+          "value": "American Association for the Advancement of Science",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "Mitgliedschaft",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Nemmers-Preis für Wirtschaftswissenschaften",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Fellow of the Econometric Society",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Guggenheim-Stipendium",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Massachusetts Institute of Technology",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1940-04-29",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ピーター・ダイアモンド",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "職業",
+          "value": "経済学者",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "職業",
+          "value": "教授",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "職業",
+          "value": "大学教員",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "出典に記載された生年月日",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "出生地",
+          "value": "ニューヨーク",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "在籍した教育機関",
+          "value": "イェール大学",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "在籍した教育機関",
+          "value": "ローレンス高等学校",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "在籍した教育機関",
+          "value": "マサチューセッツ工科大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "雇用主",
+          "value": "マサチューセッツ工科大学",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "雇用主",
+          "value": "カリフォルニア大学バークレー校",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "役職",
+          "value": "大統領",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "受賞",
+          "value": "計量経済学会フェロー",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "受賞",
+          "value": "アルフレッド・ノーベル記念経済学スウェーデン国立銀行賞",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "受賞",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "受賞",
+          "value": "アメリカ芸術科学アカデミーフェロー",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "受賞",
+          "value": "グッゲンハイム研究奨学金",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "受賞",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "受賞",
+          "value": "ルウィン・プライン・ネムマーズ経済学賞",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "活動分野",
+          "value": "行動経済学",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "活動分野",
+          "value": "政治経済学",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "活動分野",
+          "value": "厚生経済学",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "団体への所属",
+          "value": "Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "団体への所属",
+          "value": "米国科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "団体への所属",
+          "value": "アメリカ科学振興協会",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "団体への所属",
+          "value": "アメリカ芸術科学アカデミー",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: アルフレッド・ノーベル記念経済学スウェーデン国立銀行賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ルウィン・プライン・ネムマーズ経済学賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 計量経済学会フェロー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: グッゲンハイム研究奨学金",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: マサチューセッツ工科大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1940-04-29",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Peter A. Diamond",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "Ocupación",
+          "value": "economista",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "Ocupación",
+          "value": "profesor",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "Ocupación",
+          "value": "profesor universitario",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "Lugar de nacimiento",
+          "value": "Nueva York",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "Institución educativa",
+          "value": "Universidad Yale",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "Institución educativa",
+          "value": "Escuela Secundaria Lawrence",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "Institución educativa",
+          "value": "Instituto Tecnológico de Massachusetts",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "Empleador",
+          "value": "Instituto Tecnológico de Massachusetts",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "Empleador",
+          "value": "Universidad de California en Berkeley",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "Cargo desempeñado",
+          "value": "presidente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "Distinción",
+          "value": "Miembro de la Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "Distinción",
+          "value": "Premio del Banco de Suecia en Ciencias Económicas en memoria de Alfred Nobel",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "Distinción",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "Distinción",
+          "value": "Miembro de la Academia Estadounidense de las Artes y las Ciencias",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "Distinción",
+          "value": "Beca Guggenheim",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "Distinción",
+          "value": "Miembro Distinguido de la Asociación Económica Estadounidense",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "Distinción",
+          "value": "Premio Erwin Plein Nemmers en Economía",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "Campo de trabajo",
+          "value": "economía conductual",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "Campo de trabajo",
+          "value": "economía política",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "Campo de trabajo",
+          "value": "economía del bienestar",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "Pertenencia a una organización",
+          "value": "Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Nacional de Ciencias de los Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "Pertenencia a una organización",
+          "value": "Asociación Estadounidense para el Avance de la Ciencia",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Estadounidense de las Artes y las Ciencias",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio del Banco de Suecia en Ciencias Económicas en memoria de Alfred Nobel",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Erwin Plein Nemmers en Economía",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Miembro de la Econometric Society",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Beca Guggenheim",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Instituto Tecnológico de Massachusetts",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1940-04-29",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "피터 다이아몬드",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1be331e944fc2f36e9a4",
+          "label": "직업",
+          "value": "경제학자",
+          "notes": []
+        },
+        {
+          "id": "fact-86846d0fc8a8b350840f",
+          "label": "직업",
+          "value": "교수",
+          "notes": []
+        },
+        {
+          "id": "fact-973c3d31b21923253edd",
+          "label": "직업",
+          "value": "대학 교수",
+          "notes": []
+        },
+        {
+          "id": "fact-a02a41e87f3a56744af1",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-6c87d3a577931d580233",
+          "label": "출처에 기재된 출생일",
+          "value": "1940-04-29",
+          "notes": []
+        },
+        {
+          "id": "fact-f530a3af2d8331e85837",
+          "label": "출생지",
+          "value": "뉴욕",
+          "notes": []
+        },
+        {
+          "id": "fact-006023a11293341e643c",
+          "label": "교육 기관",
+          "value": "예일 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-4b19fc634114db3801f2",
+          "label": "교육 기관",
+          "value": "Lawrence High School",
+          "notes": []
+        },
+        {
+          "id": "fact-c23a92416d88fc72aa66",
+          "label": "교육 기관",
+          "value": "매사추세츠 공과대학교",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-07f01c790dbf1e5e63f6",
+          "label": "고용 기관",
+          "value": "매사추세츠 공과대학교",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-9c32faf69da8e40395e0",
+          "label": "고용 기관",
+          "value": "캘리포니아 대학교 버클리",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-4e3046bb4f5194ad5ee3",
+          "label": "직책",
+          "value": "대통령",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-0f973a0daeb29c71ec7e",
+          "label": "수상",
+          "value": "Fellow of the Econometric Society",
+          "notes": []
+        },
+        {
+          "id": "fact-3701474a39c57241a41e",
+          "label": "수상",
+          "value": "노벨 경제학상",
+          "notes": []
+        },
+        {
+          "id": "fact-38042d26a2a9bfce59c4",
+          "label": "수상",
+          "value": "Fisher-Schultz Lecture",
+          "notes": []
+        },
+        {
+          "id": "fact-51206ba686b059c07d1f",
+          "label": "수상",
+          "value": "Fellow of the American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-6746b524e70d357e7096",
+          "label": "수상",
+          "value": "구겐하임 펠로십",
+          "notes": []
+        },
+        {
+          "id": "fact-7a0b38d8cf5889eff2db",
+          "label": "수상",
+          "value": "Distinguished Fellow of the American Economic Association",
+          "notes": []
+        },
+        {
+          "id": "fact-8a1c877f398c694766a5",
+          "label": "수상",
+          "value": "네머스 경제학 상",
+          "notes": []
+        },
+        {
+          "id": "fact-978fc7b3243612a9bce1",
+          "label": "활동 분야",
+          "value": "행동경제학",
+          "notes": []
+        },
+        {
+          "id": "fact-be8ca0857b71d97a328b",
+          "label": "활동 분야",
+          "value": "정치경제학",
+          "notes": []
+        },
+        {
+          "id": "fact-fcdaf300bdfb621b0b5e",
+          "label": "활동 분야",
+          "value": "후생경제학",
+          "notes": []
+        },
+        {
+          "id": "fact-5f6f252fa00b6c8f089c",
+          "label": "단체 회원 자격",
+          "value": "계량경제학회",
+          "notes": []
+        },
+        {
+          "id": "fact-8688f4085dbce656ef3e",
+          "label": "단체 회원 자격",
+          "value": "미국 과학 아카데미",
+          "notes": []
+        },
+        {
+          "id": "fact-982ad57a77f8739a4a14",
+          "label": "단체 회원 자격",
+          "value": "미국 과학 진흥 협회",
+          "notes": []
+        },
+        {
+          "id": "fact-b80f7cb46b90b3afecb7",
+          "label": "단체 회원 자격",
+          "value": "미국 예술 과학 아카데미",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-8e2ae478377487e1e265",
+          "factId": "fact-3701474a39c57241a41e",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 노벨 경제학상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e6820c0859825f3f1809",
+          "factId": "fact-8a1c877f398c694766a5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 네머스 경제학 상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-b95cd56a43cdba81b793",
+          "factId": "fact-0f973a0daeb29c71ec7e",
+          "date": "1968",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Fellow of the Econometric Society",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8b1ddc697dc80dd4d689",
+          "factId": "fact-6746b524e70d357e7096",
+          "date": "1965",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 구겐하임 펠로십",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-bb366799a0949072e54e",
+          "factId": "fact-c23a92416d88fc72aa66",
+          "date": "1963",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 매사추세츠 공과대학교",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-836eba4beca4bf3653f9",
+          "factId": "fact-6c87d3a577931d580233",
+          "date": "1940-04-29",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1940-04-29",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "ar",
+        "key": "Q6504154"
+      },
+      {
+        "locale": "de",
+        "key": "Q52382875"
+      },
+      {
+        "locale": "de",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "de",
+        "key": "Q59766247"
+      },
+      {
+        "locale": "de",
+        "key": "Q59766840"
+      },
+      {
+        "locale": "de",
+        "key": "Q6504154"
+      },
+      {
+        "locale": "es",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "fr",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "fr",
+        "key": "Q59766247"
+      },
+      {
+        "locale": "ja",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "ja",
+        "key": "Q59766247"
+      },
+      {
+        "locale": "ko",
+        "key": "Q52382875"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "ko",
+        "key": "Q59766247"
+      },
+      {
+        "locale": "ko",
+        "key": "Q59766840"
+      },
+      {
+        "locale": "ko",
+        "key": "Q6504154"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5454750"
+      },
+      {
+        "locale": "zh",
+        "key": "Q59766247"
+      },
+      {
+        "locale": "zh",
+        "key": "Q59766840"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q6504154",
+        "fallbackLocale": "en",
+        "value": "Lawrence High School",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q52382875",
+        "fallbackLocale": "en",
+        "value": "Fellow of the American Academy of Arts and Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q59766247",
+        "fallbackLocale": "en",
+        "value": "Distinguished Fellow of the American Economic Association",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q59766840",
+        "fallbackLocale": "en",
+        "value": "Fellow of the Econometric Society",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q6504154",
+        "fallbackLocale": "en",
+        "value": "Lawrence High School",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q59766247",
+        "fallbackLocale": "en",
+        "value": "Distinguished Fellow of the American Economic Association",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q59766247",
+        "fallbackLocale": "en",
+        "value": "Distinguished Fellow of the American Economic Association",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q52382875",
+        "fallbackLocale": "en",
+        "value": "Fellow of the American Academy of Arts and Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q59766247",
+        "fallbackLocale": "en",
+        "value": "Distinguished Fellow of the American Economic Association",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q59766840",
+        "fallbackLocale": "en",
+        "value": "Fellow of the Econometric Society",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q6504154",
+        "fallbackLocale": "en",
+        "value": "Lawrence High School",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5454750",
+        "fallbackLocale": "en",
+        "value": "Fisher-Schultz Lecture",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q59766247",
+        "fallbackLocale": "en",
+        "value": "Distinguished Fellow of the American Economic Association",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q59766840",
+        "fallbackLocale": "en",
+        "value": "Fellow of the Econometric Society",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 6,
+    "professionalEventCount": 5,
+    "factCount": 26,
+    "factsWithoutExternalReference": 18,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

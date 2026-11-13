@@ -1,0 +1,5600 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "bob-dylan",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "鲍勃·迪伦",
+    "enName": "Bob Dylan",
+    "domain": "culture",
+    "domains": [
+      "culture",
+      "literature"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "音乐创作与表演",
+    "inclusionReason": "将民谣、摇滚与诗性写作相结合，拓宽歌曲语言的文学表现力，并获得诺贝尔文学奖。",
+    "priority": 1,
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "将民谣、摇滚与诗性写作相结合，拓宽歌曲语言的文学表现力，并获得诺贝尔文学奖。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Bob Dylan",
+    "requestedTitle": "Bob Dylan",
+    "resolvedTitle": "Bob Dylan",
+    "wikidataId": "Q392",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "title": "Bob Dylan",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:20Z",
+      "revisionId": 1385315564,
+      "revisionTimestamp": "2026-11-12T19:21:54Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1385315564",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q392",
+      "title": "Q392",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:25Z",
+      "revisionId": 2566074290,
+      "revisionTimestamp": "2026-11-07T21:12:21Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Bob Dylan (legally Robert Dylan; born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.\nBorn and raised in Minnesota, Dylan moved to New York City in 1961 to pursue a music career. His  eponymous debut, containing traditional folk and blues material, was followed by his breakthrough album, The Freewheelin' Bob Dylan (1963), which included \"A Hard Rain's a-Gonna Fall\". His \"Blowin' in the Wind\" (1963) and \"The Times They Are a-Changin' (1964) became anthems for the civil rights and antiwar movements. Dylan sparked controversy when he used electrically amplified rock instrumentation on Bringing It All Back Home, Highway 61 Revisited (both 1965), and Blonde on Blonde (1966). His six-minute single \"Like a Rolling Stone\"...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "ar": "بوب ديلن",
+    "ja": "ボブ・ディラン",
+    "ko": "밥 딜런",
+    "zh": "鲍勃·迪伦",
+    "en": "Bob Dylan",
+    "fr": "Bob Dylan"
+  },
+  "descriptions": {
+    "en": "American singer-songwriter (born 1941)",
+    "fr": "auteur-compositeur-interprète américain",
+    "es": "músico, compositor, cantante y poeta estadounidense",
+    "de": "US-amerikanischer Singer-Songwriter, Lyriker, Nobelpreisträger für Literatur",
+    "zh": "美國創作歌手，音樂家，作家和藝術家",
+    "ja": "アメリカのシンガーソングライター (1941-)",
+    "ar": "مغني وكاتب أغاني أمريكي، وموسيقي، ومؤلف",
+    "ko": "미국의 싱어송라이터"
+  },
+  "languageArticles": {
+    "ar": "بوب ديلن",
+    "de": "Bob Dylan",
+    "en": "Bob Dylan",
+    "es": "Bob Dylan",
+    "fr": "Bob Dylan",
+    "ja": "ボブ・ディラン",
+    "ko": "밥 딜런",
+    "zh": "鲍勃·迪伦"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q392$1F91081D-530A-448B-B0D8-11BB674BB860",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.bbc.co.uk/music/sevenages/artists/bob-dylan/"
+              }
+            ]
+          },
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 73268604,
+                  "id": "Q73268604"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-12-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-12-04"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "q392$BA9701C3-0976-481E-8DA5-E5DDBA36C432",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 485708,
+            "id": "Q485708"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-12-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2014-12-10"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.bbc.co.uk/blogs/radioscotland/2011/05/happy-birthday-bob-dylan.shtml"
+              }
+            ]
+          },
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-17T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-10-17"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "q392$659C1ED8-3DF2-4CCA-B331-680899678D62",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 753110,
+            "id": "Q753110"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "q392$FEA77948-BF73-4239-BA9C-C377272BA335",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10800557,
+            "id": "Q10800557"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$C291E9E3-959F-4014-B522-37380CBA78CB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49757,
+            "id": "Q49757"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$19D4ECBE-73B1-4FA9-B6D9-4BFFF284F966",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 855091,
+            "id": "Q855091"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$8FD1DBE2-4B99-4A70-A534-E0117DA6787C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18814623,
+            "id": "Q18814623"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$80cc1488-4c63-7dd2-fc54-ffefd554daad",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1028181,
+            "id": "Q1028181"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107456632,
+                  "id": "Q107456632"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-04-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-04-01"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17299517,
+                  "id": "Q17299517"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-12-12T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-12-12"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$18118da9-4cfa-7230-5675-f192ae36a967",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183945,
+            "id": "Q183945"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$e46ef2da-4cda-90d8-d923-099246d1dd23",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2526255,
+            "id": "Q2526255"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$BF47F44A-7349-49F6-A330-7C02D1879AA7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 822146,
+            "id": "Q822146"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$B223FDC4-490C-42D2-B87B-E44D5559172D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 36834,
+            "id": "Q36834"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$E91D3B3E-EAB2-47B9-9D3E-21DEA068D732",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28389,
+            "id": "Q28389"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$2D212E1A-B145-4274-AAD0-13E00D8C32B9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 130857,
+            "id": "Q130857"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q392$1142C1B9-E6AA-4178-BEB6-E95F65117899",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 33999,
+            "id": "Q33999"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$3CB36950-0759-479C-9A32-868D11D95947",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 177220,
+            "id": "Q177220"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107456632,
+                  "id": "Q107456632"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-04-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-04-01"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$13524611-7EB4-44FC-B9FB-22906427D811",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2722764,
+            "id": "Q2722764"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-06-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-06-20"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$167E95B0-2ECB-47AB-B383-66F31980C559",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5322166,
+            "id": "Q5322166"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-12-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-12-04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$D535286A-1CED-49CB-97AF-3CC776195FFE",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 36180,
+            "id": "Q36180"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107456632,
+                  "id": "Q107456632"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-04-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-04-01"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$D83C29DC-7878-4738-B7DF-0EE9AC1F85C5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 639669,
+            "id": "Q639669"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107456632,
+                  "id": "Q107456632"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-04-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-04-01"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17299517,
+                  "id": "Q17299517"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-12-12T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-12-12"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$C650DB52-5BF6-4F72-8AF4-AFA67B490EBE",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3455803,
+            "id": "Q3455803"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$BDD9E219-B1D1-49E2-BBD6-123038EB48A3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 482980,
+            "id": "Q482980"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$1F9880F0-D59F-4137-AF7E-9D3D26004EA8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 483501,
+            "id": "Q483501"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$2E56DB1D-C5DB-491E-B5ED-9106430FAFFD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 486748,
+            "id": "Q486748"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q392$c1058fc6-40e6-e4c6-fda0-fba8e6c711b0",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "DylanYoungKilkenny140719v2 (50 of 52) (52246124397) (cropped).jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "q392$1c2094f1-486c-ebf1-a913-883a09e4333a",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1941-05-24T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1941-05-24"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-04-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2014-04-09"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Bob Dylan",
+                  "language": "en"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17299517,
+                  "id": "Q17299517"
+                }
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Bob Dylan",
+                  "language": "en"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29861311,
+                  "id": "Q29861311"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 31964,
+                  "id": "Q31964"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15706812,
+                  "id": "Q15706812"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1366358,
+                  "id": "Q1366358"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 237227,
+                  "id": "Q237227"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 10855166,
+                  "id": "Q10855166"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 20056651,
+                  "id": "Q20056651"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98769076,
+                  "id": "Q98769076"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83365652,
+                  "id": "Q83365652"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2877812,
+                  "id": "Q2877812"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107343683,
+                  "id": "Q107343683"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-17T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-10-17"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q392$29C1260F-DA2A-4333-849D-A215AB3C8721",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19938912,
+                  "id": "Q19938912"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-10-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-10-10"
+              }
+            ]
+          },
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q392$60CDA792-20D6-40AA-8D07-7A6B8EEA1104",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 14552696,
+            "id": "Q14552696"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q392$5BF9A914-68EA-4060-A8D9-C251F4FDD989",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 14692643,
+            "id": "Q14692643"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-03-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-03-04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$C9D71E35-754F-4DAC-9B46-97FAC526BD8D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3439758,
+            "id": "Q3439758"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q392$6BB0D806-7BE6-4E72-B03D-B0BBF661EA7A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1789030,
+            "id": "Q1789030"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2009-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2009"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$FBA2EA82-C74C-4CE6-A832-ABF44AC448D5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 17144,
+            "id": "Q17144"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.rollingstone.com/music/music-news/bob-dylan-awarded-presidential-medal-of-freedom-98634/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$2CE10BAC-9393-4CD0-B7EB-6EB277864046",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 935843,
+            "id": "Q935843"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1991-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1991"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$4FF382B3-81BF-4821-B97F-04AC4F7B75BA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3319305,
+            "id": "Q3319305"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://elpais.com/cultura/2007/06/13/actualidad/1181685603_850215.html"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2007-bob-dylan.html?especifica=0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$d0cdeb81-4b0d-3a9c-07b1-c42ee1e1caa6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 179191,
+            "id": "Q179191"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1988-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1988"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$FAD9E0DB-3187-4620-B1F3-C1EC670E36CE",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10855271,
+            "id": "Q10855271"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$CA8558F0-416E-451D-80E1-F70699237C37",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 112243,
+            "id": "Q112243"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2001-03-25T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2001-03-25"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.rollingstone.com/movies/movie-news/dylan-wins-oscar-76603/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.oscars.org/oscars/ceremonies/2001"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "2001 | Oscars.org | Academy of Motion Picture Arts and Sciences",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-03-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-03-16"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$59ea1983-4db7-7a00-4b74-17fea84baf5e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 37922,
+            "id": "Q37922"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nobelprize.org/nobel_prizes/literature/laureates/2016/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nobelprize.org/nobel_prizes/about/amounts/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://masterdataapi.nobelprize.org/2.0/laureate/937"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-10-12T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-10-12"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$D35680BB-2535-476E-9ED5-EA15711CD659",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1738793,
+            "id": "Q1738793"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1997-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1997"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://borntolisten.com/2020/12/07/december-7-bob-dylan-received-the-kennedy-center-honors-lifetime-achievement-award-in-1997/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$8248f20a-4354-5732-6ff6-5ed23732bc1a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 40683907,
+            "id": "Q40683907"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$b910fae0-4084-e7ff-25ce-54059a85dd92",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 42309226,
+            "id": "Q42309226"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$66DE0817-87A0-4B53-B9BD-D391FA7EA454",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 754841,
+            "id": "Q754841"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 191168,
+                  "id": "Q191168"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$CC656D22-2F7A-4804-BE26-A15DA5EE045E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13452531,
+            "id": "Q13452531"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-02-02T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-02-02"
+              }
+            ]
+          },
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$342d8a6c-4fe6-5492-f445-e97cbe831a35",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 904528,
+            "id": "Q904528"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1973-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1973"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41254,
+                  "id": "Q41254"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$0dfa0917-4823-2e6c-1e7e-e0bd16520219",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 953746,
+            "id": "Q953746"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1980-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1980"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$f0c84eef-443c-e235-a1c3-043ac5edd5b2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1542205,
+            "id": "Q1542205"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1990-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1990"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$97a6834d-48b1-8405-325a-b0d557d466e9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5593894,
+            "id": "Q5593894"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1995-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1995"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$ca1590b8-434a-307f-5b9c-b442535253c1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5593772,
+            "id": "Q5593772"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1998-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1998"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$83ffbe3c-4df5-d8be-a84e-b86cf8ff268f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 904528,
+            "id": "Q904528"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1998-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1998"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q392$c8cee6c6-4fc2-1641-c522-73c6b52fde0f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 953746,
+            "id": "Q953746"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1998-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1998"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41254,
+                  "id": "Q41254"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$b912c2f4-4a42-4e54-edd9-5d1e52b57747",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5593772,
+            "id": "Q5593772"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2002-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2002"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41254,
+                  "id": "Q41254"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$ab2f4bba-411a-fc69-7c3d-c53241be2280",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1542199,
+            "id": "Q1542199"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41254,
+                  "id": "Q41254"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$262b81be-4308-3261-70e0-0871e6a6611d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11789079,
+            "id": "Q11789079"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41254,
+                  "id": "Q41254"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$E23A86F2-924D-479B-95C1-76FDFB9D2AA3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 115596704,
+            "id": "Q115596704"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2009-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2009"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Honorary Degree awarded to Environmental photographer Mark Edwards - UWE Bristol: News Releases",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-07-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-07-14"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-12-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-12-04"
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://info.uwe.ac.uk/news/uwenews/news.aspx?id=3662"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$9baaf3d2-4796-9595-c3ff-16e194d9d458",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7259350,
+            "id": "Q7259350"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.pulitzer.org/prize-winners-by-category/260"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q392$BA12D4A7-4273-4AEA-82AC-C28E7E39B00D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 414110,
+            "id": "Q414110"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$0F562559-BCD8-4D76-B400-7D75CDF4DE50",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$E0170BB5-F619-4083-96BC-2AA34BBC5C51",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463281,
+            "id": "Q463281"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$6e8b3524-4d9c-015d-bf27-e4e30e799a26",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 332399,
+            "id": "Q332399"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-11"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q392$4efcc906-4154-31d4-555d-071df3000b6a",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1962-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1962"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q392$84de06c8-423e-f76b-1e1a-043e51f268ce",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 214430,
+            "id": "Q214430"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.acclaimedmusic.net/song/S991.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$93a5f959-4e76-b3c0-6c0a-0ef40d5a5b46",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 217211,
+            "id": "Q217211"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16154874,
+                  "id": "Q16154874"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$c0a0d272-4239-9cf3-a08c-bf234b156ab2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 268106,
+            "id": "Q268106"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16154874,
+                  "id": "Q16154874"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$6a29303c-4b1e-de4e-052e-3ec0c80ace84",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 598116,
+            "id": "Q598116"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16154874,
+                  "id": "Q16154874"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$568c4591-44d9-55d6-a91d-66df480d7523",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 300854,
+            "id": "Q300854"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16154874,
+                  "id": "Q16154874"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$776cce07-47c1-f16e-4ce3-90fd87330a6f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 640529,
+            "id": "Q640529"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.acclaimedmusic.net/song/S1073.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$3833563a-4a67-aac7-3746-ab424260ece4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2430567,
+            "id": "Q2430567"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.acclaimedmusic.net/song/S1008.htm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q392$700b36b5-4001-d104-7b22-435bd3538a5e",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.bobdylan.com/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q392$6503807B-8CBD-4FC4-9713-454EA243DF61",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 27939,
+            "id": "Q27939"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$CB6DEB70-2570-4C8F-A0EC-41CE554DFCBA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 37073,
+            "id": "Q37073"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$0F8E29A0-2B02-4BC1-AC19-C1208A5E261B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 113209507,
+            "id": "Q113209507"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$069B8676-4720-4E69-AB15-6821B3E2B726",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43343,
+            "id": "Q43343"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$DAEB692B-063D-4070-9AAE-4540F6692599",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 9759,
+            "id": "Q9759"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$5D3A7B66-EAE3-4150-87F1-F615A44F433D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11399,
+            "id": "Q11399"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$D753C6CF-DB8E-4E90-B906-2C57C2588C8B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 180268,
+            "id": "Q180268"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$11A30D8C-6E1E-42FB-A7F6-000BE8A1383C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 83440,
+            "id": "Q83440"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$757CD7ED-9C0B-4D8D-BF4A-3B2826CEE42D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8341,
+            "id": "Q8341"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-05-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q392$DD9017DF-2BA0-4B13-AA6E-3B8F66CC7B32",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 373342,
+            "id": "Q373342"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-07-21T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-07-21"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P18": "image",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P69": "education",
+    "P166": "award",
+    "P463": "membership",
+    "P2031": "careerStart",
+    "P800": "notableWork",
+    "P856": "officialWebsite",
+    "P101": "fieldOfWork"
+  },
+  "relatedEntities": {
+    "Q1028181": {
+      "id": "Q1028181",
+      "fetchedAt": "2026-11-13T10:58:52Z",
+      "labels": {
+        "es": "pintor",
+        "ar": "رسام",
+        "ja": "画家",
+        "fr": "artiste peintre",
+        "en": "painter",
+        "de": "Maler",
+        "zh": "畫家",
+        "ko": "화가"
+      },
+      "descriptions": {
+        "fr": "personne pratiquant la peinture",
+        "de": "bildender Künstler der Malerei",
+        "es": "tipo de artista plástico",
+        "en": "artist who practices painting",
+        "zh": "以畫畫為生的藝術家",
+        "ja": "絵画を描く芸術家",
+        "ko": "회화를 제작하는 사람",
+        "ar": "الشخص الذي يمارس الرسم المرئي والبصري"
+      }
+    },
+    "Q107343683": {
+      "id": "Q107343683",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "de": "Munzinger Personen",
+        "fr": "Munzinger Personen",
+        "en": "Munzinger Personen",
+        "es": "Munzinger Personen",
+        "ko": "먼징거 페르소나",
+        "ja": "ムンツィンガー・パーゾーネン"
+      },
+      "descriptions": {
+        "de": "biographische Online-Datenbank",
+        "en": "biographical database"
+      }
+    },
+    "Q107456632": {
+      "id": "Q107456632",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "en": "The Fine Art Archive Db",
+        "fr": "abART",
+        "es": "abART"
+      },
+      "descriptions": {
+        "en": "Czech online database about fine art",
+        "fr": "base de données web des Archives tchèques des beaux-arts",
+        "es": "archivo en línea checo"
+      }
+    },
+    "Q10800557": {
+      "id": "Q10800557",
+      "fetchedAt": "2026-11-13T11:00:07Z",
+      "labels": {
+        "de": "Filmschauspieler",
+        "es": "actor de cine",
+        "zh": "電影演員",
+        "fr": "acteur ou actrice de cinéma",
+        "ja": "映画俳優",
+        "ko": "영화 배우",
+        "ar": "ممثل أفلام",
+        "en": "film actor"
+      },
+      "descriptions": {
+        "es": "actor que se dedica principalmente al cine",
+        "de": "Schauspieler, der in Filmen auftritt",
+        "fr": "acteur ou actrice qui apparaît dans des films tournés pour le cinéma",
+        "ko": "영화에 출연하는 배우",
+        "en": "actor who appears in films",
+        "ar": "شخص يظهر في الأفلام",
+        "ja": "映画に出演する俳優",
+        "zh": "從事電影表演工作的人"
+      }
+    },
+    "Q10855166": {
+      "id": "Q10855166",
+      "fetchedAt": "2026-11-13T10:58:52Z",
+      "labels": {
+        "en": "The Fine Art Archive",
+        "ar": "أرشيف الفنون الجميلة",
+        "es": "Archivo de Bellas Artes",
+        "fr": "Archives tchèques des beaux-arts",
+        "ja": "ザ・ファイン・アート・アーカイヴ",
+        "de": "The Fine Art Archive"
+      },
+      "descriptions": {
+        "en": "Czech voluntary association",
+        "es": "centro de archivos checo",
+        "fr": "centre d'archives sur l'art moderne et contemporain tchèque et slovaque",
+        "de": "tschechischer Verein in Prag (1984–)"
+      }
+    },
+    "Q10855271": {
+      "id": "Q10855271",
+      "fetchedAt": "2026-11-13T11:02:57Z",
+      "labels": {
+        "fr": "chevalier de la Légion d'honneur‎",
+        "de": "Ritter der französischen Ehrenlegion",
+        "es": "Caballero de la Orden Nacional de la Legión de Honor",
+        "en": "Knight of the Legion of Honour",
+        "ar": "وسام جوقة الشرف من رتبة فارس",
+        "ja": "レジオンドヌール勲章シュヴァリエ",
+        "ko": "레지옹 도뇌르 슈발리에",
+        "zh": "法国荣誉军团骑士勋章"
+      },
+      "descriptions": {
+        "de": "Titel in der französischen Ehrenlegion",
+        "en": "first rank of the French Legion of Honour",
+        "fr": "premier des cinq grades de la Légion d'honneur",
+        "es": "primero de los cinco grados de la Legión de Honor",
+        "ja": "レジオンドヌール勲章の最下位",
+        "ar": "المرتبة الشرفية الأولى لجوقة الشرف الفرنسية",
+        "ko": "프랑스의 훈장 레지옹 도뇌르 5급"
+      }
+    },
+    "Q112243": {
+      "id": "Q112243",
+      "fetchedAt": "2026-11-13T11:05:26Z",
+      "labels": {
+        "fr": "Oscar de la meilleure chanson originale",
+        "es": "Óscar a la mejor canción original",
+        "ja": "アカデミー歌曲賞",
+        "en": "Academy Award for Best Original Song",
+        "ko": "아카데미 주제가상",
+        "de": "Oscar für den besten Song",
+        "zh": "奥斯卡最佳原创歌曲奖",
+        "ar": "جائزة الأوسكار لأفضل أغنية أصلية"
+      },
+      "descriptions": {
+        "fr": "récompense annuelle de l’Academy of Motion Picture Arts and Sciences (AMPAS)",
+        "en": "motion picture award for music",
+        "de": "US-amerikanischer Musikpreis",
+        "ja": "アメリカの映画芸術科学アカデミーの映画賞の部門のひとつ",
+        "es": "premio Óscar"
+      }
+    },
+    "Q113209507": {
+      "id": "Q113209507",
+      "fetchedAt": "2026-11-13T11:05:26Z",
+      "labels": {
+        "en": "creative and professional writing",
+        "fr": "écriture créative et professionnelle",
+        "es": "escritura",
+        "ja": "文芸創作",
+        "de": "kreatives und professionelles Schreiben",
+        "ar": "كتابة إبداعية ومهنية"
+      },
+      "descriptions": {
+        "en": "field of research",
+        "fr": "champ de recherche",
+        "de": "Forschungsrichtung",
+        "ar": "تخصص جامعي",
+        "es": "campo de investigación"
+      }
+    },
+    "Q11399": {
+      "id": "Q11399",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "en": "rock music",
+        "fr": "rock",
+        "de": "Rockmusik",
+        "ar": "موسيقى الروك",
+        "es": "rock",
+        "ja": "ロック",
+        "ko": "록",
+        "zh": "摇滚乐"
+      },
+      "descriptions": {
+        "en": "popular music genre",
+        "fr": "genre musical et de danse",
+        "es": "género musical que se originó en la década de 1960 como derivación del rock and roll",
+        "de": "Musikstil",
+        "ja": "音楽ジャンル",
+        "ko": "R&B, 컨트리, 로큰롤 등에 영향받은 미국 대중음악의 일종",
+        "ar": "نوع من الموسيقى الشعبية التي نشأت باسم \"موسيقى الروك أند رول\" في خمسينيات القرن العشرين بالولايات المتحدة الأمريكية"
+      }
+    },
+    "Q115596704": {
+      "id": "Q115596704",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "en": "Terence Donovan Award"
+      },
+      "descriptions": {
+        "en": "British photography award"
+      }
+    },
+    "Q11789079": {
+      "id": "Q11789079",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "en": "Grammy Award for Best Americana Album",
+        "es": "premio Grammy al mejor álbum americana",
+        "de": "Grammy Award for Best Americana Album",
+        "ja": "最優秀アメリカーナ・アルバム"
+      },
+      "descriptions": {
+        "de": "Musikpreis für das beste Album im Bereich \"Americana\" Musik",
+        "es": "premio Grammy",
+        "en": "award category"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q130857": {
+      "id": "Q130857",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "es": "disc-jockey",
+        "ar": "منسق موسيقى",
+        "fr": "disc jockey",
+        "ko": "디스크 자키",
+        "de": "Discjockey",
+        "ja": "ディスクジョッキー",
+        "en": "disc jockey",
+        "zh": "唱片騎師"
+      },
+      "descriptions": {
+        "en": "person who plays recorded music for an audience",
+        "de": "Person, die auf Tonträgern enthaltene Musik in individueller Auswahl vor Publikum abspielt",
+        "es": "persona que mezcla música grabada para una audiencia",
+        "fr": "personne qui sélectionne, diffuse, et mixe de la musique à destination d'un public",
+        "zh": "現場調制音樂的一種職業",
+        "ar": "مهنة - منسق موسيقى",
+        "ja": "ポピュラー音楽をラジオ番組などで選曲・操作する人、または演奏会場やクラブなどで来場者に音楽を聴かせる人",
+        "ko": "녹음된 음악을 재생하는 사람"
+      }
+    },
+    "Q13452531": {
+      "id": "Q13452531",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "commandeur des Arts et des Lettres‎",
+        "en": "Commandeur des Arts et des Lettres‎",
+        "de": "Komtur des Ordens der Künste und der Literatur",
+        "es": "comendador de la Orden de las Artes y las Letras",
+        "ar": "نيشان الفنون والآداب من رتبة قائد",
+        "ja": "芸術文化勲章コマンドゥール"
+      },
+      "descriptions": {
+        "fr": "troisième des trois grades de l'ordre des Arts et des Lettres‎",
+        "en": "third (and highest) rank of the French Ordre des Arts et des Lettres",
+        "ja": "フランスの勲章",
+        "ar": "الرتبة الثالثة (والأسمى) من رُتب وسام الفنون والآداب الفرنسي",
+        "es": "rango de Orden de las Artes y las Letras francesa"
+      }
+    },
+    "Q13550863": {
+      "id": "Q13550863",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "Nationale Normdatei von Tschechien",
+        "fr": "catalogue de la Bibliothèque nationale de la République tchèque",
+        "en": "Czech National Authority Database",
+        "ko": "체코 국립 전거 데이터베이스",
+        "ar": "قاعدة بيانات الضبط الوطنية التشيكية",
+        "zh": "捷克国家规范数据库",
+        "es": "catálogo de la Biblioteca Nacional Checa",
+        "ja": "チェコ国立図書館典拠データベース"
+      },
+      "descriptions": {
+        "de": "verwaltet von der tschechischen Nationalbibliothek",
+        "en": "Authority Database of the National Library of the Czech Republic",
+        "es": "base de datos de autoridades de la Biblioteca Nacional de la República Checa",
+        "fr": "base de notices d'autorité tchèque"
+      }
+    },
+    "Q1366358": {
+      "id": "Q1366358",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "fr": "Nederlandse Top 40",
+        "en": "Nederlandse Top 40",
+        "es": "Nederlandse Top 40",
+        "de": "Nederlandse Top 40",
+        "ko": "네덜란드스 탑 40",
+        "ja": "ネーダラントス・トップ40",
+        "zh": "荷兰40强单曲榜",
+        "ar": "دتش توب 40"
+      },
+      "descriptions": {
+        "en": "Dutch singles chart",
+        "de": "wöchentlich erscheinende Hitliste in den Niederlanden",
+        "es": "lista semanal de los sencillos más vendidos en los Países Bajos",
+        "fr": "hit-parade hebdomadaire néerlandais"
+      }
+    },
+    "Q14552696": {
+      "id": "Q14552696",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "de": "University of Minnesota System",
+        "en": "University of Minnesota System",
+        "fr": "université du Minnesota",
+        "es": "Sistema de la Universidad de Minnesota",
+        "ja": "ミネソタ大学システム",
+        "zh": "明尼苏达大学系统"
+      },
+      "descriptions": {
+        "de": "Universitätsverbund",
+        "en": "state university system in Minnesota, United States",
+        "ja": "アメリカの州立大学システム"
+      }
+    },
+    "Q14692643": {
+      "id": "Q14692643",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "en": "Hibbing High School",
+        "de": "Hibbing High School",
+        "fr": "Hibbing High School"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في هيبينغ، الولايات المتحدة",
+        "en": "high school in Hibbing, St. Louis County, Minnesota"
+      }
+    },
+    "Q1542199": {
+      "id": "Q1542199",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "de": "Grammy Award for Best Solo Rock Vocal Performance",
+        "en": "Grammy Award for Best Solo Rock Vocal Performance",
+        "es": "premio Grammy a la mejor interpretación vocal roquera de solista",
+        "fr": "Grammy Award de la meilleure performance vocale rock en solo",
+        "ar": "جائزة جرامي لأفضل أداء صوتي روك سولو"
+      },
+      "descriptions": {
+        "en": "award",
+        "es": "premio Grammy",
+        "de": "Auszeichnung für die beste Solo-Rock-Gesangsdarbietung"
+      }
+    },
+    "Q1542205": {
+      "id": "Q1542205",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "en": "Grammy Award for Best Rock Performance by a Duo or Group with Vocal",
+        "de": "Grammy Award for Best Rock Performance by a Duo or Group with Vocal",
+        "es": "premio Grammy a la mejor interpretación roquera de un dúo o grupo con vocalista",
+        "fr": "Grammy Award de la meilleure prestation rock par un groupe ou un duo avec chant",
+        "zh": "最佳搖滾團體演奏獎"
+      },
+      "descriptions": {
+        "es": "premio Grammy",
+        "en": "award",
+        "de": "Auszeichnung für die beste Rock-Performance eines Duos oder einer Gruppe mit Gesang"
+      }
+    },
+    "Q15706812": {
+      "id": "Q15706812",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "en": "filmportal.de",
+        "de": "filmportal.de",
+        "fr": "filmportal.de",
+        "es": "base de datos filmportal",
+        "ja": "filmportal.de"
+      },
+      "descriptions": {
+        "en": "movie database for German movies",
+        "de": "Filmdatenbank zum deutschen Film",
+        "fr": "site web",
+        "es": "base de datos de películas alemanas de filmportal"
+      }
+    },
+    "Q16154874": {
+      "id": "Q16154874",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "en": "Acclaimed Music",
+        "fr": "Acclaimed Music",
+        "es": "Acclaimed Music",
+        "zh": "Acclaimed Music",
+        "ko": "어클레임드 뮤직"
+      },
+      "descriptions": {
+        "fr": "site web",
+        "en": "Swedish review aggregator, music ranking database"
+      }
+    },
+    "Q17144": {
+      "id": "Q17144",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "en": "Presidential Medal of Freedom",
+        "ar": "وسام الحرية الرئاسي",
+        "de": "Presidential Medal of Freedom",
+        "es": "Medalla Presidencial de la Libertad",
+        "fr": "médaille présidentielle de la Liberté",
+        "ja": "大統領自由勲章",
+        "ko": "대통령 자유 훈장",
+        "zh": "總統自由勳章"
+      },
+      "descriptions": {
+        "en": "joint-highest civilian award of the United States, bestowed by the President",
+        "de": "eine der beiden höchsten zivilen Auszeichnungen der Vereinigten Staaten von Amerika",
+        "es": "condecoración civil más alta en los Estados Unidos, otorgada por el Presidente",
+        "fr": "décoration décernée par le président des États-Unis",
+        "ar": "أسمى الجوائز المدنية في الولايات المتحدة الأمريكية. يمنحها الرئيس الأمريكي",
+        "zh": "由總統授予的美國聯邦最高平民獎"
+      }
+    },
+    "Q17299517": {
+      "id": "Q17299517",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "RKDartists",
+        "de": "RKDartists",
+        "fr": "RKDartists",
+        "ar": "فنانو معهد هولندا لتاريخ الفن",
+        "ja": "オランダ美術史研究所データベース",
+        "zh": "荷蘭藝術史研究所數據資料庫",
+        "es": "RKDartists",
+        "ko": "RKDartists"
+      },
+      "descriptions": {
+        "en": "artists database by the Rijksbureau voor Kunsthistorische Documentatie",
+        "de": "Künstlerdatenbank des Rijksbureau voor Kunsthistorische Documentatie",
+        "ja": "美術品・美術家のデータベース。",
+        "zh": "由荷蘭藝術史研究所提供的藝術家數據庫"
+      }
+    },
+    "Q1738793": {
+      "id": "Q1738793",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "en": "Kennedy Center Honors",
+        "zh": "肯尼迪中心荣誉奖",
+        "de": "Kennedy-Preis",
+        "es": "Premio Kennedy Center Honors",
+        "ar": "جائزة مركز كينيدي الثقافي",
+        "ja": "ケネディ・センター名誉賞",
+        "fr": "prix Kennedy"
+      },
+      "descriptions": {
+        "en": "annual American honor in the performing arts",
+        "de": "Auszeichnung für darstellende Künstler",
+        "es": "premio anual estadounidense en las artes escénicas",
+        "fr": "distinction annuelle américaine du domaine des arts du spectacle",
+        "ar": "جائزة تقديرية سنوية",
+        "zh": "年度奖项"
+      }
+    },
+    "Q177220": {
+      "id": "Q177220",
+      "fetchedAt": "2026-11-13T11:01:26Z",
+      "labels": {
+        "es": "cantante",
+        "ar": "مغنٍّ",
+        "ja": "歌手",
+        "ko": "가수",
+        "fr": "chanteur ou chanteuse",
+        "en": "singer",
+        "de": "Sänger",
+        "zh": "歌手"
+      },
+      "descriptions": {
+        "en": "person singing for a listening audience",
+        "fr": "personne utilisant sa voix pour interpréter une musique",
+        "de": "Person, die singt",
+        "es": "artista que produce con su voz sonidos melodiosos",
+        "ko": "노래를 부르는 사람",
+        "zh": "歌曲演唱者",
+        "ar": "شخص يغني للجمهور المستمع",
+        "ja": "歌を歌う職業"
+      }
+    },
+    "Q1789030": {
+      "id": "Q1789030",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "de": "National Medal of Arts",
+        "en": "National Medal of Arts",
+        "es": "Medalla Nacional de las Artes",
+        "fr": "National Medal of Arts",
+        "zh": "美國國家藝術獎章",
+        "ja": "国民芸術勲章",
+        "ar": "الميدالية الوطنية للفنون"
+      },
+      "descriptions": {
+        "en": "award and title created by the United States Congress in 1984",
+        "fr": "récompense américaine, décernée par le National Endowment for the Arts",
+        "de": "vom Kongress der Vereinigten Staaten vergebene Auszeichnung"
+      }
+    },
+    "Q179191": {
+      "id": "Q179191",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "fr": "Rock and Roll Hall of Fame",
+        "ko": "로큰롤 명예의 전당",
+        "es": "Salón de la Fama del Rock",
+        "de": "Rock and Roll Hall of Fame",
+        "ja": "ロックの殿堂",
+        "en": "Rock and Roll Hall of Fame",
+        "ar": "الصالة الفخرية للروك آند رول",
+        "zh": "摇滚名人堂"
+      },
+      "descriptions": {
+        "fr": "musée américain",
+        "en": "music museum in Cleveland, Ohio, United States",
+        "de": "Museum in Cleveland",
+        "es": "museo ubicado a orillas del lago Erie en el centro de Cleveland, Ohio, Estados Unidos",
+        "ar": "متحف موسيقي في كليفلاند، أوهايو، الولايات المتحدة"
+      }
+    },
+    "Q180268": {
+      "id": "Q180268",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "ko": "복음성가",
+        "fr": "gospel",
+        "es": "góspel",
+        "de": "Gospelmusik",
+        "ja": "ゴスペル",
+        "en": "gospel music",
+        "ar": "غوسبل",
+        "zh": "福音音乐"
+      },
+      "descriptions": {
+        "en": "genre of music emphasizing Christian lyrics",
+        "fr": "chant religieux chrétien",
+        "de": "Musikgenre",
+        "es": "género de música que enfatiza letras cristianas",
+        "ko": "기독교인의 믿음을 나타내기 위해 작곡한 대중적인 음악",
+        "ar": "نشيد كنائسي زنجي",
+        "ja": "音楽のジャンル"
+      }
+    },
+    "Q183945": {
+      "id": "Q183945",
+      "fetchedAt": "2026-11-13T11:02:57Z",
+      "labels": {
+        "fr": "producteur ou productrice de disques",
+        "ko": "음악 프로듀서",
+        "es": "productor discográfico",
+        "de": "Musikproduzent",
+        "ja": "音楽プロデューサー",
+        "en": "record producer",
+        "ar": "منتج أغاني",
+        "zh": "音樂製作人"
+      },
+      "descriptions": {
+        "en": "individual who oversees and manages the recording of an artist's music",
+        "es": "profesión en la industria musical",
+        "de": "Leiter der Musikaufnahme im Tonstudio",
+        "fr": "responsable des étapes d'enregistrement de la musique",
+        "ar": "الفرد الذي يشرف علي ويدير تسجيل موسيقى الفنان",
+        "ja": "アーティストの音楽の録音を監督・管理する人",
+        "zh": "音乐工业中的一部分",
+        "ko": "밴드 혹은 공연자의 음악 제작 과정을 감시하는 직업"
+      }
+    },
+    "Q18814623": {
+      "id": "Q18814623",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "autobiographer",
+        "fr": "autobiographe",
+        "es": "autobiógrafo",
+        "de": "Autobiograf",
+        "zh": "自传作者",
+        "ja": "自伝作家",
+        "ar": "كاتب سير ذاتية",
+        "ko": "자서전 작가"
+      },
+      "descriptions": {
+        "en": "person who wrote their autobiography",
+        "es": "persona que ha escrito su autobiografía",
+        "de": "Verfasser einer Autobiografie",
+        "zh": "写作自传的人",
+        "ja": "自伝を書く者",
+        "ko": "자서전을 집필하는 사람",
+        "fr": "personne qui écrit ou a écrit son autobiographie",
+        "ar": "الشخص الذي يكتب سيرته الذاتية"
+      }
+    },
+    "Q191168": {
+      "id": "Q191168",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Wikipédia en tchèque",
+        "ko": "체코어 위키백과",
+        "es": "Wikipedia en checo",
+        "ja": "チェコ語版ウィキペディア",
+        "en": "Czech Wikipedia",
+        "ar": "ويكيبيديا التشيكية",
+        "zh": "捷克語維基百科",
+        "de": "tschechischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Czech-language edition of Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in tschechischer Sprache",
+        "zh": "维基百科捷克语版",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة التشيكية من ويكيبيديا، الموسوعة الحرة",
+        "ko": "체코어로 작성된 위키백과",
+        "ja": "ウィキペディアのチェコ語版",
+        "es": "edición en checo de la Wikipedia"
+      }
+    },
+    "Q19938912": {
+      "id": "Q19938912",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Autorités BnF",
+        "en": "BnF authorities",
+        "de": "BnF-Normdatei",
+        "es": "data.bnf.fr",
+        "ar": "استنادات المكتبة الوطنية الفرنسية",
+        "ko": "BnF 당국",
+        "ja": "BnFオーソリティーズ",
+        "zh": "Bnf名称规范"
+      },
+      "descriptions": {
+        "fr": "base de données d'autorité concernant personnes, collectivités, titres uniformes textuels et musicaux, noms géographiques et marques commerciales",
+        "en": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
+        "de": "Normdatei für Personen, Organisationen und Werke bei der Französischen Nationalbibliothek",
+        "ko": "프랑스 국립 도서관의 개인, 조직, 작품, 주제 및 지리적 장소에 대한 전거 파일",
+        "ja": "オンラインデータベース",
+        "es": "fichero de autoridad de personas, organizaciones, obras, temas y lugares geográficos, de la Biblioteca Nacional de Francia",
+        "ar": "ملف استناد في المكتبة الفرنسية الوطنية، يحوي بيانات عن الأفراد والمنظمات والأعمال والموضوعات والأقاليم الجغرافية",
+        "zh": "法国国家图书馆人物、组织、作品、话题、地名等的规范档"
+      }
+    },
+    "Q20056651": {
+      "id": "Q20056651",
+      "fetchedAt": "2026-11-13T11:01:27Z",
+      "labels": {
+        "en": "Le Delarge",
+        "fr": "Le Delarge",
+        "de": "Dictionnaire des arts plastiques modernes et contemporains",
+        "es": "Le Delarge"
+      },
+      "descriptions": {
+        "en": "art dictionary",
+        "fr": "dictionnaire d'art",
+        "es": "diccionario de arte"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q214430": {
+      "id": "Q214430",
+      "fetchedAt": "2026-11-13T11:05:29Z",
+      "labels": {
+        "fr": "Like a Rolling Stone",
+        "es": "Like a Rolling Stone",
+        "de": "Like a Rolling Stone",
+        "ja": "ライク・ア・ローリング・ストーン",
+        "en": "Like a Rolling Stone",
+        "zh": "Like a Rolling Stone",
+        "ar": "مثل رولينج ستون",
+        "ko": "Like a Rolling Stone"
+      },
+      "descriptions": {
+        "fr": "chanson de Bob Dylan",
+        "de": "Lied von Bob Dylan (1965)",
+        "en": "original song written, composed, and performed by Bob Dylan",
+        "es": "canción de Bob Dylan",
+        "ko": "밥 딜런의 노래"
+      }
+    },
+    "Q217211": {
+      "id": "Q217211",
+      "fetchedAt": "2026-11-13T11:05:29Z",
+      "labels": {
+        "fr": "Highway 61 Revisited",
+        "es": "Highway 61 Revisited",
+        "de": "Highway 61 Revisited",
+        "ja": "追憶のハイウェイ 61",
+        "en": "Highway 61 Revisited",
+        "ko": "Highway 61 Revisited",
+        "zh": "重访61号公路"
+      },
+      "descriptions": {
+        "fr": "album de Bob Dylan",
+        "en": "1965 studio album by Bob Dylan",
+        "de": "Studioalbum von Bob Dylan (1965)",
+        "es": "álbum de estudio del músico estadounidense Bob Dylan",
+        "ja": "ボブ・ディランのアルバム",
+        "ar": "ألبوم من أداء بوب ديلن",
+        "ko": "밥 딜런의 음반"
+      }
+    },
+    "Q237227": {
+      "id": "Q237227",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Brockhaus Enzyklopädie",
+        "ko": "브로크하우스 백과사전",
+        "es": "Enciclopedia Brockhaus",
+        "de": "Brockhaus Enzyklopädie",
+        "en": "Brockhaus Enzyklopädie",
+        "zh": "布羅克豪斯百科全書",
+        "ja": "ブロックハウス百科事典",
+        "ar": "موسوعة بروكهوس"
+      },
+      "descriptions": {
+        "de": "mehrbändiges lexikalisches Nachschlagewerk in deutscher Sprache",
+        "en": "German-language encyclopedia",
+        "zh": "德語百科全書",
+        "ar": "موسوعة ألمانية",
+        "fr": "encyclopédie de langue allemande",
+        "es": "léxico de varios volúmenes en alemán",
+        "ja": "ドイツ語の百科事典"
+      }
+    },
+    "Q2430567": {
+      "id": "Q2430567",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "ja": "サブタレニアン・ホームシック・ブルース",
+        "fr": "Subterranean Homesick Blues",
+        "en": "Subterranean Homesick Blues",
+        "es": "Subterranean Homesick Blues",
+        "de": "Subterranean Homesick Blues",
+        "zh": "地下鄉愁藍調",
+        "ko": "Subterranean Homesick Blues"
+      },
+      "descriptions": {
+        "fr": "chanson de Bob Dylan",
+        "de": "Single von Bob Dylan (1965)",
+        "en": "original song written, composed, and performed by Bob Dylan",
+        "es": "canción compuesta por Bob Dylan",
+        "ko": "밥 딜런의 노래"
+      }
+    },
+    "Q2526255": {
+      "id": "Q2526255",
+      "fetchedAt": "2026-11-13T11:01:28Z",
+      "labels": {
+        "de": "Filmregisseur",
+        "ar": "مخرج أفلام",
+        "en": "film director",
+        "es": "director de cine",
+        "fr": "réalisateur ou réalisatrice de cinéma",
+        "ja": "映画監督",
+        "ko": "영화 감독",
+        "zh": "電影導演"
+      },
+      "descriptions": {
+        "fr": "personne qui dirige la fabrication d'une œuvre audiovisuelle",
+        "de": "kreativer Leiter einer Filmproduktion",
+        "en": "person who controls the artistic and dramatic aspects of a film production",
+        "es": "persona que controla los aspectos artísticos y dramáticos de una producción cinematográfica",
+        "zh": "電影拍攝時的總監督者",
+        "ar": "الشخص الذي يتحكم في الجوانب الفنية والدرامية للفلم",
+        "ja": "職業のひとつ",
+        "ko": "영화를 연출하는 사람"
+      }
+    },
+    "Q268106": {
+      "id": "Q268106",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "de": "Bringing It All Back Home",
+        "en": "Bringing It All Back Home",
+        "es": "Bringing It All Back Home",
+        "fr": "Bringing It All Back Home",
+        "ja": "ブリンギング・イット・オール・バック・ホーム",
+        "ko": "Bringing It All Back Home"
+      },
+      "descriptions": {
+        "fr": "album de Bob Dylan",
+        "de": "Studioalbum von Bob Dylan (1965)",
+        "en": "1965 studio album by Bob Dylan",
+        "es": "álbum de Bob Dylan",
+        "ja": "ボブ・ディランのアルバム",
+        "ar": "ألبوم من أداء بوب ديلن",
+        "ko": "밥 딜런의 음반"
+      }
+    },
+    "Q2722764": {
+      "id": "Q2722764",
+      "fetchedAt": "2026-11-13T10:59:44Z",
+      "labels": {
+        "de": "Hörfunkmoderator",
+        "ja": "ラジオパーソナリティ",
+        "fr": "animateur ou animatrice de radio",
+        "en": "radio personality",
+        "es": "personalidad de radio",
+        "zh": "廣播節目主持人",
+        "ar": "إذاعي",
+        "ko": "라디오 DJ"
+      },
+      "descriptions": {
+        "de": "Medienberuf",
+        "fr": "personne qui anime une émission de radiodiffusion",
+        "es": "persona que anima una emisión radiofónica",
+        "en": "person who has an on-air position in radio broadcasting",
+        "ar": "الشخص الذي لديه منصب على الهواء في البث الإذاعي",
+        "ja": "ラジオ番組を司会進行する者",
+        "zh": "在無線電廣播中擔任播音員的人"
+      }
+    },
+    "Q27939": {
+      "id": "Q27939",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "zh": "歌唱",
+        "es": "canto",
+        "ar": "غناء",
+        "ja": "歌唱",
+        "fr": "chant",
+        "ko": "가창",
+        "de": "Gesang",
+        "en": "singing"
+      },
+      "descriptions": {
+        "en": "act of producing musical sounds with the voice",
+        "fr": "production de sons musicaux à l'aide de la voix",
+        "es": "producción de sonidos musicales con la voz",
+        "de": "musikalischer Gebrauch der menschlichen Stimme",
+        "ja": "声によって音楽を再生すること",
+        "ko": "목소리로 음악적 소리를 내는 행위",
+        "ar": "شخص يقوم بالغناء",
+        "zh": "人体使用声音使乐曲再现"
+      }
+    },
+    "Q28389": {
+      "id": "Q28389",
+      "fetchedAt": "2026-11-13T11:01:29Z",
+      "labels": {
+        "zh": "編劇",
+        "es": "guionista",
+        "fr": "scénariste",
+        "ko": "각본가",
+        "ja": "脚本家",
+        "en": "screenwriter",
+        "de": "Drehbuchautor",
+        "ar": "كاتب سيناريو"
+      },
+      "descriptions": {
+        "ja": "主に映画・テレビドラマ･アニメ･ゲーム・舞台・ラジオドラマなどの脚本を書く人のこと",
+        "fr": "personne qui écrit un scénario",
+        "en": "writer who writes for films, TV shows, comics and games",
+        "es": "escritor que escribe para películas, programas de televisión, cómics y juegos",
+        "de": "Verfasser eines Drehbuchs",
+        "ar": "كاتب يكتب الأفلام والمسلسلات التلفزيونية والقصص المصورة والألعاب",
+        "zh": "為電視、電影、漫畫和遊戲寫作的作家",
+        "ko": "영화·텔레비전 드라마·애니메이션·게임·무대·라디오 드라마 등의 각본을 쓰는 사람"
+      }
+    },
+    "Q2877812": {
+      "id": "Q2877812",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "fr": "Babelio",
+        "en": "Babelio",
+        "de": "Babelio",
+        "ar": "بابيليو",
+        "es": "Babelio",
+        "ja": "バベリオ"
+      },
+      "descriptions": {
+        "de": "französische Website",
+        "en": "French social cataloging and book website",
+        "es": "red social dedicada al libro y la lectura",
+        "fr": "site web communautaire français",
+        "zh": "法文網站",
+        "ja": "フランスのウェブサイト",
+        "ar": "منظمة فرنسية"
+      }
+    },
+    "Q29861311": {
+      "id": "Q29861311",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "en": "SNAC",
+        "es": "SNAC",
+        "fr": "SNAC",
+        "ar": "الشبكات الاجتماعية وسياق الأرشيف",
+        "de": "SNAC",
+        "ja": "SNAC",
+        "zh": "社交網絡及存檔內容",
+        "ko": "SNAC"
+      },
+      "descriptions": {
+        "de": "Online Datenbank für Archivgut zu Personen, Familien und Körperschaften",
+        "en": "online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",
+        "ja": "図書館などが所蔵する歴史的記録を発見、検索、使用し、人物のソーシャルネットワークを構築するするためのオンラインプロジェクト",
+        "es": "proyecto en línea para descubrir, localizar y utilizar registros históricos distribuidos en relación con personas, familias y organizaciones individuales",
+        "ko": "온라인 인명 데이터베이스"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q300854": {
+      "id": "Q300854",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "fr": "Blood on the Tracks",
+        "es": "Blood on the Tracks",
+        "en": "Blood on the Tracks",
+        "de": "Blood on the Tracks",
+        "ja": "血の轍",
+        "ko": "Blood on the Tracks",
+        "zh": "血淚交織"
+      },
+      "descriptions": {
+        "fr": "album de Bob Dylan",
+        "en": "1975 studio album by Bob Dylan",
+        "de": "Studioalbum von Bob Dylan (1975)",
+        "es": "álbum de estudio del músico estadounidense Bob Dylan",
+        "ja": "ボブ・ディランのアルバム",
+        "ar": "ألبوم من أداء بوب ديلن",
+        "ko": "밥 딜런의 음반"
+      }
+    },
+    "Q31964": {
+      "id": "Q31964",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "fr": "Internet Broadway Database",
+        "ko": "인터넷 브로드웨이 데이터베이스",
+        "es": "Internet Broadway Database",
+        "en": "Internet Broadway Database",
+        "de": "Internet Broadway Database",
+        "ja": "インターネット・ブロードウェイ・データベース",
+        "zh": "百老匯網路資料庫",
+        "ar": "قاعدة بيانات برودواي على الإنترنت"
+      },
+      "descriptions": {
+        "es": "base de datos en línea",
+        "de": "Datenbank über Broadway-Theater",
+        "en": "online database of Broadway theatre productions and their personnel",
+        "fr": "base de données en ligne sur le théâtre",
+        "ar": "قاعدة بيانات على الإنترنت لمسرحيات مسرح برودواي وموظفيها"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3319305": {
+      "id": "Q3319305",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "es": "Premio Princesa de Asturias de las Artes",
+        "fr": "prix Princesse des Asturies pour les arts",
+        "ar": "جائزة أميرة أشتوريس للفنون",
+        "en": "Princess of Asturias Award for the Arts",
+        "ja": "アストゥリアス皇太子賞芸術部門"
+      },
+      "descriptions": {
+        "es": "reconocimiento internacional entregado anualmente en España",
+        "fr": "prix artistique espagnol",
+        "en": "artistic prize"
+      }
+    },
+    "Q332399": {
+      "id": "Q332399",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "Traveling Wilburys",
+        "es": "Traveling Wilburys",
+        "de": "Traveling Wilburys",
+        "ja": "トラヴェリング・ウィルベリーズ",
+        "en": "Traveling Wilburys",
+        "zh": "漂泊合唱團",
+        "ko": "트래블링 윌버리스",
+        "ar": "ترافيلين ويلبيرز"
+      },
+      "descriptions": {
+        "fr": "supergroupe de rock et folk-rock anglo-américain",
+        "de": "US-amerikanische Band",
+        "en": "English–American musical group",
+        "es": "supergrupo británico-estadounidense",
+        "ar": "طاقم موسيقي من الولايات المتحدة",
+        "ja": "ジョージ・ハリスン、ジェフ・リン、ボブ・ディラン、トム・ペティ、ロイ・オービソンによる覆面バンド"
+      }
+    },
+    "Q33999": {
+      "id": "Q33999",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "zh": "演員",
+        "es": "actor",
+        "ar": "ممثل",
+        "fr": "acteur ou actrice",
+        "ko": "배우",
+        "de": "Schauspieler",
+        "ja": "俳優",
+        "en": "actor"
+      },
+      "descriptions": {
+        "de": "darstellender Künstler, der mit Sprache, Mimik oder Gestik eine Rolle verkörpert",
+        "es": "persona que actúa en una producción fílmica, televisiva, teatral o radial",
+        "fr": "artiste qui prête son physique ou sa voix à un personnage dans une œuvre artistique animée",
+        "zh": "从事表演艺术的人",
+        "ja": "ある人物に扮して台詞・身振り・表情などで演じる人",
+        "ko": "영화, 텔레비전, 연극, 뮤지컬 등 극적인 공연에서 연기하는 직업",
+        "ar": "شخص يمثل في الإنتاج الدرامي أو الكوميدي ويعمل في الأفلام، والتلفزيون، والمسرح، أو الراديو",
+        "en": "person who acts in a dramatic or comic production and works in film, television, theatre, or radio"
+      }
+    },
+    "Q3439758": {
+      "id": "Q3439758",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "ja": "シドウェル・フレンズ・スクール",
+        "en": "Sidwell Friends School",
+        "fr": "Sidwell Friends School",
+        "zh": "赛维尔友谊学校"
+      },
+      "descriptions": {
+        "fr": "établissement scolaire de Washington DC.",
+        "en": "Private, day, college-prep school in Bethesda, Maryland and Washington, D.C.",
+        "de": "Schule in den Vereinigten Staaten",
+        "ar": "مدرسة في واشنطن، الولايات المتحدة"
+      }
+    },
+    "Q3455803": {
+      "id": "Q3455803",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "réalisateur ou réalisatrice",
+        "es": "realizador",
+        "de": "Regisseur",
+        "zh": "導演",
+        "ja": "監督",
+        "en": "director",
+        "ko": "감독",
+        "ar": "مخرج"
+      },
+      "descriptions": {
+        "fr": "personne qui coordonne les aspects techniques et artistiques de la production d'œuvres",
+        "es": "persona encargada de cuidar todos los detalles materiales de una representación artística",
+        "zh": "戲劇演出、影視製作團隊中，整合全部藝術元素的藝術生產負責人",
+        "de": "Person, die Werke der darstellenden Kunst inszeniert",
+        "en": "director of a creative work",
+        "ja": "監督行為をする者の総称",
+        "ar": "شخص يقوم بالاشراف علي العمل الفني"
+      }
+    },
+    "Q36180": {
+      "id": "Q36180",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "作家",
+        "es": "escritor",
+        "ar": "كاتب",
+        "fr": "écrivain ou écrivaine",
+        "ko": "작가",
+        "de": "Schriftsteller",
+        "ja": "著作家",
+        "en": "writer"
+      },
+      "descriptions": {
+        "de": "Person, die literarische Texte verfasst",
+        "es": "persona que crea obras escritas, especialmente de carácter literario",
+        "en": "person who uses written words to communicate ideas and to produce literary works",
+        "fr": "personne qui rédige des ouvrages littéraires ou scientifiques",
+        "zh": "以寫作為業的人",
+        "ko": "아이디어를 전달하고 문학 작품을 만들기 위해 글을 사용하는 사람",
+        "ar": "الشخص الذي يستخدم الكلمات المكتوبة لتوصيل الأفكار وإنتاج الأعمال الأدبية",
+        "ja": "職業のひとつ"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q36834": {
+      "id": "Q36834",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "zh": "作曲家",
+        "es": "compositor",
+        "ar": "ملحن",
+        "fr": "compositeur ou compositrice",
+        "ko": "작곡가",
+        "de": "Komponist",
+        "ja": "作曲家",
+        "en": "composer"
+      },
+      "descriptions": {
+        "en": "person who is an author of music in any form",
+        "fr": "personne qui compose de la musique",
+        "es": "persona que compone música",
+        "de": "Person, die Musikstücke komponiert",
+        "ar": "شخص يؤلف موسيقى، إما عن طريق التدوين الموسيقي أو التقاليد الشفوية",
+        "zh": "音樂創作者",
+        "ja": "楽曲のメロディを書く人",
+        "ko": "노래를 만드는 사람"
+      }
+    },
+    "Q37073": {
+      "id": "Q37073",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "es": "pop",
+        "ar": "بوب",
+        "fr": "pop",
+        "ko": "팝 음악",
+        "de": "Popmusik",
+        "ja": "ポップ・ミュージック",
+        "en": "pop music",
+        "zh": "流行音乐"
+      },
+      "descriptions": {
+        "en": "popular music genre originating in the mid-1950s in the US and UK; initially overlapping with rock and roll, later becoming associated with more commercial, accessible, and ephemeral styles distinct from rock",
+        "fr": "genre musical populaire",
+        "de": "Musikgenre",
+        "es": "género musical que tiene elementos de la música rock y de la música popular británica y que se originó en la década de 1960",
+        "ar": "نوع من الموسيقى الشهيرة نشأ شكله الحديث في أواخر خمسينيات القرن العشرين وهو مُشتق من الروك أند رول",
+        "ja": "ポピュラー音楽のジャンル",
+        "ko": "대중음악의 가장 기본이 되는 장르",
+        "zh": "音乐类型"
+      }
+    },
+    "Q373342": {
+      "id": "Q373342",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "ar": "موسيقى شائعة",
+        "en": "popular music",
+        "es": "música popular",
+        "fr": "musique populaire",
+        "ja": "ポピュラー音楽",
+        "ko": "대중음악",
+        "zh": "流行音樂",
+        "de": "populäre Musik"
+      },
+      "descriptions": {
+        "en": "music genres distributed to large audiences and considered to have wide appeal",
+        "fr": "musique qui trouve son origine et son public dans les milieux populaires",
+        "de": "musikalische Praktiken, die durch kommerzielle Strukturen auf ein Massenpublikum abzielen",
+        "ja": "音楽のジャンル、当代における大衆音楽の総称",
+        "es": "conjunto de géneros musicales que resultan atractivos para el gran público",
+        "zh": "音樂類型",
+        "ko": "현대 일반 대중을 대상으로 하는 음악"
+      }
+    },
+    "Q37922": {
+      "id": "Q37922",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "prix Nobel de littérature",
+        "ja": "ノーベル文学賞",
+        "en": "Nobel Prize in Literature",
+        "es": "Premio Nobel de Literatura",
+        "de": "Nobelpreis für Literatur",
+        "zh": "诺贝尔文学奖",
+        "ko": "노벨 문학상",
+        "ar": "جائزة نوبل في الأدب"
+      },
+      "descriptions": {
+        "es": "uno de los cinco premios señalados en el testamento del filántropo sueco Alfred Nobel",
+        "fr": "prix littéraire international",
+        "de": "internationaler Literaturpreis, gestiftet von Alfred Nobel",
+        "ja": "ノーベル賞の授賞部門のひとつ",
+        "ar": "فرع من جائزة نوبل المرموقة وتُخصص للأدب",
+        "en": "one of five prizes established by Alfred Nobel",
+        "ko": "노벨상의 종류"
+      }
+    },
+    "Q40683907": {
+      "id": "Q40683907",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "fr": "docteur honoris causa de l'université de St Andrews",
+        "en": "honorary doctor of the University of St Andrews",
+        "de": "Ehrendoktor der University of St Andrews",
+        "ar": "الدكتوراه الفخرية من جامعة سانت أندروز",
+        "ja": "セイント・アンドルーズ大学名誉博士"
+      },
+      "descriptions": {}
+    },
+    "Q41254": {
+      "id": "Q41254",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "zh": "格莱美奖",
+        "es": "Premios Grammy",
+        "fr": "Grammy Awards",
+        "ko": "그래미상",
+        "de": "Grammy Awards",
+        "ja": "グラミー賞",
+        "en": "Grammy Awards",
+        "ar": "جائزة غرامي"
+      },
+      "descriptions": {
+        "en": "American award for achievements in music",
+        "de": "US-amerikanischer Musikpreis",
+        "fr": "ensemble de distinctions décernées par la National Academy of Recording Arts and Sciences of the United States",
+        "es": "ceremonia de premiación de la Academia Nacional de Artes y Ciencias de la Grabación de Estados Unidos",
+        "zh": "由美國國家錄音藝術與科學學院頒發的獎項",
+        "ko": "미국의 시상식",
+        "ja": "音楽の功績に対するアメリカの賞",
+        "ar": "جائزة أمريكية للإنجازات في الموسيقى"
+      }
+    },
+    "Q414110": {
+      "id": "Q414110",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "Académie des arts de Berlin",
+        "en": "Academy of Arts, Berlin",
+        "de": "Akademie der Künste Berlin",
+        "es": "Academia de las Artes de Berlín",
+        "ja": "ベルリン芸術アカデミー",
+        "zh": "柏林艺术学院",
+        "ar": "أكاديمية الفنون في برلين",
+        "ko": "베를린 예술 아카데미"
+      },
+      "descriptions": {
+        "de": "Institution zur Förderung der Kunst mit Sitz in Berlin",
+        "en": "national German academic institution for the advancement of the arts; created in 1993 through the merger of the West and East German academies",
+        "fr": "institution culturelle allemande consacrée aux arts",
+        "ar": "الأكاديمية الألمانية الوطنية لتقدم الفنون",
+        "es": "museo en Alemania"
+      }
+    },
+    "Q42309226": {
+      "id": "Q42309226",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "docteur honoris causa de l'université de Princeton",
+        "de": "Ehrendoktor der Princeton University",
+        "en": "honorary doctorate from Princeton University",
+        "ar": "الدكتوراة الفخرية من جامعة برينستون",
+        "es": "doctor honoris causa por la Universidad de Princeton",
+        "ja": "プリンストン大学名誉博士"
+      },
+      "descriptions": {
+        "es": "título honorífico de doctor conferido por la Universidad de Princeton, y otorgado a personas eminentes en reconocimiento de sus méritos especiales"
+      }
+    },
+    "Q43343": {
+      "id": "Q43343",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "zh": "民俗音樂",
+        "es": "música folclórica",
+        "ar": "موسيقى شعبية",
+        "fr": "folk",
+        "ko": "컨템포러리 포크 음악",
+        "de": "Folk",
+        "ja": "フォーク音楽",
+        "en": "folk music"
+      },
+      "descriptions": {
+        "en": "music meta-genre encompassing traditional folk music, contemporary folk music (evolved from the former during the 20th-century folk revival), and derivatives of these two branches",
+        "fr": "genre musical",
+        "de": "Musik-Genre",
+        "es": "música tradicional y típicamente anónima que es una expresión de la vida de las personas en una comunidad",
+        "ar": "ميتا النوع الموسيقي، ويتألف من الموسيقى الشعبية التقليدية ، والموسيقى الشعبية المعاصرة والموسيقى العالمية (العرقية)، فضلا عن الأنواع الفرعية الشعبية الأخرى",
+        "ko": "20세기에 생겨난 대중 음악 장르",
+        "ja": "民謡や民族音楽に根ざした音楽、それから派生したポピュラー音楽の総称"
+      }
+    },
+    "Q463281": {
+      "id": "Q463281",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des lettres",
+        "en": "American Academy of Arts and Letters",
+        "zh": "美国艺术暨文学学会",
+        "de": "American Academy of Arts and Letters",
+        "ar": "الأكاديمية الأمريكية للفنون والآداب",
+        "es": "Academia Estadounidense de las Artes y las Letras",
+        "ja": "アメリカ芸術文学アカデミー",
+        "ko": "미국 예술 문학 아카데미"
+      },
+      "descriptions": {
+        "en": "honor society",
+        "fr": "académie artistique et littéraire des États-Unis",
+        "ko": "명예 사회",
+        "es": "sociedad de honor",
+        "ja": "アメリカ合衆国の団体",
+        "de": "Gesellschaft in den Vereinigten Staaten von Amerika mit Sitz in Washington Heights"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q482980": {
+      "id": "Q482980",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "autor",
+        "ar": "مؤلف",
+        "de": "Autor",
+        "ja": "作家",
+        "en": "author",
+        "fr": "auteur ou autrice",
+        "zh": "作者",
+        "ko": "저자"
+      },
+      "descriptions": {
+        "de": "Verfasser oder geistiger Urheber eines sprachlichen Werkes",
+        "fr": "créateur d'une œuvre originale",
+        "en": "writer of an original work",
+        "es": "creador de una obra original",
+        "ko": "예술과 취미의 분야에서 작품을 창작하는 사람",
+        "ar": "منشئ عمل أصلي أو مؤلف فكري لعمل لغوي",
+        "ja": "職業のひとつ",
+        "zh": "創意作品的創作者"
+      }
+    },
+    "Q483501": {
+      "id": "Q483501",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "es": "artista",
+        "ar": "فنان",
+        "fr": "artiste",
+        "de": "Künstler",
+        "ja": "芸術家",
+        "en": "artist",
+        "zh": "艺术家",
+        "ko": "예술가"
+      },
+      "descriptions": {
+        "en": "person who engages in any form of artistic creation or practice",
+        "es": "persona dedicada al arte",
+        "de": "kreativ tätiger Mensch, der Kunstwerke schafft",
+        "fr": "personne qui fait de l'art",
+        "ar": "الشخص الذي يخلق، ويمارس و / أو يوضح أي فن",
+        "zh": "進行藝術創作的人物",
+        "ko": "예술 활동을 직업으로 하는 사람",
+        "ja": "芸術作品を創作・表現する人"
+      }
+    },
+    "Q485708": {
+      "id": "Q485708",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "Duluth",
+        "ko": "덜루스",
+        "es": "Duluth",
+        "de": "Duluth",
+        "ja": "ダルース",
+        "en": "Duluth",
+        "zh": "德卢斯",
+        "ar": "دولوث"
+      },
+      "descriptions": {
+        "fr": "ville du Minnesota, aux États-Unis",
+        "en": "city in Minnesota, United States; county seat of St. Louis County",
+        "de": "Stadt im US-Bundesstaat Minnesota",
+        "ja": "アメリカ合衆国ミネソタ州の都市",
+        "ar": "مدينة في ولاية مينيسوتا",
+        "es": "ciudad y sede del condado de St. Louis, estado de Minnesota, Estados Unidos",
+        "zh": "美国明尼苏达州城市",
+        "ko": "미국 미네소타주에 있는 도시"
+      }
+    },
+    "Q486748": {
+      "id": "Q486748",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "pianiste",
+        "ko": "피아노 연주자",
+        "de": "Pianist",
+        "ja": "ピアニスト",
+        "en": "pianist",
+        "ar": "عازف بيانو",
+        "es": "pianista",
+        "zh": "钢琴家"
+      },
+      "descriptions": {
+        "fr": "personne qui joue du piano",
+        "en": "musician who plays the piano",
+        "es": "músico que toca el piano",
+        "de": "Musiker, der Klavier spielt",
+        "zh": "彈鋼琴的音樂家",
+        "ar": "الموسيقي الذي يعزف علي البيانو",
+        "ja": "ピアノの演奏者",
+        "ko": "피아노를 연주하는 음악가"
+      }
+    },
+    "Q49757": {
+      "id": "Q49757",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "poète ou poétesse",
+        "de": "Dichter",
+        "en": "poet",
+        "es": "poeta",
+        "ja": "詩人",
+        "ko": "시인",
+        "zh": "诗人",
+        "ar": "شاعر"
+      },
+      "descriptions": {
+        "fr": "artiste disant ou écrivant de la poésie",
+        "en": "person who writes poetry",
+        "de": "Schriftsteller, der Gedichte schreibt",
+        "es": "persona que escribe poesía",
+        "ja": "詩を書き、それを発表する者",
+        "ar": "الشخص الذي يكتب وينشر كتب الشعر من أنواع المهنة",
+        "zh": "編寫詩詞的人",
+        "ko": "시를 전문적으로 짓는 사람"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5322166": {
+      "id": "Q5322166",
+      "fetchedAt": "2026-11-13T11:05:32Z",
+      "labels": {
+        "de": "Designer",
+        "ar": "مصمم",
+        "en": "designer",
+        "es": "diseñador",
+        "fr": "designer ou designeuse",
+        "ja": "デザイナー",
+        "ko": "디자이너",
+        "zh": "設計師"
+      },
+      "descriptions": {
+        "es": "profesional del diseño",
+        "de": "Beruf",
+        "en": "person who designs",
+        "fr": "personne qui fait du design",
+        "zh": "設計的人",
+        "ja": "視覚的な設計を行う者",
+        "ar": "من يُصمِّم",
+        "ko": "디자인을 업으로 하는 사람"
+      }
+    },
+    "Q5593772": {
+      "id": "Q5593772",
+      "fetchedAt": "2026-11-13T11:05:32Z",
+      "labels": {
+        "en": "Grammy Award for Best Contemporary Folk Album",
+        "es": "premio Grammy al mejor álbum de folk contemporáneo",
+        "ar": "جائزة جرامي لأفضل ألبوم شعبي معاصر",
+        "de": "Grammy Award for Best Contemporary Folk Album",
+        "zh": "葛萊美最佳民謠專輯獎",
+        "fr": "Grammy Award du meilleur album de folk contemporain"
+      },
+      "descriptions": {
+        "es": "premio Grammy",
+        "en": "Grammy Award category"
+      }
+    },
+    "Q5593894": {
+      "id": "Q5593894",
+      "fetchedAt": "2026-11-13T11:05:32Z",
+      "labels": {
+        "en": "Grammy Award for Best Traditional Folk Album",
+        "es": "premio Grammy al mejor álbum de folk tradicional",
+        "ar": "جائزة جرامي لأفضل ألبوم شعبي تقليدي",
+        "de": "Grammy Award for Best Traditional Folk Album",
+        "fr": "Grammy Award du meilleur album de folk traditionnel"
+      },
+      "descriptions": {
+        "es": "premio Grammy",
+        "en": "Grammy Award for folk music"
+      }
+    },
+    "Q598116": {
+      "id": "Q598116",
+      "fetchedAt": "2026-11-13T11:05:32Z",
+      "labels": {
+        "fr": "Blonde on Blonde",
+        "de": "Blonde on Blonde",
+        "en": "Blonde on Blonde",
+        "es": "Blonde on Blonde",
+        "ja": "ブロンド・オン・ブロンド",
+        "ko": "Blonde on Blonde"
+      },
+      "descriptions": {
+        "fr": "album de Bob Dylan",
+        "de": "Studioalbum von Bob Dylan (1966)",
+        "en": "1966 studio album by Bob Dylan",
+        "es": "álbum de estudio del músico estadounidense Bob Dylan",
+        "ko": "밥 딜런의 음반",
+        "ar": "ألبوم من أداء بوب ديلن وآخرون"
+      }
+    },
+    "Q639669": {
+      "id": "Q639669",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "de": "Musiker",
+        "ar": "موسيقي",
+        "en": "musician",
+        "es": "músico",
+        "fr": "musicien ou musicienne",
+        "ja": "音楽家",
+        "ko": "음악가",
+        "zh": "音樂家"
+      },
+      "descriptions": {
+        "de": "Person, die Musik komponiert oder interpretiert",
+        "en": "person who composes, conducts or performs music",
+        "es": "persona que compone o ejecuta piezas musicales",
+        "fr": "personne qui joue ou compose de la musique",
+        "zh": "作曲或演奏音樂的人",
+        "ja": "音楽の作曲や演奏を行う人",
+        "ko": "음악을 작곡, 지휘 또는 연주하는 사람",
+        "ar": "شخص يؤدي أو يلحن الموسيقى"
+      }
+    },
+    "Q640529": {
+      "id": "Q640529",
+      "fetchedAt": "2026-11-13T11:05:33Z",
+      "labels": {
+        "de": "Blowin’ in the Wind",
+        "en": "Blowin' in the Wind",
+        "es": "Blowin' in the Wind",
+        "fr": "Blowin' in the Wind",
+        "ja": "風に吹かれて",
+        "zh": "答案在风中飘荡",
+        "ko": "Blowin' in the Wind"
+      },
+      "descriptions": {
+        "fr": "chanson de Bob Dylan",
+        "en": "orignal song written and composed by Bob Dylan; originally recorded by Bob Dylan in 1962 and released in 1963",
+        "de": "Lied aus dem Jahr 1962 von Bob Dylan",
+        "es": "canción de 1963 escrita y cantada por Bob Dylan",
+        "zh": "1962年鲍勃·迪伦的歌",
+        "ko": "밥 딜런의 노래"
+      }
+    },
+    "Q7259350": {
+      "id": "Q7259350",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "en": "Pulitzer Prize Special Citations and Awards",
+        "ar": "جائزة بوليتزر عن فئة الجوائز الخاصة والاستشهادات",
+        "ja": "ピューリッツァー賞 特別賞",
+        "zh": "普利策特别奖",
+        "ko": "퓰리처 특별상",
+        "es": "Premio Pulitzer Mención Especial"
+      },
+      "descriptions": {
+        "en": "special category of Pulitzer Prize",
+        "es": "premio estadounidense"
+      }
+    },
+    "Q73268604": {
+      "id": "Q73268604",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "en": "Museum of Modern Art online collection",
+        "ar": "مجموعة متحف الفن الحديث على الإنترنت",
+        "fr": "collection en ligne du Museum of Modern Art",
+        "es": "colección en línea del Museo de Arte Moderno de Nueva York",
+        "ko": "근대미술관 온라인 컬렉션"
+      },
+      "descriptions": {
+        "en": "online database of the Museum of Modern Art",
+        "ko": "근대미술관 온라인 데이터베이스",
+        "es": "base de datos en línea del Museo de Arte Moderno"
+      }
+    },
+    "Q746368": {
+      "id": "Q746368",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "de": "Store norske leksikon",
+        "en": "Great Norwegian Encyclopedia",
+        "es": "Store norske leksikon",
+        "fr": "Store norske leksikon",
+        "zh": "挪威大百科全书",
+        "ja": "ノルウェー百科事典",
+        "ar": "الموسوعة النرويجية العظمى"
+      },
+      "descriptions": {
+        "fr": "encyclopédie norvégienne",
+        "en": "Norwegian encyclopedia",
+        "de": "norwegische Enzyklopädie",
+        "es": "enciclopedia noruega"
+      }
+    },
+    "Q753110": {
+      "id": "Q753110",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "fr": "auteur-compositeur ou autrice-compositrice",
+        "ko": "작곡가 겸 작사가",
+        "es": "compositor de canciones",
+        "de": "Songschreiber",
+        "ja": "ソングライター",
+        "en": "songwriter",
+        "ar": "كاتب أغاني",
+        "zh": "詞曲作家"
+      },
+      "descriptions": {
+        "en": "person who writes the words or music to songs",
+        "es": "individuo que escribe tanto la letra como la música de una canción",
+        "fr": "auteur du texte et compositeur de la musique de chansons",
+        "de": "Person, die Songs verfasst",
+        "ko": "곡을 만들 때 작곡과 작사를 둘 다 하는 사람",
+        "ar": "شخص يكتب الكلمات أو الموسيقى (أو كلاهما) للأغاني",
+        "zh": "將歌詞或音樂（或兩者）寫入歌曲的人",
+        "ja": "ポピュラー音楽において、歌詞とメロディの両方を同時に創作する者"
+      }
+    },
+    "Q754841": {
+      "id": "Q754841",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "fr": "prix Polar Music",
+        "ko": "폴라음악상",
+        "es": "Premio de Música Polar",
+        "en": "Polar Music Prize",
+        "de": "Polar Music Prize",
+        "zh": "保拉音乐奖",
+        "ja": "ポーラー音楽賞",
+        "ar": "جائزة موسيقى بولار"
+      },
+      "descriptions": {
+        "en": "award",
+        "de": "schwedischer Musikpreis",
+        "ar": "جائزة تقديرية",
+        "es": "Premio",
+        "zh": "国际音乐奖项"
+      }
+    },
+    "Q822146": {
+      "id": "Q822146",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "ko": "작사가",
+        "fr": "parolier ou parolière",
+        "es": "letrista",
+        "en": "lyricist",
+        "ja": "作詞家",
+        "ar": "شاعر غنائي",
+        "zh": "填词人",
+        "de": "Liedtexter"
+      },
+      "descriptions": {
+        "en": "writer of song lyrics",
+        "es": "persona que escribe letras para canciones",
+        "fr": "personne qui écrit le texte d’une chanson",
+        "de": "Verfasser von Texten für Lieder",
+        "ko": "노래의 가사를 전문적으로 작성하는 사람",
+        "ja": "楽曲の歌詞を書く人",
+        "zh": "创作现代歌词的作家",
+        "ar": "كاتب متخصص في كتابة كلمات الأغاني"
+      }
+    },
+    "Q83365652": {
+      "id": "Q83365652",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Roglo",
+        "en": "Roglo",
+        "de": "Roglo",
+        "es": "Roglo"
+      },
+      "descriptions": {
+        "fr": "base de données généalogiques collaborative en ligne",
+        "en": "genealogical database",
+        "de": "französische Genealogie-Datenbank",
+        "es": "base de datos genealógica"
+      }
+    },
+    "Q8341": {
+      "id": "Q8341",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "fr": "jazz",
+        "de": "Jazz",
+        "en": "jazz",
+        "ar": "جاز",
+        "es": "jazz",
+        "ja": "ジャズ",
+        "ko": "재즈",
+        "zh": "爵士乐"
+      },
+      "descriptions": {
+        "fr": "genre musical",
+        "de": "Musikrichtung",
+        "es": "género musical",
+        "en": "musical style and genre",
+        "ko": "음악 장르",
+        "ja": "音楽ジャンル",
+        "ar": "نمط ونوع ونظرية موسيقية",
+        "zh": "一种音乐流派"
+      }
+    },
+    "Q83440": {
+      "id": "Q83440",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "zh": "鄉村音樂",
+        "es": "country",
+        "ar": "كانتري",
+        "ko": "컨트리 음악",
+        "fr": "musique country",
+        "de": "Country-Musik",
+        "ja": "カントリー・ミュージック",
+        "en": "country music"
+      },
+      "descriptions": {
+        "en": "genre of American popular music",
+        "fr": "genre musical, mélange de musiques traditionnelles",
+        "de": "US-amerikanische populäre Volksmusik",
+        "ja": "アメリカ合衆国のポピュラー音楽のジャンル",
+        "ar": "نوع موسيقي",
+        "ko": "유럽계와 라틴계 미국인들을 중점으로 탄생한 미국 남부의 전통음악이자 대중음악",
+        "zh": "美國流行音樂的流派",
+        "es": "género musical estadounidense"
+      }
+    },
+    "Q8447": {
+      "id": "Q8447",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Wikipédia en français",
+        "en": "French Wikipedia",
+        "ar": "ويكيبيديا الفرنسية",
+        "de": "französischsprachige Wikipedia",
+        "es": "Wikipedia en francés",
+        "ja": "フランス語版ウィキペディア",
+        "ko": "프랑스어 위키백과",
+        "zh": "法語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "[fr] French-language edition of Wikipedia",
+        "es": "edición en francés de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in französischer Sprache",
+        "ko": "위키백과의 프랑스어판",
+        "zh": "维基百科法语版",
+        "ar": "النسخة الفرنسية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアのフランス語版"
+      }
+    },
+    "Q855091": {
+      "id": "Q855091",
+      "fetchedAt": "2026-11-13T11:05:35Z",
+      "labels": {
+        "ja": "ギタリスト",
+        "fr": "guitariste",
+        "ko": "기타 연주자",
+        "en": "guitarist",
+        "de": "Gitarrist",
+        "zh": "吉他手",
+        "es": "guitarrista",
+        "ar": "عازف قيثارة"
+      },
+      "descriptions": {
+        "de": "Musiker, der/die Gitarre spielt",
+        "fr": "personne qui joue de la guitare",
+        "en": "musician who plays the guitar",
+        "es": "músico que toca la guitarra",
+        "ar": "شخص يعزف القيثارة",
+        "zh": "演奏吉他的音樂家",
+        "ja": "ギターを弾く音楽家",
+        "ko": "기타를 연주하는 사람"
+      }
+    },
+    "Q904528": {
+      "id": "Q904528",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "fr": "Grammy Award de l'album de l'année",
+        "es": "premio Grammy al álbum del año",
+        "en": "Grammy Award for Album of the Year",
+        "de": "Grammy Award for Album of the Year",
+        "ja": "グラミー賞最優秀アルバム賞",
+        "ar": "جائزة غرامي لألبوم السنة",
+        "zh": "葛萊美獎年度專輯",
+        "ko": "그래미상 올해의 앨범상"
+      },
+      "descriptions": {
+        "es": "premio Grammy general",
+        "de": "Auszeichnung für das Album des Jahres",
+        "en": "American music award for excellent albums",
+        "fr": "Grammy le plus prestigieux",
+        "ko": "미국의 음악 산업상"
+      }
+    },
+    "Q935843": {
+      "id": "Q935843",
+      "fetchedAt": "2026-11-13T11:05:35Z",
+      "labels": {
+        "es": "Premio Grammy a la carrera artística",
+        "de": "Grammy Lifetime Achievement Award",
+        "en": "Grammy Lifetime Achievement Award",
+        "fr": "Grammy du couronnement d'une carrière",
+        "ja": "グラミー生涯業績賞",
+        "zh": "格萊美終身成就獎",
+        "ar": "جائزة غرامي لإنجاز العمر",
+        "ko": "그래미 평생 공로상"
+      },
+      "descriptions": {
+        "en": "music award given to individual performers or groups",
+        "fr": "distinction",
+        "de": "Grammy für das Lebenswerk",
+        "es": "premio estadounidense"
+      }
+    },
+    "Q953746": {
+      "id": "Q953746",
+      "fetchedAt": "2026-11-13T11:05:35Z",
+      "labels": {
+        "de": "Grammy Award for Best Male Rock Vocal Performance",
+        "en": "Grammy Award for Best Male Rock Vocal Performance",
+        "es": "premio Grammy a la mejor interpretación vocal roquera masculina",
+        "ar": "جائزة جرامي لأفضل أداء روك صوتي رجالي",
+        "ja": "最優秀男性ロック・ヴォーカル・パフォーマンス賞",
+        "fr": "Grammy Award du meilleur chanteur rock"
+      },
+      "descriptions": {
+        "es": "premio Grammy",
+        "en": "Grammy Award",
+        "de": "Auszeichnung für die beste männliche Rock- Gesangsdarbietung",
+        "fr": "prix présenté aux Grammy Awards de 1980 à 2004"
+      }
+    },
+    "Q9759": {
+      "id": "Q9759",
+      "fetchedAt": "2026-11-13T11:05:35Z",
+      "labels": {
+        "fr": "blues",
+        "en": "blues",
+        "de": "Blues",
+        "ar": "بلوز",
+        "es": "blues",
+        "ja": "ブルース",
+        "ko": "블루스",
+        "zh": "藍調"
+      },
+      "descriptions": {
+        "fr": "forme musicale vocale et instrumentale",
+        "es": "género musical",
+        "en": "vocal and instrumental music form",
+        "de": "vokale und instrumentale Musikform",
+        "ko": "음악 장르",
+        "ja": "音楽のジャンル",
+        "ar": "شكل موسيقي صوتي وآلي"
+      }
+    },
+    "Q98769076": {
+      "id": "Q98769076",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "GeneaStar",
+        "en": "GeneaStar",
+        "de": "GeneaStar",
+        "es": "GeneaStar"
+      },
+      "descriptions": {
+        "fr": "site de généalogie des célébrités",
+        "de": "genealogische Datenbank bedeutender Personen",
+        "en": "famous people's genealogy website",
+        "es": "sitio web de genealogía de personas famosas"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:DylanYoungKilkenny140719v2 (50 of 52) (52246124397) (cropped).jpg",
+    "fetchedAt": "2026-11-13T11:05:42Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DylanYoungKilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/960px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1620,
+    "height": 2165,
+    "mediaTimestamp": "2024-10-12T16:39:39Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Raph_PH",
+    "credit": "DylanYoungKilkenny140719v2 (50 of 52)",
+    "description": "Bob Dylan  - Nowlan Park, Kilkenny - Sunday 14th July 2019",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/4250bb3e2f35861554018ef9.jpg",
+    "cachedImageBytes": 154453,
+    "cachedImageSha256": "781953cf1ad0ecf0dea479f6677e55ed0a88ac6c194bcebe9fc6ca70d98b1b4d"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 20,
+    "referenceUrls": 16,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

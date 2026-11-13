@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "dylan-field",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "迪伦·菲尔德",
+    "enName": "Dylan Field",
+    "domain": "technology",
+    "domains": [
+      "technology",
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "全球数字创业",
+    "inclusionReason": "共同创办Figma并发展浏览器协作设计工具，改变产品设计与开发团队的协同工作方式。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同创办Figma并发展浏览器协作设计工具，改变产品设计与开发团队的协同工作方式。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:23Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Dylan Field",
+    "requestedTitle": "Dylan Field",
+    "resolvedTitle": "Dylan Field",
+    "wikidataId": "Q108871755",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Dylan_Field",
+      "title": "Dylan Field",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:23Z",
+      "revisionId": 1383715570,
+      "revisionTimestamp": "2026-11-04T09:59:52Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1383715570",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q108871755",
+      "title": "Q108871755",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:06:08Z",
+      "revisionId": 2539872223,
+      "revisionTimestamp": "2026-09-04T01:00:39Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Dylan Field (born 1992) is an American billionaire technology businessman, and co-founder of Figma, a web-based vector graphics editing software company. Field founded Figma in 2012 with Evan Wallace, whom he had met while they were computer science students at Brown University. In 2012, Field received a Thiel Fellowship, a $100,000 grant conditioned on his leaving school to begin working full-time on the company. Field moved to San Francisco with Wallace, where they spent four years preparing the software for its first public release in 2016.\nIn 2015, Field was named to the Forbes 30 under 30 list. He owns a 9% stake in Figma. In June 2026, Forbes estimated Field's net worth to be $1.1 billion, down from $6.6 billion in August 2025.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Dylan Field",
+    "es": "Dylan Field",
+    "zh": "迪伦·菲尔德",
+    "fr": "Dylan Field"
+  },
+  "descriptions": {
+    "en": "American entrepreneur",
+    "es": "cofundador de Figma",
+    "fr": "co-fondateur et PDG de Figma"
+  },
+  "languageArticles": {
+    "en": "Dylan Field"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q108871755$fb86473e-4c45-7a1e-b58f-2631d2ce23b2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q108871755$7f3bbda3-459c-b84e-dbe3-ac8ec4258287",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q108871755$cd3f3081-42b4-5bac-4246-6ca8ec21ade0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49114,
+            "id": "Q49114"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ],
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2009-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2009"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q108871755$48a7bf51-4e16-0184-d984-517001017fb1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 96186334,
+            "id": "Q96186334"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q108871755$e94aeeb4-4bcf-7045-0323-f3015b61d83a",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1992-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1992"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q108871755$1b1963f5-4a97-5568-9855-d95e03437a24",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "Dylan Field 2008 (cropped).jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q108871755$c8ae0d67-45f8-beee-ad62-7391891407b7",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Dylan Field, Foo Camp 2008.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P69": "education",
+    "P108": "employer",
+    "P569": "birthDate",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q49114": {
+      "id": "Q49114",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Brown University",
+        "ar": "جامعة براون",
+        "de": "Brown University",
+        "es": "Universidad Brown",
+        "fr": "Université Brown",
+        "ja": "ブラウン大学",
+        "ko": "브라운 대학교",
+        "zh": "布朗大学"
+      },
+      "descriptions": {
+        "en": "private university in Providence, Rhode Island, United States",
+        "de": "Universität in Providence im US-Bundesstaat Rhode Island",
+        "fr": "université américaine (Providence, Rhode Island)",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة في الولايات المتحدة",
+        "zh": "美國羅德島普羅維登斯私立大學",
+        "es": "universidad en Providence, Rhode Island, Estados Unidos",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q96186334": {
+      "id": "Q96186334",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "en": "Figma",
+        "fr": "Figma",
+        "zh": "Figma",
+        "es": "Figma",
+        "ar": "فيجما",
+        "de": "Figma",
+        "ja": "Figma (ソフトウェア)",
+        "ko": "피그마"
+      },
+      "descriptions": {
+        "en": "online vector graphics editor and prototyping tool",
+        "fr": "éditeur d'image vectorielle",
+        "zh": "線上向量圖形編輯器",
+        "es": "editor en línea de gráficos vectoriales y herramienta de prototipado",
+        "ar": "محرر رسومات متجه",
+        "de": "Software zum Erstellen von UI-Prototypen",
+        "ko": "인터페이스 디자인을 위한 협업 웹 애플리케이션"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Dylan Field 2008 (cropped).jpg",
+    "fetchedAt": "2026-11-13T11:06:16Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dylan_Field_2008_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Dylan_Field_2008_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dylan_Field_2008_%28cropped%29.jpg/960px-Dylan_Field_2008_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1826,
+    "height": 2433,
+    "mediaTimestamp": "2022-01-04T01:20:46Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Joi Ito",
+    "credit": "https://www.flickr.com/photos/joi/2662603712/",
+    "description": "Dylan Field at Foo Camp 2008. At the time this photograph was taken, Field was 16 or 17 years of age.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/edc3829d3dc32010b6218de7.jpg",
+    "cachedImageBytes": 204143,
+    "cachedImageSha256": "9f02b77c526f5bee242ee9ecb1eb20d601479b1527e95a1d16d8ecd83a8d7e6d"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

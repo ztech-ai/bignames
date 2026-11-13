@@ -1,0 +1,2804 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "usain-bolt",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/usain-bolt.json",
+    "sha256": "997e0c5693712dd55223b7b1de0576ffd77715a9c1ac4aa05eec04d7155d9178",
+    "capturedAt": "2026-11-13T11:25:20Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+      "https://en.wikipedia.org/wiki/Usain_Bolt",
+      "https://www.wikidata.org/wiki/Q1189"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q1189",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Usain Bolt",
+    "sourceIdentity": {
+      "requestedName": "Usain Bolt",
+      "requestedTitle": "Usain Bolt",
+      "resolvedTitle": "Usain Bolt",
+      "wikidataId": "Q1189",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-2315a8dbe0313723ea6a",
+      "property": "P106",
+      "claimId": "Q1189$db8fd27b-4fcc-45f9-eb7f-0958f2a3ffcd",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4009406,
+          "id": "Q4009406"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6541ab371b107ec946b9",
+      "property": "P106",
+      "claimId": "Q1189$3dab331c-4f15-c196-464d-4b0cc496e264",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2066131,
+          "id": "Q2066131"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c4a38980eca647a564a7",
+      "property": "P106",
+      "claimId": "q1189$7ddd9ed3-4562-b8c4-50d4-56d0038fbaed",
+      "rank": "preferred",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 11513337,
+          "id": "Q11513337"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-eea483e36c7fdbfbf434",
+      "property": "P106",
+      "claimId": "Q1189$a120caf7-4163-8d64-cb12-2316d1ace884",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 937857,
+          "id": "Q937857"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.bbc.co.uk/sport/football/45834453"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Usain Bolt scores twice on first start for Australia's Central Coast Mariners",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-10-12T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-10-12"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-10-12T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-10-12"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.bbc.co.uk/sport/football/45834453",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [
+        "https://www.bbc.co.uk/sport/football/45834453"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-506168bfbfefbbd6e5db",
+      "property": "P27",
+      "claimId": "q1189$C05E26A5-D644-4D0A-9B8C-75B405C1A8D5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 766,
+          "id": "Q766"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 95606922,
+                "id": "Q95606922"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-aaf438f039662c263a7c",
+      "property": "P569",
+      "claimId": "q1189$3e6e0fed-4abb-6147-a08b-16dc62f26768",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1986-08-21T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1986-08-21"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 37312,
+                "id": "Q37312"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-08-12T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015-08-12"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 54960205,
+                "id": "Q54960205"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 95606922,
+                "id": "Q95606922"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q37312",
+        "https://www.wikidata.org/wiki/Q54960205",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q37312",
+        "https://www.wikidata.org/wiki/Q54960205",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1986-08-21T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1986-08-21",
+        "earliest": "1986-08-21",
+        "latest": "1986-08-21",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-4f109d46d46a9f389e7a",
+      "property": "P19",
+      "claimId": "q1189$a848244a-47dc-a22d-6f07-fe45e5705f11",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1278713,
+          "id": "Q1278713"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 95606922,
+                "id": "Q95606922"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-05dfec05f6bdefa92aa1",
+      "property": "P166",
+      "claimId": "Q1189$31b0d9d0-445a-c825-2c71-659fa6a37518",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 11961165,
+          "id": "Q11961165"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2df633994f4c7550e870",
+      "property": "P166",
+      "claimId": "q1189$4cefe7b5-499f-2c07-5fc8-aedaddf6d7c1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 14606194,
+          "id": "Q14606194"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-10-05T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008-10-05"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 11920,
+                "id": "Q11920"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-10-05T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008-10-05",
+          "earliest": "2008-10-05",
+          "latest": "2008-10-05",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-633eeb07f41e7d507817",
+      "property": "P166",
+      "claimId": "Q1189$67A7EC47-A89B-45D9-A772-5396E4F69B5E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1808301,
+          "id": "Q1808301"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2013-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-78a6dc83a10c0986ee15",
+      "property": "P166",
+      "claimId": "Q1189$2DB4E96E-E8BF-4345-9E7D-87C2ABA7E90D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4896696,
+          "id": "Q4896696"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2013-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-cdb56d6e504b1df3e9de",
+      "property": "P166",
+      "claimId": "Q1189$D22C13DD-6F06-4181-A42D-1C4381B68B7A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1061233,
+          "id": "Q1061233"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2016-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e47f5b60397c569a5b0b",
+      "property": "P166",
+      "claimId": "q1189$c7318872-4faa-9aa8-30f3-86f64e59dd40",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 14606267,
+          "id": "Q14606267"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2009-10-19T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2009-10-19"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 11920,
+                "id": "Q11920"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2009-10-19T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2009-10-19",
+          "earliest": "2009-10-19",
+          "latest": "2009-10-19",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-38eeb168e4fc24306df8",
+      "property": "P856",
+      "claimId": "Q1189$B1A342F9-43B4-444D-9389-28FC878531EB",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://usainbolt.com/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-39faafb726acbc2e72e4",
+      "factId": "fact-cdb56d6e504b1df3e9de",
+      "claimId": "Q1189$D22C13DD-6F06-4181-A42D-1C4381B68B7A",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2016",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-33c0b5a41888b8914a7a",
+      "factId": "fact-633eeb07f41e7d507817",
+      "claimId": "Q1189$67A7EC47-A89B-45D9-A772-5396E4F69B5E",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2013",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ea7283f3b4c7e851f295",
+      "factId": "fact-78a6dc83a10c0986ee15",
+      "claimId": "Q1189$2DB4E96E-E8BF-4345-9E7D-87C2ABA7E90D",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2013",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9c9b20bfea02d7e6b7e3",
+      "factId": "fact-05dfec05f6bdefa92aa1",
+      "claimId": "Q1189$31b0d9d0-445a-c825-2c71-659fa6a37518",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4647a7a3412ad26759b8",
+      "factId": "fact-e47f5b60397c569a5b0b",
+      "claimId": "q1189$c7318872-4faa-9aa8-30f3-86f64e59dd40",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2009-10-19",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-802d93d73ff0ca36db85",
+      "factId": "fact-2df633994f4c7550e870",
+      "claimId": "q1189$4cefe7b5-499f-2c07-5fc8-aedaddf6d7c1",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008-10-05",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9ad0c31cf76404147193",
+      "factId": "fact-aaf438f039662c263a7c",
+      "claimId": "q1189$3e6e0fed-4abb-6147-a08b-16dc62f26768",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1986-08-21",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383845261",
+        "https://en.wikipedia.org/wiki/Usain_Bolt",
+        "https://www.wikidata.org/wiki/Q1189",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q37312",
+        "https://www.wikidata.org/wiki/Q54960205",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q95606922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "尤塞恩·博尔特",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "职业",
+          "value": "短跑運動員",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "职业",
+          "value": "运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "职业",
+          "value": "田径运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "职业",
+          "value": "足球运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "国籍",
+          "value": "牙買加",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "来源所记出生日期",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "出生地",
+          "value": "謝伍德康坦特",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "奖项",
+          "value": "Bislett medal",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "奖项",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "奖项",
+          "value": "劳伦斯世界体育奖年度最佳运动员奖",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "奖项",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "奖项",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "奖项",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "官方网站",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: L'Équipe Champion of Champions",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 劳伦斯世界体育奖年度最佳运动员奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Best International Athlete ESPY Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Bislett medal",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: Member of the Order of Jamaica",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: Commander of the Order of Distinction",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1986-08-21",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Usain Bolt",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "Occupation",
+          "value": "sprinter",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "Occupation",
+          "value": "athlete",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "Occupation",
+          "value": "athletics competitor",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "Occupation",
+          "value": "association football player",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "Citizenship",
+          "value": "Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "Source-reported birth date",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "Place of birth",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "Award",
+          "value": "Bislett medal",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "Award",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "Award",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "Award",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "Award",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "Award",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "Official website",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: L'Équipe Champion of Champions",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Best International Athlete ESPY Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Bislett medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Member of the Order of Jamaica",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Commander of the Order of Distinction",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1986-08-21",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Usain Bolt",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "Profession",
+          "value": "sprinteur",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "Profession",
+          "value": "sportif ou sportive",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "Profession",
+          "value": "athlète",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "Profession",
+          "value": "footballeur ou footballeuse",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "Nationalité",
+          "value": "Jamaïque",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "Lieu de naissance",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "Distinction",
+          "value": "médaille Bislett",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "Distinction",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "Distinction",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "Distinction",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "Distinction",
+          "value": "champion des champions mondiaux de L'Équipe",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "Distinction",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "Site officiel",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: champion des champions mondiaux de L'Équipe",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Best International Athlete ESPY Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille Bislett",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: Member of the Order of Jamaica",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: Commander of the Order of Distinction",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1986-08-21",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "يوسين بولت",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "المهنة",
+          "value": "عداء سريع",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "المهنة",
+          "value": "رياضي",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "المهنة",
+          "value": "منافس ألعاب قوى",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "المهنة",
+          "value": "لاعب كرة قدم",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "الجنسية",
+          "value": "جامايكا",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "مكان الميلاد",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "الجائزة",
+          "value": "ميدالية بيسليت",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "الجائزة",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "الجائزة",
+          "value": "جائزة لوريوس العالمية لرياضي العام",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "الجائزة",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "الجائزة",
+          "value": "بطل أبطال ليكيب",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "الجائزة",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "الموقع الرسمي",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: بطل أبطال ليكيب",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة لوريوس العالمية لرياضي العام",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Best International Athlete ESPY Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية بيسليت",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: Member of the Order of Jamaica",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: Commander of the Order of Distinction",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1986-08-21",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Usain Bolt",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "Beruf",
+          "value": "Sprinter",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "Beruf",
+          "value": "Sportler",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "Beruf",
+          "value": "Leichtathlet",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "Beruf",
+          "value": "Fußballspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "Staatsangehörigkeit",
+          "value": "Jamaika",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "Geburtsort",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "Auszeichnung",
+          "value": "Bislett-Medaille",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "Auszeichnung",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "Auszeichnung",
+          "value": "Laureus World Sports Awards/Weltsportler des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "Auszeichnung",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "Auszeichnung",
+          "value": "Champion des champions",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "Auszeichnung",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "Offizielle Website",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Champion des champions",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Laureus World Sports Awards/Weltsportler des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Best International Athlete ESPY Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Bislett-Medaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Member of the Order of Jamaica",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Commander of the Order of Distinction",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1986-08-21",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ウサイン・ボルト",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "職業",
+          "value": "短距離走選手",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "職業",
+          "value": "スポーツ選手",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "職業",
+          "value": "陸上競技選手",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "職業",
+          "value": "サッカー選手",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "国籍",
+          "value": "ジャマイカ",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "出典に記載された生年月日",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "出生地",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "受賞",
+          "value": "Bislett medal",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "受賞",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "受賞",
+          "value": "ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "受賞",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "受賞",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "受賞",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "公式サイト",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: L'Équipe Champion of Champions",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Best International Athlete ESPY Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Bislett medal",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: Member of the Order of Jamaica",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: Commander of the Order of Distinction",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1986-08-21",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Usain Bolt",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "Ocupación",
+          "value": "velocista",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "Ocupación",
+          "value": "deportista",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "Ocupación",
+          "value": "atleta",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "Ocupación",
+          "value": "futbolista",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "Nacionalidad",
+          "value": "Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "Lugar de nacimiento",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "Distinción",
+          "value": "Bislett medal",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "Distinción",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "Distinción",
+          "value": "Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "Distinción",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "Distinción",
+          "value": "Campeón de Campeones de L'Equipe",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "Distinción",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "Sitio web oficial",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Campeón de Campeones de L'Equipe",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Best International Athlete ESPY Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Bislett medal",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Member of the Order of Jamaica",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Commander of the Order of Distinction",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1986-08-21",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "우사인 볼트",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2315a8dbe0313723ea6a",
+          "label": "직업",
+          "value": "sprinter",
+          "notes": []
+        },
+        {
+          "id": "fact-6541ab371b107ec946b9",
+          "label": "직업",
+          "value": "선수",
+          "notes": []
+        },
+        {
+          "id": "fact-c4a38980eca647a564a7",
+          "label": "직업",
+          "value": "육상 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-eea483e36c7fdbfbf434",
+          "label": "직업",
+          "value": "축구 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-506168bfbfefbbd6e5db",
+          "label": "국적",
+          "value": "자메이카",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf438f039662c263a7c",
+          "label": "출처에 기재된 출생일",
+          "value": "1986-08-21",
+          "notes": []
+        },
+        {
+          "id": "fact-4f109d46d46a9f389e7a",
+          "label": "출생지",
+          "value": "Sherwood Content",
+          "notes": []
+        },
+        {
+          "id": "fact-05dfec05f6bdefa92aa1",
+          "label": "수상",
+          "value": "Bislett medal",
+          "notes": []
+        },
+        {
+          "id": "fact-2df633994f4c7550e870",
+          "label": "수상",
+          "value": "Commander of the Order of Distinction",
+          "notes": []
+        },
+        {
+          "id": "fact-633eeb07f41e7d507817",
+          "label": "수상",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-78a6dc83a10c0986ee15",
+          "label": "수상",
+          "value": "Best International Athlete ESPY Award",
+          "notes": []
+        },
+        {
+          "id": "fact-cdb56d6e504b1df3e9de",
+          "label": "수상",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-e47f5b60397c569a5b0b",
+          "label": "수상",
+          "value": "Member of the Order of Jamaica",
+          "notes": []
+        },
+        {
+          "id": "fact-38eeb168e4fc24306df8",
+          "label": "공식 웹사이트",
+          "value": "https://usainbolt.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-39faafb726acbc2e72e4",
+          "factId": "fact-cdb56d6e504b1df3e9de",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: L'Équipe Champion of Champions",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-33c0b5a41888b8914a7a",
+          "factId": "fact-633eeb07f41e7d507817",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Laureus World Sports Award for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ea7283f3b4c7e851f295",
+          "factId": "fact-78a6dc83a10c0986ee15",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Best International Athlete ESPY Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9c9b20bfea02d7e6b7e3",
+          "factId": "fact-05dfec05f6bdefa92aa1",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Bislett medal",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4647a7a3412ad26759b8",
+          "factId": "fact-e47f5b60397c569a5b0b",
+          "date": "2009-10-19",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: Member of the Order of Jamaica",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-802d93d73ff0ca36db85",
+          "factId": "fact-2df633994f4c7550e870",
+          "date": "2008-10-05",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: Commander of the Order of Distinction",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9ad0c31cf76404147193",
+          "factId": "fact-aaf438f039662c263a7c",
+          "date": "1986-08-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1986-08-21",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q1278713"
+      },
+      {
+        "locale": "ar",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "ar",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "de",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "de",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "de",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "es",
+        "key": "Q11961165"
+      },
+      {
+        "locale": "es",
+        "key": "Q1278713"
+      },
+      {
+        "locale": "es",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "es",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "es",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "fr",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "fr",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "fr",
+        "key": "Q1808301"
+      },
+      {
+        "locale": "fr",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "ja",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "ja",
+        "key": "Q11961165"
+      },
+      {
+        "locale": "ja",
+        "key": "Q1278713"
+      },
+      {
+        "locale": "ja",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "ja",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "ja",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "ko",
+        "key": "Q11961165"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1278713"
+      },
+      {
+        "locale": "ko",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "ko",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1808301"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4009406"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4896696"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "zh",
+        "key": "Q11961165"
+      },
+      {
+        "locale": "zh",
+        "key": "Q14606194"
+      },
+      {
+        "locale": "zh",
+        "key": "Q14606267"
+      },
+      {
+        "locale": "zh",
+        "key": "Q4896696"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q1278713",
+        "fallbackLocale": "en",
+        "value": "Sherwood Content",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q11961165",
+        "fallbackLocale": "en",
+        "value": "Bislett medal",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q1278713",
+        "fallbackLocale": "en",
+        "value": "Sherwood Content",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q1808301",
+        "fallbackLocale": "en",
+        "value": "Laureus World Sports Award for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q11961165",
+        "fallbackLocale": "en",
+        "value": "Bislett medal",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q1278713",
+        "fallbackLocale": "en",
+        "value": "Sherwood Content",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q11961165",
+        "fallbackLocale": "en",
+        "value": "Bislett medal",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1278713",
+        "fallbackLocale": "en",
+        "value": "Sherwood Content",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1808301",
+        "fallbackLocale": "en",
+        "value": "Laureus World Sports Award for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4009406",
+        "fallbackLocale": "en",
+        "value": "sprinter",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q11961165",
+        "fallbackLocale": "en",
+        "value": "Bislett medal",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q14606194",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Distinction",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q14606267",
+        "fallbackLocale": "en",
+        "value": "Member of the Order of Jamaica",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q4896696",
+        "fallbackLocale": "en",
+        "value": "Best International Athlete ESPY Award",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 7,
+    "professionalEventCount": 6,
+    "factCount": 14,
+    "factsWithoutExternalReference": 13,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

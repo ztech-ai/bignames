@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "pan-zhanle",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "潘展乐",
+    "enName": "Pan Zhanle",
+    "domain": "sports",
+    "domains": [
+      "sports"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "游泳",
+    "inclusionReason": "奥运冠军与自由泳世界纪录创造者，对亚洲短距离游泳形成重要突破。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "奥运冠军与自由泳世界纪录创造者，对亚洲短距离游泳形成重要突破。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:00Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Pan Zhanle",
+    "requestedTitle": "Pan Zhanle",
+    "resolvedTitle": "Pan Zhanle",
+    "wikidataId": "Q118521408",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Pan_Zhanle",
+      "title": "Pan Zhanle",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:00Z",
+      "revisionId": 1380704702,
+      "revisionTimestamp": "2026-10-17T10:08:21Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1380704702",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q118521408",
+      "title": "Q118521408",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:13:06Z",
+      "revisionId": 2557408391,
+      "revisionTimestamp": "2026-10-15T20:12:14Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Pan Zhanle (Chinese: 潘展乐, born 4 August 2004) is a Chinese freestyle swimmer. At the 2024 Summer Olympics, he won a gold medal in the 100 metre freestyle. He is the world record holder in the long course 100 metre freestyle. \nAt the 2024 World Aquatics Championships, Pan broke the world record in the 100 metre freestyle as the lead-off leg in the 4 × 100 metre freestyle relay. He also won the individual 100 metre freestyle event. At the 2024 Summer Olympics, Pan won a gold medal in the 100 metre freestyle, breaking his world record. He also won a gold medal in the 4 × 100 metre medley relay, swimming the fastest split in history in the men’s 100 metre freestyle.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Pan Zhanle",
+    "de": "Pan Zhanle",
+    "fr": "Pan Zhanle",
+    "es": "Pan Zhanle",
+    "zh": "潘展乐",
+    "ja": "潘展楽",
+    "ko": "판잔러",
+    "ar": "بان تشانل"
+  },
+  "descriptions": {
+    "en": "Chinese swimmer",
+    "ar": "سباح صيني",
+    "es": "nadador chino",
+    "fr": "nageur chinois",
+    "ja": "中国の競泳選手 (2004-)",
+    "zh": "中國男子游泳運動員",
+    "de": "chinesischer Schwimmer",
+    "ko": "중화인민공화국의 남자 수영 선수"
+  },
+  "languageArticles": {
+    "ar": "بان تشانل",
+    "de": "Pan Zhanle",
+    "en": "Pan Zhanle",
+    "es": "Pan Zhanle",
+    "fr": "Pan Zhanle",
+    "ja": "潘展楽",
+    "ko": "판잔러",
+    "zh": "潘展乐"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q118521408$afcd23e6-4760-ee28-5d1d-8b0192bc7e2e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q118521408$2C12E87D-C03B-493E-94DD-1FF4ECFBFF99",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+2004-08-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "2004-08-04"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199913,
+                  "id": "Q199913"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q118521408$9594294A-E676-4210-B724-14269714A127",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10843402,
+            "id": "Q10843402"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q118521408$2F0365E3-D53B-4673-8526-5EAA26FF1DE3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 148,
+            "id": "Q148"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q118521408$032A20F7-CFBB-4375-9A60-7E94EDC1C4B5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 42635,
+            "id": "Q42635"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q118521408$3b178768-4b4f-af79-7854-b206d19d8249",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Pan Zhanle (潘展乐) at the 2024 Summer Olympics in Paris in August 2024.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q10843402": {
+      "id": "Q10843402",
+      "fetchedAt": "2026-11-13T11:05:26Z",
+      "labels": {
+        "en": "swimmer",
+        "fr": "nageur ou nageuse",
+        "de": "Schwimmer",
+        "zh": "游泳运动员",
+        "es": "nadador",
+        "ja": "競泳選手",
+        "ar": "سباح",
+        "ko": "수영 선수"
+      },
+      "descriptions": {
+        "de": "Sportler, der an Schwimmwettbewerben teilnimmt",
+        "en": "sportsperson taking part in swimming competitions",
+        "fr": "sportif ou sportive pratiquant la natation",
+        "es": "deportista que toma parte en competiciones de natación",
+        "ja": "競泳大会に参加するスポーツ選手",
+        "ko": "수영 경기에 참여하는 스포츠인",
+        "ar": "الرياضي  الذي يُنافس في مسابقات السباحة",
+        "zh": "参加游泳比赛的运动员"
+      }
+    },
+    "Q148": {
+      "id": "Q148",
+      "fetchedAt": "2026-11-13T11:01:51Z",
+      "labels": {
+        "en": "People's Republic of China",
+        "fr": "République populaire de Chine",
+        "de": "Volksrepublik China",
+        "es": "República Popular China",
+        "ar": "الصين",
+        "ja": "中華人民共和国",
+        "ko": "중화인민공화국",
+        "zh": "中华人民共和国"
+      },
+      "descriptions": {
+        "en": "country in East Asia",
+        "fr": "pays d'Asie de l'Est",
+        "de": "Staat in Ostasien",
+        "es": "país de Asia Oriental",
+        "ja": "東アジアの国",
+        "zh": "东亚国家",
+        "ar": "دولة في شرق آسيا",
+        "ko": "동아시아의 국가"
+      }
+    },
+    "Q199913": {
+      "id": "Q199913",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ko": "히브리어 위키백과",
+        "fr": "Wikipédia en hébreu",
+        "es": "Wikipedia en hebreo",
+        "ja": "ヘブライ語版ウィキペディア",
+        "en": "Hebrew Wikipedia",
+        "ar": "ويكيبيديا العبرية",
+        "de": "hebräische Wikipedia",
+        "zh": "希伯來語維基百科"
+      },
+      "descriptions": {
+        "de": "Wikipedia-Sprachversion",
+        "en": "Hebrew-language edition of Wikipedia",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة العبرية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科希伯来语版",
+        "es": "edición hebrea de Wikipedia",
+        "ko": "히브리어로 작성된 위키백과",
+        "ja": "ウィキペディアのヘブライ語版"
+      }
+    },
+    "Q42635": {
+      "id": "Q42635",
+      "fetchedAt": "2026-11-13T11:13:06Z",
+      "labels": {
+        "zh": "温州市",
+        "ko": "원저우시",
+        "fr": "Wenzhou",
+        "es": "Wenzhou",
+        "de": "Wenzhou",
+        "ja": "温州市",
+        "en": "Wenzhou",
+        "ar": "ونجو"
+      },
+      "descriptions": {
+        "en": "prefecture-level city in Zhejiang, China",
+        "es": "ciudad-prefectura de Zhejiang, China",
+        "de": "bezirksfreie Stadt in Zhejiang, China",
+        "fr": "ville-préfecture du Zhejiang, en Chine",
+        "ja": "中国浙江省の地級市",
+        "zh": "中国浙江省的地级市",
+        "ko": "저장성의 지급시"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Pan Zhanle (潘展乐) at the 2024 Summer Olympics in Paris in August 2024.jpg",
+    "fetchedAt": "2026-11-13T11:13:14Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pan_Zhanle_(%E6%BD%98%E5%B1%95%E4%B9%90)_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pan_Zhanle_%28%E6%BD%98%E5%B1%95%E4%B9%90%29_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pan_Zhanle_%28%E6%BD%98%E5%B1%95%E4%B9%90%29_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg/960px-Pan_Zhanle_%28%E6%BD%98%E5%B1%95%E4%B9%90%29_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 4300,
+    "height": 4484,
+    "mediaTimestamp": "2024-08-06T11:04:42Z",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "中国新闻社",
+    "credit": "YouTube: https://www.youtube.com/watch?v=a4B-wAYJqBQ – View/save archived versions on archive.org",
+    "description": "Swimmer Pan Zhanle at the 2024 Summer Olympics in Paris in August 2024",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/adb2abed3d82b7d32cc975ec.jpg",
+    "cachedImageBytes": 84151,
+    "cachedImageSha256": "36e64b1dd2c7057230cb14e5d4fb0b8c12e8a6bda920a11bc66ef4eaf45df9f2"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

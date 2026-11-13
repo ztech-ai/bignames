@@ -1,0 +1,2674 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "adi-shamir",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "阿迪·沙米尔",
+    "enName": "Adi Shamir",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "网络安全与数字公共事务",
+    "inclusionReason": "共同提出RSA算法并推动密码分析与秘密共享研究，对现代信息安全具有深远影响。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同提出RSA算法并推动密码分析与秘密共享研究，对现代信息安全具有深远影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Adi Shamir",
+    "requestedTitle": "Adi Shamir",
+    "resolvedTitle": "Adi Shamir",
+    "wikidataId": "Q320624",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Adi_Shamir",
+      "title": "Adi Shamir",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:20Z",
+      "revisionId": 1379515875,
+      "revisionTimestamp": "2026-10-10T12:34:07Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1379515875",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q320624",
+      "title": "Q320624",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:47Z",
+      "revisionId": 2567750217,
+      "revisionTimestamp": "2026-11-10T23:26:33Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Adi Shamir (Hebrew: עדי שמיר; born July 6, 1952) is an Israeli cryptographer and inventor. He is a co-inventor of the Rivest–Shamir–Adleman (RSA) algorithm (along with Ron Rivest and Len Adleman), a co-inventor of the Feige–Fiat–Shamir identification scheme (along with Uriel Feige and Amos Fiat), one of the inventors of differential cryptanalysis, and has made numerous contributions to the fields of cryptography and computer science. In 2002, Ron Rivest, Len Adleman, and Shamir won the ACM Turing Award.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Adi Shamir",
+    "ko": "아디 샤미르",
+    "en": "Adi Shamir",
+    "es": "Adi Shamir",
+    "de": "Adi Shamir",
+    "ja": "アディ・シャミア",
+    "ar": "عدي شامير",
+    "zh": "阿迪·萨莫尔"
+  },
+  "descriptions": {
+    "de": "israelischer Kryptologieexperte",
+    "en": "Israeli cryptographer (born 1952)",
+    "zh": "密码学家",
+    "es": "criptógrafo israelí",
+    "fr": "cryptologue israélien",
+    "ko": "이스라엘의 암호학자, 컴퓨터 과학자"
+  },
+  "languageArticles": {
+    "ar": "عدي شامير",
+    "de": "Adi Shamir",
+    "en": "Adi Shamir",
+    "es": "Adi Shamir",
+    "fr": "Adi Shamir",
+    "ja": "アディ・シャミア",
+    "ko": "아디 샤미르",
+    "zh": "阿迪·萨莫尔"
+  },
+  "claims": {
+    "P106": [
+      {
+        "id": "q320624$C19EAEBB-0F59-4856-BB8D-8F1DBED43888",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170790,
+            "id": "Q170790"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$4B696C5B-4DF8-433D-AED0-2CF874C4D06E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16390131,
+            "id": "Q16390131"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$01816E10-A647-41BF-B39E-77304E464A67",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "q320624$A35444A4-5F31-4458-9BD3-F90E6986BB89",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1952-07-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1952-07-06"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q320624$917B0D17-9775-4C1F-9B21-8683ACF4161F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q320624$8A2A6077-4998-415D-A03D-43D15FEDD231",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Adi Shamir at TU Darmstadt (2013).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-09-25T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-09-25"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$57e8348a-4ebe-fc97-150c-6e179e3dc94a",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "Adi Shamir Royal Society.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-07-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-07-13"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$57604b7f-9b2e-4a15-9ffe-08de94cab3b4",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Adi Shamir 2009.jpg"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199693,
+                  "id": "Q199693"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q320624$BAA21FDA-752F-405A-A731-2718C1ED0D23",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 33935,
+            "id": "Q33935"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-07"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q320624$371F4446-0300-49F0-A3D6-53AB6CE4659A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 616568,
+            "id": "Q616568"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$78E39192-EA5C-4C77-878C-60A0D80B0868",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 185667,
+            "id": "Q185667"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2002-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2002"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://amturing.acm.org/award_winners/shamir_2327856.cfm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$79a856c1-4d57-20c6-8a32-8cb06b4c10a0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 927061,
+            "id": "Q927061"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1983-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1983"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$AC7D8BF7-2CB0-4AFF-9CDB-81494D843329",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1164390,
+            "id": "Q1164390"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1996-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1996"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/kanellakis/award-recipients"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$B2310C9A-C796-4A18-8E0F-FAC5AAF34340",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15615908,
+            "id": "Q15615908"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$0B59C8E0-FE52-4220-9F52-034F17E4C59E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3114992,
+            "id": "Q3114992"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$80736a2b-424b-b3f2-0b61-2c938fa98851",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6085042,
+            "id": "Q6085042"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$6fee4e2a-439b-b273-d41e-d9d3b1492c39",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 56099819,
+            "id": "Q56099819"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2004-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2004"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.iacr.org/fellows/2004/shamir.html"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-08-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-08-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$DA792B6C-75C0-425D-95CD-F5808280E91F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 908745,
+            "id": "Q908745"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$FDB4C81D-0F9A-47C8-B6A8-1B2130FD70D2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 63092051,
+            "id": "Q63092051"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.moe.gov.cn/s78/A22/xwb_left/moe_829/201802/t20180228_328136.html"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-04-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-04-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$4ae82f5b-41e4-2b62-e1ff-4c0279f4a877",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 14906020,
+            "id": "Q14906020"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://royalsociety.org/news/2018/05/distinguished-scientists-elected-fellows-royal-society-2018/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-04-30T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-04-30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$ffd441ff-47ef-9bae-8c85-f37067f73d9d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 63396684,
+            "id": "Q63396684"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$31a6828c-41f0-f40f-869d-438d779c6817",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4377107,
+            "id": "Q4377107"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2000-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2000"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/kobayashi-rl.pdf"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-06-30T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-06-30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$18fc9b1e-4266-4fae-539a-65f8cc6ee713",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 52382875,
+            "id": "Q52382875"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.amacad.org/new-members-2022"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$EF1FF161-56DD-4C90-BD02-B9E7BE4F3B1B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 25386857,
+            "id": "Q25386857"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$192AAF07-53DC-4672-ACF9-4C38A4AF9742",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15995563,
+            "id": "Q15995563"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1986-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1986"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/baker_rl.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$7e9e53fc-4cc0-d4e1-cbb5-7d723e55aede",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1366018,
+            "id": "Q1366018"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.invent.org/inductees/adi-shamir"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$7e4f1298-440a-6447-8715-831b75ea1535",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11435205,
+            "id": "Q11435205"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.okawa-foundation.or.jp/en/activities/prize/list.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$8348ED66-413D-4A43-B175-1E8519633AA6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748039,
+            "id": "Q18748039"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$e3f7267c-42cd-27ec-299a-7f92077413ac",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 915604,
+            "id": "Q915604"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://wolffund.org.il/%D7%A0%D7%95%D7%92%D7%94-%D7%90%D7%9C%D7%95%D7%9F/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$2948428f-4cf1-938f-6ff1-133af6948d17",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 126416244,
+            "id": "Q126416244"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2003-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2003"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ens.psl.eu/actualites/adi-shamir"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q320624$69D39255-42DC-4D25-ACAF-C0C97B263E2B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 801,
+            "id": "Q801"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q320624$3BA8202D-DB55-4A02-A5B4-985942694DB4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 319239,
+            "id": "Q319239"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$13F78D44-BDCF-4008-991A-6C288A479105",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 865528,
+            "id": "Q865528"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$8420901a-4396-4799-5624-2e1351e5646b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4182,
+            "id": "Q4182"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://amturing.acm.org/award_winners/shamir_2327856.cfm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q320624$2D55E9D4-E90B-4BEB-B50A-226CA21D1337",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 209184,
+            "id": "Q209184"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$8931BD2C-982C-46EA-BF8F-744DC892F25B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 188771,
+            "id": "Q188771"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$7112F2E7-989E-4924-B6C0-14A9A782FF47",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 337234,
+            "id": "Q337234"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ae-info.org/ae/User/Shamir_Adi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$ECDBECF6-46DD-4901-8128-97AB4E776FA8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 123885,
+            "id": "Q123885"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$A38320C0-79D7-42D5-B0B5-4D8EBD6589D5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 270794,
+            "id": "Q270794"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2005-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2005"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q320624$6D5074DC-D2F7-4D4E-AAC7-64516893EA37",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$BCC2EED8-B979-4BC4-A66A-1B0B292DDEFA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 127992,
+            "id": "Q127992"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-01-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-01-13"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q320624$EDF1BF21-F259-44A2-A441-F95E941738C4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49108,
+            "id": "Q49108"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$71E7DBFA-5DEC-4961-907E-CB159F544834",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 319239,
+            "id": "Q319239"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-07-03"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              },
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1551807,
+                  "id": "Q1551807"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q320624$DB996C84-618A-4F8B-B7B0-36FF01615F19",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4027615,
+            "id": "Q4027615"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q320624$e3d20deb-49d4-3c83-a4e0-0768a59e3840",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 189900,
+            "id": "Q189900"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.japanprize.jp/en/prize_past_2017_prize01.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q320624$ead0f9c0-4e7b-9ce4-ed90-e2e4bf7eb92d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8789,
+            "id": "Q8789"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://amturing.acm.org/award_winners/shamir_2327856.cfm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P512": [
+      {
+        "id": "Q320624$54A6D40F-5A64-4015-B51B-AC4F6E7913A7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2248352,
+            "id": "Q2248352"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-01-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-01-18"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://warwick.ac.uk/services/gov/hongrads/list/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P166": "award",
+    "P27": "citizenship",
+    "P69": "education",
+    "P463": "membership",
+    "P108": "employer",
+    "P101": "fieldOfWork",
+    "P512": "academicDegree"
+  },
+  "relatedEntities": {
+    "Q11435205": {
+      "id": "Q11435205",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "ja": "大川賞",
+        "en": "Okawa Prize",
+        "zh": "大川獎",
+        "fr": "prix Okawa",
+        "ar": "جائزة أوكاوا"
+      },
+      "descriptions": {
+        "fr": "prix scientifique japonais"
+      }
+    },
+    "Q1164390": {
+      "id": "Q1164390",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "de": "Paris-Kanellakis-Preis",
+        "fr": "prix Paris-Kanellakis",
+        "en": "Paris Kanellakis Award",
+        "ja": "パリス・カネラキス実践的理論賞",
+        "ko": "파리 카넬라키스 상",
+        "ar": "جائزة باريس كانيلاكيس",
+        "zh": "帕里斯·卡內拉基斯獎"
+      },
+      "descriptions": {
+        "en": "annual award for accomplishments in theoretical computer science that have had a significant effect on the practice of computing",
+        "fr": "récompense décernée par l'ACM",
+        "ar": "جائزة سنوية تُمنح لأصحاب الإنجازات المميزة في علوم الحاسوب النظرية التي كان لها تأثير كبير على الحوسبة",
+        "de": "Informatikpreis"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q123885": {
+      "id": "Q123885",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "Real Sociedad de Londres",
+        "ar": "الجمعية الملكية",
+        "ko": "왕립학회",
+        "de": "Royal Society",
+        "ja": "王立協会",
+        "en": "Royal Society of London",
+        "fr": "Royal Society",
+        "zh": "英国皇家学会"
+      },
+      "descriptions": {
+        "en": "English learned society for science",
+        "de": "britische Gelehrtengesellschaft zur Wissenschaftspflege",
+        "es": "sociedad científica del Reino Unido",
+        "fr": "société savante londonienne",
+        "zh": "代表英國政府資助科學發展的組織，成立於1660年",
+        "ja": "1660年にロンドンで作られた科学に関する団体",
+        "ar": "دار نشر",
+        "ko": "영국의 과학 아카데미"
+      }
+    },
+    "Q126416244": {
+      "id": "Q126416244",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "doctorat honoris causa de l'École normale supérieure",
+        "en": "honorary doctorate from ENS",
+        "es": "doctorado honoris causa por la Escuela Normal Superior de París",
+        "de": "Ehrendoktorwürde der École normale supérieure",
+        "ar": "الدكتوراه الفخرية من المدرسة العليا للأساتذة"
+      },
+      "descriptions": {
+        "fr": "distinction honorifique"
+      }
+    },
+    "Q127992": {
+      "id": "Q127992",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Association for Computing Machinery",
+        "ko": "ACM",
+        "es": "Asociación de Maquinaria Computacional",
+        "de": "Association for Computing Machinery",
+        "ja": "Association for Computing Machinery",
+        "ar": "جمعية آلات الحوسبة",
+        "en": "Association for Computing Machinery",
+        "zh": "计算机协会"
+      },
+      "descriptions": {
+        "en": "international learned society for computing",
+        "ar": "رابطة علمية وتعليمية للحوسبة",
+        "zh": "計算機的國際學會",
+        "de": "wissenschaftliche Gesellschaft für Informatik",
+        "ja": "ニューヨークに本部のあるコンピュータ科学分野の国際学会",
+        "fr": "société savante, maison d'édition",
+        "ko": "세계 최초의 컴퓨터 분야의 학술과 교육을 목적으로 하는 각 분야 학회들의 연합체",
+        "es": "sociedad Científica Internacional estadounidense para la Computación"
+      }
+    },
+    "Q1366018": {
+      "id": "Q1366018",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "de": "National Inventors Hall of Fame",
+        "en": "National Inventors Hall of Fame",
+        "fr": "National Inventors Hall of Fame",
+        "zh": "美國國家發明家名人堂",
+        "ja": "全米発明家殿堂",
+        "ar": "القاعة الوطنية للمخترعين المشاهير",
+        "es": "Salón Nacional de la Fama de los Inventores"
+      },
+      "descriptions": {
+        "en": "American award for inventors (1973–)",
+        "es": "premio estadounidense",
+        "de": "amerikanische Auszeichnungen für Erfinder in Form einer Ruhmeshalle (1973–)",
+        "fr": "musée honorant les scientifiques"
+      }
+    },
+    "Q14906020": {
+      "id": "Q14906020",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "Foreign Member of the Royal Society",
+        "ar": "عضوية أجنبي في الجمعية الملكية",
+        "es": "Miembro extranjero de la Royal Society",
+        "fr": "membre étranger de la Royal Society",
+        "de": "Ausländisches Mitglied der Royal Society",
+        "ja": "王立協会の外国人会員",
+        "zh": "英国皇家学会外籍会员"
+      },
+      "descriptions": {}
+    },
+    "Q1551807": {
+      "id": "Q1551807",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "en": "Polish Wikipedia",
+        "zh": "波蘭語維基百科",
+        "ko": "폴란드어 위키백과",
+        "ar": "ويكيبيديا البولندية",
+        "es": "Wikipedia en polaco",
+        "fr": "Wikipédia en polonais",
+        "ja": "ポーランド語版ウィキペディア",
+        "de": "polnischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Polish-language edition of Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in polnischer Sprache",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة البولندية من ويكيبيديا، الموسوعة الحرة",
+        "es": "edición de Wikipedia en polaco",
+        "ko": "위키백과의 폴란드어판",
+        "zh": "维基百科的波兰语版",
+        "ja": "ウィキペディアのポーランド語版"
+      }
+    },
+    "Q15615908": {
+      "id": "Q15615908",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "National Cyber Security Hall of Fame"
+      },
+      "descriptions": {}
+    },
+    "Q15995563": {
+      "id": "Q15995563",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "IEEE W.R.G. Baker Award",
+        "zh": "IEEE貝克爾獎",
+        "ar": "جائزة والتر رانسوم غيل بيكر"
+      },
+      "descriptions": {
+        "en": "award for a paper on the fundamentals of electrical engineering, electronics, or computing (1956-2015)",
+        "ar": "جائزة يمنحها معهد مهندسي الكهرباء والإلكترونيات"
+      }
+    },
+    "Q16390131": {
+      "id": "Q16390131",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "cryptologist",
+        "de": "Kryptologe",
+        "es": "criptólogo",
+        "fr": "cryptologue",
+        "zh": "密码破译",
+        "ja": "暗号学者",
+        "ar": "عالم تعمية"
+      },
+      "descriptions": {
+        "es": "persona que se especializa en criptología",
+        "fr": "spécialiste de la cryptologie",
+        "en": "specialist on cryptology",
+        "ar": "شَخصٌ يتخصَّصُ في عِلمِ التعمية"
+      }
+    },
+    "Q170790": {
+      "id": "Q170790",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "matemático",
+        "ja": "数学者",
+        "fr": "mathématicien ou mathématicienne",
+        "de": "Mathematiker",
+        "en": "mathematician",
+        "ar": "رياضياتي",
+        "ko": "수학자",
+        "zh": "數學家"
+      },
+      "descriptions": {
+        "es": "persona dedicada a las matemáticas",
+        "en": "person with an extensive knowledge of mathematics",
+        "fr": "chercheur ou chercheuse en mathématiques",
+        "de": "Person mit weitreichenden mathematischen Kenntnissen",
+        "zh": "在數學方面擁有淵博知識的人",
+        "ko": "수학을 전공으로 하는 학자",
+        "ja": "数学に属する分野の事柄を第一に、調査および研究する者を指していう呼称",
+        "ar": "شخص لديه معرفة واسعة بالرياضيات"
+      }
+    },
+    "Q185667": {
+      "id": "Q185667",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "prix Turing",
+        "ko": "튜링상",
+        "es": "Premio Turing",
+        "de": "Turing Award",
+        "ja": "チューリング賞",
+        "en": "Turing Award",
+        "zh": "图灵奖",
+        "ar": "جائزة تورنغ"
+      },
+      "descriptions": {
+        "en": "computer science award",
+        "de": "Informatikpreis",
+        "zh": "計算機科學獎項",
+        "es": "Premio ciencias de la computación",
+        "fr": "prix en informatique",
+        "ar": "جائزة تُمنح للمساهمات البارزة في علم الحاسوب",
+        "ja": "計算機科学の賞"
+      }
+    },
+    "Q18748039": {
+      "id": "Q18748039",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ACM Fellow",
+        "ja": "ACMフェロー",
+        "ar": "زمالة جمعية آلات الحوسبة",
+        "es": "ACM Fellow",
+        "de": "ACM Fellow",
+        "zh": "ACM會士",
+        "ko": "ACM 석학회원"
+      },
+      "descriptions": {
+        "en": "award granted by the Association for Computing Machinery (ACM)",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة",
+        "ja": "計算機協会 (ACM)の優れたメンバーに与えられる賞と称号"
+      }
+    },
+    "Q188771": {
+      "id": "Q188771",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "ko": "프랑스 과학 아카데미",
+        "fr": "Académie des sciences",
+        "es": "Academia de Ciencias de Francia",
+        "de": "Académie des sciences",
+        "ja": "科学アカデミー",
+        "en": "French Academy of Sciences",
+        "ar": "الأكاديمية الفرنسية للعلوم",
+        "zh": "法国科学院"
+      },
+      "descriptions": {
+        "en": "learned society, founded in 1666 by Louis XIV at the suggestion of Jean-Baptiste Colbert, to encourage and protect the spirit of French scientific research",
+        "fr": "l’une des cinq académies regroupées au sein de l’Institut de France qui encourage et protège l’esprit de recherche, et contribue aux progrès des sciences et de leurs applications",
+        "ar": "جمعية علمية، تأسست عام 1666 من قبل لويس الرابع عشر",
+        "es": "institución científica francesa",
+        "de": "französische Gelehrtengemeinschaft",
+        "ja": "ジャン＝バティスト・コルベール提案、ルイ14世が設立した学識経験者の団体（1666年-、フランス）"
+      }
+    },
+    "Q189900": {
+      "id": "Q189900",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "ko": "정보 보안",
+        "fr": "sécurité de l'information",
+        "es": "seguridad de la información",
+        "de": "Informationssicherheit",
+        "ja": "情報セキュリティ",
+        "en": "information security",
+        "ar": "أمن المعلومات",
+        "zh": "信息安全"
+      },
+      "descriptions": {
+        "en": "practice of protecting information and systems by mitigating information risks",
+        "de": "Schutz von Informationen und Systemen vor unbefugtem Zugriff, Nutzung, Offenlegung, Unterbrechung oder Zerstörung",
+        "es": "práctica de protección de la información",
+        "fr": "ensemble de pratiques visant à protéger des données",
+        "zh": "研究信息存储、传输和处理中信息安全保障问题的理论与技术"
+      }
+    },
+    "Q199693": {
+      "id": "Q199693",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "fr": "Wikipédia en catalan",
+        "ko": "카탈루냐어 위키백과",
+        "es": "Wikipedia en catalán",
+        "de": "katalanischsprachige Wikipedia",
+        "ja": "カタルーニャ語版ウィキペディア",
+        "en": "Catalan Wikipedia",
+        "ar": "ويكيبيديا الكتلانية",
+        "zh": "加泰羅尼亞語維基百科"
+      },
+      "descriptions": {
+        "es": "edición en idioma catalán de Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in katalanischer Sprache",
+        "en": "Catalan-language edition of Wikipedia",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الكتالونية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科加泰罗尼亚语版",
+        "ja": "ウィキペディアのカタルーニャ語版"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q209184": {
+      "id": "Q209184",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "ko": "이스라엘 인문과학 아카데미",
+        "fr": "Académie israélienne des sciences et lettres",
+        "es": "Academia Israelí de Ciencias y Humanidades",
+        "de": "Israelische Akademie der Wissenschaften",
+        "en": "Israel Academy of Sciences and Humanities",
+        "ar": "أكاديمية إسرائيل للعلوم والإنسانيات",
+        "zh": "以色列科學與人文學院",
+        "ja": "イスラエル科学・人文アカデミー"
+      },
+      "descriptions": {
+        "en": "academy of sciences",
+        "es": "fue creada en 1961 para favorecer el contacto entre los estudiosos de las ciencias y las humanidades"
+      }
+    },
+    "Q2248352": {
+      "id": "Q2248352",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "doctorat ès sciences",
+        "es": "doctorado en ciencias",
+        "en": "Doctor of Science",
+        "ja": "博士（理学）",
+        "zh": "自然科學博士",
+        "ar": "دكتوراه العلوم",
+        "ko": "이학박사",
+        "de": "Doktor der Naturwissenschaften (Dr. Sc.)"
+      },
+      "descriptions": {
+        "en": "doctoral academic research degree",
+        "es": "grado académico",
+        "ar": "درجة الدكتوراه في البحث الأكاديمي"
+      }
+    },
+    "Q25386857": {
+      "id": "Q25386857",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "de": "Rothschild-Preis",
+        "en": "Rothschild Prize",
+        "es": "premio Rothschild",
+        "fr": "prix Rothschild en sciences",
+        "ar": "جائزة روتشيلد",
+        "ja": "ロスチャイルド賞"
+      },
+      "descriptions": {
+        "en": "Israeli science award"
+      }
+    },
+    "Q270794": {
+      "id": "Q270794",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Académie américaine des sciences",
+        "es": "Academia Nacional de Ciencias de los Estados Unidos",
+        "de": "National Academy of Sciences",
+        "ja": "米国科学アカデミー",
+        "en": "National Academy of Sciences",
+        "ar": "الأكاديمية الوطنية للعلوم",
+        "zh": "美国国家科学院",
+        "ko": "미국 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "science branch of the United States National Academies",
+        "fr": "académie nationale des sciences des États-Unis",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a las ciencias",
+        "de": "Teil der US-amerikanischen National Academies of Sciences, Engineering, and Medicine",
+        "ja": "アメリカ合衆国の科学アカデミー",
+        "ar": "دار نشر",
+        "zh": "科学家组织",
+        "ko": "미국의 비영리 비정부 조직"
+      }
+    },
+    "Q3114992": {
+      "id": "Q3114992",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "grande médaille de l'Académie des sciences",
+        "en": "Grand Prize of the French Academy of Science",
+        "de": "Grande médaille de l’Académie des sciences",
+        "es": "Gran Medalla de la Academia de Ciencias de Francia",
+        "ar": "الميدالية العظمى لأكاديمية العلوم",
+        "ja": "グランドメダル (フランス科学アカデミー)",
+        "zh": "法國科學院大獎章"
+      },
+      "descriptions": {
+        "ar": "جائزة علمية فرنسية",
+        "es": "premio francés",
+        "de": "französische Wissenschafts-Auszeichnung",
+        "fr": "récompense scientifique en France"
+      }
+    },
+    "Q319239": {
+      "id": "Q319239",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "fr": "université de Tel Aviv",
+        "ko": "텔아비브 대학교",
+        "es": "Universidad de Tel Aviv",
+        "de": "Universität Tel Aviv",
+        "ja": "テルアビブ大学",
+        "ar": "جامعة تل أبيب",
+        "en": "Tel Aviv University",
+        "zh": "特拉維夫大學"
+      },
+      "descriptions": {
+        "en": "University in Tel Aviv, Israel",
+        "fr": "université israélienne",
+        "de": "Universität in Israel",
+        "es": "Universidad pública ubicada en Ramat Aviv, Tel Aviv, Israel",
+        "ar": "جامعة في تل أبيب، إسرائيل",
+        "zh": "以色列大学",
+        "ja": "イスラエルの大学"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q337234": {
+      "id": "Q337234",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Academia Europaea",
+        "en": "Academia Europaea",
+        "de": "Academia Europaea",
+        "es": "Academia Europæa",
+        "zh": "歐洲科學院",
+        "ja": "欧州アカデミー",
+        "ar": "أكاديمية أوروبيا"
+      },
+      "descriptions": {
+        "en": "pan-European academy",
+        "ar": "أكاديمية العلوم",
+        "fr": "société savante pan-européenne",
+        "de": "europäische Wissenschaftsgesellschaft",
+        "es": "academia de ciencias"
+      }
+    },
+    "Q33935": {
+      "id": "Q33935",
+      "fetchedAt": "2026-11-13T11:02:38Z",
+      "labels": {
+        "es": "Tel Aviv",
+        "ar": "تل أبيب",
+        "ko": "텔아비브",
+        "fr": "Tel Aviv",
+        "de": "Tel Aviv-Jaffa",
+        "ja": "テルアビブ",
+        "en": "Tel Aviv",
+        "zh": "特拉维夫"
+      },
+      "descriptions": {
+        "ko": "이스라엘 서부 지중해 연안에 있는 도시",
+        "en": "city in Israel",
+        "fr": "ville d'Israël",
+        "de": "Stadt in Israel",
+        "es": "ciudad de Israel",
+        "ar": "مدينة ساحلية في إسرائيل",
+        "zh": "国际承认的以色列首都",
+        "ja": "イスラエルの事実上の首都"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q4027615": {
+      "id": "Q4027615",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "es": "ciencias de la información",
+        "en": "informatics",
+        "ar": "معلوماتية",
+        "ja": "インフォマティクス",
+        "ko": "컴퓨터 과학",
+        "fr": "sciences de l'information",
+        "zh": "信息学"
+      },
+      "descriptions": {
+        "en": "study of computational systems, especially those for data storage and retrieval",
+        "es": "ciencia que estudia la práctica del procesamiento de información y la ingeniería de los sistemas de información",
+        "fr": "domaine académique",
+        "zh": "學術領域",
+        "de": "Studium von Computersystemen, insbesondere solchen zur Datenspeicherung und -abfrage",
+        "ar": "دراسة الأنظمة الحاسوبية، وخاصة تلك المستخدمة في تخزين البيانات واسترجاعها",
+        "ja": "情報学などの関連分野"
+      }
+    },
+    "Q4182": {
+      "id": "Q4182",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "zh": "魏茨曼科學研究所",
+        "fr": "Institut Weizmann",
+        "ko": "바이츠만 과학 연구소",
+        "es": "Instituto Weizmann de Ciencias",
+        "de": "Weizmann-Institut für Wissenschaften",
+        "ja": "ワイツマン科学研究所",
+        "ar": "معهد وايزمان للعلوم",
+        "en": "Weizmann Institute of Science"
+      },
+      "descriptions": {
+        "de": "Institut für naturwissenschaftliche Forschung und Ausbildung in Israel",
+        "es": "instituto de investigación israelí",
+        "en": "research institute in Rehovot, Israel",
+        "fr": "université",
+        "ja": "イスラエルのレホヴォトにある研究および高等教育機関",
+        "zh": "以色列大学、科研机构"
+      }
+    },
+    "Q4377107": {
+      "id": "Q4377107",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "en": "IEEE Koji Kobayashi Computers and Communications Award",
+        "ja": "IEEE小林宏治記念賞",
+        "zh": "IEEE小林浩二計算機與通訊獎"
+      },
+      "descriptions": {
+        "en": "Technical award"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q49108": {
+      "id": "Q49108",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Massachusetts Institute of Technology",
+        "ar": "معهد ماساتشوستس للتقانة",
+        "de": "Massachusetts Institute of Technology",
+        "es": "Instituto Tecnológico de Massachusetts",
+        "fr": "Institut de technologie du Massachusetts",
+        "ja": "マサチューセッツ工科大学",
+        "ko": "매사추세츠 공과대학교",
+        "zh": "麻省理工學院"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts, USA, founded 1861",
+        "ko": "미국 매사추세츠 주의 케임브리지에 있는 연구 중심 공과대학을 모체로 한 사립 대학교",
+        "de": "Universität im US-Bundesstaat Massachusetts",
+        "zh": "1861年建立的一所学校",
+        "fr": "université américaine à Cambridge, Massachusetts",
+        "ar": "جامعة خاصة في مدينة كامبريدج بولاية ماستشوستس الأمريكية، أُسِّسَت عام 1861",
+        "es": "universidad privada localizada en Cambridge, Massachusetts, Estados Unidos de América",
+        "ja": "アメリカ・マサチューセッツ州ケンブリッジにある私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q52382875": {
+      "id": "Q52382875",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Fellow of the American Academy of Arts and Sciences",
+        "ar": "زمالة الأكاديمية الأمريكية للفنون والعلوم",
+        "fr": "membre de l'Académie américaine des arts et des sciences",
+        "es": "Miembro de la Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミーフェロー",
+        "zh": "美国文理科学院院士"
+      },
+      "descriptions": {
+        "en": "honorary fellowship from the American Academy of Arts and Sciences",
+        "ar": "زمالة تشريفية",
+        "fr": "titre honorifique de l'American Academy of Arts and Sciences"
+      }
+    },
+    "Q56099819": {
+      "id": "Q56099819",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "en": "IACR Fellow"
+      },
+      "descriptions": {
+        "en": "award of fellowship bestowed by the IACR logo International Association for Cryptologic Research"
+      }
+    },
+    "Q6085042": {
+      "id": "Q6085042",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "es": "Premio Fundación BBVA Fronteras del Conocimiento",
+        "en": "BBVA Foundation Frontiers of Knowledge Award",
+        "fr": "BBVA Foundation Frontiers of Knowledge Award",
+        "ja": "BBVAファンデーション・フロンティアーズ・オブ・ナレッジ・アワード",
+        "ko": "BBVA 재단 지식 프론티어 상",
+        "zh": "BBVA基金會前沿知識獎",
+        "ar": "جائزة مؤسسة بانكو بيلباو فيزكايا أرجنتاريا لرواد المعرفة",
+        "de": "BBVA Foundation Frontiers of Knowledge Award"
+      },
+      "descriptions": {
+        "es": "premio internacional a la investigación científica y a la creación cultural",
+        "de": "spanische Auszeichnung",
+        "en": "Spanish science award",
+        "fr": "prix annuel"
+      }
+    },
+    "Q616568": {
+      "id": "Q616568",
+      "fetchedAt": "2026-11-13T10:59:00Z",
+      "labels": {
+        "de": "Israel-Preis",
+        "en": "Israel Prize",
+        "es": "Premio Israel",
+        "fr": "prix Israël",
+        "ja": "イスラエル賞",
+        "ar": "جائزة إسرائيل",
+        "zh": "以色列獎",
+        "ko": "이스라엘상"
+      },
+      "descriptions": {
+        "fr": "prix décerné chaque année par l'État d'Israël",
+        "en": "award handed out by the State of Israel and regarded as the state's highest cultural honor",
+        "de": "Höchste Kulturauszeichnung des israelischen Staates",
+        "es": "premio entregado por el Estado de Israel"
+      }
+    },
+    "Q63092051": {
+      "id": "Q63092051",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "en": "honorary doctor of the Shandong  University",
+        "zh": "山东大学名誉博士",
+        "fr": "docteur honoris causa de l'université du Shandong"
+      },
+      "descriptions": {}
+    },
+    "Q63396684": {
+      "id": "Q63396684",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "fr": "docteur honoris causa de l'université de Waterloo",
+        "en": "honorary doctorate from the University of Waterloo",
+        "de": "Ehrendoktor der University of Waterloo",
+        "es": "doctorado honoris causa por la universidad de Waterloo",
+        "ja": "ウォータールー大学名誉博士",
+        "ar": "الدكتوراه الفخرية من جامعة واترلو"
+      },
+      "descriptions": {
+        "es": "distinción academica"
+      }
+    },
+    "Q801": {
+      "id": "Q801",
+      "fetchedAt": "2026-11-13T11:02:41Z",
+      "labels": {
+        "es": "Israel",
+        "ar": "إسرائيل",
+        "de": "Israel",
+        "en": "Israel",
+        "fr": "Israël",
+        "ja": "イスラエル",
+        "ko": "이스라엘",
+        "zh": "以色列"
+      },
+      "descriptions": {
+        "fr": "État du Proche-Orient indépendant depuis 1948",
+        "es": "país de Asia Occidental",
+        "de": "Staat in Vorderasien",
+        "ar": "دولة في غرب آسيا",
+        "ja": "西アジアにある共和制国家",
+        "ko": "서아시아의 국가",
+        "zh": "西亞國家",
+        "en": "country in West Asia"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q8447": {
+      "id": "Q8447",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Wikipédia en français",
+        "en": "French Wikipedia",
+        "ar": "ويكيبيديا الفرنسية",
+        "de": "französischsprachige Wikipedia",
+        "es": "Wikipedia en francés",
+        "ja": "フランス語版ウィキペディア",
+        "ko": "프랑스어 위키백과",
+        "zh": "法語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "[fr] French-language edition of Wikipedia",
+        "es": "edición en francés de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in französischer Sprache",
+        "ko": "위키백과의 프랑스어판",
+        "zh": "维基百科法语版",
+        "ar": "النسخة الفرنسية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアのフランス語版"
+      }
+    },
+    "Q865528": {
+      "id": "Q865528",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "ko": "워릭 대학교",
+        "fr": "Université de Warwick",
+        "es": "Universidad de Warwick",
+        "en": "University of Warwick",
+        "de": "University of Warwick",
+        "ja": "ウォーリック大学",
+        "ar": "جامعة ووريك",
+        "zh": "华威大学"
+      },
+      "descriptions": {
+        "en": "university in Coventry, United Kingdom",
+        "de": "Universität im Vereinigten Königreich",
+        "fr": "université anglaise située à Coventry dans les Midlands de l'Ouest",
+        "ar": "جامعة في المملكة المتحدة",
+        "es": "universidad",
+        "ja": "イギリスの大学",
+        "zh": "英国公立大学"
+      }
+    },
+    "Q8789": {
+      "id": "Q8789",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "en": "cryptography",
+        "fr": "cryptographie",
+        "de": "Kryptographie",
+        "ar": "تعمية",
+        "es": "criptografía",
+        "ja": "暗号理論",
+        "ko": "암호학",
+        "zh": "密码编码学"
+      },
+      "descriptions": {
+        "en": "practice and study of secure communication techniques",
+        "es": "práctica y estudio de técnicas de comunicación segura en presencia de terceros",
+        "de": "Techniken zur sicheren Kommunikation in Anwesenheit Dritter",
+        "fr": "pratique et étude des techniques de communication sécurisée en présence de tiers",
+        "zh": "研究如何构造性能良好、实现方便的密码体制的方法",
+        "ko": "정보를 보호하기 위한 언어학적 및 수학적 방법론을 다루는 학문",
+        "ja": "第三者には理解できないように情報を暗号化し解読する技術理論",
+        "ar": "فرع من علم التعمية يهتم بدراسة تقانات جعل رسائل البيانات غير مقروءة للعموم لأغراض الأمن"
+      }
+    },
+    "Q908745": {
+      "id": "Q908745",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "fr": "prix japonais",
+        "es": "Premio Japón",
+        "en": "Japan Prize",
+        "de": "Japan-Preis",
+        "ja": "日本国際賞",
+        "zh": "日本国际奖",
+        "ar": "جائزة اليابان",
+        "ko": "일본국제상"
+      },
+      "descriptions": {
+        "en": "Japanese science award",
+        "ja": "日本の賞",
+        "fr": "prix en sciences et technologies",
+        "zh": "日本设立奖项"
+      }
+    },
+    "Q915604": {
+      "id": "Q915604",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "ko": "울프 수학상",
+        "en": "Wolf Prize in Mathematics",
+        "es": "Premio Wolf en Matemáticas",
+        "ja": "ウルフ賞数学部門",
+        "zh": "沃尔夫数学奖",
+        "fr": "prix Wolf de mathématiques",
+        "de": "Wolf-Preis in Mathematik",
+        "ar": "جائزة وولف في الرياضيات"
+      },
+      "descriptions": {
+        "fr": "distinction, prix Wolf",
+        "en": "Israeli award",
+        "ar": "جائزة",
+        "es": "premio",
+        "ja": "ウルフ賞の一部門であり、優れた業績を上げた数学者に与えられる賞"
+      }
+    },
+    "Q927061": {
+      "id": "Q927061",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "de": "Erdős-Preis",
+        "en": "Anna and Lajos Erdős Prize in Mathematics",
+        "ar": "جائزة إيردوس",
+        "es": "Premio Erdos",
+        "fr": "prix Erdős",
+        "ja": "エルデシュ賞",
+        "ko": "에르되시 상",
+        "zh": "厄尔多斯奖"
+      },
+      "descriptions": {
+        "es": "premio israelí",
+        "fr": "récompense en mathématiques",
+        "en": "Israeli award for mathematics and computer science (1977-)",
+        "de": "israelische Auszeichnung für Mathematik und Informatik (1977-)"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Adi Shamir at TU Darmstadt (2013).jpg",
+    "fetchedAt": "2026-11-13T11:05:51Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adi_Shamir_at_TU_Darmstadt_(2013).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg/960px-Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1365,
+    "height": 2048,
+    "mediaTimestamp": "2013-09-25T23:58:02Z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Erik Tews",
+    "credit": "Own work",
+    "description": "Adi Shamir as a guest speaker at Technische Universität Darmstadt",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/dfdbb5f63a193a7e73b0e9a3.jpg",
+    "cachedImageBytes": 293831,
+    "cachedImageSha256": "0f32a62fce1e42c01f2532a3b6300db87984d68326e81eb0f4746d3d71705622"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 24,
+    "referenceUrls": 16,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

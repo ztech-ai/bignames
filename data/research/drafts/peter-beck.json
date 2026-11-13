@@ -1,0 +1,3289 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "peter-beck",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/peter-beck.json",
+    "sha256": "d66307037dfddf50f7fb1dac6a72b3d6c0f999ca554ef924d223cb3f2747de74",
+    "capturedAt": "2026-11-13T11:26:18Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+      "https://en.wikipedia.org/wiki/Peter_Beck",
+      "https://www.wikidata.org/wiki/Q55629586"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q55629586",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Peter Beck",
+    "sourceIdentity": {
+      "requestedName": "Peter Beck",
+      "requestedTitle": "Peter Beck",
+      "resolvedTitle": "Peter Beck",
+      "wikidataId": "Q55629586",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-08bf8afc105072b1d551",
+      "property": "P106",
+      "claimId": "Q55629586$74A6E7BD-D19F-46EF-9AA3-3E8702735115",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5287861,
+          "id": "Q5287861"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2d5cffa93071991f1ea9",
+      "property": "P106",
+      "claimId": "Q55629586$A2B19D29-E999-4EC6-9541-A57924881B93",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6e82e1da9f346316834b",
+      "property": "P106",
+      "claimId": "Q55629586$C0AAF691-34DE-4968-B3B7-0CEE12B4D883",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 81096,
+          "id": "Q81096"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-06-24T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-06-24"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c07c6527f5479446c764",
+      "property": "P106",
+      "claimId": "Q55629586$6b4275c2-d218-41e5-8df9-1689bab81daf",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c35e8a2aeb513c90ed1a",
+      "property": "P106",
+      "claimId": "Q55629586$74068DB5-5999-483C-98F0-0E1567D5F149",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-fd56b3c2453382aa2328",
+      "property": "P27",
+      "claimId": "Q55629586$49E94946-6A73-45A4-9DF9-58B393F29400",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 664,
+          "id": "Q664"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e077d1d0266095e33739",
+      "property": "P569",
+      "claimId": "Q55629586$B655F24D-EF3D-4BE8-BD81-1D4CBA2DD109",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1976-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1976"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1976-00-00T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1976",
+        "earliest": "1976-01-01",
+        "latest": "1976-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-15f46ee22056529e77a6",
+      "property": "P19",
+      "claimId": "Q55629586$20D95033-A7C2-49DD-9DEC-1DDE37BF276C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 31805,
+          "id": "Q31805"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-aa545201cac6ed1ed9f2",
+      "property": "P69",
+      "claimId": "Q55629586$5A7387FC-01D6-4432-9F74-1CBA6FE7D18B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 6135561,
+          "id": "Q6135561"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-88e9537e295b2f217e6b",
+      "property": "P108",
+      "claimId": "Q55629586$6D603D08-1BAA-496D-BE43-9A2466ECDA7F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 116319,
+          "id": "Q116319"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2006-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2006"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2006-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2006",
+          "earliest": "2006-01-01",
+          "latest": "2006-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c65f0894e6363f2a185c",
+      "property": "P108",
+      "claimId": "Q55629586$F2517277-1243-4983-B1B8-009623A45423",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1661937,
+          "id": "Q1661937"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2001-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2001"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2001-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2001",
+          "earliest": "2001-01-01",
+          "latest": "2001-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f463fbe8723c1f569393",
+      "property": "P108",
+      "claimId": "Q55629586$728D06DB-197B-41BA-AD4D-0E9174D2A022",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3073026,
+          "id": "Q3073026"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-4ace66d04144695ff0e4",
+      "property": "P39",
+      "claimId": "Q55629586$b0076041-4b57-0ee3-f276-af755c90830d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-87ef9164c210487766d7",
+      "property": "P39",
+      "claimId": "Q55629586$7df365ee-41b1-6445-6dd9-bdaff61033fb",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2534525,
+          "id": "Q2534525"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-237d649730bc977b6d60",
+      "property": "P166",
+      "claimId": "Q55629586$970db150-452c-8a73-3fa9-10ba8ae75711",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 786328,
+          "id": "Q786328"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://eoyhof.ey.com/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://eoyhof.ey.com/",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://eoyhof.ey.com/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-24715a89fb095c210991",
+      "property": "P166",
+      "claimId": "Q55629586$85F0D7E4-8030-4FD7-B577-A3C27C16083A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 23049765,
+          "id": "Q23049765"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2024-06-03T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2024-06-03"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2024-06-03T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2024-06-03",
+          "earliest": "2024-06-03",
+          "latest": "2024-06-03",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-aaf56134f2066a2bd1fd",
+      "property": "P166",
+      "claimId": "Q55629586$40400863-6FDE-4AA8-A223-C818018FEAB4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 117337544,
+          "id": "Q117337544"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://nzawards.org.nz/awards/new-zealand-innovator-year/2015/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://nzawards.org.nz/awards/new-zealand-innovator-year/2015/",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://nzawards.org.nz/awards/new-zealand-innovator-year/2015/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ab5ffd66e59d321a7ad9",
+      "property": "P166",
+      "claimId": "Q55629586$3E1CE628-14C4-4419-8CA9-62CB61B66727",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 63877311,
+          "id": "Q63877311"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://blakenz.org/posts/2018/6/7/peter-beck-bl"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://blakenz.org/posts/2018/6/7/peter-beck-bl",
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "https://blakenz.org/posts/2018/6/7/peter-beck-bl"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018",
+          "earliest": "2018-01-01",
+          "latest": "2018-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d0776ab68065b6564c4d",
+      "property": "P166",
+      "claimId": "Q55629586$c09866ea-46f1-888c-9e44-dc1cfdbaf3ba",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 57443288,
+          "id": "Q57443288"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news/723599/Scientists-celebrate-Cooper-Medal-win"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news/723599/Scientists-celebrate-Cooper-Medal-win",
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "referenceUrls": [
+        "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news/723599/Scientists-celebrate-Cooper-Medal-win"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-a591472cfead48e7328e",
+      "factId": "fact-24715a89fb095c210991",
+      "claimId": "Q55629586$85F0D7E4-8030-4FD7-B577-A3C27C16083A",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2024-06-03",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.dpmc.govt.nz/honours/lists/kb2024-knzm",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c9da031a760f95bdc31f",
+      "factId": "fact-ab5ffd66e59d321a7ad9",
+      "claimId": "Q55629586$3E1CE628-14C4-4419-8CA9-62CB61B66727",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://blakenz.org/posts/2018/6/7/peter-beck-bl",
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4df9c8bf435697affe39",
+      "factId": "fact-237d649730bc977b6d60",
+      "claimId": "Q55629586$970db150-452c-8a73-3fa9-10ba8ae75711",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2016",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://eoyhof.ey.com/",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-7669012c8ceee6cf5f1b",
+      "factId": "fact-aaf56134f2066a2bd1fd",
+      "claimId": "Q55629586$40400863-6FDE-4AA8-A223-C818018FEAB4",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://nzawards.org.nz/awards/new-zealand-innovator-year/2015/",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-36e71d46fc2bf1ac3ee7",
+      "factId": "fact-d0776ab68065b6564c4d",
+      "claimId": "Q55629586$c09866ea-46f1-888c-9e44-dc1cfdbaf3ba",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news/723599/Scientists-celebrate-Cooper-Medal-win",
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4726e4b093f8115e863a",
+      "factId": "fact-88e9537e295b2f217e6b",
+      "claimId": "Q55629586$6D603D08-1BAA-496D-BE43-9A2466ECDA7F",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2006",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-28b9ced40d9e0a33503e",
+      "factId": "fact-c65f0894e6363f2a185c",
+      "claimId": "Q55629586$F2517277-1243-4983-B1B8-009623A45423",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2001",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-5688cbe4f92976c9a879",
+      "factId": "fact-e077d1d0266095e33739",
+      "claimId": "Q55629586$B655F24D-EF3D-4BE8-BD81-1D4CBA2DD109",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1976",
+      "precision": 9,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1371110816",
+        "https://en.wikipedia.org/wiki/Peter_Beck",
+        "https://www.wikidata.org/wiki/Q55629586"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "彼得·贝克",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "职业",
+          "value": "首席技术官",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "职业",
+          "value": "首席执行官",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "职业",
+          "value": "工程师",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "国籍",
+          "value": "新西兰",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "来源所记出生日期",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "出生地",
+          "value": "因弗卡吉尔",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "就读机构",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "雇主",
+          "value": "Rocket Lab",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "雇主",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "雇主",
+          "value": "婓雪派克",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "担任职务",
+          "value": "首席执行官",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "担任职务",
+          "value": "董事長",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "奖项",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "奖项",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "奖项",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "奖项",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "奖项",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Blake Leader Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Entrepreneur of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Innovator of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Cooper Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: Rocket Lab",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: Industrial Research Limited",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1976",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Peter Beck",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "Occupation",
+          "value": "chief technology officer",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "Occupation",
+          "value": "chief executive officer",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "Occupation",
+          "value": "engineer",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "Citizenship",
+          "value": "New Zealand",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "Source-reported birth date",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "Place of birth",
+          "value": "Invercargill",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "Educational institution",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "Employer",
+          "value": "Rocket Lab",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "Employer",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "Employer",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "Position held",
+          "value": "chief executive officer",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "Position held",
+          "value": "chairperson of the executive board",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "Award",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "Award",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "Award",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "Award",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "Award",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Blake Leader Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Entrepreneur of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Innovator of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Cooper Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: Rocket Lab",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: Industrial Research Limited",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1976",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Peter Beck",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "Profession",
+          "value": "directeur ou directrice technique",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "Profession",
+          "value": "directeur général ou directrice générale",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "Profession",
+          "value": "ingénieur ou ingénieure",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "Nationalité",
+          "value": "Nouvelle-Zélande",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "Lieu de naissance",
+          "value": "Invercargill",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "Établissement fréquenté",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "Employeur",
+          "value": "Rocket Lab",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "Employeur",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "Employeur",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "Fonction exercée",
+          "value": "directeur général ou directrice générale",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "Fonction exercée",
+          "value": "président ou présidente du conseil d'administration",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "Distinction",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "Distinction",
+          "value": "chevalier compagnon de l'ordre du Mérite de Nouvelle-Zélande",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "Distinction",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "Distinction",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "Distinction",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: chevalier compagnon de l'ordre du Mérite de Nouvelle-Zélande",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Blake Leader Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Entrepreneur of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Innovator of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Cooper Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: Rocket Lab",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: Industrial Research Limited",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1976",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Peter Beck",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "المهنة",
+          "value": "مدير التكنولوجيا التنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "المهنة",
+          "value": "رئيس تنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "المهنة",
+          "value": "مهندس",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "الجنسية",
+          "value": "نيوزيلندا",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "مكان الميلاد",
+          "value": "إنفركارجل",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "المؤسسة التعليمية",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "جهة العمل",
+          "value": "روكيت لاب",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "جهة العمل",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "جهة العمل",
+          "value": "فيشر وبايكل",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "المنصب",
+          "value": "رئيس تنفيذي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "المنصب",
+          "value": "رئيس المجلس التنفيذي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "الجائزة",
+          "value": "جائزة رائد أعمال السنة",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "الجائزة",
+          "value": "نيشان الاستحقاق لنيوزيلندا من رتبة مرافق فارس",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "الجائزة",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "الجائزة",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "الجائزة",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: نيشان الاستحقاق لنيوزيلندا من رتبة مرافق فارس",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Blake Leader Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة رائد أعمال السنة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Innovator of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Cooper Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: روكيت لاب",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: Industrial Research Limited",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1976",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Peter Beck",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "Beruf",
+          "value": "Technischer Direktor",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "Beruf",
+          "value": "Geschäftsführer",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "Beruf",
+          "value": "Ingenieur",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "Staatsangehörigkeit",
+          "value": "Neuseeland",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "Geburtsort",
+          "value": "Invercargill",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "Bildungseinrichtung",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "Arbeitgeber",
+          "value": "Rocket Lab",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "Arbeitgeber",
+          "value": "Industrial Research",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "Arbeitgeber",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "Ausgeübtes Amt",
+          "value": "Geschäftsführer",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "Ausgeübtes Amt",
+          "value": "Vorstandsvorsitzender",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "Auszeichnung",
+          "value": "Entrepreneur Of The Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "Auszeichnung",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "Auszeichnung",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "Auszeichnung",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "Auszeichnung",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Blake Leader Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Entrepreneur Of The Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Innovator of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Cooper Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: Rocket Lab",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: Industrial Research",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1976",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ピーター・ベック",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "職業",
+          "value": "最高技術責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "職業",
+          "value": "最高経営責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "職業",
+          "value": "エンジニア",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "国籍",
+          "value": "ニュージーランド",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "出典に記載された生年月日",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "出生地",
+          "value": "インヴァーカーギル",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "在籍した教育機関",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "雇用主",
+          "value": "Rocket Lab",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "雇用主",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "雇用主",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "役職",
+          "value": "最高経営責任者",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "役職",
+          "value": "取締役会会長",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "受賞",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "受賞",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "受賞",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "受賞",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "受賞",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Blake Leader Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Entrepreneur of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Innovator of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Cooper Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: Rocket Lab",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: Industrial Research Limited",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1976",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Peter Beck",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "Ocupación",
+          "value": "director de tecnología",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "Ocupación",
+          "value": "director ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "Ocupación",
+          "value": "ingeniero",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "Nacionalidad",
+          "value": "Nueva Zelanda",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "Lugar de nacimiento",
+          "value": "Invercargill",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "Institución educativa",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "Empleador",
+          "value": "Rocket Lab",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "Empleador",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "Empleador",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "Cargo desempeñado",
+          "value": "director ejecutivo",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "Cargo desempeñado",
+          "value": "presidente del comité ejecutivo",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "Distinción",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "Distinción",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "Distinción",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "Distinción",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "Distinción",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Blake Leader Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Entrepreneur of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Innovator of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Cooper Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: Rocket Lab",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: Industrial Research Limited",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1976",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Peter Beck",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-08bf8afc105072b1d551",
+          "label": "직업",
+          "value": "최고기술책임자",
+          "notes": []
+        },
+        {
+          "id": "fact-2d5cffa93071991f1ea9",
+          "label": "직업",
+          "value": "최고경영자",
+          "notes": []
+        },
+        {
+          "id": "fact-6e82e1da9f346316834b",
+          "label": "직업",
+          "value": "기술자",
+          "notes": []
+        },
+        {
+          "id": "fact-c07c6527f5479446c764",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-c35e8a2aeb513c90ed1a",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-fd56b3c2453382aa2328",
+          "label": "국적",
+          "value": "뉴질랜드",
+          "notes": []
+        },
+        {
+          "id": "fact-e077d1d0266095e33739",
+          "label": "출처에 기재된 출생일",
+          "value": "1976",
+          "notes": []
+        },
+        {
+          "id": "fact-15f46ee22056529e77a6",
+          "label": "출생지",
+          "value": "인버카길",
+          "notes": []
+        },
+        {
+          "id": "fact-aa545201cac6ed1ed9f2",
+          "label": "교육 기관",
+          "value": "James Hargest College",
+          "notes": []
+        },
+        {
+          "id": "fact-88e9537e295b2f217e6b",
+          "label": "고용 기관",
+          "value": "로켓 랩",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-c65f0894e6363f2a185c",
+          "label": "고용 기관",
+          "value": "Industrial Research Limited",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-f463fbe8723c1f569393",
+          "label": "고용 기관",
+          "value": "Fisher & Paykel",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-4ace66d04144695ff0e4",
+          "label": "직책",
+          "value": "최고경영자",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-87ef9164c210487766d7",
+          "label": "직책",
+          "value": "이사회회장",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-237d649730bc977b6d60",
+          "label": "수상",
+          "value": "Entrepreneur of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-24715a89fb095c210991",
+          "label": "수상",
+          "value": "Knight Companion of the New Zealand Order of Merit‎",
+          "notes": []
+        },
+        {
+          "id": "fact-aaf56134f2066a2bd1fd",
+          "label": "수상",
+          "value": "Innovator of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ab5ffd66e59d321a7ad9",
+          "label": "수상",
+          "value": "Blake Leader Award",
+          "notes": []
+        },
+        {
+          "id": "fact-d0776ab68065b6564c4d",
+          "label": "수상",
+          "value": "Cooper Award",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a591472cfead48e7328e",
+          "factId": "fact-24715a89fb095c210991",
+          "date": "2024-06-03",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: Knight Companion of the New Zealand Order of Merit‎",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c9da031a760f95bdc31f",
+          "factId": "fact-ab5ffd66e59d321a7ad9",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Blake Leader Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4df9c8bf435697affe39",
+          "factId": "fact-237d649730bc977b6d60",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Entrepreneur of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-7669012c8ceee6cf5f1b",
+          "factId": "fact-aaf56134f2066a2bd1fd",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Innovator of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-36e71d46fc2bf1ac3ee7",
+          "factId": "fact-d0776ab68065b6564c4d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Cooper Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4726e4b093f8115e863a",
+          "factId": "fact-88e9537e295b2f217e6b",
+          "date": "2006",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: 로켓 랩",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-28b9ced40d9e0a33503e",
+          "factId": "fact-c65f0894e6363f2a185c",
+          "date": "2001",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: Industrial Research Limited",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-5688cbe4f92976c9a879",
+          "factId": "fact-e077d1d0266095e33739",
+          "date": "1976",
+          "precision": 9,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1976",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "ar",
+        "key": "Q1661937"
+      },
+      {
+        "locale": "ar",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "ar",
+        "key": "Q6135561"
+      },
+      {
+        "locale": "ar",
+        "key": "Q63877311"
+      },
+      {
+        "locale": "de",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "de",
+        "key": "Q23049765"
+      },
+      {
+        "locale": "de",
+        "key": "Q3073026"
+      },
+      {
+        "locale": "de",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "es",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "es",
+        "key": "Q1661937"
+      },
+      {
+        "locale": "es",
+        "key": "Q23049765"
+      },
+      {
+        "locale": "es",
+        "key": "Q3073026"
+      },
+      {
+        "locale": "es",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "es",
+        "key": "Q6135561"
+      },
+      {
+        "locale": "es",
+        "key": "Q786328"
+      },
+      {
+        "locale": "fr",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "fr",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "fr",
+        "key": "Q63877311"
+      },
+      {
+        "locale": "fr",
+        "key": "Q786328"
+      },
+      {
+        "locale": "ja",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "ja",
+        "key": "Q1661937"
+      },
+      {
+        "locale": "ja",
+        "key": "Q23049765"
+      },
+      {
+        "locale": "ja",
+        "key": "Q3073026"
+      },
+      {
+        "locale": "ja",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "ja",
+        "key": "Q6135561"
+      },
+      {
+        "locale": "ja",
+        "key": "Q63877311"
+      },
+      {
+        "locale": "ja",
+        "key": "Q786328"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1661937"
+      },
+      {
+        "locale": "ko",
+        "key": "Q23049765"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3073026"
+      },
+      {
+        "locale": "ko",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "ko",
+        "key": "Q6135561"
+      },
+      {
+        "locale": "ko",
+        "key": "Q63877311"
+      },
+      {
+        "locale": "ko",
+        "key": "Q786328"
+      },
+      {
+        "locale": "zh",
+        "key": "Q117337544"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1661937"
+      },
+      {
+        "locale": "zh",
+        "key": "Q23049765"
+      },
+      {
+        "locale": "zh",
+        "key": "Q57443288"
+      },
+      {
+        "locale": "zh",
+        "key": "Q6135561"
+      },
+      {
+        "locale": "zh",
+        "key": "Q63877311"
+      },
+      {
+        "locale": "zh",
+        "key": "Q786328"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Peter Beck",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q1661937",
+        "fallbackLocale": "en",
+        "value": "Industrial Research Limited",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q6135561",
+        "fallbackLocale": "en",
+        "value": "James Hargest College",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q63877311",
+        "fallbackLocale": "en",
+        "value": "Blake Leader Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q23049765",
+        "fallbackLocale": "en",
+        "value": "Knight Companion of the New Zealand Order of Merit‎",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q3073026",
+        "fallbackLocale": "en",
+        "value": "Fisher & Paykel",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q1661937",
+        "fallbackLocale": "en",
+        "value": "Industrial Research Limited",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q23049765",
+        "fallbackLocale": "en",
+        "value": "Knight Companion of the New Zealand Order of Merit‎",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q3073026",
+        "fallbackLocale": "en",
+        "value": "Fisher & Paykel",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q6135561",
+        "fallbackLocale": "en",
+        "value": "James Hargest College",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q786328",
+        "fallbackLocale": "en",
+        "value": "Entrepreneur of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q63877311",
+        "fallbackLocale": "en",
+        "value": "Blake Leader Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q786328",
+        "fallbackLocale": "en",
+        "value": "Entrepreneur of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q1661937",
+        "fallbackLocale": "en",
+        "value": "Industrial Research Limited",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q23049765",
+        "fallbackLocale": "en",
+        "value": "Knight Companion of the New Zealand Order of Merit‎",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q3073026",
+        "fallbackLocale": "en",
+        "value": "Fisher & Paykel",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q6135561",
+        "fallbackLocale": "en",
+        "value": "James Hargest College",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q63877311",
+        "fallbackLocale": "en",
+        "value": "Blake Leader Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q786328",
+        "fallbackLocale": "en",
+        "value": "Entrepreneur of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Peter Beck",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1661937",
+        "fallbackLocale": "en",
+        "value": "Industrial Research Limited",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q23049765",
+        "fallbackLocale": "en",
+        "value": "Knight Companion of the New Zealand Order of Merit‎",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3073026",
+        "fallbackLocale": "en",
+        "value": "Fisher & Paykel",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q6135561",
+        "fallbackLocale": "en",
+        "value": "James Hargest College",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q63877311",
+        "fallbackLocale": "en",
+        "value": "Blake Leader Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q786328",
+        "fallbackLocale": "en",
+        "value": "Entrepreneur of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q117337544",
+        "fallbackLocale": "en",
+        "value": "Innovator of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1661937",
+        "fallbackLocale": "en",
+        "value": "Industrial Research Limited",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q23049765",
+        "fallbackLocale": "en",
+        "value": "Knight Companion of the New Zealand Order of Merit‎",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q57443288",
+        "fallbackLocale": "en",
+        "value": "Cooper Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q6135561",
+        "fallbackLocale": "en",
+        "value": "James Hargest College",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q63877311",
+        "fallbackLocale": "en",
+        "value": "Blake Leader Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q786328",
+        "fallbackLocale": "en",
+        "value": "Entrepreneur of the Year",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 8,
+    "professionalEventCount": 7,
+    "factCount": 19,
+    "factsWithoutExternalReference": 13,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

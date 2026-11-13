@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "evan-you",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "尤雨溪",
+    "enName": "Evan You",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "asia",
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "创建Vue.js与Vite，推动开放前端框架和开发工具在全球网页应用工程中的使用。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "创建Vue.js与Vite，推动开放前端框架和开发工具在全球网页应用工程中的使用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:13Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Evan You",
+    "requestedTitle": "Evan You",
+    "resolvedTitle": "Evan You",
+    "wikidataId": "Q58482636",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id",
+    "excludedWikipediaRedirect": {
+      "resolvedTitle": "Vue.js",
+      "qid": "Q24589705",
+      "url": "https://en.wikipedia.org/wiki/Vue.js"
+    }
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": false,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q58482636",
+      "title": "Q58482636",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:26:13Z",
+      "revisionId": 2545725104,
+      "revisionTimestamp": "2026-09-14T17:18:50Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "",
+    "sourceId": null,
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Evan You",
+    "en": "Evan You",
+    "es": "Evan You",
+    "ar": "إيفان يو",
+    "zh": "尤雨溪",
+    "ja": "尤雨溪"
+  },
+  "descriptions": {
+    "fr": "créateur de Vue.js",
+    "en": "programmer, Vue.js author, and Vite author",
+    "ar": "مطور برمجيات، منشئ Vue.js",
+    "zh": "Web應用框架Vue.js作者",
+    "ja": "プログラマ、Vue.jsとViteの作者"
+  },
+  "languageArticles": {
+    "en": "Evan You",
+    "zh": "尤雨溪"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q58482636$de71c9ff-403d-e0fb-4a0f-c50658ab40bf",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q58482636$026f2dd6-4b7e-62e4-4544-e9448c20e6d3",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://evanyou.me/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q58482636$54d848dc-4a42-5e5f-5334-5c032db98164",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183888,
+            "id": "Q183888"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://evanyou.me/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q58482636$f488398f-4cea-075d-6e91-340f93d96858",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 24589705,
+            "id": "Q24589705"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q58482636$9f5a4a0f-4866-3709-c438-d068c348378b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 111590996,
+            "id": "Q111590996"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q58482636$DFA81CE3-7153-4AF0-A321-3692E7284287",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 109640104,
+            "id": "Q109640104"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-05-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-05"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://shuttleworthfoundation.org/fellows/flash-grants/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-11-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P856": "officialWebsite",
+    "P106": "occupation",
+    "P800": "notableWork",
+    "P166": "award"
+  },
+  "relatedEntities": {
+    "Q109640104": {
+      "id": "Q109640104",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "Shuttleworth Foundation Flash Grant",
+        "es": "Subvención relámpago de la Fundación Shuttleworth",
+        "fr": "Shuttleworth Foundation Flash Grant"
+      },
+      "descriptions": {
+        "en": "Flash Grant awarded by the Shuttleworth Foundation",
+        "es": "subención",
+        "fr": "distinction de la Shuttleworth Foundation"
+      }
+    },
+    "Q111590996": {
+      "id": "Q111590996",
+      "fetchedAt": "2026-11-13T11:26:14Z",
+      "labels": {
+        "ar": "فيت جي إس",
+        "en": "Vite",
+        "de": "Vite",
+        "fr": "Vite",
+        "ja": "Vite",
+        "zh": "Vite",
+        "ko": "Vite"
+      },
+      "descriptions": {
+        "ar": "مُجمع وحدات جافاسكربت",
+        "en": "open-source JavaScript module bundler",
+        "de": "JS-Frontend-Entwicklungstool mit Transpilierung, TS-Kompilierung, HMR und Serverfunktionalität",
+        "ja": "オープンソースのJavaScriptモジュールバンドラー",
+        "fr": "Outil frontend",
+        "ko": "오픈소스 자바스크립트 모듈 번들러"
+      }
+    },
+    "Q183888": {
+      "id": "Q183888",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "développeur ou développeuse informatique",
+        "de": "Softwareentwickler",
+        "en": "software developer",
+        "es": "desarrollador de software",
+        "zh": "软件开发者",
+        "ko": "소프트웨어 개발자",
+        "ar": "مطور برمجيات",
+        "ja": "ソフトウェア開発者"
+      },
+      "descriptions": {
+        "de": "Person oder Unternehmen, die bzw. das an der Erstellung von Software mitwirkt",
+        "en": "person or company concerned with facets of the software development process",
+        "fr": "informaticien spécialisé en programmation",
+        "es": "persona que se dedica a diseñar y programar software",
+        "zh": "關注軟件開發過程的各個方面的人",
+        "ko": "소프트웨어 개발 업무에 종사하는 사람",
+        "ar": "الشخص أو الشركة المعنية بجوانب عملية تطوير البرمجيات",
+        "ja": "ソフトウェア開発工程に何らかの形で関わる人"
+      }
+    },
+    "Q24589705": {
+      "id": "Q24589705",
+      "fetchedAt": "2026-11-13T11:26:14Z",
+      "labels": {
+        "en": "Vue.js",
+        "de": "Vue.js",
+        "es": "Vue.js",
+        "fr": "Vue.js",
+        "ja": "Vue.js",
+        "ko": "Vue.js",
+        "zh": "Vue.js",
+        "ar": "فيو جي إس"
+      },
+      "descriptions": {
+        "de": "clientseitiges JavaScript-Framework zum Erstellen von Single-Page-Webanwendungen nach dem MVVM-Muster; englische Aussprache [vjuː]",
+        "en": "JavaScript framework",
+        "zh": "JavaScript 框架",
+        "fr": "framework JavaScript",
+        "ja": "JavaScriptフレームワーク",
+        "ar": "إطار عمل جافا سكريبت",
+        "ko": "웹 애플리케이션의 사용자 인터페이스를 만들기 위해 사용하는 오픈 소스 프로그레시브 자바스크립트 프레임워크"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 2,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

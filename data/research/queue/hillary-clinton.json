@@ -1,0 +1,56 @@
+{
+  "id": "hillary-clinton",
+  "selection": {
+    "id": "hillary-clinton",
+    "name": "希拉里·克林顿",
+    "enName": "Hillary Clinton",
+    "domain": "politics",
+    "domains": [
+      "politics"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "美国政治",
+    "inclusionReason": "曾任美国国务卿和参议员，是美国主要政党首位女性总统候选人并长期影响公共政策。",
+    "priority": 1,
+    "wikipediaTitle": "Hillary Clinton",
+    "selectionStatus": "pending-verification",
+    "influence": {
+      "stars": 4,
+      "scope": "global",
+      "rationale": "曾任美国国务卿和参议员，是美国主要政党首位女性总统候选人并长期影响公共政策。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    },
+    "researchStatus": "evidence-collected",
+    "lifeReviewStatus": "pending",
+    "wikidataId": "Q6294"
+  },
+  "cutoffDate": "2026-11-13",
+  "publicationReady": false,
+  "requiredLocales": [
+    "zh",
+    "en",
+    "fr",
+    "ar",
+    "de",
+    "ja",
+    "es",
+    "ko"
+  ],
+  "evidenceFile": "data/research/evidence/hillary-clinton.json",
+  "requiredChecks": [
+    "identity",
+    "living-status-at-cutoff",
+    "latest-career-coverage",
+    "independent-sources",
+    "portrait-identity-and-license",
+    "color-photo",
+    "original-resume",
+    "eight-language-parity",
+    "influence-evidence"
+  ],
+  "note": "候选与已抓取资料不等于已完成或已核验的人物档案。"
+}

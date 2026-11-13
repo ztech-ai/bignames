@@ -1,0 +1,1129 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "johann-rupert",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/johann-rupert.json",
+    "sha256": "f9f3c9ec9ded467f124682126deb53a459a135e968f353790478a670cad14318",
+    "capturedAt": "2026-11-13T11:25:35Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+      "https://en.wikipedia.org/wiki/Johann_Rupert",
+      "https://www.wikidata.org/wiki/Q6216224"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q6216224",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Johann Rupert",
+    "sourceIdentity": {
+      "requestedName": "Johann Rupert",
+      "requestedTitle": "Johann Rupert",
+      "resolvedTitle": "Johann Rupert",
+      "wikidataId": "Q6216224",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-6287bc8d1d0b3325e133",
+      "property": "P106",
+      "claimId": "Q6216224$DD1D768B-0BC7-445D-AC8C-58DC0E9131DA",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-aee84f1207f204bfd330",
+      "property": "P106",
+      "claimId": "Q6216224$08A642E0-3187-481E-84CF-5AB6D7653F59",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 188094,
+          "id": "Q188094"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-f2e4243762797a164ce5",
+      "property": "P106",
+      "claimId": "Q6216224$9BEAD0FD-ACA1-4A50-9B4F-2C18600A3A72",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48952,
+                "id": "Q48952"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q48952",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q48952"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d9e987de717712271c0b",
+      "property": "P27",
+      "claimId": "Q6216224$47044D11-DD8F-403A-9A2A-0EBC10BD9714",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 258,
+          "id": "Q258"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e401b958c809fcba1eeb",
+      "property": "P27",
+      "claimId": "Q6216224$E398B7B5-4F95-4739-B58B-B3C436E65325",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 39,
+          "id": "Q39"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2a7a0de89303aa4d2b19",
+      "property": "P569",
+      "claimId": "Q6216224$54F4030A-16B3-4F45-BECF-2BB1A41209BA",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1950-06-01T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1950-06-01"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 107343683,
+                "id": "Q107343683"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q107343683"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1950-06-01T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1950-06-01",
+        "earliest": "1950-06-01",
+        "latest": "1950-06-01",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-c935588824931afffb17",
+      "property": "P19",
+      "claimId": "Q6216224$8ca5c10b-43f8-45bf-97cb-19f7fa73d669",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5460,
+          "id": "Q5460"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d22f8c01b040007ce7f2",
+      "property": "P69",
+      "claimId": "Q6216224$43C45917-8EF0-4729-98E4-FF21476D01A6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7153315,
+          "id": "Q7153315"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f7f9d1a952cb5671aa02",
+      "property": "P69",
+      "claimId": "Q6216224$ADA0E890-E011-4652-8E6A-5AE3E5CC02D2",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1066492,
+          "id": "Q1066492"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-54c13270548680f9a2a5",
+      "factId": "fact-2a7a0de89303aa4d2b19",
+      "claimId": "Q6216224$54F4030A-16B3-4F45-BECF-2BB1A41209BA",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1950-06-01",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1380727774",
+        "https://en.wikipedia.org/wiki/Johann_Rupert",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q6216224"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "约翰·鲁珀特",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "职业",
+          "value": "经济学家",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "国籍",
+          "value": "南非",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "国籍",
+          "value": "瑞士",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "来源所记出生日期",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "出生地",
+          "value": "斯泰倫博斯",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "就读机构",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "就读机构",
+          "value": "斯泰倫博斯大學",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1950-06-01",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Johann Rupert",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "Occupation",
+          "value": "economist",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "Citizenship",
+          "value": "South Africa",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "Citizenship",
+          "value": "Switzerland",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "Source-reported birth date",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "Place of birth",
+          "value": "Stellenbosch",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "Educational institution",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "Educational institution",
+          "value": "Stellenbosch University",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1950-06-01",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Johann Rupert",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "Profession",
+          "value": "économiste",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "Nationalité",
+          "value": "Afrique du Sud",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "Nationalité",
+          "value": "Suisse",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "Lieu de naissance",
+          "value": "Stellenbosch",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "Établissement fréquenté",
+          "value": "lycée Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "Établissement fréquenté",
+          "value": "Université de Stellenbosch",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1950-06-01",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "يوهان روبرت",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "المهنة",
+          "value": "اقتصادي",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "الجنسية",
+          "value": "جنوب إفريقيا",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "الجنسية",
+          "value": "سويسرا",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "مكان الميلاد",
+          "value": "ستيلينبوش",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "المؤسسة التعليمية",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ستيلينبوش",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1950-06-01",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Johann Rupert",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "Beruf",
+          "value": "Wirtschaftswissenschaftler",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "Staatsangehörigkeit",
+          "value": "Südafrika",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "Staatsangehörigkeit",
+          "value": "Schweiz",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "Geburtsort",
+          "value": "Stellenbosch",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "Bildungseinrichtung",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "Bildungseinrichtung",
+          "value": "Universität Stellenbosch",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1950-06-01",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Johann Rupert",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "職業",
+          "value": "経済学者",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "国籍",
+          "value": "南アフリカ共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "国籍",
+          "value": "スイス",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "出典に記載された生年月日",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "出生地",
+          "value": "ステレンボッシュ",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "在籍した教育機関",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "在籍した教育機関",
+          "value": "ステレンボッシュ大学",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1950-06-01",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Johann Rupert",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "Ocupación",
+          "value": "economista",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "Nacionalidad",
+          "value": "Sudáfrica",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "Nacionalidad",
+          "value": "Suiza",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "Lugar de nacimiento",
+          "value": "Stellenbosch",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "Institución educativa",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "Institución educativa",
+          "value": "Universidad de Stellenbosch",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1950-06-01",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Johann Rupert",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6287bc8d1d0b3325e133",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-aee84f1207f204bfd330",
+          "label": "직업",
+          "value": "경제학자",
+          "notes": []
+        },
+        {
+          "id": "fact-f2e4243762797a164ce5",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-d9e987de717712271c0b",
+          "label": "국적",
+          "value": "남아프리카 공화국",
+          "notes": []
+        },
+        {
+          "id": "fact-e401b958c809fcba1eeb",
+          "label": "국적",
+          "value": "스위스",
+          "notes": []
+        },
+        {
+          "id": "fact-2a7a0de89303aa4d2b19",
+          "label": "출처에 기재된 출생일",
+          "value": "1950-06-01",
+          "notes": []
+        },
+        {
+          "id": "fact-c935588824931afffb17",
+          "label": "출생지",
+          "value": "스텔렌보스",
+          "notes": []
+        },
+        {
+          "id": "fact-d22f8c01b040007ce7f2",
+          "label": "교육 기관",
+          "value": "Paul Roos Gymnasium",
+          "notes": []
+        },
+        {
+          "id": "fact-f7f9d1a952cb5671aa02",
+          "label": "교육 기관",
+          "value": "스텔렌보스 대학교",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-54c13270548680f9a2a5",
+          "factId": "fact-2a7a0de89303aa4d2b19",
+          "date": "1950-06-01",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1950-06-01",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q7153315"
+      },
+      {
+        "locale": "de",
+        "key": "Q7153315"
+      },
+      {
+        "locale": "es",
+        "key": "Q7153315"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "Q7153315"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7153315"
+      },
+      {
+        "locale": "zh",
+        "key": "Q7153315"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Johann Rupert",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Johann Rupert",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q7153315",
+        "fallbackLocale": "en",
+        "value": "Paul Roos Gymnasium",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 9,
+    "factsWithoutExternalReference": 9,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

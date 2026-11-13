@@ -1,0 +1,809 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "sanjay-mehrotra",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/sanjay-mehrotra.json",
+    "sha256": "0f4ba98f6d491165c81ae03eeb1498f18a669459d10452320e794c0b81c60d72",
+    "capturedAt": "2026-11-13T11:25:29Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+      "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+      "https://www.wikidata.org/wiki/Q20714493"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q20714493",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Sanjay Mehrotra",
+    "sourceIdentity": {
+      "requestedName": "Sanjay Mehrotra",
+      "requestedTitle": "Sanjay Mehrotra",
+      "resolvedTitle": "Sanjay Mehrotra",
+      "wikidataId": "Q20714493",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-328692d9bd12ee91af70",
+      "property": "P106",
+      "claimId": "Q20714493$365cd91d-fff0-40f6-8166-b8d65bdceb45",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q20714493",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-9061437ea61e7a8095c7",
+      "property": "P569",
+      "claimId": "Q20714493$272A094E-219B-4D86-BCE2-B2A3ADED4E1F",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1958-06-27T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1958-06-27"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q20714493",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1958-06-27T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1958-06-27",
+        "earliest": "1958-06-27",
+        "latest": "1958-06-27",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-7579b40535505c726ea7",
+      "property": "P19",
+      "claimId": "Q20714493$D4232194-F1EE-4C60-AB86-48ABEA808AB7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 66568,
+          "id": "Q66568"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q20714493",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b347dab7c77aa487f540",
+      "property": "P69",
+      "claimId": "Q20714493$07711bc8-4d0f-4162-adc5-8929b6c1d9f6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7864146,
+          "id": "Q7864146"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q20714493",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b49d49316e120a0917a3",
+      "property": "P1416",
+      "claimId": "Q20714493$52832F0D-31F0-4B88-BFB8-5789E9BA9CB5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1197548,
+          "id": "Q1197548"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835657,
+                "id": "Q114835657"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835663,
+                "id": "Q114835663"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q114835657",
+        "https://www.wikidata.org/wiki/Q114835663",
+        "https://www.wikidata.org/wiki/Q20714493"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114835657",
+        "https://www.wikidata.org/wiki/Q114835663"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-519e375eee638dc077e2",
+      "factId": "fact-9061437ea61e7a8095c7",
+      "claimId": "Q20714493$272A094E-219B-4D86-BCE2-B2A3ADED4E1F",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1958-06-27",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381403467",
+        "https://en.wikipedia.org/wiki/Sanjay_Mehrotra",
+        "https://www.wikidata.org/wiki/Q20714493",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "桑杰·梅赫罗特拉",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "来源所记出生日期",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "出生地",
+          "value": "坎普尔",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "就读机构",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "所属机构",
+          "value": "美光記憶台",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1958-06-27",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Sanjay Mehrotra",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "Source-reported birth date",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "Place of birth",
+          "value": "Kanpur",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "Educational institution",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "Affiliation",
+          "value": "Micron Technology",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1958-06-27",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Sanjay Mehrotra",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "Lieu de naissance",
+          "value": "Kanpur",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "Établissement fréquenté",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "Affiliation",
+          "value": "Micron Technology",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1958-06-27",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Sanjay Mehrotra",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "مكان الميلاد",
+          "value": "كانبور",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "المؤسسة التعليمية",
+          "value": "كلية الهندسة - جامعه كاليفورنيا",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "الانتساب المؤسسي",
+          "value": "ميكرون تكنولوجي",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1958-06-27",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Sanjay Mehrotra",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "Geburtsort",
+          "value": "Kanpur",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "Bildungseinrichtung",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "Zugehörigkeit",
+          "value": "Micron Technology",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1958-06-27",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "サンジェイ・メロートラ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "出典に記載された生年月日",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "出生地",
+          "value": "カーンプル",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "在籍した教育機関",
+          "value": "カリフォルニア大学バークレー校工学部",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "所属機関",
+          "value": "マイクロンテクノロジー",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1958-06-27",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Sanjay Mehrotra",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "Lugar de nacimiento",
+          "value": "Kanpur",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "Institución educativa",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "Afiliación",
+          "value": "Micron Technology",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1958-06-27",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "산제이 메흐로트라",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-328692d9bd12ee91af70",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-9061437ea61e7a8095c7",
+          "label": "출처에 기재된 출생일",
+          "value": "1958-06-27",
+          "notes": []
+        },
+        {
+          "id": "fact-7579b40535505c726ea7",
+          "label": "출생지",
+          "value": "칸푸르",
+          "notes": []
+        },
+        {
+          "id": "fact-b347dab7c77aa487f540",
+          "label": "교육 기관",
+          "value": "University of California, Berkeley College of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-b49d49316e120a0917a3",
+          "label": "소속 기관",
+          "value": "마이크론 테크놀로지",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-519e375eee638dc077e2",
+          "factId": "fact-9061437ea61e7a8095c7",
+          "date": "1958-06-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1958-06-27",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q7864146"
+      },
+      {
+        "locale": "es",
+        "key": "Q7864146"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "Q7864146"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7864146"
+      },
+      {
+        "locale": "zh",
+        "key": "Q7864146"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Sanjay Mehrotra",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Sanjay Mehrotra",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7864146",
+        "fallbackLocale": "en",
+        "value": "University of California, Berkeley College of Engineering",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7864146",
+        "fallbackLocale": "en",
+        "value": "University of California, Berkeley College of Engineering",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Sanjay Mehrotra",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q7864146",
+        "fallbackLocale": "en",
+        "value": "University of California, Berkeley College of Engineering",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7864146",
+        "fallbackLocale": "en",
+        "value": "University of California, Berkeley College of Engineering",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q7864146",
+        "fallbackLocale": "en",
+        "value": "University of California, Berkeley College of Engineering",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 5,
+    "factsWithoutExternalReference": 5,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

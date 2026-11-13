@@ -6,3 +6,8 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# Download cache is reproducible; reviewed evidence and dossiers are tracked.
+data/research/cache/
+__pycache__/
+*.py[cod]

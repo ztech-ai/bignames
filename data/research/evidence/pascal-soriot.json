@@ -1,0 +1,797 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "pascal-soriot",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "帕斯卡·索里奥",
+    "enName": "Pascal Soriot",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "制药与医疗",
+    "inclusionReason": "领导阿斯利康，发展肿瘤等创新药业务并参与全球医疗产品供给。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "领导阿斯利康，发展肿瘤等创新药业务并参与全球医疗产品供给。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:52Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Pascal Soriot",
+    "requestedTitle": "Pascal Soriot",
+    "resolvedTitle": "Pascal Soriot",
+    "wikidataId": "Q7141722",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Pascal_Soriot",
+      "title": "Pascal Soriot",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:52Z",
+      "revisionId": 1354448059,
+      "revisionTimestamp": "2026-05-16T13:58:08Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1354448059",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7141722",
+      "title": "Q7141722",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:11:24Z",
+      "revisionId": 2553730976,
+      "revisionTimestamp": "2026-10-06T02:45:36Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Sir Pascal Claude Roland Soriot (born 23 May 1959) is a French-born Australian businessman and chief executive of the British-Swedish multinational pharmaceutical and biotechnology company AstraZeneca.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Pascal Soriot",
+    "es": "Pascal Soriot",
+    "fr": "Pascal Soriot",
+    "de": "Pascal Soriot",
+    "zh": "苏博科",
+    "ja": "パスカル・ソリオ"
+  },
+  "descriptions": {
+    "en": "French businessman",
+    "fr": "homme d'affaires français",
+    "ar": "رائد أعمال فرنسي",
+    "es": "Empresario y veterinario francés",
+    "de": "französischer Industriemanager"
+  },
+  "languageArticles": {
+    "de": "Pascal Soriot",
+    "en": "Pascal Soriot",
+    "es": "Pascal Soriot",
+    "fr": "Pascal Soriot",
+    "zh": "苏博科"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q7141722$841FA24A-6B75-4EAE-A10C-48D60B18C2E8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q7141722$A76DA282-8078-45B0-8832-DAA831318ACE",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 273535,
+            "id": "Q273535"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7141722$B77B867E-F2E0-4025-A591-7BC2A4AFED55",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 273600,
+            "id": "Q273600"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q7141722$9ECF1102-A3E2-414B-AD5C-CBF1CF93F2E8",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1959-05-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1959-05-23"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q7141722$83AC0224-9237-4EA6-A34D-6C9FF1CAF88B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 131524,
+            "id": "Q131524"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48952,
+                  "id": "Q48952"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7141722$4C13F21E-3B3B-4828-AC25-FEB06292A094",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 202883,
+            "id": "Q202883"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q7141722$91FA8A4D-8A6B-4455-A970-74F57E8F39D6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 142,
+            "id": "Q142"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48952,
+                  "id": "Q48952"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q7141722$2aba02b0-4cbb-b3c7-b19e-387e6f04cf1d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 64682562,
+            "id": "Q64682562"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.bilan.ch/economie/le_dolder_club_ultra_discret_de_la_big_pharma_a_rendez_vous_a_paris"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7141722$cb02f935-4bc1-90ab-616b-696921b589fb",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 112611146,
+            "id": "Q112611146"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7141722$c6c268ff-45ee-ca4d-71ee-69bdfac4fa19",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-10-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012-10"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q7141722$d92ea4d4-42e1-672b-229f-5fd04daa5f07",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Pascal Soriot 2025.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q7141722$24f3c61e-458d-1e36-3be4-bfea650a6ad5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 731938,
+            "id": "Q731938"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q7141722$4C8347D5-6372-46EC-96AE-0C1F9956988C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 142,
+            "id": "Q142"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7141722$9AF3741E-C078-4BB4-A0D9-F9C2145EE9DE",
+        "rank": "preferred",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 90,
+            "id": "Q90"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P69": "education",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P463": "membership",
+    "P39": "position",
+    "P18": "image",
+    "P108": "employer",
+    "P19": "birthPlace"
+  },
+  "relatedEntities": {
+    "Q112611146": {
+      "id": "Q112611146",
+      "fetchedAt": "2026-11-13T11:00:08Z",
+      "labels": {
+        "fr": "HEC Alumni",
+        "en": "HEC Alumni",
+        "es": "HEC Alumni",
+        "de": "HEC Alumni"
+      },
+      "descriptions": {
+        "fr": "association des anciens élèves d’HEC Paris",
+        "en": "HEC Paris alumni association",
+        "es": "asociación de exalumnos de HEC París",
+        "de": "Alumni-Vereinigung HEC Paris"
+      }
+    },
+    "Q131524": {
+      "id": "Q131524",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "emprendedor",
+        "ar": "رائد أعمال",
+        "ko": "기업가",
+        "fr": "entrepreneur ou entrepreneuse",
+        "en": "entrepreneur",
+        "de": "Unternehmer",
+        "zh": "企业家",
+        "ja": "起業家"
+      },
+      "descriptions": {
+        "de": "Person, die ein Unternehmen eigenverantwortlich führt und dessen wirtschaftliches Risiko trägt",
+        "es": "persona que organiza y dirige un negocio, asumiendo su riesgo económico",
+        "en": "person who organizes and runs a business venture, assuming its business risks",
+        "fr": "personne qui organise et dirige une activité économique en assumant les risques",
+        "zh": "組織和經營企業的個人，承擔財務風險",
+        "ar": "الشخص الذي ينظم ويدير الأعمال التجارية",
+        "ja": "自ら事業を興す者に対する総称",
+        "ko": "기존에 존재하지 않았던 가치와 일자리를 만드는 사람"
+      }
+    },
+    "Q142": {
+      "id": "Q142",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "es": "Francia",
+        "ar": "فرنسا",
+        "de": "Frankreich",
+        "en": "France",
+        "fr": "France",
+        "zh": "法國",
+        "ja": "フランス",
+        "ko": "프랑스"
+      },
+      "descriptions": {
+        "fr": "pays transcontinental au territoire métropolitain situé en Europe de l'Ouest",
+        "zh": "西歐國家",
+        "es": "país de Europa Occidental",
+        "ko": "서유럽의 국가",
+        "de": "Staat in Westeuropa mit Überseegebieten",
+        "ar": "دولة في غرب أوروبا",
+        "en": "country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",
+        "ja": "西ヨーロッパの国"
+      }
+    },
+    "Q202883": {
+      "id": "Q202883",
+      "fetchedAt": "2026-11-13T11:07:23Z",
+      "labels": {
+        "ko": "수의사",
+        "fr": "vétérinaire",
+        "de": "Tierarzt",
+        "ja": "獣医師",
+        "en": "veterinarian",
+        "ar": "طبيب بيطري",
+        "es": "veterinario",
+        "zh": "兽医"
+      },
+      "descriptions": {
+        "de": "Facharzt für Tiermedizin",
+        "en": "professional who treats disease, disorder, and injury in animals",
+        "es": "médico especializado en tratar animales",
+        "fr": "spécialiste de la médecine et de la chirurgie des animaux",
+        "zh": "给动物治疗疾病的医生",
+        "ar": "مختص يهتم بتشخيص أمراض الحيوانات وعلاجها",
+        "ja": "ヒト以外の動物の医師",
+        "ko": "동물을 치료하는 의사"
+      }
+    },
+    "Q273535": {
+      "id": "Q273535",
+      "fetchedAt": "2026-11-13T11:00:11Z",
+      "labels": {
+        "fr": "HEC Paris",
+        "en": "HEC Paris",
+        "de": "École des hautes études commerciales de Paris",
+        "ja": "HEC経営大学院",
+        "es": "Escuela de Estudios Superiores de Comercio",
+        "zh": "巴黎高等商業研究學院",
+        "ar": "المدرسة العليا للتجارة (فرنسا)",
+        "ko": "HEC 파리"
+      },
+      "descriptions": {
+        "fr": "école de commerce publique consulaire française",
+        "en": "business school in Paris, France",
+        "es": "escuela de administración de empresas en París (Francia)",
+        "de": "französische Hochschule",
+        "zh": "法国大学",
+        "ja": "フランスの大学院大学",
+        "ko": "프랑스 주잉앵조사에 위치한 국제 경영대학원"
+      }
+    },
+    "Q273600": {
+      "id": "Q273600",
+      "fetchedAt": "2026-11-13T11:11:24Z",
+      "labels": {
+        "de": "École nationale vétérinaire d’Alfort",
+        "fr": "École nationale vétérinaire d'Alfort",
+        "en": "École nationale vétérinaire d'Alfort",
+        "es": "Escuela Nacional de Veterinaria de Alfort",
+        "zh": "阿爾福國立獸醫學院",
+        "ar": "المدرسة الوطنية للبيطرة في ألفور"
+      },
+      "descriptions": {
+        "de": "Veterinärmedizinische Hochschule in Alfort, Frankreich",
+        "fr": "école à Maisons-Alfort (Val-de-Marne)",
+        "en": "veterinary school in Maisons-Alfort, France",
+        "ko": "등재된 사적"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q48952": {
+      "id": "Q48952",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Persian Wikipedia",
+        "fr": "Wikipédia en persan",
+        "es": "Wikipedia en persa",
+        "zh": "波斯语维基百科",
+        "ar": "ويكيبيديا الفارسية",
+        "ja": "ペルシア語版ウィキペディア",
+        "ko": "페르시아어 위키백과",
+        "de": "persischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Persian-language edition of Wikipedia",
+        "es": "edición en persa de la Wikipedia",
+        "de": "Wikipedia-Sprachversion",
+        "ar": "النسخة الفارسية من ويكيبيديا، الموسوعة الحرة",
+        "fr": "édition de Wikipédia",
+        "ko": "페르시아어로 작성된 위키백과",
+        "zh": "维基百科波斯语版",
+        "ja": "ウィキペディアのペルシア語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q64682562": {
+      "id": "Q64682562",
+      "fetchedAt": "2026-11-13T11:07:37Z",
+      "labels": {
+        "fr": "Dolder",
+        "en": "Dolder",
+        "de": "Dolder",
+        "es": "Dolder",
+        "ja": "ドルダー"
+      },
+      "descriptions": {
+        "fr": "Forum privé de réflexion des grands patrons de la pharmacie mondiale",
+        "en": "Private think tank of the pharmaceutical industry",
+        "ja": "製薬業界の民間シンクタンク"
+      }
+    },
+    "Q731938": {
+      "id": "Q731938",
+      "fetchedAt": "2026-11-13T11:11:25Z",
+      "labels": {
+        "fr": "AstraZeneca",
+        "es": "AstraZeneca",
+        "en": "AstraZeneca",
+        "de": "AstraZeneca",
+        "ja": "アストラゼネカ",
+        "zh": "阿斯利康制药",
+        "ar": "آسترازينيكا",
+        "ko": "아스트라제네카"
+      },
+      "descriptions": {
+        "de": "britisch-schwedischer Pharmakonzern",
+        "en": "British-Swedish pharmaceutical company",
+        "fr": "entreprise britannique",
+        "ja": "イギリスの製薬会社",
+        "ar": "شركة بريطانية",
+        "es": "empresa farmacéutica sueco-británica con sede en Cambridge, Inglaterra",
+        "zh": "英國瑞典製藥公司"
+      }
+    },
+    "Q90": {
+      "id": "Q90",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "es": "París",
+        "zh": "巴黎",
+        "de": "Paris",
+        "ar": "باريس",
+        "en": "Paris",
+        "fr": "Paris",
+        "ja": "パリ",
+        "ko": "파리"
+      },
+      "descriptions": {
+        "fr": "capitale et ville la plus peuplée de France",
+        "zh": "法國首都",
+        "es": "capital y ciudad más poblada de Francia",
+        "de": "Hauptstadt und bevölkerungsreichste Stadt Frankreichs",
+        "ko": "프랑스의 수도",
+        "ar": "عاصمة فرنسا",
+        "en": "capital and most populous city in France",
+        "ja": "フランスの首都"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Pascal Soriot 2025.jpg",
+    "fetchedAt": "2026-11-13T11:11:33Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pascal_Soriot_2025.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Pascal_Soriot_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Pascal_Soriot_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 788,
+    "height": 1014,
+    "mediaTimestamp": "2025-10-11T14:23:15Z",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Virginia Office of the Governor",
+    "credit": "https://www.flickr.com/photos/gy74/54671066162/",
+    "description": "AstraZeneca Announcement, Washington D.C. - 7/21/25\nOfficial Photo by Kaitlyn DeHarde, Office of Governor Glenn Youngkin.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/ff7cb078898fac3d6539e08e.jpg",
+    "cachedImageBytes": 757256,
+    "cachedImageSha256": "95719e6816f8381235a3cfbee235adb054b25b4db76b4f590a42af0f42f0b6d7"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ron-vachris",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "罗恩·瓦克里斯",
+    "enName": "Ron Vachris",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "零售与消费",
+    "inclusionReason": "在好市多长期负责运营并承担领导职责，参与会员制零售模式发展。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "在好市多长期负责运营并承担领导职责，参与会员制零售模式发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:28Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ron Vachris",
+    "requestedTitle": "Ron Vachris",
+    "resolvedTitle": "Ron Vachris",
+    "wikidataId": "Q114361370",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ron_Vachris",
+      "title": "Ron Vachris",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:28Z",
+      "revisionId": 1374207366,
+      "revisionTimestamp": "2026-09-10T14:28:01Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1374207366",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q114361370",
+      "title": "Q114361370",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:15:22Z",
+      "revisionId": 2537753728,
+      "revisionTimestamp": "2026-08-29T13:22:07Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Roland Michael \"Ron\" Vachris (born 1965) is an American business executive and the chief executive officer of Costco. He began working for Price Club, a predecessor of Costco, as a part-time forklift driver in 1982.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Ron Vachris"
+  },
+  "descriptions": {
+    "en": "American businessperson and board member; CEO of Costco"
+  },
+  "languageArticles": {
+    "en": "Ron Vachris"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q114361370$9fb238f0-42f5-690d-4788-a41e87554aad",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q114361370$316e9bf5-495a-8dc2-28c7-84b2fd4a538c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-01-01"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5469909,
+                  "id": "Q5469909"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000047/cost-20231018.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q114361370$994eae0e-4934-bc3b-07e3-1ec16b8be5ab",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 55168644,
+            "id": "Q55168644"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-02-02T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-02-02"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5469909,
+                  "id": "Q5469909"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.sec.gov/Archives/edgar/data/909832/000119312522027035/d497640d8k.htm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q114361370$8ff3800f-405f-8dc1-aa5c-cc5733129e35",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 715583,
+            "id": "Q715583"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1993-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1993"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5707594,
+                  "id": "Q5707594"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.fastcompany.com/90969892/what-to-know-about-new-costco-ceo-ron-vachris-after-craig-jelinek-steps-down"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q114361370$d7257ede-41d3-422c-19b3-3b2983a25f0d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3402847,
+            "id": "Q3402847"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1982-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1982"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1993-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1993"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5707594,
+                  "id": "Q5707594"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.fastcompany.com/90969892/what-to-know-about-new-costco-ceo-ron-vachris-after-craig-jelinek-steps-down"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P39": "position",
+    "P108": "employer"
+  },
+  "relatedEntities": {
+    "Q3402847": {
+      "id": "Q3402847",
+      "fetchedAt": "2026-11-13T11:15:23Z",
+      "labels": {
+        "fr": "Price Club",
+        "en": "Price Club",
+        "ja": "プライス・クラブ",
+        "de": "Price Club",
+        "es": "Price Club"
+      },
+      "descriptions": {
+        "en": "retail company and one of the first warehouse stores",
+        "ar": "شركة أمريكية"
+      }
+    },
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5469909": {
+      "id": "Q5469909",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Form 8-K"
+      },
+      "descriptions": {
+        "en": "United States Securities and Exchange Commission form"
+      }
+    },
+    "Q55168644": {
+      "id": "Q55168644",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "board of directors member",
+        "fr": "membre du conseil d'administration",
+        "de": "Vorstandsmitglied",
+        "zh": "理事会成员",
+        "es": "miembro del consejo de administración",
+        "ar": "عضو مجلس الإدارة"
+      },
+      "descriptions": {
+        "en": "position held; member of the Board of Directors of an organization"
+      }
+    },
+    "Q5707594": {
+      "id": "Q5707594",
+      "fetchedAt": "2026-11-13T11:15:23Z",
+      "labels": {
+        "es": "artículo periodístico",
+        "fr": "article de presse",
+        "ko": "뉴스 기사",
+        "ja": "ニュース記事",
+        "ar": "مقالة إخبارية",
+        "de": "Zeitungsartikel",
+        "en": "news article",
+        "zh": "新闻报道"
+      },
+      "descriptions": {
+        "es": "género periodístico",
+        "fr": "article publié dans les médias d'information",
+        "en": "article reporting on current events, published in print or digital news media; typically written by journalists and distinguished from opinion pieces by its focus on factual reporting",
+        "de": "Artikel, der in Zeitungen erscheint",
+        "zh": "新闻媒体发表的报道",
+        "ja": "ニュース媒体で発表された記事"
+      }
+    },
+    "Q715583": {
+      "id": "Q715583",
+      "fetchedAt": "2026-11-13T11:15:03Z",
+      "labels": {
+        "ko": "코스트코",
+        "de": "Costco Wholesale",
+        "ja": "コストコ",
+        "zh": "好市多",
+        "ar": "كوسكو",
+        "en": "Costco"
+      },
+      "descriptions": {
+        "en": "American multinational chain of membership-only stores",
+        "ja": "会員制の倉庫型ディスカウントストア",
+        "ko": "미국의 창고형 대형 할인점",
+        "zh": "美國跨國量販企業，經營連鎖會員倉儲俱樂部",
+        "fr": "enterprise",
+        "de": "US-amerikanisches Unternehmen",
+        "es": "Cadena multinacional estadounidense de tiendas exclusivas para miembros",
+        "ar": "سلسلة متاجر أمريكية متعددة الجنسيات"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 4,
+    "referenceUrls": 3,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

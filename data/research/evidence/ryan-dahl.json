@@ -1,0 +1,760 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ryan-dahl",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "瑞安·达尔",
+    "enName": "Ryan Dahl",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "创建Node.js与Deno，推动JavaScript在服务器端和现代应用开发中的应用。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "创建Node.js与Deno，推动JavaScript在服务器端和现代应用开发中的应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:18Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ryan Dahl",
+    "requestedTitle": "Ryan Dahl",
+    "resolvedTitle": "Ryan Dahl",
+    "wikidataId": "Q42211199",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ryan_Dahl",
+      "title": "Ryan Dahl",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:18Z",
+      "revisionId": 1384345018,
+      "revisionTimestamp": "2026-11-07T20:50:34Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384345018",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q42211199",
+      "title": "Q42211199",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:39Z",
+      "revisionId": 2538152746,
+      "revisionTimestamp": "2026-08-30T11:13:05Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Ryan Dahl (born 1981) is an American software engineer who is best known for creating the Node.js JavaScript runtime as well as the Deno JavaScript/TypeScript runtime.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Ryan Dahl",
+    "es": "Ryan Dahl",
+    "ja": "ライアン・ダール",
+    "zh": "瑞安·達爾",
+    "ko": "라이언 달",
+    "de": "Ryan Dahl",
+    "fr": "Ryan Dahl",
+    "ar": "ريان داهل"
+  },
+  "descriptions": {
+    "en": "American software engineer",
+    "es": "ingeniero de Software",
+    "ja": "アメリカ合衆国のプログラマ",
+    "zh": "美國軟體工程師",
+    "ko": "미국인 소프트웨어 공학자",
+    "de": "US-Amerikanischer Software-Entwickler",
+    "ar": "مهندس برمجيات أمريكي"
+  },
+  "languageArticles": {
+    "de": "Ryan Dahl",
+    "en": "Ryan Dahl",
+    "es": "Ryan Dahl",
+    "ja": "ライアン・ダール",
+    "ko": "라이언 달",
+    "zh": "瑞安·達爾"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q42211199$4102C526-A812-45A8-B4C1-C4B4E3714FBF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q42211199$2D1BD959-6EF1-4C4A-BF8A-FBBBA729201A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 205375,
+            "id": "Q205375"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q42211199$4dfc711e-41a9-9d23-2140-9321ddbdfc81",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1709010,
+            "id": "Q1709010"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q42211199$047C7AD9-73CA-4897-A403-3AB5CFFEF1C4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q42211199$1ea54c00-4261-6344-b210-ed754d99dfd3",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://tinyclouds.org/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q42211199$6c0fa180-47cd-386d-5c49-07c5e9d0f758",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Ryan Dahl.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q42211199$7e5f5c80-48e1-4d81-c066-fddee9b03786",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 756100,
+            "id": "Q756100"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q42211199$3217b48b-4821-0194-4ffe-3416bb0ded1f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 65070939,
+            "id": "Q65070939"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q42211199$a58d0d61-41c9-b090-b2b7-181fc1554e91",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5583911,
+            "id": "Q5583911"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q42211199$ac172e09-4a73-4091-0276-874967f0a72a",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1981-01-22T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1981-01-22"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2730514,
+                  "id": "Q2730514"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.californiabirthindex.org/birth/ryan_lienhart_dahl_born_1981_14829577"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q42211199$6a19cace-4eab-78e8-bcf0-fe43ca9d69e5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16552,
+            "id": "Q16552"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2730514,
+                  "id": "Q2730514"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.californiabirthindex.org/birth/ryan_lienhart_dahl_born_1981_14829577"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q42211199$e93a520d-4797-63f1-7d87-10709807a161",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 149990,
+            "id": "Q149990"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q42211199$595a0a5b-4e5f-0f8f-47b6-3f892ef352f1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 622664,
+            "id": "Q622664"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q42211199$A13318DD-A04C-491E-9EEE-220980334B57",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7128599,
+            "id": "Q7128599"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q42211199$A9740F08-AC0C-45E8-BEAB-8A8D479DB01D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P856": "officialWebsite",
+    "P18": "image",
+    "P800": "notableWork",
+    "P166": "award",
+    "P569": "birthDate",
+    "P19": "birthPlace",
+    "P69": "education",
+    "P27": "citizenship"
+  },
+  "relatedEntities": {
+    "Q149990": {
+      "id": "Q149990",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "en": "University of Rochester",
+        "de": "Universität Rochester",
+        "es": "Universidad de Rochester",
+        "fr": "Université de Rochester",
+        "ja": "ロチェスター大学",
+        "ko": "로체스터 대학교",
+        "zh": "羅徹斯特大學",
+        "ar": "جامعة روتشستر"
+      },
+      "descriptions": {
+        "en": "private, nonsectarian, research university in Rochester, New York, United States",
+        "de": "private Universität in Rochester, New York, USA",
+        "fr": "université américaine",
+        "zh": "美国纽约州罗切斯特市的大学",
+        "ar": "جامعة في روتشستر، الولايات المتحدة",
+        "ko": "미국 뉴욕주의 사립 종합대학",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q16552": {
+      "id": "Q16552",
+      "fetchedAt": "2026-11-13T11:08:36Z",
+      "labels": {
+        "en": "San Diego",
+        "fr": "San Diego",
+        "de": "San Diego",
+        "es": "San Diego",
+        "zh": "圣迭戈",
+        "ja": "サン・ディエゴ",
+        "ar": "سان دييغو",
+        "ko": "샌디에고"
+      },
+      "descriptions": {
+        "en": "seat of San Diego County, California, United States; second-largest city in California",
+        "es": "ciudad del estado de California, Estados Unidos",
+        "fr": "ville de Californie aux États-Unis",
+        "de": "zweitbevölkerungsreichste Stadt des US-Bundesstaats Kalifornien",
+        "ja": "アメリカ合衆国カリフォルニア州の都市",
+        "ar": "مدينة في مقاطعة سان دييغو، الولايات المتحدة",
+        "zh": "美国加利福尼亚州的城市",
+        "ko": "미국 캘리포니아주 남부의 도시"
+      }
+    },
+    "Q1709010": {
+      "id": "Q1709010",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "software engineer",
+        "zh": "软件工程师",
+        "ar": "مهندس برمجيات",
+        "es": "ingeniero de software",
+        "fr": "ingénieur ou ingénieure logiciel",
+        "ja": "ソフトウェア工学者",
+        "de": "Softwareingenieur",
+        "ko": "소프트웨어 공학자"
+      },
+      "descriptions": {
+        "en": "practitioner of software engineering",
+        "fr": "professionnel du génie logiciel",
+        "zh": "軟體工程從業者",
+        "es": "practicante de ingeniería de software",
+        "de": "Softwaredesigner und -entwickler"
+      }
+    },
+    "Q205375": {
+      "id": "Q205375",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ko": "발명가",
+        "fr": "inventeur",
+        "es": "inventor",
+        "de": "Erfinder",
+        "ja": "発明家",
+        "en": "inventor",
+        "zh": "发明家",
+        "ar": "مخترع"
+      },
+      "descriptions": {
+        "de": "Person, die eine zuvor nicht bekannte Lösung im Bereich der Technik hervorbringt",
+        "en": "person that devises a new device, method, composition, or process",
+        "es": "individuo que idea, crea o concibe algo que no existía antes",
+        "fr": "personne qui réalise une invention",
+        "ar": "الشخص الذي يبتكر جهازًا أو طريقة أو تكوينًا أو عملية جديدة"
+      }
+    },
+    "Q2730514": {
+      "id": "Q2730514",
+      "fetchedAt": "2026-11-13T11:14:41Z",
+      "labels": {
+        "en": "California Birth Index",
+        "zh": "美國加州出生局",
+        "es": "Índice de nacimiento de California"
+      },
+      "descriptions": {}
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q5583911": {
+      "id": "Q5583911",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "en": "O'Reilly Open Source Award",
+        "de": "O'Reilly Open Source Award",
+        "es": "O'Reilly Open Source Award",
+        "fr": "prix O'Reilly open source",
+        "zh": "O'Reilly开源奖",
+        "ja": "オライリー・オープン・ソース賞"
+      },
+      "descriptions": {
+        "en": "award for outstanding contribution to open source",
+        "ja": "オープン・ソースへの顕著な貢献に対して授与される賞"
+      }
+    },
+    "Q622664": {
+      "id": "Q622664",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "ko": "캘리포니아 대학교 샌디에이고",
+        "fr": "Université de Californie à San Diego",
+        "es": "Universidad de California en San Diego",
+        "de": "University of California, San Diego",
+        "ja": "カリフォルニア大学サンディエゴ校",
+        "en": "University of California, San Diego",
+        "ar": "جامعة كاليفورنيا، سان دييغو",
+        "zh": "聖地牙哥加利福尼亞大學"
+      },
+      "descriptions": {
+        "en": "public university in La Jolla, California, United States",
+        "de": "Universität in den Vereinigten Staaten",
+        "zh": "1960年創建的一所學校",
+        "fr": "université américaine",
+        "ar": "جامعة في لاهويا، الولايات المتحدة",
+        "ja": "アメリカの州立大学",
+        "es": "universidad pública en La Jolla, California, Estados Unidos"
+      }
+    },
+    "Q65070939": {
+      "id": "Q65070939",
+      "fetchedAt": "2026-11-13T11:14:41Z",
+      "labels": {
+        "en": "Deno",
+        "ja": "Deno",
+        "de": "Deno",
+        "es": "Deno",
+        "fr": "Deno",
+        "ar": "دينو",
+        "zh": "Deno",
+        "ko": "Deno"
+      },
+      "descriptions": {
+        "en": "secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language",
+        "de": "TypeScript und JavaScript Laufzeitumgebung",
+        "fr": "environnement d’exécution pour le JavaScript, TypeScript et WebAssembly basé sur le moteur v8 et développé en Rust",
+        "ar": "بيئة تشغيل تايب سكربت وجافاسكربت",
+        "ja": "V8 JavaScriptエンジン及びRustプログラミング言語に基づいたJavaScript及びTypeScriptの実行環境",
+        "ko": "V8 자바스크립트 엔진과 Rust 언어로 작성된 Javascript / Typescript 시큐어 런타임",
+        "zh": "以V8 JavaScript引擎與Rust程式語言為基礎開發的JavaScript與TypeScript執行時期環境"
+      }
+    },
+    "Q7128599": {
+      "id": "Q7128599",
+      "fetchedAt": "2026-11-13T11:14:41Z",
+      "labels": {
+        "en": "Palomar College",
+        "fr": "Palomar College",
+        "ja": "パロマー大学",
+        "zh": "帕洛马尔学院"
+      },
+      "descriptions": {
+        "de": "Schule in den Vereinigten Staaten",
+        "ar": "مدرسة في كاليفورنيا، الولايات المتحدة",
+        "en": "public community college in San Diego County, California, United States"
+      }
+    },
+    "Q756100": {
+      "id": "Q756100",
+      "fetchedAt": "2026-11-13T11:14:41Z",
+      "labels": {
+        "ko": "Node.js",
+        "fr": "Node.js",
+        "es": "Node.js",
+        "de": "Node.js",
+        "ja": "Node.js",
+        "ar": "نود.جي إس",
+        "zh": "Node.js",
+        "en": "Node.js"
+      },
+      "descriptions": {
+        "fr": "logiciel libre et framework JavaScript côté serveur",
+        "de": "JavaScript-basiertes serverseitiges Framework",
+        "zh": "JavaScript运行环境",
+        "es": "Entorno de ejecución para JavaScript",
+        "ko": "확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼",
+        "ja": "V8 JavaScriptエンジン上に構築されたJavaScript実行環境",
+        "en": "JavaScript runtime environment",
+        "ar": "بيئة تشغيل جافاسكربت"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Ryan Dahl.jpg",
+    "fetchedAt": "2026-11-13T11:14:42Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ryan_Dahl.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ryan_Dahl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ryan_Dahl.jpg/960px-Ryan_Dahl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 3456,
+    "height": 5184,
+    "mediaTimestamp": "2012-03-14T03:02:28Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "David Calhoun",
+    "credit": "Flickr (Uploaded by Killiondude)",
+    "description": "Ryan Dahl speaking at YUIConf 2010 in Sunnyvale (California, United States).",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/b6076a00b492be5e8ba20330.jpg",
+    "cachedImageBytes": 308375,
+    "cachedImageSha256": "4d954c297c86be42c772e5e410f035e9ca5e30c831b00efef141cad5e5ad34f3"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

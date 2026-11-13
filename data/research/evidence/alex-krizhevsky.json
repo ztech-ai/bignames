@@ -1,0 +1,577 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "alex-krizhevsky",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "亚历克斯·克里泽夫斯基",
+    "enName": "Alex Krizhevsky",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "参与开发AlexNet，推动深度卷积网络在图像识别上的突破并影响后续人工智能发展。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与开发AlexNet，推动深度卷积网络在图像识别上的突破并影响后续人工智能发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Alex Krizhevsky",
+    "requestedTitle": "Alex Krizhevsky",
+    "resolvedTitle": "Alex Krizhevsky",
+    "wikidataId": "Q28018607",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+      "title": "Alex Krizhevsky",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:20Z",
+      "revisionId": 1384859949,
+      "revisionTimestamp": "2026-11-10T12:40:21Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28018607",
+      "title": "Q28018607",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:47Z",
+      "revisionId": 2529300185,
+      "revisionTimestamp": "2026-08-09T18:06:23Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Alex Krizhevsky is a Canadian computer scientist most noted for his work on artificial neural networks and deep learning. In 2012, Krizhevsky, Ilya Sutskever and their PhD advisor Geoffrey Hinton, at the University of Toronto, developed a powerful visual-recognition network AlexNet using only two GeForce-branded GPU cards. This revolutionized research in neural networks. Previously neural networks were trained on CPUs. The transition to GPUs opened the way to the development of advanced AI models.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Alex Krizhevsky",
+    "de": "Alexander Krizhevsky",
+    "fr": "Alexander Krizhevsky",
+    "zh": "阿莱克斯·克里泽夫斯基",
+    "es": "Alexander Krizhevsky",
+    "ar": "ألكس كريجفسكي",
+    "ko": "알렉스 크리제프스키"
+  },
+  "descriptions": {
+    "en": "Canadian machine learning scientist",
+    "zh": "機器學習科學家",
+    "ja": "研究者",
+    "ko": "연구원",
+    "fr": "chercheur en apprentissage automatique",
+    "es": "investigador de aprendizaje automático",
+    "de": "kanadischer Computerwissenschaftler"
+  },
+  "languageArticles": {
+    "ar": "ألكس كريجفسكي",
+    "de": "Alex Krizhevsky",
+    "en": "Alex Krizhevsky",
+    "fr": "Alex Krizhevsky",
+    "ko": "알렉스 크리제프스키",
+    "zh": "亞歷克斯·克里澤夫斯基"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q28018607$01c7b47c-44d9-b4da-de1f-b1366e7bd8ca",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q28018607$dcc2c538-49a3-0b21-7809-7afbe75a214f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 95,
+            "id": "Q95"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-03-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-03"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-09-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-09"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.cs.toronto.edu/~kriz/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-09-17T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-09-17"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q28018607$1d564efd-4431-348e-b828-3b0903c51531",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2539,
+            "id": "Q2539"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q28018607$1BD60765-EA64-427C-AD3D-913AB1743D28",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+2000-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 7,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": null,
+          "datePrecisionInsufficient": true
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q28018607$79851305-1C3A-4BB8-B38C-23C082616337",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1650915,
+            "id": "Q1650915"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q28018607$6597768c-4cfa-0d73-b834-717106078c93",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 212,
+            "id": "Q212"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The inside story of how AI got good enough to dominate Silicon Valley",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-06-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-06-18"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-09-17T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-09-17"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q28018607$4a69d1d3-4fd6-c122-0287-b250577d4072",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 180865,
+            "id": "Q180865"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The inside story of how AI got good enough to dominate Silicon Valley",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-06-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-06-18"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-09-17T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-09-17"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q28018607$89365f7e-4cb2-e89b-3001-af80e183c7ab",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28325009,
+            "id": "Q28325009"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P108": "employer",
+    "P101": "fieldOfWork",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P19": "birthPlace",
+    "P69": "education",
+    "P800": "notableWork"
+  },
+  "relatedEntities": {
+    "Q1650915": {
+      "id": "Q1650915",
+      "fetchedAt": "2026-11-13T10:59:42Z",
+      "labels": {
+        "fr": "chercheur ou chercheuse",
+        "es": "investigador",
+        "en": "researcher",
+        "ar": "باحث",
+        "ko": "연구원",
+        "de": "Forscher",
+        "zh": "研究者",
+        "ja": "研究者"
+      },
+      "descriptions": {
+        "fr": "personne qui se consacre à la recherche scientifique",
+        "es": "profesional de la investigación científica",
+        "en": "person who engages in research, professionally or otherwise. If a more specific occupation is known, use that instead",
+        "de": "Person, die wissenschaftlich forscht",
+        "zh": "進行研究的人",
+        "ja": "研究機関等で研究活動に従事する人",
+        "ko": "전문성 여부와 관계 없이 연구 분야에 종사하는 사람",
+        "ar": "الشخص الذي يُجري أبحاثًا، سواءً كانت مهنية أو غير مهنية"
+      }
+    },
+    "Q180865": {
+      "id": "Q180865",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "Université de Toronto",
+        "ko": "토론토 대학교",
+        "es": "Universidad de Toronto",
+        "de": "University of Toronto",
+        "ja": "トロント大学",
+        "en": "University of Toronto",
+        "ar": "جامعة تورنتو",
+        "zh": "多倫多大學"
+      },
+      "descriptions": {
+        "en": "public research university in the Greater Toronto Area of Ontario, Canada",
+        "fr": "université de recherche publique à Région du Grand Toronto en Ontario au Canada",
+        "de": "eine der drei Universitäten von Toronto, größte Universität Kanadas",
+        "zh": "加拿大公立大學",
+        "ar": "جامعة في كندا",
+        "es": "universidad pública en Toronto, Ontario, Canadá",
+        "ja": "カナダ・オンタリオ州トロントにある州立大学",
+        "ko": "캐나다 온타리오주 토론토에 있는 연구 중심 공립 대학"
+      }
+    },
+    "Q212": {
+      "id": "Q212",
+      "fetchedAt": "2026-11-13T11:01:27Z",
+      "labels": {
+        "es": "Ucrania",
+        "ar": "أوكرانيا",
+        "de": "Ukraine",
+        "en": "Ukraine",
+        "fr": "Ukraine",
+        "zh": "烏克蘭",
+        "ja": "ウクライナ",
+        "ko": "우크라이나"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe de l'Est",
+        "de": "Staat in Osteuropa",
+        "ar": "دولة في شرق أوروبا",
+        "zh": "東歐國家",
+        "en": "country in Eastern Europe",
+        "es": "país de Europa Oriental",
+        "ja": "東ヨーロッパの国",
+        "ko": "유럽의 주권 국가"
+      }
+    },
+    "Q2539": {
+      "id": "Q2539",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "apprentissage automatique",
+        "en": "machine learning",
+        "ar": "تعلم الآلة",
+        "de": "maschinelles Lernen",
+        "es": "aprendizaje automático",
+        "ja": "機械学習",
+        "ko": "기계 학습",
+        "zh": "机器学习"
+      },
+      "descriptions": {
+        "es": "subcampo de las ciencias de la computación y rama de la inteligencia artificial",
+        "de": "wissenschaftliche Untersuchung von Algorithmen und statistischen Modellen, die Computersysteme verwenden, um aus Daten die Ausführung von Aufgaben zu lernen, für die sie nicht explizit programmiert werden",
+        "en": "scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions",
+        "fr": "champ d'étude de l'intelligence artificielle qui vise à donner aux machines la capacité d'« apprendre » à partir de données, via des modèles mathématiques",
+        "ja": "パターンと推論に基づくコンピュータシステムが使用するアルゴリズム・統計モデルの科学研究",
+        "ar": "دراسة علمية لخوارزميات ونماذج إحصائية تستخدمها الأنظمة لأداء مهام دون تعاليم صريحة",
+        "zh": "對電腦系統用於在沒有明確指令的情況下執行任務的演算法與統計模型的科學研究",
+        "ko": "경험을 통해 자동으로 개선하는 컴퓨터 알고리즘의 연구"
+      }
+    },
+    "Q28325009": {
+      "id": "Q28325009",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "AlexNet",
+        "es": "AlexNet",
+        "fr": "AlexNet",
+        "de": "AlexNet",
+        "zh": "AlexNet",
+        "ja": "AlexNet",
+        "ar": "ألكسنت",
+        "ko": "알렉스넷"
+      },
+      "descriptions": {
+        "zh": "卷積神經網路",
+        "de": "Software",
+        "en": "type of convolutional neural network",
+        "fr": "réseau de neurones convolutif",
+        "es": "tipo de red neuronal convolucional"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q95": {
+      "id": "Q95",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "ar": "جوجل",
+        "ko": "구글",
+        "en": "Google",
+        "de": "Google",
+        "es": "Google",
+        "fr": "Google",
+        "zh": "Google",
+        "ja": "Google"
+      },
+      "descriptions": {
+        "fr": "multinationale américaine spécialisée dans les technologies, filiale d'Alphabet Inc.",
+        "de": "US-amerikanisches multinationales Technologieunternehmen, eine Tochtergesellschaft von Alphabet Inc.",
+        "es": "empresa tecnológica multinacional estadounidense, filial de Alphabet Inc.",
+        "zh": "美國的跨國科技企業",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "ko": "미국의 IT 기업, 검색엔진 서비스",
+        "ar": "شركة إنترنت وتكنولوجيا أمريكية متعددة الجنسيات",
+        "en": "American multinational technology company, a subsidiary of Alphabet Inc."
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 3,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

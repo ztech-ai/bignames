@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "peter-wennink",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/peter-wennink.json",
+    "sha256": "7db94744f5b7a99d93630eb8e4c99e1776fd8cbacaf282b012d55925f8557127",
+    "capturedAt": "2026-11-13T11:25:28Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://www.wikidata.org/wiki/Q96654591"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q96654591",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Peter Wennink",
+    "sourceIdentity": {
+      "requestedName": "Peter Wennink",
+      "requestedTitle": "Peter Wennink",
+      "resolvedTitle": "Peter Wennink",
+      "wikidataId": "Q96654591",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id",
+      "excludedWikipediaRedirect": {
+        "resolvedTitle": "ASML",
+        "qid": "Q297879",
+        "url": "https://en.wikipedia.org/wiki/ASML"
+      }
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-6d96e78140daf93a3a34",
+      "property": "P106",
+      "claimId": "Q96654591$6074c0b7-4956-6c1e-6f42-5cab0ae83f01",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2961975,
+          "id": "Q2961975"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q96654591"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5fb70643db7a1aa1182c",
+      "property": "P27",
+      "claimId": "Q96654591$303ED7A4-EAE3-4889-AF98-51B5817A825A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 29999,
+          "id": "Q29999"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q96654591"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1c6dff07b2ac1bea739a",
+      "property": "P108",
+      "claimId": "Q96654591$44b95c80-40b4-8f3b-05c4-10613cfde7b5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 297879,
+          "id": "Q297879"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q96654591"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [],
+  "localized": {
+    "zh": {
+      "name": "彼得·温宁克",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "职业",
+          "value": "企业主管",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "国籍",
+          "value": "荷兰王国",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "雇主",
+          "value": "阿斯麦",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "en": {
+      "name": "Peter Wennink",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "Occupation",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "Citizenship",
+          "value": "Kingdom of the Netherlands",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "Employer",
+          "value": "ASML Holding",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "fr": {
+      "name": "Peter Wennink",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "Profession",
+          "value": "chef ou cheffe d'entreprise",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "Nationalité",
+          "value": "Royaume des Pays-Bas",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "Employeur",
+          "value": "ASML",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "ar": {
+      "name": "بيتر وينينك",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "المهنة",
+          "value": "مسير أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "الجنسية",
+          "value": "مملكة هولندا",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "جهة العمل",
+          "value": "شركة أيه. أس. أم. أل. القابضة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "de": {
+      "name": "Peter Wennink",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "Beruf",
+          "value": "Unternehmensleiter",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "Staatsangehörigkeit",
+          "value": "Königreich der Niederlande",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "Arbeitgeber",
+          "value": "ASML",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "ja": {
+      "name": "Peter Wennink",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "職業",
+          "value": "企業重役",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "国籍",
+          "value": "オランダ王国",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "雇用主",
+          "value": "ASML",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "es": {
+      "name": "Peter Wennink",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "Ocupación",
+          "value": "ejecutivo de empresa",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "Nacionalidad",
+          "value": "Reino de los Países Bajos",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "Empleador",
+          "value": "ASML",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        }
+      ],
+      "timeline": []
+    },
+    "ko": {
+      "name": "Peter Wennink",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-6d96e78140daf93a3a34",
+          "label": "직업",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-5fb70643db7a1aa1182c",
+          "label": "국적",
+          "value": "네덜란드 왕국",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6dff07b2ac1bea739a",
+          "label": "고용 기관",
+          "value": "ASML",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        }
+      ],
+      "timeline": []
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Peter Wennink",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Peter Wennink",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975",
+        "fallbackLocale": "en",
+        "value": "business executive",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [
+      {
+        "property": "P569",
+        "claimId": "Q96654591$0992503a-44e5-cb42-b1a4-ad1d47c7d34e",
+        "reason": "unknown-value"
+      }
+    ],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 0,
+    "professionalEventCount": 0,
+    "factCount": 3,
+    "factsWithoutExternalReference": 3,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

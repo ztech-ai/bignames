@@ -1,0 +1,601 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ken-griffin",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "肯·格里芬",
+    "enName": "Ken Griffin",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "投资与资产管理",
+    "inclusionReason": "创办城堡投资，参与建立对冲基金与证券做市业务的全球规模。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "创办城堡投资，参与建立对冲基金与证券做市业务的全球规模。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:52Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ken Griffin",
+    "requestedTitle": "Ken Griffin",
+    "resolvedTitle": "Ken Griffin",
+    "wikidataId": "Q3195170",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ken_Griffin",
+      "title": "Ken Griffin",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:52Z",
+      "revisionId": 1384947075,
+      "revisionTimestamp": "2026-11-10T23:53:53Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384947075",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3195170",
+      "title": "Q3195170",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:11:24Z",
+      "revisionId": 2550309915,
+      "revisionTimestamp": "2026-09-28T04:01:12Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Kenneth Cordele Griffin (born 1968) is an American hedge fund manager, entrepreneur and investor. He is the founder, chief executive officer, co-chief investment officer, and 80% owner of Citadel LLC, a multinational hedge fund. He also owns Citadel Securities, one of the largest market makers in the United States.\nAs of January 2026, Griffin had an estimated net worth of $51.2 billion, making him the world's 34th-richest person. In 2015, he made the largest private art deal in history when he bought two paintings, Willem de Kooning's Interchange and Jackson Pollock's Number 17A, for $500 million. \nGriffin was included in Forbes's 2023 list of the U.S.'s Most Generous Givers, according to which he had donated $1.56 billion to various charitable causes, primarily in education, economic mobility, and medical research. He has also contributed hundreds of millions of dollars to political candidates and causes, usually Republican or conservative in ideology. Griffin is a member of The Business Council.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Kenneth C. Griffin",
+    "en": "Kenneth C. Griffin",
+    "es": "Kenneth C. Griffin",
+    "de": "Kenneth C. Griffin",
+    "ar": "كينيث غريفين",
+    "ja": "ケネス・グリフィン",
+    "zh": "肯·格里芬"
+  },
+  "descriptions": {
+    "de": "amerikanischer Unternehmer und Kunstsammler",
+    "en": "American billionaire hedge fund manager (born 1968)",
+    "ar": "رائد أعمال من الولايات المتحدة الأمريكية",
+    "es": "Inversor, empresario estadounidense, economista",
+    "zh": "美国基金管理人"
+  },
+  "languageArticles": {
+    "ar": "كينيث غريفين",
+    "de": "Kenneth C. Griffin",
+    "en": "Ken Griffin",
+    "es": "Kenneth C. Griffin",
+    "fr": "Kenneth C. Griffin",
+    "ja": "ケネス・グリフィン"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q3195170$F056DB2E-4B2C-43B8-AF4F-1E83AC16AB70",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q3195170$5E049E22-5934-4DAB-BCDF-477FE8D7BEFD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 490595,
+            "id": "Q490595"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q3195170$D5229AF6-268F-4A0F-ABBA-ABFE55E58191",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13371,
+            "id": "Q13371"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q3195170$4DFAB7F0-A70A-4E59-AF4E-A186F55CBF35",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1968-10-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1968-10-15"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q3195170$909AFA70-12CF-49D0-BF7C-9AE912BF010F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q3195170$5F40F0F8-03FD-4257-81F4-956724406D44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 131524,
+            "id": "Q131524"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q3195170$9836e176-4c77-65d8-5079-f78934b45564",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q3195170$79813cb5-4ff6-f0a1-6ec4-55d1f1c061ad",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43423468,
+            "id": "Q43423468"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q3195170$bf7873a7-4112-d593-e77f-47fb51f099aa",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Kenneth C. Griffin photo.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-09-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-09-13"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q3195170$F63434DE-ADFB-4E37-ABD7-1C5630A3BC3F",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1990-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1990"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q3195170$3f30718b-4041-48de-70a6-70ccb5809239",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "https://www.citadel.com/leadership/kenneth-c-griffin/"
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q3195170$0616efcd-4214-3063-ee25-8af810f8bc9b",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.griffincatalyst.org/about/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P19": "birthPlace",
+    "P69": "education",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P106": "occupation",
+    "P18": "image",
+    "P2031": "careerStart",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q131524": {
+      "id": "Q131524",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "emprendedor",
+        "ar": "رائد أعمال",
+        "ko": "기업가",
+        "fr": "entrepreneur ou entrepreneuse",
+        "en": "entrepreneur",
+        "de": "Unternehmer",
+        "zh": "企业家",
+        "ja": "起業家"
+      },
+      "descriptions": {
+        "de": "Person, die ein Unternehmen eigenverantwortlich führt und dessen wirtschaftliches Risiko trägt",
+        "es": "persona que organiza y dirige un negocio, asumiendo su riesgo económico",
+        "en": "person who organizes and runs a business venture, assuming its business risks",
+        "fr": "personne qui organise et dirige une activité économique en assumant les risques",
+        "zh": "組織和經營企業的個人，承擔財務風險",
+        "ar": "الشخص الذي ينظم ويدير الأعمال التجارية",
+        "ja": "自ら事業を興す者に対する総称",
+        "ko": "기존에 존재하지 않았던 가치와 일자리를 만드는 사람"
+      }
+    },
+    "Q13371": {
+      "id": "Q13371",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "en": "Harvard University",
+        "fr": "Université Harvard",
+        "de": "Harvard University",
+        "ar": "جامعة هارفارد",
+        "es": "Universidad Harvard",
+        "ja": "ハーバード大学",
+        "ko": "하버드 대학교",
+        "zh": "哈佛大學"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts",
+        "de": "private Universität in Cambridge, Massachusetts, Vereinigte Staaten",
+        "es": "universidad privada ubicada en Cambridge, Massachusetts, Estados Unidos",
+        "fr": "université américaine située à Cambridge, Massachusetts",
+        "zh": "位於美國麻薩諸塞州劍橋市的私立研究型大學",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة أمريكية خاصة",
+        "ja": "アメリカ・マサチューセッツ州にある私立大学"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q43423468": {
+      "id": "Q43423468",
+      "fetchedAt": "2026-11-13T11:06:35Z",
+      "labels": {
+        "en": "hedge fund manager",
+        "fr": "manager de hedge fund",
+        "es": "gestor de fondos de cobertura",
+        "de": "Hedgefonds-Manager",
+        "ja": "ヘッジファンド・マネージャー"
+      },
+      "descriptions": {
+        "fr": "gérant d'un fonds de couverture (hedge fund)",
+        "en": "profession: portfolio manager or analyst involved in running hedge funds",
+        "es": "Gerente de fondos de cobertura",
+        "ja": "ヘッジファンドを設立するためにプロのポートフォリオマネージャーやアナリストを雇用している金融会社または個人"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q490595": {
+      "id": "Q490595",
+      "fetchedAt": "2026-11-13T11:11:24Z",
+      "labels": {
+        "ko": "데이토나비치",
+        "fr": "Daytona Beach",
+        "es": "Daytona Beach",
+        "de": "Daytona Beach",
+        "ja": "デイトナ・ビーチ",
+        "en": "Daytona Beach",
+        "ar": "دايتونا بيتش",
+        "zh": "代托纳比奇"
+      },
+      "descriptions": {
+        "en": "city in Volusia County, Florida, United States",
+        "fr": "ville américaine situé dans l'État de Floride",
+        "de": "Stadt im US-Bundesstaat Florida",
+        "es": "ciudad del condado de Volusia, estado de Florida, Estados Unidos de América",
+        "zh": "美國佛羅里達州的城市",
+        "ar": "مدينة في مقاطعة فولوسيا، الولايات المتحدة",
+        "ja": "アメリカ合衆国フロリダ州の都市"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Kenneth C. Griffin photo.jpg",
+    "fetchedAt": "2026-11-13T11:11:32Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenneth_C._Griffin_photo.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Kenneth_C._Griffin_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kenneth_C._Griffin_photo.jpg/960px-Kenneth_C._Griffin_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1371,
+    "height": 2050,
+    "mediaTimestamp": "2021-11-09T17:12:33Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paul Elledge",
+    "credit": "Citadel Enterprise Americas LLC",
+    "description": "Portrait of Kenneth C. Griffin",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/e977ffcc2d15b43b24af0b30.jpg",
+    "cachedImageBytes": 291404,
+    "cachedImageSha256": "d4d0657f947bdc0a412a5caa415e49222862d3e79221b90e80c8bb85036f2ad9"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

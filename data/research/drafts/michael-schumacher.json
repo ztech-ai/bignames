@@ -1,0 +1,4062 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "michael-schumacher",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/michael-schumacher.json",
+    "sha256": "9dc7e5bc3958f3bb0c1ba207c3dfbcb16c0adda2af9e39b4c3ce68048ae89bbd",
+    "capturedAt": "2026-11-13T11:25:59Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+      "https://en.wikipedia.org/wiki/Michael_Schumacher",
+      "https://www.wikidata.org/wiki/Q9671"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q9671",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Michael Schumacher",
+    "sourceIdentity": {
+      "requestedName": "Michael Schumacher",
+      "requestedTitle": "Michael Schumacher",
+      "resolvedTitle": "Michael Schumacher",
+      "wikidataId": "Q9671",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-744705b38bb0d005893d",
+      "property": "P106",
+      "claimId": "q9671$DAB96E57-4199-42B3-A191-CA37F03C60E6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10841764,
+          "id": "Q10841764"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1991-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1991"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 10000,
+                "id": "Q10000"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q10000",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q10000"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1991-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1991",
+          "earliest": "1991-01-01",
+          "latest": "1991-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-de720835086063c49a24",
+      "property": "P106",
+      "claimId": "Q9671$6EC1D12B-A0C8-465B-A1D1-17DD707D5590",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3014296,
+          "id": "Q3014296"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-06-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-06-17"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-02bf8859135af8990e23",
+      "property": "P27",
+      "claimId": "Q9671$F18F8896-7487-4EB4-90FC-364DE746169F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 183,
+          "id": "Q183"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-fb117f9630d11df9c737",
+      "property": "P569",
+      "claimId": "q9671$E562A033-8AA1-4B30-8B9A-D9B3AB8CD6C5",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1969-01-03T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1969-01-03"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-10-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015-10-18"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 504063,
+                "id": "Q504063"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 15706812,
+                "id": "Q15706812"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://brockhaus.de/ecs/julex/article/schumacher-michael"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://brockhaus.de/ecs/julex/article/schumacher-michael",
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q15706812",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q504063",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://brockhaus.de/ecs/julex/article/schumacher-michael",
+        "https://www.wikidata.org/wiki/Q15706812",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q504063",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1969-01-03T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1969-01-03",
+        "earliest": "1969-01-03",
+        "latest": "1969-01-03",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-3516cb3c4e8e6deb65ca",
+      "property": "P19",
+      "claimId": "Q9671$D2AE5BE0-F1F5-438E-863F-9A4260DFCCA4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4060,
+          "id": "Q4060"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2014-12-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2014-12-10"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4a775086f7eb2a8bf210",
+      "property": "P108",
+      "claimId": "Q9671$8e6c35ca-68e4-4389-8df9-d93609a9e409",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 740308,
+          "id": "Q740308"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q30239",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-9875f9c74968db3d9c76",
+      "property": "P39",
+      "claimId": "Q9671$096b9b6c-a47d-4ac7-92ac-dce55e6d5a65",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 19969187,
+          "id": "Q19969187"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q30239",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0df80c78dd09bb763c00",
+      "property": "P166",
+      "claimId": "Q9671$DE8E49DA-2C3A-46ED-B084-EF02CF538DF9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3320370,
+          "id": "Q3320370"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2007-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2007"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2007-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-3168d8f35be5b26ca83e",
+      "property": "P166",
+      "claimId": "Q9671$ada13e30-4894-bacf-b082-289357ebb946",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 58382530,
+          "id": "Q58382530"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-427f0caca73fd4fbc66a",
+      "property": "P166",
+      "claimId": "Q9671$7dedbcd0-4342-0a33-a77e-c9888a7475c0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1808301,
+          "id": "Q1808301"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2002-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2002"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2002-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2002",
+          "earliest": "2002-01-01",
+          "latest": "2002-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a63f5186cd309f18b214",
+      "property": "P166",
+      "claimId": "Q9671$BB316347-30F1-46AF-8849-92140C51E309",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 876882,
+          "id": "Q876882"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1995"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1995-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1995",
+          "earliest": "1995-01-01",
+          "latest": "1995-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b83fc83c5790664dcd34",
+      "property": "P166",
+      "claimId": "Q9671$7cb2e2d4-4558-088f-464d-5088e39a6e9d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2325167,
+          "id": "Q2325167"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2022-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2022"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.land.nrw/pressemitteilung/michael-schumacher-erhaelt-staatspreis-des-landes-nordrhein-westfalen"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-06-21"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Michael Schumacher erhält Staatspreis des Landes Nordrhein-Westfalen",
+                "language": "de"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-06-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-06-21"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.land.nrw/pressemitteilung/michael-schumacher-erhaelt-staatspreis-des-landes-nordrhein-westfalen",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.land.nrw/pressemitteilung/michael-schumacher-erhaelt-staatspreis-des-landes-nordrhein-westfalen"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2022-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2022",
+          "earliest": "2022-01-01",
+          "latest": "2022-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b9db72c2beadad8b6151",
+      "property": "P166",
+      "claimId": "Q9671$cfcc89cf-4db7-26b7-ad8c-21927e75ac53",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1808301,
+          "id": "Q1808301"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bcc5ddea934024346b42",
+      "property": "P166",
+      "claimId": "Q9671$444A7973-915E-4CA9-8676-04C77B25152A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1571341,
+          "id": "Q1571341"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2017-01-09T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2017-01-09"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2017-01-09T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2017-01-09",
+          "earliest": "2017-01-09",
+          "latest": "2017-01-09",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ca4cc00805303b6e133b",
+      "property": "P166",
+      "claimId": "Q9671$32b8d692-4d53-75d9-503d-69e2c7be84cf",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 14539729,
+          "id": "Q14539729"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2002-10-22T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2002-10-22"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.quirinale.it/onorificenze/insigniti/91400"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-04-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-04-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.quirinale.it/onorificenze/insigniti/91400",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "https://www.quirinale.it/onorificenze/insigniti/91400"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2002-10-22T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2002-10-22",
+          "earliest": "2002-10-22",
+          "latest": "2002-10-22",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e1590949793b37a47d6d",
+      "property": "P166",
+      "claimId": "q9671$4DD9A338-1F2B-4582-9908-5349355BB0C1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10855195,
+          "id": "Q10855195"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www2.lequipe.fr/redirect-v6/Formule1/breves2010/20100429_202015_la-legion-d-honneur-pour-schumacher.html"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-06-15T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-06-15"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "La légion d'honneur pour Schumacher",
+                "language": "fr"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-04-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010-04-29"
+            }
+          ],
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 815748,
+                "id": "Q815748"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www2.lequipe.fr/redirect-v6/Formule1/breves2010/20100429_202015_la-legion-d-honneur-pour-schumacher.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q815748",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [
+        "http://www2.lequipe.fr/redirect-v6/Formule1/breves2010/20100429_202015_la-legion-d-honneur-pour-schumacher.html",
+        "https://www.wikidata.org/wiki/Q815748"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2010-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-eca1c52200c7c612faa9",
+      "property": "P166",
+      "claimId": "Q9671$5CCD2108-7B8E-445D-8EFE-F95EF24684CC",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1061233,
+          "id": "Q1061233"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2003-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2003"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2003-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2003",
+          "earliest": "2003-01-01",
+          "latest": "2003-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f2313fb74759ebde74f9",
+      "property": "P166",
+      "claimId": "Q9671$F6A28349-A01B-473E-97C5-A59D6E6CCD10",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 876882,
+          "id": "Q876882"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fd159d597c997c42a43f",
+      "property": "P166",
+      "claimId": "Q9671$7ADBADDA-408E-4CAD-A897-5004AE26A65C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 315026,
+          "id": "Q315026"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1997"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1997-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1997",
+          "earliest": "1997-01-01",
+          "latest": "1997-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-81dd61b40b3fff90b9f4",
+      "property": "P856",
+      "claimId": "Q9671$615FD786-3FE7-4351-A1C8-C0C056195DBF",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://michael-schumacher.de"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-25e4c054373b72ec6c67",
+      "factId": "fact-b83fc83c5790664dcd34",
+      "claimId": "Q9671$7cb2e2d4-4558-088f-464d-5088e39a6e9d",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2022",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.land.nrw/pressemitteilung/michael-schumacher-erhaelt-staatspreis-des-landes-nordrhein-westfalen",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-395db2895ac35603fdad",
+      "factId": "fact-bcc5ddea934024346b42",
+      "claimId": "Q9671$444A7973-915E-4CA9-8676-04C77B25152A",
+      "property": "P166",
+      "dateProperty": "P580",
+      "date": "2017-01-09",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-66fa31ec9a4d347ae2bd",
+      "factId": "fact-3168d8f35be5b26ca83e",
+      "claimId": "Q9671$ada13e30-4894-bacf-b082-289357ebb946",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2014",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-da723361cc8bd62c7fa2",
+      "factId": "fact-e1590949793b37a47d6d",
+      "claimId": "q9671$4DD9A338-1F2B-4582-9908-5349355BB0C1",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2010",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "http://www2.lequipe.fr/redirect-v6/Formule1/breves2010/20100429_202015_la-legion-d-honneur-pour-schumacher.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q815748",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e518991f5c2ac10f1d13",
+      "factId": "fact-0df80c78dd09bb763c00",
+      "claimId": "Q9671$DE8E49DA-2C3A-46ED-B084-EF02CF538DF9",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2007",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-01c4e7858c6f1487a9d3",
+      "factId": "fact-b9db72c2beadad8b6151",
+      "claimId": "Q9671$cfcc89cf-4db7-26b7-ad8c-21927e75ac53",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2004",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-6ea0bf4e3307e881ab02",
+      "factId": "fact-f2313fb74759ebde74f9",
+      "claimId": "Q9671$F6A28349-A01B-473E-97C5-A59D6E6CCD10",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2004",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-1ffa53dd0a9558749132",
+      "factId": "fact-eca1c52200c7c612faa9",
+      "claimId": "Q9671$5CCD2108-7B8E-445D-8EFE-F95EF24684CC",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2003",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-7a99316844fe5cac73ca",
+      "factId": "fact-ca4cc00805303b6e133b",
+      "claimId": "Q9671$32b8d692-4d53-75d9-503d-69e2c7be84cf",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2002-10-22",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.quirinale.it/onorificenze/insigniti/91400",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e7fc363e451c6c71a055",
+      "factId": "fact-427f0caca73fd4fbc66a",
+      "claimId": "Q9671$7dedbcd0-4342-0a33-a77e-c9888a7475c0",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2002",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8bb6a441fdbdf51b857c",
+      "factId": "fact-fd159d597c997c42a43f",
+      "claimId": "Q9671$7ADBADDA-408E-4CAD-A897-5004AE26A65C",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1997",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-148d2822bcdcfeb16450",
+      "factId": "fact-a63f5186cd309f18b214",
+      "claimId": "Q9671$BB316347-30F1-46AF-8849-92140C51E309",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1995",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-799b4f05e99b2a5ad616",
+      "factId": "fact-fb117f9630d11df9c737",
+      "claimId": "q9671$E562A033-8AA1-4B30-8B9A-D9B3AB8CD6C5",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1969-01-03",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://brockhaus.de/ecs/julex/article/schumacher-michael",
+        "https://en.wikipedia.org/w/index.php?oldid=1384535939",
+        "https://en.wikipedia.org/wiki/Michael_Schumacher",
+        "https://www.wikidata.org/wiki/Q15706812",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q504063",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q9671"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "迈克尔·舒马赫",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "职业",
+          "value": "Formula One driver",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "职业",
+          "value": "摩托车赛车手",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "国籍",
+          "value": "德國",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "来源所记出生日期",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "出生地",
+          "value": "许尔特",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "雇主",
+          "value": "联合国儿童基金会",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "担任职务",
+          "value": "聯合國兒童基金會親善大使",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "奖项",
+          "value": "Princess of Asturias Award for Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "奖项",
+          "value": "honorary citizen of Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "奖项",
+          "value": "劳伦斯世界体育奖年度最佳运动员奖",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "奖项",
+          "value": "德國年度體育人物",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "奖项",
+          "value": "State Prize of North Rhine-Westphalia",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "奖项",
+          "value": "劳伦斯世界体育奖年度最佳运动员奖",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "奖项",
+          "value": "德國體育名人堂",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "奖项",
+          "value": "意大利共和国功绩指挥官勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "奖项",
+          "value": "法国荣誉军团军官勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "奖项",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "奖项",
+          "value": "德國年度體育人物",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "奖项",
+          "value": "银月桂叶",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "官方网站",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: State Prize of North Rhine-Westphalia",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "奖项: 德國體育名人堂",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: honorary citizen of Sarajevo",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 法国荣誉军团军官勋章",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Princess of Asturias Award for Sports",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 劳伦斯世界体育奖年度最佳运动员奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 德國年度體育人物",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: L'Équipe Champion of Champions",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: 意大利共和国功绩指挥官勋章",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 劳伦斯世界体育奖年度最佳运动员奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 银月桂叶",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 德國年度體育人物",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1969-01-03",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Michael Schumacher",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "Occupation",
+          "value": "Formula One driver",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "Occupation",
+          "value": "motorcycle racer",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "Citizenship",
+          "value": "Germany",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "Source-reported birth date",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "Place of birth",
+          "value": "Hürth",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "Employer",
+          "value": "UNICEF",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "Position held",
+          "value": "UNICEF Goodwill Ambassador",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "Award",
+          "value": "Princess of Asturias Award for Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "Award",
+          "value": "honorary citizen of Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "Award",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "Award",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "Award",
+          "value": "State Prize of North Rhine-Westphalia",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "Award",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "Award",
+          "value": "Germany's Sports Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "Award",
+          "value": "Commander of the Order of Merit of the Italian Republic",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "Award",
+          "value": "Officer of the Legion of Honour",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "Award",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "Award",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "Award",
+          "value": "Silbernes Lorbeerblatt",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "Official website",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: State Prize of North Rhine-Westphalia",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "Award: Germany's Sports Hall of Fame",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: honorary citizen of Sarajevo",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Officer of the Legion of Honour",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Princess of Asturias Award for Sports",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: German Sportspersonality of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: L'Équipe Champion of Champions",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Commander of the Order of Merit of the Italian Republic",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Silbernes Lorbeerblatt",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: German Sportspersonality of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1969-01-03",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Michael Schumacher",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "Profession",
+          "value": "pilote de Formule 1",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "Profession",
+          "value": "pilote de course motocycliste",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "Nationalité",
+          "value": "Allemagne",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "Lieu de naissance",
+          "value": "Hürth",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "Employeur",
+          "value": "Fonds des Nations unies pour l'enfance",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "Fonction exercée",
+          "value": "ambassadeur de bonne volonté de l'Unicef",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "Distinction",
+          "value": "prix Princesse des Asturies en sport",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "Distinction",
+          "value": "citoyen d'honneur de Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "Distinction",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "Distinction",
+          "value": "personnalité sportive allemande de l'année",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "Distinction",
+          "value": "prix d'État de Rhénanie du Nord-Westphalie",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "Distinction",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "Distinction",
+          "value": "Germany's Sports Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "Distinction",
+          "value": "commandeur de l'ordre du Mérite de la République italienne",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "Distinction",
+          "value": "officier de la Légion d'honneur",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "Distinction",
+          "value": "champion des champions mondiaux de L'Équipe",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "Distinction",
+          "value": "personnalité sportive allemande de l'année",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "Distinction",
+          "value": "Silbernes Lorbeerblatt",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "Site officiel",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix d'État de Rhénanie du Nord-Westphalie",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "Distinction: Germany's Sports Hall of Fame",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: citoyen d'honneur de Sarajevo",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: officier de la Légion d'honneur",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Princesse des Asturies en sport",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: personnalité sportive allemande de l'année",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: champion des champions mondiaux de L'Équipe",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: commandeur de l'ordre du Mérite de la République italienne",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Laureus World Sports Award for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Silbernes Lorbeerblatt",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: personnalité sportive allemande de l'année",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1969-01-03",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "مايكل شوماخر",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "المهنة",
+          "value": "سائق فورمولا 1",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "المهنة",
+          "value": "متسابق دراجات نارية",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "الجنسية",
+          "value": "ألمانيا",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "مكان الميلاد",
+          "value": "هورت",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "جهة العمل",
+          "value": "يونيسف",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "المنصب",
+          "value": "سفير النوايا الحسنة لليونيسيف",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "الجائزة",
+          "value": "جائزة أميرة أستورياس للرياضة",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "الجائزة",
+          "value": "المواطن الفخري لمدينة سراييفو",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "الجائزة",
+          "value": "جائزة لوريوس العالمية لرياضي العام",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "الجائزة",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "الجائزة",
+          "value": "جائزة ولاية شمال الراين-وستفاليا",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "الجائزة",
+          "value": "جائزة لوريوس العالمية لرياضي العام",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "الجائزة",
+          "value": "عضوية قاعة مشاهير الرياضة الألمانية",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "الجائزة",
+          "value": "نيشان الاستحقاق للجمهورية الإيطالية من رتبة قائد",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "الجائزة",
+          "value": "نيشان جوقة الشرف من رتبة ضابط",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "الجائزة",
+          "value": "بطل أبطال ليكيب",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "الجائزة",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "الجائزة",
+          "value": "ورقة شجر الغار الفضية",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "الموقع الرسمي",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة ولاية شمال الراين-وستفاليا",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "الجائزة: عضوية قاعة مشاهير الرياضة الألمانية",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: المواطن الفخري لمدينة سراييفو",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: نيشان جوقة الشرف من رتبة ضابط",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة أميرة أستورياس للرياضة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة لوريوس العالمية لرياضي العام",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: German Sportspersonality of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: بطل أبطال ليكيب",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: نيشان الاستحقاق للجمهورية الإيطالية من رتبة قائد",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة لوريوس العالمية لرياضي العام",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ورقة شجر الغار الفضية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: German Sportspersonality of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1969-01-03",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Michael Schumacher",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "Beruf",
+          "value": "Formel-1-Fahrer",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "Beruf",
+          "value": "Motorradrennfahrer",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "Staatsangehörigkeit",
+          "value": "Deutschland",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "Geburtsort",
+          "value": "Hürth",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "Arbeitgeber",
+          "value": "UNICEF",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "Ausgeübtes Amt",
+          "value": "UNICEF Goodwill Ambassador",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "Auszeichnung",
+          "value": "Prinz-von-Asturien-Preis für Sport",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "Auszeichnung",
+          "value": "Ehrenbürger von Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "Auszeichnung",
+          "value": "Laureus World Sports Awards/Weltsportler des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "Auszeichnung",
+          "value": "Sportler des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "Auszeichnung",
+          "value": "Staatspreis des Landes Nordrhein-Westfalen",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "Auszeichnung",
+          "value": "Laureus World Sports Awards/Weltsportler des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "Auszeichnung",
+          "value": "Hall of Fame des deutschen Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "Auszeichnung",
+          "value": "Komtur des Verdienstordens der Italienischen Republik",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "Auszeichnung",
+          "value": "Offizier der Ehrenlegion",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "Auszeichnung",
+          "value": "Champion des champions",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "Auszeichnung",
+          "value": "Sportler des Jahres",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "Auszeichnung",
+          "value": "Silbernes Lorbeerblatt",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "Offizielle Website",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Staatspreis des Landes Nordrhein-Westfalen",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "Auszeichnung: Hall of Fame des deutschen Sports",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Ehrenbürger von Sarajevo",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Offizier der Ehrenlegion",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Prinz-von-Asturien-Preis für Sport",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Laureus World Sports Awards/Weltsportler des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Sportler des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Champion des champions",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Komtur des Verdienstordens der Italienischen Republik",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Laureus World Sports Awards/Weltsportler des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Silbernes Lorbeerblatt",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Sportler des Jahres",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1969-01-03",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ミハエル・シューマッハ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "職業",
+          "value": "F1ドライバー",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "職業",
+          "value": "オートバイレーサー",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "国籍",
+          "value": "ドイツ",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "出典に記載された生年月日",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "出生地",
+          "value": "ヒュルト",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "雇用主",
+          "value": "国際連合児童基金",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "役職",
+          "value": "ユニセフ親善大使",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "受賞",
+          "value": "アストゥリアス皇太子賞スポーツ部門",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "受賞",
+          "value": "サラエヴォ名誉市民",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "受賞",
+          "value": "ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "受賞",
+          "value": "年間最優秀スポーツ選手",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "受賞",
+          "value": "ノルトライン＝ヴェストファーレン州国家賞",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "受賞",
+          "value": "ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "受賞",
+          "value": "ドイツにおけるスポーツの殿堂",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "受賞",
+          "value": "イタリア共和国功労勲章コンメンダトーレ",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "受賞",
+          "value": "レジオンドヌール勲章オフィシエ",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "受賞",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "受賞",
+          "value": "年間最優秀スポーツ選手",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "受賞",
+          "value": "ジルバーネス・ロールベアブラット",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "公式サイト",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ノルトライン＝ヴェストファーレン州国家賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "受賞: ドイツにおけるスポーツの殿堂",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: サラエヴォ名誉市民",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: レジオンドヌール勲章オフィシエ",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: アストゥリアス皇太子賞スポーツ部門",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 年間最優秀スポーツ選手",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: L'Équipe Champion of Champions",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: イタリア共和国功労勲章コンメンダトーレ",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ローレウス世界スポーツ賞年間最優秀男子選手賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ジルバーネス・ロールベアブラット",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 年間最優秀スポーツ選手",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1969-01-03",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Michael Schumacher",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "Ocupación",
+          "value": "piloto de Fórmula Uno",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "Ocupación",
+          "value": "piloto de motociclismo",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "Nacionalidad",
+          "value": "Alemania",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "Lugar de nacimiento",
+          "value": "Hürth",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "Empleador",
+          "value": "Unicef",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "Cargo desempeñado",
+          "value": "embajador de buena voluntad de Unicef",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "Distinción",
+          "value": "Premio Princesa de Asturias de los Deportes",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "Distinción",
+          "value": "honorary citizen of Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "Distinción",
+          "value": "Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "Distinción",
+          "value": "Deportista del año",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "Distinción",
+          "value": "Premio Estatal de Renania del Norte-Westfalia",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "Distinción",
+          "value": "Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "Distinción",
+          "value": "Salón de la Fama del Deporte Alemán",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "Distinción",
+          "value": "Comendador de la Orden al Mérito de la República Italiana",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "Distinción",
+          "value": "Oficial de la Orden Nacional de la Legión de Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "Distinción",
+          "value": "Campeón de Campeones de L'Equipe",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "Distinción",
+          "value": "Deportista del año",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "Distinción",
+          "value": "Silbernes Lorbeerblatt",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "Sitio web oficial",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Estatal de Renania del Norte-Westfalia",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "Distinción: Salón de la Fama del Deporte Alemán",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: honorary citizen of Sarajevo",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Oficial de la Orden Nacional de la Legión de Honor",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Princesa de Asturias de los Deportes",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Deportista del año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Campeón de Campeones de L'Equipe",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Comendador de la Orden al Mérito de la República Italiana",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anexo:Premio Laureus al Mejor Deportista Masculino Internacional del Año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Silbernes Lorbeerblatt",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Deportista del año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1969-01-03",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "미하엘 슈마허",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-744705b38bb0d005893d",
+          "label": "직업",
+          "value": "포뮬러 원 드라이버",
+          "notes": []
+        },
+        {
+          "id": "fact-de720835086063c49a24",
+          "label": "직업",
+          "value": "motorcycle racer",
+          "notes": []
+        },
+        {
+          "id": "fact-02bf8859135af8990e23",
+          "label": "국적",
+          "value": "독일",
+          "notes": []
+        },
+        {
+          "id": "fact-fb117f9630d11df9c737",
+          "label": "출처에 기재된 출생일",
+          "value": "1969-01-03",
+          "notes": []
+        },
+        {
+          "id": "fact-3516cb3c4e8e6deb65ca",
+          "label": "출생지",
+          "value": "휘르트",
+          "notes": []
+        },
+        {
+          "id": "fact-4a775086f7eb2a8bf210",
+          "label": "고용 기관",
+          "value": "유니세프",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-9875f9c74968db3d9c76",
+          "label": "직책",
+          "value": "UNICEF Goodwill Ambassador",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-0df80c78dd09bb763c00",
+          "label": "수상",
+          "value": "Princess of Asturias Award for Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-3168d8f35be5b26ca83e",
+          "label": "수상",
+          "value": "honorary citizen of Sarajevo",
+          "notes": []
+        },
+        {
+          "id": "fact-427f0caca73fd4fbc66a",
+          "label": "수상",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-a63f5186cd309f18b214",
+          "label": "수상",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b83fc83c5790664dcd34",
+          "label": "수상",
+          "value": "State Prize of North Rhine-Westphalia",
+          "notes": []
+        },
+        {
+          "id": "fact-b9db72c2beadad8b6151",
+          "label": "수상",
+          "value": "Laureus World Sports Award for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-bcc5ddea934024346b42",
+          "label": "수상",
+          "value": "Germany's Sports Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-ca4cc00805303b6e133b",
+          "label": "수상",
+          "value": "Commander of the Order of Merit of the Italian Republic",
+          "notes": []
+        },
+        {
+          "id": "fact-e1590949793b37a47d6d",
+          "label": "수상",
+          "value": "Officer of the Legion of Honour",
+          "notes": []
+        },
+        {
+          "id": "fact-eca1c52200c7c612faa9",
+          "label": "수상",
+          "value": "L'Équipe Champion of Champions",
+          "notes": []
+        },
+        {
+          "id": "fact-f2313fb74759ebde74f9",
+          "label": "수상",
+          "value": "German Sportspersonality of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-fd159d597c997c42a43f",
+          "label": "수상",
+          "value": "Silbernes Lorbeerblatt",
+          "notes": []
+        },
+        {
+          "id": "fact-81dd61b40b3fff90b9f4",
+          "label": "공식 웹사이트",
+          "value": "https://michael-schumacher.de",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-25e4c054373b72ec6c67",
+          "factId": "fact-b83fc83c5790664dcd34",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: State Prize of North Rhine-Westphalia",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-395db2895ac35603fdad",
+          "factId": "fact-bcc5ddea934024346b42",
+          "date": "2017-01-09",
+          "precision": 11,
+          "kind": "start",
+          "title": "수상: Germany's Sports Hall of Fame",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-66fa31ec9a4d347ae2bd",
+          "factId": "fact-3168d8f35be5b26ca83e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: honorary citizen of Sarajevo",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-da723361cc8bd62c7fa2",
+          "factId": "fact-e1590949793b37a47d6d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Officer of the Legion of Honour",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e518991f5c2ac10f1d13",
+          "factId": "fact-0df80c78dd09bb763c00",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Princess of Asturias Award for Sports",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-01c4e7858c6f1487a9d3",
+          "factId": "fact-b9db72c2beadad8b6151",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Laureus World Sports Award for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-6ea0bf4e3307e881ab02",
+          "factId": "fact-f2313fb74759ebde74f9",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: German Sportspersonality of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-1ffa53dd0a9558749132",
+          "factId": "fact-eca1c52200c7c612faa9",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: L'Équipe Champion of Champions",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-7a99316844fe5cac73ca",
+          "factId": "fact-ca4cc00805303b6e133b",
+          "date": "2002-10-22",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: Commander of the Order of Merit of the Italian Republic",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e7fc363e451c6c71a055",
+          "factId": "fact-427f0caca73fd4fbc66a",
+          "date": "2002",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Laureus World Sports Award for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8bb6a441fdbdf51b857c",
+          "factId": "fact-fd159d597c997c42a43f",
+          "date": "1997",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Silbernes Lorbeerblatt",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-148d2822bcdcfeb16450",
+          "factId": "fact-a63f5186cd309f18b214",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: German Sportspersonality of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-799b4f05e99b2a5ad616",
+          "factId": "fact-fb117f9630d11df9c737",
+          "date": "1969-01-03",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1969-01-03",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q876882"
+      },
+      {
+        "locale": "de",
+        "key": "Q740308"
+      },
+      {
+        "locale": "es",
+        "key": "Q315026"
+      },
+      {
+        "locale": "es",
+        "key": "Q58382530"
+      },
+      {
+        "locale": "fr",
+        "key": "Q1571341"
+      },
+      {
+        "locale": "fr",
+        "key": "Q1808301"
+      },
+      {
+        "locale": "ja",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "ko",
+        "key": "Q10855195"
+      },
+      {
+        "locale": "ko",
+        "key": "Q14539729"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1571341"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1808301"
+      },
+      {
+        "locale": "ko",
+        "key": "Q19969187"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2325167"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3014296"
+      },
+      {
+        "locale": "ko",
+        "key": "Q315026"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3320370"
+      },
+      {
+        "locale": "ko",
+        "key": "Q58382530"
+      },
+      {
+        "locale": "ko",
+        "key": "Q876882"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1061233"
+      },
+      {
+        "locale": "zh",
+        "key": "Q10841764"
+      },
+      {
+        "locale": "zh",
+        "key": "Q2325167"
+      },
+      {
+        "locale": "zh",
+        "key": "Q3320370"
+      },
+      {
+        "locale": "zh",
+        "key": "Q58382530"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q876882",
+        "fallbackLocale": "en",
+        "value": "German Sportspersonality of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q740308",
+        "fallbackLocale": "en",
+        "value": "UNICEF",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q315026",
+        "fallbackLocale": "en",
+        "value": "Silbernes Lorbeerblatt",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q58382530",
+        "fallbackLocale": "en",
+        "value": "honorary citizen of Sarajevo",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q1571341",
+        "fallbackLocale": "en",
+        "value": "Germany's Sports Hall of Fame",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q1808301",
+        "fallbackLocale": "en",
+        "value": "Laureus World Sports Award for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q10855195",
+        "fallbackLocale": "en",
+        "value": "Officer of the Legion of Honour",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q14539729",
+        "fallbackLocale": "en",
+        "value": "Commander of the Order of Merit of the Italian Republic",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1571341",
+        "fallbackLocale": "en",
+        "value": "Germany's Sports Hall of Fame",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1808301",
+        "fallbackLocale": "en",
+        "value": "Laureus World Sports Award for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q19969187",
+        "fallbackLocale": "en",
+        "value": "UNICEF Goodwill Ambassador",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2325167",
+        "fallbackLocale": "en",
+        "value": "State Prize of North Rhine-Westphalia",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3014296",
+        "fallbackLocale": "en",
+        "value": "motorcycle racer",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q315026",
+        "fallbackLocale": "en",
+        "value": "Silbernes Lorbeerblatt",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3320370",
+        "fallbackLocale": "en",
+        "value": "Princess of Asturias Award for Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q58382530",
+        "fallbackLocale": "en",
+        "value": "honorary citizen of Sarajevo",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q876882",
+        "fallbackLocale": "en",
+        "value": "German Sportspersonality of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1061233",
+        "fallbackLocale": "en",
+        "value": "L'Équipe Champion of Champions",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q10841764",
+        "fallbackLocale": "en",
+        "value": "Formula One driver",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q2325167",
+        "fallbackLocale": "en",
+        "value": "State Prize of North Rhine-Westphalia",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q3320370",
+        "fallbackLocale": "en",
+        "value": "Princess of Asturias Award for Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q58382530",
+        "fallbackLocale": "en",
+        "value": "honorary citizen of Sarajevo",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 13,
+    "professionalEventCount": 12,
+    "factCount": 20,
+    "factsWithoutExternalReference": 16,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

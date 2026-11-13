@@ -1,0 +1,1069 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "alex-krizhevsky",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/alex-krizhevsky.json",
+    "sha256": "2d57f0289c8e7494b5c23aa8fb5c0fbe2b5607ad5bd084268a043b49f63f063f",
+    "capturedAt": "2026-11-13T11:25:20Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+      "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+      "https://www.wikidata.org/wiki/Q28018607"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q28018607",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Alex Krizhevsky",
+    "sourceIdentity": {
+      "requestedName": "Alex Krizhevsky",
+      "requestedTitle": "Alex Krizhevsky",
+      "resolvedTitle": "Alex Krizhevsky",
+      "wikidataId": "Q28018607",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-d13752684aaadcaba2a2",
+      "property": "P106",
+      "claimId": "Q28018607$79851305-1C3A-4BB8-B38C-23C082616337",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1650915,
+          "id": "Q1650915"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b204bcbba54b7659c885",
+      "property": "P569",
+      "claimId": "Q28018607$1BD60765-EA64-427C-AD3D-913AB1743D28",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+2000-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 7,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": null,
+        "datePrecisionInsufficient": true
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+2000-00-00T00:00:00Z",
+        "precision": 7,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": null,
+        "cutoffRelation": "unresolved"
+      }
+    },
+    {
+      "id": "fact-36bb8f15fc7cef0fdf84",
+      "property": "P19",
+      "claimId": "Q28018607$6597768c-4cfa-0d73-b834-717106078c93",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 212,
+          "id": "Q212"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "The inside story of how AI got good enough to dominate Silicon Valley",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-06-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-06-18"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-09-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-09-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [
+        "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-33110882ea6fd46e4751",
+      "property": "P69",
+      "claimId": "Q28018607$4a69d1d3-4fd6-c122-0287-b250577d4072",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 180865,
+          "id": "Q180865"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "The inside story of how AI got good enough to dominate Silicon Valley",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-06-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-06-18"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-09-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-09-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [
+        "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0bd825ec2cda01a42e52",
+      "property": "P108",
+      "claimId": "Q28018607$dcc2c538-49a3-0b21-7809-7afbe75a214f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 95,
+          "id": "Q95"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-03-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013-03"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2017-09-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2017-09"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.cs.toronto.edu/~kriz/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-09-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-09-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.cs.toronto.edu/~kriz/",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [
+        "https://www.cs.toronto.edu/~kriz/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2013-03-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013-03",
+          "earliest": "2013-03-01",
+          "latest": "2013-03-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2017-09-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2017-09",
+          "earliest": "2017-09-01",
+          "latest": "2017-09-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d75ea3b5292864744e46",
+      "property": "P101",
+      "claimId": "Q28018607$1d564efd-4431-348e-b828-3b0903c51531",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2539,
+          "id": "Q2539"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2321107c894c4670f582",
+      "property": "P800",
+      "claimId": "Q28018607$89365f7e-4cb2-e89b-3001-af80e183c7ab",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 28325009,
+          "id": "Q28325009"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-337ddafee5700ffcbfdb",
+      "factId": "fact-0bd825ec2cda01a42e52",
+      "claimId": "Q28018607$dcc2c538-49a3-0b21-7809-7afbe75a214f",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2017-09",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.cs.toronto.edu/~kriz/",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a303c624600b7b10dd39",
+      "factId": "fact-0bd825ec2cda01a42e52",
+      "claimId": "Q28018607$dcc2c538-49a3-0b21-7809-7afbe75a214f",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2013-03",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384859949",
+        "https://en.wikipedia.org/wiki/Alex_Krizhevsky",
+        "https://www.cs.toronto.edu/~kriz/",
+        "https://www.wikidata.org/wiki/Q28018607"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "亚历克斯·克里泽夫斯基",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "职业",
+          "value": "研究者",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "来源所记出生日期",
+          "value": "来源日期尚不能规范化: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "出生地",
+          "value": "烏克蘭",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "就读机构",
+          "value": "多倫多大學",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "雇主",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "研究领域",
+          "value": "机器学习",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "代表作品",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: Google",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: Google",
+          "text": "来源记载开始时间",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Alex Krizhevsky",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "Occupation",
+          "value": "researcher",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "Source-reported birth date",
+          "value": "Source date cannot yet be normalized: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "Place of birth",
+          "value": "Ukraine",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "Educational institution",
+          "value": "University of Toronto",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "Employer",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "Field of work",
+          "value": "machine learning",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "Notable work",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: Google",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Google",
+          "text": "Start date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Alexander Krizhevsky",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "Profession",
+          "value": "chercheur ou chercheuse",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "Date de naissance indiquée par la source",
+          "value": "Date de source non normalisable à ce stade: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "Lieu de naissance",
+          "value": "Ukraine",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "Établissement fréquenté",
+          "value": "Université de Toronto",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "Employeur",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "Domaine de travail",
+          "value": "apprentissage automatique",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "Œuvre notable",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Google",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Google",
+          "text": "Date de début selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "ألكس كريجفسكي",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "المهنة",
+          "value": "باحث",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "تعذر توحيد صيغة تاريخ المصدر حاليًا: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "مكان الميلاد",
+          "value": "أوكرانيا",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة تورنتو",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "جهة العمل",
+          "value": "جوجل",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "مجال العمل",
+          "value": "تعلم الآلة",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "عمل بارز",
+          "value": "ألكسنت",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: جوجل",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: جوجل",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Alexander Krizhevsky",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "Beruf",
+          "value": "Forscher",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "Quelldatum kann noch nicht normalisiert werden: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "Geburtsort",
+          "value": "Ukraine",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "Bildungseinrichtung",
+          "value": "University of Toronto",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "Arbeitgeber",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "Arbeitsgebiet",
+          "value": "maschinelles Lernen",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "Bekanntes Werk",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: Google",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Google",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Alex Krizhevsky",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "職業",
+          "value": "研究者",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "出典に記載された生年月日",
+          "value": "出典の日付はまだ正規化できません: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "出生地",
+          "value": "ウクライナ",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "在籍した教育機関",
+          "value": "トロント大学",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "雇用主",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "活動分野",
+          "value": "機械学習",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "代表的な作品",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: Google",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: Google",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Alexander Krizhevsky",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "Ocupación",
+          "value": "investigador",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "La fecha de la fuente aún no puede normalizarse: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "Lugar de nacimiento",
+          "value": "Ucrania",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "Institución educativa",
+          "value": "Universidad de Toronto",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "Empleador",
+          "value": "Google",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "Campo de trabajo",
+          "value": "aprendizaje automático",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "Obra destacada",
+          "value": "AlexNet",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Google",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Google",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "알렉스 크리제프스키",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-d13752684aaadcaba2a2",
+          "label": "직업",
+          "value": "연구원",
+          "notes": []
+        },
+        {
+          "id": "fact-b204bcbba54b7659c885",
+          "label": "출처에 기재된 출생일",
+          "value": "출처 날짜를 아직 표준화할 수 없습니다: +2000-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-36bb8f15fc7cef0fdf84",
+          "label": "출생지",
+          "value": "우크라이나",
+          "notes": []
+        },
+        {
+          "id": "fact-33110882ea6fd46e4751",
+          "label": "교육 기관",
+          "value": "토론토 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-0bd825ec2cda01a42e52",
+          "label": "고용 기관",
+          "value": "구글",
+          "notes": []
+        },
+        {
+          "id": "fact-d75ea3b5292864744e46",
+          "label": "활동 분야",
+          "value": "기계 학습",
+          "notes": []
+        },
+        {
+          "id": "fact-2321107c894c4670f582",
+          "label": "주요 작품",
+          "value": "알렉스넷",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-337ddafee5700ffcbfdb",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2017-09",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: 구글",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-a303c624600b7b10dd39",
+          "factId": "fact-0bd825ec2cda01a42e52",
+          "date": "2013-03",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 구글",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ja",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Alex Krizhevsky",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [
+      {
+        "factId": "fact-b204bcbba54b7659c885",
+        "dateProperty": "P569",
+        "date": null,
+        "raw": "+2000-00-00T00:00:00Z",
+        "reason": "unresolved"
+      }
+    ],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 2,
+    "professionalEventCount": 2,
+    "factCount": 7,
+    "factsWithoutExternalReference": 4,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

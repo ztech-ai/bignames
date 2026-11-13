@@ -1,0 +1,1681 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "sarah-sjostrom",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/sarah-sjostrom.json",
+    "sha256": "39d3ed3aec4467f7f400f96b0f6707968d072a731e27f84ab64a7e32214a719a",
+    "capturedAt": "2026-11-13T11:26:00Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+      "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+      "https://www.wikidata.org/wiki/Q235315"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q235315",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Sarah Sjöström",
+    "sourceIdentity": {
+      "requestedName": "Sarah Sjöström",
+      "requestedTitle": "Sarah Sjöström",
+      "resolvedTitle": "Sarah Sjöström",
+      "wikidataId": "Q235315",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1f0cf1ecd80913e2e644",
+      "property": "P106",
+      "claimId": "Q235315$518F07B2-581D-4B77-A5C2-E741BE1AA6B7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10843402,
+          "id": "Q10843402"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48952,
+                "id": "Q48952"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315",
+        "https://www.wikidata.org/wiki/Q48952"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48952"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4a8a689dcbe9e24db0d3",
+      "property": "P27",
+      "claimId": "Q235315$E08DB7C5-FC67-412B-90F9-A7A36B03972B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 34,
+          "id": "Q34"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b2aaeb1b5ab19d6cfdbc",
+      "property": "P569",
+      "claimId": "Q235315$EE551BEE-A235-4139-BEF9-7934587BE0B0",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1993-08-17T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1993-08-17"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.rio2016.com/en/athlete/sarah-sjostrom"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-08-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016-08-11"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.rio2016.com/en/athlete/sarah-sjostrom",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [
+        "https://www.rio2016.com/en/athlete/sarah-sjostrom"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1993-08-17T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1993-08-17",
+        "earliest": "1993-08-17",
+        "latest": "1993-08-17",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-48656926aa533f4de74d",
+      "property": "P19",
+      "claimId": "Q235315$717a33ef-4e34-7a14-2faa-3809510a8b5b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 516080,
+          "id": "Q516080"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.olympedia.org/athletes/112272"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-07-31T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-07-31"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.olympedia.org/athletes/112272",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [
+        "https://www.olympedia.org/athletes/112272"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1439ac4691e1c717af91",
+      "property": "P166",
+      "claimId": "Q235315$93d2c320-4832-2aae-7996-0efd50ec715c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2297250,
+          "id": "Q2297250"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-39c372d3685c76309de2",
+      "property": "P166",
+      "claimId": "Q235315$c9189b2f-4c37-fbe6-ff39-a9956ecfa6c8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3359291,
+          "id": "Q3359291"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a46cd8c6c5e06643df8b",
+      "property": "P166",
+      "claimId": "Q235315$aea3b116-41be-ffa4-eec7-5a4337b30298",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 663431,
+          "id": "Q663431"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bfef8f5024d94e4da72e",
+      "property": "P166",
+      "claimId": "Q235315$d67743b1-452f-f04f-0ea0-e2ee1772f589",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 663431,
+          "id": "Q663431"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fa3ea929f02027585cd2",
+      "property": "P856",
+      "claimId": "Q235315$36D4EEAE-DECE-4B45-A509-5E8D78C6314B",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://sarahsjostrom.se"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-0dbb65b81b2f87e43098",
+      "factId": "fact-a46cd8c6c5e06643df8b",
+      "claimId": "Q235315$aea3b116-41be-ffa4-eec7-5a4337b30298",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-675294b97ad50d59b520",
+      "factId": "fact-39c372d3685c76309de2",
+      "claimId": "Q235315$c9189b2f-4c37-fbe6-ff39-a9956ecfa6c8",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c2699e11f5ec6fd0bec3",
+      "factId": "fact-1439ac4691e1c717af91",
+      "claimId": "Q235315$93d2c320-4832-2aae-7996-0efd50ec715c",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-824d4dea97075573e946",
+      "factId": "fact-bfef8f5024d94e4da72e",
+      "claimId": "Q235315$d67743b1-452f-f04f-0ea0-e2ee1772f589",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2014",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-6051b658dde827b8af7f",
+      "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+      "claimId": "Q235315$EE551BEE-A235-4139-BEF9-7934587BE0B0",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1993-08-17",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385090306",
+        "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m",
+        "https://www.rio2016.com/en/athlete/sarah-sjostrom",
+        "https://www.wikidata.org/wiki/Q235315"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "萨拉·舍斯特伦",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "职业",
+          "value": "游泳运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "国籍",
+          "value": "瑞典",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "来源所记出生日期",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "出生地",
+          "value": "塞勒姆市镇",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "奖项",
+          "value": "Svenska Dagbladet Gold Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "奖项",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "奖项",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "奖项",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "官方网站",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Jerring Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Victoria Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Svenska Dagbladet Gold Medal",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Jerring Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1993-08-17",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Sarah Sjöström",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "Occupation",
+          "value": "swimmer",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "Citizenship",
+          "value": "Sweden",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "Source-reported birth date",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "Place of birth",
+          "value": "Salem Municipality",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "Award",
+          "value": "Svenska Dagbladet Gold Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "Award",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "Award",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "Award",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "Official website",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Jerring Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Victoria Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Svenska Dagbladet Gold Medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Jerring Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1993-08-17",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Sarah Sjöström",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "Profession",
+          "value": "nageur ou nageuse",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "Nationalité",
+          "value": "Suède",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "Lieu de naissance",
+          "value": "commune de Salem",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "Distinction",
+          "value": "médaille d'or Svenska Dagbladet",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "Distinction",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "Distinction",
+          "value": "prix Jerring",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "Distinction",
+          "value": "prix Jerring",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "Site officiel",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Jerring",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Victoria Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille d'or Svenska Dagbladet",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Jerring",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1993-08-17",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "ساره سيوستروم",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "المهنة",
+          "value": "سباح",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "الجنسية",
+          "value": "السويد",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "مكان الميلاد",
+          "value": "Salem Municipality",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "الجائزة",
+          "value": "Svenska Dagbladet Gold Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "الجائزة",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "الجائزة",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "الجائزة",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "الموقع الرسمي",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Jerring Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Victoria Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Svenska Dagbladet Gold Medal",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Jerring Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1993-08-17",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Sarah Sjöström",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "Beruf",
+          "value": "Schwimmer",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "Staatsangehörigkeit",
+          "value": "Schweden",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "Geburtsort",
+          "value": "Gemeinde Salem",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "Auszeichnung",
+          "value": "Svenska-Dagbladet-Goldmedaille",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "Auszeichnung",
+          "value": "Victoriapreis",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "Auszeichnung",
+          "value": "Radiosportens Jerringpris",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "Auszeichnung",
+          "value": "Radiosportens Jerringpris",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "Offizielle Website",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Radiosportens Jerringpris",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Victoriapreis",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Svenska-Dagbladet-Goldmedaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Radiosportens Jerringpris",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1993-08-17",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "サラ・ショーストレム",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "職業",
+          "value": "競泳選手",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "国籍",
+          "value": "スウェーデン",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "出典に記載された生年月日",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "出生地",
+          "value": "サーレム自治体",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "受賞",
+          "value": "スヴェンスカ・ダーグブラーデット・ゴールドメダル",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "受賞",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "受賞",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "受賞",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "公式サイト",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Jerring Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Victoria Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: スヴェンスカ・ダーグブラーデット・ゴールドメダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Jerring Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1993-08-17",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Sarah Sjöström",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "Ocupación",
+          "value": "nadador",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "Nacionalidad",
+          "value": "Suecia",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "Lugar de nacimiento",
+          "value": "municipio de Salem",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "Distinción",
+          "value": "Svenska Dagbladet Gold Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "Distinción",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "Distinción",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "Distinción",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "Sitio web oficial",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Jerring Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Victoria Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Svenska Dagbladet Gold Medal",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Jerring Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1993-08-17",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "사라 셰스트룀",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f0cf1ecd80913e2e644",
+          "label": "직업",
+          "value": "수영 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-4a8a689dcbe9e24db0d3",
+          "label": "국적",
+          "value": "스웨덴",
+          "notes": []
+        },
+        {
+          "id": "fact-b2aaeb1b5ab19d6cfdbc",
+          "label": "출처에 기재된 출생일",
+          "value": "1993-08-17",
+          "notes": []
+        },
+        {
+          "id": "fact-48656926aa533f4de74d",
+          "label": "출생지",
+          "value": "살렘시",
+          "notes": []
+        },
+        {
+          "id": "fact-1439ac4691e1c717af91",
+          "label": "수상",
+          "value": "Svenska Dagbladet Gold Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-39c372d3685c76309de2",
+          "label": "수상",
+          "value": "Victoria Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a46cd8c6c5e06643df8b",
+          "label": "수상",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-bfef8f5024d94e4da72e",
+          "label": "수상",
+          "value": "Jerring Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fa3ea929f02027585cd2",
+          "label": "공식 웹사이트",
+          "value": "https://sarahsjostrom.se",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0dbb65b81b2f87e43098",
+          "factId": "fact-a46cd8c6c5e06643df8b",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Jerring Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-675294b97ad50d59b520",
+          "factId": "fact-39c372d3685c76309de2",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Victoria Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c2699e11f5ec6fd0bec3",
+          "factId": "fact-1439ac4691e1c717af91",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Svenska Dagbladet Gold Medal",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-824d4dea97075573e946",
+          "factId": "fact-bfef8f5024d94e4da72e",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Jerring Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-6051b658dde827b8af7f",
+          "factId": "fact-b2aaeb1b5ab19d6cfdbc",
+          "date": "1993-08-17",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1993-08-17",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q2297250"
+      },
+      {
+        "locale": "ar",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "ar",
+        "key": "Q516080"
+      },
+      {
+        "locale": "ar",
+        "key": "Q663431"
+      },
+      {
+        "locale": "es",
+        "key": "Q2297250"
+      },
+      {
+        "locale": "es",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "es",
+        "key": "Q663431"
+      },
+      {
+        "locale": "fr",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "ja",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "ja",
+        "key": "Q663431"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2297250"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "ko",
+        "key": "Q663431"
+      },
+      {
+        "locale": "zh",
+        "key": "Q2297250"
+      },
+      {
+        "locale": "zh",
+        "key": "Q3359291"
+      },
+      {
+        "locale": "zh",
+        "key": "Q663431"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q2297250",
+        "fallbackLocale": "en",
+        "value": "Svenska Dagbladet Gold Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q516080",
+        "fallbackLocale": "en",
+        "value": "Salem Municipality",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q663431",
+        "fallbackLocale": "en",
+        "value": "Jerring Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q2297250",
+        "fallbackLocale": "en",
+        "value": "Svenska Dagbladet Gold Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q663431",
+        "fallbackLocale": "en",
+        "value": "Jerring Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q663431",
+        "fallbackLocale": "en",
+        "value": "Jerring Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2297250",
+        "fallbackLocale": "en",
+        "value": "Svenska Dagbladet Gold Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q663431",
+        "fallbackLocale": "en",
+        "value": "Jerring Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q2297250",
+        "fallbackLocale": "en",
+        "value": "Svenska Dagbladet Gold Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q3359291",
+        "fallbackLocale": "en",
+        "value": "Victoria Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q663431",
+        "fallbackLocale": "en",
+        "value": "Jerring Award",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 9,
+    "factsWithoutExternalReference": 7,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

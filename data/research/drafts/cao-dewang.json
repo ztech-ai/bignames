@@ -1,0 +1,1160 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "cao-dewang",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/cao-dewang.json",
+    "sha256": "68a726e370949504359cb2d14d5c7048141f9c8a4c20d11c1e802d7b0bda3b29",
+    "capturedAt": "2026-11-13T11:25:34Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+      "https://en.wikipedia.org/wiki/Cao_Dewang",
+      "https://www.wikidata.org/wiki/Q28413863"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q28413863",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Cao Dewang",
+    "sourceIdentity": {
+      "requestedName": "Cao Dewang",
+      "requestedTitle": "Cao Dewang",
+      "resolvedTitle": "Cao Dewang",
+      "wikidataId": "Q28413863",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-90b662aa9c7cc8893b54",
+      "property": "P106",
+      "claimId": "Q28413863$895d8f0f-9421-4290-8b31-c24d894b2275",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2311b9a66ee5e7127c98",
+      "property": "P27",
+      "claimId": "Q28413863$48E492EC-A84E-49E4-98CD-FDBCDF61A064",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 148,
+          "id": "Q148"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1949-10-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1949-10-01"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1949-10-01T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1949-10-01",
+          "earliest": "1949-10-01",
+          "latest": "1949-10-01",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-248639305fa3a61c2f86",
+      "property": "P27",
+      "claimId": "Q28413863$ff82a898-4e57-ada0-61c3-55c47ca9c83e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 13426199,
+          "id": "Q13426199"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1949-10-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1949-10-01"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+1949-10-01T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1949-10-01",
+          "earliest": "1949-10-01",
+          "latest": "1949-10-01",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-aa6bf0ed2cb24f2a3327",
+      "property": "P569",
+      "claimId": "Q28413863$151E9575-31BD-4678-8652-77E33A0DDED7",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1946-05-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 10,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1946-05"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1946-05-00T00:00:00Z",
+        "precision": 10,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1946-05",
+        "earliest": "1946-05-01",
+        "latest": "1946-05-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-bfddbc1b25a8bfdf9ef0",
+      "property": "P19",
+      "claimId": "Q28413863$c9f0db9c-4ba0-bbfc-459f-99f7bfe32000",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10867816,
+          "id": "Q10867816"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b34d8a9203142e7d93cb",
+      "property": "P39",
+      "claimId": "Q28413863$FA150F3C-C5D7-41AA-8F96-F08C396BA1C0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 51078983,
+          "id": "Q51078983"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-76d7c6e899f6724da02d",
+      "property": "P166",
+      "claimId": "Q28413863$0017A6A8-AC64-4A33-8297-727DF393981E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60991786,
+          "id": "Q60991786"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-10-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018-10-24"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-10-24T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018-10-24",
+          "earliest": "2018-10-24",
+          "latest": "2018-10-24",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-f345359d566d9cd21a95",
+      "factId": "fact-76d7c6e899f6724da02d",
+      "claimId": "Q28413863$0017A6A8-AC64-4A33-8297-727DF393981E",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018-10-24",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c85298a20e3580e626af",
+      "factId": "fact-aa6bf0ed2cb24f2a3327",
+      "claimId": "Q28413863$151E9575-31BD-4678-8652-77E33A0DDED7",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1946-05",
+      "precision": 10,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345300167",
+        "https://en.wikipedia.org/wiki/Cao_Dewang",
+        "https://www.wikidata.org/wiki/Q28413863",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "曹德旺",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "国籍",
+          "value": "中华人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "国籍",
+          "value": "中華民國大陸時期",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "来源所记出生日期",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "出生地",
+          "value": "上海市",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "担任职务",
+          "value": "全国政协委员",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "奖项",
+          "value": "改革开放40年百名杰出民营企业家",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: 改革开放40年百名杰出民营企业家",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1946-05",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Cao Dewang",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "Citizenship",
+          "value": "People's Republic of China",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "Citizenship",
+          "value": "Republic of China",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "Source-reported birth date",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "Place of birth",
+          "value": "Shang-hai",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "Position held",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "Award",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: 100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1946-05",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Cao Dewang",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "Nationalité",
+          "value": "République populaire de Chine",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "Nationalité",
+          "value": "république de Chine",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "Lieu de naissance",
+          "value": "Shanqhae",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "Fonction exercée",
+          "value": "membre du comité national de la conférence consultative politique du peuple chinois",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "Distinction",
+          "value": "100 entrepreneurs privés exceptionnels des 40 ans de réforme et d'ouverture",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: 100 entrepreneurs privés exceptionnels des 40 ans de réforme et d'ouverture",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1946-05",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Cao Dewang",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "الجنسية",
+          "value": "الصين",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "الجنسية",
+          "value": "جمهورية الصين",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "مكان الميلاد",
+          "value": "Shang-hai",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "المنصب",
+          "value": "عضو اللجنة الوطنية لجمهورية الصين الشعبية",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "الجائزة",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: 100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1946-05",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Cao Dewang",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "Staatsangehörigkeit",
+          "value": "Volksrepublik China",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "Staatsangehörigkeit",
+          "value": "Republik China",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "Geburtsort",
+          "value": "Shanqhae",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "Ausgeübtes Amt",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "Auszeichnung",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: 100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1946-05",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "曹徳旺",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "国籍",
+          "value": "中華人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "国籍",
+          "value": "中華民国",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "出典に記載された生年月日",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "出生地",
+          "value": "上海市",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "役職",
+          "value": "中国人民政治協商会議全国委員会委員",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "受賞",
+          "value": "改革開放の40年における100名の傑出した民間企業家",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: 改革開放の40年における100名の傑出した民間企業家",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1946-05",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Cao Dewang",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "Nacionalidad",
+          "value": "República Popular China",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "Nacionalidad",
+          "value": "República de China",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "Lugar de nacimiento",
+          "value": "Shanqhae",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "Cargo desempeñado",
+          "value": "miembro del Comité Nacional de la Conferencia Consultiva Política del Pueblo Chino",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "Distinción",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: 100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1946-05",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Cao Dewang",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-90b662aa9c7cc8893b54",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-2311b9a66ee5e7127c98",
+          "label": "국적",
+          "value": "중화인민공화국",
+          "notes": []
+        },
+        {
+          "id": "fact-248639305fa3a61c2f86",
+          "label": "국적",
+          "value": "중화민국 대륙 시기",
+          "notes": []
+        },
+        {
+          "id": "fact-aa6bf0ed2cb24f2a3327",
+          "label": "출처에 기재된 출생일",
+          "value": "1946-05",
+          "notes": []
+        },
+        {
+          "id": "fact-bfddbc1b25a8bfdf9ef0",
+          "label": "출생지",
+          "value": "상하이시",
+          "notes": []
+        },
+        {
+          "id": "fact-b34d8a9203142e7d93cb",
+          "label": "직책",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-76d7c6e899f6724da02d",
+          "label": "수상",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f345359d566d9cd21a95",
+          "factId": "fact-76d7c6e899f6724da02d",
+          "date": "2018-10-24",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: 100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c85298a20e3580e626af",
+          "factId": "fact-aa6bf0ed2cb24f2a3327",
+          "date": "1946-05",
+          "precision": 10,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1946-05",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q10867816"
+      },
+      {
+        "locale": "ar",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q51078983"
+      },
+      {
+        "locale": "de",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "es",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q51078983"
+      },
+      {
+        "locale": "ko",
+        "key": "Q60991786"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Cao Dewang",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q10867816",
+        "fallbackLocale": "en",
+        "value": "Shang-hai",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Cao Dewang",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q51078983",
+        "fallbackLocale": "en",
+        "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Cao Dewang",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Cao Dewang",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q51078983",
+        "fallbackLocale": "en",
+        "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 2,
+    "professionalEventCount": 1,
+    "factCount": 7,
+    "factsWithoutExternalReference": 7,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

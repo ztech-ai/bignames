@@ -4,6 +4,8 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import { timelineOrder, yearOf, safeUrl, lifeStatus } from './utils.mjs';
 import { sourceStrings, validateTranslation, validateUI, validateUISource } from './i18n-core.mjs';
+import { validateInfluence } from './influence.mjs';
+import { createHash } from 'node:crypto';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const readJson = async name => JSON.parse(await readFile(path.join(root,name),'utf8'));
@@ -27,6 +29,11 @@ for(const file of files) {
   ids.add(p.id);
   people.push(p);
   sourceStrings(p); // Translation keys require stable, unique IDs.
+  validateInfluence(p.influence,p.id);
+  if(p.influence)for(const locale of enabledLocales) {
+    const rationale=locale.id===sourceLocale?p.influence.rationale:p.influence.rationales?.[locale.id];
+    assert(typeof rationale==='string'&&rationale.trim(),`${p.id}: missing ${locale.id} influence rationale`);
+  }
   for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt']) assert.equal(typeof p[key],'string',`${p.id}: missing ${key}`);
   assert.match(p.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
   assert.match(p.birth,datePattern);
@@ -63,6 +70,43 @@ for(const file of files) {
   references+=p.sources.length;
 }
 assert.equal(new Set(candidates.map(c=>c.id)).size,candidates.length,'Duplicate candidate');
+try {
+  const collection=await readJson('data/collections/contemporary-1000.json');
+  const baseline=await readJson('data/research/baseline.json');
+  const oldIds=new Set(baseline.profiles.map(p=>p.id));
+  assert.equal(collection.targetCount,1000,'Unexpected collection target');
+  assert.equal(collection.people.length,1000,'Contemporary selection must contain 1000 eligible people');
+  assert.equal(new Set(collection.people.map(p=>p.id)).size,1000,'Duplicate contemporary candidate');
+  const qids=collection.people.map(p=>p.wikidataId).filter(Boolean);
+  assert.equal(new Set(qids).size,qids.length,'Duplicate Wikidata identities in contemporary collection');
+  for(const p of collection.people) {
+    validateInfluence(p.influence,p.id,{required:true,minimum:3,cutoff:collection.cutoffDate});
+    assert(!oldIds.has(p.id),`${p.id}: existing published person mixed into new collection`);
+    assert(candidates.some(c=>c.id===p.id),`${p.id}: collection member absent from roster`);
+    for(const field of ['name','enName','inclusionReason','wikipediaTitle'])assert(typeof p[field]==='string'&&p[field].trim(),`${p.id}: incomplete collection metadata`);
+    assert(taxonomy.domains.some(d=>d.id===p.domain),`${p.id}: unknown collection domain`);
+    assert(p.regions.length&&p.regions.every(r=>taxonomy.regions.some(x=>x.id===r)),`${p.id}: unknown collection region`);
+    const queue=await readJson(`data/research/queue/${p.id}.json`);
+    assert.equal(queue.id,p.id);
+    assert.equal(queue.publicationReady,false,'A research queue item must not claim editorial completion');
+    if(ids.has(p.id)) {
+      const person=people.find(x=>x.id===p.id);
+      assert.equal(person.influence?.stars,p.influence.stars,`${p.id}: profile/collection rating drift`);
+      assert.equal(person.influence?.scope,p.influence.scope,`${p.id}: profile/collection influence scope drift`);
+      assert.equal(person.influence?.rationale,p.influence.rationale,`${p.id}: profile/collection rating reason drift`);
+      for(const event of person.timeline)assert(event.date.startsWith('-')||event.date<=collection.cutoffDate.slice(0,event.date.length),`${p.id}: event after research cutoff`);
+    }
+  }
+  for(const item of baseline.profiles) {
+    const bytes=await readFile(path.join(root,`data/people/${item.id}.json`));
+    const hash=createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+    assert.equal(hash,item.blob,`${item.id}: deferred legacy profile was changed`);
+  }
+  console.log(`PASS: 1000 new candidates, all impact ratings >=3/5; ${baseline.profiles.length} deferred legacy dossiers preserved.`);
+} catch(error) {
+  // A checkout predating the expansion remains buildable; incomplete campaigns do not.
+  if(error.code!=='ENOENT'||!error.path?.endsWith('data/collections/contemporary-1000.json'))throw error;
+}
 const baseUI=await readJson(`data/i18n/${sourceLocale}/ui.json`);
 for(const locale of enabledLocales) {
   validateUI(baseUI,await readJson(`data/i18n/${locale.id}/ui.json`),locale.id);

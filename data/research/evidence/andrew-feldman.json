@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "andrew-feldman",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "安德鲁·费尔德曼",
+    "enName": "Andrew Feldman",
+    "domain": "technology",
+    "domains": [
+      "technology",
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "半导体与硬件",
+    "inclusionReason": "共同创办Cerebras并发展晶圆级计算芯片，探索人工智能训练与推理的新型硬件体系。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "共同创办Cerebras并发展晶圆级计算芯片，探索人工智能训练与推理的新型硬件体系。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:10Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Andrew Feldman",
+    "requestedTitle": "Andrew Feldman (businessman)",
+    "resolvedTitle": "Andrew Feldman (businessman)",
+    "wikidataId": "Q140068658",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Feldman_(businessman)",
+      "title": "Andrew Feldman (businessman)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:10Z",
+      "revisionId": 1380029099,
+      "revisionTimestamp": "2026-10-13T10:29:44Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1380029099",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140068658",
+      "title": "Q140068658",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:26:11Z",
+      "revisionId": 2502304584,
+      "revisionTimestamp": "2026-06-05T17:42:54Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Andrew D. Feldman is an American technology entrepreneur best known as the co-founder and chief executive officer (CEO) of Cerebras Systems, a semiconductor and artificial intelligence infrastructure company. Cerebras is known for developing the wafer-scale engine (WSE), the largest processor in the history of the computing industry. Feldman previously co-founded SeaMicro, which was acquired by Advanced Micro Devices (AMD) in 2012.\nAs of July 2026 Forbes estimates his net worth to be $1.9 billion.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Andrew Feldman"
+  },
+  "descriptions": {
+    "en": "American technology entrepreneur and CEO of Cerebras Systems"
+  },
+  "languageArticles": {
+    "en": "Andrew Feldman (businessman)"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q140068658$189c4008-d740-4ff5-8c46-06764a55e0da",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q140068658$5ebb840d-0035-42ab-9a1e-f4a432329707",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q140068658$6d137e43-d857-44a9-80de-9b73eb980f4b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation"
+  },
+  "relatedEntities": {
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,2911 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "james-marape",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/james-marape.json",
+    "sha256": "0a0ee4aee32ede7ad791cb7d4f3a351b8a93d31ab66578a0ab3ad4f4a82c09cb",
+    "capturedAt": "2026-11-13T11:26:35Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+      "https://en.wikipedia.org/wiki/James_Marape",
+      "https://www.wikidata.org/wiki/Q6138903"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q6138903",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "James Marape",
+    "sourceIdentity": {
+      "requestedName": "James Marape",
+      "requestedTitle": "James Marape",
+      "resolvedTitle": "James Marape",
+      "wikidataId": "Q6138903",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-fc1ac62b52b5340fca1f",
+      "property": "P106",
+      "claimId": "Q6138903$b8ff39e4-1829-4dd6-b955-a566194161b7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82955,
+          "id": "Q82955"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a5716b0934ab865c3e7d",
+      "property": "P27",
+      "claimId": "Q6138903$a5f5836f-4cfc-7c07-256b-af2dce7c8458",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 691,
+          "id": "Q691"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-0ead15f3cde25a90d9bf",
+      "property": "P569",
+      "claimId": "Q6138903$DB2F9D41-048E-462D-AA73-BC69C14DF0A7",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1971-04-24T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1971-04-24"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1971-04-24T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1971-04-24",
+        "earliest": "1971-04-24",
+        "latest": "1971-04-24",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-a7a9aba3d757db517d30",
+      "property": "P19",
+      "claimId": "Q6138903$44fb40d0-fc98-4e46-b84f-e0ace2b8ca7f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3408680,
+          "id": "Q3408680"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-ae4c98be2bbb3674135d",
+      "property": "P69",
+      "claimId": "Q6138903$d5fb460c-f607-4dfa-823d-3a196e7533c2",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 780975,
+          "id": "Q780975"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-05f6a664bd0fecc993d2",
+      "property": "P39",
+      "claimId": "Q6138903$324e76a1-4ce5-1786-2652-d6a053b45c86",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 114496735,
+          "id": "Q114496735"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2022-08-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2022-08-11"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-08"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2022-08-11T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2022-08-11",
+          "earliest": "2022-08-11",
+          "latest": "2022-08-11",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-67923f42a7c2a1435945",
+      "property": "P39",
+      "claimId": "Q6138903$2a27226c-40ad-f47c-5dcf-1726d5c4dbaa",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 86447120,
+          "id": "Q86447120"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2017-07-08T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2017-07-08"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2017-07-08T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2017-07-08",
+          "earliest": "2017-07-08",
+          "latest": "2017-07-08",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-8954e24a3d327761d69f",
+      "property": "P39",
+      "claimId": "Q6138903$3A79B5D8-7A7F-4D05-A3BA-48512632C207",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 113575679,
+          "id": "Q113575679"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-12-16T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008-12-16"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-08-02T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011-08-02"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-08-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-08-22"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2008-12-16T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008-12-16",
+          "earliest": "2008-12-16",
+          "latest": "2008-12-16",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2011-08-02T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011-08-02",
+          "earliest": "2011-08-02",
+          "latest": "2011-08-02",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-8ffc235df7642cbb8eee",
+      "property": "P39",
+      "claimId": "Q6138903$F51EBA6B-C3EA-42EA-AA72-BDFC9FE28BC3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 114496187,
+          "id": "Q114496187"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-12-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-12-20"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2022-08-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2022-08"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-08"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-12-20T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-12-20",
+          "earliest": "2020-12-20",
+          "latest": "2020-12-20",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2022-08-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2022-08",
+          "earliest": "2022-08-01",
+          "latest": "2022-08-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-eb4a7206f5d3c352cc30",
+      "property": "P39",
+      "claimId": "Q6138903$A6267500-B7E5-4AA3-B576-CFA84C6015A3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 113575677,
+          "id": "Q113575677"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-08-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012-08"
+          }
+        ],
+        "P1365": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 57892,
+              "id": "Q57892"
+            }
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2019-04-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2019-04-11"
+          }
+        ],
+        "P1366": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28966596,
+              "id": "Q28966596"
+            }
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-08-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-08-22"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2012-08-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012-08",
+          "earliest": "2012-08-01",
+          "latest": "2012-08-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2019-04-11T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2019-04-11",
+          "earliest": "2019-04-11",
+          "latest": "2019-04-11",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-eca0a7b38abe0bc87f46",
+      "property": "P39",
+      "claimId": "Q6138903$8e228149-4c42-c08a-d156-2ed02f320415",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1074656,
+          "id": "Q1074656"
+        }
+      },
+      "qualifiers": {
+        "P1365": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 57892,
+              "id": "Q57892"
+            }
+          }
+        ],
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2019-05-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2019-05-30"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-08"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114398425,
+                "id": "Q114398425"
+              }
+            }
+          ]
+        },
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-08"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q114398425",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114398425",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2019-05-30T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2019-05-30",
+          "earliest": "2019-05-30",
+          "latest": "2019-05-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-79508114012a7de6d0d3",
+      "factId": "fact-05f6a664bd0fecc993d2",
+      "claimId": "Q6138903$324e76a1-4ce5-1786-2652-d6a053b45c86",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2022-08-11",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c33c5418c4d77528a16c",
+      "factId": "fact-8ffc235df7642cbb8eee",
+      "claimId": "Q6138903$F51EBA6B-C3EA-42EA-AA72-BDFC9FE28BC3",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2022-08",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d783cd8055b947d1d896",
+      "factId": "fact-8ffc235df7642cbb8eee",
+      "claimId": "Q6138903$F51EBA6B-C3EA-42EA-AA72-BDFC9FE28BC3",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2020-12-20",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-aff963d5ffca36639f31",
+      "factId": "fact-eca0a7b38abe0bc87f46",
+      "claimId": "Q6138903$8e228149-4c42-c08a-d156-2ed02f320415",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2019-05-30",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q114398425",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b21f048239141124af9e",
+      "factId": "fact-eb4a7206f5d3c352cc30",
+      "claimId": "Q6138903$A6267500-B7E5-4AA3-B576-CFA84C6015A3",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2019-04-11",
+      "precision": 11,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-71b49bb8ad5583b73191",
+      "factId": "fact-67923f42a7c2a1435945",
+      "claimId": "Q6138903$2a27226c-40ad-f47c-5dcf-1726d5c4dbaa",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2017-07-08",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-3649c71d7f3e07ca3627",
+      "factId": "fact-eb4a7206f5d3c352cc30",
+      "claimId": "Q6138903$A6267500-B7E5-4AA3-B576-CFA84C6015A3",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2012-08",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-33d6d568284b8416584b",
+      "factId": "fact-8954e24a3d327761d69f",
+      "claimId": "Q6138903$3A79B5D8-7A7F-4D05-A3BA-48512632C207",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2011-08-02",
+      "precision": 11,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-3efe8db59984bd1c1a67",
+      "factId": "fact-8954e24a3d327761d69f",
+      "claimId": "Q6138903$3A79B5D8-7A7F-4D05-A3BA-48512632C207",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2008-12-16",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-81a3db8915f7ab004806",
+      "factId": "fact-0ead15f3cde25a90d9bf",
+      "claimId": "Q6138903$DB2F9D41-048E-462D-AA73-BC69C14DF0A7",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1971-04-24",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1378356421",
+        "https://en.wikipedia.org/wiki/James_Marape",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q6138903"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "詹姆斯·马拉佩",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "职业",
+          "value": "政治人物",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "国籍",
+          "value": "巴布亚新几内亚",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "来源所记出生日期",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "出生地",
+          "value": "塔里",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "就读机构",
+          "value": "巴布亞紐幾內亞大學",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "担任职务",
+          "value": "Minister of National Planning",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "担任职务",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "担任职务",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "担任职务",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "担任职务",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "担任职务",
+          "value": "巴布亚新几内亚总理",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: Minister of National Planning",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "担任职务: Minister for Bougainville Affairs",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: Minister for Bougainville Affairs",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: 巴布亚新几内亚总理",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "担任职务: Minister of Finance",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: member of the 10th National Parliament of Papua New Guinea",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "担任职务: Minister of Finance",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "担任职务: Minister of Education",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: Minister of Education",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1971-04-24",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "James Marape",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "Occupation",
+          "value": "politician",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "Citizenship",
+          "value": "Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "Source-reported birth date",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "Place of birth",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "Educational institution",
+          "value": "University of Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "Position held",
+          "value": "Minister of National Planning",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "Position held",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "Position held",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "Position held",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "Position held",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "Position held",
+          "value": "Prime Minister of Papua New Guinea",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: Minister of National Planning",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Position held: Minister for Bougainville Affairs",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: Minister for Bougainville Affairs",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: Prime Minister of Papua New Guinea",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "Position held: Minister of Finance",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: member of the 10th National Parliament of Papua New Guinea",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Position held: Minister of Finance",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "Position held: Minister of Education",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: Minister of Education",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1971-04-24",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "James Marape",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "Profession",
+          "value": "personnalité politique",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "Nationalité",
+          "value": "Papouasie-Nouvelle-Guinée",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "Lieu de naissance",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "Établissement fréquenté",
+          "value": "Université de Papouasie-Nouvelle-Guinée",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "Fonction exercée",
+          "value": "Ministre de la Planification nationale",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "Fonction exercée",
+          "value": "membre du 10e parlement national de Papouasie-Nouvelle-Guinée",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "Fonction exercée",
+          "value": "Ministre de l'éducation",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "Fonction exercée",
+          "value": "Ministre des Affaires de Bougainville",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "Fonction exercée",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "Fonction exercée",
+          "value": "Premier ministre de Papouasie-Nouvelle-Guinée",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: Ministre de la Planification nationale",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Fonction exercée: Ministre des Affaires de Bougainville",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: Ministre des Affaires de Bougainville",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: Premier ministre de Papouasie-Nouvelle-Guinée",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "Fonction exercée: Minister of Finance",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: membre du 10e parlement national de Papouasie-Nouvelle-Guinée",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Fonction exercée: Minister of Finance",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "Fonction exercée: Ministre de l'éducation",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: Ministre de l'éducation",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1971-04-24",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "جيمس مارب",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "المهنة",
+          "value": "سياسي",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "الجنسية",
+          "value": "بابوا غينيا الجديدة",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "مكان الميلاد",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "المؤسسة التعليمية",
+          "value": "University of Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "المنصب",
+          "value": "وزير التخطيط الوطني",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "المنصب",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "المنصب",
+          "value": "وزير التربية والتعليم في بابوا غينيا الجديدة",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "المنصب",
+          "value": "وزير شؤون بوغانفيل",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "المنصب",
+          "value": "وزير المالية",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "المنصب",
+          "value": "رئيس وزراء بابوا غينيا الجديدة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: وزير التخطيط الوطني",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "المنصب: وزير شؤون بوغانفيل",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: وزير شؤون بوغانفيل",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: رئيس وزراء بابوا غينيا الجديدة",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "المنصب: وزير المالية",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: member of the 10th National Parliament of Papua New Guinea",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "المنصب: وزير المالية",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "المنصب: وزير التربية والتعليم في بابوا غينيا الجديدة",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: وزير التربية والتعليم في بابوا غينيا الجديدة",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1971-04-24",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "James Marape",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "Beruf",
+          "value": "Politiker",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "Staatsangehörigkeit",
+          "value": "Papua-Neuguinea",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "Geburtsort",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "Bildungseinrichtung",
+          "value": "University of Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "Ausgeübtes Amt",
+          "value": "Minister of National Planning",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "Ausgeübtes Amt",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "Ausgeübtes Amt",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "Ausgeübtes Amt",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "Ausgeübtes Amt",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "Ausgeübtes Amt",
+          "value": "Premierminister von Papua-Neuguinea",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Minister of National Planning",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Minister for Bougainville Affairs",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Minister for Bougainville Affairs",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Premierminister von Papua-Neuguinea",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Minister of Finance",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: member of the 10th National Parliament of Papua New Guinea",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Minister of Finance",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Minister of Education",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Minister of Education",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1971-04-24",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ジェームズ・マラぺ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "職業",
+          "value": "政治家",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "国籍",
+          "value": "パプアニューギニア",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "出典に記載された生年月日",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "出生地",
+          "value": "タリ",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "在籍した教育機関",
+          "value": "University of Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "役職",
+          "value": "Minister of National Planning",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "役職",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "役職",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "役職",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "役職",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "役職",
+          "value": "パプアニューギニアの首相",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: Minister of National Planning",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "役職: Minister for Bougainville Affairs",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: Minister for Bougainville Affairs",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: パプアニューギニアの首相",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "役職: Minister of Finance",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: member of the 10th National Parliament of Papua New Guinea",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "役職: Minister of Finance",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "役職: Minister of Education",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: Minister of Education",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1971-04-24",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "James Marape",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "Ocupación",
+          "value": "político",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "Nacionalidad",
+          "value": "Papúa Nueva Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "Lugar de nacimiento",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "Institución educativa",
+          "value": "Universidad de Papúa Nueva Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "Cargo desempeñado",
+          "value": "Minister of National Planning",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "Cargo desempeñado",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "Cargo desempeñado",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "Cargo desempeñado",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "Cargo desempeñado",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "Cargo desempeñado",
+          "value": "Primer ministro de Papúa Nueva Guinea",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: Minister of National Planning",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Cargo desempeñado: Minister for Bougainville Affairs",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: Minister for Bougainville Affairs",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: Primer ministro de Papúa Nueva Guinea",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "Cargo desempeñado: Minister of Finance",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: member of the 10th National Parliament of Papua New Guinea",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Cargo desempeñado: Minister of Finance",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "Cargo desempeñado: Minister of Education",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: Minister of Education",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1971-04-24",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "제임스 마라페",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-fc1ac62b52b5340fca1f",
+          "label": "직업",
+          "value": "정치인",
+          "notes": []
+        },
+        {
+          "id": "fact-a5716b0934ab865c3e7d",
+          "label": "국적",
+          "value": "파푸아뉴기니",
+          "notes": []
+        },
+        {
+          "id": "fact-0ead15f3cde25a90d9bf",
+          "label": "출처에 기재된 출생일",
+          "value": "1971-04-24",
+          "notes": []
+        },
+        {
+          "id": "fact-a7a9aba3d757db517d30",
+          "label": "출생지",
+          "value": "Tari",
+          "notes": []
+        },
+        {
+          "id": "fact-ae4c98be2bbb3674135d",
+          "label": "교육 기관",
+          "value": "University of Papua New Guinea",
+          "notes": []
+        },
+        {
+          "id": "fact-05f6a664bd0fecc993d2",
+          "label": "직책",
+          "value": "Minister of National Planning",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-67923f42a7c2a1435945",
+          "label": "직책",
+          "value": "member of the 10th National Parliament of Papua New Guinea",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-8954e24a3d327761d69f",
+          "label": "직책",
+          "value": "Minister of Education",
+          "notes": []
+        },
+        {
+          "id": "fact-8ffc235df7642cbb8eee",
+          "label": "직책",
+          "value": "Minister for Bougainville Affairs",
+          "notes": []
+        },
+        {
+          "id": "fact-eb4a7206f5d3c352cc30",
+          "label": "직책",
+          "value": "Minister of Finance",
+          "notes": []
+        },
+        {
+          "id": "fact-eca0a7b38abe0bc87f46",
+          "label": "직책",
+          "value": "파푸아뉴기니의 총리",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-79508114012a7de6d0d3",
+          "factId": "fact-05f6a664bd0fecc993d2",
+          "date": "2022-08-11",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: Minister of National Planning",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-c33c5418c4d77528a16c",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2022-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "직책: Minister for Bougainville Affairs",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-d783cd8055b947d1d896",
+          "factId": "fact-8ffc235df7642cbb8eee",
+          "date": "2020-12-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: Minister for Bougainville Affairs",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-aff963d5ffca36639f31",
+          "factId": "fact-eca0a7b38abe0bc87f46",
+          "date": "2019-05-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: 파푸아뉴기니의 총리",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-b21f048239141124af9e",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2019-04-11",
+          "precision": 11,
+          "kind": "end",
+          "title": "직책: Minister of Finance",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-71b49bb8ad5583b73191",
+          "factId": "fact-67923f42a7c2a1435945",
+          "date": "2017-07-08",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: member of the 10th National Parliament of Papua New Guinea",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-3649c71d7f3e07ca3627",
+          "factId": "fact-eb4a7206f5d3c352cc30",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "직책: Minister of Finance",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-33d6d568284b8416584b",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2011-08-02",
+          "precision": 11,
+          "kind": "end",
+          "title": "직책: Minister of Education",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-3efe8db59984bd1c1a67",
+          "factId": "fact-8954e24a3d327761d69f",
+          "date": "2008-12-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: Minister of Education",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-81a3db8915f7ab004806",
+          "factId": "fact-0ead15f3cde25a90d9bf",
+          "date": "1971-04-24",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1971-04-24",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q3408680"
+      },
+      {
+        "locale": "ar",
+        "key": "Q780975"
+      },
+      {
+        "locale": "ar",
+        "key": "Q86447120"
+      },
+      {
+        "locale": "de",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "de",
+        "key": "Q113575679"
+      },
+      {
+        "locale": "de",
+        "key": "Q114496187"
+      },
+      {
+        "locale": "de",
+        "key": "Q114496735"
+      },
+      {
+        "locale": "de",
+        "key": "Q86447120"
+      },
+      {
+        "locale": "es",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "es",
+        "key": "Q113575679"
+      },
+      {
+        "locale": "es",
+        "key": "Q114496187"
+      },
+      {
+        "locale": "es",
+        "key": "Q114496735"
+      },
+      {
+        "locale": "es",
+        "key": "Q3408680"
+      },
+      {
+        "locale": "es",
+        "key": "Q86447120"
+      },
+      {
+        "locale": "fr",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "ja",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "ja",
+        "key": "Q113575679"
+      },
+      {
+        "locale": "ja",
+        "key": "Q114496187"
+      },
+      {
+        "locale": "ja",
+        "key": "Q114496735"
+      },
+      {
+        "locale": "ja",
+        "key": "Q780975"
+      },
+      {
+        "locale": "ja",
+        "key": "Q86447120"
+      },
+      {
+        "locale": "ko",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "ko",
+        "key": "Q113575679"
+      },
+      {
+        "locale": "ko",
+        "key": "Q114496187"
+      },
+      {
+        "locale": "ko",
+        "key": "Q114496735"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3408680"
+      },
+      {
+        "locale": "ko",
+        "key": "Q780975"
+      },
+      {
+        "locale": "ko",
+        "key": "Q86447120"
+      },
+      {
+        "locale": "zh",
+        "key": "Q113575677"
+      },
+      {
+        "locale": "zh",
+        "key": "Q113575679"
+      },
+      {
+        "locale": "zh",
+        "key": "Q114496187"
+      },
+      {
+        "locale": "zh",
+        "key": "Q114496735"
+      },
+      {
+        "locale": "zh",
+        "key": "Q86447120"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q3408680",
+        "fallbackLocale": "en",
+        "value": "Tari",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q780975",
+        "fallbackLocale": "en",
+        "value": "University of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q113575679",
+        "fallbackLocale": "en",
+        "value": "Minister of Education",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q114496187",
+        "fallbackLocale": "en",
+        "value": "Minister for Bougainville Affairs",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q114496735",
+        "fallbackLocale": "en",
+        "value": "Minister of National Planning",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q113575679",
+        "fallbackLocale": "en",
+        "value": "Minister of Education",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q114496187",
+        "fallbackLocale": "en",
+        "value": "Minister for Bougainville Affairs",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q114496735",
+        "fallbackLocale": "en",
+        "value": "Minister of National Planning",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q3408680",
+        "fallbackLocale": "en",
+        "value": "Tari",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q113575679",
+        "fallbackLocale": "en",
+        "value": "Minister of Education",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q114496187",
+        "fallbackLocale": "en",
+        "value": "Minister for Bougainville Affairs",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q114496735",
+        "fallbackLocale": "en",
+        "value": "Minister of National Planning",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q780975",
+        "fallbackLocale": "en",
+        "value": "University of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q113575679",
+        "fallbackLocale": "en",
+        "value": "Minister of Education",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q114496187",
+        "fallbackLocale": "en",
+        "value": "Minister for Bougainville Affairs",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q114496735",
+        "fallbackLocale": "en",
+        "value": "Minister of National Planning",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3408680",
+        "fallbackLocale": "en",
+        "value": "Tari",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q780975",
+        "fallbackLocale": "en",
+        "value": "University of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q113575677",
+        "fallbackLocale": "en",
+        "value": "Minister of Finance",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q113575679",
+        "fallbackLocale": "en",
+        "value": "Minister of Education",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q114496187",
+        "fallbackLocale": "en",
+        "value": "Minister for Bougainville Affairs",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q114496735",
+        "fallbackLocale": "en",
+        "value": "Minister of National Planning",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q86447120",
+        "fallbackLocale": "en",
+        "value": "member of the 10th National Parliament of Papua New Guinea",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 10,
+    "professionalEventCount": 9,
+    "factCount": 11,
+    "factsWithoutExternalReference": 11,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

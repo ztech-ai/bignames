@@ -12,7 +12,11 @@
     "i18n:export": "node scripts/i18n.mjs export",
     "i18n:import": "node scripts/i18n.mjs import",
     "i18n:check": "node scripts/i18n.mjs check",
-    "i18n:enable": "node scripts/i18n.mjs enable"
+    "i18n:enable": "node scripts/i18n.mjs enable",
+    "collection:assemble": "node scripts/assemble-collection.mjs",
+    "research:fetch": "python3 scripts/research-fetch.py --roster data/collections/contemporary-1000.json --resume",
+    "research:drafts": "node scripts/research-drafts.mjs",
+    "research:test": "python3 tests/research-fetch.test.py"
   },
   "engines": {
     "node": "^22.22.2 || ^24.15.0 || >=26.0.0"

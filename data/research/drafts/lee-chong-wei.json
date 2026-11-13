@@ -1,0 +1,4307 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "lee-chong-wei",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/lee-chong-wei.json",
+    "sha256": "61b977170aa4c40096437f28782e01aea30914726fcb5e35eac7b27f220f21f6",
+    "capturedAt": "2026-11-13T11:25:59Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+      "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+      "https://www.wikidata.org/wiki/Q319346"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q319346",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Lee Chong Wei",
+    "sourceIdentity": {
+      "requestedName": "Lee Chong Wei",
+      "requestedTitle": "Lee Chong Wei",
+      "resolvedTitle": "Lee Chong Wei",
+      "wikidataId": "Q319346",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-5f49a82932cb9de9bdee",
+      "property": "P106",
+      "claimId": "Q319346$79C00BA2-2CD9-4355-A4B8-2C02DA4C519B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 58825429,
+          "id": "Q58825429"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2008-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-790bb893ceee2f5d4f2b",
+      "property": "P106",
+      "claimId": "Q319346$AF0094AB-0713-4F4D-ABF0-E1785B7A94C8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 13141064,
+          "id": "Q13141064"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC",
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-880d2a01edecd993e4df",
+      "property": "P27",
+      "claimId": "Q319346$B7682BA1-02F9-4B2F-9ADD-E3E281E9A333",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 833,
+          "id": "Q833"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://espn.go.com/olympics/summer/2012/badminton/story/_/id/8235883/2012-summer-olympics-china-lin-dan-becomes-first-repeat-male-badminton-champion"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://espn.go.com/olympics/summer/2012/badminton/story/_/id/8235883/2012-summer-olympics-china-lin-dan-becomes-first-repeat-male-badminton-champion",
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC",
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [
+        "http://espn.go.com/olympics/summer/2012/badminton/story/_/id/8235883/2012-summer-olympics-china-lin-dan-becomes-first-repeat-male-badminton-champion",
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-9cc71fb1736abe69eb5d",
+      "property": "P569",
+      "claimId": "Q319346$B391A207-DED8-4615-BB47-85827F020A09",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1982-10-21T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1982-10-21"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.bbc.co.uk/sport/olympics/2012/athletes/ff10e94a-0cfc-441b-ac6c-a44f73b81aa7"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.sports-reference.com/olympics/athletes/le/lee-chong-wei-1.html"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.bbc.co.uk/sport/olympics/2012/athletes/ff10e94a-0cfc-441b-ac6c-a44f73b81aa7",
+        "http://www.sports-reference.com/olympics/athletes/le/lee-chong-wei-1.html",
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC",
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [
+        "http://www.bbc.co.uk/sport/olympics/2012/athletes/ff10e94a-0cfc-441b-ac6c-a44f73b81aa7",
+        "http://www.sports-reference.com/olympics/athletes/le/lee-chong-wei-1.html",
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1982-10-21T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1982-10-21",
+        "earliest": "1982-10-21",
+        "latest": "1982-10-21",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-50bd3521fb2a782a6b86",
+      "property": "P19",
+      "claimId": "Q319346$35FF7A17-5BA4-40E1-A998-373067A15F0F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2711360,
+          "id": "Q2711360"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://zeenews.india.com/sports/others/positive-test-could-spell-the-end-for-lee-chong-wei_1496170.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://zeenews.india.com/sports/others/positive-test-could-spell-the-end-for-lee-chong-wei_1496170.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [
+        "http://zeenews.india.com/sports/others/positive-test-could-spell-the-end-for-lee-chong-wei_1496170.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-03e9a0a38b1760ff2ea3",
+      "property": "P166",
+      "claimId": "Q319346$35b00fbd-4b7a-021d-0af2-3afee2534bfd",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7325275,
+          "id": "Q7325275"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0cbdbf09316a6e5d8862",
+      "property": "P166",
+      "claimId": "Q319346$CD24416B-7113-4FB7-A603-0A2C059B6B00",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 120669871,
+          "id": "Q120669871"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-397aa211f1a64a3a4fb7",
+      "property": "P166",
+      "claimId": "Q319346$27d157a9-480b-103d-d75c-3fb15893cf87",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 799608,
+          "id": "Q799608"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2023-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2023"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2023-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2023",
+          "earliest": "2023-01-01",
+          "latest": "2023-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-40ad6546b3a9368c6ee9",
+      "property": "P166",
+      "claimId": "Q319346$0865a0f6-45c9-a14c-02ff-95ebfb88385f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 66765247,
+          "id": "Q66765247"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-647a8df50588528292d0",
+      "property": "P166",
+      "claimId": "Q319346$857F6399-872D-481A-B83E-C5AD4E3E87BF",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 15889641,
+          "id": "Q15889641"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-803cce950b2471bb3d4f",
+      "property": "P166",
+      "claimId": "Q319346$cc91f041-46c2-ab56-1cdd-82558bc3221f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1232174,
+          "id": "Q1232174"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-98922a757eb3486c19d2",
+      "property": "P166",
+      "claimId": "Q319346$61763123-F426-415B-BE52-8F403493784A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 120669892,
+          "id": "Q120669892"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-aabd60a74e43750b71e3",
+      "property": "P166",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 19646044,
+          "id": "Q19646044"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2005-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2005"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2009-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2009"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          },
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2005-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2005",
+          "earliest": "2005-01-01",
+          "latest": "2005-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2008-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2009-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2009",
+          "earliest": "2009-01-01",
+          "latest": "2009-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2010-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2011-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2013-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P585",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b3ec5f472d436170c764",
+      "property": "P166",
+      "claimId": "Q319346$E757F7B5-061E-45C2-AFFF-3B5F3DB32B61",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 120670030,
+          "id": "Q120670030"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d67cfc279e5586efc5be",
+      "property": "P166",
+      "claimId": "Q319346$62d3de70-46a7-0216-aee8-76c004e9a028",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2125560,
+          "id": "Q2125560"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ff3c0a830580b71ee3d1",
+      "property": "P166",
+      "claimId": "Q319346$d32ff5b2-4f06-6435-68e9-6560c646c0b9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2074734,
+          "id": "Q2074734"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-f7a7dc9d1fe180074acd",
+      "factId": "fact-397aa211f1a64a3a4fb7",
+      "claimId": "Q319346$27d157a9-480b-103d-d75c-3fb15893cf87",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2023",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-26c00b8c209221f6e3f7",
+      "factId": "fact-647a8df50588528292d0",
+      "claimId": "Q319346$857F6399-872D-481A-B83E-C5AD4E3E87BF",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2016",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-466007c83c7731ea2fba",
+      "factId": "fact-40ad6546b3a9368c6ee9",
+      "claimId": "Q319346$0865a0f6-45c9-a14c-02ff-95ebfb88385f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2016",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f34bf3f9dd6318ca51de",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2016",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-0ca49fbe12d57ce97d23",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2014",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-cab89fbaac7390f4da72",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2013",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-46efb2e99697f08b2e46",
+      "factId": "fact-647a8df50588528292d0",
+      "claimId": "Q319346$857F6399-872D-481A-B83E-C5AD4E3E87BF",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-94fffc0ba6e0c21d69f3",
+      "factId": "fact-40ad6546b3a9368c6ee9",
+      "claimId": "Q319346$0865a0f6-45c9-a14c-02ff-95ebfb88385f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c22d6759462005079658",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-62d2097c46264e6e7863",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2011",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ae048692b4523cbcb0d3",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2010",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4893694f42b80154f79e",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2009",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-240f88ad27013f7a7889",
+      "factId": "fact-647a8df50588528292d0",
+      "claimId": "Q319346$857F6399-872D-481A-B83E-C5AD4E3E87BF",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8ec90a7246f4516d1d1f",
+      "factId": "fact-40ad6546b3a9368c6ee9",
+      "claimId": "Q319346$0865a0f6-45c9-a14c-02ff-95ebfb88385f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ffacf055abd220fd0690",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f4f78677a64e2aba862f",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2005",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-de46f820090fb536778e",
+      "factId": "fact-aabd60a74e43750b71e3",
+      "claimId": "Q319346$115C883B-D747-4F05-B264-459B64991846",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2004",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8fdac8f2693e64dfd647",
+      "factId": "fact-9cc71fb1736abe69eb5d",
+      "claimId": "Q319346$B391A207-DED8-4615-BB47-85827F020A09",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1982-10-21",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "http://www.bbc.co.uk/sport/olympics/2012/athletes/ff10e94a-0cfc-441b-ac6c-a44f73b81aa7",
+        "http://www.sports-reference.com/olympics/athletes/le/lee-chong-wei-1.html",
+        "https://bwf.tournamentsoftware.com/player-profile/2E62073C-AD95-40BE-8364-0A2EC054A4AC",
+        "https://en.wikipedia.org/w/index.php?oldid=1385042663",
+        "https://en.wikipedia.org/wiki/Lee_Chong_Wei",
+        "https://www.wikidata.org/wiki/Q319346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "李宗伟",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "职业",
+          "value": "奥运会选手",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "职业",
+          "value": "羽毛球運動員",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "国籍",
+          "value": "馬來西亞",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "来源所记出生日期",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "出生地",
+          "value": "峇眼色海",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "奖项",
+          "value": "国家领袖勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "奖项",
+          "value": "亚洲冠军",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "奖项",
+          "value": "羽毛球世界聯會名人堂",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "奖项",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "奖项",
+          "value": "奧運銀牌",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "奖项",
+          "value": "拿督",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "奖项",
+          "value": "全国冠军",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "奖项",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "奖项",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "奖项",
+          "value": "功绩勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "奖项",
+          "value": "马来西亚护国勋章",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 羽毛球世界聯會名人堂",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 奧運銀牌",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Olympian of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 奧運銀牌",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Olympian of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 奧運銀牌",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Olympian of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1982-10-21",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Lee Chong Wei",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "Occupation",
+          "value": "Olympic competitor",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "Occupation",
+          "value": "badminton player",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "Citizenship",
+          "value": "Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "Source-reported birth date",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "Place of birth",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "Award",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "Award",
+          "value": "Asian champion",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "Award",
+          "value": "Badminton Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "Award",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "Award",
+          "value": "Olympic silver medal",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "Award",
+          "value": "Datuk",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "Award",
+          "value": "national champion",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "Award",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "Award",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "Award",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "Award",
+          "value": "Order of the Defender of the Realm",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Badminton Hall of Fame",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympic silver medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympian of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympic silver medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympian of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympic silver medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Olympian of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1982-10-21",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Lee Chong Wei",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "Profession",
+          "value": "sportif olympique",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "Profession",
+          "value": "badiste",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "Nationalité",
+          "value": "Malaisie",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "Lieu de naissance",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "Distinction",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "Distinction",
+          "value": "Asian champion",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "Distinction",
+          "value": "Badminton Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "Distinction",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "Distinction",
+          "value": "médaille d'argent olympique",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "Distinction",
+          "value": "Datuk",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "Distinction",
+          "value": "champion national ou     championne nationale",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "Distinction",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "Distinction",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "Distinction",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "Distinction",
+          "value": "ordre du Défenseur du Royaume",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Badminton Hall of Fame",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille d'argent olympique",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Olympian of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille d'argent olympique",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Olympian of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille d'argent olympique",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Olympian of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1982-10-21",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "لي تشونغ وي",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "المهنة",
+          "value": "متسابق أولمبي",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "المهنة",
+          "value": "لاعب ريشة طائرة",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "الجنسية",
+          "value": "ماليزيا",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "مكان الميلاد",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "الجائزة",
+          "value": "وسام الخدمة المتميزة الماليزية",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "الجائزة",
+          "value": "Asian champion",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "الجائزة",
+          "value": "قاعة مشاهير كرة الريشة",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "الجائزة",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "الجائزة",
+          "value": "ميدالية فضية أولمبية",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "الجائزة",
+          "value": "Datuk",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "الجائزة",
+          "value": "بطل وطني",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "الجائزة",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "الجائزة",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "الجائزة",
+          "value": "وسام الاستحقاق الماليزي",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "الجائزة",
+          "value": "وسام المدافع عن المملكة",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: قاعة مشاهير كرة الريشة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية فضية أولمبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Olympian of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية فضية أولمبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Olympian of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية فضية أولمبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Olympian of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1982-10-21",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Lee Chong Wei",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "Beruf",
+          "value": "Olympiateilnehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "Beruf",
+          "value": "Badmintonspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "Staatsangehörigkeit",
+          "value": "Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "Geburtsort",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "Auszeichnung",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "Auszeichnung",
+          "value": "Asienmeister",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "Auszeichnung",
+          "value": "Badminton Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "Auszeichnung",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "Auszeichnung",
+          "value": "Olympische Silbermedaille",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "Auszeichnung",
+          "value": "Datuk",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "Auszeichnung",
+          "value": "nationaler Meister",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "Auszeichnung",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "Auszeichnung",
+          "value": "Commonwealth-Games-Sieger",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "Auszeichnung",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "Auszeichnung",
+          "value": "Order of the Defender of the Realm",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Badminton Hall of Fame",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympische Silbermedaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympian of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympische Silbermedaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympian of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympische Silbermedaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Olympian of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1982-10-21",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "リー・チョンウェイ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "職業",
+          "value": "オリンピック選手",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "職業",
+          "value": "バドミントン選手",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "国籍",
+          "value": "マレーシア",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "出典に記載された生年月日",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "出生地",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "受賞",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "受賞",
+          "value": "アジアチャンピオン",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "受賞",
+          "value": "バドミントン殿堂",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "受賞",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "受賞",
+          "value": "オリンピック銀メダル",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "受賞",
+          "value": "ダトゥク",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "受賞",
+          "value": "全国チャンピオン",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "受賞",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "受賞",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "受賞",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "受賞",
+          "value": "防衛部門勲章",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: バドミントン殿堂",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: オリンピック銀メダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Olympian of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: オリンピック銀メダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Olympian of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: オリンピック銀メダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Olympian of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1982-10-21",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Lee Chong Wei",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "Ocupación",
+          "value": "deportista olímpico",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "Ocupación",
+          "value": "badmintonista",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "Nacionalidad",
+          "value": "Malasia",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "Lugar de nacimiento",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "Distinción",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "Distinción",
+          "value": "campeón de Asia",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "Distinción",
+          "value": "Salón de la Fama del Badminton",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "Distinción",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "Distinción",
+          "value": "medalla de plata olímpica",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "Distinción",
+          "value": "datuk",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "Distinción",
+          "value": "campeón nacional",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "Distinción",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "Distinción",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "Distinción",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "Distinción",
+          "value": "Order of the Defender of the Realm",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Salón de la Fama del Badminton",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: medalla de plata olímpica",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Olympian of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: medalla de plata olímpica",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Olympian of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: medalla de plata olímpica",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Olympian of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1982-10-21",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "리총웨이",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5f49a82932cb9de9bdee",
+          "label": "직업",
+          "value": "Olympic competitor",
+          "notes": []
+        },
+        {
+          "id": "fact-790bb893ceee2f5d4f2b",
+          "label": "직업",
+          "value": "배드민턴 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-880d2a01edecd993e4df",
+          "label": "국적",
+          "value": "말레이시아",
+          "notes": []
+        },
+        {
+          "id": "fact-9cc71fb1736abe69eb5d",
+          "label": "출처에 기재된 출생일",
+          "value": "1982-10-21",
+          "notes": []
+        },
+        {
+          "id": "fact-50bd3521fb2a782a6b86",
+          "label": "출생지",
+          "value": "Bagan Serai",
+          "notes": []
+        },
+        {
+          "id": "fact-03e9a0a38b1760ff2ea3",
+          "label": "수상",
+          "value": "Commander of Order of Meritorious Service",
+          "notes": []
+        },
+        {
+          "id": "fact-0cbdbf09316a6e5d8862",
+          "label": "수상",
+          "value": "Asian champion",
+          "notes": []
+        },
+        {
+          "id": "fact-397aa211f1a64a3a4fb7",
+          "label": "수상",
+          "value": "배드민턴 명예의 전당",
+          "notes": []
+        },
+        {
+          "id": "fact-40ad6546b3a9368c6ee9",
+          "label": "수상",
+          "value": "Olympian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-647a8df50588528292d0",
+          "label": "수상",
+          "value": "올림픽 은메달",
+          "notes": []
+        },
+        {
+          "id": "fact-803cce950b2471bb3d4f",
+          "label": "수상",
+          "value": "다툭",
+          "notes": []
+        },
+        {
+          "id": "fact-98922a757eb3486c19d2",
+          "label": "수상",
+          "value": "national champion",
+          "notes": []
+        },
+        {
+          "id": "fact-aabd60a74e43750b71e3",
+          "label": "수상",
+          "value": "Anugerah Sukan Negara for Sportsman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-b3ec5f472d436170c764",
+          "label": "수상",
+          "value": "Commonwealth Games champion",
+          "notes": []
+        },
+        {
+          "id": "fact-d67cfc279e5586efc5be",
+          "label": "수상",
+          "value": "Order of Merit of Malaysia",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3c0a830580b71ee3d1",
+          "label": "수상",
+          "value": "Order of the Defender of the Realm",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f7a7dc9d1fe180074acd",
+          "factId": "fact-397aa211f1a64a3a4fb7",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 배드민턴 명예의 전당",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-26c00b8c209221f6e3f7",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 올림픽 은메달",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-466007c83c7731ea2fba",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Olympian of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f34bf3f9dd6318ca51de",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2016",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-0ca49fbe12d57ce97d23",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-cab89fbaac7390f4da72",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-46efb2e99697f08b2e46",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 올림픽 은메달",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-94fffc0ba6e0c21d69f3",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Olympian of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c22d6759462005079658",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-62d2097c46264e6e7863",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ae048692b4523cbcb0d3",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4893694f42b80154f79e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2009",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-240f88ad27013f7a7889",
+          "factId": "fact-647a8df50588528292d0",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 올림픽 은메달",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8ec90a7246f4516d1d1f",
+          "factId": "fact-40ad6546b3a9368c6ee9",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Olympian of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ffacf055abd220fd0690",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f4f78677a64e2aba862f",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-de46f820090fb536778e",
+          "factId": "fact-aabd60a74e43750b71e3",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Anugerah Sukan Negara for Sportsman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8fdac8f2693e64dfd647",
+          "factId": "fact-9cc71fb1736abe69eb5d",
+          "date": "1982-10-21",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1982-10-21",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q120669871"
+      },
+      {
+        "locale": "ar",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "ar",
+        "key": "Q1232174"
+      },
+      {
+        "locale": "ar",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "ar",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "ar",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "de",
+        "key": "Q1232174"
+      },
+      {
+        "locale": "de",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "de",
+        "key": "Q2074734"
+      },
+      {
+        "locale": "de",
+        "key": "Q2125560"
+      },
+      {
+        "locale": "de",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "de",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "de",
+        "key": "Q7325275"
+      },
+      {
+        "locale": "es",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "es",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "es",
+        "key": "Q2074734"
+      },
+      {
+        "locale": "es",
+        "key": "Q2125560"
+      },
+      {
+        "locale": "es",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "es",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "es",
+        "key": "Q7325275"
+      },
+      {
+        "locale": "fr",
+        "key": "Q120669871"
+      },
+      {
+        "locale": "fr",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "fr",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "fr",
+        "key": "Q2125560"
+      },
+      {
+        "locale": "fr",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "fr",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "fr",
+        "key": "Q7325275"
+      },
+      {
+        "locale": "fr",
+        "key": "Q799608"
+      },
+      {
+        "locale": "ja",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "ja",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "ja",
+        "key": "Q2125560"
+      },
+      {
+        "locale": "ja",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "ja",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "ja",
+        "key": "Q7325275"
+      },
+      {
+        "locale": "ko",
+        "key": "Q120669871"
+      },
+      {
+        "locale": "ko",
+        "key": "Q120669892"
+      },
+      {
+        "locale": "ko",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "ko",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2074734"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2125560"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2711360"
+      },
+      {
+        "locale": "ko",
+        "key": "Q58825429"
+      },
+      {
+        "locale": "ko",
+        "key": "Q66765247"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7325275"
+      },
+      {
+        "locale": "zh",
+        "key": "Q120670030"
+      },
+      {
+        "locale": "zh",
+        "key": "Q19646044"
+      },
+      {
+        "locale": "zh",
+        "key": "Q66765247"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q120669871",
+        "fallbackLocale": "en",
+        "value": "Asian champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q1232174",
+        "fallbackLocale": "en",
+        "value": "Datuk",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q1232174",
+        "fallbackLocale": "en",
+        "value": "Datuk",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q2074734",
+        "fallbackLocale": "en",
+        "value": "Order of the Defender of the Realm",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q2125560",
+        "fallbackLocale": "en",
+        "value": "Order of Merit of Malaysia",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7325275",
+        "fallbackLocale": "en",
+        "value": "Commander of Order of Meritorious Service",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q2074734",
+        "fallbackLocale": "en",
+        "value": "Order of the Defender of the Realm",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q2125560",
+        "fallbackLocale": "en",
+        "value": "Order of Merit of Malaysia",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7325275",
+        "fallbackLocale": "en",
+        "value": "Commander of Order of Meritorious Service",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q120669871",
+        "fallbackLocale": "en",
+        "value": "Asian champion",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q2125560",
+        "fallbackLocale": "en",
+        "value": "Order of Merit of Malaysia",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q7325275",
+        "fallbackLocale": "en",
+        "value": "Commander of Order of Meritorious Service",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q799608",
+        "fallbackLocale": "en",
+        "value": "Badminton Hall of Fame",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q2125560",
+        "fallbackLocale": "en",
+        "value": "Order of Merit of Malaysia",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q7325275",
+        "fallbackLocale": "en",
+        "value": "Commander of Order of Meritorious Service",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q120669871",
+        "fallbackLocale": "en",
+        "value": "Asian champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q120669892",
+        "fallbackLocale": "en",
+        "value": "national champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2074734",
+        "fallbackLocale": "en",
+        "value": "Order of the Defender of the Realm",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2125560",
+        "fallbackLocale": "en",
+        "value": "Order of Merit of Malaysia",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2711360",
+        "fallbackLocale": "en",
+        "value": "Bagan Serai",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q58825429",
+        "fallbackLocale": "en",
+        "value": "Olympic competitor",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7325275",
+        "fallbackLocale": "en",
+        "value": "Commander of Order of Meritorious Service",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q120670030",
+        "fallbackLocale": "en",
+        "value": "Commonwealth Games champion",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q19646044",
+        "fallbackLocale": "en",
+        "value": "Anugerah Sukan Negara for Sportsman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q66765247",
+        "fallbackLocale": "en",
+        "value": "Olympian of the Year",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 18,
+    "professionalEventCount": 17,
+    "factCount": 16,
+    "factsWithoutExternalReference": 12,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

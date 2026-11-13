@@ -1,0 +1,1681 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "jeffrey-ullman",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "杰弗里·厄尔曼",
+    "enName": "Jeffrey Ullman",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "推动数据库理论、算法与编译技术研究，其教材对全球计算机科学教育具有长期影响。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "推动数据库理论、算法与编译技术研究，其教材对全球计算机科学教育具有长期影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:27Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Jeffrey Ullman",
+    "requestedTitle": "Jeffrey Ullman",
+    "resolvedTitle": "Jeffrey Ullman",
+    "wikidataId": "Q92794",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Ullman",
+      "title": "Jeffrey Ullman",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:27Z",
+      "revisionId": 1372019439,
+      "revisionTimestamp": "2026-08-29T21:35:59Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1372019439",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q92794",
+      "title": "Q92794",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:06:21Z",
+      "revisionId": 2556099120,
+      "revisionTimestamp": "2026-10-12T03:03:53Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Jeffrey David Ullman (born November 22, 1942) is an American computer scientist and the Stanford W. Ascherman Professor of Engineering, Emeritus, at Stanford University. His textbooks on compilers (various editions are popularly known as the dragon book), theory of computation (also known as the Cinderella book), data structures, and databases are regarded as standards in their fields. He and his long-time collaborator Alfred Aho are the recipients of the 2020 Turing Award, generally recognized as the highest distinction in computer science.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "ar": "جيفري أولمان",
+    "de": "Jeffrey Ullman",
+    "en": "Jeffrey David Ullman",
+    "es": "Jeffrey Ullman",
+    "fr": "Jeffrey Ullman",
+    "ja": "ジェフリー・ウルマン",
+    "ko": "제프리 울먼",
+    "zh": "傑佛瑞·烏爾曼"
+  },
+  "descriptions": {
+    "fr": "informaticien américain",
+    "en": "American computer scientist (born 1942)",
+    "de": "US-amerikanischer Informatiker",
+    "ja": "American computer researcher",
+    "es": "científico computacional",
+    "ar": "عالم حاسوب أمريكي",
+    "zh": "美国计算机科学家",
+    "ko": "미국 컴퓨터 과학자"
+  },
+  "languageArticles": {
+    "ar": "جيفري أولمان",
+    "de": "Jeffrey Ullman",
+    "en": "Jeffrey Ullman",
+    "es": "Jeffrey Ullman",
+    "fr": "Jeffrey Ullman",
+    "ja": "ジェフリー・ウルマン",
+    "ko": "제프리 울먼",
+    "zh": "杰弗瑞·乌尔曼"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q92794$8C5F5EB0-71F6-47F6-AC48-752812CD7B13",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q92794$17A4F1CB-003C-4951-A4DE-C8ED38576AEB",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1942-11-22T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1942-11-22"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29861311,
+                  "id": "Q29861311"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q92794$1965CE22-E30A-4102-A64C-FDDF7583A7BF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19938912,
+                  "id": "Q19938912"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-10-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-10-10"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q92794$8FCCAA9D-F3D4-4CC9-A599-8C38B163EAE7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1316544,
+            "id": "Q1316544"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1988-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1988"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q92794$5BE0F706-E1FE-47AD-B621-9AEBA8F81F28",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1165991,
+            "id": "Q1165991"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2000-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2000"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$CBAE0661-22D5-4240-A5CB-70AFE8E22E4E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 727274,
+            "id": "Q727274"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$CFE1949B-4A5C-4D03-BC96-67686965C5CC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10354964,
+            "id": "Q10354964"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q92794$CAB1FE4D-4C52-414C-888C-E1E5CA9945F7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748039,
+            "id": "Q18748039"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1995-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1995"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/fellows/award-recipients"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-23"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$F24ECCF6-BDFF-4099-8346-27CBC567716D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 52382875,
+            "id": "Q52382875"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92794$ee9af353-43a7-4be2-e299-d1ceb34ff02d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 185667,
+            "id": "Q185667"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/ullman_1054360"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-03-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-03-31"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$76fa010c-44a1-74c2-00d0-473f4c132090",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 42309824,
+            "id": "Q42309824"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1992-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1992"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.lamsade.dauphine.fr/fr/personnes/docteurs-honoris-causa.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q92794$A38A8CD1-97B0-4381-9EFF-38B3CBE54A93",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21578,
+            "id": "Q21578"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92794$B953BFFD-1058-436B-BDF8-BC909207A0F1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49088,
+            "id": "Q49088"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92794$EE41370D-8A00-4BB6-A58E-66E629BF7ABB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5149833,
+            "id": "Q5149833"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q92794$FE039BAB-9CBB-4790-99C3-9B11E8DF207D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$7E65794D-0DCE-4045-8056-D4D08DB9903B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1622272,
+            "id": "Q1622272"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$46F5A72E-DDA7-415A-B21E-A6E5A7C3C8C8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3400985,
+            "id": "Q3400985"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q92794$34605E2F-A0EC-48F3-B536-2498A43D21C0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92794$12CD203E-DA5E-4A76-B28C-1452D666D639",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1493021,
+            "id": "Q1493021"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1989-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1989"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q92794$CBE74C0A-6EAF-41E0-A845-CB22D276368D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 127992,
+            "id": "Q127992"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1995-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1995"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/fellows/award-recipients"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-23"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$db3b9c9c-412c-1899-802c-57163b9713f5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 270794,
+            "id": "Q270794"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q92794$9c8c4fcd-4701-4ab2-5594-9ff4681922bd",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "http://infolab.stanford.edu/~ullman/"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$BD502BA5-8D2B-4387-97AA-97235BE759A5",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://profiles.stanford.edu/jeffrey-ullman"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q92794$934298A4-7A3D-4CA0-9949-1725F9D30F3F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 41506,
+            "id": "Q41506"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q92794$07A457E8-EB18-4BB1-B507-C7D20757816A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 60,
+            "id": "Q60"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q92794$ECC38A6E-E8A1-4F5F-99E2-057032966DB2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4027615,
+            "id": "Q4027615"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92794$CF48DD01-0530-4A93-BB9A-1313B7B7782E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P1416": [
+      {
+        "id": "Q92794$D6F3EB1A-EA3C-4A15-A9A4-297B1FB027D9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16900659,
+            "id": "Q16900659"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://profiles.stanford.edu/jeffrey-ullman"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P166": "award",
+    "P69": "education",
+    "P106": "occupation",
+    "P463": "membership",
+    "P856": "officialWebsite",
+    "P108": "employer",
+    "P19": "birthPlace",
+    "P101": "fieldOfWork",
+    "P1416": "affiliation"
+  },
+  "relatedEntities": {
+    "Q10354964": {
+      "id": "Q10354964",
+      "fetchedAt": "2026-11-13T11:06:21Z",
+      "labels": {
+        "en": "SIGMOD Edgar F. Codd Innovations Award",
+        "ja": "SIGMODエドガー・F・コッド革新賞",
+        "zh": "SIGMOD埃德加·F·科德創新獎"
+      },
+      "descriptions": {
+        "en": "lifetime research achievement award"
+      }
+    },
+    "Q1165991": {
+      "id": "Q1165991",
+      "fetchedAt": "2026-11-13T11:06:21Z",
+      "labels": {
+        "fr": "prix Knuth",
+        "es": "Premio Knuth",
+        "en": "Knuth Prize",
+        "de": "Knuth-Preis",
+        "ja": "クヌース賞",
+        "zh": "高德納獎",
+        "ko": "크누스상"
+      },
+      "descriptions": {
+        "en": "prize given by ACM and IEEE for outstanding contributions to the foundations of computer science",
+        "de": "Preis",
+        "zh": "计算机科学奖"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q127992": {
+      "id": "Q127992",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Association for Computing Machinery",
+        "ko": "ACM",
+        "es": "Asociación de Maquinaria Computacional",
+        "de": "Association for Computing Machinery",
+        "ja": "Association for Computing Machinery",
+        "ar": "جمعية آلات الحوسبة",
+        "en": "Association for Computing Machinery",
+        "zh": "计算机协会"
+      },
+      "descriptions": {
+        "en": "international learned society for computing",
+        "ar": "رابطة علمية وتعليمية للحوسبة",
+        "zh": "計算機的國際學會",
+        "de": "wissenschaftliche Gesellschaft für Informatik",
+        "ja": "ニューヨークに本部のあるコンピュータ科学分野の国際学会",
+        "fr": "société savante, maison d'édition",
+        "ko": "세계 최초의 컴퓨터 분야의 학술과 교육을 목적으로 하는 각 분야 학회들의 연합체",
+        "es": "sociedad Científica Internacional estadounidense para la Computación"
+      }
+    },
+    "Q1316544": {
+      "id": "Q1316544",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "de": "Guggenheim-Stipendium",
+        "fr": "bourse Guggenheim",
+        "ko": "구겐하임 펠로십",
+        "en": "Guggenheim Fellowship",
+        "es": "Beca Guggenheim",
+        "ar": "زمالة غوغنهايم",
+        "zh": "古根海姆奖",
+        "ja": "グッゲンハイム研究奨学金"
+      },
+      "descriptions": {
+        "en": "grant in the arts, awarded annually",
+        "fr": "récompense américaine décernée annuellement par la Fondation John-Simon-Guggenheim",
+        "es": "beca anual otorgada por la John Simon Guggenheim Foundation",
+        "de": "US-amerikanische Studienförderung",
+        "ja": "アメリカ合衆国の奨学金"
+      }
+    },
+    "Q1493021": {
+      "id": "Q1493021",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "National Academy of Engineering",
+        "en": "National Academy of Engineering",
+        "fr": "Académie nationale d'ingénierie des États-Unis",
+        "ja": "全米技術アカデミー",
+        "zh": "美国国家工程院",
+        "ar": "الأكاديمية الوطنية للهندسة",
+        "es": "Academia Nacional de Ingeniería",
+        "ko": "미국 국립 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "engineering branch of the United States National Academies",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a la ingeniería",
+        "fr": "organisation privée à but non lucratif"
+      }
+    },
+    "Q1622272": {
+      "id": "Q1622272",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "de": "Hochschullehrer",
+        "fr": "professeur d'université",
+        "en": "university teacher",
+        "es": "profesor universitario",
+        "zh": "大學教師",
+        "ko": "대학 교수",
+        "ja": "大学教員",
+        "ar": "مُدرِّس جامعي"
+      },
+      "descriptions": {
+        "fr": "personnel enseignant en poste dans une université. Voir Q121594 pour le titre de Professeur et Q28004591 pour le grade de professeur des universités en France",
+        "en": "person teaching at a university or college",
+        "es": "persona que enseña en la universidad",
+        "de": "Person, die an einer Hochschule lehrt und forscht",
+        "zh": "高等院校任教者",
+        "ja": "大学で教育を行う者",
+        "ar": "شخص يدرس في الجامعة"
+      }
+    },
+    "Q16900659": {
+      "id": "Q16900659",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "Stanford University Computer Science Department",
+        "de": "Stanford University Computer Science Department",
+        "es": "Stanford University Computer Science Department",
+        "fr": "département d'informatique de l'université Stanford"
+      },
+      "descriptions": {
+        "en": "academic department at Stanford University",
+        "ar": "منظمة في جامعة ستانفورد، الولايات المتحدة",
+        "fr": "département universitaire",
+        "es": "departamento universitario"
+      }
+    },
+    "Q185667": {
+      "id": "Q185667",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "prix Turing",
+        "ko": "튜링상",
+        "es": "Premio Turing",
+        "de": "Turing Award",
+        "ja": "チューリング賞",
+        "en": "Turing Award",
+        "zh": "图灵奖",
+        "ar": "جائزة تورنغ"
+      },
+      "descriptions": {
+        "en": "computer science award",
+        "de": "Informatikpreis",
+        "zh": "計算機科學獎項",
+        "es": "Premio ciencias de la computación",
+        "fr": "prix en informatique",
+        "ar": "جائزة تُمنح للمساهمات البارزة في علم الحاسوب",
+        "ja": "計算機科学の賞"
+      }
+    },
+    "Q18748039": {
+      "id": "Q18748039",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ACM Fellow",
+        "ja": "ACMフェロー",
+        "ar": "زمالة جمعية آلات الحوسبة",
+        "es": "ACM Fellow",
+        "de": "ACM Fellow",
+        "zh": "ACM會士",
+        "ko": "ACM 석학회원"
+      },
+      "descriptions": {
+        "en": "award granted by the Association for Computing Machinery (ACM)",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة",
+        "ja": "計算機協会 (ACM)の優れたメンバーに与えられる賞と称号"
+      }
+    },
+    "Q19938912": {
+      "id": "Q19938912",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Autorités BnF",
+        "en": "BnF authorities",
+        "de": "BnF-Normdatei",
+        "es": "data.bnf.fr",
+        "ar": "استنادات المكتبة الوطنية الفرنسية",
+        "ko": "BnF 당국",
+        "ja": "BnFオーソリティーズ",
+        "zh": "Bnf名称规范"
+      },
+      "descriptions": {
+        "fr": "base de données d'autorité concernant personnes, collectivités, titres uniformes textuels et musicaux, noms géographiques et marques commerciales",
+        "en": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
+        "de": "Normdatei für Personen, Organisationen und Werke bei der Französischen Nationalbibliothek",
+        "ko": "프랑스 국립 도서관의 개인, 조직, 작품, 주제 및 지리적 장소에 대한 전거 파일",
+        "ja": "オンラインデータベース",
+        "es": "fichero de autoridad de personas, organizaciones, obras, temas y lugares geográficos, de la Biblioteca Nacional de Francia",
+        "ar": "ملف استناد في المكتبة الفرنسية الوطنية، يحوي بيانات عن الأفراد والمنظمات والأعمال والموضوعات والأقاليم الجغرافية",
+        "zh": "法国国家图书馆人物、组织、作品、话题、地名等的规范档"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q21578": {
+      "id": "Q21578",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "en": "Princeton University",
+        "ar": "جامعة برينستون",
+        "de": "Princeton University",
+        "es": "Universidad de Princeton",
+        "fr": "Université de Princeton",
+        "ja": "プリンストン大学",
+        "ko": "프린스턴 대학교",
+        "zh": "普林斯顿大学"
+      },
+      "descriptions": {
+        "en": "private Ivy League research university in Princeton, New Jersey, United States",
+        "de": "Universität im US-Bundesstaat New Jersey",
+        "es": "universidad privada en Nueva Jersey, Estados Unidos",
+        "fr": "université américaine située dans le New Jersey",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة في نيو جيرسي، الولايات المتحدة",
+        "zh": "在美國新澤西普林斯頓的私立常春藤聯盟研究型大學",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q270794": {
+      "id": "Q270794",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Académie américaine des sciences",
+        "es": "Academia Nacional de Ciencias de los Estados Unidos",
+        "de": "National Academy of Sciences",
+        "ja": "米国科学アカデミー",
+        "en": "National Academy of Sciences",
+        "ar": "الأكاديمية الوطنية للعلوم",
+        "zh": "美国国家科学院",
+        "ko": "미국 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "science branch of the United States National Academies",
+        "fr": "académie nationale des sciences des États-Unis",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a las ciencias",
+        "de": "Teil der US-amerikanischen National Academies of Sciences, Engineering, and Medicine",
+        "ja": "アメリカ合衆国の科学アカデミー",
+        "ar": "دار نشر",
+        "zh": "科学家组织",
+        "ko": "미국의 비영리 비정부 조직"
+      }
+    },
+    "Q29861311": {
+      "id": "Q29861311",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "en": "SNAC",
+        "es": "SNAC",
+        "fr": "SNAC",
+        "ar": "الشبكات الاجتماعية وسياق الأرشيف",
+        "de": "SNAC",
+        "ja": "SNAC",
+        "zh": "社交網絡及存檔內容",
+        "ko": "SNAC"
+      },
+      "descriptions": {
+        "de": "Online Datenbank für Archivgut zu Personen, Familien und Körperschaften",
+        "en": "online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",
+        "ja": "図書館などが所蔵する歴史的記録を発見、検索、使用し、人物のソーシャルネットワークを構築するするためのオンラインプロジェクト",
+        "es": "proyecto en línea para descubrir, localizar y utilizar registros históricos distribuidos en relación con personas, familias y organizaciones individuales",
+        "ko": "온라인 인명 데이터베이스"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3400985": {
+      "id": "Q3400985",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "en": "academic",
+        "fr": "universitaire",
+        "es": "académico",
+        "de": "Akademiker",
+        "ar": "أكاديمي",
+        "zh": "學者",
+        "ja": "大学人",
+        "ko": "학자"
+      },
+      "descriptions": {
+        "en": "person who works as a teacher or researcher at a university or other higher education institution",
+        "fr": "personne qui enseigne à l'université",
+        "es": "persona que forma parte de una universidad o centro de investigación",
+        "ja": "大学または他の高等教育機関において教員・研究者として勤務する人",
+        "zh": "於大學或更高等的教育機構擔任教師或研究者的人",
+        "de": "Person, die als Lehrer oder Forscher an einer Universität arbeitet",
+        "ar": "العامل في الحقل الأكاديمي بصفة أستاذ أو باحث في إحدى الجامعات أو غيرها من مؤسسات التعليم العالي"
+      }
+    },
+    "Q4027615": {
+      "id": "Q4027615",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "es": "ciencias de la información",
+        "en": "informatics",
+        "ar": "معلوماتية",
+        "ja": "インフォマティクス",
+        "ko": "컴퓨터 과학",
+        "fr": "sciences de l'information",
+        "zh": "信息学"
+      },
+      "descriptions": {
+        "en": "study of computational systems, especially those for data storage and retrieval",
+        "es": "ciencia que estudia la práctica del procesamiento de información y la ingeniería de los sistemas de información",
+        "fr": "domaine académique",
+        "zh": "學術領域",
+        "de": "Studium von Computersystemen, insbesondere solchen zur Datenspeicherung und -abfrage",
+        "ar": "دراسة الأنظمة الحاسوبية، وخاصة تلك المستخدمة في تخزين البيانات واسترجاعها",
+        "ja": "情報学などの関連分野"
+      }
+    },
+    "Q41506": {
+      "id": "Q41506",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "史丹佛大學",
+        "es": "Universidad Stanford",
+        "ar": "جامعة ستانفورد",
+        "ko": "스탠퍼드 대학교",
+        "fr": "Université Stanford",
+        "de": "Stanford University",
+        "ja": "スタンフォード大学",
+        "en": "Stanford University"
+      },
+      "descriptions": {
+        "en": "private research university in Stanford, California, USA",
+        "de": "private Universität in Kalifornien, USA",
+        "fr": "université américaine privée à Stanford au sud de San Francisco, Californie",
+        "zh": "位於美國加州史丹佛的私立大學，於1891年創校",
+        "ar": "جامعة خاصة في كاليفورنيا، الولايات المتحدة",
+        "es": "universidad de investigación privada en Stanford, California, Estados Unidos",
+        "ja": "アメリカ・カリフォルニア州にある私立大学",
+        "ko": "미국의 사립 대학"
+      }
+    },
+    "Q42309824": {
+      "id": "Q42309824",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "fr": "doctorat honoris causa de l'université Paris-Dauphine",
+        "es": "doctorado honoris causa por la Universidad París-Dauphine",
+        "en": "honorary doctor of Paris Dauphine University",
+        "de": "Ehrendoktorwürde der Universität Paris-Dauphine",
+        "ar": "الدكتوراه الفخرية من جامعة باريس دوفين"
+      },
+      "descriptions": {
+        "es": "premio academico"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q49088": {
+      "id": "Q49088",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Columbia University",
+        "de": "Columbia University",
+        "fr": "Université Columbia",
+        "ar": "جامعة كولومبيا",
+        "es": "Universidad de Columbia",
+        "ja": "コロンビア大学",
+        "ko": "컬럼비아 대학교",
+        "zh": "哥倫比亞大學"
+      },
+      "descriptions": {
+        "en": "private university in New York City, New York, US",
+        "zh": "美国纽约的一所私立大学",
+        "fr": "université privée américaine située à New York",
+        "de": "1784 als King's College gegründete Universität in New York",
+        "ko": "미국 뉴욕주의 사립 종합대학",
+        "ar": "جامعة خاصة في نيويورك، الولايات المتحدة",
+        "ja": "アメリカの私立大学",
+        "es": "universidad estadounidense"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5149833": {
+      "id": "Q5149833",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "en": "Fu Foundation School of Engineering and Applied Science",
+        "zh": "哥伦比亚大学工学院",
+        "fr": "Columbia School of Engineering and Applied Science",
+        "ar": "مؤسسة فو المدرسية للهندسة والعلوم التطبيقية"
+      },
+      "descriptions": {
+        "zh": "学校",
+        "ar": "مدرسة في مانهاتن، الولايات المتحدة",
+        "en": "engineering school at Columbia University in the United States"
+      }
+    },
+    "Q52382875": {
+      "id": "Q52382875",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Fellow of the American Academy of Arts and Sciences",
+        "ar": "زمالة الأكاديمية الأمريكية للفنون والعلوم",
+        "fr": "membre de l'Académie américaine des arts et des sciences",
+        "es": "Miembro de la Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミーフェロー",
+        "zh": "美国文理科学院院士"
+      },
+      "descriptions": {
+        "en": "honorary fellowship from the American Academy of Arts and Sciences",
+        "ar": "زمالة تشريفية",
+        "fr": "titre honorifique de l'American Academy of Arts and Sciences"
+      }
+    },
+    "Q60": {
+      "id": "Q60",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "ar": "نيويورك",
+        "fr": "New York",
+        "ja": "ニューヨーク",
+        "es": "Nueva York",
+        "ko": "뉴욕",
+        "zh": "纽约",
+        "en": "New York City",
+        "de": "New York City"
+      },
+      "descriptions": {
+        "en": "most populous city in the United States",
+        "fr": "ville de l'État de New York et plus grande ville des États-Unis",
+        "de": "bevölkerungsreichste Stadt der Vereinigten Staaten",
+        "es": "ciudad más poblada del estado de Nueva York, y de los Estados Unidos",
+        "ko": "미국의 최대 도시",
+        "zh": "美國最大都市、國際大都市之一",
+        "ja": "アメリカ合衆国ニューヨーク州の都市",
+        "ar": "المدينة الأكثر اكتظاظًا بالسكان في الولايات المتحدة"
+      }
+    },
+    "Q727274": {
+      "id": "Q727274",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "de": "John-von-Neumann-Medaille",
+        "en": "IEEE John von Neumann Medal",
+        "es": "Medalla John von Neumann",
+        "fr": "médaille John von Neumann",
+        "ja": "フォン・ノイマンメダル",
+        "zh": "约翰·冯诺依曼奖",
+        "ar": "ميدالية جون فون نيومان من جمعية مهندسي الكهرباء والإلكترونيات",
+        "ko": "IEEE 존 폰 노이먼 메달"
+      },
+      "descriptions": {
+        "en": "award",
+        "es": "premio cientifico",
+        "ar": "جائزة تمنحها جمعية مهندسي الكهرباء والإلكترونيات منذ عام 1990م",
+        "zh": "计算机科学奖"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 10,
+    "referenceUrls": 6,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,2347 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "lei-jun",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/lei-jun.json",
+    "sha256": "a8e1328c922420f2798d155161343b4c91940b14f82dab0ad1e1455c6aa572d7",
+    "capturedAt": "2026-11-13T11:25:27Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+      "https://en.wikipedia.org/wiki/Lei_Jun",
+      "https://www.wikidata.org/wiki/Q9000717"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q9000717",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Lei Jun",
+    "sourceIdentity": {
+      "requestedName": "Lei Jun",
+      "requestedTitle": "Lei Jun",
+      "resolvedTitle": "Lei Jun",
+      "wikidataId": "Q9000717",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1235dd4de33fe368c2ca",
+      "property": "P106",
+      "claimId": "Q9000717$0888faee-438d-56ad-b03c-e7f3466271e8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4d8e03ed8459a225646a",
+      "property": "P106",
+      "claimId": "q9000717$96B67787-1AC8-42C5-A79A-F876A619C0B1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-7441e00b8e0c9367a31e",
+      "property": "P106",
+      "claimId": "Q9000717$E3306868-0044-469E-A662-50107F70C591",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82955,
+          "id": "Q82955"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 63346312,
+                "id": "Q63346312"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-05-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-05-18"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q63346312",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q63346312"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c978cb603dcdfdde2cd8",
+      "property": "P106",
+      "claimId": "Q9000717$D7BAB6BD-04F5-4050-913A-694D36264958",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e75f7fe866bb89f751cd",
+      "property": "P106",
+      "claimId": "Q9000717$BE3587FF-95F8-42A1-962A-D9C7CF846C5A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 81096,
+          "id": "Q81096"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-630a76c2d4dd8103a4d1",
+      "property": "P27",
+      "claimId": "Q9000717$B10CF288-849B-46E7-9B9C-60C02A38A436",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 148,
+          "id": "Q148"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-59d8e6346bb99cfcc6e0",
+      "property": "P569",
+      "claimId": "Q9000717$5E49ED77-5631-4307-AAF9-B989A8F75898",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1969-12-16T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1969-12-16"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1969-12-16T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1969-12-16",
+        "earliest": "1969-12-16",
+        "latest": "1969-12-16",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-8e971bddb4dd30527630",
+      "property": "P19",
+      "claimId": "Q9000717$D844AC82-4E63-4129-A7E0-27C87CA0E164",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 71455,
+          "id": "Q71455"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-da54e0c451850cd21802",
+      "property": "P69",
+      "claimId": "Q9000717$453bac66-4c4e-5e7c-6399-302fe9abd928",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1108197,
+          "id": "Q1108197"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-05-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-05-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-71d74882cf4ae237d4b1",
+      "property": "P108",
+      "claimId": "Q9000717$005105F4-CC69-417E-991F-C7C03D689062",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1439934,
+          "id": "Q1439934"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011"
+          }
+        ],
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1999-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 8,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": null,
+            "datePrecisionInsufficient": true
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1999-01-01T00:00:00Z",
+          "precision": 8,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": null,
+          "cutoffRelation": "unresolved"
+        },
+        {
+          "property": "P582",
+          "raw": "+2011-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c2b75334848dae64ae0b",
+      "property": "P108",
+      "claimId": "Q9000717$05009ACE-524E-4D63-9E3A-637743963D01",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1636958,
+          "id": "Q1636958"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-04-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010-04"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2010-04-01T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010-04",
+          "earliest": "2010-04-01",
+          "latest": "2010-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b1ed7332bd13f4fbe47a",
+      "property": "P39",
+      "claimId": "Q9000717$ed76bae2-4a58-0af5-c939-d933c6b07ecd",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2011-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bd8dbde024585f2214c8",
+      "property": "P39",
+      "claimId": "Q9000717$8834646E-B6FF-46F3-9EDE-44A0B2E46AC5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10891456,
+          "id": "Q10891456"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f6d753d93e3b3f0c42c1",
+      "property": "P39",
+      "claimId": "Q9000717$29fe001f-410c-2124-8d1e-b1ce5707a4c5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1048210,
+          "id": "Q1048210"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c7a915560b9210f2b56f",
+      "property": "P166",
+      "claimId": "Q9000717$F8AE8DC3-94B9-4FDA-B481-A78F4C4B262F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60991786,
+          "id": "Q60991786"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0f87c352abedf1e626fb",
+      "property": "P800",
+      "claimId": "Q9000717$044e8bce-4402-e6b7-48dc-af1c223d167b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1636958,
+          "id": "Q1636958"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-248bb926dc5ce8509894",
+      "property": "P856",
+      "claimId": "Q9000717$5b6e6ea1-4eba-f8e2-bc30-a4dc6abc71db",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://leijun.blog.techweb.com.cn/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-ca8e07b64451260c616d",
+      "factId": "fact-b1ed7332bd13f4fbe47a",
+      "claimId": "Q9000717$ed76bae2-4a58-0af5-c939-d933c6b07ecd",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2011",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f09b2bd3f29f08314f1c",
+      "factId": "fact-71d74882cf4ae237d4b1",
+      "claimId": "Q9000717$005105F4-CC69-417E-991F-C7C03D689062",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2011",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f282e86fe3cde3961445",
+      "factId": "fact-c2b75334848dae64ae0b",
+      "claimId": "Q9000717$05009ACE-524E-4D63-9E3A-637743963D01",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2010-04",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-7db68bdf12b5becd5497",
+      "factId": "fact-b1ed7332bd13f4fbe47a",
+      "claimId": "Q9000717$ed76bae2-4a58-0af5-c939-d933c6b07ecd",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "1998",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b94d6ee469659ec5a544",
+      "factId": "fact-59d8e6346bb99cfcc6e0",
+      "claimId": "Q9000717$5E49ED77-5631-4307-AAF9-B989A8F75898",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1969-12-16",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1381681483",
+        "https://en.wikipedia.org/wiki/Lei_Jun",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q9000717"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "雷军",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "职业",
+          "value": "首席执行官",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "职业",
+          "value": "政治人物",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "职业",
+          "value": "工程师",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "国籍",
+          "value": "中华人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "来源所记出生日期",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "出生地",
+          "value": "仙桃市",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "就读机构",
+          "value": "武汉大学",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "雇主",
+          "value": "金山软件",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "雇主",
+          "value": "小米集團",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "担任职务",
+          "value": "首席执行官",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "担任职务",
+          "value": "全國人民代表大會代表",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "担任职务",
+          "value": "general director",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "奖项",
+          "value": "改革开放40年百名杰出民营企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "代表作品",
+          "value": "小米集團",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "官方网站",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "担任职务: 首席执行官",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 金山软件",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 小米集團",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "担任职务: 首席执行官",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1969-12-16",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Lei Jun",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "Occupation",
+          "value": "chief executive officer",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "Occupation",
+          "value": "politician",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "Occupation",
+          "value": "engineer",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "Citizenship",
+          "value": "People's Republic of China",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "Source-reported birth date",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "Place of birth",
+          "value": "Xiantao",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "Educational institution",
+          "value": "Wuhan University",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "Employer",
+          "value": "Kingsoft",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "Employer",
+          "value": "Xiaomi",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "Position held",
+          "value": "chief executive officer",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "Position held",
+          "value": "National People's Congress deputy",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "Position held",
+          "value": "general director",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "Award",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "Notable work",
+          "value": "Xiaomi",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "Official website",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Position held: chief executive officer",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: Kingsoft",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Xiaomi",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Position held: chief executive officer",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1969-12-16",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Lei Jun",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "Profession",
+          "value": "directeur général ou directrice générale",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "Profession",
+          "value": "personnalité politique",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "Profession",
+          "value": "ingénieur ou ingénieure",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "Nationalité",
+          "value": "République populaire de Chine",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "Lieu de naissance",
+          "value": "Xiantao",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "Établissement fréquenté",
+          "value": "université de Wuhan",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "Employeur",
+          "value": "Kingsoft",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "Employeur",
+          "value": "Xiaomi",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "Fonction exercée",
+          "value": "directeur général ou directrice générale",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "Fonction exercée",
+          "value": "député",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "Fonction exercée",
+          "value": "directeur général",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "Distinction",
+          "value": "100 entrepreneurs privés exceptionnels des 40 ans de réforme et d'ouverture",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "Œuvre notable",
+          "value": "Xiaomi",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "Site officiel",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Fonction exercée: directeur général ou directrice générale",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: Kingsoft",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Xiaomi",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Fonction exercée: directeur général ou directrice générale",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1969-12-16",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "لي جون",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "المهنة",
+          "value": "رئيس تنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "المهنة",
+          "value": "سياسي",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "المهنة",
+          "value": "مهندس",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "الجنسية",
+          "value": "الصين",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "مكان الميلاد",
+          "value": "مدينة إكسيانتاو",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ووهان",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "جهة العمل",
+          "value": "كينغسوفت",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "جهة العمل",
+          "value": "شاومي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "المنصب",
+          "value": "رئيس تنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "المنصب",
+          "value": "عضو مجلس الشعب الصيني",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "المنصب",
+          "value": "general director",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "الجائزة",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "عمل بارز",
+          "value": "شاومي",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "الموقع الرسمي",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "المنصب: رئيس تنفيذي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: كينغسوفت",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: شاومي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "المنصب: رئيس تنفيذي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1969-12-16",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Lei Jun",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "Beruf",
+          "value": "Geschäftsführer",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "Beruf",
+          "value": "Politiker",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "Beruf",
+          "value": "Ingenieur",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "Staatsangehörigkeit",
+          "value": "Volksrepublik China",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "Geburtsort",
+          "value": "Xiantao",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "Bildungseinrichtung",
+          "value": "Wuhan-Universität",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "Arbeitgeber",
+          "value": "Kingsoft Corporation",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "Arbeitgeber",
+          "value": "Xiaomi",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "Ausgeübtes Amt",
+          "value": "Geschäftsführer",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "Ausgeübtes Amt",
+          "value": "Mitglied des Nationalen Volkskongresses",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "Ausgeübtes Amt",
+          "value": "Hauptgeschäftsführer",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "Auszeichnung",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "Bekanntes Werk",
+          "value": "Xiaomi",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "Offizielle Website",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Geschäftsführer",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: Kingsoft Corporation",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Xiaomi",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Geschäftsführer",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1969-12-16",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "雷軍",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "職業",
+          "value": "最高経営責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "職業",
+          "value": "政治家",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "職業",
+          "value": "エンジニア",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "国籍",
+          "value": "中華人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "出典に記載された生年月日",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "出生地",
+          "value": "仙桃市",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "在籍した教育機関",
+          "value": "武漢大学",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "雇用主",
+          "value": "金山軟件",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "雇用主",
+          "value": "Xiaomi",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "役職",
+          "value": "最高経営責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "役職",
+          "value": "全国人民代表大会代表",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "役職",
+          "value": "general director",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "受賞",
+          "value": "改革開放の40年における100名の傑出した民間企業家",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "代表的な作品",
+          "value": "Xiaomi",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "公式サイト",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "役職: 最高経営責任者",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: 金山軟件",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: Xiaomi",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "役職: 最高経営責任者",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1969-12-16",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Lei Jun",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "Ocupación",
+          "value": "director ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "Ocupación",
+          "value": "político",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "Ocupación",
+          "value": "ingeniero",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "Nacionalidad",
+          "value": "República Popular China",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "Lugar de nacimiento",
+          "value": "Xiantao",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "Institución educativa",
+          "value": "Universidad de Wuhan",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "Empleador",
+          "value": "Kingsoft",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "Empleador",
+          "value": "Xiaomi",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "Cargo desempeñado",
+          "value": "director ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "Cargo desempeñado",
+          "value": "miembro de la Asamblea Popular Nacional",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "Cargo desempeñado",
+          "value": "director general",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "Distinción",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "Obra destacada",
+          "value": "Xiaomi",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "Sitio web oficial",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Cargo desempeñado: director ejecutivo",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Kingsoft",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Xiaomi",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Cargo desempeñado: director ejecutivo",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1969-12-16",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "레이쥔",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1235dd4de33fe368c2ca",
+          "label": "직업",
+          "value": "최고경영자",
+          "notes": []
+        },
+        {
+          "id": "fact-4d8e03ed8459a225646a",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-7441e00b8e0c9367a31e",
+          "label": "직업",
+          "value": "정치인",
+          "notes": []
+        },
+        {
+          "id": "fact-c978cb603dcdfdde2cd8",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-e75f7fe866bb89f751cd",
+          "label": "직업",
+          "value": "기술자",
+          "notes": []
+        },
+        {
+          "id": "fact-630a76c2d4dd8103a4d1",
+          "label": "국적",
+          "value": "중화인민공화국",
+          "notes": []
+        },
+        {
+          "id": "fact-59d8e6346bb99cfcc6e0",
+          "label": "출처에 기재된 출생일",
+          "value": "1969-12-16",
+          "notes": []
+        },
+        {
+          "id": "fact-8e971bddb4dd30527630",
+          "label": "출생지",
+          "value": "셴타오시",
+          "notes": []
+        },
+        {
+          "id": "fact-da54e0c451850cd21802",
+          "label": "교육 기관",
+          "value": "우한 대학",
+          "notes": []
+        },
+        {
+          "id": "fact-71d74882cf4ae237d4b1",
+          "label": "고용 기관",
+          "value": "킹소프트",
+          "notes": []
+        },
+        {
+          "id": "fact-c2b75334848dae64ae0b",
+          "label": "고용 기관",
+          "value": "샤오미 테크",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-b1ed7332bd13f4fbe47a",
+          "label": "직책",
+          "value": "최고경영자",
+          "notes": []
+        },
+        {
+          "id": "fact-bd8dbde024585f2214c8",
+          "label": "직책",
+          "value": "전국인민대표대회 대표",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-f6d753d93e3b3f0c42c1",
+          "label": "직책",
+          "value": "general director",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-c7a915560b9210f2b56f",
+          "label": "수상",
+          "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+          "notes": []
+        },
+        {
+          "id": "fact-0f87c352abedf1e626fb",
+          "label": "주요 작품",
+          "value": "샤오미 테크",
+          "notes": []
+        },
+        {
+          "id": "fact-248bb926dc5ce8509894",
+          "label": "공식 웹사이트",
+          "value": "http://leijun.blog.techweb.com.cn/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-ca8e07b64451260c616d",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "직책: 최고경영자",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-f09b2bd3f29f08314f1c",
+          "factId": "fact-71d74882cf4ae237d4b1",
+          "date": "2011",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 킹소프트",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-f282e86fe3cde3961445",
+          "factId": "fact-c2b75334848dae64ae0b",
+          "date": "2010-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 샤오미 테크",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-7db68bdf12b5becd5497",
+          "factId": "fact-b1ed7332bd13f4fbe47a",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "직책: 최고경영자",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-b94d6ee469659ec5a544",
+          "factId": "fact-59d8e6346bb99cfcc6e0",
+          "date": "1969-12-16",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1969-12-16",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q1048210"
+      },
+      {
+        "locale": "ar",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "de",
+        "key": "Q1636958"
+      },
+      {
+        "locale": "de",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "es",
+        "key": "Q1439934"
+      },
+      {
+        "locale": "es",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "fr",
+        "key": "Q1636958"
+      },
+      {
+        "locale": "ja",
+        "key": "Q1048210"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1048210"
+      },
+      {
+        "locale": "ko",
+        "key": "Q60991786"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1048210"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q1048210",
+        "fallbackLocale": "en",
+        "value": "general director",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q1636958",
+        "fallbackLocale": "en",
+        "value": "Xiaomi",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q1439934",
+        "fallbackLocale": "en",
+        "value": "Kingsoft",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q1636958",
+        "fallbackLocale": "en",
+        "value": "Xiaomi",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q1048210",
+        "fallbackLocale": "en",
+        "value": "general director",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1048210",
+        "fallbackLocale": "en",
+        "value": "general director",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q60991786",
+        "fallbackLocale": "en",
+        "value": "100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1048210",
+        "fallbackLocale": "en",
+        "value": "general director",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [
+      {
+        "factId": "fact-71d74882cf4ae237d4b1",
+        "dateProperty": "P580",
+        "date": null,
+        "raw": "+1999-01-01T00:00:00Z",
+        "reason": "unresolved"
+      }
+    ],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 17,
+    "factsWithoutExternalReference": 17,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

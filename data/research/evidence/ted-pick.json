@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ted-pick",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "泰德·皮克",
+    "enName": "Ted Pick",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "银行业",
+    "inclusionReason": "在摩根士丹利推动机构证券业务恢复，并承担集团领导与战略整合工作。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "在摩根士丹利推动机构证券业务恢复，并承担集团领导与战略整合工作。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:32Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ted Pick",
+    "requestedTitle": "Ted Pick",
+    "resolvedTitle": "Ted Pick",
+    "wikidataId": "Q123531962",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ted_Pick",
+      "title": "Ted Pick",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:32Z",
+      "revisionId": 1385110540,
+      "revisionTimestamp": "2026-11-11T23:03:05Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1385110540",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123531962",
+      "title": "Q123531962",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:15:35Z",
+      "revisionId": 2522016645,
+      "revisionTimestamp": "2026-07-24T08:42:27Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Edward Noel Pick (born October 31, 1968) is an American banker who is the chief executive officer of Morgan Stanley since January 2024 and the company's chairman since January 2025. He previously was the bank's Co-President, Co-Head of Firm Strategy and Head of the Institutional Securities Group, overseeing Investment Banking, Equities, Fixed Income, Global Capital Markets and Research.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "ja": "テッド・ピック",
+    "en": "Ted Pick"
+  },
+  "descriptions": {
+    "en": "American business executive (born 1968)"
+  },
+  "languageArticles": {
+    "en": "Ted Pick",
+    "ja": "テッド・ピック"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q123531962$16695041-a55a-43b4-80be-400013af5d9b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q123531962$b1c39003-e127-48eb-a417-673344f5f351",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q123531962$72000fc1-4648-c2f8-a411-c12fe38d2cec",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 334204,
+            "id": "Q334204"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q123531962$c49e4a9b-49e5-f393-f7cd-b30884579935",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1357891,
+            "id": "Q1357891"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q123531962$9266dbcf-4eb8-0caa-99ab-32aa7fe97215",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49126,
+            "id": "Q49126"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P108": "employer",
+    "P69": "education"
+  },
+  "relatedEntities": {
+    "Q1357891": {
+      "id": "Q1357891",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "de": "Middlebury College",
+        "ja": "ミドルバリー大学",
+        "ko": "미들버리 칼리지",
+        "fr": "Middlebury College",
+        "en": "Middlebury College",
+        "es": "Middlebury College",
+        "zh": "明德大学",
+        "ar": "كلية ميدلبوري"
+      },
+      "descriptions": {
+        "de": "Privatuniversität im Bundesstaat Vermont der Vereinigten Staaten von Amerika",
+        "en": "private college in Middlebury, Vermont, US",
+        "fr": "université américaine",
+        "ar": "جامعة في ميدلبوري، الولايات المتحدة",
+        "ja": "アメリカの私立大学",
+        "zh": "美国佛蒙特州私立教育机构"
+      }
+    },
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q334204": {
+      "id": "Q334204",
+      "fetchedAt": "2026-11-13T11:05:59Z",
+      "labels": {
+        "fr": "Morgan Stanley",
+        "ko": "모건 스탠리",
+        "es": "Morgan Stanley",
+        "de": "Morgan Stanley",
+        "ja": "モルガン・スタンレー",
+        "ar": "مورغان ستانلي",
+        "en": "Morgan Stanley",
+        "zh": "摩根士丹利"
+      },
+      "descriptions": {
+        "fr": "banque américaine",
+        "en": "U.S. investment bank",
+        "zh": "美國投資銀行",
+        "ar": "شركة أمريكية",
+        "es": "banco estadounidense",
+        "de": "US-amerikanische Investmentbank",
+        "ko": "1924년 설립된 미국 뉴욕 기업회사",
+        "ja": "アメリカ合衆国の大手金融機関・投資銀行"
+      }
+    },
+    "Q49126": {
+      "id": "Q49126",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Harvard Business School",
+        "de": "Harvard Business School",
+        "es": "Escuela de Negocios Harvard",
+        "fr": "Harvard Business School",
+        "ja": "ハーバード・ビジネス・スクール",
+        "ko": "하버드 경영대학원",
+        "zh": "哈佛商学院",
+        "ar": "كلية هرفرد للأعمال"
+      },
+      "descriptions": {
+        "en": "business school in Boston, Massachusetts, USA",
+        "fr": "école de management",
+        "es": "escuela de la Universidad de Harvard",
+        "zh": "馬薩諸塞州波士頓的商學院",
+        "de": "US-amerikanische Business School",
+        "ja": "アメリカの大学院大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

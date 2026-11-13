@@ -1,0 +1,5554 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "cher",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/cher.json",
+    "sha256": "f63bc7df67d5fc99f01032eea18ed1e1aad3e618459380a853c9c8a01254ef45",
+    "capturedAt": "2026-11-13T11:25:46Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+      "https://en.wikipedia.org/wiki/Cher",
+      "https://www.wikidata.org/wiki/Q12003"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q12003",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Cher",
+    "sourceIdentity": {
+      "requestedName": "Cher",
+      "requestedTitle": "Cher",
+      "resolvedTitle": "Cher",
+      "wikidataId": "Q12003",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1f1052ba01022afeda84",
+      "property": "P106",
+      "claimId": "Q12003$3FD41BCD-22A8-4083-AC5D-8E61F277A6A4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10800557,
+          "id": "Q10800557"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2cc9a03b7820e9db1abb",
+      "property": "P106",
+      "claimId": "Q12003$A819FC73-F76F-4E2A-B3A0-F1E642AF3CD5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 948329,
+          "id": "Q948329"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4a0581110cf347b100ed",
+      "property": "P106",
+      "claimId": "Q12003$8196341e-43c1-7010-8cb3-a689d6db8249",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 55960555,
+          "id": "Q55960555"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5ff738aacd33204dea0c",
+      "property": "P106",
+      "claimId": "Q12003$E4CA9EFF-4BE7-419D-B82E-13C140091162",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 639669,
+          "id": "Q639669"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6300f2ccd9cbbab7f4fd",
+      "property": "P106",
+      "claimId": "q12003$E2B39ED9-2E1A-4DBE-8DD2-8D9E3A550D5E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 33999,
+          "id": "Q33999"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 37312,
+                "id": "Q37312"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-09-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-09-10"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q37312"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q37312"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6bb3e102af3559e628dc",
+      "property": "P106",
+      "claimId": "Q12003$5617CDCC-9DEC-43DA-B8E7-22BE6B8481E0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 36834,
+          "id": "Q36834"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-91c89af82950fa835e41",
+      "property": "P106",
+      "claimId": "Q12003$B9345290-65EE-4DA7-BE7D-D60C71E3A788",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10798782,
+          "id": "Q10798782"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-bece91721dab85ca9147",
+      "property": "P106",
+      "claimId": "Q12003$ED804EA1-8FA4-41E9-A721-E7A35C504AFF",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2526255,
+          "id": "Q2526255"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 37312,
+                "id": "Q37312"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q37312"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q37312"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-cb8624ea0825bd599cd7",
+      "property": "P106",
+      "claimId": "q12003$BCA787F0-096A-49AF-B076-A2494C75AF5A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 177220,
+          "id": "Q177220"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 10000,
+                "id": "Q10000"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q10000",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q10000",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-98bcea4ff1961f3e93b7",
+      "property": "P27",
+      "claimId": "q12003$4D120A82-F69F-4280-9F3A-372D28003D49",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1798125,
+                "id": "Q1798125"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-09-26T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012-09-26"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-08-24T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-08-24"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q1798125"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q1798125"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-7bb196b7c7a4f92cd056",
+      "property": "P569",
+      "claimId": "q12003$C92C11B9-71B7-4F01-B98D-58FA1E5E0ED0",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1946-05-20T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1946-05-20"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2014-04-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2014-04-09"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Cher",
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 29861311,
+                "id": "Q29861311"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 31964,
+                "id": "Q31964"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 31964,
+                "id": "Q31964"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 61356138,
+                "id": "Q61356138"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 98769076,
+                "id": "Q98769076"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 107343683,
+                "id": "Q107343683"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q31964",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q61356138",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q98769076"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q31964",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q61356138",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q98769076"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1946-05-20T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1946-05-20",
+        "earliest": "1946-05-20",
+        "latest": "1946-05-20",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-d9612b1011390ae3d366",
+      "property": "P19",
+      "claimId": "q12003$e55bbeba-4e16-744a-b9cf-e7e4661c340b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 495369,
+          "id": "Q495369"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.aveleyman.com/ActorCredit.aspx?ActorID=3081"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.aveleyman.com/ActorCredit.aspx?ActorID=3081",
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "http://www.aveleyman.com/ActorCredit.aspx?ActorID=3081",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-3701d011e96b3dcb21ff",
+      "property": "P69",
+      "claimId": "Q12003$27A3356E-8461-42CB-BAC6-016F6A52FA6B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7721887,
+          "id": "Q7721887"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6d0a1cf2a96ebb48285c",
+      "property": "P69",
+      "claimId": "Q12003$521D2C99-1BCA-4C6F-B5EA-853806051BF1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 6904590,
+          "id": "Q6904590"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-9065d945ace32edd3771",
+      "property": "P69",
+      "claimId": "Q12003$9DAD129A-9812-4EB9-B6A1-49359D141A9B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5503182,
+          "id": "Q5503182"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-141117ea998045a1fcbe",
+      "property": "P166",
+      "claimId": "Q12003$98060B1D-CD7A-45E1-A4F2-C13A07144BE1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7243516,
+          "id": "Q7243516"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2003-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2003"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2003-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2003",
+          "earliest": "2003-01-01",
+          "latest": "2003-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2138aa366b4054b12bff",
+      "property": "P166",
+      "claimId": "Q12003$D9A9D920-4D3E-42AE-B20E-F757E1289FF9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5513594,
+          "id": "Q5513594"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-26cb8686dd4fa73e3541",
+      "property": "P166",
+      "claimId": "Q12003$F5B9CDB8-6C65-4306-9C98-AB95BED16BF7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10294045,
+          "id": "Q10294045"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1985-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1985"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1985-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-367d50d6ebe1b1846d9e",
+      "property": "P166",
+      "claimId": "Q12003$a8af6aab-4286-2a5e-a5d4-89580254dfaf",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1255210,
+          "id": "Q1255210"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1974-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1974"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1974-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1974",
+          "earliest": "1974-01-01",
+          "latest": "1974-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-59ce6a5697bba7a1f628",
+      "property": "P166",
+      "claimId": "Q12003$8f34a363-4146-2243-e9a7-55b5bb645312",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 179808,
+          "id": "Q179808"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1985-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1985"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1985-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7ab27efe504fb9b47a52",
+      "property": "P166",
+      "claimId": "Q12003$ef688f98-4071-48f1-39d9-e34f34076084",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1011564,
+          "id": "Q1011564"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1988-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1988"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1988-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-8f0c1791682dd78dcb6b",
+      "property": "P166",
+      "claimId": "Q12003$36e689a5-416b-bc91-356b-52d837f480b7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 135992929,
+          "id": "Q135992929"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1992-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1992"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        },
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1992-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1992",
+          "earliest": "1992-01-01",
+          "latest": "1992-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a9ca0f4835639b937791",
+      "property": "P166",
+      "claimId": "Q12003$3ac60984-4dd1-f813-203b-842fec200d12",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 41254,
+          "id": "Q41254"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2000-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2000"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2000-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2000",
+          "earliest": "2000-01-01",
+          "latest": "2000-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b490851706f915630e0c",
+      "property": "P166",
+      "claimId": "Q12003$b1197b71-449c-4cee-8e50-601f1e3f7b5d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 822907,
+          "id": "Q822907"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1984-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1984"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1984-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1984",
+          "earliest": "1984-01-01",
+          "latest": "1984-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e4ed21a7a85daa7c141c",
+      "property": "P166",
+      "claimId": "Q12003$DDF9B752-E535-46F6-B323-87002577BAFC",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 103618,
+          "id": "Q103618"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1988-04-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1988-04-11"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-12-03T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-12-03"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1988-04-11T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1988-04-11",
+          "earliest": "1988-04-11",
+          "latest": "1988-04-11",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e97811f9269eb81992ab",
+      "property": "P166",
+      "claimId": "Q12003$23f41b57-431a-dce3-f73e-ab11e8da510e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 179191,
+          "id": "Q179191"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2024-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2024"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2024-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2024",
+          "earliest": "2024-01-01",
+          "latest": "2024-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f2f08ff88fd15f7f209d",
+      "property": "P166",
+      "claimId": "Q12003$fb1baebe-4830-4e9d-f6de-8f72045de05f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 630018,
+          "id": "Q630018"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2025-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2025"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.bunte.de/stars/events/das-sind-die-strahlenden-gewinner-der-bambi-verleihung-2025_07d41f82-9a8d-4017-8f4d-c2e763bbe7b2.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.bunte.de/stars/events/das-sind-die-strahlenden-gewinner-der-bambi-verleihung-2025_07d41f82-9a8d-4017-8f4d-c2e763bbe7b2.html",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [
+        "https://www.bunte.de/stars/events/das-sind-die-strahlenden-gewinner-der-bambi-verleihung-2025_07d41f82-9a8d-4017-8f4d-c2e763bbe7b2.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2025-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f717c678cdbd9cdd45cf",
+      "property": "P166",
+      "claimId": "Q12003$bc8222da-4850-7914-8171-40f50f870b56",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1738793,
+          "id": "Q1738793"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018",
+          "earliest": "2018-01-01",
+          "latest": "2018-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-394abd0b4f4519fea125",
+      "property": "P463",
+      "claimId": "q12003$c76ab00b-4466-5563-f351-9ed7535a9de8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 907445,
+          "id": "Q907445"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-3d657a705d88dc59171f",
+      "property": "P463",
+      "claimId": "Q12003$5A799833-7088-4136-AA5C-006EB408A836",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 83551763,
+          "id": "Q83551763"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-707b6e43762bed6cc4f2",
+      "property": "P856",
+      "claimId": "Q12003$9664d14d-4494-2884-9779-226b6611cbce",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://www.cherfanclub.com/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-878da479c003dfdd300f",
+      "property": "P2031",
+      "claimId": "Q12003$05ea4f83-49be-d762-7f95-4c75a99483f7",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1963-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1963"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1963-00-00T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1963",
+        "earliest": "1963-01-01",
+        "latest": "1963-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-6a6947ae95945800a388",
+      "factId": "fact-f2f08ff88fd15f7f209d",
+      "claimId": "Q12003$fb1baebe-4830-4e9d-f6de-8f72045de05f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2025",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.bunte.de/stars/events/das-sind-die-strahlenden-gewinner-der-bambi-verleihung-2025_07d41f82-9a8d-4017-8f4d-c2e763bbe7b2.html",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-40776a95b39c9031f106",
+      "factId": "fact-e97811f9269eb81992ab",
+      "claimId": "Q12003$23f41b57-431a-dce3-f73e-ab11e8da510e",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2024",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d20dc1ab3f9942bcfce4",
+      "factId": "fact-f717c678cdbd9cdd45cf",
+      "claimId": "Q12003$bc8222da-4850-7914-8171-40f50f870b56",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-72dd872f2aa024ee7bb2",
+      "factId": "fact-141117ea998045a1fcbe",
+      "claimId": "Q12003$98060B1D-CD7A-45E1-A4F2-C13A07144BE1",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2003",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-641a85e1aa3cf3a5b148",
+      "factId": "fact-a9ca0f4835639b937791",
+      "claimId": "Q12003$3ac60984-4dd1-f813-203b-842fec200d12",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2000",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d8260cf646c5f7248e73",
+      "factId": "fact-2138aa366b4054b12bff",
+      "claimId": "Q12003$D9A9D920-4D3E-42AE-B20E-F757E1289FF9",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1998",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-82548865f8cd547e3f63",
+      "factId": "fact-8f0c1791682dd78dcb6b",
+      "claimId": "Q12003$36e689a5-416b-bc91-356b-52d837f480b7",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1992",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-25a425ae5db2d8ff5950",
+      "factId": "fact-e4ed21a7a85daa7c141c",
+      "claimId": "Q12003$DDF9B752-E535-46F6-B323-87002577BAFC",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1988-04-11",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9b070f6b1a1249cc76cf",
+      "factId": "fact-7ab27efe504fb9b47a52",
+      "claimId": "Q12003$ef688f98-4071-48f1-39d9-e34f34076084",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1988",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-29c7c271473c0db4484f",
+      "factId": "fact-59ce6a5697bba7a1f628",
+      "claimId": "Q12003$8f34a363-4146-2243-e9a7-55b5bb645312",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1985",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4088959ae8ebf0715332",
+      "factId": "fact-26cb8686dd4fa73e3541",
+      "claimId": "Q12003$F5B9CDB8-6C65-4306-9C98-AB95BED16BF7",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1985",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-bffdfa5f3006e72559d6",
+      "factId": "fact-b490851706f915630e0c",
+      "claimId": "Q12003$b1197b71-449c-4cee-8e50-601f1e3f7b5d",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1984",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c805ebc9dffb9c0f50ff",
+      "factId": "fact-367d50d6ebe1b1846d9e",
+      "claimId": "Q12003$a8af6aab-4286-2a5e-a5d4-89580254dfaf",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1974",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q12003"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-bea723541e9f7ee80dca",
+      "factId": "fact-7bb196b7c7a4f92cd056",
+      "claimId": "q12003$C92C11B9-71B7-4F01-B98D-58FA1E5E0ED0",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1946-05-20",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384718578",
+        "https://en.wikipedia.org/wiki/Cher",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q12003",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q31964",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q61356138",
+        "https://www.wikidata.org/wiki/Q746368",
+        "https://www.wikidata.org/wiki/Q98769076"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "雪儿",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "职业",
+          "value": "電影演員",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "职业",
+          "value": "性格演員",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "职业",
+          "value": "录音艺术家",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "职业",
+          "value": "音樂家",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "职业",
+          "value": "演員",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "职业",
+          "value": "作曲家",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "职业",
+          "value": "电视演员",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "职业",
+          "value": "電影導演",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "职业",
+          "value": "歌手",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "来源所记出生日期",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "出生地",
+          "value": "埃尔森特罗",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "就读机构",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "就读机构",
+          "value": "Montclair College Preparatory School",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "就读机构",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "奖项",
+          "value": "最佳综艺特别节目",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "奖项",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "奖项",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "奖项",
+          "value": "金球奖音乐及喜剧类剧集最佳女主角",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "奖项",
+          "value": "金棕榈奖",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "奖项",
+          "value": "金球獎最佳音樂及喜劇類電影女主角",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "奖项",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "奖项",
+          "value": "格莱美奖",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "奖项",
+          "value": "金球獎最佳電影女配角",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "奖项",
+          "value": "奥斯卡最佳女主角奖",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "奖项",
+          "value": "摇滚名人堂",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "奖项",
+          "value": "斑比奖",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "奖项",
+          "value": "肯尼迪中心荣誉奖",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "组织成员",
+          "value": "索尼和雪兒",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "组织成员",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "官方网站",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "活动开始日期",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 斑比奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 摇滚名人堂",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 肯尼迪中心荣誉奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 最佳综艺特别节目",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 格莱美奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: GLAAD Vanguard Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: 奥斯卡最佳女主角奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金球獎最佳音樂及喜劇類電影女主角",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金棕榈奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Hasty Pudding Woman of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金球獎最佳電影女配角",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 金球奖音乐及喜剧类剧集最佳女主角",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1946-05-20",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Cher",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "Occupation",
+          "value": "film actor",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "Occupation",
+          "value": "character actor",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "Occupation",
+          "value": "recording artist",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "Occupation",
+          "value": "musician",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "Occupation",
+          "value": "actor",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "Occupation",
+          "value": "composer",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "Occupation",
+          "value": "television actor",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "Occupation",
+          "value": "film director",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "Occupation",
+          "value": "singer",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "Source-reported birth date",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "Place of birth",
+          "value": "El Centro",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "Educational institution",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "Educational institution",
+          "value": "Montclair College Preparatory School",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "Educational institution",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "Award",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "Award",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "Award",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "Award",
+          "value": "Golden Globe Award for Best Actress – Television Series Musical or Comedy",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "Award",
+          "value": "Palme d'Or",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "Award",
+          "value": "Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "Award",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "Award",
+          "value": "Grammy Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "Award",
+          "value": "Golden Globe Award for Best Supporting Actress – Motion Picture",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "Award",
+          "value": "Academy Award for Best Actress",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "Award",
+          "value": "Rock and Roll Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "Award",
+          "value": "Bambi Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "Award",
+          "value": "Kennedy Center Honors",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "Organization membership",
+          "value": "Sonny & Cher",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "Organization membership",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "Official website",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "Activity start date",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Bambi Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Rock and Roll Hall of Fame",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Kennedy Center Honors",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Grammy Awards",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: GLAAD Vanguard Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Academy Award for Best Actress",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Palme d'Or",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Hasty Pudding Woman of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Golden Globe Award for Best Supporting Actress – Motion Picture",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Golden Globe Award for Best Actress – Television Series Musical or Comedy",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1946-05-20",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Cher",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "Profession",
+          "value": "acteur ou actrice de cinéma",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "Profession",
+          "value": "acteur ou actrice de genre",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "Profession",
+          "value": "artiste d'enregistrement",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "Profession",
+          "value": "musicien ou musicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "Profession",
+          "value": "acteur ou actrice",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "Profession",
+          "value": "compositeur ou compositrice",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "Profession",
+          "value": "acteur ou actrice de télévision",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "Profession",
+          "value": "réalisateur ou réalisatrice de cinéma",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "Profession",
+          "value": "chanteur ou chanteuse",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "Lieu de naissance",
+          "value": "El Centro",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "Établissement fréquenté",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "Établissement fréquenté",
+          "value": "Montclair College Preparatory School",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "Établissement fréquenté",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "Distinction",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "Distinction",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "Distinction",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "Distinction",
+          "value": "Golden Globe de la meilleure actrice dans une série télévisée musicale ou comique",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "Distinction",
+          "value": "Palme d'or",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "Distinction",
+          "value": "Golden Globe de la meilleure actrice dans un film musical ou une comédie",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "Distinction",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "Distinction",
+          "value": "Grammy Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "Distinction",
+          "value": "Golden Globe de la meilleure actrice dans un second rôle",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "Distinction",
+          "value": "Oscar de la meilleure actrice",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "Distinction",
+          "value": "Rock and Roll Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "Distinction",
+          "value": "Bambi",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "Distinction",
+          "value": "prix Kennedy",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "Organisation dont la personne est membre",
+          "value": "Sonny and Cher",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "Organisation dont la personne est membre",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "Site officiel",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "Date de début d'activité",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Bambi",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Rock and Roll Hall of Fame",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Kennedy",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Grammy Awards",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: GLAAD Vanguard Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: Oscar de la meilleure actrice",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Golden Globe de la meilleure actrice dans un film musical ou une comédie",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Palme d'or",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Hasty Pudding Woman of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Golden Globe de la meilleure actrice dans un second rôle",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Golden Globe de la meilleure actrice dans une série télévisée musicale ou comique",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1946-05-20",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "شير",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "المهنة",
+          "value": "ممثل أفلام",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "المهنة",
+          "value": "ممثل تعبيري",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "المهنة",
+          "value": "موسيقي تسجيلات",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "المهنة",
+          "value": "موسيقي",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "المهنة",
+          "value": "ممثل",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "المهنة",
+          "value": "ملحن",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "المهنة",
+          "value": "ممثل تلفزي",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "المهنة",
+          "value": "مخرج أفلام",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "المهنة",
+          "value": "مغنٍّ",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "مكان الميلاد",
+          "value": "إل سنترو",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "المؤسسة التعليمية",
+          "value": "مركز التعليم المبكر",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "المؤسسة التعليمية",
+          "value": "مدرسة مونتكلير الإعدادية",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "المؤسسة التعليمية",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "الجائزة",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "الجائزة",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "الجائزة",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "الجائزة",
+          "value": "جائزة غولدن غلوب لأفضل ممثلة - مسلسل تلفزيوني موسيقي أو كوميدي",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "الجائزة",
+          "value": "السعفة الذهبية",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "الجائزة",
+          "value": "جائزة غولدن غلوب لأفضل ممثلة - فلم موسيقي أو كوميدي",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "الجائزة",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "الجائزة",
+          "value": "جائزة غرامي",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "الجائزة",
+          "value": "جائزة غولدن غلوب لأفضل ممثلة مساعدة - فلم",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "الجائزة",
+          "value": "جائزة الأوسكار لأفضل ممثلة",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "الجائزة",
+          "value": "الصالة الفخرية للروك آند رول",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "الجائزة",
+          "value": "جائزة بامبي",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "الجائزة",
+          "value": "جائزة مركز كينيدي الثقافي",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "عضوية منظمة",
+          "value": "Sonny & Cher",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "عضوية منظمة",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "الموقع الرسمي",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "تاريخ بدء النشاط",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة بامبي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: الصالة الفخرية للروك آند رول",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة مركز كينيدي الثقافي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة غرامي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: GLAAD Vanguard Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: جائزة الأوسكار لأفضل ممثلة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة غولدن غلوب لأفضل ممثلة - فلم موسيقي أو كوميدي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: السعفة الذهبية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Hasty Pudding Woman of the Year",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة غولدن غلوب لأفضل ممثلة مساعدة - فلم",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة غولدن غلوب لأفضل ممثلة - مسلسل تلفزيوني موسيقي أو كوميدي",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1946-05-20",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Cher",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "Beruf",
+          "value": "Filmschauspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "Beruf",
+          "value": "Charakterdarsteller",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "Beruf",
+          "value": "Aufnahmekünstler",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "Beruf",
+          "value": "Musiker",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "Beruf",
+          "value": "Schauspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "Beruf",
+          "value": "Komponist",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "Beruf",
+          "value": "Fernsehschauspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "Beruf",
+          "value": "Filmregisseur",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "Beruf",
+          "value": "Sänger",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "Geburtsort",
+          "value": "El Centro",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "Bildungseinrichtung",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "Bildungseinrichtung",
+          "value": "Montclair College Preparatory School",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "Bildungseinrichtung",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "Auszeichnung",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "Auszeichnung",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "Auszeichnung",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "Auszeichnung",
+          "value": "Golden Globe Award/Beste Serien-Hauptdarstellerin – Komödie oder Musical",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "Auszeichnung",
+          "value": "Goldene Palme",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "Auszeichnung",
+          "value": "Golden Globe Award/Beste Hauptdarstellerin – Komödie oder Musical",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "Auszeichnung",
+          "value": "ECHO Pop/Künstlerin Pop (international)",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "Auszeichnung",
+          "value": "Grammy Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "Auszeichnung",
+          "value": "Golden Globe Award/Beste Nebendarstellerin",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "Auszeichnung",
+          "value": "Oscar für die beste Hauptdarstellerin",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "Auszeichnung",
+          "value": "Rock and Roll Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "Auszeichnung",
+          "value": "Bambi",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "Auszeichnung",
+          "value": "Kennedy-Preis",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "Mitgliedschaft",
+          "value": "Sonny and Cher",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "Mitgliedschaft",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "Offizielle Website",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "Beginn der Tätigkeit",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Bambi",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Rock and Roll Hall of Fame",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Kennedy-Preis",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Grammy Awards",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: GLAAD Vanguard Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: ECHO Pop/Künstlerin Pop (international)",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Oscar für die beste Hauptdarstellerin",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Golden Globe Award/Beste Hauptdarstellerin – Komödie oder Musical",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Goldene Palme",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Hasty Pudding Woman of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Golden Globe Award/Beste Nebendarstellerin",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Golden Globe Award/Beste Serien-Hauptdarstellerin – Komödie oder Musical",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1946-05-20",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "シェール",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "職業",
+          "value": "映画俳優",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "職業",
+          "value": "性格俳優",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "職業",
+          "value": "レコーディング・アーティスト",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "職業",
+          "value": "音楽家",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "職業",
+          "value": "俳優",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "職業",
+          "value": "作曲家",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "職業",
+          "value": "テレビ俳優",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "職業",
+          "value": "映画監督",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "職業",
+          "value": "歌手",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "出典に記載された生年月日",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "出生地",
+          "value": "エル・セントロ",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "在籍した教育機関",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "在籍した教育機関",
+          "value": "モントクレア・カレッジ・プレパラトリースクール",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "在籍した教育機関",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "受賞",
+          "value": "ヴァラエティ/ミュージカルシングル番組部門",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "受賞",
+          "value": "ヴァンガード賞",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "受賞",
+          "value": "ウーマン・オブ・ジ・イヤー",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "受賞",
+          "value": "女優賞（ミュージカル・コメディ部門）",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "受賞",
+          "value": "パルム・ドール",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "受賞",
+          "value": "ゴールデングローブ賞 主演女優賞 (ミュージカル・コメディ部門)",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "受賞",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "受賞",
+          "value": "グラミー賞",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "受賞",
+          "value": "ゴールデングローブ賞 助演女優賞",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "受賞",
+          "value": "アカデミー主演女優賞",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "受賞",
+          "value": "ロックの殿堂",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "受賞",
+          "value": "バンビ",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "受賞",
+          "value": "ケネディ・センター名誉賞",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "団体への所属",
+          "value": "ソニー&シェール",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "団体への所属",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "公式サイト",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "活動開始日",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: バンビ",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ロックの殿堂",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ケネディ・センター名誉賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ヴァラエティ/ミュージカルシングル番組部門",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: グラミー賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ヴァンガード賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: アカデミー主演女優賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ゴールデングローブ賞 主演女優賞 (ミュージカル・コメディ部門)",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: パルム・ドール",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ウーマン・オブ・ジ・イヤー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ゴールデングローブ賞 助演女優賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 女優賞（ミュージカル・コメディ部門）",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1946-05-20",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Cher",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "Ocupación",
+          "value": "actor de cine",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "Ocupación",
+          "value": "actor de género",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "Ocupación",
+          "value": "artista discográfico",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "Ocupación",
+          "value": "músico",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "Ocupación",
+          "value": "actor",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "Ocupación",
+          "value": "compositor",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "Ocupación",
+          "value": "actor de televisión",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "Ocupación",
+          "value": "director de cine",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "Ocupación",
+          "value": "cantante",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "Lugar de nacimiento",
+          "value": "El Centro",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "Institución educativa",
+          "value": "El Centro de Educación Temprana",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "Institución educativa",
+          "value": "Colegio Montclair Escuela Preparatoria",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "Institución educativa",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "Distinción",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "Distinción",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "Distinción",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "Distinción",
+          "value": "Anexo:Globo de Oro a la mejor actriz de serie de televisión - Comedia o musical",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "Distinción",
+          "value": "Palma de Oro",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "Distinción",
+          "value": "Globo de Oro a la mejor actriz - Comedia o musical",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "Distinción",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "Distinción",
+          "value": "Premios Grammy",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "Distinción",
+          "value": "Globo de Oro a la mejor actriz de reparto",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "Distinción",
+          "value": "Óscar a la mejor actriz",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "Distinción",
+          "value": "Salón de la Fama del Rock",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "Distinción",
+          "value": "Premios Bambi",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "Distinción",
+          "value": "Premio Kennedy Center Honors",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "Pertenencia a una organización",
+          "value": "Sonny & Cher",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "Pertenencia a una organización",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "Sitio web oficial",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "Inicio de actividad",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premios Bambi",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Salón de la Fama del Rock",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Kennedy Center Honors",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premios Grammy",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: GLAAD Vanguard Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Óscar a la mejor actriz",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Globo de Oro a la mejor actriz - Comedia o musical",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Palma de Oro",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Hasty Pudding Woman of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Globo de Oro a la mejor actriz de reparto",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anexo:Globo de Oro a la mejor actriz de serie de televisión - Comedia o musical",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1946-05-20",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "셰어",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1f1052ba01022afeda84",
+          "label": "직업",
+          "value": "영화 배우",
+          "notes": []
+        },
+        {
+          "id": "fact-2cc9a03b7820e9db1abb",
+          "label": "직업",
+          "value": "character actor",
+          "notes": []
+        },
+        {
+          "id": "fact-4a0581110cf347b100ed",
+          "label": "직업",
+          "value": "recording artist",
+          "notes": []
+        },
+        {
+          "id": "fact-5ff738aacd33204dea0c",
+          "label": "직업",
+          "value": "음악가",
+          "notes": []
+        },
+        {
+          "id": "fact-6300f2ccd9cbbab7f4fd",
+          "label": "직업",
+          "value": "배우",
+          "notes": []
+        },
+        {
+          "id": "fact-6bb3e102af3559e628dc",
+          "label": "직업",
+          "value": "작곡가",
+          "notes": []
+        },
+        {
+          "id": "fact-91c89af82950fa835e41",
+          "label": "직업",
+          "value": "텔레비전 배우",
+          "notes": []
+        },
+        {
+          "id": "fact-bece91721dab85ca9147",
+          "label": "직업",
+          "value": "영화 감독",
+          "notes": []
+        },
+        {
+          "id": "fact-cb8624ea0825bd599cd7",
+          "label": "직업",
+          "value": "가수",
+          "notes": []
+        },
+        {
+          "id": "fact-98bcea4ff1961f3e93b7",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-7bb196b7c7a4f92cd056",
+          "label": "출처에 기재된 출생일",
+          "value": "1946-05-20",
+          "notes": []
+        },
+        {
+          "id": "fact-d9612b1011390ae3d366",
+          "label": "출생지",
+          "value": "엘센트로",
+          "notes": []
+        },
+        {
+          "id": "fact-3701d011e96b3dcb21ff",
+          "label": "교육 기관",
+          "value": "The Center for Early Education",
+          "notes": []
+        },
+        {
+          "id": "fact-6d0a1cf2a96ebb48285c",
+          "label": "교육 기관",
+          "value": "Montclair College Preparatory School",
+          "notes": []
+        },
+        {
+          "id": "fact-9065d945ace32edd3771",
+          "label": "교육 기관",
+          "value": "Fresno High School",
+          "notes": []
+        },
+        {
+          "id": "fact-141117ea998045a1fcbe",
+          "label": "수상",
+          "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "notes": []
+        },
+        {
+          "id": "fact-2138aa366b4054b12bff",
+          "label": "수상",
+          "value": "GLAAD Vanguard Award",
+          "notes": []
+        },
+        {
+          "id": "fact-26cb8686dd4fa73e3541",
+          "label": "수상",
+          "value": "Hasty Pudding Woman of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-367d50d6ebe1b1846d9e",
+          "label": "수상",
+          "value": "Golden Globe Award for Best Actress – Television Series Musical or Comedy",
+          "notes": []
+        },
+        {
+          "id": "fact-59ce6a5697bba7a1f628",
+          "label": "수상",
+          "value": "황금종려상",
+          "notes": []
+        },
+        {
+          "id": "fact-7ab27efe504fb9b47a52",
+          "label": "수상",
+          "value": "Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy",
+          "notes": []
+        },
+        {
+          "id": "fact-8f0c1791682dd78dcb6b",
+          "label": "수상",
+          "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "notes": []
+        },
+        {
+          "id": "fact-a9ca0f4835639b937791",
+          "label": "수상",
+          "value": "그래미상",
+          "notes": []
+        },
+        {
+          "id": "fact-b490851706f915630e0c",
+          "label": "수상",
+          "value": "Golden Globe Award for Best Supporting Actress – Motion Picture",
+          "notes": []
+        },
+        {
+          "id": "fact-e4ed21a7a85daa7c141c",
+          "label": "수상",
+          "value": "아카데미 여우주연상",
+          "notes": []
+        },
+        {
+          "id": "fact-e97811f9269eb81992ab",
+          "label": "수상",
+          "value": "로큰롤 명예의 전당",
+          "notes": []
+        },
+        {
+          "id": "fact-f2f08ff88fd15f7f209d",
+          "label": "수상",
+          "value": "밤비상",
+          "notes": []
+        },
+        {
+          "id": "fact-f717c678cdbd9cdd45cf",
+          "label": "수상",
+          "value": "Kennedy Center Honors",
+          "notes": []
+        },
+        {
+          "id": "fact-394abd0b4f4519fea125",
+          "label": "단체 회원 자격",
+          "value": "소니 앤 셰르",
+          "notes": []
+        },
+        {
+          "id": "fact-3d657a705d88dc59171f",
+          "label": "단체 회원 자격",
+          "value": "Allman and Woman",
+          "notes": []
+        },
+        {
+          "id": "fact-707b6e43762bed6cc4f2",
+          "label": "공식 웹사이트",
+          "value": "https://www.cherfanclub.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-878da479c003dfdd300f",
+          "label": "활동 시작일",
+          "value": "1963",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-6a6947ae95945800a388",
+          "factId": "fact-f2f08ff88fd15f7f209d",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 밤비상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-40776a95b39c9031f106",
+          "factId": "fact-e97811f9269eb81992ab",
+          "date": "2024",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 로큰롤 명예의 전당",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-d20dc1ab3f9942bcfce4",
+          "factId": "fact-f717c678cdbd9cdd45cf",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Kennedy Center Honors",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-72dd872f2aa024ee7bb2",
+          "factId": "fact-141117ea998045a1fcbe",
+          "date": "2003",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-641a85e1aa3cf3a5b148",
+          "factId": "fact-a9ca0f4835639b937791",
+          "date": "2000",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 그래미상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-d8260cf646c5f7248e73",
+          "factId": "fact-2138aa366b4054b12bff",
+          "date": "1998",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: GLAAD Vanguard Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-82548865f8cd547e3f63",
+          "factId": "fact-8f0c1791682dd78dcb6b",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Echo Pop Award for the Best International Rock/Pop Female Artist",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-25a425ae5db2d8ff5950",
+          "factId": "fact-e4ed21a7a85daa7c141c",
+          "date": "1988-04-11",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: 아카데미 여우주연상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9b070f6b1a1249cc76cf",
+          "factId": "fact-7ab27efe504fb9b47a52",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-29c7c271473c0db4484f",
+          "factId": "fact-59ce6a5697bba7a1f628",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 황금종려상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4088959ae8ebf0715332",
+          "factId": "fact-26cb8686dd4fa73e3541",
+          "date": "1985",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Hasty Pudding Woman of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-bffdfa5f3006e72559d6",
+          "factId": "fact-b490851706f915630e0c",
+          "date": "1984",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Golden Globe Award for Best Supporting Actress – Motion Picture",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c805ebc9dffb9c0f50ff",
+          "factId": "fact-367d50d6ebe1b1846d9e",
+          "date": "1974",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Golden Globe Award for Best Actress – Television Series Musical or Comedy",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-bea723541e9f7ee80dca",
+          "factId": "fact-7bb196b7c7a4f92cd056",
+          "date": "1946-05-20",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1946-05-20",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "ar",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "ar",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "ar",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "ar",
+        "key": "Q7243516"
+      },
+      {
+        "locale": "ar",
+        "key": "Q83551763"
+      },
+      {
+        "locale": "ar",
+        "key": "Q907445"
+      },
+      {
+        "locale": "de",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "de",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "de",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "de",
+        "key": "Q7243516"
+      },
+      {
+        "locale": "de",
+        "key": "Q7721887"
+      },
+      {
+        "locale": "es",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "es",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "es",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "es",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "es",
+        "key": "Q7243516"
+      },
+      {
+        "locale": "fr",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "fr",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "fr",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "fr",
+        "key": "Q7243516"
+      },
+      {
+        "locale": "ja",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "ja",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "ja",
+        "key": "Q7721887"
+      },
+      {
+        "locale": "ja",
+        "key": "Q83551763"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1011564"
+      },
+      {
+        "locale": "ko",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1255210"
+      },
+      {
+        "locale": "ko",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1738793"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "ko",
+        "key": "Q55960555"
+      },
+      {
+        "locale": "ko",
+        "key": "Q6904590"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7243516"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7721887"
+      },
+      {
+        "locale": "ko",
+        "key": "Q822907"
+      },
+      {
+        "locale": "ko",
+        "key": "Q83551763"
+      },
+      {
+        "locale": "ko",
+        "key": "Q948329"
+      },
+      {
+        "locale": "zh",
+        "key": "Q10294045"
+      },
+      {
+        "locale": "zh",
+        "key": "Q135992929"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5503182"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5513594"
+      },
+      {
+        "locale": "zh",
+        "key": "Q6904590"
+      },
+      {
+        "locale": "zh",
+        "key": "Q7721887"
+      },
+      {
+        "locale": "zh",
+        "key": "Q83551763"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q7243516",
+        "fallbackLocale": "en",
+        "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q83551763",
+        "fallbackLocale": "en",
+        "value": "Allman and Woman",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q907445",
+        "fallbackLocale": "en",
+        "value": "Sonny & Cher",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7243516",
+        "fallbackLocale": "en",
+        "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7721887",
+        "fallbackLocale": "en",
+        "value": "The Center for Early Education",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7243516",
+        "fallbackLocale": "en",
+        "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q7243516",
+        "fallbackLocale": "en",
+        "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q7721887",
+        "fallbackLocale": "en",
+        "value": "The Center for Early Education",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q83551763",
+        "fallbackLocale": "en",
+        "value": "Allman and Woman",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1011564",
+        "fallbackLocale": "en",
+        "value": "Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1255210",
+        "fallbackLocale": "en",
+        "value": "Golden Globe Award for Best Actress – Television Series Musical or Comedy",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1738793",
+        "fallbackLocale": "en",
+        "value": "Kennedy Center Honors",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q55960555",
+        "fallbackLocale": "en",
+        "value": "recording artist",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q6904590",
+        "fallbackLocale": "en",
+        "value": "Montclair College Preparatory School",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7243516",
+        "fallbackLocale": "en",
+        "value": "Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7721887",
+        "fallbackLocale": "en",
+        "value": "The Center for Early Education",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q822907",
+        "fallbackLocale": "en",
+        "value": "Golden Globe Award for Best Supporting Actress – Motion Picture",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q83551763",
+        "fallbackLocale": "en",
+        "value": "Allman and Woman",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q948329",
+        "fallbackLocale": "en",
+        "value": "character actor",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q10294045",
+        "fallbackLocale": "en",
+        "value": "Hasty Pudding Woman of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q135992929",
+        "fallbackLocale": "en",
+        "value": "Echo Pop Award for the Best International Rock/Pop Female Artist",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5503182",
+        "fallbackLocale": "en",
+        "value": "Fresno High School",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5513594",
+        "fallbackLocale": "en",
+        "value": "GLAAD Vanguard Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q6904590",
+        "fallbackLocale": "en",
+        "value": "Montclair College Preparatory School",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q7721887",
+        "fallbackLocale": "en",
+        "value": "The Center for Early Education",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q83551763",
+        "fallbackLocale": "en",
+        "value": "Allman and Woman",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 14,
+    "professionalEventCount": 13,
+    "factCount": 32,
+    "factsWithoutExternalReference": 30,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

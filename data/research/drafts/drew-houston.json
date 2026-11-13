@@ -1,0 +1,1335 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "drew-houston",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/drew-houston.json",
+    "sha256": "52cb8427634e8e0114b430f02037a6a6c3e7f6e9ae00e89a245573fd25fde61d",
+    "capturedAt": "2026-11-13T11:26:13Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+      "https://en.wikipedia.org/wiki/Drew_Houston",
+      "https://www.wikidata.org/wiki/Q5307199"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q5307199",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Drew Houston",
+    "sourceIdentity": {
+      "requestedName": "Drew Houston",
+      "requestedTitle": "Drew Houston",
+      "resolvedTitle": "Drew Houston",
+      "wikidataId": "Q5307199",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-60a53151dcfc0d344faf",
+      "property": "P106",
+      "claimId": "Q5307199$BD477C6A-AC7D-432E-8B3F-C09C1BD6ACF3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82594,
+          "id": "Q82594"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d42aa7f0b45eccf8e88c",
+      "property": "P106",
+      "claimId": "Q5307199$e3e7827c-4fc3-0d25-66f8-910f076108b3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-15f02f3535cce8daeae2",
+      "property": "P27",
+      "claimId": "Q5307199$C9BC3433-9890-4E97-9F6C-3AF9943BFEF0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-da3cf08cdaa5b6583815",
+      "property": "P569",
+      "claimId": "Q5307199$B9239355-DAF2-48A7-B20F-CF7F6EAB66F6",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1983-03-04T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1983-03-04"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1983-03-04T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1983-03-04",
+        "earliest": "1983-03-04",
+        "latest": "1983-03-04",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-52f0ec6a5f7939701fa4",
+      "property": "P19",
+      "claimId": "Q5307199$A4947EE2-3285-4C62-B8CB-3535733F7BE5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 344431,
+          "id": "Q344431"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 15241312,
+                "id": "Q15241312"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q15241312",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q15241312"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-794840c0bf39df4ba0ba",
+      "property": "P69",
+      "claimId": "Q5307199$CD97122D-26F7-4961-921F-28C9A7C89226",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49108,
+          "id": "Q49108"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c39a906c72b1e669304b",
+      "property": "P69",
+      "claimId": "Q5307199$A3866647-FBF0-4EC7-9D47-60A3BAE74E7A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4677656,
+          "id": "Q4677656"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-06ac764554865888e66d",
+      "property": "P39",
+      "claimId": "Q5307199$b3b59593-4570-d15b-3c37-bc8ba203236f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 55168644,
+          "id": "Q55168644"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-02-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-02"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://investor.fb.com/leadership-and-governance/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-03-16T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-03-16"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://investor.fb.com/leadership-and-governance/",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://investor.fb.com/leadership-and-governance/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-02-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-02",
+          "earliest": "2020-02-01",
+          "latest": "2020-02-29",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-19c542a2f7808780fc4d",
+      "property": "P1416",
+      "claimId": "Q5307199$E51DADE4-06FD-4601-BCA7-4A846E44BAC6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 15589464,
+          "id": "Q15589464"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835662,
+                "id": "Q114835662"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q114835662",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114835662"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-a9787410a8fc1734c78d",
+      "factId": "fact-06ac764554865888e66d",
+      "claimId": "Q5307199$b3b59593-4570-d15b-3c37-bc8ba203236f",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2020-02",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://investor.fb.com/leadership-and-governance/",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b5dde51345ed733eb629",
+      "factId": "fact-da3cf08cdaa5b6583815",
+      "claimId": "Q5307199$B9239355-DAF2-48A7-B20F-CF7F6EAB66F6",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1983-03-04",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1366042978",
+        "https://en.wikipedia.org/wiki/Drew_Houston",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q5307199"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "德鲁·休斯敦",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "职业",
+          "value": "電腦科學家",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "来源所记出生日期",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "出生地",
+          "value": "阿克頓",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "就读机构",
+          "value": "麻省理工學院",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "就读机构",
+          "value": "阿克顿-博克斯伯勒地区高中",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "担任职务",
+          "value": "理事会成员",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "所属机构",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "担任职务: 理事会成员",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1983-03-04",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Drew Houston",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "Occupation",
+          "value": "computer scientist",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "Source-reported birth date",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "Place of birth",
+          "value": "Acton",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "Educational institution",
+          "value": "Massachusetts Institute of Technology",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "Educational institution",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "Position held",
+          "value": "board of directors member",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "Affiliation",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "Position held: board of directors member",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1983-03-04",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Drew Houston",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "Profession",
+          "value": "informaticien ou informaticienne",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "Lieu de naissance",
+          "value": "Acton",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "Établissement fréquenté",
+          "value": "Institut de technologie du Massachusetts",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "Établissement fréquenté",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "Fonction exercée",
+          "value": "membre du conseil d'administration",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "Affiliation",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "Fonction exercée: membre du conseil d'administration",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1983-03-04",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "درو هوستون",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "المهنة",
+          "value": "عالم حاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "مكان الميلاد",
+          "value": "أكتون",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "المؤسسة التعليمية",
+          "value": "معهد ماساتشوستس للتقانة",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "المؤسسة التعليمية",
+          "value": "ثانوية أكتون بوكسبورو",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "المنصب",
+          "value": "عضو مجلس الإدارة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "الانتساب المؤسسي",
+          "value": "شركة دروبوكس",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "المنصب: عضو مجلس الإدارة",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1983-03-04",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Drew Houston",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "Beruf",
+          "value": "Informatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "Geburtsort",
+          "value": "Acton",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "Bildungseinrichtung",
+          "value": "Massachusetts Institute of Technology",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "Bildungseinrichtung",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "Ausgeübtes Amt",
+          "value": "Vorstandsmitglied",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "Zugehörigkeit",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Vorstandsmitglied",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1983-03-04",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Drew Houston",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "職業",
+          "value": "計算機科学者",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "出典に記載された生年月日",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "出生地",
+          "value": "アクトン",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "在籍した教育機関",
+          "value": "マサチューセッツ工科大学",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "在籍した教育機関",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "役職",
+          "value": "board of directors member",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "所属機関",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "役職: board of directors member",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1983-03-04",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Drew Houston",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "Ocupación",
+          "value": "informático teórico",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "Lugar de nacimiento",
+          "value": "Acton",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "Institución educativa",
+          "value": "Instituto Tecnológico de Massachusetts",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "Institución educativa",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "Cargo desempeñado",
+          "value": "miembro del consejo de administración",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "Afiliación",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "Cargo desempeñado: miembro del consejo de administración",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1983-03-04",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Drew Houston",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-60a53151dcfc0d344faf",
+          "label": "직업",
+          "value": "컴퓨터 과학자",
+          "notes": []
+        },
+        {
+          "id": "fact-d42aa7f0b45eccf8e88c",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-15f02f3535cce8daeae2",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-da3cf08cdaa5b6583815",
+          "label": "출처에 기재된 출생일",
+          "value": "1983-03-04",
+          "notes": []
+        },
+        {
+          "id": "fact-52f0ec6a5f7939701fa4",
+          "label": "출생지",
+          "value": "액턴",
+          "notes": []
+        },
+        {
+          "id": "fact-794840c0bf39df4ba0ba",
+          "label": "교육 기관",
+          "value": "매사추세츠 공과대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-c39a906c72b1e669304b",
+          "label": "교육 기관",
+          "value": "Acton-Boxborough Regional High School",
+          "notes": []
+        },
+        {
+          "id": "fact-06ac764554865888e66d",
+          "label": "직책",
+          "value": "board of directors member",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-19c542a2f7808780fc4d",
+          "label": "소속 기관",
+          "value": "Dropbox Inc.",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a9787410a8fc1734c78d",
+          "factId": "fact-06ac764554865888e66d",
+          "date": "2020-02",
+          "precision": 10,
+          "kind": "start",
+          "title": "직책: board of directors member",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-b5dde51345ed733eb629",
+          "factId": "fact-da3cf08cdaa5b6583815",
+          "date": "1983-03-04",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1983-03-04",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "de",
+        "key": "Q15589464"
+      },
+      {
+        "locale": "de",
+        "key": "Q4677656"
+      },
+      {
+        "locale": "es",
+        "key": "Q4677656"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "Q15589464"
+      },
+      {
+        "locale": "ja",
+        "key": "Q4677656"
+      },
+      {
+        "locale": "ja",
+        "key": "Q55168644"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q15589464"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4677656"
+      },
+      {
+        "locale": "ko",
+        "key": "Q55168644"
+      },
+      {
+        "locale": "zh",
+        "key": "Q15589464"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "de",
+        "key": "Q15589464",
+        "fallbackLocale": "en",
+        "value": "Dropbox Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4677656",
+        "fallbackLocale": "en",
+        "value": "Acton-Boxborough Regional High School",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4677656",
+        "fallbackLocale": "en",
+        "value": "Acton-Boxborough Regional High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Drew Houston",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q15589464",
+        "fallbackLocale": "en",
+        "value": "Dropbox Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q4677656",
+        "fallbackLocale": "en",
+        "value": "Acton-Boxborough Regional High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q55168644",
+        "fallbackLocale": "en",
+        "value": "board of directors member",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Drew Houston",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q15589464",
+        "fallbackLocale": "en",
+        "value": "Dropbox Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4677656",
+        "fallbackLocale": "en",
+        "value": "Acton-Boxborough Regional High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q55168644",
+        "fallbackLocale": "en",
+        "value": "board of directors member",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q15589464",
+        "fallbackLocale": "en",
+        "value": "Dropbox Inc.",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 2,
+    "professionalEventCount": 1,
+    "factCount": 9,
+    "factsWithoutExternalReference": 8,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

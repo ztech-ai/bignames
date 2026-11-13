@@ -1,0 +1,2027 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "ms-dhoni",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/ms-dhoni.json",
+    "sha256": "34c8063dab9973cb6a2d04ae59f758c4ff18db50b798cb8767b43b4a5fe15b10",
+    "capturedAt": "2026-11-13T11:26:00Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+      "https://en.wikipedia.org/wiki/MS_Dhoni",
+      "https://www.wikidata.org/wiki/Q470774"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q470774",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "MS Dhoni",
+    "sourceIdentity": {
+      "requestedName": "MS Dhoni",
+      "requestedTitle": "MS Dhoni",
+      "resolvedTitle": "MS Dhoni",
+      "wikidataId": "Q470774",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-435d071f364daa5323a0",
+      "property": "P106",
+      "claimId": "Q470774$3893E1A7-5700-42B9-8806-2DAF8E51779E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 12299841,
+          "id": "Q12299841"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-07-05T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-07-05"
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.news18.com/cricketnext/profile/ms-dhoni/3676.htm"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.news18.com/cricketnext/profile/ms-dhoni/3676.htm",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [
+        "https://www.news18.com/cricketnext/profile/ms-dhoni/3676.htm"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-24cf343c3e2aa17cce8e",
+      "property": "P27",
+      "claimId": "Q470774$143B8FA1-E49A-4B94-AB7A-06F1A7A06E68",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 668,
+          "id": "Q668"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.bbc.co.uk/sport/0/cricket/29088722"
+            }
+          ]
+        },
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.bbc.co.uk/sport/0/cricket/29088722",
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "http://www.bbc.co.uk/sport/0/cricket/29088722",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-fdc6fb77711f64358650",
+      "property": "P569",
+      "claimId": "Q470774$04F188D3-F54A-42C8-BDD5-B4EE3F805F27",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1981-07-07T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1981-07-07"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.mapsofindia.com/who-is-who/sports/mahender-singh-dhoni.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.mapsofindia.com/who-is-who/sports/mahender-singh-dhoni.html",
+        "https://www.wikidata.org/wiki/Q470774",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceUrls": [
+        "https://www.mapsofindia.com/who-is-who/sports/mahender-singh-dhoni.html",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1981-07-07T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1981-07-07",
+        "earliest": "1981-07-07",
+        "latest": "1981-07-07",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-e8b77dd172a4918b6381",
+      "property": "P19",
+      "claimId": "Q470774$47036CBE-5B53-45D2-A051-0F9CC49CB580",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 174461,
+          "id": "Q174461"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.espncricinfo.com/india/content/player/28081.html"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-07-28T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-07-28"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.espncricinfo.com/india/content/player/28081.html",
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [
+        "http://www.espncricinfo.com/india/content/player/28081.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-38f851b07a37f14c09aa",
+      "property": "P69",
+      "claimId": "Q470774$13AA15EB-6352-4943-AA5E-E928FD6A1CA7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 6165962,
+          "id": "Q6165962"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-3ff93a3ed4e2000f716c",
+      "property": "P166",
+      "claimId": "Q470774$3F5DD76B-2CD1-4080-8988-6F5F0396D9C1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5969457,
+          "id": "Q5969457"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2013-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6cddadfd1f8649d4cef4",
+      "property": "P166",
+      "claimId": "Q470774$A6799ABD-2BBA-4858-9179-7AEBAB97EF46",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30133065,
+          "id": "Q30133065"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6e35103b771096fcf366",
+      "property": "P166",
+      "claimId": "Q470774$CF4B02B8-EB41-4504-9568-21BAB954D21F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5013123,
+          "id": "Q5013123"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2011-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011",
+          "earliest": "2011-01-01",
+          "latest": "2011-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ad34253507489cc17f36",
+      "property": "P166",
+      "claimId": "Q470774$d64bb44c-444e-ab40-1ac9-f0d9d39e2e69",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 932650,
+          "id": "Q932650"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-03-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018-03-20"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://padmaawards.gov.in/PDFS/Padma2018List.pdf"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://sports.ndtv.com/cricket/ms-dhoni-receives-padma-bhushan-award-from-president-ram-nath-kovind-twitter-loves-it-1831906"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-07-28T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-07-28"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://padmaawards.gov.in/PDFS/Padma2018List.pdf",
+        "https://sports.ndtv.com/cricket/ms-dhoni-receives-padma-bhushan-award-from-president-ram-nath-kovind-twitter-loves-it-1831906",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [
+        "https://padmaawards.gov.in/PDFS/Padma2018List.pdf",
+        "https://sports.ndtv.com/cricket/ms-dhoni-receives-padma-bhushan-award-from-president-ram-nath-kovind-twitter-loves-it-1831906"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-03-20T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018-03-20",
+          "earliest": "2018-03-20",
+          "latest": "2018-03-20",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b6b656e0e2d489a502df",
+      "property": "P166",
+      "claimId": "Q470774$EA093D86-6F75-4BE7-9D49-E7BA5C4838D0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1860840,
+          "id": "Q1860840"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2007-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2007"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2007-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-1b39a98c25ef414552b2",
+      "property": "P856",
+      "claimId": "Q470774$ABC3F525-6DB3-421D-A8F8-1E867184D0D8",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://www.dhoniworld.com"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-cf4b0883922121ca658e",
+      "factId": "fact-ad34253507489cc17f36",
+      "claimId": "Q470774$d64bb44c-444e-ab40-1ac9-f0d9d39e2e69",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018-03-20",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://padmaawards.gov.in/PDFS/Padma2018List.pdf",
+        "https://sports.ndtv.com/cricket/ms-dhoni-receives-padma-bhushan-award-from-president-ram-nath-kovind-twitter-loves-it-1831906",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-7fb29dbca66789170188",
+      "factId": "fact-3ff93a3ed4e2000f716c",
+      "claimId": "Q470774$3F5DD76B-2CD1-4080-8988-6F5F0396D9C1",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2013",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-bb9cb9e579e3d52e4f62",
+      "factId": "fact-6e35103b771096fcf366",
+      "claimId": "Q470774$CF4B02B8-EB41-4504-9568-21BAB954D21F",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2011",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e294ee2fb401d9c99577",
+      "factId": "fact-b6b656e0e2d489a502df",
+      "claimId": "Q470774$EA093D86-6F75-4BE7-9D49-E7BA5C4838D0",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2007",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.wikidata.org/wiki/Q470774"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-862ad142e948900a0612",
+      "factId": "fact-fdc6fb77711f64358650",
+      "claimId": "Q470774$04F188D3-F54A-42C8-BDD5-B4EE3F805F27",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1981-07-07",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385119545",
+        "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "https://www.mapsofindia.com/who-is-who/sports/mahender-singh-dhoni.html",
+        "https://www.wikidata.org/wiki/Q470774",
+        "https://www.wikidata.org/wiki/Q5375741"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "马亨德拉·辛格·多尼",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "职业",
+          "value": "板球運動員",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "国籍",
+          "value": "印度",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "来源所记出生日期",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "出生地",
+          "value": "蘭契",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "就读机构",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "奖项",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "奖项",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "奖项",
+          "value": "CNN-News18 Indian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "奖项",
+          "value": "莲花装勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "奖项",
+          "value": "拉吉夫·甘地體育運動榮譽獎",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "官方网站",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: 莲花装勋章",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: ICC World ODI XI",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: CNN-News18 Indian of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 拉吉夫·甘地體育運動榮譽獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1981-07-07",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "MS Dhoni",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "Occupation",
+          "value": "cricketer",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "Citizenship",
+          "value": "India",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "Source-reported birth date",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "Place of birth",
+          "value": "Ranchi",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "Educational institution",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "Award",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "Award",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "Award",
+          "value": "CNN-News18 Indian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "Award",
+          "value": "Padma Bhushan",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "Award",
+          "value": "Major Dhyan Chand Khel Ratna Award in Sports and Games",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "Official website",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Padma Bhushan",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: ICC World ODI XI",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: CNN-News18 Indian of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Major Dhyan Chand Khel Ratna Award in Sports and Games",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1981-07-07",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "MS Dhoni",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "Profession",
+          "value": "joueur ou joueuse de cricket",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "Nationalité",
+          "value": "Inde",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "Lieu de naissance",
+          "value": "Ranchi",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "Établissement fréquenté",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "Distinction",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "Distinction",
+          "value": "Padma Shri en sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "Distinction",
+          "value": "Indien de l'année CNN-IBN",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "Distinction",
+          "value": "Padma Bhushan",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "Distinction",
+          "value": "Rajiv Gandhi Khel Ratna",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "Site officiel",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: Padma Bhushan",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: ICC World ODI XI",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Indien de l'année CNN-IBN",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Rajiv Gandhi Khel Ratna",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1981-07-07",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "ماهيندرا دوني",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "المهنة",
+          "value": "لاعب كريكت",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "الجنسية",
+          "value": "الهند",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "مكان الميلاد",
+          "value": "رانشي",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "المؤسسة التعليمية",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "الجائزة",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "الجائزة",
+          "value": "بادما شري في الرياضة",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "الجائزة",
+          "value": "جائزة هندي السنة من سي أن أن نيوز18",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "الجائزة",
+          "value": "بادما بوشان",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "الجائزة",
+          "value": "جائزة خيل راتنا",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "الموقع الرسمي",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: بادما بوشان",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ICC World ODI XI",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة هندي السنة من سي أن أن نيوز18",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة خيل راتنا",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1981-07-07",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Mahendra Singh Dhoni",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "Beruf",
+          "value": "Cricketspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "Staatsangehörigkeit",
+          "value": "Indien",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "Geburtsort",
+          "value": "Ranchi",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "Bildungseinrichtung",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "Auszeichnung",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "Auszeichnung",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "Auszeichnung",
+          "value": "CNN-News18 Indian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "Auszeichnung",
+          "value": "Padma Bhushan",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "Auszeichnung",
+          "value": "Rajiv Gandhi Khel Ratna",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "Offizielle Website",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Padma Bhushan",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: ICC World ODI XI",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: CNN-News18 Indian of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Rajiv Gandhi Khel Ratna",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1981-07-07",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "マヘンドラ・シン・ドーニ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "職業",
+          "value": "クリケット選手",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "国籍",
+          "value": "インド",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "出典に記載された生年月日",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "出生地",
+          "value": "ラーンチー",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "在籍した教育機関",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "受賞",
+          "value": "ICC・ODI・チーム・オブ・ザ・イヤ―賞",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "受賞",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "受賞",
+          "value": "CNN-IBN インディアン・オブ・ザ・イヤー",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "受賞",
+          "value": "パドマ・ブーシャン勲章",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "受賞",
+          "value": "ラジーヴ・ガンディー・ケール・ラトナ賞",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "公式サイト",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: パドマ・ブーシャン勲章",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ICC・ODI・チーム・オブ・ザ・イヤ―賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: CNN-IBN インディアン・オブ・ザ・イヤー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ラジーヴ・ガンディー・ケール・ラトナ賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1981-07-07",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Mahendra Singh Dhoni",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "Ocupación",
+          "value": "jugador de críquet",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "Nacionalidad",
+          "value": "India",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "Lugar de nacimiento",
+          "value": "Ranchi",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "Institución educativa",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "Distinción",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "Distinción",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "Distinción",
+          "value": "CNN-IBN Indian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "Distinción",
+          "value": "Premio Padma Bhushan",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "Distinción",
+          "value": "Major Dhyan Chand Khel Ratna Award in Sports and Games",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "Sitio web oficial",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Premio Padma Bhushan",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: ICC World ODI XI",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: CNN-IBN Indian of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Major Dhyan Chand Khel Ratna Award in Sports and Games",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1981-07-07",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "MS Dhoni",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-435d071f364daa5323a0",
+          "label": "직업",
+          "value": "크리켓 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-24cf343c3e2aa17cce8e",
+          "label": "국적",
+          "value": "인도",
+          "notes": []
+        },
+        {
+          "id": "fact-fdc6fb77711f64358650",
+          "label": "출처에 기재된 출생일",
+          "value": "1981-07-07",
+          "notes": []
+        },
+        {
+          "id": "fact-e8b77dd172a4918b6381",
+          "label": "출생지",
+          "value": "란치",
+          "notes": []
+        },
+        {
+          "id": "fact-38f851b07a37f14c09aa",
+          "label": "교육 기관",
+          "value": "Jawahar Vidya Mandir",
+          "notes": []
+        },
+        {
+          "id": "fact-3ff93a3ed4e2000f716c",
+          "label": "수상",
+          "value": "ICC World ODI XI",
+          "notes": []
+        },
+        {
+          "id": "fact-6cddadfd1f8649d4cef4",
+          "label": "수상",
+          "value": "Padma Shri in Sports",
+          "notes": []
+        },
+        {
+          "id": "fact-6e35103b771096fcf366",
+          "label": "수상",
+          "value": "CNN-News18 Indian of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-ad34253507489cc17f36",
+          "label": "수상",
+          "value": "파드마 부샨",
+          "notes": []
+        },
+        {
+          "id": "fact-b6b656e0e2d489a502df",
+          "label": "수상",
+          "value": "라지브 간디 켈 라트나",
+          "notes": []
+        },
+        {
+          "id": "fact-1b39a98c25ef414552b2",
+          "label": "공식 웹사이트",
+          "value": "http://www.dhoniworld.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-cf4b0883922121ca658e",
+          "factId": "fact-ad34253507489cc17f36",
+          "date": "2018-03-20",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: 파드마 부샨",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-7fb29dbca66789170188",
+          "factId": "fact-3ff93a3ed4e2000f716c",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: ICC World ODI XI",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-bb9cb9e579e3d52e4f62",
+          "factId": "fact-6e35103b771096fcf366",
+          "date": "2011",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: CNN-News18 Indian of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e294ee2fb401d9c99577",
+          "factId": "fact-b6b656e0e2d489a502df",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 라지브 간디 켈 라트나",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-862ad142e948900a0612",
+          "factId": "fact-fdc6fb77711f64358650",
+          "date": "1981-07-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1981-07-07",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "ar",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "de",
+        "key": "Q30133065"
+      },
+      {
+        "locale": "de",
+        "key": "Q5013123"
+      },
+      {
+        "locale": "de",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "de",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "es",
+        "key": "Q1860840"
+      },
+      {
+        "locale": "es",
+        "key": "Q30133065"
+      },
+      {
+        "locale": "es",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "es",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "fr",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "ja",
+        "key": "Q30133065"
+      },
+      {
+        "locale": "ja",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "ko",
+        "key": "Q30133065"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5013123"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "ko",
+        "key": "Q6165962"
+      },
+      {
+        "locale": "zh",
+        "key": "Q30133065"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5013123"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5969457"
+      },
+      {
+        "locale": "zh",
+        "key": "Q6165962"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q30133065",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5013123",
+        "fallbackLocale": "en",
+        "value": "CNN-News18 Indian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q1860840",
+        "fallbackLocale": "en",
+        "value": "Major Dhyan Chand Khel Ratna Award in Sports and Games",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q30133065",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "MS Dhoni",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q30133065",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q30133065",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5013123",
+        "fallbackLocale": "en",
+        "value": "CNN-News18 Indian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q30133065",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Sports",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5013123",
+        "fallbackLocale": "en",
+        "value": "CNN-News18 Indian of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5969457",
+        "fallbackLocale": "en",
+        "value": "ICC World ODI XI",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q6165962",
+        "fallbackLocale": "en",
+        "value": "Jawahar Vidya Mandir",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 11,
+    "factsWithoutExternalReference": 6,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

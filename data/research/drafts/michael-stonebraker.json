@@ -1,0 +1,2855 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "michael-stonebraker",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/michael-stonebraker.json",
+    "sha256": "490317301ba140d5b661c2633dc23eb2b3c4296c0e14092d5529908f50321f74",
+    "capturedAt": "2026-11-13T11:25:28Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+      "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+      "https://www.wikidata.org/wiki/Q92758"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q92758",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Michael Stonebraker",
+    "sourceIdentity": {
+      "requestedName": "Michael Stonebraker",
+      "requestedTitle": "Michael Stonebraker",
+      "resolvedTitle": "Michael Stonebraker",
+      "wikidataId": "Q92758",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-54c9b60d988a242cbcc2",
+      "property": "P106",
+      "claimId": "Q92758$DF30B8F6-A561-469E-902D-39C50D5A8552",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82594,
+          "id": "Q82594"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5f874f98d258404312da",
+      "property": "P27",
+      "claimId": "q92758$2A6B3860-12CA-4BFF-BBD8-1DD7E22D5E9A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2dd015d794c39b35a230",
+      "property": "P569",
+      "claimId": "q92758$C52B8E8D-3DB0-452D-B2CB-85D6C76A0E8A",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1943-10-11T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1943-10-11"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 29861311,
+                "id": "Q29861311"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q29861311"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1943-10-11T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1943-10-11",
+        "earliest": "1943-10-11",
+        "latest": "1943-10-11",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-efcb7bcddc0e56743deb",
+      "property": "P19",
+      "claimId": "Q92758$3A5260F3-1B02-4BB1-BE32-8364A575E2B4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 612201,
+          "id": "Q612201"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-41aa2c6e26ab63d1dafe",
+      "property": "P69",
+      "claimId": "Q92758$2802DE79-8657-4FED-99D4-08AD5A060326",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 230492,
+          "id": "Q230492"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6509c5a43cd7dbeac2f6",
+      "property": "P69",
+      "claimId": "Q92758$C9C2A693-EA4A-401A-A3B9-8156CE18938D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7737405,
+          "id": "Q7737405"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7c476aa242eaad706229",
+      "property": "P69",
+      "claimId": "Q92758$ADDDE3B4-68D5-4022-905A-7EFB41A25518",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 21578,
+          "id": "Q21578"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e7d69fe7de940ce436f6",
+      "property": "P108",
+      "claimId": "Q92758$F69BB612-8AAE-4237-A524-695559064605",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168756,
+          "id": "Q168756"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-9577ca59227995f8db3b",
+      "property": "P166",
+      "claimId": "Q92758$d833bacc-4938-eb7d-6fe7-8955d14ce30b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 727274,
+          "id": "Q727274"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2005-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2005"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2005-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2005",
+          "earliest": "2005-01-01",
+          "latest": "2005-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a05581856007f4712f09",
+      "property": "P166",
+      "claimId": "Q92758$E68B57FF-6C4E-4611-B3F5-10ED9EEC7C1E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10354964,
+          "id": "Q10354964"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1992-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1992"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1992-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1992",
+          "earliest": "1992-01-01",
+          "latest": "1992-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e2e3ffde6b4c13df187b",
+      "property": "P166",
+      "claimId": "Q92758$0077BABB-1428-4115-9857-2E74BED20230",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 18748039,
+          "id": "Q18748039"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://awards.acm.org/fellows/award-recipients"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-06-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-06-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://awards.acm.org/fellows/award-recipients"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f3694b22ade054c871c8",
+      "property": "P166",
+      "claimId": "Q92758$e0611dbe-4f95-2900-e29b-cbe15f056a3d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 185667,
+          "id": "Q185667"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fab71bded8a1f740b612",
+      "property": "P166",
+      "claimId": "Q92758$8F0A9CB3-6B5C-45B5-B9EE-7476272C68FC",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 986509,
+          "id": "Q986509"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1988-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1988"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://awards.acm.org/newell/award-recipients?year=&award=149&region=&submit=Submit&isSpecialCategory="
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://awards.acm.org/newell/award-recipients?year=&award=149&region=&submit=Submit&isSpecialCategory=",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://awards.acm.org/newell/award-recipients?year=&award=149&region=&submit=Submit&isSpecialCategory="
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1988-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-04566ad72f27c2e61034",
+      "property": "P101",
+      "claimId": "Q92758$737e97b4-4cbf-5bd4-9289-57beeb3741cc",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 21198,
+          "id": "Q21198"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4d185b0f92af119724c9",
+      "property": "P800",
+      "claimId": "Q92758$5C6AC618-5305-48C8-82CD-4E71C50C2E86",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60463,
+          "id": "Q60463"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-02f6327733eaf28d473e",
+      "property": "P463",
+      "claimId": "Q92758$7EE31F7E-273F-46BC-8C82-9A33AE2C6671",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 463303,
+          "id": "Q463303"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-3a185d21f4b81fed8842",
+      "property": "P463",
+      "claimId": "Q92758$D34EBD08-8931-471B-9C45-18C859030CB4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 127992,
+          "id": "Q127992"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://awards.acm.org/fellows/award-recipients"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-06-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-06-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://awards.acm.org/fellows/award-recipients"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-e4c618831e0d0aef1428",
+      "property": "P463",
+      "claimId": "Q92758$10F57B60-BFD3-4034-91F8-C71048D4F113",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 83172,
+          "id": "Q83172"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-11fc78d9fa538ebe9cdc",
+      "property": "P512",
+      "claimId": "Q92758$457699de-649c-4f7c-a878-340887dab230",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 752297,
+          "id": "Q752297"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 199698,
+                "id": "Q199698"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q199698",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q199698"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-609da7320f4b0ca7ef07",
+      "property": "P856",
+      "claimId": "Q92758$FDB23AC1-F27D-4FFE-A31B-812B11932D8D",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://db.lcs.mit.edu/"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1224715,
+                "id": "Q1224715"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-08-31T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q1224715",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q1224715"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-2c7e66da8b518553b436",
+      "factId": "fact-f3694b22ade054c871c8",
+      "claimId": "Q92758$e0611dbe-4f95-2900-e29b-cbe15f056a3d",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2014",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d915f9e8015779d5f5d9",
+      "factId": "fact-9577ca59227995f8db3b",
+      "claimId": "Q92758$d833bacc-4938-eb7d-6fe7-8955d14ce30b",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2005",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-57f76eed95706992b640",
+      "factId": "fact-e2e3ffde6b4c13df187b",
+      "claimId": "Q92758$0077BABB-1428-4115-9857-2E74BED20230",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1994",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-fd73d52f75f48c207daf",
+      "factId": "fact-a05581856007f4712f09",
+      "claimId": "Q92758$E68B57FF-6C4E-4611-B3F5-10ED9EEC7C1E",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1992",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-5205156d7a51514d09e4",
+      "factId": "fact-fab71bded8a1f740b612",
+      "claimId": "Q92758$8F0A9CB3-6B5C-45B5-B9EE-7476272C68FC",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1988",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://awards.acm.org/newell/award-recipients?year=&award=149&region=&submit=Submit&isSpecialCategory=",
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ab4e708aa3b6fd889627",
+      "factId": "fact-2dd015d794c39b35a230",
+      "claimId": "q92758$C52B8E8D-3DB0-452D-B2CB-85D6C76A0E8A",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1943-10-11",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383147863",
+        "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q92758"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "迈克尔·斯通布雷克",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "职业",
+          "value": "電腦科學家",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "来源所记出生日期",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "出生地",
+          "value": "米爾頓",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "就读机构",
+          "value": "密西根大学",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "就读机构",
+          "value": "總督學院",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "就读机构",
+          "value": "普林斯顿大学",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "雇主",
+          "value": "加州大學柏克萊分校",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "奖项",
+          "value": "约翰·冯诺依曼奖",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "奖项",
+          "value": "SIGMOD埃德加·F·科德創新獎",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "奖项",
+          "value": "ACM會士",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "奖项",
+          "value": "图灵奖",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "奖项",
+          "value": "計算機協會軟件系統獎",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "研究领域",
+          "value": "計算機科學",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "代表作品",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "组织成员",
+          "value": "美国文理科学院",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "组织成员",
+          "value": "计算机协会",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "组织成员",
+          "value": "俄羅斯科學院",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "学位",
+          "value": "哲學博士",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "官方网站",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 图灵奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 约翰·冯诺依曼奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: ACM會士",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: SIGMOD埃德加·F·科德創新獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 計算機協會軟件系統獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1943-10-11",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Michael Stonebraker",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "Occupation",
+          "value": "computer scientist",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "Source-reported birth date",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "Place of birth",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "Educational institution",
+          "value": "University of Michigan",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "Educational institution",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "Educational institution",
+          "value": "Princeton University",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "Employer",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "Award",
+          "value": "IEEE John von Neumann Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "Award",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "Award",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "Award",
+          "value": "Turing Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "Award",
+          "value": "ACM Software System Award",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "Field of work",
+          "value": "computer science",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "Notable work",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "Organization membership",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "Organization membership",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "Organization membership",
+          "value": "Russian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "Academic degree",
+          "value": "Doctor of Philosophy",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "Official website",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Turing Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: IEEE John von Neumann Medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: ACM Fellow",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: ACM Software System Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1943-10-11",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Michael Stonebraker",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "Profession",
+          "value": "informaticien ou informaticienne",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "Lieu de naissance",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "Établissement fréquenté",
+          "value": "Université du Michigan",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "Établissement fréquenté",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "Établissement fréquenté",
+          "value": "Université de Princeton",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "Employeur",
+          "value": "Université de Californie à Berkeley",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "Distinction",
+          "value": "médaille John von Neumann",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "Distinction",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "Distinction",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "Distinction",
+          "value": "prix Turing",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "Distinction",
+          "value": "prix ACM Software System",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "Domaine de travail",
+          "value": "informatique",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "Œuvre notable",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie américaine des arts et des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "Organisation dont la personne est membre",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie des sciences de Russie",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "Diplôme universitaire",
+          "value": "docteur en philosophie",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "Site officiel",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Turing",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille John von Neumann",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: ACM Fellow",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix ACM Software System",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1943-10-11",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "مايكل ستونبراكر",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "المهنة",
+          "value": "عالم حاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "مكان الميلاد",
+          "value": "ميلتون",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ميشيغان",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "المؤسسة التعليمية",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة برينستون",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "جهة العمل",
+          "value": "جامعة كاليفورنيا، بركلي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "الجائزة",
+          "value": "ميدالية جون فون نيومان من جمعية مهندسي الكهرباء والإلكترونيات",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "الجائزة",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "الجائزة",
+          "value": "زمالة جمعية آلات الحوسبة",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "الجائزة",
+          "value": "جائزة تورنغ",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "الجائزة",
+          "value": "جائزة نظام البرمجيات",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "مجال العمل",
+          "value": "علم الحاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "عمل بارز",
+          "value": "إنجرس",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الأمريكية للفنون والعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "عضوية منظمة",
+          "value": "جمعية آلات الحوسبة",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الروسية للعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "الدرجة الأكاديمية",
+          "value": "دكتوراه الفلسفة",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "الموقع الرسمي",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة تورنغ",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية جون فون نيومان من جمعية مهندسي الكهرباء والإلكترونيات",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: زمالة جمعية آلات الحوسبة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة نظام البرمجيات",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1943-10-11",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Michael Stonebraker",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "Beruf",
+          "value": "Informatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "Geburtsort",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "Bildungseinrichtung",
+          "value": "University of Michigan",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "Bildungseinrichtung",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "Bildungseinrichtung",
+          "value": "Princeton University",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "Arbeitgeber",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "Auszeichnung",
+          "value": "John-von-Neumann-Medaille",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "Auszeichnung",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "Auszeichnung",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "Auszeichnung",
+          "value": "Turing Award",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "Auszeichnung",
+          "value": "ACM Software System Award",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "Arbeitsgebiet",
+          "value": "Informatik",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "Bekanntes Werk",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "Mitgliedschaft",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "Mitgliedschaft",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "Mitgliedschaft",
+          "value": "Russische Akademie der Wissenschaften",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "Akademischer Grad",
+          "value": "Ph.D.",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "Offizielle Website",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Turing Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: John-von-Neumann-Medaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: ACM Fellow",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: ACM Software System Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1943-10-11",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "マイケル・ストーンブレーカー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "職業",
+          "value": "計算機科学者",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "出典に記載された生年月日",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "出生地",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "在籍した教育機関",
+          "value": "ミシガン大学",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "在籍した教育機関",
+          "value": "ガバナーズ・アカデミー(The Governor's Academy)",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "在籍した教育機関",
+          "value": "プリンストン大学",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "雇用主",
+          "value": "カリフォルニア大学バークレー校",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "受賞",
+          "value": "フォン・ノイマンメダル",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "受賞",
+          "value": "SIGMODエドガー・F・コッド革新賞",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "受賞",
+          "value": "ACMフェロー",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "受賞",
+          "value": "チューリング賞",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "受賞",
+          "value": "ACMソフトウェアシステム賞",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "活動分野",
+          "value": "計算機科学",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "代表的な作品",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "団体への所属",
+          "value": "アメリカ芸術科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "団体への所属",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "団体への所属",
+          "value": "ロシア科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "学位",
+          "value": "Doctor of Philosophy",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "公式サイト",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: チューリング賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: フォン・ノイマンメダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ACMフェロー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: SIGMODエドガー・F・コッド革新賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ACMソフトウェアシステム賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1943-10-11",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Michael Stonebraker",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "Ocupación",
+          "value": "informático teórico",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "Lugar de nacimiento",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "Institución educativa",
+          "value": "Universidad de Míchigan",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "Institución educativa",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "Institución educativa",
+          "value": "Universidad de Princeton",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "Empleador",
+          "value": "Universidad de California en Berkeley",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "Distinción",
+          "value": "Medalla John von Neumann",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "Distinción",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "Distinción",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "Distinción",
+          "value": "Premio Turing",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "Distinción",
+          "value": "ACM Software System Award",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "Campo de trabajo",
+          "value": "ciencias de la computación",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "Obra destacada",
+          "value": "Ingres",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Estadounidense de las Artes y las Ciencias",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "Pertenencia a una organización",
+          "value": "Asociación de Maquinaria Computacional",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "Pertenencia a una organización",
+          "value": "Academia de Ciencias de Rusia",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "Grado académico",
+          "value": "Doctor en filosofía",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "Sitio web oficial",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Turing",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Medalla John von Neumann",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: ACM Fellow",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: ACM Software System Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1943-10-11",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "마이클 스톤브레이커",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-54c9b60d988a242cbcc2",
+          "label": "직업",
+          "value": "컴퓨터 과학자",
+          "notes": []
+        },
+        {
+          "id": "fact-5f874f98d258404312da",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-2dd015d794c39b35a230",
+          "label": "출처에 기재된 출생일",
+          "value": "1943-10-11",
+          "notes": []
+        },
+        {
+          "id": "fact-efcb7bcddc0e56743deb",
+          "label": "출생지",
+          "value": "Milton",
+          "notes": []
+        },
+        {
+          "id": "fact-41aa2c6e26ab63d1dafe",
+          "label": "교육 기관",
+          "value": "미시간 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-6509c5a43cd7dbeac2f6",
+          "label": "교육 기관",
+          "value": "The Governor's Academy",
+          "notes": []
+        },
+        {
+          "id": "fact-7c476aa242eaad706229",
+          "label": "교육 기관",
+          "value": "프린스턴 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-e7d69fe7de940ce436f6",
+          "label": "고용 기관",
+          "value": "캘리포니아 대학교 버클리",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-9577ca59227995f8db3b",
+          "label": "수상",
+          "value": "IEEE 존 폰 노이먼 메달",
+          "notes": []
+        },
+        {
+          "id": "fact-a05581856007f4712f09",
+          "label": "수상",
+          "value": "SIGMOD Edgar F. Codd Innovations Award",
+          "notes": []
+        },
+        {
+          "id": "fact-e2e3ffde6b4c13df187b",
+          "label": "수상",
+          "value": "ACM 석학회원",
+          "notes": []
+        },
+        {
+          "id": "fact-f3694b22ade054c871c8",
+          "label": "수상",
+          "value": "튜링상",
+          "notes": []
+        },
+        {
+          "id": "fact-fab71bded8a1f740b612",
+          "label": "수상",
+          "value": "ACM 소프트웨어 시스템 상",
+          "notes": []
+        },
+        {
+          "id": "fact-04566ad72f27c2e61034",
+          "label": "활동 분야",
+          "value": "컴퓨터 과학",
+          "notes": []
+        },
+        {
+          "id": "fact-4d185b0f92af119724c9",
+          "label": "주요 작품",
+          "value": "인그레스",
+          "notes": []
+        },
+        {
+          "id": "fact-02f6327733eaf28d473e",
+          "label": "단체 회원 자격",
+          "value": "미국 예술 과학 아카데미",
+          "notes": []
+        },
+        {
+          "id": "fact-3a185d21f4b81fed8842",
+          "label": "단체 회원 자격",
+          "value": "ACM",
+          "notes": []
+        },
+        {
+          "id": "fact-e4c618831e0d0aef1428",
+          "label": "단체 회원 자격",
+          "value": "러시아 과학원",
+          "notes": []
+        },
+        {
+          "id": "fact-11fc78d9fa538ebe9cdc",
+          "label": "학위",
+          "value": "철학박사",
+          "notes": []
+        },
+        {
+          "id": "fact-609da7320f4b0ca7ef07",
+          "label": "공식 웹사이트",
+          "value": "http://db.lcs.mit.edu/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-2c7e66da8b518553b436",
+          "factId": "fact-f3694b22ade054c871c8",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 튜링상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-d915f9e8015779d5f5d9",
+          "factId": "fact-9577ca59227995f8db3b",
+          "date": "2005",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: IEEE 존 폰 노이먼 메달",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-57f76eed95706992b640",
+          "factId": "fact-e2e3ffde6b4c13df187b",
+          "date": "1994",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: ACM 석학회원",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-fd73d52f75f48c207daf",
+          "factId": "fact-a05581856007f4712f09",
+          "date": "1992",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: SIGMOD Edgar F. Codd Innovations Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-5205156d7a51514d09e4",
+          "factId": "fact-fab71bded8a1f740b612",
+          "date": "1988",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: ACM 소프트웨어 시스템 상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ab4e708aa3b6fd889627",
+          "factId": "fact-2dd015d794c39b35a230",
+          "date": "1943-10-11",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1943-10-11",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q10354964"
+      },
+      {
+        "locale": "ar",
+        "key": "Q7737405"
+      },
+      {
+        "locale": "de",
+        "key": "Q10354964"
+      },
+      {
+        "locale": "de",
+        "key": "Q7737405"
+      },
+      {
+        "locale": "es",
+        "key": "Q10354964"
+      },
+      {
+        "locale": "es",
+        "key": "Q7737405"
+      },
+      {
+        "locale": "es",
+        "key": "Q986509"
+      },
+      {
+        "locale": "fr",
+        "key": "Q10354964"
+      },
+      {
+        "locale": "fr",
+        "key": "Q18748039"
+      },
+      {
+        "locale": "ja",
+        "key": "Q612201"
+      },
+      {
+        "locale": "ko",
+        "key": "Q10354964"
+      },
+      {
+        "locale": "ko",
+        "key": "Q612201"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7737405"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q10354964",
+        "fallbackLocale": "en",
+        "value": "SIGMOD Edgar F. Codd Innovations Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q7737405",
+        "fallbackLocale": "en",
+        "value": "The Governor's Academy",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q10354964",
+        "fallbackLocale": "en",
+        "value": "SIGMOD Edgar F. Codd Innovations Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7737405",
+        "fallbackLocale": "en",
+        "value": "The Governor's Academy",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q10354964",
+        "fallbackLocale": "en",
+        "value": "SIGMOD Edgar F. Codd Innovations Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7737405",
+        "fallbackLocale": "en",
+        "value": "The Governor's Academy",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q986509",
+        "fallbackLocale": "en",
+        "value": "ACM Software System Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q10354964",
+        "fallbackLocale": "en",
+        "value": "SIGMOD Edgar F. Codd Innovations Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q18748039",
+        "fallbackLocale": "en",
+        "value": "ACM Fellow",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q612201",
+        "fallbackLocale": "en",
+        "value": "Milton",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q10354964",
+        "fallbackLocale": "en",
+        "value": "SIGMOD Edgar F. Codd Innovations Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q612201",
+        "fallbackLocale": "en",
+        "value": "Milton",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7737405",
+        "fallbackLocale": "en",
+        "value": "The Governor's Academy",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 6,
+    "professionalEventCount": 5,
+    "factCount": 20,
+    "factsWithoutExternalReference": 15,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "sanjay-ghemawat",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "桑杰·盖马瓦特",
+    "enName": "Sanjay Ghemawat",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "参与Google文件系统、MapReduce和分布式计算基础设施研究，推动大规模网络服务工程。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "参与Google文件系统、MapReduce和分布式计算基础设施研究，推动大规模网络服务工程。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:18Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Sanjay Ghemawat",
+    "requestedTitle": "Sanjay Ghemawat",
+    "resolvedTitle": "Sanjay Ghemawat",
+    "wikidataId": "Q32751373",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Sanjay_Ghemawat",
+      "title": "Sanjay Ghemawat",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:18Z",
+      "revisionId": 1369295072,
+      "revisionTimestamp": "2026-08-14T03:21:09Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1369295072",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q32751373",
+      "title": "Q32751373",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:39Z",
+      "revisionId": 2527945917,
+      "revisionTimestamp": "2026-08-06T04:16:27Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Sanjay Ghemawat (born 1966 in West Lafayette, Indiana) is an American computer scientist and software engineer. He is currently a Senior Fellow at Google in the Systems Infrastructure Group. Ghemawat's work at Google, much of it in close collaboration with Jeff Dean, has included big data processing model MapReduce, the Google File System, and databases Bigtable and Spanner. Wired has described him as one of the \"most important software engineers of the internet age\". Ghemawat co-founded the AI research start-up Discovery Loop in 2026.\nGhemawat was elected as a member into the National Academy of Engineering in 2009 for contributions to the science and engineering of large-scale distributed computer systems.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "de": "Sanjay Ghemawat",
+    "en": "Sanjay Ghemawat",
+    "es": "Sanjay Ghemawat",
+    "fr": "Sanjay Ghemawat"
+  },
+  "descriptions": {
+    "de": "US-amerikanischer Informatiker",
+    "en": "American computer scientist and software engineer",
+    "fr": "informaticien et chercheur américain"
+  },
+  "languageArticles": {
+    "de": "Sanjay Ghemawat",
+    "en": "Sanjay Ghemawat"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q32751373$4941C4C2-B3DD-4F7C-AC11-29400044A6E7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q32751373$3A1B302C-3CD7-4525-A314-BDC69C761D81",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q32751373$8B488EB4-B837-46F7-9D0C-E6369F705272",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 127992,
+            "id": "Q127992"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-01-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-01-13"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q32751373$C365B95D-E115-4A4E-8002-657579D94094",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1966-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1966"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          },
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q32751373$7A68E404-ECEE-4D4E-8427-8FD3604BA2C2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49115,
+            "id": "Q49115"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q32751373$20714FB8-BECC-4FAE-AF8E-ADFF3E57C139",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49108,
+            "id": "Q49108"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-07-08"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q32751373$E94BC625-5C8A-4D3A-8889-FEB902E98762",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q32751373$C6B6DDA6-0C32-4E78-9647-7C0BFD171B60",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 690079,
+            "id": "Q690079"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q32751373$89b3979b-400d-3fc9-cdda-a7d10943a12c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 140907035,
+            "id": "Q140907035"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q32751373$A32E7FE2-78E5-4ED1-93AC-2448B41206DD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 52382875,
+            "id": "Q52382875"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q32751373$18ef8b2f-460e-03cc-9f87-378f50e13053",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29836618,
+            "id": "Q29836618"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/ghemawat_1482280"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2020-06-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2020-06-04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q32751373$AB849353-0F50-4E77-8187-ADF172B53638",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748039,
+            "id": "Q18748039"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q32751373$473C7ECD-08C8-4ED0-BF17-FFC92218D6B7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 166481,
+            "id": "Q166481"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q32751373$32FC0ADF-348A-45F1-A356-9717A145519B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P463": "membership",
+    "P569": "birthDate",
+    "P69": "education",
+    "P106": "occupation",
+    "P108": "employer",
+    "P166": "award",
+    "P19": "birthPlace",
+    "P27": "citizenship"
+  },
+  "relatedEntities": {
+    "Q127992": {
+      "id": "Q127992",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Association for Computing Machinery",
+        "ko": "ACM",
+        "es": "Asociación de Maquinaria Computacional",
+        "de": "Association for Computing Machinery",
+        "ja": "Association for Computing Machinery",
+        "ar": "جمعية آلات الحوسبة",
+        "en": "Association for Computing Machinery",
+        "zh": "计算机协会"
+      },
+      "descriptions": {
+        "en": "international learned society for computing",
+        "ar": "رابطة علمية وتعليمية للحوسبة",
+        "zh": "計算機的國際學會",
+        "de": "wissenschaftliche Gesellschaft für Informatik",
+        "ja": "ニューヨークに本部のあるコンピュータ科学分野の国際学会",
+        "fr": "société savante, maison d'édition",
+        "ko": "세계 최초의 컴퓨터 분야의 학술과 교육을 목적으로 하는 각 분야 학회들의 연합체",
+        "es": "sociedad Científica Internacional estadounidense para la Computación"
+      }
+    },
+    "Q140907035": {
+      "id": "Q140907035",
+      "fetchedAt": "2026-11-13T11:06:21Z",
+      "labels": {
+        "en": "Discovery Loop",
+        "de": "Discovery Loop",
+        "es": "Discovery Loop"
+      },
+      "descriptions": {
+        "en": "US based startup"
+      }
+    },
+    "Q166481": {
+      "id": "Q166481",
+      "fetchedAt": "2026-11-13T11:14:40Z",
+      "labels": {
+        "de": "West Lafayette",
+        "en": "West Lafayette",
+        "es": "West Lafayette",
+        "fr": "West Lafayette",
+        "ja": "ウェスト・ラファイエット",
+        "ko": "웨스트라페이엣",
+        "zh": "西拉法葉",
+        "ar": "ويست لافاييت"
+      },
+      "descriptions": {
+        "fr": "ville de l'Indiana",
+        "de": "Stadt im US-Bundesstaat Indiana",
+        "en": "city in Indiana, USA",
+        "ar": "مدينة في مقاطعة تيبيكانوي، الولايات المتحدة",
+        "ja": "アメリカ合衆国インディアナ州の都市",
+        "es": "ciudad en el condado de Tippecanoe, Indiana, Estados Unidos",
+        "ko": "인디애나주 티페카누군의 도시"
+      }
+    },
+    "Q18748039": {
+      "id": "Q18748039",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ACM Fellow",
+        "ja": "ACMフェロー",
+        "ar": "زمالة جمعية آلات الحوسبة",
+        "es": "ACM Fellow",
+        "de": "ACM Fellow",
+        "zh": "ACM會士",
+        "ko": "ACM 석학회원"
+      },
+      "descriptions": {
+        "en": "award granted by the Association for Computing Machinery (ACM)",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة",
+        "ja": "計算機協会 (ACM)の優れたメンバーに与えられる賞と称号"
+      }
+    },
+    "Q29836618": {
+      "id": "Q29836618",
+      "fetchedAt": "2026-11-13T11:05:59Z",
+      "labels": {
+        "fr": "prix ACM en informatique",
+        "en": "ACM Prize in Computing",
+        "de": "ACM Prize in Computing",
+        "zh": "ACM計算機獎"
+      },
+      "descriptions": {
+        "en": "computer science award"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q49108": {
+      "id": "Q49108",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Massachusetts Institute of Technology",
+        "ar": "معهد ماساتشوستس للتقانة",
+        "de": "Massachusetts Institute of Technology",
+        "es": "Instituto Tecnológico de Massachusetts",
+        "fr": "Institut de technologie du Massachusetts",
+        "ja": "マサチューセッツ工科大学",
+        "ko": "매사추세츠 공과대학교",
+        "zh": "麻省理工學院"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts, USA, founded 1861",
+        "ko": "미국 매사추세츠 주의 케임브리지에 있는 연구 중심 공과대학을 모체로 한 사립 대학교",
+        "de": "Universität im US-Bundesstaat Massachusetts",
+        "zh": "1861年建立的一所学校",
+        "fr": "université américaine à Cambridge, Massachusetts",
+        "ar": "جامعة خاصة في مدينة كامبريدج بولاية ماستشوستس الأمريكية، أُسِّسَت عام 1861",
+        "es": "universidad privada localizada en Cambridge, Massachusetts, Estados Unidos de América",
+        "ja": "アメリカ・マサチューセッツ州ケンブリッジにある私立大学"
+      }
+    },
+    "Q49115": {
+      "id": "Q49115",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Cornell University",
+        "ar": "جامعة كورنل",
+        "de": "Cornell University",
+        "es": "Universidad Cornell",
+        "fr": "Université Cornell",
+        "ja": "コーネル大学",
+        "ko": "코넬 대학교",
+        "zh": "康奈尔大学"
+      },
+      "descriptions": {
+        "en": "private and statutory land-grant research university in Ithaca, New York, USA",
+        "zh": "美國紐約州的私立研究型大學",
+        "fr": "université privée située à Ithaca dans l'État de New York, aux États-Unis",
+        "de": "Universität in Ithaca, NY, Vereinigte Staaten",
+        "ko": "미국 뉴욕주의 사립 종합대학",
+        "es": "universidad privada en Ithaca, Nueva York, Estados Unidos",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q52382875": {
+      "id": "Q52382875",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Fellow of the American Academy of Arts and Sciences",
+        "ar": "زمالة الأكاديمية الأمريكية للفنون والعلوم",
+        "fr": "membre de l'Académie américaine des arts et des sciences",
+        "es": "Miembro de la Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミーフェロー",
+        "zh": "美国文理科学院院士"
+      },
+      "descriptions": {
+        "en": "honorary fellowship from the American Academy of Arts and Sciences",
+        "ar": "زمالة تشريفية",
+        "fr": "titre honorifique de l'American Academy of Arts and Sciences"
+      }
+    },
+    "Q690079": {
+      "id": "Q690079",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "fr": "Digital Equipment Corporation",
+        "ko": "디지털 이큅먼트 코퍼레이션",
+        "es": "Digital Equipment Corporation",
+        "de": "Digital Equipment Corporation",
+        "ja": "ディジタル・イクイップメント・コーポレーション",
+        "en": "Digital Equipment Corporation",
+        "zh": "迪吉多",
+        "ar": "ديجيتال إيكيوبمنت كوربوريشن"
+      },
+      "descriptions": {
+        "de": "US-amerikanisches Unternehmen",
+        "en": "American manufacturer of minicomputers",
+        "fr": "entreprise américaine",
+        "zh": "美国计算机制造商（1957—1998）",
+        "ar": "شركة أمريكية",
+        "ja": "かつてのアメリカのコンピュータメーカー",
+        "es": "empresa estadounidense",
+        "ko": "미국의 기술 기업"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 4,
+    "referenceUrls": 2,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,1351 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "sophie-wilson",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "索菲·威尔逊",
+    "enName": "Sophie Wilson",
+    "domain": "technology",
+    "domains": [
+      "technology",
+      "business"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "半导体与硬件",
+    "inclusionReason": "参与设计ARM处理器指令集和早期个人计算机，影响低功耗计算与全球移动设备架构。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与设计ARM处理器指令集和早期个人计算机，影响低功耗计算与全球移动设备架构。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:29Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Sophie Wilson",
+    "requestedTitle": "Sophie Wilson",
+    "resolvedTitle": "Sophie Wilson",
+    "wikidataId": "Q16489",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Wilson",
+      "title": "Sophie Wilson",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:29Z",
+      "revisionId": 1374835814,
+      "revisionTimestamp": "2026-09-14T10:22:44Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1374835814",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16489",
+      "title": "Q16489",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:07:07Z",
+      "revisionId": 2568317087,
+      "revisionTimestamp": "2026-11-12T15:02:47Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Sophie Mary Wilson (born Roger Wilson; June 1957) is an English computer scientist, a co-designer of the instruction set for the ARM architecture.\nWilson first designed a microcomputer during a break from studies at Selwyn College, Cambridge. She subsequently joined Acorn Computers and was instrumental in designing the BBC Microcomputer, including the BBC BASIC programming language. She first began designing the ARM reduced instruction set computer (RISC) in 1983, which entered production two years later. It became popular in embedded systems and is now the most widely used processor architecture in smartphones. In 2011, she was listed in Maximum PC as number 8 in an article titled \"The 15 Most Important Women in Tech History\". She was made a Commander of the Order of the British Empire in 2019.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Sophie Wilson",
+    "ar": "سوفي ويلسون",
+    "es": "Sophie Wilson",
+    "ja": "ソフィー・ウィルソン",
+    "de": "Sophie Wilson",
+    "fr": "Sophie Wilson",
+    "zh": "索菲·威爾遜",
+    "ko": "소피 윌슨"
+  },
+  "descriptions": {
+    "en": "British computer scientist (born 1957)",
+    "es": "científica computacional del Reino Unido",
+    "de": "britische Informatikerin",
+    "ar": "عالِمة حاسوب من المملكة المتحدة",
+    "fr": "informaticienne britannique",
+    "zh": "英國電腦科學家",
+    "ko": "영국 컴퓨터 과학자",
+    "ja": "イギリスの計算機科学者"
+  },
+  "languageArticles": {
+    "ar": "سوفي ويلسون",
+    "de": "Sophie Wilson",
+    "en": "Sophie Wilson",
+    "es": "Sophie Wilson",
+    "fr": "Sophie Wilson",
+    "ja": "ソフィー・ウィルソン",
+    "zh": "索菲·威尔逊"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q16489$81633780-0FBF-4680-9B16-5BEC062871E4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q16489$E2652FA9-B5DF-497A-BDD1-A5428C9C52C5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15631401,
+            "id": "Q15631401"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://web.archive.org/web/20140425000218/https://royalsociety.org/about-us/fellowship/new-fellows-2013/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-05-01"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$af0d2480-453c-ecd2-9626-3b3b2362ac08",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6934163,
+            "id": "Q6934163"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://royalsociety.org/medals-and-prizes/mullard-award/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$7CA4420A-A4E9-48BD-9E57-DB81560D3DAD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29545180,
+            "id": "Q29545180"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://computerhistory.org/hall-of-fellows/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Hall of Fellows",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$65854604-7A73-4238-839C-A4A9D9523EA0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18342538,
+            "id": "Q18342538"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q16489$86FFFC5D-1F24-4C04-AB75-229A7C64CD26",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 12201477,
+            "id": "Q12201477"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$5375475f-4890-f528-c28b-459279970686",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1063447,
+            "id": "Q1063447"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nae.edu/55291/DraperWinners#tabs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$5b48b911-4f1d-3ed6-cefb-3da616c33b38",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 933972,
+            "id": "Q933972"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://corporate-awards.ieee.org/wp-content/uploads/ibuka-rl.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$18075606-4472-b0dd-ff8a-9bf6514cfa90",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28030869,
+            "id": "Q28030869"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.theiet.org/membership/library-and-archives/the-iet-archives/iet-history/honorary-fellows-list"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Honorary Fellows list",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-10"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q16489$2282A43B-C190-48A4-A6E2-506EDA670BC5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q16489$065A424B-AEA1-4F78-841A-E06FE49881AC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 81096,
+            "id": "Q81096"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-06-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-06-14"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16489$FDA8FC59-38E6-483D-8E58-387C59211EFD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170790,
+            "id": "Q170790"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-06-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-06-14"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              },
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 10000,
+                  "id": "Q10000"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q16489$127FBBB8-51CE-4456-BD3E-5B63CA46327F",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1957-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1957"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://computerhistory.org/profile/sophie-wilson/?alias=bio&person=sophie-wilson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q16489$FAC1CD81-E04C-4248-8560-08C8EEB59460",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 145,
+            "id": "Q145"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48952,
+                  "id": "Q48952"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q16489$FC46738C-7332-4F0B-9BD4-C8F914A689E3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1445138,
+            "id": "Q1445138"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48952,
+                  "id": "Q48952"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q16489$9276CB04-3825-4167-A50C-0D792EF2828A",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Sophie Wilson.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-03-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-03-11"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q16489$12B7061F-04C3-43E3-989C-507F5BD026FD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 767650,
+            "id": "Q767650"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q16489$430B7F91-AB03-446E-B3B5-5FD64FF130F0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 35794,
+            "id": "Q35794"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q16489$DBBF0432-4C82-46D0-8655-600480C50A34",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 123885,
+            "id": "Q123885"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-05-02T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-05-02"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://web.archive.org/web/20140425000218/https://royalsociety.org/about-us/fellowship/new-fellows-2013/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-05-01"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://royalsociety.org/people/sophie-wilson-12544/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Dr Sophie Wilson CBE FREng FRS | Royal Society Fellow",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-10"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q16489$5234507b-40f5-c794-ffc6-c75d29110e17",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16980,
+            "id": "Q16980"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q16489$f7d3509a-4af4-66e9-0bf2-ad241867ea50",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.sophie.org.uk"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P166": "award",
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P18": "image",
+    "P69": "education",
+    "P108": "employer",
+    "P463": "membership",
+    "P800": "notableWork",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q10000": {
+      "id": "Q10000",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "en": "Dutch Wikipedia",
+        "de": "niederländischsprachige Wikipedia",
+        "fr": "Wikipédia en néerlandais",
+        "es": "Wikipedia en neerlandés",
+        "zh": "荷蘭語維基百科",
+        "ja": "オランダ語版ウィキペディア",
+        "ar": "ويكيبيديا الهولندية",
+        "ko": "네덜란드어 위키백과"
+      },
+      "descriptions": {
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in niederländischer Sprache",
+        "fr": "édition de Wikipédia",
+        "es": "edición en idioma neerlandés de Wikipedia",
+        "zh": "維基百科協作計劃之荷蘭語版本",
+        "ja": "ウィキペディアのオランダ語版",
+        "ko": "네덜란드어로 작성하는 위키백과",
+        "ar": "النسخة الهولندية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Dutch-language edition of Wikipedia, the free encyclopedia"
+      }
+    },
+    "Q1063447": {
+      "id": "Q1063447",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "de": "Charles-Stark-Draper-Preis",
+        "en": "Charles Stark Draper Prize",
+        "zh": "查尔斯·斯塔克·德雷珀奖",
+        "es": "Premio Charles Stark Draper",
+        "fr": "prix Charles-Stark-Draper",
+        "ja": "チャールズ・スターク・ドレイパー賞",
+        "ar": "جائزة تشارلز ستارك درابر",
+        "ko": "찰스 스타크 드래이퍼 상"
+      },
+      "descriptions": {
+        "en": "one of three prizes that constitute the \"Nobel Prizes of Engineering\"",
+        "fr": "prix scientifique"
+      }
+    },
+    "Q12201477": {
+      "id": "Q12201477",
+      "fetchedAt": "2026-11-13T11:00:08Z",
+      "labels": {
+        "en": "Commander of the Order of the British Empire",
+        "de": "Commander of the Order of the British Empire",
+        "fr": "commandeur de l'ordre de l'Empire britannique",
+        "zh": "大英帝國司令勳章",
+        "es": "Comendador de la Orden del Imperio británico",
+        "ar": "نيشان الامبراطورية البريطانية من رتبة قائد",
+        "ja": "大英帝国勲章 (コマンダー)"
+      },
+      "descriptions": {
+        "en": "rank of the Order of the British Empire",
+        "de": "Rang des Order of the British Empire",
+        "fr": "grade de l'ordre de l'Empire britannique",
+        "es": "rango de la Orden del Imperio Británico",
+        "ar": "إحدى مراتب نيشان الإمبراطورية البريطانية"
+      }
+    },
+    "Q123885": {
+      "id": "Q123885",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "Real Sociedad de Londres",
+        "ar": "الجمعية الملكية",
+        "ko": "왕립학회",
+        "de": "Royal Society",
+        "ja": "王立協会",
+        "en": "Royal Society of London",
+        "fr": "Royal Society",
+        "zh": "英国皇家学会"
+      },
+      "descriptions": {
+        "en": "English learned society for science",
+        "de": "britische Gelehrtengesellschaft zur Wissenschaftspflege",
+        "es": "sociedad científica del Reino Unido",
+        "fr": "société savante londonienne",
+        "zh": "代表英國政府資助科學發展的組織，成立於1660年",
+        "ja": "1660年にロンドンで作られた科学に関する団体",
+        "ar": "دار نشر",
+        "ko": "영국의 과학 아카데미"
+      }
+    },
+    "Q1445138": {
+      "id": "Q1445138",
+      "fetchedAt": "2026-11-13T11:07:07Z",
+      "labels": {
+        "fr": "Cacalia",
+        "es": "Cacalia",
+        "en": "Cacalia",
+        "de": "Cacalia",
+        "zh": "蟹甲草属",
+        "ar": "قاقل"
+      },
+      "descriptions": {
+        "en": "nomen utique rejiciendum",
+        "ar": "جنس من النباتات",
+        "fr": "genre de plantes",
+        "es": "género de plantas",
+        "de": "illegitime Gattung der Familie Korbblütler (Asteraceae)"
+      }
+    },
+    "Q145": {
+      "id": "Q145",
+      "fetchedAt": "2026-11-13T10:59:41Z",
+      "labels": {
+        "es": "Reino Unido",
+        "ar": "المملكة المتحدة",
+        "de": "Vereinigtes Königreich",
+        "en": "United Kingdom",
+        "fr": "Royaume-Uni",
+        "zh": "英国",
+        "ja": "イギリス",
+        "ko": "영국"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe occidentale",
+        "zh": "歐洲西部的島國",
+        "es": "país insular de Europa del Norte con territorios de ultramar en Europa, América, África, Asia y Oceanía",
+        "de": "Inselstaat in Nordwesteuropa",
+        "ar": "دولة في شمال غرب أوروبا",
+        "en": "island country in north-west Europe",
+        "ja": "西ヨーロッパの王国",
+        "ko": "서유럽의 국가"
+      }
+    },
+    "Q15631401": {
+      "id": "Q15631401",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "en": "Fellow of the Royal Society",
+        "de": "Fellow of the Royal Society",
+        "fr": "membre de la Royal Society",
+        "es": "miembro de la Royal Society",
+        "zh": "英国皇家学会院士",
+        "ja": "王立協会フェロー",
+        "ar": "زمالة الجمعية الملكية",
+        "ko": "왕립 학회 펠로우"
+      },
+      "descriptions": {
+        "de": "Mitgliedschaft",
+        "en": "elected Fellow of the Royal Society in London, including Honorary, Foreign and Royal Fellows",
+        "fr": "membre élu de la Royal Society, qu'il soit honoraire, étranger ou royal",
+        "es": "miembro electo de la Royal Society",
+        "ar": "منصب تكريمي في الجمعية الملكية البريطانية",
+        "zh": "英国学术荣誉称号",
+        "ja": "イギリス、ロンドンの王立学会が与える賞、会員資格",
+        "ko": "과학 아카데미인 영국 왕립학회의 회원"
+      }
+    },
+    "Q16980": {
+      "id": "Q16980",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "de": "ARM-Architektur",
+        "ar": "بنية آرم",
+        "en": "ARM architecture",
+        "es": "ARM",
+        "fr": "architecture ARM",
+        "ja": "ARMアーキテクチャ",
+        "ko": "ARM 아키텍처",
+        "zh": "ARM架構"
+      },
+      "descriptions": {
+        "de": "Gruppe von RISC-Prozessorarchitekturen",
+        "en": "family of RISC-based computer architectures",
+        "es": "arquitectura de procesador basada en RISC",
+        "fr": "architecture de processeurs et microprocesseur informatique développée par ARM Ltd.",
+        "zh": "精簡指令集處理器架構家族",
+        "ko": "임베디드 기기에 많이 사용되는 RISC 프로세서",
+        "ja": "ARM社が開発したCPUアーキテクチャ",
+        "ar": "عائلة معماريات الحاسوب المعتمدة على الحوسبة بمجموعة تعليمات مخفّضة (آر أي أس سي)"
+      }
+    },
+    "Q170790": {
+      "id": "Q170790",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "matemático",
+        "ja": "数学者",
+        "fr": "mathématicien ou mathématicienne",
+        "de": "Mathematiker",
+        "en": "mathematician",
+        "ar": "رياضياتي",
+        "ko": "수학자",
+        "zh": "數學家"
+      },
+      "descriptions": {
+        "es": "persona dedicada a las matemáticas",
+        "en": "person with an extensive knowledge of mathematics",
+        "fr": "chercheur ou chercheuse en mathématiques",
+        "de": "Person mit weitreichenden mathematischen Kenntnissen",
+        "zh": "在數學方面擁有淵博知識的人",
+        "ko": "수학을 전공으로 하는 학자",
+        "ja": "数学に属する分野の事柄を第一に、調査および研究する者を指していう呼称",
+        "ar": "شخص لديه معرفة واسعة بالرياضيات"
+      }
+    },
+    "Q18342538": {
+      "id": "Q18342538",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "Fellow of the Royal Academy of Engineering",
+        "ko": "영국 왕립공학학술원 펠로우",
+        "ar": "زمالة الأكاديمية الملكية للهندسة",
+        "zh": "英國皇家工程學院院士",
+        "ja": "大英帝国勲章"
+      },
+      "descriptions": {
+        "en": "Designation awarded by the Royal Academy of Engineering"
+      }
+    },
+    "Q28030869": {
+      "id": "Q28030869",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "en": "Fellow of the Institution of Engineering and Technology"
+      },
+      "descriptions": {
+        "en": "award and fellowship granted by the Institution of Engineering and Technology"
+      }
+    },
+    "Q29545180": {
+      "id": "Q29545180",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "en": "Computer History Museum Fellow",
+        "es": "fellow del Museo Histórico de Ordenadores",
+        "ar": "زمالة متحف تاريخ الحاسوب",
+        "ja": "コンピュータ歴史博物館フェロー"
+      },
+      "descriptions": {
+        "en": "fellowship",
+        "ar": "زمالة"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q35794": {
+      "id": "Q35794",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "剑桥大学",
+        "es": "Universidad de Cambridge",
+        "ar": "جامعة كامبريدج",
+        "ko": "케임브리지 대학교",
+        "fr": "Université de Cambridge",
+        "de": "University of Cambridge",
+        "ja": "ケンブリッジ大学",
+        "en": "University of Cambridge"
+      },
+      "descriptions": {
+        "en": "collegiate public research university in Cambridge, England, United Kingdom",
+        "de": "englische Universität",
+        "es": "universidad del Reino Unido",
+        "zh": "1209年创建的一所学校",
+        "fr": "université britannique",
+        "ar": "جامعة أكاديمية بريطانية",
+        "ko": "영국 잉글랜드의 국립 종합대학",
+        "ja": "イングランド・ケンブリッジにある大学"
+      }
+    },
+    "Q48952": {
+      "id": "Q48952",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Persian Wikipedia",
+        "fr": "Wikipédia en persan",
+        "es": "Wikipedia en persa",
+        "zh": "波斯语维基百科",
+        "ar": "ويكيبيديا الفارسية",
+        "ja": "ペルシア語版ウィキペディア",
+        "ko": "페르시아어 위키백과",
+        "de": "persischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Persian-language edition of Wikipedia",
+        "es": "edición en persa de la Wikipedia",
+        "de": "Wikipedia-Sprachversion",
+        "ar": "النسخة الفارسية من ويكيبيديا، الموسوعة الحرة",
+        "fr": "édition de Wikipédia",
+        "ko": "페르시아어로 작성된 위키백과",
+        "zh": "维基百科波斯语版",
+        "ja": "ウィキペディアのペルシア語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q6934163": {
+      "id": "Q6934163",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "Mullard Award",
+        "ja": "ムラード賞",
+        "fr": "Prix Mullard",
+        "de": "Mullard-Preis"
+      },
+      "descriptions": {
+        "en": "British award for natural science, engineering or technology (1967-)",
+        "de": "britische Auszeichnung für Naturwissenschaft, Technik oder Technologie (1967-)"
+      }
+    },
+    "Q767650": {
+      "id": "Q767650",
+      "fetchedAt": "2026-11-13T11:07:09Z",
+      "labels": {
+        "de": "Selwyn College",
+        "en": "Selwyn College",
+        "es": "Colegio Selwyn",
+        "fr": "Selwyn College",
+        "zh": "剑桥大学塞尔文学院",
+        "ja": "セルウィン・カレッジ"
+      },
+      "descriptions": {
+        "en": "college of the University of Cambridge",
+        "es": "colegio de la Universidad de Cambridge",
+        "fr": "collèges de l'université de Cambridge, au Royaume-Uni"
+      }
+    },
+    "Q81096": {
+      "id": "Q81096",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "工程师",
+        "ar": "مهندس",
+        "ko": "기술자",
+        "fr": "ingénieur ou ingénieure",
+        "de": "Ingenieur",
+        "ja": "エンジニア",
+        "en": "engineer",
+        "es": "ingeniero"
+      },
+      "descriptions": {
+        "en": "professional practitioner of engineering",
+        "es": "persona dedicada a la ingeniería",
+        "de": "Berufsbezeichnung für wissenschaftlich ausgebildete Fachleute auf technischem Gebiet",
+        "fr": "personne pratiquant l'ingénierie",
+        "ar": "ممارس محترف للهندسة",
+        "ja": "工学学位を持つ研究者、技術界の研究開発者",
+        "ko": "공학에 종사하는 사람"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q8447": {
+      "id": "Q8447",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Wikipédia en français",
+        "en": "French Wikipedia",
+        "ar": "ويكيبيديا الفرنسية",
+        "de": "französischsprachige Wikipedia",
+        "es": "Wikipedia en francés",
+        "ja": "フランス語版ウィキペディア",
+        "ko": "프랑스어 위키백과",
+        "zh": "法語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "[fr] French-language edition of Wikipedia",
+        "es": "edición en francés de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in französischer Sprache",
+        "ko": "위키백과의 프랑스어판",
+        "zh": "维基百科法语版",
+        "ar": "النسخة الفرنسية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアのフランス語版"
+      }
+    },
+    "Q933972": {
+      "id": "Q933972",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "de": "IEEE Masaru Ibuka Consumer Electronics Award",
+        "en": "IEEE Masaru Ibuka Consumer Electronics Award",
+        "es": "Premio Masaru Ibuka de la Electrónica de Consumo IEEE",
+        "ja": "IEEE井深大コンシューマー・エレクトロニクス賞"
+      },
+      "descriptions": {
+        "en": "award",
+        "de": "Auszeichnung des Institute of Electrical and Electronics Engineers (IEEE)"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Sophie Wilson.jpg",
+    "fetchedAt": "2026-11-13T11:07:15Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sophie_Wilson.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sophie_Wilson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sophie_Wilson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 521,
+    "height": 426,
+    "mediaTimestamp": "2023-10-06T19:42:42Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Chris Monk",
+    "credit": "Flickr",
+    "description": "Sophie Wilson near a photograph of the first ARM processor, and holding another photograph of the ARM Cortex-M0+ to the same scale.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/781aa657e367876831e9a98e.jpg",
+    "cachedImageBytes": 261138,
+    "cachedImageSha256": "d5f207145b44d99ec9cb4f8dc8438f38da27decb5d0e166c430d35ad7649beaf"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 7,
+    "referenceUrls": 8,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,1506 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "sepp-hochreiter",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "塞普·霍赫赖特",
+    "enName": "Sepp Hochreiter",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "共同提出长短期记忆网络，推动长序列建模在语音、语言和时间序列分析中的应用。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同提出长短期记忆网络，推动长序列建模在语音、语言和时间序列分析中的应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:29Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Sepp Hochreiter",
+    "requestedTitle": "Sepp Hochreiter",
+    "resolvedTitle": "Sepp Hochreiter",
+    "wikidataId": "Q7451965",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+      "title": "Sepp Hochreiter",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:29Z",
+      "revisionId": 1373946247,
+      "revisionTimestamp": "2026-09-08T22:25:33Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7451965",
+      "title": "Q7451965",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:07:07Z",
+      "revisionId": 2567205220,
+      "revisionTimestamp": "2026-11-09T16:47:17Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Josef \"Sepp\" Hochreiter (born 14 February 1967) is a German computer scientist. Since 2018 he has led the Institute for Machine Learning at the Johannes Kepler University of Linz after having led the Institute of Bioinformatics from 2006 to 2018. In 2017 he became the head of the Linz Institute of Technology (LIT) AI Lab. Hochreiter is also a founding director of the Institute of Advanced Research in Artificial Intelligence (IARAI). Previously, he was at Technische Universität Berlin, at University of Colorado Boulder, and at the Technical University of Munich. He is a chair of the Critical Assessment of Massive Data Analysis (CAMDA) conference.\nHochreiter has made contributions in the fields of machine learning, deep learning and bioinformatics, most notably the development of the long short-term memory (LSTM) neural network architecture, but also in meta-learning, reinforcement learning and biclustering with application to bioinformatics data.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Sepp Hochreiter",
+    "de": "Sepp Hochreiter",
+    "fr": "Sepp Hochreiter",
+    "es": "Sepp Hochreiter",
+    "ja": "ゼップ・ホッフライター",
+    "zh": "塞普·霍赫赖特",
+    "ko": "제프 호흐라이터"
+  },
+  "descriptions": {
+    "en": "German computer scientist",
+    "de": "deutscher Informatiker",
+    "ko": "독일 컴퓨터 과학자"
+  },
+  "languageArticles": {
+    "de": "Sepp Hochreiter",
+    "en": "Sepp Hochreiter"
+  },
+  "claims": {
+    "P106": [
+      {
+        "id": "Q7451965$4D08DAA5-DFBF-444B-8B49-0929A1396CDB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2904006,
+            "id": "Q2904006"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q7451965$3018378A-AF44-4D01-A024-141109DBC3E1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$A9E34253-CE84-4789-A687-27D10037A179",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15976092,
+            "id": "Q15976092"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q7451965$3339DD26-D389-4810-8F41-51E27A5091EA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q7451965$7CD9E44D-BBCF-436E-8A40-8A6D64F44663",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1967-02-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1967-02-14"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Hochreiter_Sepp_D.pdf"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-10-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-10-15"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q7451965$63DCADBA-2FA0-4347-A137-9A83D74EC729",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Sepp Hochreiter - Buch Wien 2025.JPG"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-11-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-11-13"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q7451965$04E115CF-AA6D-4638-9190-E27AD6EEA6C8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 502615,
+            "id": "Q502615"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-07"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q7451965$B8BCA643-C2EF-4DEF-9AC1-E7B6587A070D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 157808,
+            "id": "Q157808"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1986-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1986"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1991-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1991"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$1e390051-40b5-d995-2510-3178075f2628",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 314089,
+            "id": "Q314089"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1985-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1985"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1986-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1986"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$f0876cbd-430e-55c9-bfae-e20885313927",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 687017,
+            "id": "Q687017"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$6605b443-433f-cf39-e126-0e5f8bfef38c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 157808,
+            "id": "Q157808"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1999-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1999"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q7451965$55563EFE-62F5-4EE2-9C26-C4308CB00B8C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 157808,
+            "id": "Q157808"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 829984,
+                  "id": "Q829984"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q7451965$ac4b9d9f-4b7f-45d8-3239-7fc740875df6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 682739,
+            "id": "Q682739"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-02-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006-02-01"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 123508386,
+                  "id": "Q123508386"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://pub.orcid.org/v3.0/0000-0001-7449-2528/employment/10092200"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-11-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-11-10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$77E78B23-822D-4812-901E-B0ED37C56DA9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 157808,
+            "id": "Q157808"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-07-03"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$397488d6-4ac2-45e2-ef12-9664e6278906",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 487292,
+            "id": "Q487292"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1992-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1992"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q7451965$6e110321-4c16-102b-06f8-80b72335bdc9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183,
+            "id": "Q183"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q7451965$834c9eb9-460e-7e26-2ee7-2a2f3b885083",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 78151117,
+            "id": "Q78151117"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://ellis.eu/members"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-12-12T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-12-12"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$A1D28E96-38C9-44AC-9464-412D00E01919",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 299015,
+            "id": "Q299015"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ots.at/presseaussendung/OTS_20240415_OTS0023/oeaw-waehlt-34-neue-mitglieder"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$0F460100-AF9A-42C2-8E04-9BB541358A17",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 543804,
+            "id": "Q543804"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/sepp-hochreiter/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q7451965$648952F1-DABC-436A-BBD3-7FFC0BF59235",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q7451965$9f2ce781-4eee-5d7b-7b15-9259653dfb04",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 104713915,
+            "id": "Q104713915"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.tips.at/nachrichten/linz/land-leute/620497-spitzenforscher-sepp-hochreiter-mit-deutschem-ki-innovationspreis-ausgezeichnet"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://science.apa.at/power-search/17839077489851839612"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$c5233ebe-41dc-f994-e94b-4b3d17f0b0d2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 700368,
+            "id": "Q700368"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.sn.at/panorama/wissen/sepp-hochreiter-wilhelm-exner-medaille-186487549"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q7451965$ad24a75e-45d7-50d7-6e1f-1644c6699b33",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2539,
+            "id": "Q2539"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7451965$f1990e94-4a96-832b-78e4-0364cc870926",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 128570,
+            "id": "Q128570"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P106": "occupation",
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P69": "education",
+    "P108": "employer",
+    "P27": "citizenship",
+    "P463": "membership",
+    "P856": "officialWebsite",
+    "P166": "award",
+    "P101": "fieldOfWork"
+  },
+  "relatedEntities": {
+    "Q104713915": {
+      "id": "Q104713915",
+      "fetchedAt": "2026-11-13T11:07:07Z",
+      "labels": {
+        "de": "Deutscher KI-Preis",
+        "en": "German AI Award",
+        "es": "Premio Deutscher KI"
+      },
+      "descriptions": {
+        "de": "seit 2019 jährlich von der Medienmarke WELT (Axel Springer SE) verliehene Auszeichnung für herausragende Leistungen auf dem Gebiet der Künstlichen Intelligenz",
+        "en": "Award presented annually since 2019 by the media brand WELT (Axel Springer SE) for outstanding achievements in the field of artificial intelligence"
+      }
+    },
+    "Q123508386": {
+      "id": "Q123508386",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ORCID Public Data File 2023",
+        "ar": "ملف بيانات ORCID العامة لعام 2023"
+      },
+      "descriptions": {
+        "en": "data dump release for the ORCID Registry"
+      }
+    },
+    "Q128570": {
+      "id": "Q128570",
+      "fetchedAt": "2026-11-13T11:07:07Z",
+      "labels": {
+        "es": "bioinformática",
+        "ar": "معلوماتية حيوية",
+        "ko": "생물정보학",
+        "fr": "bioinformatique",
+        "de": "Bioinformatik",
+        "ja": "バイオインフォマティクス",
+        "en": "bioinformatics",
+        "zh": "生物信息学"
+      },
+      "descriptions": {
+        "de": "interdisziplinäre Wissenschaft zur Lösung von Problemen aus den Lebenswissenschaften mit theoretischen computergestützten Methoden",
+        "en": "interdisciplinary science that combines biology, computer science and statistics to help in the collection, analysis and understanding of biological data",
+        "ar": "علم",
+        "ja": "生命科学と情報科学の融合分野",
+        "es": "rama de biología: ciencia que estudia gran parte correspondiente del ADN",
+        "ko": "생물학의 하위 분야",
+        "fr": "traitement de données biologiques",
+        "zh": "现代生物学和计算机信息科学相结合的交叉学科，采用计算与统计等方法从生物数据中提取知识"
+      }
+    },
+    "Q157808": {
+      "id": "Q157808",
+      "fetchedAt": "2026-11-13T11:06:21Z",
+      "labels": {
+        "fr": "université de technologie de Munich",
+        "ko": "뮌헨 공과대학교",
+        "es": "Universidad Técnica de Múnich",
+        "de": "Technische Universität München",
+        "ja": "ミュンヘン工科大学",
+        "ar": "جامعة ميونخ التقنية",
+        "en": "Technical University of Munich",
+        "zh": "慕尼黑工业大学"
+      },
+      "descriptions": {
+        "de": "Hochschule in Bayern",
+        "fr": "établissement public d'enseignement supérieur de Bavière, en Allemagne",
+        "en": "public research university in Germany",
+        "ja": "ドイツの大学",
+        "zh": "德国公立大学",
+        "es": "universidad en Alemania",
+        "ar": "جامعة في ألمانيا",
+        "ko": "독일 바이에른주 뮌헨에 위치한 공립 연구형 대학"
+      }
+    },
+    "Q15976092": {
+      "id": "Q15976092",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "artificial intelligence researcher",
+        "es": "investigador de la inteligencia artificial",
+        "fr": "chercheur ou chercheuse en intelligence artificielle",
+        "de": "KI-Forscher",
+        "ar": "باحث في مجال الذكاء الاصطناعي",
+        "ja": "人工知能研究者",
+        "ko": "인공지능 연구자",
+        "zh": "人工智能研究者"
+      },
+      "descriptions": {
+        "de": "Wissenschaftler auf dem Gebiet der künstlichen Intelligenz",
+        "es": "profesión, científicos del campo de la inteligencia artificial",
+        "en": "researcher in the field of artificial intelligence",
+        "ja": "人工知能分野の研究者"
+      }
+    },
+    "Q183": {
+      "id": "Q183",
+      "fetchedAt": "2026-11-13T11:00:10Z",
+      "labels": {
+        "es": "Alemania",
+        "zh": "德國",
+        "ar": "ألمانيا",
+        "de": "Deutschland",
+        "en": "Germany",
+        "fr": "Allemagne",
+        "ja": "ドイツ",
+        "ko": "독일"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe centrale",
+        "zh": "歐洲國家",
+        "es": "país de Europa Occidental",
+        "de": "Staat in Mitteleuropa",
+        "ar": "دولة في وسط غرب أوروبا",
+        "en": "country in Central Europe",
+        "ja": "ヨーロッパの国",
+        "ko": "중앙유럽의 국가"
+      }
+    },
+    "Q2539": {
+      "id": "Q2539",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "apprentissage automatique",
+        "en": "machine learning",
+        "ar": "تعلم الآلة",
+        "de": "maschinelles Lernen",
+        "es": "aprendizaje automático",
+        "ja": "機械学習",
+        "ko": "기계 학습",
+        "zh": "机器学习"
+      },
+      "descriptions": {
+        "es": "subcampo de las ciencias de la computación y rama de la inteligencia artificial",
+        "de": "wissenschaftliche Untersuchung von Algorithmen und statistischen Modellen, die Computersysteme verwenden, um aus Daten die Ausführung von Aufgaben zu lernen, für die sie nicht explizit programmiert werden",
+        "en": "scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions",
+        "fr": "champ d'étude de l'intelligence artificielle qui vise à donner aux machines la capacité d'« apprendre » à partir de données, via des modèles mathématiques",
+        "ja": "パターンと推論に基づくコンピュータシステムが使用するアルゴリズム・統計モデルの科学研究",
+        "ar": "دراسة علمية لخوارزميات ونماذج إحصائية تستخدمها الأنظمة لأداء مهام دون تعاليم صريحة",
+        "zh": "對電腦系統用於在沒有明確指令的情況下執行任務的演算法與統計模型的科學研究",
+        "ko": "경험을 통해 자동으로 개선하는 컴퓨터 알고리즘의 연구"
+      }
+    },
+    "Q2904006": {
+      "id": "Q2904006",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "fr": "bioinformaticien",
+        "en": "bioinformatician",
+        "es": "bioinformático",
+        "de": "Bioinformatiker",
+        "zh": "生物信息学家",
+        "ar": "عالم معلوماتية حيوية",
+        "ko": "생물 정보 학자",
+        "ja": "生物情報学者"
+      },
+      "descriptions": {
+        "es": "persona que se especializa en la bioinformática",
+        "en": "profession",
+        "fr": "spécialiste de biologie et d'informatique",
+        "ko": "직업",
+        "ar": "مهنة"
+      }
+    },
+    "Q299015": {
+      "id": "Q299015",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "fr": "Académie autrichienne des sciences",
+        "en": "Austrian Academy of Sciences",
+        "de": "Österreichische Akademie der Wissenschaften",
+        "es": "Academia Austríaca de Ciencias",
+        "zh": "奧地利科學院",
+        "ja": "オーストリア科学アカデミー",
+        "ar": "الأكاديمية النمساوية للعلوم"
+      },
+      "descriptions": {
+        "de": "Trägerin außeruniversitärer Grundlagenforschung in Österreich",
+        "es": "academia de ciencias",
+        "en": "science academy in Austria",
+        "ja": "オーストリアの学術会議",
+        "fr": "institution nationale autrichienne"
+      }
+    },
+    "Q314089": {
+      "id": "Q314089",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "de": "Hochschule für angewandte Wissenschaften München",
+        "fr": "université de sciences appliquées de Munich",
+        "en": "Munich University of Applied Sciences",
+        "ja": "ミュンヘン専門大学",
+        "zh": "慕尼黑应用科技大学"
+      },
+      "descriptions": {
+        "de": "Hochschule für angewandte Wissenschaften in München",
+        "en": "public university in Munich, Germany",
+        "ar": "جامعة عامة في مونيتش بألمانيا"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q487292": {
+      "id": "Q487292",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "fr": "Allianz",
+        "ko": "알리안츠",
+        "es": "Allianz SE",
+        "de": "Allianz SE",
+        "ja": "アリアンツ",
+        "ar": "أليانز",
+        "en": "Allianz SE",
+        "zh": "安联"
+      },
+      "descriptions": {
+        "de": "europäisches Versicherungsunternehmen",
+        "en": "European multinational insurance and financial services corporation",
+        "fr": "groupe d'assurances européen",
+        "zh": "總部位於德國慕尼黑的跨國金融服務集團",
+        "ar": "شركة خدمات مالية وتأمينية ألمانية",
+        "ja": "ドイツの保険会社",
+        "es": "corporación alemana de seguros y servicios financieros"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q502615": {
+      "id": "Q502615",
+      "fetchedAt": "2026-11-13T11:07:08Z",
+      "labels": {
+        "fr": "Mühldorf am Inn",
+        "es": "Mühldorf",
+        "en": "Mühldorf am Inn",
+        "de": "Mühldorf am Inn",
+        "zh": "因河畔米尔多夫",
+        "ar": "مولدورف",
+        "ja": "ミュールドルフ"
+      },
+      "descriptions": {
+        "fr": "commune allemande",
+        "de": "Mittelstadt in Deutschland",
+        "en": "Stadt in Bavaria, Germany",
+        "ar": "بلدة في ألمانيا",
+        "zh": "德国巴伐利亚州城市，因河畔米尔多夫县县治"
+      }
+    },
+    "Q543804": {
+      "id": "Q543804",
+      "fetchedAt": "2026-11-13T11:05:32Z",
+      "labels": {
+        "de": "Deutsche Akademie der Naturforscher Leopoldina",
+        "en": "German Academy of Sciences Leopoldina",
+        "es": "Academia Alemana de las Ciencias Naturales Leopoldina",
+        "fr": "Académie Léopoldine",
+        "zh": "利奥波第那科学院",
+        "ja": "国立科学アカデミー・レオポルディーナ",
+        "ar": "الأكاديمية الوطنية الألمانية للعلوم ليوبولدينا"
+      },
+      "descriptions": {
+        "fr": "Académie allemande des sciences",
+        "en": "national academy of Germany",
+        "es": "academia nacional alemana",
+        "de": "naturwissenschaftlich-medizinische Gelehrtengesellschaft in Halle (Saale)",
+        "ar": "الأكاديمية الوطنية الألمانية",
+        "ja": "ドイツの国立アカデミー (学術団体)"
+      }
+    },
+    "Q682739": {
+      "id": "Q682739",
+      "fetchedAt": "2026-11-13T11:07:09Z",
+      "labels": {
+        "de": "Johannes-Kepler-Universität",
+        "ko": "린츠 대학교",
+        "fr": "université de Linz",
+        "en": "Johannes Kepler University Linz",
+        "zh": "约翰内斯·开普勒林茨大学",
+        "ja": "ヨハネス・ケプラー大学",
+        "es": "Universidad Johannes Kepler",
+        "ar": "جامعة لينتس"
+      },
+      "descriptions": {
+        "en": "public university in Linz, Austria",
+        "de": "1966 gegründete Universität in Linz, Oberösterreich",
+        "es": "Universidad pública en Linz, Austria",
+        "zh": "奧地利林茨的公立大學",
+        "ar": "جامعة في لينتس، النمسا",
+        "fr": "université autrichienne",
+        "ko": "오스트리아 린츠에 있는 공립 대학교",
+        "ja": "公立大学（オーストリア）"
+      }
+    },
+    "Q687017": {
+      "id": "Q687017",
+      "fetchedAt": "2026-11-13T11:07:09Z",
+      "labels": {
+        "de": "Fernuniversität in Hagen",
+        "ja": "ハーゲン通信大学",
+        "en": "FernUniversität in Hagen",
+        "es": "Universidad a Distancia de Hagen",
+        "zh": "哈根函授大学",
+        "ar": "جامعة هاغن",
+        "fr": "Université de Hagen"
+      },
+      "descriptions": {
+        "de": "Fernuniversität in Hagen, Nordrhein-Westfalen, Deutschland",
+        "en": "public research university that is primarily focused on distance teaching based in Hagen, Germany",
+        "ar": "جامعة في ألمانيا",
+        "ja": "ドイツの大学",
+        "fr": "université de Hagen, Rhénanie-du-Nord-Westphalie, Allemagne"
+      }
+    },
+    "Q700368": {
+      "id": "Q700368",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "de": "Wilhelm-Exner-Medaille",
+        "en": "Wilhelm Exner Medal",
+        "fr": "médaille Wilhelm-Exner",
+        "ja": "ヴィルヘルム・エクスナー・メダル",
+        "ar": "ميدالية ويلهلم إكسنر",
+        "zh": "威廉·埃克斯纳奖章"
+      },
+      "descriptions": {
+        "de": "österreichische Auszeichnung",
+        "fr": "distinction autrichienne décernée par l’Association du commerce d'Autriche",
+        "en": "award by Wilhelm Exner Fund, founded by Austrian Industry Association",
+        "ar": "جائزة تمنحها مؤسسة ويلهلم إكسنر"
+      }
+    },
+    "Q78151117": {
+      "id": "Q78151117",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "en": "European Laboratory for Learning and Intelligent Systems",
+        "es": "Laboratorio Europeo de Aprendizaje y Sistemas Inteligentes"
+      },
+      "descriptions": {
+        "en": "European non-profit promoting AI research in Europe"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q829984": {
+      "id": "Q829984",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "fr": "Mathematics Genealogy Project",
+        "en": "Mathematics Genealogy Project",
+        "es": "Mathematics Genealogy Project",
+        "de": "Mathematics Genealogy Project",
+        "ja": "Mathematics Genealogy Project",
+        "ar": "مشروع إحصاء علماء الرياضيات",
+        "zh": "數學譜系計畫",
+        "ko": "수학 계보 프로젝트"
+      },
+      "descriptions": {
+        "fr": "base de données sur Internet qui donne la généalogie académique de mathématiciens",
+        "en": "web-based database for the academic genealogy of mathematicians",
+        "de": "Datenbank für Dissertationen in der Mathematik",
+        "ko": "수학자들의 학문 계보를 위한 웹 기반 데이터베이스",
+        "zh": "汇集数学家谱系的网络数据库"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Sepp Hochreiter - Buch Wien 2025.JPG",
+    "fetchedAt": "2026-11-13T11:07:18Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sepp_Hochreiter_-_Buch_Wien_2025.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sepp_Hochreiter_-_Buch_Wien_2025.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sepp_Hochreiter_-_Buch_Wien_2025.JPG/960px-Sepp_Hochreiter_-_Buch_Wien_2025.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 4200,
+    "height": 3150,
+    "mediaTimestamp": "2025-12-02T08:16:28Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "C.Stadler/Bwag",
+    "credit": "Own work",
+    "description": "Der deutsche Informatiker und Universitätsprofessor Sepp Hochreiter auf der Buch Wien 2025.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/649abd6f7623768bc2fc311b.jpg",
+    "cachedImageBytes": 105660,
+    "cachedImageSha256": "eef0509ff576c44c28df3d6e5704c240b7f8b284fe4ed0b5b7900f21c8e3efc4"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 9,
+    "referenceUrls": 8,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "greg-brockman",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "格雷格·布罗克曼",
+    "enName": "Greg Brockman",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "共同创办OpenAI并参与其技术平台与工程组织建设，对生成式人工智能产品化具有影响。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同创办OpenAI并参与其技术平台与工程组织建设，对生成式人工智能产品化具有影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:27Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Greg Brockman",
+    "requestedTitle": "Greg Brockman",
+    "resolvedTitle": "Greg Brockman",
+    "wikidataId": "Q100604534",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Greg_Brockman",
+      "title": "Greg Brockman",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:27Z",
+      "revisionId": 1382329335,
+      "revisionTimestamp": "2026-10-28T01:51:34Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1382329335",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q100604534",
+      "title": "Q100604534",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:06:08Z",
+      "revisionId": 2565821671,
+      "revisionTimestamp": "2026-11-07T08:36:07Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Gregory Brockman (born November 29, 1987) is an American entrepreneur and software engineer. He is co-founder and president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also served as CTO.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Greg Brockman",
+    "es": "Greg Brockman",
+    "fr": "Greg Brockman",
+    "de": "Greg Brockman",
+    "ja": "グレッグ・ブロックマン",
+    "zh": "格雷格·布羅克曼",
+    "ko": "그레그 브로크먼",
+    "ar": "كريك بركمان"
+  },
+  "descriptions": {
+    "fr": "chercheur et informaticien",
+    "es": "emprendedor estadounidense",
+    "de": "US-amerikanischer Informatiker",
+    "en": "American entrepreneur, investor, and software developer",
+    "ko": "미국 기업가, 개발자",
+    "ja": "アメリカ合衆国の起業家、投資家、ソフトウェア開発者 (1987-)"
+  },
+  "languageArticles": {
+    "ar": "كريك بركمان",
+    "de": "Greg Brockman",
+    "en": "Greg Brockman",
+    "ja": "グレッグ・ブロックマン",
+    "ko": "그레그 브로크먼",
+    "zh": "格雷格·布羅克曼"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q100604534$bc342135-4fab-aa72-026e-c2a20ffe127f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q100604534$a0be400a-43eb-fa35-e0c1-6220b80a4321",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://gregbrockman.com/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q100604534$87613b90-486e-aa45-51b2-29deb8c32dea",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21708200,
+            "id": "Q21708200"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-11-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-11-17"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.vilaweb.cat/noticies/chatgpt-algunes-inquietants-interioritats-projecte-intelligencia-artificial-fascina-mon/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://twitter.com/gdb/status/1725667410387378559"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-11-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-11-18"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q100604534$c69e8a21-4596-0c3d-7f07-ddf824e9f9dc",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7624104,
+            "id": "Q7624104"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q100604534$351b3844-4260-bdc1-6c4f-798b0c6e47e1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 131524,
+            "id": "Q131524"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q100604534$b99d2d53-4a55-8731-3dbc-3a1a7a5856bb",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 557880,
+            "id": "Q557880"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q100604534$9ee5bb04-4df8-e954-88c5-2ee6029a9779",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q100604534$1421a23b-44c0-f217-e46e-f5df0176d979",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1650915,
+            "id": "Q1650915"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q100604534$6998b8e5-4b81-b251-d01a-5aaf50862ed2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28453732,
+            "id": "Q28453732"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q100604534$8892aee5-4026-5a55-0169-8522e35058be",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13371,
+            "id": "Q13371"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2009-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2009"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q100604534$2eb09556-4821-3f87-5497-398b9de1db78",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49108,
+            "id": "Q49108"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2009-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2009"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q100604534$278bc638-45d0-ccbf-330f-06e469a82014",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7304848,
+            "id": "Q7304848"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q100604534$470e5b6b-48da-8f52-591d-7b1624bf17d1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 968559,
+            "id": "Q968559"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q100604534$3ae76084-406b-ad2e-8272-3dad558243ae",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q100604534$e76f770a-4a49-98fe-146d-34ac8a63e96c",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Disrupt SF TechCrunch Disrupt San Francisco 2019 - Day 2 (48838200316) (cropped).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-10-03T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-10-03"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q100604534$1cb96571-42c5-9f6e-1c3a-92599b27f10d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 528890,
+            "id": "Q528890"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q100604534$54D6D9A5-C600-4185-BFA8-9D8AAF9EF55A",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1987-11-29T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1987-11-29"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q100604534$9e6c14c5-449c-2cd8-916b-6a2ca6dda6b7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 136694973,
+            "id": "Q136694973"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q100604534$3a800427-42f0-29e5-0e8c-97b741353bf2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 23138,
+            "id": "Q23138"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P856": "officialWebsite",
+    "P108": "employer",
+    "P106": "occupation",
+    "P166": "award",
+    "P69": "education",
+    "P27": "citizenship",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P463": "membership"
+  },
+  "relatedEntities": {
+    "Q131524": {
+      "id": "Q131524",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "emprendedor",
+        "ar": "رائد أعمال",
+        "ko": "기업가",
+        "fr": "entrepreneur ou entrepreneuse",
+        "en": "entrepreneur",
+        "de": "Unternehmer",
+        "zh": "企业家",
+        "ja": "起業家"
+      },
+      "descriptions": {
+        "de": "Person, die ein Unternehmen eigenverantwortlich führt und dessen wirtschaftliches Risiko trägt",
+        "es": "persona que organiza y dirige un negocio, asumiendo su riesgo económico",
+        "en": "person who organizes and runs a business venture, assuming its business risks",
+        "fr": "personne qui organise et dirige une activité économique en assumant les risques",
+        "zh": "組織和經營企業的個人，承擔財務風險",
+        "ar": "الشخص الذي ينظم ويدير الأعمال التجارية",
+        "ja": "自ら事業を興す者に対する総称",
+        "ko": "기존에 존재하지 않았던 가치와 일자리를 만드는 사람"
+      }
+    },
+    "Q13371": {
+      "id": "Q13371",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "en": "Harvard University",
+        "fr": "Université Harvard",
+        "de": "Harvard University",
+        "ar": "جامعة هارفارد",
+        "es": "Universidad Harvard",
+        "ja": "ハーバード大学",
+        "ko": "하버드 대학교",
+        "zh": "哈佛大學"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts",
+        "de": "private Universität in Cambridge, Massachusetts, Vereinigte Staaten",
+        "es": "universidad privada ubicada en Cambridge, Massachusetts, Estados Unidos",
+        "fr": "université américaine située à Cambridge, Massachusetts",
+        "zh": "位於美國麻薩諸塞州劍橋市的私立研究型大學",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة أمريكية خاصة",
+        "ja": "アメリカ・マサチューセッツ州にある私立大学"
+      }
+    },
+    "Q136694973": {
+      "id": "Q136694973",
+      "fetchedAt": "2026-11-13T11:06:08Z",
+      "labels": {
+        "en": "Dialog",
+        "de": "Dialog",
+        "ja": "ダイアログ",
+        "ar": "ديالوغ",
+        "ko": "다이얼로그 (단체)",
+        "fr": "Dialogue (organisation)"
+      },
+      "descriptions": {
+        "en": "Private annual invite-only society gathering for elite and influential members",
+        "de": "private jährliche Klausurtagung für einflussreiche Persönlichkeiten",
+        "ar": "تجمع سنوي خاص مقتصر على المدعوين فقط، مخصص للنخبة والأعضاء المؤثرين"
+      }
+    },
+    "Q1650915": {
+      "id": "Q1650915",
+      "fetchedAt": "2026-11-13T10:59:42Z",
+      "labels": {
+        "fr": "chercheur ou chercheuse",
+        "es": "investigador",
+        "en": "researcher",
+        "ar": "باحث",
+        "ko": "연구원",
+        "de": "Forscher",
+        "zh": "研究者",
+        "ja": "研究者"
+      },
+      "descriptions": {
+        "fr": "personne qui se consacre à la recherche scientifique",
+        "es": "profesional de la investigación científica",
+        "en": "person who engages in research, professionally or otherwise. If a more specific occupation is known, use that instead",
+        "de": "Person, die wissenschaftlich forscht",
+        "zh": "進行研究的人",
+        "ja": "研究機関等で研究活動に従事する人",
+        "ko": "전문성 여부와 관계 없이 연구 분야에 종사하는 사람",
+        "ar": "الشخص الذي يُجري أبحاثًا، سواءً كانت مهنية أو غير مهنية"
+      }
+    },
+    "Q21708200": {
+      "id": "Q21708200",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "zh": "開放人工智能",
+        "ko": "오픈AI",
+        "ar": "أوبن أيه آي",
+        "es": "Open AI",
+        "fr": "OpenAI",
+        "en": "OpenAI",
+        "ja": "OpenAI",
+        "de": "OpenAI"
+      },
+      "descriptions": {
+        "en": "American artificial intelligence research organization",
+        "de": "US-amerikanische Non-Profit-Organisation zur Erforschung und Entwicklung künstlicher Intelligenz",
+        "zh": "非營利人工智能研究組織、ChatGPT的開發公司",
+        "ko": "비영리 인공지능 연구 기업",
+        "fr": "entreprise en intelligence artificielle",
+        "ar": "منظمة بحثية أمريكية تختص بالذكاء الاصطناعي",
+        "es": "organización estadounidense de investigación de inteligencia artificial",
+        "ja": "アメリカの人工知能研究機関"
+      }
+    },
+    "Q23138": {
+      "id": "Q23138",
+      "fetchedAt": "2026-11-13T11:06:08Z",
+      "labels": {
+        "en": "Chaos Computer Club",
+        "de": "Chaos Computer Club",
+        "es": "Club de Computación Caos",
+        "fr": "Chaos Computer Club",
+        "ja": "カオス・コンピュータ・クラブ",
+        "ar": "نادي كايوس للحاسوب",
+        "zh": "混沌计算机俱乐部",
+        "ko": "카오스 컴퓨터 클럽"
+      },
+      "descriptions": {
+        "en": "Germany based hackers organization",
+        "de": "deutscher Verein für Hacker",
+        "es": "asociación alemana de hackers",
+        "zh": "德国黑客组织",
+        "fr": "organisation",
+        "ja": "世界で最も規模が大きく、最も有力なハッカー集団の1つ",
+        "ar": "منظمة في ألمانيا"
+      }
+    },
+    "Q28453732": {
+      "id": "Q28453732",
+      "fetchedAt": "2026-11-13T11:06:08Z",
+      "labels": {
+        "en": "Forbes 30 Under 30",
+        "zh": "富比士30位30歲以下精英榜",
+        "ja": "フォーブス30アンダー30",
+        "de": "Forbes 30 Under 30",
+        "ar": "فوربيس 30 تحت 30",
+        "es": "30 Under 30 (Forbes)",
+        "fr": "Forbes 30 Under 30",
+        "ko": "포브스 30 언더 30"
+      },
+      "descriptions": {
+        "en": "set of lists recognizing young professionals",
+        "de": "Liste mit Personen aus der Wirtschaft vom Magazin Forbes",
+        "es": "conjunto de listas que reconocen a los jóvenes profesionales",
+        "fr": "série de listes reconnaissant les jeunes professionnels",
+        "ko": "젊은 전문가들을 인정하는 목록"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q49108": {
+      "id": "Q49108",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Massachusetts Institute of Technology",
+        "ar": "معهد ماساتشوستس للتقانة",
+        "de": "Massachusetts Institute of Technology",
+        "es": "Instituto Tecnológico de Massachusetts",
+        "fr": "Institut de technologie du Massachusetts",
+        "ja": "マサチューセッツ工科大学",
+        "ko": "매사추세츠 공과대학교",
+        "zh": "麻省理工學院"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts, USA, founded 1861",
+        "ko": "미국 매사추세츠 주의 케임브리지에 있는 연구 중심 공과대학을 모체로 한 사립 대학교",
+        "de": "Universität im US-Bundesstaat Massachusetts",
+        "zh": "1861年建立的一所学校",
+        "fr": "université américaine à Cambridge, Massachusetts",
+        "ar": "جامعة خاصة في مدينة كامبريدج بولاية ماستشوستس الأمريكية، أُسِّسَت عام 1861",
+        "es": "universidad privada localizada en Cambridge, Massachusetts, Estados Unidos de América",
+        "ja": "アメリカ・マサチューセッツ州ケンブリッジにある私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q528890": {
+      "id": "Q528890",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "es": "Thompson",
+        "en": "Thompson",
+        "zh": "汤普森",
+        "de": "Thompson",
+        "ar": "تومسون",
+        "fr": "Thompson",
+        "ja": "トンプソン"
+      },
+      "descriptions": {
+        "de": "Stadt im US-Bundesstaat North Dakota",
+        "fr": "ville américaine de l'État du Dakota du Nord",
+        "en": "city in North Dakota, United States",
+        "ar": "مدينة في مقاطعة غراند فوركس، الولايات المتحدة",
+        "ja": "アメリカ合衆国のノース・ダコタ州グランド・フォークス郡にある市"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q557880": {
+      "id": "Q557880",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "investisseur ou investisseuse",
+        "en": "investor",
+        "zh": "投資者",
+        "de": "Kapitalanleger",
+        "ja": "投資家",
+        "ko": "투자가",
+        "es": "inversor",
+        "ar": "مستثمر"
+      },
+      "descriptions": {
+        "de": "Kapitalmarktakteur",
+        "en": "person who allocates capital with the expectation of a financial return",
+        "es": "persona que coloca capital con la expectativa de obtener una ganancia financiera",
+        "fr": "personne qui alloue une part de capital dans l'attente d'un retour sur investissement",
+        "zh": "出於財務回報的預期而配置資本的人",
+        "ja": "投資を目的として市場で発行された金融商品などを保有する者"
+      }
+    },
+    "Q7304848": {
+      "id": "Q7304848",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "en": "Red River High School",
+        "fr": "Red River High School",
+        "ja": "レッド・リヴァー高等学校",
+        "zh": "紅河高中"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في داكوتا الشمالية، الولايات المتحدة",
+        "en": "high school in North Dakota, United States",
+        "ja": "アメリカ合衆国のノース・ダコタ州グランド・フォークス郡にある高等学校"
+      }
+    },
+    "Q7624104": {
+      "id": "Q7624104",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Stripe",
+        "ja": "ストライプ",
+        "fr": "Stripe",
+        "zh": "Stripe",
+        "de": "Stripe",
+        "es": "Stripe",
+        "ar": "سترايب",
+        "ko": "스트라이프"
+      },
+      "descriptions": {
+        "en": "Irish-American payment technology company",
+        "de": "Unternehmen",
+        "fr": "entreprise de services financiers",
+        "ar": "شركة أمريكية",
+        "es": "empresa irlandesa de pagos por Internet",
+        "zh": "互联网支付服务提供商"
+      }
+    },
+    "Q968559": {
+      "id": "Q968559",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "fr": "Université du Dakota du Nord",
+        "de": "University of North Dakota",
+        "en": "University of North Dakota",
+        "ko": "노스다코타 대학교",
+        "zh": "北達科他大學",
+        "ja": "ノースダコタ大学",
+        "ar": "جامعة داكوتا الشمالية",
+        "es": "Universidad de Dakota del Norte"
+      },
+      "descriptions": {
+        "de": "Universität in den Vereinigten Staaten",
+        "fr": "université américaine",
+        "ja": "アメリカの州立大学",
+        "en": "public university in North Dakota, United States of America",
+        "ko": "미국의 주립 대학"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Disrupt SF TechCrunch Disrupt San Francisco 2019 - Day 2 (48838200316) (cropped).jpg",
+    "fetchedAt": "2026-11-13T11:06:16Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Disrupt_SF_TechCrunch_Disrupt_San_Francisco_2019_-_Day_2_(48838200316)_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Disrupt_SF_TechCrunch_Disrupt_San_Francisco_2019_-_Day_2_%2848838200316%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Disrupt_SF_TechCrunch_Disrupt_San_Francisco_2019_-_Day_2_%2848838200316%29_%28cropped%29.jpg/960px-Disrupt_SF_TechCrunch_Disrupt_San_Francisco_2019_-_Day_2_%2848838200316%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1489,
+    "height": 1852,
+    "mediaTimestamp": "2022-04-07T08:44:18Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "TechCrunch",
+    "credit": "TechCrunch Disrupt San Francisco 2019 - Day 2",
+    "description": "SAN FRANCISCO, CALIFORNIA - OCTOBER 03: OpenAI Co-founder/Chairman & CTO Greg Brockman speaks onstage during TechCrunch Disrupt San Francisco 2019 at Moscone Convention Center on October 03, 2019 in San Francisco, California. (Photo by Steve Jennings/Getty Images for TechCrunch)",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/febc6acccbf3d9f3dec6dff4.jpg",
+    "cachedImageBytes": 311848,
+    "cachedImageSha256": "486f7d9feffc7048ba98a007d0946dfa7e7450fa5e77709ed61fbd5b428ea8be"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 4,
+    "referenceUrls": 2,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

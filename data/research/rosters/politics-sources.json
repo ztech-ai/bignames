@@ -1,0 +1,82 @@
+{
+  "collection": "contemporary-2026-11",
+  "domain": "politics",
+  "targetCutoff": "2026-11-13",
+  "searchedAt": "2026-11-13",
+  "purpose": "候选选题与机构、奖项类别交叉检查；不是逐人履历、在世状态或2026年现职核验。",
+  "methodology": {
+    "inclusion": "以持续全球影响、国际领域领导或跨国/重大区域结构性影响为准；头衔、财富、媒体热度及道德赞同均不单独构成收录依据。",
+    "ratingVersion": "1.0",
+    "ratings": "1局部/初显影响；2国家或专业范围知名；3跨国或重大区域结构性影响；4全球领域领导；5持续塑造世界格局。仅暂定3星及以上进入主候选池。",
+    "lifeStatus": "未对候选统一断言仍在世；每个档案发表前须单独核对死亡信息、身份与照片。",
+    "currentness": "名单避免将曾任职务写成2026年现职。评分和选题是编辑暂评，不等于事实核验日期。"
+  },
+  "sources": [
+    {
+      "title": "Heads of State, Heads of Government and Ministers for Foreign Affairs",
+      "publisher": "United Nations Protocol and Liaison Service",
+      "url": "https://www.un.org/dgacm/en/content/protocol/hshgnfa",
+      "access": "search-index-accessible; direct-open-403",
+      "use": "国家领导、政府领导和外长类别及后续逐人核验入口"
+    },
+    {
+      "title": "Heads of State / Government / Foreign Affairs: public list",
+      "publisher": "United Nations Protocol and Liaison Service",
+      "url": "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/hspmfmlist.pdf",
+      "access": "search-index-accessible; direct-open-403",
+      "use": "搜索结果显示近期更新；未读取PDF全量，不据此断言个人现职"
+    },
+    {
+      "title": "The European Council appoints the European Commission",
+      "publisher": "Council of the European Union",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/11/28/the-european-council-appoints-the-european-commission/",
+      "access": "opened",
+      "publishedAt": "2024-11-28",
+      "use": "核对冯德莱恩、卡拉斯与2024—2029欧盟委员会领导任命"
+    },
+    {
+      "title": "Presidents of the European institutions",
+      "publisher": "European Union",
+      "url": "https://european-union.europa.eu/institutions-law-budget/leadership/presidents_en",
+      "access": "opened",
+      "pageUpdatedAt": "2026-05-07",
+      "use": "核对欧盟主要机构领导类别及科斯塔、梅措拉、冯德莱恩"
+    },
+    {
+      "title": "Laureates — Nobel Peace Prize",
+      "publisher": "Norwegian Nobel Institute",
+      "url": "https://www.nobelpeaceprize.org/laureates/?page=1",
+      "access": "opened",
+      "use": "核对2011—2026近年和平奖个人与组织类别；组织获奖不等同个人获奖"
+    },
+    {
+      "title": "About the Leadership Team",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/sg/en/leadership-team",
+      "access": "search-index-accessible; direct-open-403",
+      "use": "联合国机构领导与后续人物核验入口"
+    }
+  ],
+  "result": {
+    "eligibleCount": 209,
+    "reserveCount": 35,
+    "stars": {
+      "5": 7,
+      "4": 96,
+      "3": 106
+    },
+    "primaryRegions": {
+      "north-america": 36,
+      "south-america": 17,
+      "europe": 56,
+      "asia": 62,
+      "africa": 29,
+      "oceania": 9
+    }
+  },
+  "limitations": [
+    "此文件记录选题研究，不将同一机构索引当作所有人物每条事实的证据。",
+    "名义现职和在世状态须在后续人物资料采集时逐人检索。",
+    "没有为了达到领域固定配额保留评分低于3的候选。"
+  ]
+}

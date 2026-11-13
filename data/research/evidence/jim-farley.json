@@ -1,0 +1,649 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "jim-farley",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "吉姆·法利",
+    "enName": "Jim Farley",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "汽车与工业",
+    "inclusionReason": "领导福特的汽车业务调整，推进商用车、软件服务与电动产品发展。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "领导福特的汽车业务调整，推进商用车、软件服务与电动产品发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:25Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Jim Farley",
+    "requestedTitle": "Jim Farley (businessman)",
+    "resolvedTitle": "Jim Farley (businessman)",
+    "wikidataId": "Q18921712",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)",
+      "title": "Jim Farley (businessman)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:25Z",
+      "revisionId": 1378229011,
+      "revisionTimestamp": "2026-10-03T16:07:31Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1378229011",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18921712",
+      "title": "Q18921712",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:26:26Z",
+      "revisionId": 2542080290,
+      "revisionTimestamp": "2026-09-08T04:53:43Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "James Duncan Farley Jr. (born June 10, 1962) is an American businessman. He is the CEO of Ford Motor Company, a board member of McDonald's, and former board member of Harley-Davidson.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Jim Farley",
+    "ar": "جيم فارلي",
+    "zh": "吉姆·法利"
+  },
+  "descriptions": {
+    "en": "American business executive, president and chief executive officer, Ford Motor Company",
+    "de": "US-amerikanischer Manager",
+    "fr": "cadre commercial américain"
+  },
+  "languageArticles": {
+    "ar": "جيم فارلي",
+    "de": "Jim Farley",
+    "en": "Jim Farley (businessman)"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q18921712$7021EB0F-FEB1-4F6C-A3C3-48127F36FE2D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q18921712$6A8315B2-FE58-44B2-BD68-B05B1C8EE308",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q18921712$4E472587-EBEE-4B18-B459-39818198F36B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 414,
+            "id": "Q414"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q18921712$A8DC287C-4727-4738-B446-96BA5478857D",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1962-06-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1962-06"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q18921712$19107F22-79E4-4148-9E43-1CDBF28F0230",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 174710,
+            "id": "Q174710"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q18921712$788905D7-7376-4F11-8EB3-86EC4605B09D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 333886,
+            "id": "Q333886"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q18921712$f48530ae-c6ed-4fc6-aa8a-915ac56a1e12",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q18921712$e739bc8f-4434-be30-37d7-cd11a3a0c5e0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q18921712$BB69A241-85BD-4BEA-A0DD-8668ADEDD295",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 44294,
+            "id": "Q44294"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-05-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18921712$a0b81a09-4cca-1e2d-0d36-0dc2e792d3a8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 115538592,
+            "id": "Q115538592"
+          }
+        },
+        "qualifiers": {
+          "P1545": [
+            {
+              "type": "string",
+              "value": "13"
+            }
+          ],
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-10-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-10-01"
+            }
+          ],
+          "P1365": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30030987,
+                "id": "Q30030987"
+              }
+            }
+          ]
+        },
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P69": "education",
+    "P106": "occupation",
+    "P108": "employer",
+    "P39": "position"
+  },
+  "relatedEntities": {
+    "Q115538592": {
+      "id": "Q115538592",
+      "fetchedAt": "2026-11-13T11:26:26Z",
+      "labels": {
+        "en": "CEO of Ford Motor Company",
+        "fr": "directeur général de Ford",
+        "ar": "الرئيس التنفيذي لشركة فورد"
+      },
+      "descriptions": {
+        "ar": "أسمى منصب إداري في شركة فورد للسيارات"
+      }
+    },
+    "Q174710": {
+      "id": "Q174710",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "ko": "캘리포니아 대학교 로스앤젤레스 캠퍼스",
+        "fr": "Université de Californie à Los Angeles",
+        "es": "Universidad de California en Los Ángeles",
+        "de": "University of California, Los Angeles",
+        "ja": "カリフォルニア大学ロサンゼルス校",
+        "en": "University of California, Los Angeles",
+        "ar": "جامعة كاليفورنيا، لوس أنجلوس",
+        "zh": "加州大学洛杉矶分校"
+      },
+      "descriptions": {
+        "de": "amerikanische Universität",
+        "en": "public university in Los Angeles, California, USA",
+        "fr": "université américaine",
+        "es": "universidad pública en Los Ángeles, California, Estados Unidos",
+        "zh": "位于加州洛杉矶的研究型大学",
+        "ko": "미국 캘리포니아주의 로스엔젤레스에 위치한 공립 대학교",
+        "ja": "アメリカ・カリフォルニア州にある州立大学",
+        "ar": "جامعة في لوس أنجلوس في الولايات المتحدة."
+      }
+    },
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q30030987": {
+      "id": "Q30030987",
+      "fetchedAt": "2026-11-13T11:26:26Z",
+      "labels": {
+        "de": "James Hackett",
+        "en": "James Hackett",
+        "es": "James Hackett",
+        "fr": "James Hackett",
+        "zh": "詹姆斯·哈克特",
+        "ar": "جيمس هاكيت"
+      },
+      "descriptions": {
+        "en": "American businessperson",
+        "ar": "رئيس تنفيذي لشركة من الولايات المتحدة الأمريكية",
+        "de": "amerikanischer Manager",
+        "es": "empresario estadounidense",
+        "fr": "homme d'affaires américain"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q333886": {
+      "id": "Q333886",
+      "fetchedAt": "2026-11-13T11:00:12Z",
+      "labels": {
+        "ko": "조지타운 대학교",
+        "fr": "Université de Georgetown",
+        "es": "Universidad de Georgetown",
+        "de": "Georgetown University",
+        "ja": "ジョージタウン大学",
+        "en": "Georgetown University",
+        "ar": "جامعة جورجتاون",
+        "zh": "喬治城大學"
+      },
+      "descriptions": {
+        "en": "private university in Washington, D.C., United States",
+        "de": "Universität in den Vereinigten Staaten",
+        "fr": "université à Washington, aux États-Unis",
+        "es": "universidad privada de Estados Unidos",
+        "zh": "位于美国华盛顿特区的私立大学",
+        "ar": "جامعة في الولايات المتحدة",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q414": {
+      "id": "Q414",
+      "fetchedAt": "2026-11-13T10:59:45Z",
+      "labels": {
+        "es": "Argentina",
+        "zh": "阿根廷",
+        "ar": "الأرجنتين",
+        "de": "Argentinien",
+        "en": "Argentina",
+        "fr": "Argentine",
+        "ja": "アルゼンチン",
+        "ko": "아르헨티나"
+      },
+      "descriptions": {
+        "fr": "pays d’Amérique du Sud",
+        "es": "país de América del Sur",
+        "de": "Staat in Südamerika",
+        "ar": "دولة في أمريكا الجنوبية",
+        "zh": "美洲南部國家",
+        "en": "country in South America",
+        "ko": "남아메리카의 국가",
+        "ja": "南アメリカの国"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q44294": {
+      "id": "Q44294",
+      "fetchedAt": "2026-11-13T11:26:26Z",
+      "labels": {
+        "zh": "福特汽車",
+        "ar": "شركة فورد",
+        "ko": "포드 자동차 회사",
+        "fr": "Ford",
+        "de": "Ford",
+        "ja": "フォード・モーター",
+        "en": "Ford Motor Company"
+      },
+      "descriptions": {
+        "de": "US-amerikanischer Automobilhersteller",
+        "fr": "constructeur automobile américain",
+        "en": "American multinational automotive company",
+        "ar": "شركة تصنيع للسيارات",
+        "zh": "美國汽車製造商",
+        "ja": "アメリカ合衆国の自動車メーカー",
+        "es": "fabricante automotriz estadounidense",
+        "ko": "미국의 다국적 자동차 기업"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

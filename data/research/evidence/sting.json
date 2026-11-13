@@ -1,0 +1,2773 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "sting",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "斯汀",
+    "enName": "Sting",
+    "domain": "culture",
+    "domains": [
+      "culture"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "音乐创作与表演",
+    "inclusionReason": "从警察乐队到个人创作融合摇滚、爵士与世界音乐，并长期参与雨林保护等公共倡议。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "从警察乐队到个人创作融合摇滚、爵士与世界音乐，并长期参与雨林保护等公共倡议。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:49Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Sting",
+    "requestedTitle": "Sting (musician)",
+    "resolvedTitle": "Sting (musician)",
+    "wikidataId": "Q483203",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Sting_(musician)",
+      "title": "Sting (musician)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:49Z",
+      "revisionId": 1385444986,
+      "revisionTimestamp": "2026-11-13T08:59:44Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1385444986",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q483203",
+      "title": "Q483203",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:09:57Z",
+      "revisionId": 2564428161,
+      "revisionTimestamp": "2026-11-03T20:15:03Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Gordon Matthew Thomas Sumner (born 2 October 1951), known as Sting, is an English musician, songwriter, actor and activist. He was the lead vocalist, principal songwriter and bassist for the rock band the Police (1977–1984, 2007–2008). He began a solo career in 1985, after leaving the Police, and has included elements of rock, jazz, reggae, classical, new-age, and worldbeat in his music.\nSting has sold a combined total of more than 100 million records as a solo artist and as a member of the Police. He has received three Brit Awards, including Best British Male Artist in 1994 and Outstanding Contribution to Music in 2002; a Golden Globe; an Emmy; and four Academy Award nominations. As a solo musician and as a member of the Police, Sting has received 17 Grammy Awards. He was inducted into the Rock and Roll Hall of Fame as a member of the Police in 2003. Sting has received a star on the Hollywood Walk of Fame; the Ivor Novello Award for Lifetime Achievement from the British Academy of Songwriters, Composers and Authors; a CBE from Queen Elizabeth II for services to music; Kennedy Center Honors; and the Polar Music Prize. In May 2023, he was made an Ivor Novello Fellow.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "es": "Sting",
+    "ar": "ستينغ",
+    "ko": "스팅",
+    "fr": "Sting",
+    "de": "Sting",
+    "ja": "スティング",
+    "en": "Sting",
+    "zh": "史汀"
+  },
+  "descriptions": {
+    "en": "British musician (born 1951)",
+    "de": "britischer Musiker",
+    "es": "músico británico",
+    "fr": "musicien britannique",
+    "ko": "영국의 음악가",
+    "ja": "英国のミュージシャン",
+    "zh": "英国音乐家、歌手、歌曲作者和演员",
+    "ar": "ممثل إنجليزي"
+  },
+  "languageArticles": {
+    "ar": "ستينغ (مغني)",
+    "de": "Sting",
+    "en": "Sting (musician)",
+    "es": "Sting",
+    "fr": "Sting",
+    "ja": "スティング (ミュージシャン)",
+    "ko": "스팅 (가수)",
+    "zh": "史汀"
+  },
+  "claims": {
+    "P106": [
+      {
+        "id": "q483203$1F9E0DD7-6558-4528-97AE-450D6C086603",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 33999,
+            "id": "Q33999"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "q483203$f46c3c0b-4295-70a5-8a9b-6eb3957db8b1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 488205,
+            "id": "Q488205"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$42ca9571-4097-cd1b-36dc-068c5e58292b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 584301,
+            "id": "Q584301"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$1E7FE728-7C01-4ADE-AB26-3E46C6A2BFAA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 855091,
+            "id": "Q855091"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$8980CD01-BF5F-4E18-BD0B-DF775838E6B4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 36834,
+            "id": "Q36834"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$CE1E18AA-DA51-476D-833D-A2D68DA9B482",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21166956,
+            "id": "Q21166956"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$3E96F610-16EC-400B-844B-B348973EFBF7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10800557,
+            "id": "Q10800557"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$88fdec5b-4284-ea90-aacf-9261af481029",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183945,
+            "id": "Q183945"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$05a1714d-75f0-444d-acba-71617a5f8c2f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 37226,
+            "id": "Q37226"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-12-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-12-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$5aa34b2f-4bed-8fd6-0c7b-b33b598370af",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2251335,
+            "id": "Q2251335"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "somevalue"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$FF477DA8-FE97-4430-9A29-00E2E0240A05",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 177220,
+            "id": "Q177220"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-03-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-03-31"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$EDD7C810-1CDC-4982-A1B8-88D5352DCA64",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 482980,
+            "id": "Q482980"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$9056D6A8-1CA6-4FA6-A8AE-08954C02211A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 639669,
+            "id": "Q639669"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$F959BD06-1DDA-48CA-BB46-1B2991257FD7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8178443,
+            "id": "Q8178443"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q483203$6E0939E9-98F9-4EBA-92EF-F3B5D517BA7B",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1951-10-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1951-10-02"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-04-29T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2014-04-29"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29861311,
+                  "id": "Q29861311"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 31964,
+                  "id": "Q31964"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2629164,
+                  "id": "Q2629164"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5375741,
+                  "id": "Q5375741"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15706812,
+                  "id": "Q15706812"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 237227,
+                  "id": "Q237227"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98769076,
+                  "id": "Q98769076"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2877812,
+                  "id": "Q2877812"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107343683,
+                  "id": "Q107343683"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-10-18"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P463": [
+      {
+        "id": "q483203$2c86a410-44a2-89fa-a3a9-7cd53b7e6a07",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 178095,
+            "id": "Q178095"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1977-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1977"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1985-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1985"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q483203$ADE4E8C9-A7A1-49E4-A36F-C5CDA1615A2D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 50358336,
+                  "id": "Q50358336"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-02-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-02-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q483203$64fac847-3610-432a-bece-b8218eabf5ef",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Sting in April 2018.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-04-21T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-04-21"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q483203$3211B1D3-D509-403B-9D30-8208A41642FF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 12201477,
+            "id": "Q12201477"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$BF2FB82F-6E33-4986-8006-3D65D980B589",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4377021,
+            "id": "Q4377021"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$B9BB1BC7-1811-4358-B396-E04146F0792C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 326482,
+            "id": "Q326482"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2004-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2004"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$6D9A59D3-3401-47FD-9289-76910A99E758",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5230793,
+            "id": "Q5230793"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$378e8052-404f-4868-65d8-3156247dbf2c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 754841,
+            "id": "Q754841"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q483203$7C05AD5F-77E9-4C84-A9B4-E35BA24751C3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1738793,
+            "id": "Q1738793"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$A5420FB8-0126-4AF8-8FD8-2D84256EA985",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13452528,
+            "id": "Q13452528"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/sting-se-confie-au-figaro-en-france-je-suis-chevalier-des-arts-et-des-lettres-la-classe-20250814"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-08-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-08-14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$437334CF-B650-44F4-B943-0D6E0BE6A765",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1205214,
+            "id": "Q1205214"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q483203$896F5E21-D9E1-4926-9892-6C01F6065058",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 17985761,
+            "id": "Q17985761"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-06-06T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-06-06"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$d436ac3d-4e2e-dcf5-f125-206f0ec493be",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3319330,
+            "id": "Q3319330"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$b407cc7e-4855-e275-d9b7-fbe7d5ade7ed",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1542205,
+            "id": "Q1542205"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1982-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1982"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$b28b7383-410a-7e66-2469-580f8cf0de94",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1027904,
+            "id": "Q1027904"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1984-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1984"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q483203$1df5ed7f-4c64-892f-4ac9-7017a62a2dea",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3334517,
+            "id": "Q3334517"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q483203$14C3B0F0-298F-42FB-BC79-AD61F92D4445",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1248150,
+            "id": "Q1248150"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-12-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2014-12-15"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-10-18"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q483203$6482291B-C809-49ED-940C-C6A161860D44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 145,
+            "id": "Q145"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q483203$754BA62C-7EF7-46CC-8C55-01BDF19019A5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122603257,
+            "id": "Q122603257"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$B0478CCB-4F45-46FA-B41E-94BB440EC629",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2477953,
+            "id": "Q2477953"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$3AE90789-E985-41EB-A192-D288FC95B2AD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 989745,
+            "id": "Q989745"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q483203$0CA22A48-3F5E-420B-B1C2-2C7988DD21F0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 865528,
+            "id": "Q865528"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$FF7CCD52-2438-4546-AF19-C74682725C50",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7587691,
+            "id": "Q7587691"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q483203$E59CEA85-1915-468C-9DC3-790657648365",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2503794,
+            "id": "Q2503794"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q483203$ed0a3e5c-44a3-4417-1ef5-409e87bf6b1e",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1971-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1971"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q483203$FAA807D3-7232-4030-9E3C-33F3F09944B1",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.sting.com/"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P463": "membership",
+    "P31": "instanceOf",
+    "P18": "image",
+    "P166": "award",
+    "P19": "birthPlace",
+    "P27": "citizenship",
+    "P800": "notableWork",
+    "P69": "education",
+    "P2031": "careerStart",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q1027904": {
+      "id": "Q1027904",
+      "fetchedAt": "2026-11-13T11:02:57Z",
+      "labels": {
+        "fr": "Grammy Award de la chanson de l'année",
+        "en": "Grammy Award for Song of the Year",
+        "es": "Anexo:Premio Grammy a la canción del año",
+        "de": "Grammy Award for Song of the Year",
+        "ja": "グラミー賞最優秀楽曲賞",
+        "zh": "格林美獎年度歌曲",
+        "ar": "جائزة غرامي لأغنية العام"
+      },
+      "descriptions": {
+        "en": "American music award for excellent songwriting",
+        "es": "premio Grammy general",
+        "de": "Auszeichnung für den Song des Jahres",
+        "fr": "récompense musicale américaine"
+      }
+    },
+    "Q107343683": {
+      "id": "Q107343683",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "de": "Munzinger Personen",
+        "fr": "Munzinger Personen",
+        "en": "Munzinger Personen",
+        "es": "Munzinger Personen",
+        "ko": "먼징거 페르소나",
+        "ja": "ムンツィンガー・パーゾーネン"
+      },
+      "descriptions": {
+        "de": "biographische Online-Datenbank",
+        "en": "biographical database"
+      }
+    },
+    "Q10800557": {
+      "id": "Q10800557",
+      "fetchedAt": "2026-11-13T11:00:07Z",
+      "labels": {
+        "de": "Filmschauspieler",
+        "es": "actor de cine",
+        "zh": "電影演員",
+        "fr": "acteur ou actrice de cinéma",
+        "ja": "映画俳優",
+        "ko": "영화 배우",
+        "ar": "ممثل أفلام",
+        "en": "film actor"
+      },
+      "descriptions": {
+        "es": "actor que se dedica principalmente al cine",
+        "de": "Schauspieler, der in Filmen auftritt",
+        "fr": "acteur ou actrice qui apparaît dans des films tournés pour le cinéma",
+        "ko": "영화에 출연하는 배우",
+        "en": "actor who appears in films",
+        "ar": "شخص يظهر في الأفلام",
+        "ja": "映画に出演する俳優",
+        "zh": "從事電影表演工作的人"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q1205214": {
+      "id": "Q1205214",
+      "fetchedAt": "2026-11-13T11:09:58Z",
+      "labels": {
+        "de": "Deutscher Radiopreis",
+        "en": "German Radio Award",
+        "fr": "Prix de la radio allemande"
+      },
+      "descriptions": {
+        "de": "Auszeichnung für deutsche Hörfunkprodukionen und -macher",
+        "en": "award in Germany",
+        "fr": "prix en Allemagne"
+      }
+    },
+    "Q12201477": {
+      "id": "Q12201477",
+      "fetchedAt": "2026-11-13T11:00:08Z",
+      "labels": {
+        "en": "Commander of the Order of the British Empire",
+        "de": "Commander of the Order of the British Empire",
+        "fr": "commandeur de l'ordre de l'Empire britannique",
+        "zh": "大英帝國司令勳章",
+        "es": "Comendador de la Orden del Imperio británico",
+        "ar": "نيشان الامبراطورية البريطانية من رتبة قائد",
+        "ja": "大英帝国勲章 (コマンダー)"
+      },
+      "descriptions": {
+        "en": "rank of the Order of the British Empire",
+        "de": "Rang des Order of the British Empire",
+        "fr": "grade de l'ordre de l'Empire britannique",
+        "es": "rango de la Orden del Imperio Británico",
+        "ar": "إحدى مراتب نيشان الإمبراطورية البريطانية"
+      }
+    },
+    "Q122603257": {
+      "id": "Q122603257",
+      "fetchedAt": "2026-11-13T11:09:58Z",
+      "labels": {
+        "en": "Every Breath You Take",
+        "fr": "Every Breath You Take"
+      },
+      "descriptions": {
+        "en": "vocal track by The Police, 1983 track",
+        "fr": "enregistrement de The Police"
+      }
+    },
+    "Q1248150": {
+      "id": "Q1248150",
+      "fetchedAt": "2026-11-13T11:09:58Z",
+      "labels": {
+        "de": "Wallsend",
+        "en": "Wallsend",
+        "fr": "Wallsend",
+        "ja": "ウォールセンド",
+        "zh": "沃爾森德",
+        "es": "Wallsend",
+        "ko": "월센드"
+      },
+      "descriptions": {
+        "de": "Stadt in England",
+        "fr": "localité britannique",
+        "en": "town in North Tyneside, England, United Kingdom",
+        "ar": "بلدة في المملكة المتحدة",
+        "es": "pueblo de Inglaterra, Reino Unido"
+      }
+    },
+    "Q13452528": {
+      "id": "Q13452528",
+      "fetchedAt": "2026-11-13T11:01:50Z",
+      "labels": {
+        "fr": "chevalier des Arts et des Lettres",
+        "en": "Chevalier des Arts et des Lettres",
+        "de": "Chevalier des Arts et des Lettres",
+        "es": "caballero de la Orden de las Artes y las Letras",
+        "ar": "نيشان الفنون والآداب من رتبة فارس",
+        "ja": "芸術文化勲章シュバリエ"
+      },
+      "descriptions": {
+        "fr": "premier des trois grades de l'ordre des Arts et des Lettres,‎ distinction du ministère de la Culture français",
+        "de": "Französischer Orden",
+        "ja": "フランスの勲章",
+        "en": "first (and lowest) rank of the French Ordre des Arts et des Lettres",
+        "ar": "نيشان فرنسي",
+        "es": "primer rango de la Orden de las Artes y las Letras francesas"
+      }
+    },
+    "Q13550863": {
+      "id": "Q13550863",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "Nationale Normdatei von Tschechien",
+        "fr": "catalogue de la Bibliothèque nationale de la République tchèque",
+        "en": "Czech National Authority Database",
+        "ko": "체코 국립 전거 데이터베이스",
+        "ar": "قاعدة بيانات الضبط الوطنية التشيكية",
+        "zh": "捷克国家规范数据库",
+        "es": "catálogo de la Biblioteca Nacional Checa",
+        "ja": "チェコ国立図書館典拠データベース"
+      },
+      "descriptions": {
+        "de": "verwaltet von der tschechischen Nationalbibliothek",
+        "en": "Authority Database of the National Library of the Czech Republic",
+        "es": "base de datos de autoridades de la Biblioteca Nacional de la República Checa",
+        "fr": "base de notices d'autorité tchèque"
+      }
+    },
+    "Q145": {
+      "id": "Q145",
+      "fetchedAt": "2026-11-13T10:59:41Z",
+      "labels": {
+        "es": "Reino Unido",
+        "ar": "المملكة المتحدة",
+        "de": "Vereinigtes Königreich",
+        "en": "United Kingdom",
+        "fr": "Royaume-Uni",
+        "zh": "英国",
+        "ja": "イギリス",
+        "ko": "영국"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe occidentale",
+        "zh": "歐洲西部的島國",
+        "es": "país insular de Europa del Norte con territorios de ultramar en Europa, América, África, Asia y Oceanía",
+        "de": "Inselstaat in Nordwesteuropa",
+        "ar": "دولة في شمال غرب أوروبا",
+        "en": "island country in north-west Europe",
+        "ja": "西ヨーロッパの王国",
+        "ko": "서유럽의 국가"
+      }
+    },
+    "Q1542205": {
+      "id": "Q1542205",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "en": "Grammy Award for Best Rock Performance by a Duo or Group with Vocal",
+        "de": "Grammy Award for Best Rock Performance by a Duo or Group with Vocal",
+        "es": "premio Grammy a la mejor interpretación roquera de un dúo o grupo con vocalista",
+        "fr": "Grammy Award de la meilleure prestation rock par un groupe ou un duo avec chant",
+        "zh": "最佳搖滾團體演奏獎"
+      },
+      "descriptions": {
+        "es": "premio Grammy",
+        "en": "award",
+        "de": "Auszeichnung für die beste Rock-Performance eines Duos oder einer Gruppe mit Gesang"
+      }
+    },
+    "Q15706812": {
+      "id": "Q15706812",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "en": "filmportal.de",
+        "de": "filmportal.de",
+        "fr": "filmportal.de",
+        "es": "base de datos filmportal",
+        "ja": "filmportal.de"
+      },
+      "descriptions": {
+        "en": "movie database for German movies",
+        "de": "Filmdatenbank zum deutschen Film",
+        "fr": "site web",
+        "es": "base de datos de películas alemanas de filmportal"
+      }
+    },
+    "Q1738793": {
+      "id": "Q1738793",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "en": "Kennedy Center Honors",
+        "zh": "肯尼迪中心荣誉奖",
+        "de": "Kennedy-Preis",
+        "es": "Premio Kennedy Center Honors",
+        "ar": "جائزة مركز كينيدي الثقافي",
+        "ja": "ケネディ・センター名誉賞",
+        "fr": "prix Kennedy"
+      },
+      "descriptions": {
+        "en": "annual American honor in the performing arts",
+        "de": "Auszeichnung für darstellende Künstler",
+        "es": "premio anual estadounidense en las artes escénicas",
+        "fr": "distinction annuelle américaine du domaine des arts du spectacle",
+        "ar": "جائزة تقديرية سنوية",
+        "zh": "年度奖项"
+      }
+    },
+    "Q177220": {
+      "id": "Q177220",
+      "fetchedAt": "2026-11-13T11:01:26Z",
+      "labels": {
+        "es": "cantante",
+        "ar": "مغنٍّ",
+        "ja": "歌手",
+        "ko": "가수",
+        "fr": "chanteur ou chanteuse",
+        "en": "singer",
+        "de": "Sänger",
+        "zh": "歌手"
+      },
+      "descriptions": {
+        "en": "person singing for a listening audience",
+        "fr": "personne utilisant sa voix pour interpréter une musique",
+        "de": "Person, die singt",
+        "es": "artista que produce con su voz sonidos melodiosos",
+        "ko": "노래를 부르는 사람",
+        "zh": "歌曲演唱者",
+        "ar": "شخص يغني للجمهور المستمع",
+        "ja": "歌を歌う職業"
+      }
+    },
+    "Q178095": {
+      "id": "Q178095",
+      "fetchedAt": "2026-11-13T11:09:59Z",
+      "labels": {
+        "ko": "더 폴리스",
+        "fr": "The Police",
+        "es": "The Police",
+        "de": "The Police",
+        "ja": "ザ・ポリス",
+        "en": "The Police",
+        "zh": "警察乐队",
+        "ar": "ذا بوليس"
+      },
+      "descriptions": {
+        "fr": "groupe de rock anglais",
+        "en": "English rock band",
+        "de": "britische Rockband",
+        "ja": "イングランドのロックバンド",
+        "es": "banda británica de rock",
+        "zh": "英國搖滾樂隊",
+        "ko": "영국의 록 밴드",
+        "ar": "فرقة روك إنجليزية"
+      }
+    },
+    "Q17985761": {
+      "id": "Q17985761",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "star on Hollywood Walk of Fame",
+        "ar": "نجمة على ممر الشهرة في هوليوود",
+        "fr": "étoile du Hollywood Walk of Fame",
+        "de": "Stern auf dem Hollywood Walk of Fame",
+        "es": "Estrella del Paseo de la Fama de Hollywood",
+        "ja": "ハリウッド・ウォーク・オブ・フェームの星",
+        "ko": "할리우드 명예의 거리 스타"
+      },
+      "descriptions": {
+        "en": "award in the Hollywood Walk of Fame, Hollywood, California, United States",
+        "es": "reconocimiento en el Paseo de la fama de Hollywood",
+        "ar": "جائزة تُمنح لمشاهير المُمثلين والإعلاميين الأمريكيين",
+        "ko": "미국 캘리포니아주 할리우드의 명예의 거리에 헌정된 인물"
+      }
+    },
+    "Q183945": {
+      "id": "Q183945",
+      "fetchedAt": "2026-11-13T11:02:57Z",
+      "labels": {
+        "fr": "producteur ou productrice de disques",
+        "ko": "음악 프로듀서",
+        "es": "productor discográfico",
+        "de": "Musikproduzent",
+        "ja": "音楽プロデューサー",
+        "en": "record producer",
+        "ar": "منتج أغاني",
+        "zh": "音樂製作人"
+      },
+      "descriptions": {
+        "en": "individual who oversees and manages the recording of an artist's music",
+        "es": "profesión en la industria musical",
+        "de": "Leiter der Musikaufnahme im Tonstudio",
+        "fr": "responsable des étapes d'enregistrement de la musique",
+        "ar": "الفرد الذي يشرف علي ويدير تسجيل موسيقى الفنان",
+        "ja": "アーティストの音楽の録音を監督・管理する人",
+        "zh": "音乐工业中的一部分",
+        "ko": "밴드 혹은 공연자의 음악 제작 과정을 감시하는 직업"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q21166956": {
+      "id": "Q21166956",
+      "fetchedAt": "2026-11-13T11:09:59Z",
+      "labels": {
+        "fr": "luthiste",
+        "en": "lutenist",
+        "de": "Lautenist",
+        "es": "laudista",
+        "ar": "عازف آلة وترية",
+        "ja": "リュート奏者",
+        "zh": "魯特琴家"
+      },
+      "descriptions": {
+        "fr": "personne qui joue du luth",
+        "en": "musician who plays the lute",
+        "de": "Musiker, der auf einer Laute spielt",
+        "ar": "الشخص الذي يعزف على الآلات الوترية الموسيقية",
+        "es": "música que toca el laúd"
+      }
+    },
+    "Q2251335": {
+      "id": "Q2251335",
+      "fetchedAt": "2026-11-13T11:02:17Z",
+      "labels": {
+        "de": "Schullehrer",
+        "en": "school teacher",
+        "fr": "instituteur",
+        "es": "maestro",
+        "ar": "معلم مدرسي",
+        "zh": "學校教師",
+        "ja": "学校の教員",
+        "ko": "학교 선생"
+      },
+      "descriptions": {
+        "de": "Personen, die berufsmäßig anderen Menschen im Schuldienst Unterricht erteilen",
+        "en": "teacher in primary and secondary education",
+        "fr": "personne chargée d'enseigner dans les écoles auprès des enfants",
+        "es": "persona que se encarga de la educación formal e institucionalizada de los niños",
+        "zh": "中小學的教員",
+        "ar": "معلم في التعليم الابتدائي أو الثانوي",
+        "ja": "初等中等教育の教師",
+        "ko": "학교에서 학생을 가르치는 사람"
+      }
+    },
+    "Q237227": {
+      "id": "Q237227",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Brockhaus Enzyklopädie",
+        "ko": "브로크하우스 백과사전",
+        "es": "Enciclopedia Brockhaus",
+        "de": "Brockhaus Enzyklopädie",
+        "en": "Brockhaus Enzyklopädie",
+        "zh": "布羅克豪斯百科全書",
+        "ja": "ブロックハウス百科事典",
+        "ar": "موسوعة بروكهوس"
+      },
+      "descriptions": {
+        "de": "mehrbändiges lexikalisches Nachschlagewerk in deutscher Sprache",
+        "en": "German-language encyclopedia",
+        "zh": "德語百科全書",
+        "ar": "موسوعة ألمانية",
+        "fr": "encyclopédie de langue allemande",
+        "es": "léxico de varios volúmenes en alemán",
+        "ja": "ドイツ語の百科事典"
+      }
+    },
+    "Q2477953": {
+      "id": "Q2477953",
+      "fetchedAt": "2026-11-13T11:09:59Z",
+      "labels": {
+        "es": "Fields of Gold",
+        "en": "Fields of Gold",
+        "fr": "Fields of Gold",
+        "de": "Fields of Gold",
+        "zh": "金色田野",
+        "ja": "フィールズ・オブ・ゴールド"
+      },
+      "descriptions": {
+        "en": "1993 song by Sting",
+        "de": "Lied von Sting",
+        "fr": "chanson de Sting sortie en 1993"
+      }
+    },
+    "Q2503794": {
+      "id": "Q2503794",
+      "fetchedAt": "2026-11-13T11:09:59Z",
+      "labels": {
+        "ja": "ノーザンブリア大学",
+        "en": "Northumbria University",
+        "de": "Northumbria University",
+        "zh": "诺森比亚大学",
+        "fr": "Université de Northumbria",
+        "ko": "노섬브리아 대학교",
+        "es": "Universidad de Northumbria",
+        "ar": "جامعة نورثمبريا نيوكاسل"
+      },
+      "descriptions": {
+        "de": "Universität in Newcastle upon Tyne",
+        "en": "university in Newcastle upon Tyne, England",
+        "es": "Universidad en Newcastle upon Tyne, Inglaterra",
+        "ar": "جامعة تقع في نيوكاسل أبون تاين بإنجلترا",
+        "fr": "université à Newcastle upon Tyne",
+        "zh": "英国的大学"
+      }
+    },
+    "Q2629164": {
+      "id": "Q2629164",
+      "fetchedAt": "2026-11-13T11:00:11Z",
+      "labels": {
+        "ja": "Internet Speculative Fiction Database",
+        "fr": "Internet Speculative Fiction Database",
+        "en": "Internet Speculative Fiction Database",
+        "es": "Internet Speculative Fiction Database",
+        "zh": "網路推理小說資料庫",
+        "ko": "인터넷 사변 소설 데이터베이스",
+        "de": "Internet Speculative Fiction Database",
+        "ar": "قاعدة بيانات الخيال التأملي على الإنترنت"
+      },
+      "descriptions": {
+        "es": "base de datos de información bibliográfica sobre ciencia ficción y géneros relacionados como fantasía y horror",
+        "fr": "site web",
+        "en": "online database of written speculative fiction and its creators",
+        "ko": "공상 과학 소설(SF)의 한 부분인 사변 소설(Speculative Fiction)과 그 창작자들에 대한 데이터베이스",
+        "de": "Literaturdatenbank",
+        "zh": "推想小說及其創作者的在線數據庫"
+      }
+    },
+    "Q2877812": {
+      "id": "Q2877812",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "fr": "Babelio",
+        "en": "Babelio",
+        "de": "Babelio",
+        "ar": "بابيليو",
+        "es": "Babelio",
+        "ja": "バベリオ"
+      },
+      "descriptions": {
+        "de": "französische Website",
+        "en": "French social cataloging and book website",
+        "es": "red social dedicada al libro y la lectura",
+        "fr": "site web communautaire français",
+        "zh": "法文網站",
+        "ja": "フランスのウェブサイト",
+        "ar": "منظمة فرنسية"
+      }
+    },
+    "Q29861311": {
+      "id": "Q29861311",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "en": "SNAC",
+        "es": "SNAC",
+        "fr": "SNAC",
+        "ar": "الشبكات الاجتماعية وسياق الأرشيف",
+        "de": "SNAC",
+        "ja": "SNAC",
+        "zh": "社交網絡及存檔內容",
+        "ko": "SNAC"
+      },
+      "descriptions": {
+        "de": "Online Datenbank für Archivgut zu Personen, Familien und Körperschaften",
+        "en": "online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",
+        "ja": "図書館などが所蔵する歴史的記録を発見、検索、使用し、人物のソーシャルネットワークを構築するするためのオンラインプロジェクト",
+        "es": "proyecto en línea para descubrir, localizar y utilizar registros históricos distribuidos en relación con personas, familias y organizaciones individuales",
+        "ko": "온라인 인명 데이터베이스"
+      }
+    },
+    "Q31964": {
+      "id": "Q31964",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "fr": "Internet Broadway Database",
+        "ko": "인터넷 브로드웨이 데이터베이스",
+        "es": "Internet Broadway Database",
+        "en": "Internet Broadway Database",
+        "de": "Internet Broadway Database",
+        "ja": "インターネット・ブロードウェイ・データベース",
+        "zh": "百老匯網路資料庫",
+        "ar": "قاعدة بيانات برودواي على الإنترنت"
+      },
+      "descriptions": {
+        "es": "base de datos en línea",
+        "de": "Datenbank über Broadway-Theater",
+        "en": "online database of Broadway theatre productions and their personnel",
+        "fr": "base de données en ligne sur le théâtre",
+        "ar": "قاعدة بيانات على الإنترنت لمسرحيات مسرح برودواي وموظفيها"
+      }
+    },
+    "Q326482": {
+      "id": "Q326482",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "en": "MusiCares Person of the Year",
+        "es": "persona del año MusiCares",
+        "ja": "ミュージケアーズ・パーソン・オブ・ザ・イヤー",
+        "fr": "personnalité de l'année MusiCares",
+        "zh": "MusiCares年度人物",
+        "ar": "شخصية ميوزيكارس للسنة",
+        "de": "MusiCares Person of the Year"
+      },
+      "descriptions": {
+        "en": "award presented annually by the Recording Academy",
+        "ar": "جائزة تقديرية تمنحها أكاديمية اللتسجيلات الموسيقية الأمريكية",
+        "es": "premio Grammy especial",
+        "de": "Auszeichnung für Musiker"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3319330": {
+      "id": "Q3319330",
+      "fetchedAt": "2026-11-13T11:09:59Z",
+      "labels": {
+        "fr": "Mojo Awards",
+        "en": "MOJO Awards",
+        "es": "MOJO Awards"
+      },
+      "descriptions": {
+        "en": "former music award ceremony"
+      }
+    },
+    "Q3334517": {
+      "id": "Q3334517",
+      "fetchedAt": "2026-11-13T11:09:09Z",
+      "labels": {
+        "fr": "NRJ Music Award d'honneur"
+      },
+      "descriptions": {
+        "en": "French music award",
+        "fr": "récompense musicale française"
+      }
+    },
+    "Q33999": {
+      "id": "Q33999",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "zh": "演員",
+        "es": "actor",
+        "ar": "ممثل",
+        "fr": "acteur ou actrice",
+        "ko": "배우",
+        "de": "Schauspieler",
+        "ja": "俳優",
+        "en": "actor"
+      },
+      "descriptions": {
+        "de": "darstellender Künstler, der mit Sprache, Mimik oder Gestik eine Rolle verkörpert",
+        "es": "persona que actúa en una producción fílmica, televisiva, teatral o radial",
+        "fr": "artiste qui prête son physique ou sa voix à un personnage dans une œuvre artistique animée",
+        "zh": "从事表演艺术的人",
+        "ja": "ある人物に扮して台詞・身振り・表情などで演じる人",
+        "ko": "영화, 텔레비전, 연극, 뮤지컬 등 극적인 공연에서 연기하는 직업",
+        "ar": "شخص يمثل في الإنتاج الدرامي أو الكوميدي ويعمل في الأفلام، والتلفزيون، والمسرح، أو الراديو",
+        "en": "person who acts in a dramatic or comic production and works in film, television, theatre, or radio"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q36834": {
+      "id": "Q36834",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "zh": "作曲家",
+        "es": "compositor",
+        "ar": "ملحن",
+        "fr": "compositeur ou compositrice",
+        "ko": "작곡가",
+        "de": "Komponist",
+        "ja": "作曲家",
+        "en": "composer"
+      },
+      "descriptions": {
+        "en": "person who is an author of music in any form",
+        "fr": "personne qui compose de la musique",
+        "es": "persona que compone música",
+        "de": "Person, die Musikstücke komponiert",
+        "ar": "شخص يؤلف موسيقى، إما عن طريق التدوين الموسيقي أو التقاليد الشفوية",
+        "zh": "音樂創作者",
+        "ja": "楽曲のメロディを書く人",
+        "ko": "노래를 만드는 사람"
+      }
+    },
+    "Q37226": {
+      "id": "Q37226",
+      "fetchedAt": "2026-11-13T10:58:57Z",
+      "labels": {
+        "zh": "教师",
+        "es": "profesor",
+        "ar": "مدرس",
+        "fr": "enseignant ou enseignante",
+        "ko": "교사",
+        "de": "Lehrer",
+        "ja": "教員",
+        "en": "teacher"
+      },
+      "descriptions": {
+        "de": "Person, deren Aufgabe es ist, Menschen beim Erwerb von Wissen, Kompetenzen und Werten zu assistieren",
+        "fr": "personne chargée de donner un enseignement à des enfants (élèves) ou à des adultes",
+        "en": "person who helps others to acquire knowledge, competences or values",
+        "es": "persona que se encarga de la educación formal e institucionalizada",
+        "ja": "教育施設で在籍者に対して教育・保育を司る職にある者",
+        "zh": "教育學生、傳授知識與技藝的人",
+        "ko": "사람에게 지식이나 바람직한 가치, 태도를 가르치는 사람",
+        "ar": "الشخص الذي يُساعد الآخرين على اكتساب المعارف والقيم الحسنة والسليمة"
+      }
+    },
+    "Q4377021": {
+      "id": "Q4377021",
+      "fetchedAt": "2026-11-13T11:09:09Z",
+      "labels": {
+        "en": "Primetime Emmy Award for Individual Performance in a Variety or Music Program",
+        "es": "Primetime Emmy a la mejor performance individual en un programa musical o de variedades",
+        "fr": "Primetime Emmy Award pour la meilleure production individuelle en Variété ou en Musique",
+        "ja": "ヴァラエティ/音楽番組における個人パフォーマンス賞",
+        "zh": "黃金時段艾美獎最佳綜藝/音樂節目個人表現"
+      },
+      "descriptions": {
+        "en": "award for variety or musical performers"
+      }
+    },
+    "Q482980": {
+      "id": "Q482980",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "autor",
+        "ar": "مؤلف",
+        "de": "Autor",
+        "ja": "作家",
+        "en": "author",
+        "fr": "auteur ou autrice",
+        "zh": "作者",
+        "ko": "저자"
+      },
+      "descriptions": {
+        "de": "Verfasser oder geistiger Urheber eines sprachlichen Werkes",
+        "fr": "créateur d'une œuvre originale",
+        "en": "writer of an original work",
+        "es": "creador de una obra original",
+        "ko": "예술과 취미의 분야에서 작품을 창작하는 사람",
+        "ar": "منشئ عمل أصلي أو مؤلف فكري لعمل لغوي",
+        "ja": "職業のひとつ",
+        "zh": "創意作品的創作者"
+      }
+    },
+    "Q488205": {
+      "id": "Q488205",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "auteur-compositeur-interprète ou auteure-compositrice-interprète",
+        "ko": "싱어송라이터",
+        "es": "cantautor",
+        "de": "Singer-Songwriter",
+        "ja": "シンガーソングライター",
+        "ar": "مغن مؤلف",
+        "en": "singer-songwriter",
+        "zh": "創作歌手"
+      },
+      "descriptions": {
+        "en": "musician who writes, composes and sings own songs",
+        "es": "músico que escribe, compone y canta su propio material",
+        "fr": "musicien qui écrit, compose et chante ses propres créations",
+        "de": "Musiker, die ihre eigenen Texte schreiben, vertonen und singen",
+        "zh": "會作詞作曲的歌手",
+        "ko": "자신의 노래를 쓰고 작곡하고 부르는 음악가",
+        "ar": "موسيقي يكتب، ويلحن ويغني",
+        "ja": "作詞・作曲および歌唱の全てを行う人"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q50358336": {
+      "id": "Q50358336",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "datos.bne.es",
+        "de": "datos.bne.es",
+        "es": "datos.bne.es",
+        "fr": "datos.bne.es",
+        "zh": "datos.bne.es"
+      },
+      "descriptions": {
+        "en": "open data platform of the Biblioteca Nacional de España",
+        "es": "portal de datos bibliográficos de la Biblioteca Nacional de España"
+      }
+    },
+    "Q5230793": {
+      "id": "Q5230793",
+      "fetchedAt": "2026-11-13T11:10:00Z",
+      "labels": {
+        "en": "David Angell Humanitarian Award",
+        "fr": "prix humanitaire David-Angell",
+        "ar": "جائزة ديفيد أنغيل الإنسانية"
+      },
+      "descriptions": {
+        "fr": "distinction"
+      }
+    },
+    "Q5375741": {
+      "id": "Q5375741",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Encyclopædia Britannica Online",
+        "es": "Enciclopedia Británica en línea",
+        "de": "Encyclopædia Britannica Online",
+        "ja": "ブリタニカ百科事典オンライン",
+        "fr": "Encyclopædia Britannica online",
+        "ko": "브리태니커 백과사전 온라인",
+        "ar": "موسوعة بريتانيكا على الإنترنت",
+        "zh": "大英百科全书在线版"
+      },
+      "descriptions": {
+        "ko": "브리태니커 백과사전의 온라인 판",
+        "en": "online edition of the Encyclopædia Britannica",
+        "ja": "ブリタニカ百科事典のオンライン版",
+        "es": "edición en línea de la Enciclopedia Británica",
+        "de": "Online-Ausgabe der Encyclopædia Britannica"
+      }
+    },
+    "Q584301": {
+      "id": "Q584301",
+      "fetchedAt": "2026-11-13T11:10:00Z",
+      "labels": {
+        "en": "bassist",
+        "fr": "bassiste",
+        "ja": "ベーシスト",
+        "ko": "베이시스트",
+        "zh": "贝斯手",
+        "es": "bajista",
+        "de": "Bassist",
+        "ar": "عازف بيس"
+      },
+      "descriptions": {
+        "en": "musician who plays a bass instrument",
+        "es": "músico que toca el bajo",
+        "fr": "personne qui joue de la basse",
+        "de": "Musiker, der ein Bassinstrument spielt",
+        "ar": "الموسيقي العازف على قيثارة البيس",
+        "ja": "ベース楽器を演奏する音楽家"
+      }
+    },
+    "Q639669": {
+      "id": "Q639669",
+      "fetchedAt": "2026-11-13T11:02:59Z",
+      "labels": {
+        "de": "Musiker",
+        "ar": "موسيقي",
+        "en": "musician",
+        "es": "músico",
+        "fr": "musicien ou musicienne",
+        "ja": "音楽家",
+        "ko": "음악가",
+        "zh": "音樂家"
+      },
+      "descriptions": {
+        "de": "Person, die Musik komponiert oder interpretiert",
+        "en": "person who composes, conducts or performs music",
+        "es": "persona que compone o ejecuta piezas musicales",
+        "fr": "personne qui joue ou compose de la musique",
+        "zh": "作曲或演奏音樂的人",
+        "ja": "音楽の作曲や演奏を行う人",
+        "ko": "음악을 작곡, 지휘 또는 연주하는 사람",
+        "ar": "شخص يؤدي أو يلحن الموسيقى"
+      }
+    },
+    "Q746368": {
+      "id": "Q746368",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "de": "Store norske leksikon",
+        "en": "Great Norwegian Encyclopedia",
+        "es": "Store norske leksikon",
+        "fr": "Store norske leksikon",
+        "zh": "挪威大百科全书",
+        "ja": "ノルウェー百科事典",
+        "ar": "الموسوعة النرويجية العظمى"
+      },
+      "descriptions": {
+        "fr": "encyclopédie norvégienne",
+        "en": "Norwegian encyclopedia",
+        "de": "norwegische Enzyklopädie",
+        "es": "enciclopedia noruega"
+      }
+    },
+    "Q754841": {
+      "id": "Q754841",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "fr": "prix Polar Music",
+        "ko": "폴라음악상",
+        "es": "Premio de Música Polar",
+        "en": "Polar Music Prize",
+        "de": "Polar Music Prize",
+        "zh": "保拉音乐奖",
+        "ja": "ポーラー音楽賞",
+        "ar": "جائزة موسيقى بولار"
+      },
+      "descriptions": {
+        "en": "award",
+        "de": "schwedischer Musikpreis",
+        "ar": "جائزة تقديرية",
+        "es": "Premio",
+        "zh": "国际音乐奖项"
+      }
+    },
+    "Q7587691": {
+      "id": "Q7587691",
+      "fetchedAt": "2026-11-13T11:10:00Z",
+      "labels": {
+        "en": "St. Cuthbert's High School"
+      },
+      "descriptions": {
+        "en": "school in Newcastle upon Tyne, UK",
+        "de": "weiterführende Schule im Vereinigten Königreich",
+        "ar": "مدرسة ثانوية في نيوكاسل أبون تاين، المملكة المتحدة"
+      }
+    },
+    "Q8178443": {
+      "id": "Q8178443",
+      "fetchedAt": "2026-11-13T11:09:43Z",
+      "labels": {
+        "en": "librettist",
+        "fr": "librettiste",
+        "de": "Librettist",
+        "es": "libretista",
+        "ar": "واضع كلمات الأوبرا",
+        "ja": "リブレット作家",
+        "ko": "리브레토 작가",
+        "zh": "劇本作者"
+      },
+      "descriptions": {
+        "fr": "auteur du livret dans un opéra",
+        "es": "autor de un texto para ser interpretado en una obra musical como una ópera",
+        "en": "author of the libretto (words) of an opera or a similar extended musical composition",
+        "de": "Autor des Librettos einer Oper",
+        "ja": "リブレットを執筆する人",
+        "ar": "كاتب كلمات الأوبرا أو ما يُشبهها من العروض الموسيقية"
+      }
+    },
+    "Q8447": {
+      "id": "Q8447",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Wikipédia en français",
+        "en": "French Wikipedia",
+        "ar": "ويكيبيديا الفرنسية",
+        "de": "französischsprachige Wikipedia",
+        "es": "Wikipedia en francés",
+        "ja": "フランス語版ウィキペディア",
+        "ko": "프랑스어 위키백과",
+        "zh": "法語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "[fr] French-language edition of Wikipedia",
+        "es": "edición en francés de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in französischer Sprache",
+        "ko": "위키백과의 프랑스어판",
+        "zh": "维基百科法语版",
+        "ar": "النسخة الفرنسية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアのフランス語版"
+      }
+    },
+    "Q855091": {
+      "id": "Q855091",
+      "fetchedAt": "2026-11-13T11:05:35Z",
+      "labels": {
+        "ja": "ギタリスト",
+        "fr": "guitariste",
+        "ko": "기타 연주자",
+        "en": "guitarist",
+        "de": "Gitarrist",
+        "zh": "吉他手",
+        "es": "guitarrista",
+        "ar": "عازف قيثارة"
+      },
+      "descriptions": {
+        "de": "Musiker, der/die Gitarre spielt",
+        "fr": "personne qui joue de la guitare",
+        "en": "musician who plays the guitar",
+        "es": "músico que toca la guitarra",
+        "ar": "شخص يعزف القيثارة",
+        "zh": "演奏吉他的音樂家",
+        "ja": "ギターを弾く音楽家",
+        "ko": "기타를 연주하는 사람"
+      }
+    },
+    "Q865528": {
+      "id": "Q865528",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "ko": "워릭 대학교",
+        "fr": "Université de Warwick",
+        "es": "Universidad de Warwick",
+        "en": "University of Warwick",
+        "de": "University of Warwick",
+        "ja": "ウォーリック大学",
+        "ar": "جامعة ووريك",
+        "zh": "华威大学"
+      },
+      "descriptions": {
+        "en": "university in Coventry, United Kingdom",
+        "de": "Universität im Vereinigten Königreich",
+        "fr": "université anglaise située à Coventry dans les Midlands de l'Ouest",
+        "ar": "جامعة في المملكة المتحدة",
+        "es": "universidad",
+        "ja": "イギリスの大学",
+        "zh": "英国公立大学"
+      }
+    },
+    "Q98769076": {
+      "id": "Q98769076",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "GeneaStar",
+        "en": "GeneaStar",
+        "de": "GeneaStar",
+        "es": "GeneaStar"
+      },
+      "descriptions": {
+        "fr": "site de généalogie des célébrités",
+        "de": "genealogische Datenbank bedeutender Personen",
+        "en": "famous people's genealogy website",
+        "es": "sitio web de genealogía de personas famosas"
+      }
+    },
+    "Q989745": {
+      "id": "Q989745",
+      "fetchedAt": "2026-11-13T11:10:01Z",
+      "labels": {
+        "en": "Englishman in New York",
+        "de": "Englishman in New York",
+        "fr": "Englishman in New York",
+        "es": "Englishman in New York",
+        "ko": "Englishman in New York",
+        "zh": "Englishman in New York",
+        "ja": "イングリッシュマン・イン・ニューヨーク"
+      },
+      "descriptions": {
+        "en": "1988 song by Sting",
+        "de": "Lied von Sting",
+        "fr": "chanson de Sting, sortie en 1988",
+        "es": "canción de Sting",
+        "ja": "スティングの楽曲",
+        "ko": "스팅의 노래"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Sting in April 2018.jpg",
+    "fetchedAt": "2026-11-13T11:10:04Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_in_April_2018.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sting_in_April_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sting_in_April_2018.jpg/960px-Sting_in_April_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1602,
+    "height": 2405,
+    "mediaTimestamp": "2019-02-24T06:32:23Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Raph_PH",
+    "credit": "QueenbdayRAH210418-34",
+    "description": "QueenbdayRAH210418-34",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/ad90f1f11c3239fa83411a82.jpg",
+    "cachedImageBytes": 301709,
+    "cachedImageSha256": "7ce34dcfa559dfe9e7e2d86fc59777605d239e3027e809e19598cd8a5d612d83"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 7,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

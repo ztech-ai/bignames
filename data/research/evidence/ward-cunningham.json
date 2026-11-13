@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ward-cunningham",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "沃德·坎宁安",
+    "enName": "Ward Cunningham",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "发明Wiki协作方式并参与软件设计方法发展，影响开放知识建设和软件工程社区。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "发明Wiki协作方式并参与软件设计方法发展，影响开放知识建设和软件工程社区。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ward Cunningham",
+    "requestedTitle": "Ward Cunningham",
+    "resolvedTitle": "Ward Cunningham",
+    "wikidataId": "Q7637",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ward_Cunningham",
+      "title": "Ward Cunningham",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:20Z",
+      "revisionId": 1384392310,
+      "revisionTimestamp": "2026-11-08T01:15:51Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384392310",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7637",
+      "title": "Q7637",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:51Z",
+      "revisionId": 2551114499,
+      "revisionTimestamp": "2026-09-30T02:11:08Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Howard G. Cunningham (born May 26, 1949) is an American computer programmer, who developed the first wiki and co-authored the Manifesto for Agile Software Development. Called a pioneer, and innovator, he also helped create both software design patterns and extreme programming. He began coding the WikiWikiWeb in 1994, and installed it on c2.com (the website of his software consulting firm) on March 25, 1995, as an add-on to the Portland Pattern Repository. He co-authored (with Bo Leuf) a book about wikis, entitled The Wiki Way, and invented the Framework for Integrated Test.\nCunningham was a keynote speaker at the first three instances of the WikiSym conference series on wiki research and practice, and also at the Wikimedia Developer Summit 2017. He was a keynote speaker at the MediaWiki Users and Developers Conference, Spring 2024.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "ar": "وورد كانينغهام",
+    "ja": "ウォード・カニンガム",
+    "ko": "워드 커닝엄",
+    "zh": "沃德·坎宁安"
+  },
+  "descriptions": {
+    "en": "American computer programmer",
+    "es": "programador estadounidense",
+    "de": "US-amerikanischer Programmierer",
+    "fr": "informaticien américain",
+    "zh": "開發了第一個維基的美國計算機程序員",
+    "ja": "アメリカのコンピューター・プログラマー (1949-)",
+    "ko": "위키의 개념을 만든 컴퓨터 프로그래머",
+    "ar": "مبرمج حاسوب أمريكي"
+  },
+  "languageArticles": {
+    "ar": "وارد كننغهام",
+    "de": "Ward Cunningham",
+    "en": "Ward Cunningham",
+    "es": "Ward Cunningham",
+    "fr": "Ward Cunningham",
+    "ja": "ウォード・カニンガム",
+    "ko": "워드 커닝햄",
+    "zh": "沃德·坎宁安"
+  },
+  "claims": {
+    "P18": [
+      {
+        "id": "q7637$1321EF2A-5CA7-4605-8095-09A6055D184B",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Wikimedia Developer Summit 2017 - Ward Cunningham-8602.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "q7637$053B254B-BA1E-4D4A-B580-D83C7E4A1504",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1949-05-26T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1949-05-26"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "q7637$10A7B883-CF10-45C9-A3AC-D1EF0B10EDF5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "q7637$44C63B07-3F9D-413D-B3C9-468ED7141FFB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "q7637$000E0191-286F-431A-8178-27C47C7A0F79",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 989282,
+            "id": "Q989282"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q7637$731ee961-45bd-5277-7229-eccb57965efa",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q7637$0D7F89D4-AB52-4571-AA20-92F92A7F3F9A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q7637$e73e1d22-eaf2-4a5a-8dba-301ae779a185",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 139648,
+            "id": "Q139648"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q7637$4B62C620-8EC9-4B89-BC52-1275BF344012",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2283,
+            "id": "Q2283"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2003-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2003"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2005-10-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2005-10"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q7637$3F7EB832-BEAF-4FE6-94CB-1FD3D6EF77D8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 217741,
+            "id": "Q217741"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q7637$5040B61B-C840-4A6F-A1CA-A0B23B5965BB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 14688421,
+            "id": "Q14688421"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-03-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-03-04"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q7637$34a869b2-4cc3-c739-43ee-8e29085098de",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 80993,
+            "id": "Q80993"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q7637$F12503AE-199A-4643-865D-DFC84011295B",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1984-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1984"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q7637$99AE3BE9-2250-4B17-BB60-85BE0C1ABEE6",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://c2.com"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199864,
+                  "id": "Q199864"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P18": "image",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P31": "instanceOf",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P108": "employer",
+    "P69": "education",
+    "P101": "fieldOfWork",
+    "P2031": "careerStart",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q139648": {
+      "id": "Q139648",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "de": "Technology Evangelist",
+        "en": "technology evangelist",
+        "fr": "évangéliste technologique",
+        "ja": "テクノロジー・エバンゲリスト",
+        "zh": "技术传播者",
+        "es": "evangelista tecnológico",
+        "ko": "테크 에반젤리스트"
+      },
+      "descriptions": {
+        "en": "person who builds a critical mass of support for a given technology",
+        "de": "Jemand, der versucht, andere für eine Technologie zu begeistern",
+        "es": "persona que construye una masa crítica de apoyo para una tecnología dada"
+      }
+    },
+    "Q14688421": {
+      "id": "Q14688421",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "en": "Highland High School",
+        "fr": "Highland High School",
+        "es": "Highland High School"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في إنديانا، الولايات المتحدة",
+        "en": "high school in Indiana, United States"
+      }
+    },
+    "Q199864": {
+      "id": "Q199864",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "ko": "루마니아어 위키백과",
+        "fr": "Wikipédia en roumain",
+        "es": "Wikipedia en rumano",
+        "ja": "ルーマニア語版ウィキペディア",
+        "en": "Romanian Wikipedia",
+        "ar": "ويكيبيديا الرومانية",
+        "zh": "羅馬尼亞語維基百科",
+        "de": "rumänische Wikipedia"
+      },
+      "descriptions": {
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in rumänischer Sprache",
+        "en": "Romanian-language edition of Wikipedia, the free-content encyclopedia",
+        "ar": "النسخة الرومانية من ويكيبيديا، الموسوعة الحرة",
+        "fr": "édition de Wikipédia",
+        "ja": "ウィキペディアのルーマニア語版",
+        "zh": "维基百科罗马尼亚语版"
+      }
+    },
+    "Q217741": {
+      "id": "Q217741",
+      "fetchedAt": "2026-11-13T11:11:10Z",
+      "labels": {
+        "ko": "퍼듀 대학교",
+        "fr": "Université Purdue",
+        "es": "Universidad Purdue",
+        "de": "Purdue University",
+        "ja": "パデュー大学",
+        "en": "Purdue University",
+        "ar": "جامعة بيردو",
+        "zh": "普渡大學"
+      },
+      "descriptions": {
+        "de": "Universität in den Lafayette, Indiana, Vereinigten Staaten",
+        "fr": "université américaine basée à West Lafayette, dans le comté de Tippecanoe (Indiana), aux États-Unis",
+        "en": "public research university in West Lafayette, Indiana, United States",
+        "es": "universidad estadounidense en West Lafayette (Indiana)",
+        "ar": "جامعة تقع في مدينة لافاييت الغربية، في ولاية إنديانا في الولايات المتحدة",
+        "zh": "美國的一所公立研究型大學，主校區位於印第安納州西拉法葉",
+        "ja": "アメリカの州立大学",
+        "ko": "미국 인디애나주 웨스트라피앳 소재 공립 대학"
+      }
+    },
+    "Q2283": {
+      "id": "Q2283",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ar": "مايكروسوفت",
+        "ja": "マイクロソフト",
+        "ko": "마이크로소프트",
+        "zh": "微軟",
+        "en": "Microsoft",
+        "fr": "Microsoft"
+      },
+      "descriptions": {
+        "de": "US-amerikanisches Technologieunternehmen mit Hauptsitz in Redmond, Washington",
+        "fr": "multinationale informatique américaine",
+        "zh": "美國的跨國電腦科技公司",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "ko": "미국의 다국적 소프트웨어 및 하드웨어 기업",
+        "ar": "شركة أمريكية متعددة الجنسيات تعمل في مجال التقنية",
+        "es": "corporación tecnológica multinacional estadounidense",
+        "en": "American multinational technology corporation"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q80993": {
+      "id": "Q80993",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "ko": "소프트웨어 공학",
+        "es": "ingeniería de software",
+        "ar": "هندسة البرمجيات",
+        "fr": "génie logiciel",
+        "de": "Softwaretechnik",
+        "ja": "ソフトウェア工学",
+        "en": "software engineering",
+        "zh": "软件工程"
+      },
+      "descriptions": {
+        "en": "academic discipline that studies systematic approaches to developing software",
+        "de": "Art und Weise, wie Software entwickelt wird",
+        "fr": "science de génie industriel qui étudie les méthodes de travail et les bonnes pratiques des ingénieurs qui développent des logiciels",
+        "es": "enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software",
+        "zh": "應用系統方法開發軟件",
+        "ko": "소프트웨어의 생명 주기 전반을 다루는 학문",
+        "ar": "المجال الذي يهتم بتطوير وتصميم البرمجيات",
+        "ja": "ソフトウェア開発への体系的な応用"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q989282": {
+      "id": "Q989282",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "fr": "Michigan City",
+        "es": "Michigan City",
+        "en": "Michigan City",
+        "de": "Michigan City",
+        "ja": "ミシガンシティ",
+        "ar": "ميشيغان سيتي",
+        "zh": "密西根市 (印地安納州)",
+        "ko": "미시간시티"
+      },
+      "descriptions": {
+        "de": "Stadt im US-Bundesstaat Indiana",
+        "fr": "ville américaine de l'État de l'Indiana",
+        "en": "city in LaPorte County, Indiana, United States",
+        "ar": "مدينة في مقاطعة لابورت، الولايات المتحدة",
+        "es": "ciudad del condado de LaPorte, estado de Indiana, Estados Unidos",
+        "ja": "アメリカ合衆国インディアナ州の都市",
+        "zh": "位于美国印地安纳州拉波特县的城市",
+        "ko": "미국 인디애나주의 도시"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Wikimedia Developer Summit 2017 - Ward Cunningham-8602.jpg",
+    "fetchedAt": "2026-11-13T11:14:53Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikimedia_Developer_Summit_2017_-_Ward_Cunningham-8602.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wikimedia_Developer_Summit_2017_-_Ward_Cunningham-8602.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wikimedia_Developer_Summit_2017_-_Ward_Cunningham-8602.jpg/960px-Wikimedia_Developer_Summit_2017_-_Ward_Cunningham-8602.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 3737,
+    "height": 2803,
+    "mediaTimestamp": "2017-01-19T18:12:48Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Raimond Spekking",
+    "credit": "Own work",
+    "description": "Wikimedia Developer Summit 2017 - Keynote speech by Ward Cunningham: \"Has our success made it hard to see your own contribution?\"",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/88ab9df6d9384430185e1174.jpg",
+    "cachedImageBytes": 89720,
+    "cachedImageSha256": "210f36b70da1aa7ffea98eb0fd07e11957c2175efe7e1e459d4f6a39aad96f07"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

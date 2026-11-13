@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "remo-ruffini",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "雷莫·鲁菲尼",
+    "enName": "Remo Ruffini",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "零售与消费",
+    "inclusionReason": "收购并重塑Moncler，将羽绒服品牌发展为国际奢侈品企业。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "收购并重塑Moncler，将羽绒服品牌发展为国际奢侈品企业。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:28Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Remo Ruffini",
+    "requestedTitle": "Remo Ruffini (businessman)",
+    "resolvedTitle": "Remo Ruffini (businessman)",
+    "wikidataId": "Q39071812",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+      "title": "Remo Ruffini (businessman)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:28Z",
+      "revisionId": 1355123347,
+      "revisionTimestamp": "2026-05-20T01:52:29Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q39071812",
+      "title": "Q39071812",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:26:28Z",
+      "revisionId": 2525016503,
+      "revisionTimestamp": "2026-07-31T01:57:09Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Remo Ruffini (born 27 August 1961) is an Italian billionaire businessman, the chairman and CEO of the fashion company Moncler, and controls Double R Srl.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Remo Ruffini",
+    "es": "Remo Ruffini",
+    "fr": "Remo Ruffini"
+  },
+  "descriptions": {
+    "en": "Italian businessman",
+    "fr": "entrepreneur italien"
+  },
+  "languageArticles": {
+    "en": "Remo Ruffini (businessman)",
+    "fr": "Remo Ruffini (entrepreneur)"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q39071812$83D87CE9-0E46-4280-A11D-28FE2ACED99B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q39071812$CF88B76D-CA43-4F16-A5A8-639C48031679",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1961-08-27T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1961-08-27"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q39071812$4CD23A50-E164-406C-90A2-79BE1130EA65",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Remo Ruffini.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q39071812$c65e3b40-e947-47d4-a0b1-8a02018ff161",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1308,
+            "id": "Q1308"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q39071812$A352BBBE-3E6D-4978-AEF1-C6105E3FA64D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 38,
+            "id": "Q38"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q39071812$a9cc2a96-40f3-044e-d72f-522338ee471a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1548951,
+            "id": "Q1548951"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q39071812$e32ebcbb-410e-512b-ac66-656646336ac9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 134580223,
+            "id": "Q134580223"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q39071812$d4e8ba3f-4ea8-4e6a-43b7-83ffbcdfbc4f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 629291,
+            "id": "Q629291"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q39071812$ce6583f5-4b0d-98ea-2acf-d9288cee4018",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q39071812$dffc3673-47b6-2903-b3e1-b47dfc1ca7a8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-03-31T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-03-31"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q39071812$fdf1cc17-4c0b-2461-7a9c-3b363c5249bc",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 62063127,
+            "id": "Q62063127"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-01"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P27": "citizenship",
+    "P108": "employer",
+    "P800": "notableWork",
+    "P166": "award",
+    "P106": "occupation"
+  },
+  "relatedEntities": {
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q1308": {
+      "id": "Q1308",
+      "fetchedAt": "2026-11-13T11:26:29Z",
+      "labels": {
+        "es": "Como",
+        "en": "Como",
+        "fr": "Côme",
+        "ar": "كومو",
+        "de": "Como",
+        "ja": "コモ",
+        "ko": "코모",
+        "zh": "科莫"
+      },
+      "descriptions": {
+        "es": "ciudad italiana",
+        "fr": "ville d'Italie",
+        "en": "Italian city",
+        "ar": "كومونا",
+        "de": "italienische Gemeinde",
+        "ja": "イタリアの都市",
+        "zh": "意大利的市镇（Como）",
+        "ko": "이탈리아 롬바르디아주 코모도의 코무네"
+      }
+    },
+    "Q134580223": {
+      "id": "Q134580223",
+      "fetchedAt": "2026-11-13T11:26:29Z",
+      "labels": {
+        "en": "Palazzo Moncler",
+        "fr": "Casa Moncler"
+      },
+      "descriptions": {
+        "en": "headquarter palace of Mocler"
+      }
+    },
+    "Q1548951": {
+      "id": "Q1548951",
+      "fetchedAt": "2026-11-13T11:26:29Z",
+      "labels": {
+        "de": "Moncler",
+        "ja": "モンクレール",
+        "fr": "Moncler",
+        "en": "Moncler",
+        "ko": "몽클레르",
+        "zh": "盟可睞",
+        "ar": "مونكلير",
+        "es": "Moncler"
+      },
+      "descriptions": {
+        "en": "Italian luxury fashion company",
+        "de": "italienisches Bekleidungsunternehmen",
+        "ko": "기업",
+        "ar": "شركة إيطالية",
+        "ja": "衣料品メーカーおよびブランド名",
+        "fr": "entreprise italienne du prêt-à-porter",
+        "es": "empresa italiana de moda de lujo"
+      }
+    },
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q38": {
+      "id": "Q38",
+      "fetchedAt": "2026-11-13T10:59:45Z",
+      "labels": {
+        "zh": "意大利",
+        "ar": "إيطاليا",
+        "de": "Italien",
+        "en": "Italy",
+        "fr": "Italie",
+        "ja": "イタリア",
+        "ko": "이탈리아",
+        "es": "Italia"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe du Sud",
+        "zh": "南歐國家",
+        "es": "país de Europa del Sur",
+        "de": "Staat in Südeuropa",
+        "ar": "دولة في جنوب غرب أوروبا",
+        "en": "country in southern Europe",
+        "ja": "南ヨーロッパの国",
+        "ko": "남유럽의 국가"
+      }
+    },
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q62063127": {
+      "id": "Q62063127",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "en": "executive chairperson",
+        "fr": "président exécutif",
+        "es": "presidente ejecutivo"
+      },
+      "descriptions": {
+        "en": "position",
+        "fr": "fonction"
+      }
+    },
+    "Q629291": {
+      "id": "Q629291",
+      "fetchedAt": "2026-11-13T11:11:11Z",
+      "labels": {
+        "fr": "ordre du Mérite du travail",
+        "en": "Order of Merit for Labour",
+        "de": "Arbeitsverdienstorden (Italien)",
+        "ja": "労働功績騎士団",
+        "es": "Orden del Mérito en el Trabajo",
+        "zh": "劳动功绩勋章",
+        "ar": "نيشان الاستحقاق للعمل"
+      },
+      "descriptions": {
+        "fr": "distinction italienne",
+        "es": "distinción italiana",
+        "en": "single grade order of Italy, established in 1901",
+        "ar": "نيشان إيطالي",
+        "de": "italienischer Orden in einer Klasse, gestiftet 1901"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Remo Ruffini.jpg",
+    "fetchedAt": "2026-11-13T11:26:30Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remo_Ruffini.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Remo_Ruffini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Remo_Ruffini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 931,
+    "height": 1280,
+    "thumbnailWidth": 582,
+    "thumbnailHeight": 800,
+    "mediaTimestamp": "2019-02-27T09:59:27Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Piotr Krzysztof Niepsuj",
+    "credit": "https://www.monclergroup.com/it/",
+    "description": "Chairman and CEO of Moncler",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/af6da7998acf30b78a3796ec.jpg",
+    "cachedImageBytes": 161948,
+    "cachedImageSha256": "e74ac7c6b1f4e57f7e1b26a89a1ffe33fe38bb20c2141af5a723ff76ee371c16"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

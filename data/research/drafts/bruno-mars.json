@@ -1,0 +1,2401 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "bruno-mars",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/bruno-mars.json",
+    "sha256": "1cc118e8a7d6dcec796624f376e1f50a39eb5658d90206c7b851c49c9ba7a897",
+    "capturedAt": "2026-11-13T11:25:46Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+      "https://en.wikipedia.org/wiki/Bruno_Mars",
+      "https://www.wikidata.org/wiki/Q1450"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q1450",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Bruno Mars",
+    "sourceIdentity": {
+      "requestedName": "Bruno Mars",
+      "requestedTitle": "Bruno Mars",
+      "resolvedTitle": "Bruno Mars",
+      "wikidataId": "Q1450",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-258c2cff825557beae81",
+      "property": "P106",
+      "claimId": "Q1450$EBB11821-6816-460D-8613-6C5549C351A4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 753110,
+          "id": "Q753110"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-26d8e24fef7e6bd81c39",
+      "property": "P106",
+      "claimId": "q1450$333CCC9B-8E4C-4287-815C-7D2A1EF8AE9F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 177220,
+          "id": "Q177220"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2734e8dd84193cf2a2ba",
+      "property": "P106",
+      "claimId": "Q1450$eb755466-4689-6bd2-dd03-e6f3eb375b2b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1327329,
+          "id": "Q1327329"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-511cf3343694bd517bb2",
+      "property": "P106",
+      "claimId": "Q1450$514602D3-695D-421A-882B-CA4B8E76BF7B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 102277154,
+          "id": "Q102277154"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-526e9d03a2e8d48e1b9c",
+      "property": "P106",
+      "claimId": "Q1450$74B6E6DE-1FF5-447C-AB38-9CB800740918",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 639669,
+          "id": "Q639669"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-59e284fbef80484d4b84",
+      "property": "P106",
+      "claimId": "Q1450$b8faddca-400f-b535-810d-2b8dae009773",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5716684,
+          "id": "Q5716684"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-74b9e892fee8dd8d6e41",
+      "property": "P106",
+      "claimId": "Q1450$89A6C3A8-7B81-46A7-8A82-5206D0ADB659",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 183945,
+          "id": "Q183945"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8b41a224e77b8b718ea2",
+      "property": "P106",
+      "claimId": "Q1450$DD350153-3C0E-42A6-934E-AA7AFDD2380F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 36834,
+          "id": "Q36834"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8dfd53935d2255b7fa7d",
+      "property": "P27",
+      "claimId": "q1450$63918EC7-38F2-419F-8659-FF029BF8969A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8447,
+                "id": "Q8447"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8447"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6dc5e050000a5c2200dd",
+      "property": "P569",
+      "claimId": "Q1450$9B34C2A1-9511-4804-87B3-A654DB054DC0",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1985-10-08T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1985-10-08"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1366358,
+                "id": "Q1366358"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 193563,
+                "id": "Q193563"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-26T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-26"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1366358",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q193563",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q1366358",
+        "https://www.wikidata.org/wiki/Q193563",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1985-10-08T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1985-10-08",
+        "earliest": "1985-10-08",
+        "latest": "1985-10-08",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-bb8336a31dfecf4577f3",
+      "property": "P19",
+      "claimId": "Q1450$50696A71-2883-4DF3-A71D-E0101FA8EF74",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 18094,
+          "id": "Q18094"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-10-26T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-10-26"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-5cbcc40dcd36db2f5fae",
+      "property": "P69",
+      "claimId": "Q1450$E51AB253-9ED2-4926-9DD9-72B26184FA95",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7241246,
+          "id": "Q7241246"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-011c3246f584b0903d7f",
+      "property": "P166",
+      "claimId": "Q1450$676e0a6c-4742-ef6c-7109-ef75b5e77e68",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1027904,
+          "id": "Q1027904"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018",
+          "earliest": "2018-01-01",
+          "latest": "2018-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-94e48f55e80a5fe60cf2",
+      "property": "P166",
+      "claimId": "Q1450$2FE6FD73-BBB9-41C3-800A-D1530421D288",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 19858055,
+          "id": "Q19858055"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f202d06cabf47ab37387",
+      "property": "P166",
+      "claimId": "Q1450$67A60B2E-A530-4C37-A970-0030D7AD2DFE",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 26456321,
+          "id": "Q26456321"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-1938eea8e92897bf96b5",
+      "property": "P463",
+      "claimId": "Q1450$448444ad-4ef6-cadb-6eb8-f63e014dbc4c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2423216,
+          "id": "Q2423216"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-26d73995321a751b5497",
+      "property": "P463",
+      "claimId": "Q1450$7FBADC62-28F2-4A56-BE9F-635B9B9C8F23",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 105813956,
+          "id": "Q105813956"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2333f5924232c4d33309",
+      "property": "P856",
+      "claimId": "Q1450$879a246f-4bcd-2c46-652f-6c27e7fd3004",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://www.brunomars.com/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a976b99f918c5909f50d",
+      "property": "P2031",
+      "claimId": "Q1450$4931b099-4919-371c-27d6-340ba7f380be",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1990-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1990"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1990-00-00T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1990",
+        "earliest": "1990-01-01",
+        "latest": "1990-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-46c1720f2eee114fa9fc",
+      "factId": "fact-011c3246f584b0903d7f",
+      "claimId": "Q1450$676e0a6c-4742-ef6c-7109-ef75b5e77e68",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-0c89d0bd271bde5a1a64",
+      "factId": "fact-6dc5e050000a5c2200dd",
+      "claimId": "Q1450$9B34C2A1-9511-4804-87B3-A654DB054DC0",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1985-10-08",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382854796",
+        "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "https://www.wikidata.org/wiki/Q1366358",
+        "https://www.wikidata.org/wiki/Q1450",
+        "https://www.wikidata.org/wiki/Q193563",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "布鲁诺·马尔斯",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "职业",
+          "value": "詞曲作家",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "职业",
+          "value": "歌手",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "职业",
+          "value": "樂器演奏家",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "职业",
+          "value": "pop musician",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "职业",
+          "value": "音樂家",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "职业",
+          "value": "舞者",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "职业",
+          "value": "音樂製作人",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "职业",
+          "value": "作曲家",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "来源所记出生日期",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "出生地",
+          "value": "檀香山",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "就读机构",
+          "value": "西奧多·羅斯福總統高中",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "奖项",
+          "value": "格林美獎年度歌曲",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "奖项",
+          "value": "全美音樂獎年度藝人",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "奖项",
+          "value": "QQ音樂年度盛典",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "组织成员",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "组织成员",
+          "value": "丝绸之声",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "官方网站",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "活动开始日期",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 格林美獎年度歌曲",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1985-10-08",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Bruno Mars",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "Occupation",
+          "value": "songwriter",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "Occupation",
+          "value": "singer",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "Occupation",
+          "value": "multi-instrumentalist",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "Occupation",
+          "value": "pop musician",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "Occupation",
+          "value": "musician",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "Occupation",
+          "value": "dancer",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "Occupation",
+          "value": "record producer",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "Occupation",
+          "value": "composer",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "Source-reported birth date",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "Place of birth",
+          "value": "Honolulu",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "Educational institution",
+          "value": "President Theodore Roosevelt High School",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "Award",
+          "value": "Grammy Award for Song of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "Award",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "Award",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "Organization membership",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "Organization membership",
+          "value": "Silk Sonic",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "Official website",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "Activity start date",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Grammy Award for Song of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1985-10-08",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Bruno Mars",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "Profession",
+          "value": "auteur-compositeur ou autrice-compositrice",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "Profession",
+          "value": "chanteur ou chanteuse",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "Profession",
+          "value": "multi-instrumentiste",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "Profession",
+          "value": "musicien pop",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "Profession",
+          "value": "musicien ou musicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "Profession",
+          "value": "danseur ou danseuse",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "Profession",
+          "value": "producteur ou productrice de disques",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "Profession",
+          "value": "compositeur ou compositrice",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "Lieu de naissance",
+          "value": "Honolulu",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "Établissement fréquenté",
+          "value": "President Theodore Roosevelt High School",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "Distinction",
+          "value": "Grammy Award de la chanson de l'année",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "Distinction",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "Distinction",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "Organisation dont la personne est membre",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "Organisation dont la personne est membre",
+          "value": "Silk Sonic",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "Site officiel",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "Date de début d'activité",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Grammy Award de la chanson de l'année",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1985-10-08",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "برونو مارس",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "المهنة",
+          "value": "كاتب أغاني",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "المهنة",
+          "value": "مغنٍّ",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "المهنة",
+          "value": "عازف على عدة آلات",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "المهنة",
+          "value": "pop musician",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "المهنة",
+          "value": "موسيقي",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "المهنة",
+          "value": "راقص",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "المهنة",
+          "value": "منتج أغاني",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "المهنة",
+          "value": "ملحن",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "مكان الميلاد",
+          "value": "هونولولو",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "المؤسسة التعليمية",
+          "value": "President Theodore Roosevelt High School",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "الجائزة",
+          "value": "جائزة غرامي لأغنية العام",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "الجائزة",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "الجائزة",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "عضوية منظمة",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "عضوية منظمة",
+          "value": "Silk Sonic",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "الموقع الرسمي",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "تاريخ بدء النشاط",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة غرامي لأغنية العام",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1985-10-08",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Bruno Mars",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "Beruf",
+          "value": "Songschreiber",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "Beruf",
+          "value": "Sänger",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "Beruf",
+          "value": "Multiinstrumentalist",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "Beruf",
+          "value": "Popmusiker",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "Beruf",
+          "value": "Musiker",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "Beruf",
+          "value": "Tänzer",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "Beruf",
+          "value": "Musikproduzent",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "Beruf",
+          "value": "Komponist",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "Geburtsort",
+          "value": "Honolulu",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "Bildungseinrichtung",
+          "value": "President Theodore Roosevelt High School",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "Auszeichnung",
+          "value": "Grammy Award for Song of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "Auszeichnung",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "Auszeichnung",
+          "value": "QQ-Musikpreise",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "Mitgliedschaft",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "Mitgliedschaft",
+          "value": "Silk Sonic",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "Offizielle Website",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "Beginn der Tätigkeit",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Grammy Award for Song of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1985-10-08",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ブルーノ・マーズ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "職業",
+          "value": "ソングライター",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "職業",
+          "value": "歌手",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "職業",
+          "value": "マルチプレイヤー",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "職業",
+          "value": "ポップ・ミュージシャン",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "職業",
+          "value": "音楽家",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "職業",
+          "value": "ダンサー",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "職業",
+          "value": "音楽プロデューサー",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "職業",
+          "value": "作曲家",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "出典に記載された生年月日",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "出生地",
+          "value": "ホノルル",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "在籍した教育機関",
+          "value": "プレジデント・セオドア・ルーズベルト高等学校",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "受賞",
+          "value": "グラミー賞最優秀楽曲賞",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "受賞",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "受賞",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "団体への所属",
+          "value": "スミージントンズ",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "団体への所属",
+          "value": "シルク・ソニック",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "公式サイト",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "活動開始日",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: グラミー賞最優秀楽曲賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1985-10-08",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Bruno Mars",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "Ocupación",
+          "value": "compositor de canciones",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "Ocupación",
+          "value": "cantante",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "Ocupación",
+          "value": "multiinstrumentista",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "Ocupación",
+          "value": "músico pop",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "Ocupación",
+          "value": "músico",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "Ocupación",
+          "value": "bailarín",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "Ocupación",
+          "value": "productor discográfico",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "Ocupación",
+          "value": "compositor",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "Lugar de nacimiento",
+          "value": "Honolulu",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "Institución educativa",
+          "value": "Escuela Secundaria Presidente Theodore Roosevelt",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "Distinción",
+          "value": "Anexo:Premio Grammy a la canción del año",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "Distinción",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "Distinción",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "Pertenencia a una organización",
+          "value": "The Smeezingtons",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "Pertenencia a una organización",
+          "value": "Silk Sonic",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "Sitio web oficial",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "Inicio de actividad",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Anexo:Premio Grammy a la canción del año",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1985-10-08",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "브루노 마스",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-258c2cff825557beae81",
+          "label": "직업",
+          "value": "작곡가 겸 작사가",
+          "notes": []
+        },
+        {
+          "id": "fact-26d8e24fef7e6bd81c39",
+          "label": "직업",
+          "value": "가수",
+          "notes": []
+        },
+        {
+          "id": "fact-2734e8dd84193cf2a2ba",
+          "label": "직업",
+          "value": "멀티플레이어",
+          "notes": []
+        },
+        {
+          "id": "fact-511cf3343694bd517bb2",
+          "label": "직업",
+          "value": "pop musician",
+          "notes": []
+        },
+        {
+          "id": "fact-526e9d03a2e8d48e1b9c",
+          "label": "직업",
+          "value": "음악가",
+          "notes": []
+        },
+        {
+          "id": "fact-59e284fbef80484d4b84",
+          "label": "직업",
+          "value": "무용가",
+          "notes": []
+        },
+        {
+          "id": "fact-74b9e892fee8dd8d6e41",
+          "label": "직업",
+          "value": "음악 프로듀서",
+          "notes": []
+        },
+        {
+          "id": "fact-8b41a224e77b8b718ea2",
+          "label": "직업",
+          "value": "작곡가",
+          "notes": []
+        },
+        {
+          "id": "fact-8dfd53935d2255b7fa7d",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-6dc5e050000a5c2200dd",
+          "label": "출처에 기재된 출생일",
+          "value": "1985-10-08",
+          "notes": []
+        },
+        {
+          "id": "fact-bb8336a31dfecf4577f3",
+          "label": "출생지",
+          "value": "호놀룰루",
+          "notes": []
+        },
+        {
+          "id": "fact-5cbcc40dcd36db2f5fae",
+          "label": "교육 기관",
+          "value": "President Theodore Roosevelt High School",
+          "notes": []
+        },
+        {
+          "id": "fact-011c3246f584b0903d7f",
+          "label": "수상",
+          "value": "Grammy Award for Song of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-94e48f55e80a5fe60cf2",
+          "label": "수상",
+          "value": "American Music Award for Artist of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-f202d06cabf47ab37387",
+          "label": "수상",
+          "value": "QQ Music Awards",
+          "notes": []
+        },
+        {
+          "id": "fact-1938eea8e92897bf96b5",
+          "label": "단체 회원 자격",
+          "value": "스미징턴스",
+          "notes": []
+        },
+        {
+          "id": "fact-26d73995321a751b5497",
+          "label": "단체 회원 자격",
+          "value": "실크 소닉",
+          "notes": []
+        },
+        {
+          "id": "fact-2333f5924232c4d33309",
+          "label": "공식 웹사이트",
+          "value": "https://www.brunomars.com/",
+          "notes": []
+        },
+        {
+          "id": "fact-a976b99f918c5909f50d",
+          "label": "활동 시작일",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-46c1720f2eee114fa9fc",
+          "factId": "fact-011c3246f584b0903d7f",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Grammy Award for Song of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-0c89d0bd271bde5a1a64",
+          "factId": "fact-6dc5e050000a5c2200dd",
+          "date": "1985-10-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1985-10-08",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q102277154"
+      },
+      {
+        "locale": "ar",
+        "key": "Q105813956"
+      },
+      {
+        "locale": "ar",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "ar",
+        "key": "Q2423216"
+      },
+      {
+        "locale": "ar",
+        "key": "Q26456321"
+      },
+      {
+        "locale": "ar",
+        "key": "Q7241246"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "de",
+        "key": "Q7241246"
+      },
+      {
+        "locale": "es",
+        "key": "person-name"
+      },
+      {
+        "locale": "es",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "es",
+        "key": "Q26456321"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "fr",
+        "key": "Q26456321"
+      },
+      {
+        "locale": "ja",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "ja",
+        "key": "Q26456321"
+      },
+      {
+        "locale": "ko",
+        "key": "Q102277154"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1027904"
+      },
+      {
+        "locale": "ko",
+        "key": "Q19858055"
+      },
+      {
+        "locale": "ko",
+        "key": "Q26456321"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7241246"
+      },
+      {
+        "locale": "zh",
+        "key": "Q102277154"
+      },
+      {
+        "locale": "zh",
+        "key": "Q2423216"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q102277154",
+        "fallbackLocale": "en",
+        "value": "pop musician",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q105813956",
+        "fallbackLocale": "en",
+        "value": "Silk Sonic",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q2423216",
+        "fallbackLocale": "en",
+        "value": "The Smeezingtons",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q26456321",
+        "fallbackLocale": "en",
+        "value": "QQ Music Awards",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q7241246",
+        "fallbackLocale": "en",
+        "value": "President Theodore Roosevelt High School",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Bruno Mars",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q7241246",
+        "fallbackLocale": "en",
+        "value": "President Theodore Roosevelt High School",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Bruno Mars",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q26456321",
+        "fallbackLocale": "en",
+        "value": "QQ Music Awards",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Bruno Mars",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q26456321",
+        "fallbackLocale": "en",
+        "value": "QQ Music Awards",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q26456321",
+        "fallbackLocale": "en",
+        "value": "QQ Music Awards",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q102277154",
+        "fallbackLocale": "en",
+        "value": "pop musician",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1027904",
+        "fallbackLocale": "en",
+        "value": "Grammy Award for Song of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q19858055",
+        "fallbackLocale": "en",
+        "value": "American Music Award for Artist of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q26456321",
+        "fallbackLocale": "en",
+        "value": "QQ Music Awards",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7241246",
+        "fallbackLocale": "en",
+        "value": "President Theodore Roosevelt High School",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q102277154",
+        "fallbackLocale": "en",
+        "value": "pop musician",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q2423216",
+        "fallbackLocale": "en",
+        "value": "The Smeezingtons",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 2,
+    "professionalEventCount": 1,
+    "factCount": 19,
+    "factsWithoutExternalReference": 19,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

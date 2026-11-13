@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "rose-marcario",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/rose-marcario.json",
+    "sha256": "100aa3ea6de67059bc3c3cd2ddf638fb437638841250bd7af8545fa6c9e87c30",
+    "capturedAt": "2026-11-13T11:26:28Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1370605584",
+      "https://en.wikipedia.org/wiki/Rose_Marcario",
+      "https://www.wikidata.org/wiki/Q30131856"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q30131856",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Rose Marcario",
+    "sourceIdentity": {
+      "requestedName": "Rose Marcario",
+      "requestedTitle": "Rose Marcario",
+      "resolvedTitle": "Rose Marcario",
+      "wikidataId": "Q30131856",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-2a761d96145a55d51aba",
+      "property": "P106",
+      "claimId": "Q30131856$0a16ff4e-bf83-4044-ba32-164273380747",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2961975,
+          "id": "Q2961975"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1370605584",
+        "https://en.wikipedia.org/wiki/Rose_Marcario",
+        "https://www.wikidata.org/wiki/Q30131856",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e602c74594b6d260c0b6",
+      "property": "P569",
+      "claimId": "Q30131856$EFAC577C-49CB-4E9A-83EC-88B51ABD1ECB",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1901-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 7,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": null,
+        "datePrecisionInsufficient": true
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1370605584",
+        "https://en.wikipedia.org/wiki/Rose_Marcario",
+        "https://www.wikidata.org/wiki/Q30131856",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1901-00-00T00:00:00Z",
+        "precision": 7,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": null,
+        "cutoffRelation": "unresolved"
+      }
+    },
+    {
+      "id": "fact-1c2a8a86b95ecfa60482",
+      "property": "P69",
+      "claimId": "Q30131856$3F66C314-713C-43B1-9A91-835F6C65BA44",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1026932,
+          "id": "Q1026932"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1370605584",
+        "https://en.wikipedia.org/wiki/Rose_Marcario",
+        "https://www.wikidata.org/wiki/Q30131856"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-936f1a49a97c597e8318",
+      "property": "P69",
+      "claimId": "Q30131856$B74B92B0-444A-497B-9930-F8310F833A45",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1780816,
+          "id": "Q1780816"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1370605584",
+        "https://en.wikipedia.org/wiki/Rose_Marcario",
+        "https://www.wikidata.org/wiki/Q30131856"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [],
+  "localized": {
+    "zh": {
+      "name": "罗斯·马卡里奥",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "职业",
+          "value": "企业主管",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "来源所记出生日期",
+          "value": "来源日期尚不能规范化: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "就读机构",
+          "value": "洛杉矶加利福尼亚州立大学",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "就读机构",
+          "value": "紐約州立大學奧本尼分校",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "en": {
+      "name": "Rose Marcario",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "Occupation",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "Source-reported birth date",
+          "value": "Source date cannot yet be normalized: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "Educational institution",
+          "value": "California State University, Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "Educational institution",
+          "value": "State University of New York at Albany",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "fr": {
+      "name": "Rose Marcario",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "Profession",
+          "value": "chef ou cheffe d'entreprise",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "Date de naissance indiquée par la source",
+          "value": "Date de source non normalisable à ce stade: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "Établissement fréquenté",
+          "value": "Université d'État de Californie à Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "Établissement fréquenté",
+          "value": "Université d'État de New York à Albany",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "ar": {
+      "name": "Rose Marcario",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "المهنة",
+          "value": "مسير أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "تعذر توحيد صيغة تاريخ المصدر حاليًا: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ولاية كاليفورنيا، لوس أنجلوس",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ألباني",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "de": {
+      "name": "Rose Marcario",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "Beruf",
+          "value": "Unternehmensleiter",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "Quelldatum kann noch nicht normalisiert werden: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "Bildungseinrichtung",
+          "value": "California State University, Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "Bildungseinrichtung",
+          "value": "University at Albany, SUNY",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "ja": {
+      "name": "ローズ・マーカリオ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "職業",
+          "value": "企業重役",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "出典に記載された生年月日",
+          "value": "出典の日付はまだ正規化できません: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "在籍した教育機関",
+          "value": "カリフォルニア州立大学ロサンゼルス校",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "在籍した教育機関",
+          "value": "ニューヨーク州立大学オールバニ校",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "es": {
+      "name": "Rose Marcario",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "Ocupación",
+          "value": "ejecutivo de empresa",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "La fecha de la fuente aún no puede normalizarse: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "Institución educativa",
+          "value": "Universidad Estatal de California, Los Ángeles",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "Institución educativa",
+          "value": "Universidad de Albany",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    },
+    "ko": {
+      "name": "Rose Marcario",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2a761d96145a55d51aba",
+          "label": "직업",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-e602c74594b6d260c0b6",
+          "label": "출처에 기재된 출생일",
+          "value": "출처 날짜를 아직 표준화할 수 없습니다: +1901-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-1c2a8a86b95ecfa60482",
+          "label": "교육 기관",
+          "value": "California State University, Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-936f1a49a97c597e8318",
+          "label": "교육 기관",
+          "value": "뉴욕 주립 대학교 올버니",
+          "notes": []
+        }
+      ],
+      "timeline": []
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1026932"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Rose Marcario",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Rose Marcario",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Rose Marcario",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Rose Marcario",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1026932",
+        "fallbackLocale": "en",
+        "value": "California State University, Los Angeles",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975",
+        "fallbackLocale": "en",
+        "value": "business executive",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [
+      {
+        "factId": "fact-e602c74594b6d260c0b6",
+        "dateProperty": "P569",
+        "date": null,
+        "raw": "+1901-00-00T00:00:00Z",
+        "reason": "unresolved"
+      }
+    ],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 0,
+    "professionalEventCount": 0,
+    "factCount": 4,
+    "factsWithoutExternalReference": 4,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

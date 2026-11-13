@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "evan-you",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/evan-you.json",
+    "sha256": "f2bbd12f93d7456c026007f41dfdfa9f9c864979f220c67d1d413b126df57d1f",
+    "capturedAt": "2026-11-13T11:26:13Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://www.wikidata.org/wiki/Q58482636"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q58482636",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Evan You",
+    "sourceIdentity": {
+      "requestedName": "Evan You",
+      "requestedTitle": "Evan You",
+      "resolvedTitle": "Evan You",
+      "wikidataId": "Q58482636",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id",
+      "excludedWikipediaRedirect": {
+        "resolvedTitle": "Vue.js",
+        "qid": "Q24589705",
+        "url": "https://en.wikipedia.org/wiki/Vue.js"
+      }
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-0cebb25f8370762fbef3",
+      "property": "P106",
+      "claimId": "Q58482636$54d848dc-4a42-5e5f-5334-5c032db98164",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 183888,
+          "id": "Q183888"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://evanyou.me/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://evanyou.me/",
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "referenceUrls": [
+        "https://evanyou.me/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-969738817a3a6fc6a8b0",
+      "property": "P166",
+      "claimId": "Q58482636$DFA81CE3-7153-4AF0-A321-3692E7284287",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 109640104,
+          "id": "Q109640104"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2017-05-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2017-05"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://shuttleworthfoundation.org/fellows/flash-grants/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-11-19T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://shuttleworthfoundation.org/fellows/flash-grants/",
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "referenceUrls": [
+        "https://shuttleworthfoundation.org/fellows/flash-grants/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2017-05-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2017-05",
+          "earliest": "2017-05-01",
+          "latest": "2017-05-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a79bd6f94d0a1d34f246",
+      "property": "P800",
+      "claimId": "Q58482636$f488398f-4cea-075d-6e91-340f93d96858",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 24589705,
+          "id": "Q24589705"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d5cecc9e861621dc6245",
+      "property": "P800",
+      "claimId": "Q58482636$9f5a4a0f-4866-3709-c438-d068c348378b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 111590996,
+          "id": "Q111590996"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1cb3847221b7e380cd50",
+      "property": "P856",
+      "claimId": "Q58482636$026f2dd6-4b7e-62e4-4544-e9448c20e6d3",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://evanyou.me/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-f92fd8afd4c7fdb57f91",
+      "factId": "fact-969738817a3a6fc6a8b0",
+      "claimId": "Q58482636$DFA81CE3-7153-4AF0-A321-3692E7284287",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2017-05",
+      "precision": 10,
+      "kind": "point",
+      "sourceUrls": [
+        "https://shuttleworthfoundation.org/fellows/flash-grants/",
+        "https://www.wikidata.org/wiki/Q58482636"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "尤雨溪",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "职业",
+          "value": "软件开发者",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "奖项",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "代表作品",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "代表作品",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "官方网站",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "奖项: Shuttleworth Foundation Flash Grant",
+          "text": "来源记载发生时间",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Evan You",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "Occupation",
+          "value": "software developer",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "Award",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "Notable work",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "Notable work",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "Official website",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "Award: Shuttleworth Foundation Flash Grant",
+          "text": "Event date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Evan You",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "Profession",
+          "value": "développeur ou développeuse informatique",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "Distinction",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "Œuvre notable",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "Œuvre notable",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "Site officiel",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "Distinction: Shuttleworth Foundation Flash Grant",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "إيفان يو",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "المهنة",
+          "value": "مطور برمجيات",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "الجائزة",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "عمل بارز",
+          "value": "فيو جي إس",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "عمل بارز",
+          "value": "فيت جي إس",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "الموقع الرسمي",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "الجائزة: Shuttleworth Foundation Flash Grant",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Evan You",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "Beruf",
+          "value": "Softwareentwickler",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "Auszeichnung",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "Bekanntes Werk",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "Bekanntes Werk",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "Offizielle Website",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "Auszeichnung: Shuttleworth Foundation Flash Grant",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "尤雨溪",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "職業",
+          "value": "ソフトウェア開発者",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "受賞",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "代表的な作品",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "代表的な作品",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "公式サイト",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "受賞: Shuttleworth Foundation Flash Grant",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Evan You",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "Ocupación",
+          "value": "desarrollador de software",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "Distinción",
+          "value": "Subvención relámpago de la Fundación Shuttleworth",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "Obra destacada",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "Obra destacada",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "Sitio web oficial",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "Distinción: Subvención relámpago de la Fundación Shuttleworth",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Evan You",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0cebb25f8370762fbef3",
+          "label": "직업",
+          "value": "소프트웨어 개발자",
+          "notes": []
+        },
+        {
+          "id": "fact-969738817a3a6fc6a8b0",
+          "label": "수상",
+          "value": "Shuttleworth Foundation Flash Grant",
+          "notes": []
+        },
+        {
+          "id": "fact-a79bd6f94d0a1d34f246",
+          "label": "주요 작품",
+          "value": "Vue.js",
+          "notes": []
+        },
+        {
+          "id": "fact-d5cecc9e861621dc6245",
+          "label": "주요 작품",
+          "value": "Vite",
+          "notes": []
+        },
+        {
+          "id": "fact-1cb3847221b7e380cd50",
+          "label": "공식 웹사이트",
+          "value": "https://evanyou.me/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-f92fd8afd4c7fdb57f91",
+          "factId": "fact-969738817a3a6fc6a8b0",
+          "date": "2017-05",
+          "precision": 10,
+          "kind": "point",
+          "title": "수상: Shuttleworth Foundation Flash Grant",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q109640104"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q109640104"
+      },
+      {
+        "locale": "es",
+        "key": "Q111590996"
+      },
+      {
+        "locale": "ja",
+        "key": "Q109640104"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q109640104"
+      },
+      {
+        "locale": "zh",
+        "key": "Q109640104"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q109640104",
+        "fallbackLocale": "en",
+        "value": "Shuttleworth Foundation Flash Grant",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Evan You",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q109640104",
+        "fallbackLocale": "en",
+        "value": "Shuttleworth Foundation Flash Grant",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q111590996",
+        "fallbackLocale": "en",
+        "value": "Vite",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q109640104",
+        "fallbackLocale": "en",
+        "value": "Shuttleworth Foundation Flash Grant",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Evan You",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q109640104",
+        "fallbackLocale": "en",
+        "value": "Shuttleworth Foundation Flash Grant",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q109640104",
+        "fallbackLocale": "en",
+        "value": "Shuttleworth Foundation Flash Grant",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 1,
+    "factCount": 5,
+    "factsWithoutExternalReference": 3,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

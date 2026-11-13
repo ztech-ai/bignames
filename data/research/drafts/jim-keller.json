@@ -1,0 +1,4397 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "jim-keller",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/jim-keller.json",
+    "sha256": "5a3d41861a37cca6e7a9504bbfe8a5ddcc758fd59e005465e2f056fe1ec9918d",
+    "capturedAt": "2026-11-13T11:26:13Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+      "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+      "https://www.wikidata.org/wiki/Q19958281"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q19958281",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Jim Keller",
+    "sourceIdentity": {
+      "requestedName": "Jim Keller",
+      "requestedTitle": "Jim Keller (engineer)",
+      "resolvedTitle": "Jim Keller (engineer)",
+      "wikidataId": "Q19958281",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "wikipedia-pageprops"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-2614d23e596bb0eebec2",
+      "property": "P106",
+      "claimId": "Q19958281$0B361A1C-A340-4420-9799-23474C78596F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 81096,
+          "id": "Q81096"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-03a71350e17cd2cfee5e",
+      "property": "P27",
+      "claimId": "Q19958281$3a414c06-4043-d783-ded3-9afb207a334f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-779aa5bdde1c5e297062",
+      "property": "P569",
+      "claimId": "Q19958281$6d5fa7f7-ee72-4561-8d90-efda1db8f364",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1955-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 8,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": null,
+        "datePrecisionInsufficient": true
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1955-00-00T00:00:00Z",
+        "precision": 8,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": null,
+        "cutoffRelation": "unresolved"
+      }
+    },
+    {
+      "id": "fact-47e1f408e81f583c29d1",
+      "property": "P69",
+      "claimId": "Q19958281$a919a340-45ea-3cd7-31b0-f289d117c7a0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 739627,
+          "id": "Q739627"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0b7f0b9185f5094773c0",
+      "property": "P108",
+      "claimId": "Q19958281$a5e0799e-4c99-d864-e8a0-4cc8832cf3aa",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 312,
+          "id": "Q312"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008-04"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-08-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012-08"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2008-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008-04",
+          "earliest": "2008-04-01",
+          "latest": "2008-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2012-08-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012-08",
+          "earliest": "2012-08-01",
+          "latest": "2012-08-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0baf50e016de9a8de73f",
+      "property": "P108",
+      "claimId": "Q19958281$0a89c3eb-435d-0884-e163-75dfb36966ec",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2355591,
+          "id": "Q2355591"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008-04"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2008-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008-04",
+          "earliest": "2008-04-01",
+          "latest": "2008-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0e87f3df6f93b37451e2",
+      "property": "P108",
+      "claimId": "Q19958281$8b8e4fcf-4f75-8d5b-3550-909a27e55eca",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 478214,
+          "id": "Q478214"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-01-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016-01"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018-04"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://electrek.co/2016/01/28/tesla-jim-keller-apple-processor-architect-2/"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://electrek.co/2018/04/25/tesla-autopilot-jim-keller-leaving-chip/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://electrek.co/2016/01/28/tesla-jim-keller-apple-processor-architect-2/",
+        "https://electrek.co/2018/04/25/tesla-autopilot-jim-keller-leaving-chip/",
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [
+        "http://electrek.co/2016/01/28/tesla-jim-keller-apple-processor-architect-2/",
+        "https://electrek.co/2018/04/25/tesla-autopilot-jim-keller-leaving-chip/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2016-01-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016-01",
+          "earliest": "2016-01-01",
+          "latest": "2016-01-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2018-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018-04",
+          "earliest": "2018-04-01",
+          "latest": "2018-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-472b5a7df8d780c2a032",
+      "property": "P108",
+      "claimId": "Q19958281$ff7c7869-4bf8-4667-4692-b62c32a36de1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 555925,
+          "id": "Q555925"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2000-11-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2000-11"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2000-11-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2000-11",
+          "earliest": "2000-11-01",
+          "latest": "2000-11-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6897eb9bc7bfd76f4123",
+      "property": "P108",
+      "claimId": "Q19958281$f5e460ba-4fb8-5f0c-a2a0-d6f2ca1f2287",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 690079,
+          "id": "Q690079"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ],
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1982-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1982"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1982-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1982",
+          "earliest": "1982-01-01",
+          "latest": "1982-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c07a2dd5da55a7a83e8f",
+      "property": "P108",
+      "claimId": "Q19958281$526f64bc-4ef4-7350-ca47-ddd7d0ff2f2b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 128896,
+          "id": "Q128896"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1998-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1998"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1999"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1998-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1998",
+          "earliest": "1998-01-01",
+          "latest": "1998-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1999-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1999",
+          "earliest": "1999-01-01",
+          "latest": "1999-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-cd4efad2677653c553e9",
+      "property": "P108",
+      "claimId": "Q19958281$2207a751-4b95-bfc5-be64-ac336ec12c21",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 22677884,
+          "id": "Q22677884"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1999"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2000-11-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2000-11"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1999-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1999",
+          "earliest": "1999-01-01",
+          "latest": "1999-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2000-11-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2000-11",
+          "earliest": "2000-11-01",
+          "latest": "2000-11-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d68974b40aed43d42a12",
+      "property": "P108",
+      "claimId": "Q19958281$8507afa4-479a-73ad-7877-02aba0c942b1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 126456640,
+          "id": "Q126456640"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-12-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-12-30"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-12-30T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-12-30",
+          "earliest": "2020-12-30",
+          "latest": "2020-12-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d6ea2e0c4fabf88dd285",
+      "property": "P108",
+      "claimId": "Q19958281$57ac3887-4332-6ce3-3753-b959fb708ff9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 128896,
+          "id": "Q128896"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-08-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012-08"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-09-18T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015-09-18"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2012-08-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012-08",
+          "earliest": "2012-08-01",
+          "latest": "2012-08-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2015-09-18T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015-09-18",
+          "earliest": "2015-09-18",
+          "latest": "2015-09-18",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fe7d5bfc02fa1e3224e1",
+      "property": "P108",
+      "claimId": "Q19958281$4f3194b3-463c-a7e9-e973-fae6d95433ad",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 248,
+          "id": "Q248"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018-04"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-06-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-06"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2018-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018-04",
+          "earliest": "2018-04-01",
+          "latest": "2018-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2020-06-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-06",
+          "earliest": "2020-06-01",
+          "latest": "2020-06-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-376d16d13dc407c9cc3c",
+      "property": "P39",
+      "claimId": "Q19958281$6b6d8ed4-4487-c9b1-b0a7-578c3152eeba",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5287861,
+          "id": "Q5287861"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-12-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-12-30"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2023-01-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2023-01-20"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-12-30T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-12-30",
+          "earliest": "2020-12-30",
+          "latest": "2020-12-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2023-01-20T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2023-01-20",
+          "earliest": "2023-01-20",
+          "latest": "2023-01-20",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-95f8f8d2cde41e381ba5",
+      "property": "P39",
+      "claimId": "Q19958281$1876b9a9-4aa2-5f2f-f154-a09d9145ea53",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2023-01-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2023-01-20"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2023-01-20T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2023-01-20",
+          "earliest": "2023-01-20",
+          "latest": "2023-01-20",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-c462ede510df0ecc2256",
+      "factId": "fact-376d16d13dc407c9cc3c",
+      "claimId": "Q19958281$6b6d8ed4-4487-c9b1-b0a7-578c3152eeba",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2023-01-20",
+      "precision": 11,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f35452b17310f62bf712",
+      "factId": "fact-95f8f8d2cde41e381ba5",
+      "claimId": "Q19958281$1876b9a9-4aa2-5f2f-f154-a09d9145ea53",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2023-01-20",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b1d249442a7610aaa8fe",
+      "factId": "fact-376d16d13dc407c9cc3c",
+      "claimId": "Q19958281$6b6d8ed4-4487-c9b1-b0a7-578c3152eeba",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2020-12-30",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d5f7a3326d52ddce6738",
+      "factId": "fact-d68974b40aed43d42a12",
+      "claimId": "Q19958281$8507afa4-479a-73ad-7877-02aba0c942b1",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2020-12-30",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a4e76a1966cc261f0648",
+      "factId": "fact-fe7d5bfc02fa1e3224e1",
+      "claimId": "Q19958281$4f3194b3-463c-a7e9-e973-fae6d95433ad",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2020-06",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-929bf4b0c94a0de79e5c",
+      "factId": "fact-fe7d5bfc02fa1e3224e1",
+      "claimId": "Q19958281$4f3194b3-463c-a7e9-e973-fae6d95433ad",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2018-04",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-efb1a3943ac3c192555f",
+      "factId": "fact-0e87f3df6f93b37451e2",
+      "claimId": "Q19958281$8b8e4fcf-4f75-8d5b-3550-909a27e55eca",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2018-04",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "http://electrek.co/2016/01/28/tesla-jim-keller-apple-processor-architect-2/",
+        "https://electrek.co/2018/04/25/tesla-autopilot-jim-keller-leaving-chip/",
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a87a4c01e8e02d67c0f8",
+      "factId": "fact-0e87f3df6f93b37451e2",
+      "claimId": "Q19958281$8b8e4fcf-4f75-8d5b-3550-909a27e55eca",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2016-01",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "http://electrek.co/2016/01/28/tesla-jim-keller-apple-processor-architect-2/",
+        "https://electrek.co/2018/04/25/tesla-autopilot-jim-keller-leaving-chip/",
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-3ba3750d02ca416b96be",
+      "factId": "fact-d6ea2e0c4fabf88dd285",
+      "claimId": "Q19958281$57ac3887-4332-6ce3-3753-b959fb708ff9",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2015-09-18",
+      "precision": 11,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2a975fe8196fe43ea04b",
+      "factId": "fact-d6ea2e0c4fabf88dd285",
+      "claimId": "Q19958281$57ac3887-4332-6ce3-3753-b959fb708ff9",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2012-08",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a08289d87c60741dd4fa",
+      "factId": "fact-0b7f0b9185f5094773c0",
+      "claimId": "Q19958281$a5e0799e-4c99-d864-e8a0-4cc8832cf3aa",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2012-08",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2d793c71eaa52772e169",
+      "factId": "fact-0baf50e016de9a8de73f",
+      "claimId": "Q19958281$0a89c3eb-435d-0884-e163-75dfb36966ec",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2008-04",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-61170eba04b4b40e587f",
+      "factId": "fact-0b7f0b9185f5094773c0",
+      "claimId": "Q19958281$a5e0799e-4c99-d864-e8a0-4cc8832cf3aa",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2008-04",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a71d9eb2c64f218fc4f2",
+      "factId": "fact-472b5a7df8d780c2a032",
+      "claimId": "Q19958281$ff7c7869-4bf8-4667-4692-b62c32a36de1",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2004",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b8a77c72b86d8382d1c7",
+      "factId": "fact-0baf50e016de9a8de73f",
+      "claimId": "Q19958281$0a89c3eb-435d-0884-e163-75dfb36966ec",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2004",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-19603108769c182a174a",
+      "factId": "fact-cd4efad2677653c553e9",
+      "claimId": "Q19958281$2207a751-4b95-bfc5-be64-ac336ec12c21",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2000-11",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-6543c01ca8b327135bae",
+      "factId": "fact-472b5a7df8d780c2a032",
+      "claimId": "Q19958281$ff7c7869-4bf8-4667-4692-b62c32a36de1",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2000-11",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-3983e512242456a9413f",
+      "factId": "fact-cd4efad2677653c553e9",
+      "claimId": "Q19958281$2207a751-4b95-bfc5-be64-ac336ec12c21",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "1999",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-af4f5ee119dda212e286",
+      "factId": "fact-c07a2dd5da55a7a83e8f",
+      "claimId": "Q19958281$526f64bc-4ef4-7350-ca47-ddd7d0ff2f2b",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "1999",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a19b197293acdbdf44a8",
+      "factId": "fact-6897eb9bc7bfd76f4123",
+      "claimId": "Q19958281$f5e460ba-4fb8-5f0c-a2a0-d6f2ca1f2287",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "1998",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-d88d150c017a37085714",
+      "factId": "fact-c07a2dd5da55a7a83e8f",
+      "claimId": "Q19958281$526f64bc-4ef4-7350-ca47-ddd7d0ff2f2b",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "1998",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f6842eec948fd88fac89",
+      "factId": "fact-6897eb9bc7bfd76f4123",
+      "claimId": "Q19958281$f5e460ba-4fb8-5f0c-a2a0-d6f2ca1f2287",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "1982",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331414",
+        "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)",
+        "https://www.wikidata.org/wiki/Q19958281"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "吉姆·凯勒",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "职业",
+          "value": "工程师",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "来源所记出生日期",
+          "value": "来源日期尚不能规范化: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "就读机构",
+          "value": "宾夕法尼亚州立大学",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "雇主",
+          "value": "蘋果公司",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "雇主",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "雇主",
+          "value": "特斯拉公司",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "雇主",
+          "value": "博通",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "雇主",
+          "value": "迪吉多",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "雇主",
+          "value": "超威半导体",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "雇主",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "雇主",
+          "value": "Tenstorrent",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "雇主",
+          "value": "超威半导体",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "雇主",
+          "value": "英特尔",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "担任职务",
+          "value": "首席技术官",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "担任职务",
+          "value": "首席执行官",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "担任职务: 首席技术官",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: 首席执行官",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: 首席技术官",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "雇主: Tenstorrent",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: 英特尔",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 英特尔",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: 特斯拉公司",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 特斯拉公司",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "雇主: 超威半导体",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 超威半导体",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: 蘋果公司",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: P.A. Semi",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 蘋果公司",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 博通",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: P.A. Semi",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: SiByte",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: 博通",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: SiByte",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 超威半导体",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 迪吉多",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: 超威半导体",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: 迪吉多",
+          "text": "来源记载开始时间",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Jim Keller",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "Occupation",
+          "value": "engineer",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "Source-reported birth date",
+          "value": "Source date cannot yet be normalized: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "Educational institution",
+          "value": "Pennsylvania State University",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "Employer",
+          "value": "Apple Inc.",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "Employer",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "Employer",
+          "value": "Tesla",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "Employer",
+          "value": "Broadcom",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "Employer",
+          "value": "Digital Equipment Corporation",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "Employer",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "Employer",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "Employer",
+          "value": "Tenstorrent",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "Employer",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "Employer",
+          "value": "Intel",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "Position held",
+          "value": "chief technology officer",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "Position held",
+          "value": "chief executive officer",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "Position held: chief technology officer",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: chief executive officer",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: chief technology officer",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Employer: Tenstorrent",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: Intel",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Intel",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: Tesla",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Tesla",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "Employer: AMD",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: AMD",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: Apple Inc.",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: P.A. Semi",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Apple Inc.",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: Broadcom",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: P.A. Semi",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: SiByte",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Broadcom",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: SiByte",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: AMD",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: Digital Equipment Corporation",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: AMD",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: Digital Equipment Corporation",
+          "text": "Start date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Jim Keller",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "Profession",
+          "value": "ingénieur ou ingénieure",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "Date de naissance indiquée par la source",
+          "value": "Date de source non normalisable à ce stade: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "Établissement fréquenté",
+          "value": "Université d'État de Pennsylvanie",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "Employeur",
+          "value": "Apple",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "Employeur",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "Employeur",
+          "value": "Tesla",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "Employeur",
+          "value": "Broadcom",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "Employeur",
+          "value": "Digital Equipment Corporation",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "Employeur",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "Employeur",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "Employeur",
+          "value": "Tenstorrent",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "Employeur",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "Employeur",
+          "value": "Intel",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "Fonction exercée",
+          "value": "directeur ou directrice technique",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "Fonction exercée",
+          "value": "directeur général ou directrice générale",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "Fonction exercée: directeur ou directrice technique",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: directeur général ou directrice générale",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: directeur ou directrice technique",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Employeur: Tenstorrent",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Intel",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Intel",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Tesla",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Tesla",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "Employeur: AMD",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: AMD",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Apple",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: P.A. Semi",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Apple",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: Broadcom",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: P.A. Semi",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: SiByte",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Broadcom",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: SiByte",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: AMD",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: Digital Equipment Corporation",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: AMD",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: Digital Equipment Corporation",
+          "text": "Date de début selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Jim Keller",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "المهنة",
+          "value": "مهندس",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "تعذر توحيد صيغة تاريخ المصدر حاليًا: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ولاية بنسلفانيا",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "جهة العمل",
+          "value": "أبل",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "جهة العمل",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "جهة العمل",
+          "value": "تسلا موتورز",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "جهة العمل",
+          "value": "برودكوم",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "جهة العمل",
+          "value": "ديجيتال إيكيوبمنت كوربوريشن",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "جهة العمل",
+          "value": "إي إم دي",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "جهة العمل",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "جهة العمل",
+          "value": "Tenstorrent",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "جهة العمل",
+          "value": "إي إم دي",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "جهة العمل",
+          "value": "إنتل",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "المنصب",
+          "value": "مدير التكنولوجيا التنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "المنصب",
+          "value": "رئيس تنفيذي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "المنصب: مدير التكنولوجيا التنفيذي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: رئيس تنفيذي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: مدير التكنولوجيا التنفيذي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "جهة العمل: Tenstorrent",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: إنتل",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: إنتل",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: تسلا موتورز",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: تسلا موتورز",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "جهة العمل: إي إم دي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: إي إم دي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: أبل",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: P.A. Semi",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: أبل",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: برودكوم",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: P.A. Semi",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: SiByte",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: برودكوم",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: SiByte",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: إي إم دي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: ديجيتال إيكيوبمنت كوربوريشن",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: إي إم دي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: ديجيتال إيكيوبمنت كوربوريشن",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Jim Keller",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "Beruf",
+          "value": "Ingenieur",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "Quelldatum kann noch nicht normalisiert werden: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "Bildungseinrichtung",
+          "value": "Pennsylvania State University",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "Arbeitgeber",
+          "value": "Apple Inc.",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "Arbeitgeber",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "Arbeitgeber",
+          "value": "Tesla, Inc.",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "Arbeitgeber",
+          "value": "Broadcom",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "Arbeitgeber",
+          "value": "Digital Equipment Corporation",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "Arbeitgeber",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "Arbeitgeber",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "Arbeitgeber",
+          "value": "Tenstorrent",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "Arbeitgeber",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "Arbeitgeber",
+          "value": "Intel",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "Ausgeübtes Amt",
+          "value": "Technischer Direktor",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "Ausgeübtes Amt",
+          "value": "Geschäftsführer",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Technischer Direktor",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Geschäftsführer",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Technischer Direktor",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Arbeitgeber: Tenstorrent",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: Intel",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Intel",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: Tesla, Inc.",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Tesla, Inc.",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "Arbeitgeber: AMD",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: AMD",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: Apple Inc.",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: P.A. Semi",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Apple Inc.",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: Broadcom",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: P.A. Semi",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: SiByte",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Broadcom",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: SiByte",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: AMD",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: Digital Equipment Corporation",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: AMD",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: Digital Equipment Corporation",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ジム・ケラー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "職業",
+          "value": "エンジニア",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "出典に記載された生年月日",
+          "value": "出典の日付はまだ正規化できません: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "在籍した教育機関",
+          "value": "ペンシルベニア州立大学",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "雇用主",
+          "value": "Apple Inc.",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "雇用主",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "雇用主",
+          "value": "テスラ",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "雇用主",
+          "value": "ブロードコム",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "雇用主",
+          "value": "ディジタル・イクイップメント・コーポレーション",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "雇用主",
+          "value": "アドバンスト・マイクロ・デバイセズ",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "雇用主",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "雇用主",
+          "value": "Tenstorrent",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "雇用主",
+          "value": "アドバンスト・マイクロ・デバイセズ",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "雇用主",
+          "value": "インテル",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "役職",
+          "value": "最高技術責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "役職",
+          "value": "最高経営責任者",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "役職: 最高技術責任者",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: 最高経営責任者",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: 最高技術責任者",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "雇用主: Tenstorrent",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: インテル",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: インテル",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: テスラ",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: テスラ",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "雇用主: アドバンスト・マイクロ・デバイセズ",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: アドバンスト・マイクロ・デバイセズ",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: Apple Inc.",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: P.A. Semi",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: Apple Inc.",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: ブロードコム",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: P.A. Semi",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: SiByte",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: ブロードコム",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: SiByte",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: アドバンスト・マイクロ・デバイセズ",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: ディジタル・イクイップメント・コーポレーション",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: アドバンスト・マイクロ・デバイセズ",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: ディジタル・イクイップメント・コーポレーション",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Jim Keller",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "Ocupación",
+          "value": "ingeniero",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "La fecha de la fuente aún no puede normalizarse: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "Institución educativa",
+          "value": "Universidad Estatal de Pensilvania",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "Empleador",
+          "value": "Apple Inc.",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "Empleador",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "Empleador",
+          "value": "Tesla",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "Empleador",
+          "value": "Broadcom",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "Empleador",
+          "value": "Digital Equipment Corporation",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "Empleador",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "Empleador",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "Empleador",
+          "value": "Tenstorrent",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "Empleador",
+          "value": "AMD",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "Empleador",
+          "value": "Intel",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "Cargo desempeñado",
+          "value": "director de tecnología",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "Cargo desempeñado",
+          "value": "director ejecutivo",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "Cargo desempeñado: director de tecnología",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: director ejecutivo",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: director de tecnología",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "Empleador: Tenstorrent",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Intel",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Intel",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Tesla",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Tesla",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "Empleador: AMD",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: AMD",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Apple Inc.",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: P.A. Semi",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Apple Inc.",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Broadcom",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: P.A. Semi",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: SiByte",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Broadcom",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: SiByte",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: AMD",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Digital Equipment Corporation",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: AMD",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: Digital Equipment Corporation",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "짐 켈러",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2614d23e596bb0eebec2",
+          "label": "직업",
+          "value": "기술자",
+          "notes": []
+        },
+        {
+          "id": "fact-03a71350e17cd2cfee5e",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-779aa5bdde1c5e297062",
+          "label": "출처에 기재된 출생일",
+          "value": "출처 날짜를 아직 표준화할 수 없습니다: +1955-00-00T00:00:00Z",
+          "notes": []
+        },
+        {
+          "id": "fact-47e1f408e81f583c29d1",
+          "label": "교육 기관",
+          "value": "펜실베이니아 주립 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-0b7f0b9185f5094773c0",
+          "label": "고용 기관",
+          "value": "애플",
+          "notes": []
+        },
+        {
+          "id": "fact-0baf50e016de9a8de73f",
+          "label": "고용 기관",
+          "value": "P.A. Semi",
+          "notes": []
+        },
+        {
+          "id": "fact-0e87f3df6f93b37451e2",
+          "label": "고용 기관",
+          "value": "테슬라",
+          "notes": []
+        },
+        {
+          "id": "fact-472b5a7df8d780c2a032",
+          "label": "고용 기관",
+          "value": "브로드컴",
+          "notes": []
+        },
+        {
+          "id": "fact-6897eb9bc7bfd76f4123",
+          "label": "고용 기관",
+          "value": "디지털 이큅먼트 코퍼레이션",
+          "notes": []
+        },
+        {
+          "id": "fact-c07a2dd5da55a7a83e8f",
+          "label": "고용 기관",
+          "value": "어드밴스트 마이크로 디바이시스",
+          "notes": []
+        },
+        {
+          "id": "fact-cd4efad2677653c553e9",
+          "label": "고용 기관",
+          "value": "SiByte",
+          "notes": []
+        },
+        {
+          "id": "fact-d68974b40aed43d42a12",
+          "label": "고용 기관",
+          "value": "Tenstorrent",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-d6ea2e0c4fabf88dd285",
+          "label": "고용 기관",
+          "value": "어드밴스트 마이크로 디바이시스",
+          "notes": []
+        },
+        {
+          "id": "fact-fe7d5bfc02fa1e3224e1",
+          "label": "고용 기관",
+          "value": "인텔",
+          "notes": []
+        },
+        {
+          "id": "fact-376d16d13dc407c9cc3c",
+          "label": "직책",
+          "value": "최고기술책임자",
+          "notes": []
+        },
+        {
+          "id": "fact-95f8f8d2cde41e381ba5",
+          "label": "직책",
+          "value": "최고경영자",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-c462ede510df0ecc2256",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "end",
+          "title": "직책: 최고기술책임자",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-f35452b17310f62bf712",
+          "factId": "fact-95f8f8d2cde41e381ba5",
+          "date": "2023-01-20",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: 최고경영자",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-b1d249442a7610aaa8fe",
+          "factId": "fact-376d16d13dc407c9cc3c",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: 최고기술책임자",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-d5f7a3326d52ddce6738",
+          "factId": "fact-d68974b40aed43d42a12",
+          "date": "2020-12-30",
+          "precision": 11,
+          "kind": "start",
+          "title": "고용 기관: Tenstorrent",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-a4e76a1966cc261f0648",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2020-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: 인텔",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-929bf4b0c94a0de79e5c",
+          "factId": "fact-fe7d5bfc02fa1e3224e1",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 인텔",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-efb1a3943ac3c192555f",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2018-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: 테슬라",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-a87a4c01e8e02d67c0f8",
+          "factId": "fact-0e87f3df6f93b37451e2",
+          "date": "2016-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 테슬라",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-3ba3750d02ca416b96be",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2015-09-18",
+          "precision": 11,
+          "kind": "end",
+          "title": "고용 기관: 어드밴스트 마이크로 디바이시스",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-2a975fe8196fe43ea04b",
+          "factId": "fact-d6ea2e0c4fabf88dd285",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 어드밴스트 마이크로 디바이시스",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-a08289d87c60741dd4fa",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2012-08",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: 애플",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-2d793c71eaa52772e169",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: P.A. Semi",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-61170eba04b4b40e587f",
+          "factId": "fact-0b7f0b9185f5094773c0",
+          "date": "2008-04",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 애플",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-a71d9eb2c64f218fc4f2",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 브로드컴",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-b8a77c72b86d8382d1c7",
+          "factId": "fact-0baf50e016de9a8de73f",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: P.A. Semi",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-19603108769c182a174a",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: SiByte",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-6543c01ca8b327135bae",
+          "factId": "fact-472b5a7df8d780c2a032",
+          "date": "2000-11",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: 브로드컴",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-3983e512242456a9413f",
+          "factId": "fact-cd4efad2677653c553e9",
+          "date": "1999",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: SiByte",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-af4f5ee119dda212e286",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 어드밴스트 마이크로 디바이시스",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-a19b197293acdbdf44a8",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1998",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 디지털 이큅먼트 코퍼레이션",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-d88d150c017a37085714",
+          "factId": "fact-c07a2dd5da55a7a83e8f",
+          "date": "1998",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: 어드밴스트 마이크로 디바이시스",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-f6842eec948fd88fac89",
+          "factId": "fact-6897eb9bc7bfd76f4123",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: 디지털 이큅먼트 코퍼레이션",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "ar",
+        "key": "Q22677884"
+      },
+      {
+        "locale": "ar",
+        "key": "Q2355591"
+      },
+      {
+        "locale": "de",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "de",
+        "key": "Q22677884"
+      },
+      {
+        "locale": "de",
+        "key": "Q312"
+      },
+      {
+        "locale": "es",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "es",
+        "key": "Q22677884"
+      },
+      {
+        "locale": "es",
+        "key": "Q312"
+      },
+      {
+        "locale": "ja",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "ja",
+        "key": "Q22677884"
+      },
+      {
+        "locale": "ja",
+        "key": "Q2355591"
+      },
+      {
+        "locale": "ko",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "ko",
+        "key": "Q22677884"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2355591"
+      },
+      {
+        "locale": "zh",
+        "key": "Q126456640"
+      },
+      {
+        "locale": "zh",
+        "key": "Q22677884"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Jim Keller",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q2355591",
+        "fallbackLocale": "en",
+        "value": "P.A. Semi",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q312",
+        "fallbackLocale": "en",
+        "value": "Apple Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q312",
+        "fallbackLocale": "en",
+        "value": "Apple Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q2355591",
+        "fallbackLocale": "en",
+        "value": "P.A. Semi",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2355591",
+        "fallbackLocale": "en",
+        "value": "P.A. Semi",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q126456640",
+        "fallbackLocale": "en",
+        "value": "Tenstorrent",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q22677884",
+        "fallbackLocale": "en",
+        "value": "SiByte",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [
+      {
+        "factId": "fact-779aa5bdde1c5e297062",
+        "dateProperty": "P569",
+        "date": null,
+        "raw": "+1955-00-00T00:00:00Z",
+        "reason": "unresolved"
+      }
+    ],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 22,
+    "professionalEventCount": 22,
+    "factCount": 16,
+    "factsWithoutExternalReference": 15,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

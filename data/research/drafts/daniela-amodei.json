@@ -1,0 +1,1147 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "daniela-amodei",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/daniela-amodei.json",
+    "sha256": "6fd9dc496416be698a1041e9098fc50df10d7e536692f8ea3ac2190aa70c5a44",
+    "capturedAt": "2026-11-13T11:25:21Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+      "https://en.wikipedia.org/wiki/Daniela_Amodei",
+      "https://www.wikidata.org/wiki/Q119721378"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q119721378",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Daniela Amodei",
+    "sourceIdentity": {
+      "requestedName": "Daniela Amodei",
+      "requestedTitle": "Daniela Amodei",
+      "resolvedTitle": "Daniela Amodei",
+      "wikidataId": "Q119721378",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-4f4486d31a94f0ebf04a",
+      "property": "P106",
+      "claimId": "Q119721378$d18c653a-432c-41d7-734c-b100a6a651ca",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-3b4818c50aa120fb9414",
+      "property": "P27",
+      "claimId": "Q119721378$e372d218-4dfd-151e-3916-79876e41e224",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e7cc822a283d0d8b6397",
+      "property": "P569",
+      "claimId": "Q119721378$302243a0-0182-4a90-954f-11923d665fed",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1987-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1987"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.forbes.com/profile/daniela-amodei/"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://time.com/collections/time100-ai/6309047/daniela-and-dario-amodei/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://time.com/collections/time100-ai/6309047/daniela-and-dario-amodei/",
+        "https://www.forbes.com/profile/daniela-amodei/",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [
+        "https://time.com/collections/time100-ai/6309047/daniela-and-dario-amodei/",
+        "https://www.forbes.com/profile/daniela-amodei/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1987-00-00T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1987",
+        "earliest": "1987-01-01",
+        "latest": "1987-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-ed66b409213efe8b7a9c",
+      "property": "P19",
+      "claimId": "Q119721378$b09dc224-479f-dc05-801f-60c08ea51afa",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 62,
+          "id": "Q62"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-0fc1d1a69554c34cfe53",
+      "property": "P69",
+      "claimId": "Q119721378$99368c15-4039-92a9-a6bd-22c4e2ddd012",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1047293,
+          "id": "Q1047293"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7e64222870083af3ae2c",
+      "property": "P108",
+      "claimId": "Q119721378$135ade8f-4716-4bd0-37d4-ce448f76894d",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 21708200,
+          "id": "Q21708200"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Daniela et Dario Amodei, la fratrie qui construit un chatbot pour conjurer sa peur de l'IA",
+                "language": "fr"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-10-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-10-29"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bc8af2ed0df9fc23312e",
+      "property": "P108",
+      "claimId": "Q119721378$630cf84d-4a5a-fd19-6d3e-e99f586297f0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7624104,
+          "id": "Q7624104"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Daniela et Dario Amodei, la fratrie qui construit un chatbot pour conjurer sa peur de l'IA",
+                "language": "fr"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-10-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-10-29"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c47ba3dc0cd00d9811d8",
+      "property": "P108",
+      "claimId": "Q119721378$c61f74d7-4d4e-a40e-5ef9-3adc5a35eef4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 116758847,
+          "id": "Q116758847"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Daniela et Dario Amodei, la fratrie qui construit un chatbot pour conjurer sa peur de l'IA",
+                "language": "fr"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-10-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-10-29"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-088edea40e82899cfdc2",
+      "property": "P101",
+      "claimId": "Q119721378$8fe236f8-4532-0f00-426d-37435ca503f5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 11660,
+          "id": "Q11660"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Daniela et Dario Amodei, la fratrie qui construit un chatbot pour conjurer sa peur de l'IA",
+                "language": "fr"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-10-29T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-10-29"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "referenceUrls": [
+        "https://usbeketrica.com/fr/article/daniela-et-dario-amodei-la-fratrie-qui-construit-un-chatbot-pour-conjurer-sa-peur-de-l-ia"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-0ab9dad83191d48e0a74",
+      "factId": "fact-e7cc822a283d0d8b6397",
+      "claimId": "Q119721378$302243a0-0182-4a90-954f-11923d665fed",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1987",
+      "precision": 9,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382445778",
+        "https://en.wikipedia.org/wiki/Daniela_Amodei",
+        "https://time.com/collections/time100-ai/6309047/daniela-and-dario-amodei/",
+        "https://www.forbes.com/profile/daniela-amodei/",
+        "https://www.wikidata.org/wiki/Q119721378"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "丹妮拉·阿莫代伊",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "来源所记出生日期",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "出生地",
+          "value": "舊金山",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "就读机构",
+          "value": "加州大学圣克鲁兹分校",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "雇主",
+          "value": "開放人工智能",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "雇主",
+          "value": "Stripe",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "雇主",
+          "value": "Anthropic",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "研究领域",
+          "value": "人工智能",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1987",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Daniela Amodei",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "Source-reported birth date",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "Place of birth",
+          "value": "San Francisco",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "Educational institution",
+          "value": "University of California, Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "Employer",
+          "value": "OpenAI",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "Employer",
+          "value": "Stripe",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "Employer",
+          "value": "Anthropic",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "Field of work",
+          "value": "artificial intelligence",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1987",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Daniela Amodei",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "Lieu de naissance",
+          "value": "San Francisco",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "Établissement fréquenté",
+          "value": "Université de Californie à Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "Employeur",
+          "value": "OpenAI",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "Employeur",
+          "value": "Stripe",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "Employeur",
+          "value": "Anthropic",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "Domaine de travail",
+          "value": "intelligence artificielle",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1987",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "دانييلا أمودي",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "مكان الميلاد",
+          "value": "سان فرانسيسكو",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة كاليفورنيا، سانتا كروز",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "جهة العمل",
+          "value": "أوبن أيه آي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "جهة العمل",
+          "value": "سترايب",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "جهة العمل",
+          "value": "أنثروبيك",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "مجال العمل",
+          "value": "ذكاء اصطناعي",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1987",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Daniela Amodei",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "Geburtsort",
+          "value": "San Francisco",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "Bildungseinrichtung",
+          "value": "University of California, Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "Arbeitgeber",
+          "value": "OpenAI",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "Arbeitgeber",
+          "value": "Stripe",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "Arbeitgeber",
+          "value": "Anthropic",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "Arbeitsgebiet",
+          "value": "künstliche Intelligenz",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1987",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ダニエラ・アモデイ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "出典に記載された生年月日",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "出生地",
+          "value": "サンフランシスコ",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "在籍した教育機関",
+          "value": "カリフォルニア大学サンタクルーズ校",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "雇用主",
+          "value": "OpenAI",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "雇用主",
+          "value": "ストライプ",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "雇用主",
+          "value": "Anthropic",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "活動分野",
+          "value": "人工知能",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1987",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Daniela Amodei",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "Lugar de nacimiento",
+          "value": "San Francisco",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "Institución educativa",
+          "value": "Universidad de California en Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "Empleador",
+          "value": "Open AI",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "Empleador",
+          "value": "Stripe",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "Empleador",
+          "value": "Anthropic",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "Campo de trabajo",
+          "value": "inteligencia artificial",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1987",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "다니엘라 아모데이",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4f4486d31a94f0ebf04a",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-3b4818c50aa120fb9414",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-e7cc822a283d0d8b6397",
+          "label": "출처에 기재된 출생일",
+          "value": "1987",
+          "notes": []
+        },
+        {
+          "id": "fact-ed66b409213efe8b7a9c",
+          "label": "출생지",
+          "value": "샌프란시스코",
+          "notes": []
+        },
+        {
+          "id": "fact-0fc1d1a69554c34cfe53",
+          "label": "교육 기관",
+          "value": "캘리포니아 대학교 샌타크루즈",
+          "notes": []
+        },
+        {
+          "id": "fact-7e64222870083af3ae2c",
+          "label": "고용 기관",
+          "value": "오픈AI",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-bc8af2ed0df9fc23312e",
+          "label": "고용 기관",
+          "value": "스트라이프",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-c47ba3dc0cd00d9811d8",
+          "label": "고용 기관",
+          "value": "앤스로픽",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-088edea40e82899cfdc2",
+          "label": "활동 분야",
+          "value": "인공지능",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0ab9dad83191d48e0a74",
+          "factId": "fact-e7cc822a283d0d8b6397",
+          "date": "1987",
+          "precision": 9,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1987",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "es",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "es",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Daniela Amodei",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 9,
+    "factsWithoutExternalReference": 4,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

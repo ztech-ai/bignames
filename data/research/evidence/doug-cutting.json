@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "doug-cutting",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "道格·卡廷",
+    "enName": "Doug Cutting",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "共同创建Hadoop并开发Lucene，推动开放大数据处理与全文搜索软件生态。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同创建Hadoop并开发Lucene，推动开放大数据处理与全文搜索软件生态。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:23Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Doug Cutting",
+    "requestedTitle": "Doug Cutting",
+    "resolvedTitle": "Doug Cutting",
+    "wikidataId": "Q5300398",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Doug_Cutting",
+      "title": "Doug Cutting",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:23Z",
+      "revisionId": 1378078577,
+      "revisionTimestamp": "2026-10-02T21:16:18Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1378078577",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5300398",
+      "title": "Q5300398",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:06:08Z",
+      "revisionId": 2506910507,
+      "revisionTimestamp": "2026-06-17T05:19:07Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Douglass Read Cutting is a software designer, advocate for, and creator of open-source search technology. He founded two technology projects, Lucene and Nutch, with Mike Cafarella. The Apache Software Foundation now manages both projects. Cutting and Cafarella were also co-founders of Apache Hadoop.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Doug Cutting",
+    "de": "Doug Cutting",
+    "fr": "Doug Cutting",
+    "es": "Doug Cutting",
+    "ar": "دوج كاتينج"
+  },
+  "descriptions": {
+    "en": "American information theorist",
+    "ar": "عالم حاسوب من الولايات المتحدة الأمريكية",
+    "es": "informático teórico estadounidense",
+    "fr": "informaticien américain"
+  },
+  "languageArticles": {
+    "en": "Doug Cutting",
+    "fr": "Doug Cutting"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q5300398$3206078a-44fb-fcf4-d132-4fc950bf20b8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q5300398$4f1f4996-4f23-6639-f5a6-2b6c2ace5e4b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 41506,
+            "id": "Q41506"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q5300398$DCFEBB5F-3A2E-4C82-9EE8-AAC65C6982F4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q5300398$46D7BB81-070A-4909-A820-EE2481AB2C62",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q5300398$2310391B-3C4C-40D4-B2AA-79ED9DC3B81A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5583911,
+            "id": "Q5583911"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q5300398$7BED0C3A-27F1-45AB-A785-4863C21D76ED",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7822706,
+            "id": "Q7822706"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q5300398$00f970bc-b795-48fd-9465-1ba4b4a98fd8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 312,
+            "id": "Q312"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q5300398$f145e565-4dec-af67-2142-7a574fc0e602",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Doug-Cutting.JPG"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q5300398$07151147-5913-4D86-A84B-6401A4ACAF67",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 773196,
+            "id": "Q773196"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-10-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-10-16"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q5300398$B3762C2E-826E-4F60-B2D6-D545580A2E20",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1372248,
+            "id": "Q1372248"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-10-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-10-16"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q5300398$D21AA846-465D-475D-987B-B66A81F52218",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29120,
+            "id": "Q29120"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-10-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-10-16"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P512": [
+      {
+        "id": "Q5300398$14095C6E-6BA1-4760-96FE-F5C64D93E592",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 163727,
+            "id": "Q163727"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-10-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-10-16"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P69": "education",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P166": "award",
+    "P108": "employer",
+    "P18": "image",
+    "P800": "notableWork",
+    "P512": "academicDegree"
+  },
+  "relatedEntities": {
+    "Q1372248": {
+      "id": "Q1372248",
+      "fetchedAt": "2026-11-13T11:06:08Z",
+      "labels": {
+        "de": "Nutch",
+        "ko": "너치",
+        "fr": "Nutch",
+        "en": "Nutch",
+        "es": "Nutch"
+      },
+      "descriptions": {
+        "fr": "logiciel informatique",
+        "en": "open source web crawler software",
+        "ko": "확장성이 뛰어난 오픈 소스 웹 크롤러 소프트웨어 프로젝트"
+      }
+    },
+    "Q163727": {
+      "id": "Q163727",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "título de grado",
+        "ar": "بكالوريوس",
+        "fr": "premier cycle universitaire",
+        "ko": "학사",
+        "de": "Bachelor",
+        "ja": "学士",
+        "en": "bachelor's degree",
+        "zh": "學士"
+      },
+      "descriptions": {
+        "en": "undergraduate academic degree lasting from three to seven years",
+        "de": "akademischer Abschluss",
+        "fr": "diplôme et grade universitaire généralement obtenu après 2 à 4 années d'études supérieures et donnant accès au master (maîtrise)",
+        "zh": "大学本科学位",
+        "ko": "대학 졸업자에게 주는 학위",
+        "ar": "درجة أكاديمية جامعية تستمر من ثلاث إلى سبع سنوات",
+        "es": "titulación académica de grado de tres a siete años de duración",
+        "ja": "学部課程とその学位、履修期間は3年から7年。"
+      }
+    },
+    "Q29120": {
+      "id": "Q29120",
+      "fetchedAt": "2026-11-13T11:06:09Z",
+      "labels": {
+        "zh": "Apache Hadoop",
+        "fr": "Hadoop",
+        "ko": "하둡",
+        "es": "Hadoop",
+        "en": "Apache Hadoop",
+        "de": "Apache Hadoop",
+        "ja": "Apache Hadoop",
+        "ar": "أباتشي هدوب"
+      },
+      "descriptions": {
+        "fr": "logiciel informatique",
+        "es": "framework de software",
+        "en": "distributed data processing framework",
+        "de": "Framework zur verteilten Datenverarbeitung",
+        "ja": "分散データ処理フレームワーク",
+        "ko": "대량의 자료를 처리할 수 있는 큰 컴퓨터 클러스터에서 동작하는 분산 응용 프로그램을 지원하는 프리웨어 자바 소프트웨어 프레임워크"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q312": {
+      "id": "Q312",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ko": "애플",
+        "zh": "蘋果公司",
+        "ar": "أبل",
+        "en": "Apple Inc.",
+        "fr": "Apple",
+        "ja": "Apple Inc."
+      },
+      "descriptions": {
+        "de": "US-amerikanisches Technologieunternehmen mit Hauptsitz in Cupertino, Kalifornien",
+        "fr": "entreprise informatique américaine",
+        "es": "empresa tecnológica estadounidense",
+        "zh": "美國的跨國科技公司",
+        "ko": "캘리포니아주 쿠퍼티노에 위치한 미국의 기술 기업",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "en": "American multinational technology company based in Cupertino, California",
+        "ar": "شركة تكنولوجيا أمريكية مقرها كوبرتينو، كاليفورنيا"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q41506": {
+      "id": "Q41506",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "史丹佛大學",
+        "es": "Universidad Stanford",
+        "ar": "جامعة ستانفورد",
+        "ko": "스탠퍼드 대학교",
+        "fr": "Université Stanford",
+        "de": "Stanford University",
+        "ja": "スタンフォード大学",
+        "en": "Stanford University"
+      },
+      "descriptions": {
+        "en": "private research university in Stanford, California, USA",
+        "de": "private Universität in Kalifornien, USA",
+        "fr": "université américaine privée à Stanford au sud de San Francisco, Californie",
+        "zh": "位於美國加州史丹佛的私立大學，於1891年創校",
+        "ar": "جامعة خاصة في كاليفورنيا، الولايات المتحدة",
+        "es": "universidad de investigación privada en Stanford, California, Estados Unidos",
+        "ja": "アメリカ・カリフォルニア州にある私立大学",
+        "ko": "미국의 사립 대학"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5583911": {
+      "id": "Q5583911",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "en": "O'Reilly Open Source Award",
+        "de": "O'Reilly Open Source Award",
+        "es": "O'Reilly Open Source Award",
+        "fr": "prix O'Reilly open source",
+        "zh": "O'Reilly开源奖",
+        "ja": "オライリー・オープン・ソース賞"
+      },
+      "descriptions": {
+        "en": "award for outstanding contribution to open source",
+        "ja": "オープン・ソースへの顕著な貢献に対して授与される賞"
+      }
+    },
+    "Q773196": {
+      "id": "Q773196",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "fr": "Lucene",
+        "en": "Apache Lucene",
+        "zh": "Lucene",
+        "de": "Apache Lucene",
+        "ja": "Lucene",
+        "es": "Lucene",
+        "ko": "루씬",
+        "ar": "أباتشي لوسين"
+      },
+      "descriptions": {
+        "fr": "logiciel informatique",
+        "de": "Java-Bibliothek für Volltextsuche",
+        "en": "Java library for full-text search",
+        "ja": "Javaで記述された全文検索ソフトウェア",
+        "ar": "مكتبة جافا للبحث عن نص كامل"
+      }
+    },
+    "Q7822706": {
+      "id": "Q7822706",
+      "fetchedAt": "2026-11-13T11:06:10Z",
+      "labels": {
+        "en": "Tony Kent Strix award",
+        "es": "Premio Tony Kent Strix"
+      },
+      "descriptions": {
+        "en": "award for outstanding contributions to the field of information retrieval"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Doug-Cutting.JPG",
+    "fetchedAt": "2026-11-13T11:06:17Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doug-Cutting.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Doug-Cutting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Doug-Cutting.JPG/960px-Doug-Cutting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1944,
+    "height": 2592,
+    "mediaTimestamp": "2008-07-06T03:50:41Z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Tim Bray (talk)",
+    "credit": "I created this work entirely by myself.",
+    "description": "Doug Cutting",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/74f9ca69e8a6bf2b3965164b.jpg",
+    "cachedImageBytes": 236775,
+    "cachedImageSha256": "b9b4b2cf2264f12c8af37079a745be67554a862d1e4993d7285e6a02e4e9da05"
+  },
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 2,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

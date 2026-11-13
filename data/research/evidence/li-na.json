@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "li-na",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "李娜",
+    "enName": "Li Na",
+    "domain": "sports",
+    "domains": [
+      "sports"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "网球",
+    "inclusionReason": "亚洲首位大满贯单打冠军，推动中国和亚洲职业网球市场发展。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "亚洲首位大满贯单打冠军，推动中国和亚洲职业网球市场发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:59Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Li Na",
+    "requestedTitle": "Li Na (tennis)",
+    "resolvedTitle": "Li Na",
+    "wikidataId": "Q180446",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Li_Na",
+      "title": "Li Na",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:59Z",
+      "revisionId": 1382540967,
+      "revisionTimestamp": "2026-10-29T04:33:16Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1382540967",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q180446",
+      "title": "Q180446",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:12:28Z",
+      "revisionId": 2553966139,
+      "revisionTimestamp": "2026-10-06T14:22:45Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Li Na (born 26 February 1982) is a Chinese former professional tennis player. She was ranked world No. 2 in women's singles by the Women's Tennis Association, achieved in February 2014. Li won nine WTA Tour-level singles titles, including two majors at the 2011 French Open (defeating the defending champion Francesca Schiavone) and 2014 Australian Open. She is the first major singles champion born in Asia, male or female. Li was also the runner-up at the 2011 Australian Open, 2013 Australian Open, and the 2013 WTA Tour Championships.\nA trailblazer for tennis in China, Li was the first Chinese player to win a WTA Tour title (at the 2004 Guangzhou International Women's Open), the first to reach a major singles quarterfinal (at the 2006 Wimbledon Championships) and final, and the first to break into the world's top ten. By 2013, her accomplishments had made her the most successful Asian tennis player of her time, landing her on Time magazine's list of 100 Most Influential People in the World. Former world No. 1 Chris Evert wrote there: \"Tennis has exploded in China. The country now has some 15 million tennis players; 116 million watched Li win the French Open. That kind of exposure is crucial...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Li Na",
+    "es": "Li Na",
+    "de": "Li Na",
+    "ja": "李娜",
+    "ar": "لي نا",
+    "en": "Li Na",
+    "zh": "李娜",
+    "ko": "리나"
+  },
+  "descriptions": {
+    "de": "chinesische Tennisspielerin",
+    "en": "Chinese tennis player",
+    "fr": "joueuse de tennis chinoise",
+    "ko": "중국 테니스 선수",
+    "es": "tenista china",
+    "ar": "لاعبة كرة مضرب صينية",
+    "ja": "中国の女性テニス選手",
+    "zh": "中国女子网球运动员"
+  },
+  "languageArticles": {
+    "ar": "لي نا",
+    "de": "Li Na (Tennisspielerin)",
+    "en": "Li Na",
+    "es": "Li Na",
+    "fr": "Li Na (tennis)",
+    "ja": "李娜",
+    "ko": "리나 (테니스 선수)",
+    "zh": "李娜"
+  },
+  "claims": {
+    "P106": [
+      {
+        "id": "q180446$6761C0AA-87D6-4A47-B349-FA52AEB9E77D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10833314,
+            "id": "Q10833314"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1999-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1999"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://edition.cnn.com/2018/07/13/sport/li-na-tennis-wimbledon-spt-intl/index.html"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-08"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q180446$733467CD-1D96-407C-9879-0E7F7032BB89",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18814623,
+            "id": "Q18814623"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.si.com/tennis/beyond-baseline/2014/02/11/li-na-book-review"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-08"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "q180446$b56e81d0-44b0-9067-9592-55aebaa76ca2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11746,
+            "id": "Q11746"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30239,
+                  "id": "Q30239"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "q180446$a05e9dc7-4e1d-28b8-37c5-d000d82e4f4c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 148,
+            "id": "Q148"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://ewn.co.za/2018/10/08/li-na-says-osaka-needs-desire-to-go-further"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-08"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "q180446$FC5B583C-7ABA-465C-93FE-AF967BF24CE1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q180446$91EC3AC9-FCD0-4187-9C96-C449FE7C9A9F",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1982-02-26T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1982-02-26"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.sport24.co.za/Tennis/WTATour/li-na-generation-making-its-mark-say-chinese-players-20181010"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-08"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q180446$4031f074-4ced-fa11-b383-f34c5eb88d42",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Li Na (China) (24364518991).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-01-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016-01-17"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q180446$C52E1F61-81FE-466D-96F1-B1B82CB60E29",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1711196,
+            "id": "Q1711196"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q180446$AD19DB22-6562-450D-B203-A71BBD52FCD1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 673841,
+            "id": "Q673841"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q180446$8014a02c-4dd6-61f6-ef0b-4c7aaef4837e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 52454,
+            "id": "Q52454"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P2032": [
+      {
+        "id": "Q180446$F6818A2B-3B4A-456A-9E05-2C2FC6FAE4BB",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+2014-09-19T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "2014-09-19"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q180446$0C92C3D8-55B8-46A8-B7F8-AF9C26ACF391",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1999-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1999"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P106": "occupation",
+    "P19": "birthPlace",
+    "P27": "citizenship",
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P18": "image",
+    "P69": "education",
+    "P166": "award",
+    "P2032": "careerEnd",
+    "P2031": "careerStart"
+  },
+  "relatedEntities": {
+    "Q10833314": {
+      "id": "Q10833314",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "de": "Tennisspieler",
+        "fr": "joueur ou joueuse de tennis",
+        "es": "tenista",
+        "ja": "テニス選手",
+        "ko": "테니스 선수",
+        "zh": "網球運動員",
+        "ar": "لاعب كرة مضرب",
+        "en": "tennis player"
+      },
+      "descriptions": {
+        "es": "persona que juega al tenis",
+        "de": "Person, die Tennis spielt",
+        "en": "sportsperson who plays tennis",
+        "fr": "personne qui joue au tennis",
+        "ar": "الشخص الذي يمارس رياضة كرة المضرب أو التنس"
+      }
+    },
+    "Q11746": {
+      "id": "Q11746",
+      "fetchedAt": "2026-11-13T11:12:29Z",
+      "labels": {
+        "en": "Wuhan",
+        "fr": "Wuhan",
+        "de": "Wuhan",
+        "ar": "ووهان",
+        "es": "Wuhan",
+        "ja": "武漢市",
+        "ko": "우한시",
+        "zh": "武汉市"
+      },
+      "descriptions": {
+        "en": "capital city of Hubei Province, China",
+        "es": "ciudad en China, capital de Hubei",
+        "fr": "capitale de la province du Hubei, en Chine",
+        "de": "Hauptstadt der chinesischen Provinz Hubei",
+        "zh": "中国湖北省省会、副省级市",
+        "ja": "中国湖北省の省都",
+        "ar": "مدينة في وسط الصين",
+        "ko": "중화인민공화국 후베이성의 도시"
+      }
+    },
+    "Q148": {
+      "id": "Q148",
+      "fetchedAt": "2026-11-13T11:01:51Z",
+      "labels": {
+        "en": "People's Republic of China",
+        "fr": "République populaire de Chine",
+        "de": "Volksrepublik China",
+        "es": "República Popular China",
+        "ar": "الصين",
+        "ja": "中華人民共和国",
+        "ko": "중화인민공화국",
+        "zh": "中华人民共和国"
+      },
+      "descriptions": {
+        "en": "country in East Asia",
+        "fr": "pays d'Asie de l'Est",
+        "de": "Staat in Ostasien",
+        "es": "país de Asia Oriental",
+        "ja": "東アジアの国",
+        "zh": "东亚国家",
+        "ar": "دولة في شرق آسيا",
+        "ko": "동아시아의 국가"
+      }
+    },
+    "Q1711196": {
+      "id": "Q1711196",
+      "fetchedAt": "2026-11-13T11:12:29Z",
+      "labels": {
+        "de": "Universität für Wissenschaft und Technik Zentralchina",
+        "en": "Huazhong University of Science and Technology",
+        "ja": "華中科技大学",
+        "zh": "华中科技大学",
+        "ar": "جامعة هواتشونغ للعلوم والتكنولوجيا",
+        "es": "Universidad de Ciencia y Tecnología de Huazhong",
+        "fr": "université de science et de technologie de Huazhong"
+      },
+      "descriptions": {
+        "de": "Universität in Wuhan",
+        "fr": "université chinoise",
+        "ar": "جامعة في الصين",
+        "zh": "位于武汉的一所综合性大学",
+        "en": "Chinese university",
+        "ja": "中国の国立大学"
+      }
+    },
+    "Q18814623": {
+      "id": "Q18814623",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "autobiographer",
+        "fr": "autobiographe",
+        "es": "autobiógrafo",
+        "de": "Autobiograf",
+        "zh": "自传作者",
+        "ja": "自伝作家",
+        "ar": "كاتب سير ذاتية",
+        "ko": "자서전 작가"
+      },
+      "descriptions": {
+        "en": "person who wrote their autobiography",
+        "es": "persona que ha escrito su autobiografía",
+        "de": "Verfasser einer Autobiografie",
+        "zh": "写作自传的人",
+        "ja": "自伝を書く者",
+        "ko": "자서전을 집필하는 사람",
+        "fr": "personne qui écrit ou a écrit son autobiographie",
+        "ar": "الشخص الذي يكتب سيرته الذاتية"
+      }
+    },
+    "Q30239": {
+      "id": "Q30239",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الصينية",
+        "es": "Wikipedia en chino",
+        "fr": "Wikipédia en chinois",
+        "ja": "中国語版ウィキペディア",
+        "ko": "중국어 위키백과",
+        "de": "chinesischsprachige Wikipedia",
+        "zh": "中文維基百科",
+        "en": "Chinese Wikipedia"
+      },
+      "descriptions": {
+        "en": "Chinese-language edition of Wikipedia",
+        "es": "edición en chino de la Wikipedia",
+        "zh": "維基百科的中文版本",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in chinesischer Sprache",
+        "ko": "위키백과의 중국어판",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الصينية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの中国語版"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q52454": {
+      "id": "Q52454",
+      "fetchedAt": "2026-11-13T11:12:12Z",
+      "labels": {
+        "en": "International Tennis Hall of Fame",
+        "de": "International Tennis Hall of Fame",
+        "es": "Salón Internacional de la Fama del tenis",
+        "fr": "International Tennis Hall of Fame",
+        "ja": "国際テニス殿堂",
+        "ko": "국제 테니스 명예의 전당",
+        "zh": "国际网球名人堂",
+        "ar": "قاعة مشاهير كرة المضرب الدولية"
+      },
+      "descriptions": {
+        "de": "Tennismuseum in Newport im US-Bundesstaat Rhode Island",
+        "es": "museo del tenis, que se encuentra en el Newport Casino en Newport, Estados Unidos",
+        "en": "tennis museum and venue in Newport, USA",
+        "fr": "musée sportif à Newport, aux États-Unis"
+      }
+    },
+    "Q673841": {
+      "id": "Q673841",
+      "fetchedAt": "2026-11-13T11:12:29Z",
+      "labels": {
+        "en": "Cheung Kong Graduate School of Business",
+        "ja": "長江商学院",
+        "zh": "长江商学院",
+        "fr": "Cheung Kong Graduate School of Business"
+      },
+      "descriptions": {
+        "en": "Private graduate school of business in Beijing, China",
+        "zh": "中国北京民办商学院"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Li Na (China) (24364518991).jpg",
+    "fetchedAt": "2026-11-13T11:12:39Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Na_(China)_(24364518991).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Li_Na_%28China%29_%2824364518991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Li_Na_%28China%29_%2824364518991%29.jpg/960px-Li_Na_%28China%29_%2824364518991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1400,
+    "height": 1800,
+    "mediaTimestamp": "2022-04-09T12:27:41Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tourism Victoria from Australia",
+    "credit": "Li Na (China)",
+    "description": "Li Na (China), Australian Open Players' Party",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/41360c994199c66057ec3f7a.jpg",
+    "cachedImageBytes": 170867,
+    "cachedImageSha256": "6086ccbb63e082ef062c980ed3ed5d14b506ff728cc79cada4c650869438d843"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 4,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

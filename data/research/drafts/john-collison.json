@@ -1,0 +1,1094 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "john-collison",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/john-collison.json",
+    "sha256": "f110bccab0c599a8a588aca2ba42389eba87b97c02b2f419368ed489cfc79324",
+    "capturedAt": "2026-11-13T11:25:27Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+      "https://en.wikipedia.org/wiki/John_Collison",
+      "https://www.wikidata.org/wiki/Q16233063"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q16233063",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "John Collison",
+    "sourceIdentity": {
+      "requestedName": "John Collison",
+      "requestedTitle": "John Collison",
+      "resolvedTitle": "John Collison",
+      "wikidataId": "Q16233063",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-5d621c923c9d5be102b9",
+      "property": "P106",
+      "claimId": "Q16233063$5922C7B8-89EC-4F7F-9AE1-21A6BE1853A5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 565,
+                "id": "Q565"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q565"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q565"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-24d0e4f68fcee37cd77d",
+      "property": "P27",
+      "claimId": "Q16233063$D52FA476-2620-4DB1-B421-3E66955903C8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 27,
+          "id": "Q27"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-3e84981d35c92ca18149",
+      "property": "P569",
+      "claimId": "Q16233063$9B05C9DB-626F-42E1-B581-00AF07D90F72",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1990-08-06T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1990-08-06"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1990-08-06T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1990-08-06",
+        "earliest": "1990-08-06",
+        "latest": "1990-08-06",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-4ed95a8fe68c4dbe3584",
+      "property": "P19",
+      "claimId": "Q16233063$F7E4D93F-0C47-488E-B6BE-EAE54BC24C7E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 133315,
+          "id": "Q133315"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-abd42ffbeeac593fb36d",
+      "property": "P69",
+      "claimId": "Q16233063$D1198237-F1B4-4746-A6E1-A090A760FA25",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 13371,
+          "id": "Q13371"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2009-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2009"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 213660,
+                "id": "Q213660"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-12-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-12-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q213660"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q213660"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2009-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2009",
+          "earliest": "2009-01-01",
+          "latest": "2009-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2010-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c0ae5ff3549eff1a6d8a",
+      "property": "P856",
+      "claimId": "Q16233063$99896a13-4a0a-3e04-b8e8-2b2a5ad94181",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://www.johncollison.ie/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-790e24a5c80d47c83218",
+      "factId": "fact-abd42ffbeeac593fb36d",
+      "claimId": "Q16233063$D1198237-F1B4-4746-A6E1-A090A760FA25",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "2010",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q213660"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-df77d9524dc424f55348",
+      "factId": "fact-abd42ffbeeac593fb36d",
+      "claimId": "Q16233063$D1198237-F1B4-4746-A6E1-A090A760FA25",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "2009",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q213660"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2ed1a96185536c8bef0b",
+      "factId": "fact-3e84981d35c92ca18149",
+      "claimId": "Q16233063$9B05C9DB-626F-42E1-B581-00AF07D90F72",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1990-08-06",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384331524",
+        "https://en.wikipedia.org/wiki/John_Collison",
+        "https://www.wikidata.org/wiki/Q16233063",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "约翰·科利森",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "国籍",
+          "value": "愛爾蘭共和國",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "来源所记出生日期",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "出生地",
+          "value": "利默里克",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "就读机构",
+          "value": "哈佛大學",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "官方网站",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 哈佛大學",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 哈佛大學",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1990-08-06",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "John Collison",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "Citizenship",
+          "value": "Ireland",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "Source-reported birth date",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "Place of birth",
+          "value": "Limerick",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "Educational institution",
+          "value": "Harvard University",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "Official website",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Harvard University",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Harvard University",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1990-08-06",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "John Collison",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "Nationalité",
+          "value": "Irlande",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "Lieu de naissance",
+          "value": "Limerick",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "Établissement fréquenté",
+          "value": "Université Harvard",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "Site officiel",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Université Harvard",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: Université Harvard",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1990-08-06",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "John Collison",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "الجنسية",
+          "value": "أيرلندا",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "مكان الميلاد",
+          "value": "ليمريك",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة هارفارد",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "الموقع الرسمي",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: جامعة هارفارد",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: جامعة هارفارد",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1990-08-06",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "John Collison",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "Staatsangehörigkeit",
+          "value": "Irland",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "Geburtsort",
+          "value": "Limerick",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "Bildungseinrichtung",
+          "value": "Harvard University",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "Offizielle Website",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Harvard University",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Harvard University",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1990-08-06",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ジョン・コリソン",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "国籍",
+          "value": "アイルランド",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "出典に記載された生年月日",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "出生地",
+          "value": "リムリック",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "在籍した教育機関",
+          "value": "ハーバード大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "公式サイト",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ハーバード大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ハーバード大学",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1990-08-06",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "John Collison",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "Nacionalidad",
+          "value": "Irlanda",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "Lugar de nacimiento",
+          "value": "Limerick",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "Institución educativa",
+          "value": "Universidad Harvard",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "Sitio web oficial",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Universidad Harvard",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Universidad Harvard",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1990-08-06",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "John Collison",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-5d621c923c9d5be102b9",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-24d0e4f68fcee37cd77d",
+          "label": "국적",
+          "value": "아일랜드",
+          "notes": []
+        },
+        {
+          "id": "fact-3e84981d35c92ca18149",
+          "label": "출처에 기재된 출생일",
+          "value": "1990-08-06",
+          "notes": []
+        },
+        {
+          "id": "fact-4ed95a8fe68c4dbe3584",
+          "label": "출생지",
+          "value": "리머릭",
+          "notes": []
+        },
+        {
+          "id": "fact-abd42ffbeeac593fb36d",
+          "label": "교육 기관",
+          "value": "하버드 대학교",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-c0ae5ff3549eff1a6d8a",
+          "label": "공식 웹사이트",
+          "value": "http://www.johncollison.ie/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-790e24a5c80d47c83218",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2010",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 하버드 대학교",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-df77d9524dc424f55348",
+          "factId": "fact-abd42ffbeeac593fb36d",
+          "date": "2009",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: 하버드 대학교",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-2ed1a96185536c8bef0b",
+          "factId": "fact-3e84981d35c92ca18149",
+          "date": "1990-08-06",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1990-08-06",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "John Collison",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "John Collison",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 3,
+    "professionalEventCount": 2,
+    "factCount": 6,
+    "factsWithoutExternalReference": 6,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

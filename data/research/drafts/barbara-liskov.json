@@ -1,0 +1,4708 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "barbara-liskov",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/barbara-liskov.json",
+    "sha256": "a912df03352db75740a4858f5bb54998e76ad4d53f5cfcb9287e61d1a2919d5b",
+    "capturedAt": "2026-11-13T11:25:21Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+      "https://en.wikipedia.org/wiki/Barbara_Liskov",
+      "https://www.wikidata.org/wiki/Q16080922"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q16080922",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Barbara Liskov",
+    "sourceIdentity": {
+      "requestedName": "Barbara Liskov",
+      "requestedTitle": "Barbara Liskov",
+      "resolvedTitle": "Barbara Liskov",
+      "wikidataId": "Q16080922",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-2de452a25f5697a46881",
+      "property": "P106",
+      "claimId": "Q16080922$1D3F6C7A-9BC3-4FAC-8B63-DE486EAD5237",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 81096,
+          "id": "Q81096"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-06-14T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-06-14"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-75c5a1714dd8553edf5a",
+      "property": "P106",
+      "claimId": "Q16080922$BCBF2609-09F1-465A-90A7-2FF2D9A8631C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82594,
+          "id": "Q82594"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 11920,
+                "id": "Q11920"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q11920",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q11920",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-bf67456e2642add52244",
+      "property": "P106",
+      "claimId": "Q16080922$48041D33-E497-4E99-BF55-C8A1CB93E3B1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1622272,
+          "id": "Q1622272"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-91cd54a1ea36ebc3fd79",
+      "property": "P27",
+      "claimId": "Q16080922$C7721DD3-51D8-40E6-A1CE-103E5F53916C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8c17d4c8ae8c9db19335",
+      "property": "P569",
+      "claimId": "Q16080922$21551E83-A620-425B-BC9E-3BD7D9D54AB1",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1939-11-07T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1939-11-07"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 8449,
+                "id": "Q8449"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1939-11-07T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1939-11-07",
+        "earliest": "1939-11-07",
+        "latest": "1939-11-07",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-27452f17b85821fc0cfa",
+      "property": "P19",
+      "claimId": "Q16080922$4d2630ac-41f1-daab-5c0c-efaf8d2f7bb2",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 65,
+          "id": "Q65"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4e9b6b1dd4b06f152010",
+      "property": "P69",
+      "claimId": "Q16080922$c7b3bcb3-4681-b1f6-35a5-eef19fdf171e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168756,
+          "id": "Q168756"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-61b97810fab6d76638c7",
+      "property": "P69",
+      "claimId": "Q16080922$86A901F0-740E-424A-85D1-049E2263E348",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 41506,
+          "id": "Q41506"
+        }
+      },
+      "qualifiers": {
+        "P512": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 752297,
+              "id": "Q752297"
+            }
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1968-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1968"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://www.pmg.csail.mit.edu/~liskov/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-12-05T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-12-05"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://www.pmg.csail.mit.edu/~liskov/",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "http://www.pmg.csail.mit.edu/~liskov/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+1968-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1968",
+          "earliest": "1968-01-01",
+          "latest": "1968-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-72d9d6d8f98e9af3f23c",
+      "property": "P108",
+      "claimId": "Q16080922$7D471F67-057F-4746-85C3-1D40496638B3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49108,
+          "id": "Q49108"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0787d561ddbb94c0155c",
+      "property": "P166",
+      "claimId": "Q16080922$c57faf86-47af-b2ce-0de7-58ca5804724c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7980447,
+          "id": "Q7980447"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2015-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2015"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2015-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2015",
+          "earliest": "2015-01-01",
+          "latest": "2015-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0a1241b81110e79a0550",
+      "property": "P166",
+      "claimId": "Q16080922$04ab06e0-446c-cab7-ebd8-443f767f973a",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4363133,
+          "id": "Q4363133"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2018-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2018"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.computer.org/profiles/barbara-liskov"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-07-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-07-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.computer.org/profiles/barbara-liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.computer.org/profiles/barbara-liskov"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2018-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2018",
+          "earliest": "2018-01-01",
+          "latest": "2018-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-0efa2d875486d203b32d",
+      "property": "P166",
+      "claimId": "Q16080922$2FC49AB3-67E6-4560-8706-5F021223F555",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 185667,
+          "id": "Q185667"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://amturing.acm.org/award_winners/liskov_1108679.cfm",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2bbb1a1202fd5f2277ad",
+      "property": "P166",
+      "claimId": "Q16080922$4a842f03-419c-5dbb-6f72-28c5814f3529",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 10354962,
+          "id": "Q10354962"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2013-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2013"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2013-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2013",
+          "earliest": "2013-01-01",
+          "latest": "2013-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2c99fe2db78ead35241f",
+      "property": "P166",
+      "claimId": "Q16080922$cb9f4fdb-4150-5c8c-dcdb-908abf02a949",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 56876092,
+          "id": "Q56876092"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-559acc01a990bbf57b07",
+      "property": "P166",
+      "claimId": "Q16080922$41340908-5377-40DE-B02C-83C7E444B99C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 18748039,
+          "id": "Q18748039"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://awards.acm.org/fellows/award-recipients"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-06-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-06-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://awards.acm.org/fellows/award-recipients"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7672a7d32d1dd5d480ba",
+      "property": "P166",
+      "claimId": "Q16080922$e6a023ac-4031-a2bf-21b4-832a590941de",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 94968507,
+          "id": "Q94968507"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.ncwit.org/ncwit-pioneer-tech-award"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-05-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-05-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.ncwit.org/ncwit-pioneer-tech-award",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.ncwit.org/ncwit-pioneer-tech-award"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-88d5d9c91b7e1f04a637",
+      "property": "P166",
+      "claimId": "Q16080922$4EF15835-2A4A-49B7-80D2-384AF8161E15",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 727274,
+          "id": "Q727274"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2004-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a2ea5fdedf1add8de59d",
+      "property": "P166",
+      "claimId": "Q16080922$85E704EC-9623-4B1C-B3A8-7E2A19B0470A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30560556,
+          "id": "Q30560556"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.sigplan.org/Awards/Achievement/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-02-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-02-23"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Programming Languages Achievement Award",
+                "language": "en"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.sigplan.org/Awards/Achievement/",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.sigplan.org/Awards/Achievement/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-adbf7dc5d5f1a47f1abb",
+      "property": "P166",
+      "claimId": "Q16080922$beb03c92-44e4-8a27-a455-2fe5b3640595",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 50616780,
+          "id": "Q50616780"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-09-28T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012-09-28"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.upc.edu/ca/la-upc/honoris-causa"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.upc.edu/ca/la-upc/honoris-causa",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.upc.edu/ca/la-upc/honoris-causa"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2012-09-28T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012-09-28",
+          "earliest": "2012-09-28",
+          "latest": "2012-09-28",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e6ef249819674a1339ed",
+      "property": "P166",
+      "claimId": "Q16080922$feed7c5b-41fb-7a44-d894-a9ad56c0c128",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 62505651,
+          "id": "Q62505651"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://inf.ethz.ch/de/departement/auszeichnungen-und-rankings/ehrendoktoren.html"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-11-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-11-10"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://inf.ethz.ch/de/departement/auszeichnungen-und-rankings/ehrendoktoren.html",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://inf.ethz.ch/de/departement/auszeichnungen-und-rankings/ehrendoktoren.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ffa5db8dd87a02eaadbc",
+      "property": "P166",
+      "claimId": "Q16080922$A2615BC1-694A-426E-8074-11FDA184A4EE",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1366018,
+          "id": "Q1366018"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.invent.org/inductees/barbara-liskov"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.invent.org/inductees/barbara-liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://www.invent.org/inductees/barbara-liskov"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a0ae196ee2839bb930c2",
+      "property": "P101",
+      "claimId": "Q16080922$4f42c4bd-42d0-f3ae-c20b-c92edfdf6ec0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 21198,
+          "id": "Q21198"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b435ac77a5971c2820dd",
+      "property": "P800",
+      "claimId": "Q16080922$0ab25e64-46c4-3ee4-4ecb-367da9bed4ff",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 180634,
+          "id": "Q180634"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4ec0ee785e05f8540a6c",
+      "property": "P463",
+      "claimId": "Q16080922$9791D83E-9646-4D39-801D-7BCF4545AE34",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 270794,
+          "id": "Q270794"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2012-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2012"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2012-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2012",
+          "earliest": "2012-01-01",
+          "latest": "2012-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-8328b7f73d8cff4368f6",
+      "property": "P463",
+      "claimId": "Q16080922$2896CDFA-EF55-46DF-8B2C-BF749F8DCFAE",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1493021,
+          "id": "Q1493021"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1988-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1988"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1988-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-95584f1e97f6c231db99",
+      "property": "P463",
+      "claimId": "Q16080922$1D5543AD-308B-4B2B-84EA-9F5BB642C3BD",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 127992,
+          "id": "Q127992"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://awards.acm.org/fellows/award-recipients"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-06-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-06-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [
+        "https://awards.acm.org/fellows/award-recipients"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-ff3efa09c2ea495a6119",
+      "property": "P463",
+      "claimId": "Q16080922$8365DD51-6EC4-4D60-BF72-C7A9EF236F94",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 463303,
+          "id": "Q463303"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-63d51b0c5d6ef56f11ad",
+      "property": "P512",
+      "claimId": "Q16080922$47FBF24E-97D2-4BBE-847E-1BAF6F70C7D1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 849697,
+          "id": "Q849697"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e83e2536fea194a20668",
+      "property": "P856",
+      "claimId": "Q16080922$04E9C70C-01B8-4FC6-8D85-980B5C00D740",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://www.pmg.csail.mit.edu/~liskov/"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-9ae5970da16f032b160d",
+      "factId": "fact-0a1241b81110e79a0550",
+      "claimId": "Q16080922$04ab06e0-446c-cab7-ebd8-443f767f973a",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2018",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.computer.org/profiles/barbara-liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-9260accb6615b1472e3b",
+      "factId": "fact-0787d561ddbb94c0155c",
+      "claimId": "Q16080922$c57faf86-47af-b2ce-0de7-58ca5804724c",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2015",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ef898aa153b8f4a36948",
+      "factId": "fact-2bbb1a1202fd5f2277ad",
+      "claimId": "Q16080922$4a842f03-419c-5dbb-6f72-28c5814f3529",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2013",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c3941df8f61e5aa55a8c",
+      "factId": "fact-adbf7dc5d5f1a47f1abb",
+      "claimId": "Q16080922$beb03c92-44e4-8a27-a455-2fe5b3640595",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012-09-28",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.upc.edu/ca/la-upc/honoris-causa",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c7837276579c02449da4",
+      "factId": "fact-ffa5db8dd87a02eaadbc",
+      "claimId": "Q16080922$A2615BC1-694A-426E-8074-11FDA184A4EE",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2012",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.invent.org/inductees/barbara-liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-1d378a1cbf7df9a6c570",
+      "factId": "fact-a2ea5fdedf1add8de59d",
+      "claimId": "Q16080922$85E704EC-9623-4B1C-B3A8-7E2A19B0470A",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.sigplan.org/Awards/Achievement/",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2b91dd724865514320a4",
+      "factId": "fact-0efa2d875486d203b32d",
+      "claimId": "Q16080922$2FC49AB3-67E6-4560-8706-5F021223F555",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://amturing.acm.org/award_winners/liskov_1108679.cfm",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-ea45b67de50e6a8cb6e9",
+      "factId": "fact-88d5d9c91b7e1f04a637",
+      "claimId": "Q16080922$4EF15835-2A4A-49B7-80D2-384AF8161E15",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2004",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.ieee.org/about/awards/bios/vonneumann-recipients.html#2019%20-%20Eva%20Tardos",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-497a88b8fc1cf3219614",
+      "factId": "fact-559acc01a990bbf57b07",
+      "claimId": "Q16080922$41340908-5377-40DE-B02C-83C7E444B99C",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1996",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://awards.acm.org/fellows/award-recipients",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f7506c9059b437577fb7",
+      "factId": "fact-2c99fe2db78ead35241f",
+      "claimId": "Q16080922$cb9f4fdb-4150-5c8c-dcdb-908abf02a949",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1996",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-1032ebed8b3ac8106a1f",
+      "factId": "fact-61b97810fab6d76638c7",
+      "claimId": "Q16080922$86A901F0-740E-424A-85D1-049E2263E348",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1968",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "http://www.pmg.csail.mit.edu/~liskov/",
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e6e099866336431690cd",
+      "factId": "fact-8c17d4c8ae8c9db19335",
+      "claimId": "Q16080922$21551E83-A620-425B-BC9E-3BD7D9D54AB1",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1939-11-07",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385192200",
+        "https://en.wikipedia.org/wiki/Barbara_Liskov",
+        "https://www.wikidata.org/wiki/Q16080922",
+        "https://www.wikidata.org/wiki/Q8449"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "芭芭拉·利斯科夫",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "职业",
+          "value": "工程师",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "职业",
+          "value": "電腦科學家",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "职业",
+          "value": "大學教師",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "来源所记出生日期",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "出生地",
+          "value": "洛杉矶",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "就读机构",
+          "value": "加州大學柏克萊分校",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "就读机构",
+          "value": "史丹佛大學",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "雇主",
+          "value": "麻省理工學院",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "奖项",
+          "value": "魏茨曼女性與科學獎",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "奖项",
+          "value": "計算機先驅獎",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "奖项",
+          "value": "图灵奖",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "奖项",
+          "value": "哈羅德·彭德獎",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "奖项",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "奖项",
+          "value": "ACM會士",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "奖项",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "奖项",
+          "value": "约翰·冯诺依曼奖",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "奖项",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "奖项",
+          "value": "honorary doctor of the University Polytechnic of Catalonia",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "奖项",
+          "value": "honorary doctor of ETH Zürich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "奖项",
+          "value": "美國國家發明家名人堂",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "研究领域",
+          "value": "計算機科學",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "代表作品",
+          "value": "分布式计算",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "组织成员",
+          "value": "美国国家科学院",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "组织成员",
+          "value": "美国国家工程院",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "组织成员",
+          "value": "计算机协会",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "组织成员",
+          "value": "美国文理科学院",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "学位",
+          "value": "博士",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "官方网站",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 計算機先驅獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 魏茨曼女性與科學獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 哈羅德·彭德獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: honorary doctor of the University Polytechnic of Catalonia",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 美國國家發明家名人堂",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Programming Languages Achievement Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 图灵奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 约翰·冯诺依曼奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: ACM會士",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Society of Women Engineers Achievement Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 史丹佛大學",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1939-11-07",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Barbara Liskov",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "Occupation",
+          "value": "engineer",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "Occupation",
+          "value": "computer scientist",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "Occupation",
+          "value": "university teacher",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "Source-reported birth date",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "Place of birth",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "Educational institution",
+          "value": "University of California, Berkeley",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "Educational institution",
+          "value": "Stanford University",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "Employer",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "Award",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "Award",
+          "value": "Computer Pioneer Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "Award",
+          "value": "Turing Award",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "Award",
+          "value": "Harold Pender Award",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "Award",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "Award",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "Award",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "Award",
+          "value": "IEEE John von Neumann Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "Award",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "Award",
+          "value": "honorary doctor of the University Polytechnic of Catalonia",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "Award",
+          "value": "honorary doctor of ETH Zürich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "Award",
+          "value": "National Inventors Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "Field of work",
+          "value": "computer science",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "Notable work",
+          "value": "distributed computing",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "Organization membership",
+          "value": "National Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "Organization membership",
+          "value": "National Academy of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "Organization membership",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "Organization membership",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "Academic degree",
+          "value": "doctorate",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "Official website",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Computer Pioneer Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Weizmann Women & Science Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Harold Pender Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: honorary doctor of the University Polytechnic of Catalonia",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: National Inventors Hall of Fame",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Programming Languages Achievement Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Turing Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: IEEE John von Neumann Medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: ACM Fellow",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Society of Women Engineers Achievement Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Stanford University",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1939-11-07",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Barbara Liskov",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "Profession",
+          "value": "ingénieur ou ingénieure",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "Profession",
+          "value": "informaticien ou informaticienne",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "Profession",
+          "value": "professeur d'université",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "Lieu de naissance",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "Établissement fréquenté",
+          "value": "Université de Californie à Berkeley",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "Établissement fréquenté",
+          "value": "Université Stanford",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "Employeur",
+          "value": "Institut de technologie du Massachusetts",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "Distinction",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "Distinction",
+          "value": "Computer Pioneer Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "Distinction",
+          "value": "prix Turing",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "Distinction",
+          "value": "prix Harold-Pender",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "Distinction",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "Distinction",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "Distinction",
+          "value": "prix NCWWIT des pionnières de la technologie",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "Distinction",
+          "value": "médaille John von Neumann",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "Distinction",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "Distinction",
+          "value": "docteur honoris causa de l'université polytechnique de Catalogne",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "Distinction",
+          "value": "docteur honoris causa de l'École polytechnique fédérale de Zurich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "Distinction",
+          "value": "National Inventors Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "Domaine de travail",
+          "value": "informatique",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "Œuvre notable",
+          "value": "calcul distribué",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie américaine des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie nationale d'ingénierie des États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "Organisation dont la personne est membre",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie américaine des arts et des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "Diplôme universitaire",
+          "value": "doctorat",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "Site officiel",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Computer Pioneer Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Weizmann Women & Science Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Harold-Pender",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: docteur honoris causa de l'université polytechnique de Catalogne",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: National Inventors Hall of Fame",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Programming Languages Achievement Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Turing",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille John von Neumann",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: ACM Fellow",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Society of Women Engineers Achievement Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Université Stanford",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1939-11-07",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "باربارا لسكوف",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "المهنة",
+          "value": "مهندس",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "المهنة",
+          "value": "عالم حاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "المهنة",
+          "value": "مُدرِّس جامعي",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "مكان الميلاد",
+          "value": "لوس أنجلوس",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة كاليفورنيا، بركلي",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ستانفورد",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "جهة العمل",
+          "value": "معهد ماساتشوستس للتقانة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "الجائزة",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "الجائزة",
+          "value": "جائزة رواد الحاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "الجائزة",
+          "value": "جائزة تورنغ",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "الجائزة",
+          "value": "جائزة هارولد بندر",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "الجائزة",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "الجائزة",
+          "value": "زمالة جمعية آلات الحوسبة",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "الجائزة",
+          "value": "جائزة التقنية للمركز الوطني للمرأة وتكنولوجيا المعلومات",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "الجائزة",
+          "value": "ميدالية جون فون نيومان من جمعية مهندسي الكهرباء والإلكترونيات",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "الجائزة",
+          "value": "جائزة الإنجاز في مجال لغات البرمجة",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "الجائزة",
+          "value": "الدكتوراة الفخرية من الجامعة متعددة التقنيات بقطلونية",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "الجائزة",
+          "value": "الدكتوراه الفخرية من المعهد الفدرالي السويسري للتكنولوجيا في زيورخ",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "الجائزة",
+          "value": "القاعة الوطنية للمخترعين المشاهير",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "مجال العمل",
+          "value": "علم الحاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "عمل بارز",
+          "value": "حوسبة موزعة",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الوطنية للعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الوطنية للهندسة",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "عضوية منظمة",
+          "value": "جمعية آلات الحوسبة",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الأمريكية للفنون والعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "الدرجة الأكاديمية",
+          "value": "دكتوراه",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "الموقع الرسمي",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة رواد الحاسوب",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Weizmann Women & Science Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة هارولد بندر",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: الدكتوراة الفخرية من الجامعة متعددة التقنيات بقطلونية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: القاعة الوطنية للمخترعين المشاهير",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الإنجاز في مجال لغات البرمجة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة تورنغ",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية جون فون نيومان من جمعية مهندسي الكهرباء والإلكترونيات",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: زمالة جمعية آلات الحوسبة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Society of Women Engineers Achievement Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: جامعة ستانفورد",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1939-11-07",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Barbara Liskov",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "Beruf",
+          "value": "Ingenieur",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "Beruf",
+          "value": "Informatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "Beruf",
+          "value": "Hochschullehrer",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "Geburtsort",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "Bildungseinrichtung",
+          "value": "University of California, Berkeley",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "Bildungseinrichtung",
+          "value": "Stanford University",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "Arbeitgeber",
+          "value": "Massachusetts Institute of Technology",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "Auszeichnung",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "Auszeichnung",
+          "value": "Computer Pioneer Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "Auszeichnung",
+          "value": "Turing Award",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "Auszeichnung",
+          "value": "Harold Pender Award",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "Auszeichnung",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "Auszeichnung",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "Auszeichnung",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "Auszeichnung",
+          "value": "John-von-Neumann-Medaille",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "Auszeichnung",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "Auszeichnung",
+          "value": "honorary doctor of the University Polytechnic of Catalonia",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "Auszeichnung",
+          "value": "Ehrendoktor der Eidgenössischen Technischen Hochschule Zürich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "Auszeichnung",
+          "value": "National Inventors Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "Arbeitsgebiet",
+          "value": "Informatik",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "Bekanntes Werk",
+          "value": "Verteiltes Rechnen",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "Mitgliedschaft",
+          "value": "National Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "Mitgliedschaft",
+          "value": "National Academy of Engineering",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "Mitgliedschaft",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "Mitgliedschaft",
+          "value": "American Academy of Arts and Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "Akademischer Grad",
+          "value": "Doktorgrad",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "Offizielle Website",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Computer Pioneer Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Weizmann Women & Science Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Harold Pender Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: honorary doctor of the University Polytechnic of Catalonia",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: National Inventors Hall of Fame",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Programming Languages Achievement Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Turing Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: John-von-Neumann-Medaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: ACM Fellow",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Society of Women Engineers Achievement Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Stanford University",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1939-11-07",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "バーバラ・リスコフ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "職業",
+          "value": "エンジニア",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "職業",
+          "value": "計算機科学者",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "職業",
+          "value": "大学教員",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "出典に記載された生年月日",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "出生地",
+          "value": "ロサンゼルス",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "在籍した教育機関",
+          "value": "カリフォルニア大学バークレー校",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "在籍した教育機関",
+          "value": "スタンフォード大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "雇用主",
+          "value": "マサチューセッツ工科大学",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "受賞",
+          "value": "ワイツマン女性科学賞",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "受賞",
+          "value": "コンピュータパイオニア賞",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "受賞",
+          "value": "チューリング賞",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "受賞",
+          "value": "ハロルド・ペンダー賞",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "受賞",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "受賞",
+          "value": "ACMフェロー",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "受賞",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "受賞",
+          "value": "フォン・ノイマンメダル",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "受賞",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "受賞",
+          "value": "honorary doctor of the University Polytechnic of Catalonia",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "受賞",
+          "value": "チューリッヒ工科大学名誉博士",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "受賞",
+          "value": "全米発明家殿堂",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "活動分野",
+          "value": "計算機科学",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "代表的な作品",
+          "value": "分散コンピューティング",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "団体への所属",
+          "value": "米国科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "団体への所属",
+          "value": "全米技術アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "団体への所属",
+          "value": "Association for Computing Machinery",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "団体への所属",
+          "value": "アメリカ芸術科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "学位",
+          "value": "博士号",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "公式サイト",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: コンピュータパイオニア賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ワイツマン女性科学賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ハロルド・ペンダー賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: honorary doctor of the University Polytechnic of Catalonia",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 全米発明家殿堂",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Programming Languages Achievement Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: チューリング賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: フォン・ノイマンメダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ACMフェロー",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Society of Women Engineers Achievement Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: スタンフォード大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1939-11-07",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Barbara Liskov",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "Ocupación",
+          "value": "ingeniero",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "Ocupación",
+          "value": "informático teórico",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "Ocupación",
+          "value": "profesor universitario",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "Lugar de nacimiento",
+          "value": "Los Ángeles",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "Institución educativa",
+          "value": "Universidad de California en Berkeley",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "Institución educativa",
+          "value": "Universidad Stanford",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "Empleador",
+          "value": "Instituto Tecnológico de Massachusetts",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "Distinción",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "Distinción",
+          "value": "Computer Pioneer Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "Distinción",
+          "value": "Premio Turing",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "Distinción",
+          "value": "Premio Harold Pender",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "Distinción",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "Distinción",
+          "value": "ACM Fellow",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "Distinción",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "Distinción",
+          "value": "Medalla John von Neumann",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "Distinción",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "Distinción",
+          "value": "doctor honoris causa por la Universidad Politécnica de Cataluña",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "Distinción",
+          "value": "honorary doctor of ETH Zürich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "Distinción",
+          "value": "Salón Nacional de la Fama de los Inventores",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "Campo de trabajo",
+          "value": "ciencias de la computación",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "Obra destacada",
+          "value": "computación distribuida",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Nacional de Ciencias de los Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Nacional de Ingeniería",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "Pertenencia a una organización",
+          "value": "Asociación de Maquinaria Computacional",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Estadounidense de las Artes y las Ciencias",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "Grado académico",
+          "value": "doctorado",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "Sitio web oficial",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Computer Pioneer Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Weizmann Women & Science Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Harold Pender",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: doctor honoris causa por la Universidad Politécnica de Cataluña",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Salón Nacional de la Fama de los Inventores",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Programming Languages Achievement Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Turing",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Medalla John von Neumann",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: ACM Fellow",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Society of Women Engineers Achievement Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Universidad Stanford",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1939-11-07",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "바버라 리스코프",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-2de452a25f5697a46881",
+          "label": "직업",
+          "value": "기술자",
+          "notes": []
+        },
+        {
+          "id": "fact-75c5a1714dd8553edf5a",
+          "label": "직업",
+          "value": "컴퓨터 과학자",
+          "notes": []
+        },
+        {
+          "id": "fact-bf67456e2642add52244",
+          "label": "직업",
+          "value": "대학 교수",
+          "notes": []
+        },
+        {
+          "id": "fact-91cd54a1ea36ebc3fd79",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-8c17d4c8ae8c9db19335",
+          "label": "출처에 기재된 출생일",
+          "value": "1939-11-07",
+          "notes": []
+        },
+        {
+          "id": "fact-27452f17b85821fc0cfa",
+          "label": "출생지",
+          "value": "로스앤젤레스",
+          "notes": []
+        },
+        {
+          "id": "fact-4e9b6b1dd4b06f152010",
+          "label": "교육 기관",
+          "value": "캘리포니아 대학교 버클리",
+          "notes": []
+        },
+        {
+          "id": "fact-61b97810fab6d76638c7",
+          "label": "교육 기관",
+          "value": "스탠퍼드 대학교",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-72d9d6d8f98e9af3f23c",
+          "label": "고용 기관",
+          "value": "매사추세츠 공과대학교",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-0787d561ddbb94c0155c",
+          "label": "수상",
+          "value": "Weizmann Women & Science Award",
+          "notes": []
+        },
+        {
+          "id": "fact-0a1241b81110e79a0550",
+          "label": "수상",
+          "value": "컴퓨터 파이오니어 상",
+          "notes": []
+        },
+        {
+          "id": "fact-0efa2d875486d203b32d",
+          "label": "수상",
+          "value": "튜링상",
+          "notes": []
+        },
+        {
+          "id": "fact-2bbb1a1202fd5f2277ad",
+          "label": "수상",
+          "value": "헤럴드 펜더 상",
+          "notes": []
+        },
+        {
+          "id": "fact-2c99fe2db78ead35241f",
+          "label": "수상",
+          "value": "Society of Women Engineers Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-559acc01a990bbf57b07",
+          "label": "수상",
+          "value": "ACM 석학회원",
+          "notes": []
+        },
+        {
+          "id": "fact-7672a7d32d1dd5d480ba",
+          "label": "수상",
+          "value": "NCWIT Pioneer in Tech Award",
+          "notes": []
+        },
+        {
+          "id": "fact-88d5d9c91b7e1f04a637",
+          "label": "수상",
+          "value": "IEEE 존 폰 노이먼 메달",
+          "notes": []
+        },
+        {
+          "id": "fact-a2ea5fdedf1add8de59d",
+          "label": "수상",
+          "value": "Programming Languages Achievement Award",
+          "notes": []
+        },
+        {
+          "id": "fact-adbf7dc5d5f1a47f1abb",
+          "label": "수상",
+          "value": "honorary doctor of the University Polytechnic of Catalonia",
+          "notes": []
+        },
+        {
+          "id": "fact-e6ef249819674a1339ed",
+          "label": "수상",
+          "value": "honorary doctor of ETH Zürich",
+          "notes": []
+        },
+        {
+          "id": "fact-ffa5db8dd87a02eaadbc",
+          "label": "수상",
+          "value": "National Inventors Hall of Fame",
+          "notes": []
+        },
+        {
+          "id": "fact-a0ae196ee2839bb930c2",
+          "label": "활동 분야",
+          "value": "컴퓨터 과학",
+          "notes": []
+        },
+        {
+          "id": "fact-b435ac77a5971c2820dd",
+          "label": "주요 작품",
+          "value": "분산 컴퓨팅",
+          "notes": []
+        },
+        {
+          "id": "fact-4ec0ee785e05f8540a6c",
+          "label": "단체 회원 자격",
+          "value": "미국 과학 아카데미",
+          "notes": []
+        },
+        {
+          "id": "fact-8328b7f73d8cff4368f6",
+          "label": "단체 회원 자격",
+          "value": "미국 국립 과학 아카데미",
+          "notes": []
+        },
+        {
+          "id": "fact-95584f1e97f6c231db99",
+          "label": "단체 회원 자격",
+          "value": "ACM",
+          "notes": []
+        },
+        {
+          "id": "fact-ff3efa09c2ea495a6119",
+          "label": "단체 회원 자격",
+          "value": "미국 예술 과학 아카데미",
+          "notes": []
+        },
+        {
+          "id": "fact-63d51b0c5d6ef56f11ad",
+          "label": "학위",
+          "value": "박사",
+          "notes": []
+        },
+        {
+          "id": "fact-e83e2536fea194a20668",
+          "label": "공식 웹사이트",
+          "value": "http://www.pmg.csail.mit.edu/~liskov/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-9ae5970da16f032b160d",
+          "factId": "fact-0a1241b81110e79a0550",
+          "date": "2018",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 컴퓨터 파이오니어 상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-9260accb6615b1472e3b",
+          "factId": "fact-0787d561ddbb94c0155c",
+          "date": "2015",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Weizmann Women & Science Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ef898aa153b8f4a36948",
+          "factId": "fact-2bbb1a1202fd5f2277ad",
+          "date": "2013",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 헤럴드 펜더 상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c3941df8f61e5aa55a8c",
+          "factId": "fact-adbf7dc5d5f1a47f1abb",
+          "date": "2012-09-28",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: honorary doctor of the University Polytechnic of Catalonia",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-c7837276579c02449da4",
+          "factId": "fact-ffa5db8dd87a02eaadbc",
+          "date": "2012",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: National Inventors Hall of Fame",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-1d378a1cbf7df9a6c570",
+          "factId": "fact-a2ea5fdedf1add8de59d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Programming Languages Achievement Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-2b91dd724865514320a4",
+          "factId": "fact-0efa2d875486d203b32d",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 튜링상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-ea45b67de50e6a8cb6e9",
+          "factId": "fact-88d5d9c91b7e1f04a637",
+          "date": "2004",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: IEEE 존 폰 노이먼 메달",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-497a88b8fc1cf3219614",
+          "factId": "fact-559acc01a990bbf57b07",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: ACM 석학회원",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f7506c9059b437577fb7",
+          "factId": "fact-2c99fe2db78ead35241f",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Society of Women Engineers Achievement Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-1032ebed8b3ac8106a1f",
+          "factId": "fact-61b97810fab6d76638c7",
+          "date": "1968",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 스탠퍼드 대학교",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-e6e099866336431690cd",
+          "factId": "fact-8c17d4c8ae8c9db19335",
+          "date": "1939-11-07",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1939-11-07",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "ar",
+        "key": "Q7980447"
+      },
+      {
+        "locale": "de",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "de",
+        "key": "Q50616780"
+      },
+      {
+        "locale": "de",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "de",
+        "key": "Q94968507"
+      },
+      {
+        "locale": "es",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "es",
+        "key": "Q4363133"
+      },
+      {
+        "locale": "es",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "es",
+        "key": "Q62505651"
+      },
+      {
+        "locale": "es",
+        "key": "Q7980447"
+      },
+      {
+        "locale": "es",
+        "key": "Q94968507"
+      },
+      {
+        "locale": "fr",
+        "key": "Q18748039"
+      },
+      {
+        "locale": "fr",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "fr",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "ja",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "ja",
+        "key": "Q50616780"
+      },
+      {
+        "locale": "ja",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "ja",
+        "key": "Q94968507"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1366018"
+      },
+      {
+        "locale": "ko",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "ko",
+        "key": "Q50616780"
+      },
+      {
+        "locale": "ko",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "ko",
+        "key": "Q62505651"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7980447"
+      },
+      {
+        "locale": "ko",
+        "key": "Q94968507"
+      },
+      {
+        "locale": "zh",
+        "key": "Q30560556"
+      },
+      {
+        "locale": "zh",
+        "key": "Q50616780"
+      },
+      {
+        "locale": "zh",
+        "key": "Q56876092"
+      },
+      {
+        "locale": "zh",
+        "key": "Q62505651"
+      },
+      {
+        "locale": "zh",
+        "key": "Q94968507"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q7980447",
+        "fallbackLocale": "en",
+        "value": "Weizmann Women & Science Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q50616780",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of the University Polytechnic of Catalonia",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q94968507",
+        "fallbackLocale": "en",
+        "value": "NCWIT Pioneer in Tech Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4363133",
+        "fallbackLocale": "en",
+        "value": "Computer Pioneer Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q62505651",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of ETH Zürich",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q7980447",
+        "fallbackLocale": "en",
+        "value": "Weizmann Women & Science Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q94968507",
+        "fallbackLocale": "en",
+        "value": "NCWIT Pioneer in Tech Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q18748039",
+        "fallbackLocale": "en",
+        "value": "ACM Fellow",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q50616780",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of the University Polytechnic of Catalonia",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q94968507",
+        "fallbackLocale": "en",
+        "value": "NCWIT Pioneer in Tech Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1366018",
+        "fallbackLocale": "en",
+        "value": "National Inventors Hall of Fame",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q50616780",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of the University Polytechnic of Catalonia",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q62505651",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of ETH Zürich",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7980447",
+        "fallbackLocale": "en",
+        "value": "Weizmann Women & Science Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q94968507",
+        "fallbackLocale": "en",
+        "value": "NCWIT Pioneer in Tech Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q30560556",
+        "fallbackLocale": "en",
+        "value": "Programming Languages Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q50616780",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of the University Polytechnic of Catalonia",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q56876092",
+        "fallbackLocale": "en",
+        "value": "Society of Women Engineers Achievement Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q62505651",
+        "fallbackLocale": "en",
+        "value": "honorary doctor of ETH Zürich",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q94968507",
+        "fallbackLocale": "en",
+        "value": "NCWIT Pioneer in Tech Award",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 12,
+    "professionalEventCount": 11,
+    "factCount": 29,
+    "factsWithoutExternalReference": 17,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

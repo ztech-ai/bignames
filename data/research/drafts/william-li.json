@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "william-li",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/william-li.json",
+    "sha256": "da1e42962b068f8fbd3c3892fd3f35f00a99b771fc714959dbba4a1ea9ea04b0",
+    "capturedAt": "2026-11-13T11:26:20Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+      "https://en.wikipedia.org/wiki/William_Li",
+      "https://www.wikidata.org/wiki/Q61726993"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q61726993",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "William Li",
+    "sourceIdentity": {
+      "requestedName": "William Li",
+      "requestedTitle": "William Li (businessman)",
+      "resolvedTitle": "William Li",
+      "wikidataId": "Q61726993",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-45ff01acee8e0b1454ef",
+      "property": "P106",
+      "claimId": "Q61726993$3a7cf7f3-ed33-4c97-9ba9-7bfb1fff2340",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-e8a8413170b0b20d180d",
+      "property": "P27",
+      "claimId": "Q61726993$d637a1aa-4d47-59f3-1627-a5f767426869",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 148,
+          "id": "Q148"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b79c7ecf7c6aac2499a1",
+      "property": "P569",
+      "claimId": "Q61726993$66F26D91-C514-4C7D-BBFB-B576AF4DBC48",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1974-08-09T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1974-08-09"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1974-08-09T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1974-08-09",
+        "earliest": "1974-08-09",
+        "latest": "1974-08-09",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-75a01ddf6a0afcb9e0e4",
+      "property": "P19",
+      "claimId": "Q61726993$9DF21833-762E-463A-870C-B6D507B22322",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 40956,
+          "id": "Q40956"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a26219b37f2e0fc2caf4",
+      "property": "P69",
+      "claimId": "Q61726993$5a928b0f-dac7-4d37-b958-ff30a74e2145",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 16952,
+          "id": "Q16952"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-713e502962ee70874256",
+      "property": "P108",
+      "claimId": "Q61726993$44afee0a-400e-330c-03ad-ff39dfbcbc25",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 29921278,
+          "id": "Q29921278"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-0a098e458c5ef1196bc1",
+      "factId": "fact-b79c7ecf7c6aac2499a1",
+      "claimId": "Q61726993$66F26D91-C514-4C7D-BBFB-B576AF4DBC48",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1974-08-09",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1372463990",
+        "https://en.wikipedia.org/wiki/William_Li",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q61726993"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "李斌",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "国籍",
+          "value": "中华人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "来源所记出生日期",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "出生地",
+          "value": "安徽省",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "就读机构",
+          "value": "北京大学",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "雇主",
+          "value": "蔚来汽车",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1974-08-09",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "William Li",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "Citizenship",
+          "value": "People's Republic of China",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "Source-reported birth date",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "Place of birth",
+          "value": "Anhui",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "Educational institution",
+          "value": "Peking University",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "Employer",
+          "value": "Nio Inc.",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1974-08-09",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "William Li",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "Nationalité",
+          "value": "République populaire de Chine",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "Lieu de naissance",
+          "value": "Anhui",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "Établissement fréquenté",
+          "value": "Université de Pékin",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "Employeur",
+          "value": "Nio",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1974-08-09",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "وليام لي",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "الجنسية",
+          "value": "الصين",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "مكان الميلاد",
+          "value": "آنهوي",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة بكين",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "جهة العمل",
+          "value": "نيو",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1974-08-09",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "William Li",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "Staatsangehörigkeit",
+          "value": "Volksrepublik China",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "Geburtsort",
+          "value": "Anhui",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "Bildungseinrichtung",
+          "value": "Universität Peking",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "Arbeitgeber",
+          "value": "Nio",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1974-08-09",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ウィリアム・リー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "国籍",
+          "value": "中華人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "出典に記載された生年月日",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "出生地",
+          "value": "安徽省",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "在籍した教育機関",
+          "value": "北京大学",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "雇用主",
+          "value": "上海蔚来汽車",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1974-08-09",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "William Li",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "Nacionalidad",
+          "value": "República Popular China",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "Lugar de nacimiento",
+          "value": "Anhui",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "Institución educativa",
+          "value": "Universidad de Pekín",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "Empleador",
+          "value": "NIO",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1974-08-09",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "William Li",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-45ff01acee8e0b1454ef",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-e8a8413170b0b20d180d",
+          "label": "국적",
+          "value": "중화인민공화국",
+          "notes": []
+        },
+        {
+          "id": "fact-b79c7ecf7c6aac2499a1",
+          "label": "출처에 기재된 출생일",
+          "value": "1974-08-09",
+          "notes": []
+        },
+        {
+          "id": "fact-75a01ddf6a0afcb9e0e4",
+          "label": "출생지",
+          "value": "안후이성",
+          "notes": []
+        },
+        {
+          "id": "fact-a26219b37f2e0fc2caf4",
+          "label": "교육 기관",
+          "value": "베이징 대학",
+          "notes": []
+        },
+        {
+          "id": "fact-713e502962ee70874256",
+          "label": "고용 기관",
+          "value": "니오",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-0a098e458c5ef1196bc1",
+          "factId": "fact-b79c7ecf7c6aac2499a1",
+          "date": "1974-08-09",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1974-08-09",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "William Li",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "William Li",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 6,
+    "factsWithoutExternalReference": 6,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

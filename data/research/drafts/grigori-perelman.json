@@ -1,0 +1,4023 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "grigori-perelman",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/grigori-perelman.json",
+    "sha256": "cc8952e4767381c4306f90e7ce51bdbee3bd3ffcb480af8154cfc5576f6762cd",
+    "capturedAt": "2026-11-13T11:25:42Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+      "https://en.wikipedia.org/wiki/Grigori_Perelman",
+      "https://www.wikidata.org/wiki/Q117346"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q117346",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Grigori Perelman",
+    "sourceIdentity": {
+      "requestedName": "Grigori Perelman",
+      "requestedTitle": "Grigori Perelman",
+      "resolvedTitle": "Grigori Perelman",
+      "wikidataId": "Q117346",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-0167248e8e67ac45c445",
+      "property": "P106",
+      "claimId": "q117346$CC4EA207-35CF-45D3-8397-B13BD1B1BE04",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 170790,
+          "id": "Q170790"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-01cc396512b1672dd1ea",
+      "property": "P27",
+      "claimId": "Q117346$13F9043D-49F0-4C15-A391-0C5825B74BE5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 15180,
+          "id": "Q15180"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1991-12-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1991-12-26"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+1991-12-26T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1991-12-26",
+          "earliest": "1991-12-26",
+          "latest": "1991-12-26",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-037e9e85c101c93b9886",
+      "property": "P27",
+      "claimId": "Q117346$A4AC8A22-B14E-4BAD-8B29-CF25975296F6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 159,
+          "id": "Q159"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1991-12-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1991-12-26"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1991-12-26T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1991-12-26",
+          "earliest": "1991-12-26",
+          "latest": "1991-12-26",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-bffc3d04599084d53c06",
+      "property": "P569",
+      "claimId": "q117346$81D95365-4BAA-48DB-977A-55D584477F1F",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1966-06-13T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1966-06-13"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 547473,
+                "id": "Q547473"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-08-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-08-22"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 237227,
+                "id": "Q237227"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 107343683,
+                "id": "Q107343683"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1373513,
+                "id": "Q1373513"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-03-30T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-03-30"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q1373513",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q547473",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q1373513",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q547473",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1966-06-13T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1966-06-13",
+        "earliest": "1966-06-13",
+        "latest": "1966-06-13",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-3d0c29cee9478be14c3e",
+      "property": "P19",
+      "claimId": "Q117346$3C0BB2F6-4651-4727-981F-496F9608E7E0",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 656,
+          "id": "Q656"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2014-12-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2014-12-11"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-83b5e49b1843c483601d",
+      "property": "P69",
+      "claimId": "Q117346$D55717F8-DF10-4D7C-AB8A-EC1BDA9B7C17",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4284716,
+          "id": "Q4284716"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1982-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1982"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1987-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1987"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36279,
+                "id": "Q36279"
+              }
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://mathshistory.st-andrews.ac.uk/Biographies/Perelman/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "J.J. O'Connor and E.F. Robertson. Grigori Yakovlevich Perelman. MacTutor",
+                "language": "en"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2022-08-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2022-08-10"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 191067,
+                "id": "Q191067"
+              }
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.deutschlandfunk.de/der-weisse-rabe-100.html"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "J. Lublinski. Der weiße Rabe. Deutschlandfunk",
+                "language": "de"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-12-19T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-12-19"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://mathshistory.st-andrews.ac.uk/Biographies/Perelman/",
+        "https://www.deutschlandfunk.de/der-weisse-rabe-100.html",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q191067",
+        "https://www.wikidata.org/wiki/Q36279"
+      ],
+      "referenceUrls": [
+        "https://mathshistory.st-andrews.ac.uk/Biographies/Perelman/",
+        "https://www.deutschlandfunk.de/der-weisse-rabe-100.html",
+        "https://www.wikidata.org/wiki/Q191067",
+        "https://www.wikidata.org/wiki/Q36279"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1982-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1982",
+          "earliest": "1982-01-01",
+          "latest": "1982-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1987-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1987",
+          "earliest": "1987-01-01",
+          "latest": "1987-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a2c58447562c7d44bd2b",
+      "property": "P69",
+      "claimId": "Q117346$AB9B96C0-99C1-4EF9-AFAD-78EB0B8A7141",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4483553,
+          "id": "Q4483553"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2c7f715db1d2514f3db6",
+      "property": "P108",
+      "claimId": "Q117346$e4500a10-47ee-ae52-e49e-853755c52f4b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 946028,
+          "id": "Q946028"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        },
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-5d23165079a0f436223d",
+      "property": "P108",
+      "claimId": "Q117346$13f92235-4d42-08de-3f2e-22efd5b0c8fd",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 969850,
+          "id": "Q969850"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        },
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-aa0c338c16e1935e9306",
+      "property": "P108",
+      "claimId": "Q117346$68ad5661-4a9f-d24d-4f3c-99ad7b4a203b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 581272,
+          "id": "Q581272"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2005-12-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2005-12"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "http://trv-science.ru/2010/03/30/o-prichinax-uxoda-g-perelmana-iz-pomi/"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "О причинах ухода Г. Перельмана из ПОМИ",
+                "language": "ru"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://ria.ru/20160607/1443907993.html"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Биография Григория Перельмана. РИА Новости",
+                "language": "ru"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "http://trv-science.ru/2010/03/30/o-prichinax-uxoda-g-perelmana-iz-pomi/",
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://ria.ru/20160607/1443907993.html",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [
+        "http://trv-science.ru/2010/03/30/o-prichinax-uxoda-g-perelmana-iz-pomi/",
+        "https://ria.ru/20160607/1443907993.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+2005-12-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2005-12",
+          "earliest": "2005-12-01",
+          "latest": "2005-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bc0254ec954a75f1acf7",
+      "property": "P108",
+      "claimId": "Q117346$e4f46a3b-49ab-70dd-c192-2ecddee24b46",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168756,
+          "id": "Q168756"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            },
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-25cab78d8022d8aec4a6",
+      "property": "P166",
+      "claimId": "Q117346$1393dfeb-4728-0e0d-3817-a5a6b865f80f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 727000,
+          "id": "Q727000"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2010-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2010"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2010-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2010",
+          "earliest": "2010-01-01",
+          "latest": "2010-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-3caa127e558e5eaff04e",
+      "property": "P166",
+      "claimId": "Q117346$799fbb3a-43fc-5d3b-3b6a-6fa43235cc34",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1275243,
+          "id": "Q1275243"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-fb4edce993f2304f58c2",
+      "property": "P166",
+      "claimId": "q117346$38F5726F-4165-4589-8AEC-4D210483335F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 28835,
+          "id": "Q28835"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2006-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2006"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.nytimes.com/2006/08/22/science/22cnd-math.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.nytimes.com/2006/08/22/science/22cnd-math.html",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.nytimes.com/2006/08/22/science/22cnd-math.html",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2006-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2006",
+          "earliest": "2006-01-01",
+          "latest": "2006-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-333775001431cecb7ef6",
+      "property": "P101",
+      "claimId": "Q117346$9ac09ffb-4e53-8102-006b-83b73d55488f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1939186,
+          "id": "Q1939186"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-be6d3902a914031d0fcb",
+      "property": "P101",
+      "claimId": "q117346$6C391CCE-E9D7-4AE6-893C-C71ABB234593",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 42989,
+          "id": "Q42989"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c88a0315c169e1536d20",
+      "property": "P101",
+      "claimId": "Q117346$294fbaea-4225-eaca-16d7-dbbff9a46b99",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 761383,
+          "id": "Q761383"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-dbd104773f319f3c4001",
+      "property": "P101",
+      "claimId": "q117346$456830C4-C305-4A55-8D2A-27C7BCA45CFB",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 188444,
+          "id": "Q188444"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-f8d6159ae31a18c88691",
+      "property": "P101",
+      "claimId": "Q117346$bb237a9f-4f10-2b19-eda4-9b9ab7f7c6de",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 395,
+          "id": "Q395"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-00e492430769acef03de",
+      "property": "P800",
+      "claimId": "Q117346$831a7041-4004-5e4b-d041-1031f8b0aad6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 99179783,
+          "id": "Q99179783"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-15555bc80f11d23b0c55",
+      "property": "P800",
+      "claimId": "Q117346$9b42e2a4-441c-f118-cd27-753620ae69ee",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 99178595,
+          "id": "Q99178595"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-9636eaf468ba2180f02d",
+      "property": "P800",
+      "claimId": "Q117346$f5e243d6-406d-c425-5c66-5d3414358e6e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1503309,
+          "id": "Q1503309"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a230ab75c01de7d194ea",
+      "property": "P800",
+      "claimId": "Q117346$3141efe5-4407-c989-7f4c-0c9234785b39",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 203586,
+          "id": "Q203586"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b27a47177dd48a815b6d",
+      "property": "P800",
+      "claimId": "Q117346$d8830b10-47cc-6bb8-92fc-045d446a1f2c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 99178831,
+          "id": "Q99178831"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-cc2fb05231f6c6a123d8",
+      "property": "P800",
+      "claimId": "Q117346$80f8081c-4096-fa52-6708-e7a2b2a55e2a",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4171386,
+          "id": "Q4171386"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-3e5036c71631d77837e7",
+      "factId": "fact-25cab78d8022d8aec4a6",
+      "claimId": "Q117346$1393dfeb-4728-0e0d-3817-a5a6b865f80f",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2010",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-326838da7969993e30ea",
+      "factId": "fact-fb4edce993f2304f58c2",
+      "claimId": "q117346$38F5726F-4165-4589-8AEC-4D210483335F",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2006",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.nytimes.com/2006/08/22/science/22cnd-math.html",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-292f12f3ca3ddd46f4a4",
+      "factId": "fact-aa0c338c16e1935e9306",
+      "claimId": "Q117346$68ad5661-4a9f-d24d-4f3c-99ad7b4a203b",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2005-12",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "http://trv-science.ru/2010/03/30/o-prichinax-uxoda-g-perelmana-iz-pomi/",
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://ria.ru/20160607/1443907993.html",
+        "https://www.wikidata.org/wiki/Q117346"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-95b7473a392f09756589",
+      "factId": "fact-3caa127e558e5eaff04e",
+      "claimId": "Q117346$799fbb3a-43fc-5d3b-3b6a-6fa43235cc34",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1996",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e8ff5a7b9308fb68b708",
+      "factId": "fact-83b5e49b1843c483601d",
+      "claimId": "Q117346$D55717F8-DF10-4D7C-AB8A-EC1BDA9B7C17",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1987",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://mathshistory.st-andrews.ac.uk/Biographies/Perelman/",
+        "https://www.deutschlandfunk.de/der-weisse-rabe-100.html",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q191067",
+        "https://www.wikidata.org/wiki/Q36279"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-91e425cb97af6b9d2aa3",
+      "factId": "fact-83b5e49b1843c483601d",
+      "claimId": "Q117346$D55717F8-DF10-4D7C-AB8A-EC1BDA9B7C17",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1982",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://mathshistory.st-andrews.ac.uk/Biographies/Perelman/",
+        "https://www.deutschlandfunk.de/der-weisse-rabe-100.html",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q191067",
+        "https://www.wikidata.org/wiki/Q36279"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-5de962d312046e756553",
+      "factId": "fact-bffc3d04599084d53c06",
+      "claimId": "q117346$81D95365-4BAA-48DB-977A-55D584477F1F",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1966-06-13",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382894871",
+        "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "https://www.wikidata.org/wiki/Q107343683",
+        "https://www.wikidata.org/wiki/Q117346",
+        "https://www.wikidata.org/wiki/Q1373513",
+        "https://www.wikidata.org/wiki/Q237227",
+        "https://www.wikidata.org/wiki/Q547473",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "格里戈里·佩雷尔曼",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "职业",
+          "value": "數學家",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "国籍",
+          "value": "蘇聯",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "国籍",
+          "value": "俄罗斯",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "来源所记出生日期",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "出生地",
+          "value": "聖彼得堡",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "就读机构",
+          "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "就读机构",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "雇主",
+          "value": "科朗数学研究所",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "雇主",
+          "value": "石溪大学",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "雇主",
+          "value": "俄罗斯科学院圣彼得堡斯捷克洛夫数学研究所",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "雇主",
+          "value": "加州大學柏克萊分校",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "奖项",
+          "value": "千禧年大獎難題",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "奖项",
+          "value": "EMS Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "奖项",
+          "value": "菲尔兹奖",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "研究领域",
+          "value": "几何拓扑学",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "研究领域",
+          "value": "拓扑学",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "研究领域",
+          "value": "黎曼几何",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "研究领域",
+          "value": "微分几何",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "研究领域",
+          "value": "數學",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "代表作品",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "代表作品",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "代表作品",
+          "value": "几何化猜想",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "代表作品",
+          "value": "庞加莱猜想",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "代表作品",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "代表作品",
+          "value": "靈魂定理",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 千禧年大獎難題",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 菲尔兹奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: 俄罗斯科学院圣彼得堡斯捷克洛夫数学研究所",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: EMS Prize",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1966-06-13",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Grigori Perelman",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "Occupation",
+          "value": "mathematician",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "Citizenship",
+          "value": "Soviet Union",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "Citizenship",
+          "value": "Russia",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "Source-reported birth date",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "Place of birth",
+          "value": "Saint Petersburg",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "Educational institution",
+          "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "Educational institution",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "Employer",
+          "value": "Courant Institute School of Mathematics, Computing, and Data Science",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "Employer",
+          "value": "Stony Brook University",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "Employer",
+          "value": "St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "Employer",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "Award",
+          "value": "Millennium Problems",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "Award",
+          "value": "EMS Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "Award",
+          "value": "Fields medal",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "Field of work",
+          "value": "geometric topology",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "Field of work",
+          "value": "topology",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "Field of work",
+          "value": "Riemannian geometry",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "Field of work",
+          "value": "differential geometry",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "Field of work",
+          "value": "mathematics",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "Notable work",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "Notable work",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "Notable work",
+          "value": "geometrization conjecture",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "Notable work",
+          "value": "Poincaré conjecture",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "Notable work",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "Notable work",
+          "value": "soul theorem",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Millennium Problems",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Fields medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: EMS Prize",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1966-06-13",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Grigori Perelman",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "Profession",
+          "value": "mathématicien ou mathématicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "Nationalité",
+          "value": "Union soviétique",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "Nationalité",
+          "value": "Russie",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "Lieu de naissance",
+          "value": "Saint-Pétersbourg",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "Établissement fréquenté",
+          "value": "faculté de mathématiques et mécanique de l'université d'État de Saint-Pétersbourg",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "Établissement fréquenté",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "Employeur",
+          "value": "Institut Courant de sciences mathématiques",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "Employeur",
+          "value": "Université d'État de New York à Stony Brook",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "Employeur",
+          "value": "Département de Saint-Pétersbourg de l'institut de mathématiques Steklov",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "Employeur",
+          "value": "Université de Californie à Berkeley",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "Distinction",
+          "value": "problèmes du prix du millénaire",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "Distinction",
+          "value": "prix de la Société mathématique européenne",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "Distinction",
+          "value": "médaille Fields",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "Domaine de travail",
+          "value": "topologie géométrique",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "Domaine de travail",
+          "value": "topologie",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "Domaine de travail",
+          "value": "géométrie riemannienne",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "Domaine de travail",
+          "value": "géométrie différentielle",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "Domaine de travail",
+          "value": "mathématiques",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "Œuvre notable",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "Œuvre notable",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "Œuvre notable",
+          "value": "conjecture de géométrisation",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "Œuvre notable",
+          "value": "conjecture de Poincaré",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "Œuvre notable",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "Œuvre notable",
+          "value": "théorème de l'âme",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: problèmes du prix du millénaire",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille Fields",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Département de Saint-Pétersbourg de l'institut de mathématiques Steklov",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix de la Société mathématique européenne",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: faculté de mathématiques et mécanique de l'université d'État de Saint-Pétersbourg",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: faculté de mathématiques et mécanique de l'université d'État de Saint-Pétersbourg",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1966-06-13",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "غريغوري بيرلمان",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "المهنة",
+          "value": "رياضياتي",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "الجنسية",
+          "value": "الاتحاد السوفيتي",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "الجنسية",
+          "value": "روسيا",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "مكان الميلاد",
+          "value": "سانت بطرسبرغ",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "المؤسسة التعليمية",
+          "value": "كلية الرياضيات والميكانيكا، جامعة سانت بطرسبرغ الحكومية",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "المؤسسة التعليمية",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "جهة العمل",
+          "value": "معهد كورانت لعلوم الرياضيات",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "جهة العمل",
+          "value": "جامعة ستوني بروك",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "جهة العمل",
+          "value": "قسم سانت بطرسبرغ في معهد ستيكلوف الرياضي التابع للأكاديمية الروسية للعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "جهة العمل",
+          "value": "جامعة كاليفورنيا، بركلي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "الجائزة",
+          "value": "جائزة مسائل الألفية",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "الجائزة",
+          "value": "جائزة الجمعية الأوروبية للرياضيات",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "الجائزة",
+          "value": "ميدالية فيلدز",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "مجال العمل",
+          "value": "طوبولوجيا هندسية",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "مجال العمل",
+          "value": "طوبولوجيا",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "مجال العمل",
+          "value": "هندسة ريمانية",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "مجال العمل",
+          "value": "هندسة تفاضلية",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "مجال العمل",
+          "value": "رياضيات",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "عمل بارز",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "عمل بارز",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "عمل بارز",
+          "value": "geometrization conjecture",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "عمل بارز",
+          "value": "حدسية بوانكاريه",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "عمل بارز",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "عمل بارز",
+          "value": "soul theorem",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة مسائل الألفية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية فيلدز",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: قسم سانت بطرسبرغ في معهد ستيكلوف الرياضي التابع للأكاديمية الروسية للعلوم",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الجمعية الأوروبية للرياضيات",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: كلية الرياضيات والميكانيكا، جامعة سانت بطرسبرغ الحكومية",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: كلية الرياضيات والميكانيكا، جامعة سانت بطرسبرغ الحكومية",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1966-06-13",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Grigori Jakowlewitsch Perelman",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "Beruf",
+          "value": "Mathematiker",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "Staatsangehörigkeit",
+          "value": "Sowjetunion",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "Staatsangehörigkeit",
+          "value": "Russland",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "Geburtsort",
+          "value": "Sankt Petersburg",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "Bildungseinrichtung",
+          "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "Bildungseinrichtung",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "Arbeitgeber",
+          "value": "Courant Institute of Mathematical Sciences of New York University",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "Arbeitgeber",
+          "value": "Stony Brook University",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "Arbeitgeber",
+          "value": "St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "Arbeitgeber",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "Auszeichnung",
+          "value": "Millennium-Probleme",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "Auszeichnung",
+          "value": "EMS-Preis",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "Auszeichnung",
+          "value": "Fields-Medaille",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "Arbeitsgebiet",
+          "value": "geometrische Topologie",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "Arbeitsgebiet",
+          "value": "Topologie",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "Arbeitsgebiet",
+          "value": "riemannsche Geometrie",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "Arbeitsgebiet",
+          "value": "Differentialgeometrie",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "Arbeitsgebiet",
+          "value": "Mathematik",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "Bekanntes Werk",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "Bekanntes Werk",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "Bekanntes Werk",
+          "value": "Geometrisierung von 3-Mannigfaltigkeiten",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "Bekanntes Werk",
+          "value": "Poincaré-Vermutung",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "Bekanntes Werk",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "Bekanntes Werk",
+          "value": "Seele",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Millennium-Probleme",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Fields-Medaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: EMS-Preis",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1966-06-13",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "グリゴリー・ペレルマン",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "職業",
+          "value": "数学者",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "国籍",
+          "value": "ソビエト連邦",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "国籍",
+          "value": "ロシア",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "出典に記載された生年月日",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "出生地",
+          "value": "サンクトペテルブルク",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "在籍した教育機関",
+          "value": "サンクトペテルブルク国立大学数学・力学部",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "在籍した教育機関",
+          "value": "サンクトペテルブルク第239高等学校",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "雇用主",
+          "value": "クーラント数理科学研究所",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "雇用主",
+          "value": "ニューヨーク州立大学ストーニーブルック校",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "雇用主",
+          "value": "ステクロフ研究所",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "雇用主",
+          "value": "カリフォルニア大学バークレー校",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "受賞",
+          "value": "ミレニアム懸賞問題",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "受賞",
+          "value": "ヨーロッパ数学会賞",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "受賞",
+          "value": "フィールズ賞",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "活動分野",
+          "value": "幾何学的トポロジー",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "活動分野",
+          "value": "位相幾何学",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "活動分野",
+          "value": "リーマン幾何学",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "活動分野",
+          "value": "微分幾何学",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "活動分野",
+          "value": "数学",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "代表的な作品",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "代表的な作品",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "代表的な作品",
+          "value": "幾何化予想",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "代表的な作品",
+          "value": "ポアンカレ予想",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "代表的な作品",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "代表的な作品",
+          "value": "ソウル",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ミレニアム懸賞問題",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: フィールズ賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: ステクロフ研究所",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ヨーロッパ数学会賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: サンクトペテルブルク国立大学数学・力学部",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: サンクトペテルブルク国立大学数学・力学部",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1966-06-13",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Grigori Perelmán",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "Ocupación",
+          "value": "matemático",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "Nacionalidad",
+          "value": "Unión Soviética",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "Nacionalidad",
+          "value": "Rusia",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "Lugar de nacimiento",
+          "value": "San Petersburgo",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "Institución educativa",
+          "value": "facultad de matemáticas y mecánica de la Universidad Estatal de San Petersburgo",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "Institución educativa",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "Empleador",
+          "value": "Instituto Courant de Ciencias Matemáticas",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "Empleador",
+          "value": "Universidad de Stony Brook",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "Empleador",
+          "value": "Departamento de San Petersburgo del Instituto de Matemáticas Steklov de la Academia de Ciencias de Rusia",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "Empleador",
+          "value": "Universidad de California en Berkeley",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "Distinción",
+          "value": "Problemas del milenio",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "Distinción",
+          "value": "Premio de la Sociedad Matemática Europea",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "Distinción",
+          "value": "Medalla Fields",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "Campo de trabajo",
+          "value": "topología geométrica",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "Campo de trabajo",
+          "value": "topología",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "Campo de trabajo",
+          "value": "geometría de Riemann",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "Campo de trabajo",
+          "value": "geometría diferencial",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "Campo de trabajo",
+          "value": "matemática",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "Obra destacada",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "Obra destacada",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "Obra destacada",
+          "value": "Conjetura de Thurston",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "Obra destacada",
+          "value": "hipótesis de Poincaré",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "Obra destacada",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "Obra destacada",
+          "value": "teorema del alma",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Problemas del milenio",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Medalla Fields",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Departamento de San Petersburgo del Instituto de Matemáticas Steklov de la Academia de Ciencias de Rusia",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio de la Sociedad Matemática Europea",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: facultad de matemáticas y mecánica de la Universidad Estatal de San Petersburgo",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: facultad de matemáticas y mecánica de la Universidad Estatal de San Petersburgo",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1966-06-13",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "그리고리 페렐만",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0167248e8e67ac45c445",
+          "label": "직업",
+          "value": "수학자",
+          "notes": []
+        },
+        {
+          "id": "fact-01cc396512b1672dd1ea",
+          "label": "국적",
+          "value": "소련",
+          "notes": []
+        },
+        {
+          "id": "fact-037e9e85c101c93b9886",
+          "label": "국적",
+          "value": "러시아",
+          "notes": []
+        },
+        {
+          "id": "fact-bffc3d04599084d53c06",
+          "label": "출처에 기재된 출생일",
+          "value": "1966-06-13",
+          "notes": []
+        },
+        {
+          "id": "fact-3d0c29cee9478be14c3e",
+          "label": "출생지",
+          "value": "상트페테르부르크",
+          "notes": []
+        },
+        {
+          "id": "fact-83b5e49b1843c483601d",
+          "label": "교육 기관",
+          "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-a2c58447562c7d44bd2b",
+          "label": "교육 기관",
+          "value": "Saint Petersburg Lyceum 239",
+          "notes": []
+        },
+        {
+          "id": "fact-2c7f715db1d2514f3db6",
+          "label": "고용 기관",
+          "value": "쿠랑 수학연구소",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-5d23165079a0f436223d",
+          "label": "고용 기관",
+          "value": "뉴욕 주립 대학교 스토니 브룩",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-aa0c338c16e1935e9306",
+          "label": "고용 기관",
+          "value": "St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-bc0254ec954a75f1acf7",
+          "label": "고용 기관",
+          "value": "캘리포니아 대학교 버클리",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-25cab78d8022d8aec4a6",
+          "label": "수상",
+          "value": "밀레니엄 문제",
+          "notes": []
+        },
+        {
+          "id": "fact-3caa127e558e5eaff04e",
+          "label": "수상",
+          "value": "EMS Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-fb4edce993f2304f58c2",
+          "label": "수상",
+          "value": "필즈상",
+          "notes": []
+        },
+        {
+          "id": "fact-333775001431cecb7ef6",
+          "label": "활동 분야",
+          "value": "기하학적 위상수학",
+          "notes": []
+        },
+        {
+          "id": "fact-be6d3902a914031d0fcb",
+          "label": "활동 분야",
+          "value": "위상수학",
+          "notes": []
+        },
+        {
+          "id": "fact-c88a0315c169e1536d20",
+          "label": "활동 분야",
+          "value": "리만 기하학",
+          "notes": []
+        },
+        {
+          "id": "fact-dbd104773f319f3c4001",
+          "label": "활동 분야",
+          "value": "미분기하학",
+          "notes": []
+        },
+        {
+          "id": "fact-f8d6159ae31a18c88691",
+          "label": "활동 분야",
+          "value": "수학",
+          "notes": []
+        },
+        {
+          "id": "fact-00e492430769acef03de",
+          "label": "주요 작품",
+          "value": "Ricci flow with surgery on three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-15555bc80f11d23b0c55",
+          "label": "주요 작품",
+          "value": "The entropy formula for the Ricci flow and its geometric applications",
+          "notes": []
+        },
+        {
+          "id": "fact-9636eaf468ba2180f02d",
+          "label": "주요 작품",
+          "value": "기하화 추측",
+          "notes": []
+        },
+        {
+          "id": "fact-a230ab75c01de7d194ea",
+          "label": "주요 작품",
+          "value": "푸앵카레 추측",
+          "notes": []
+        },
+        {
+          "id": "fact-b27a47177dd48a815b6d",
+          "label": "주요 작품",
+          "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+          "notes": []
+        },
+        {
+          "id": "fact-cc2fb05231f6c6a123d8",
+          "label": "주요 작품",
+          "value": "영혼",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-3e5036c71631d77837e7",
+          "factId": "fact-25cab78d8022d8aec4a6",
+          "date": "2010",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 밀레니엄 문제",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-326838da7969993e30ea",
+          "factId": "fact-fb4edce993f2304f58c2",
+          "date": "2006",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 필즈상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-292f12f3ca3ddd46f4a4",
+          "factId": "fact-aa0c338c16e1935e9306",
+          "date": "2005-12",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-95b7473a392f09756589",
+          "factId": "fact-3caa127e558e5eaff04e",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: EMS Prize",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e8ff5a7b9308fb68b708",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1987",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-91e425cb97af6b9d2aa3",
+          "factId": "fact-83b5e49b1843c483601d",
+          "date": "1982",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: Mathematics and Mechanics Faculty, St. Petersburg State University",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-5de962d312046e756553",
+          "factId": "fact-bffc3d04599084d53c06",
+          "date": "1966-06-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1966-06-13",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q1503309"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4171386"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "ar",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "ar",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "ar",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "de",
+        "key": "Q4284716"
+      },
+      {
+        "locale": "de",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "de",
+        "key": "Q581272"
+      },
+      {
+        "locale": "de",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "de",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "de",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "es",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "es",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "es",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "es",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "fr",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "fr",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "fr",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "fr",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "ja",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "ja",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "ja",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "ko",
+        "key": "Q1275243"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4284716"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "ko",
+        "key": "Q581272"
+      },
+      {
+        "locale": "ko",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "ko",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "ko",
+        "key": "Q99179783"
+      },
+      {
+        "locale": "zh",
+        "key": "Q1275243"
+      },
+      {
+        "locale": "zh",
+        "key": "Q4284716"
+      },
+      {
+        "locale": "zh",
+        "key": "Q4483553"
+      },
+      {
+        "locale": "zh",
+        "key": "Q99178595"
+      },
+      {
+        "locale": "zh",
+        "key": "Q99178831"
+      },
+      {
+        "locale": "zh",
+        "key": "Q99179783"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q1503309",
+        "fallbackLocale": "en",
+        "value": "geometrization conjecture",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4171386",
+        "fallbackLocale": "en",
+        "value": "soul theorem",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4284716",
+        "fallbackLocale": "en",
+        "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q581272",
+        "fallbackLocale": "en",
+        "value": "St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q1275243",
+        "fallbackLocale": "en",
+        "value": "EMS Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4284716",
+        "fallbackLocale": "en",
+        "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q581272",
+        "fallbackLocale": "en",
+        "value": "St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q1275243",
+        "fallbackLocale": "en",
+        "value": "EMS Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q4284716",
+        "fallbackLocale": "en",
+        "value": "Mathematics and Mechanics Faculty, St. Petersburg State University",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q4483553",
+        "fallbackLocale": "en",
+        "value": "Saint Petersburg Lyceum 239",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q99178595",
+        "fallbackLocale": "en",
+        "value": "The entropy formula for the Ricci flow and its geometric applications",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q99178831",
+        "fallbackLocale": "en",
+        "value": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q99179783",
+        "fallbackLocale": "en",
+        "value": "Ricci flow with surgery on three-manifolds",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 7,
+    "professionalEventCount": 6,
+    "factCount": 25,
+    "factsWithoutExternalReference": 22,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

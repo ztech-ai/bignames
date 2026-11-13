@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "vicki-hollub",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "维姬·霍卢布",
+    "enName": "Vicki Hollub",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "能源",
+    "inclusionReason": "领导西方石油，参与大型能源并购及直接空气碳捕集项目的商业推进。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "领导西方石油，参与大型能源并购及直接空气碳捕集项目的商业推进。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:32Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Vicki Hollub",
+    "requestedTitle": "Vicki Hollub",
+    "resolvedTitle": "Vicki Hollub",
+    "wikidataId": "Q29788290",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Vicki_Hollub",
+      "title": "Vicki Hollub",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:32Z",
+      "revisionId": 1382706149,
+      "revisionTimestamp": "2026-10-29T21:57:41Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1382706149",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29788290",
+      "title": "Q29788290",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:15:35Z",
+      "revisionId": 2180151636,
+      "revisionTimestamp": "2024-06-15T07:56:31Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Vicki Hollub (born 1959) is an American businesswoman and mineral engineer. She was president and chief executive officer of Occidental Petroleum from April 2016 to June 2026, when Richard Jackson succeeded her; she remained on the company's board after retiring as chief executive. She was the first woman to lead a major American oil company.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Vicki Hollub",
+    "es": "Vicki Hollub",
+    "ko": "비키 홀러브"
+  },
+  "descriptions": {
+    "en": "American businesswoman and mineral engineer",
+    "ko": "미국 기업인"
+  },
+  "languageArticles": {
+    "en": "Vicki Hollub"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q29788290$6FC83AC2-0695-47B2-B0CD-CF8849250B4E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q29788290$8E95BA41-5342-4739-929C-77EFA501C0DF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 492318,
+            "id": "Q492318"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q29788290$3DB287D9-C943-4B82-AA54-5FF88572B52B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6799864,
+            "id": "Q6799864"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q29788290$081A76FE-A954-491B-B7A8-7FB6AA42822C",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1960-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1960"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q29788290$EB373F2E-3F39-4EE2-B4CC-500BFD647CE1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 79867,
+            "id": "Q79867"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q29788290$16f1645c-8d79-43b9-a6b4-0d848477d07a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q29788290$9508A086-0F24-4403-BDC8-CAF05478D163",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P1416": [
+      {
+        "id": "Q29788290$DE7AE1D3-7BD3-42A1-A33C-9F6E55C07E34",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2013357,
+            "id": "Q2013357"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 114835658,
+                  "id": "Q114835658"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 114835657,
+                  "id": "Q114835657"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 114835663,
+                  "id": "Q114835663"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q29788290$7158fdaa-4f20-1f1b-aca9-38ca3f78812f",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Vicki Hollub (born 1960) at Sustainable Development Impact Summit 2021.png"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P69": "education",
+    "P569": "birthDate",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P1416": "affiliation",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q114835657": {
+      "id": "Q114835657",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "en": "Davos 2019 Participant List",
+        "ja": "ダヴォス2019参加者一覧"
+      },
+      "descriptions": {
+        "en": "list published by qz.com"
+      }
+    },
+    "Q114835658": {
+      "id": "Q114835658",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "en": "Davos 2018 Participant List",
+        "ja": "ダヴォス2018参加者一覧"
+      },
+      "descriptions": {
+        "en": "list published by qz.com"
+      }
+    },
+    "Q114835663": {
+      "id": "Q114835663",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Davos 2022 Participant List",
+        "ja": "ダヴォス2022参加者一覧"
+      },
+      "descriptions": {}
+    },
+    "Q2013357": {
+      "id": "Q2013357",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "fr": "Occidental Petroleum Corporation",
+        "en": "Occidental Petroleum",
+        "zh": "西方石油公司",
+        "de": "Occidental Petroleum",
+        "ja": "オクシデンタル・ペトロリウム",
+        "es": "Occidental Petroleum Corporation",
+        "ko": "옥시덴탈 석유회사",
+        "ar": "أوكسيدنتال بتروليوم"
+      },
+      "descriptions": {
+        "en": "American oil company",
+        "ar": "شركة نفط أمريكية",
+        "ja": "アメリカの石油会社",
+        "fr": "entreprise pétrogazière américaine",
+        "de": "Unternehmen",
+        "es": "empresa petrolera estadounidense",
+        "zh": "美国企业",
+        "ko": "미국의 석유 회사"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q492318": {
+      "id": "Q492318",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "ko": "앨라배마 대학교",
+        "fr": "Université de l'Alabama",
+        "es": "Universidad de Alabama",
+        "en": "University of Alabama",
+        "de": "University of Alabama",
+        "ja": "アラバマ大学",
+        "ar": "جامعة ألاباما",
+        "zh": "阿拉巴马大学"
+      },
+      "descriptions": {
+        "en": "public university located in Tuscaloosa, Alabama, United States",
+        "fr": "université américaine située à Tuscaloosa dans l'État de l'Alabama, aux États-Unis",
+        "de": "Universität in den Vereinigten Staaten",
+        "es": "universidad pública en Alabama, Estados Unidos",
+        "ar": "جامعة في الولايات المتحدة",
+        "ja": "アメリカの州立大学",
+        "ko": "미국 앨라배마주 터스컬루사에 있는 공립 대학교"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q6799864": {
+      "id": "Q6799864",
+      "fetchedAt": "2026-11-13T11:15:37Z",
+      "labels": {
+        "en": "McAdory High School",
+        "fr": "McAdory High School",
+        "ja": "マカドリー高等学校"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في ألاباما، الولايات المتحدة",
+        "en": "high school in Alabama, United States"
+      }
+    },
+    "Q79867": {
+      "id": "Q79867",
+      "fetchedAt": "2026-11-13T11:11:52Z",
+      "labels": {
+        "zh": "伯明翰",
+        "es": "Birmingham",
+        "ar": "برمنغهام",
+        "ko": "버밍햄",
+        "fr": "Birmingham",
+        "de": "Birmingham",
+        "ja": "バーミンガム",
+        "en": "Birmingham"
+      },
+      "descriptions": {
+        "en": "city in and county seat of Jefferson County, Alabama, United States",
+        "de": "Großstadt im US-Bundesstaat Alabama",
+        "fr": "ville et siège du comté de Jefferson en Alabama (États-Unis)",
+        "zh": "美國城市",
+        "ar": "مدينة في مقاطعة جيفرسون، الولايات المتحدة",
+        "ja": "アメリカ合衆国アラバマ州の都市",
+        "es": "sede del condado de Jefferson, y ciudad más poblada del estado de Alabama, Estados Unidos",
+        "ko": "미국 앨라배마주의 도시"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Vicki Hollub (born 1960) at Sustainable Development Impact Summit 2021.png",
+    "fetchedAt": "2026-11-13T11:15:42Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicki_Hollub_(born_1960)_at_Sustainable_Development_Impact_Summit_2021.png",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Vicki_Hollub_%28born_1960%29_at_Sustainable_Development_Impact_Summit_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Vicki_Hollub_%28born_1960%29_at_Sustainable_Development_Impact_Summit_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 351,
+    "height": 295,
+    "mediaTimestamp": "2023-10-24T23:40:13Z",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "World Economic Forum",
+    "credit": "YouTube: Shaping an Equitable, Inclusive and Sustainable Recovery | Sustainable Development Summit 2021 – View/save archived versions on archive.org",
+    "description": "Vicki Hollub (born 1960) at Sustainable Development Impact Summit 2021",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/a418c30745a6d1b79fd51e0e.png",
+    "cachedImageBytes": 92247,
+    "cachedImageSha256": "0557fd0c2ff53c71e6ca96eae31ec6caa6d7dbc72b83624b9ae92a1df6de92c2"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

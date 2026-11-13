@@ -1,0 +1,800 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "carol-tome",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/carol-tome.json",
+    "sha256": "d03f0df8b1630aa5c92bc5c2106595a1dfb667644eb9273f7e89b5fb8b49f78f",
+    "capturedAt": "2026-11-13T11:26:23Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+      "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+      "https://www.wikidata.org/wiki/Q21551443"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q21551443",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Carol Tomé",
+    "sourceIdentity": {
+      "requestedName": "Carol Tomé",
+      "requestedTitle": "Carol Tomé",
+      "resolvedTitle": "Carol Tomé",
+      "wikidataId": "Q21551443",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-a17a0ad7ac74346756e9",
+      "property": "P106",
+      "claimId": "Q21551443$87D55CA7-C393-4EDF-BE91-3ACBF687E048",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2961975,
+          "id": "Q2961975"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6e47e6940e6910f9b3a3",
+      "property": "P569",
+      "claimId": "Q21551443$ff350145-4a94-68d1-26ed-d6b7fa7d2c8f",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1957-01-08T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1957-01-08"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1957-01-08T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1957-01-08",
+        "earliest": "1957-01-08",
+        "latest": "1957-01-08",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-5ac0087337112a683ce5",
+      "property": "P19",
+      "claimId": "Q21551443$4ee62956-4090-8046-8aa0-8ad3af52d2ee",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 871285,
+          "id": "Q871285"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-61cc4da7e6fc10ae9448",
+      "property": "P39",
+      "claimId": "Q21551443$f148f13e-43fb-9278-cb25-20d082c4bc96",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://web.archive.org/web/20211027001329/https://about.ups.com/us/en/our-company/leadership/carol-b-tome.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://web.archive.org/web/20211027001329/https://about.ups.com/us/en/our-company/leadership/carol-b-tome.html",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "referenceUrls": [
+        "https://web.archive.org/web/20211027001329/https://about.ups.com/us/en/our-company/leadership/carol-b-tome.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020",
+          "earliest": "2020-01-01",
+          "latest": "2020-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-10ac23297f5e228a9a2d",
+      "factId": "fact-61cc4da7e6fc10ae9448",
+      "claimId": "Q21551443$f148f13e-43fb-9278-cb25-20d082c4bc96",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2020",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://web.archive.org/web/20211027001329/https://about.ups.com/us/en/our-company/leadership/carol-b-tome.html",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-a96993e7b21c9edc1dcf",
+      "factId": "fact-6e47e6940e6910f9b3a3",
+      "claimId": "Q21551443$ff350145-4a94-68d1-26ed-d6b7fa7d2c8f",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1957-01-08",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1379427252",
+        "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+        "https://www.wikidata.org/wiki/Q21551443"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "卡萝尔·托梅",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "职业",
+          "value": "企业主管",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "来源所记出生日期",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "出生地",
+          "value": "杰克逊",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "担任职务",
+          "value": "首席执行官",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "担任职务: 首席执行官",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1957-01-08",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Carol Tomé",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "Occupation",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "Source-reported birth date",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "Place of birth",
+          "value": "Jackson",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "Position held",
+          "value": "chief executive officer",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "Position held: chief executive officer",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1957-01-08",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Carol Tomé",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "Profession",
+          "value": "chef ou cheffe d'entreprise",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "Lieu de naissance",
+          "value": "Jackson",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "Fonction exercée",
+          "value": "directeur général ou directrice générale",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "Fonction exercée: directeur général ou directrice générale",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1957-01-08",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Carol Tomé",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "المهنة",
+          "value": "مسير أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "مكان الميلاد",
+          "value": "جاكسون",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "المنصب",
+          "value": "رئيس تنفيذي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "المنصب: رئيس تنفيذي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1957-01-08",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Carol Tomé",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "Beruf",
+          "value": "Unternehmensleiter",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "Geburtsort",
+          "value": "Jackson",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "Ausgeübtes Amt",
+          "value": "Geschäftsführer",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Geschäftsführer",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1957-01-08",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Carol Tomé",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "職業",
+          "value": "企業重役",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "出典に記載された生年月日",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "出生地",
+          "value": "ジャクソン",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "役職",
+          "value": "最高経営責任者",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "役職: 最高経営責任者",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1957-01-08",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Carol Tomé",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "Ocupación",
+          "value": "ejecutivo de empresa",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "Lugar de nacimiento",
+          "value": "Jackson",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "Cargo desempeñado",
+          "value": "director ejecutivo",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "Cargo desempeñado: director ejecutivo",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1957-01-08",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Carol Tomé",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a17a0ad7ac74346756e9",
+          "label": "직업",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-6e47e6940e6910f9b3a3",
+          "label": "출처에 기재된 출생일",
+          "value": "1957-01-08",
+          "notes": []
+        },
+        {
+          "id": "fact-5ac0087337112a683ce5",
+          "label": "출생지",
+          "value": "잭슨",
+          "notes": []
+        },
+        {
+          "id": "fact-61cc4da7e6fc10ae9448",
+          "label": "직책",
+          "value": "최고경영자",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-10ac23297f5e228a9a2d",
+          "factId": "fact-61cc4da7e6fc10ae9448",
+          "date": "2020",
+          "precision": 9,
+          "kind": "start",
+          "title": "직책: 최고경영자",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-a96993e7b21c9edc1dcf",
+          "factId": "fact-6e47e6940e6910f9b3a3",
+          "date": "1957-01-08",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1957-01-08",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "es",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Carol Tomé",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975",
+        "fallbackLocale": "en",
+        "value": "business executive",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 2,
+    "professionalEventCount": 1,
+    "factCount": 4,
+    "factsWithoutExternalReference": 3,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

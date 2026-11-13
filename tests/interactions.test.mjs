@@ -35,6 +35,9 @@ function openPage(t, { kind = 'index', query = '', clipboard } = {}) {
   return { window, document: window.document, calls };
 }
 
+const indexData = JSON.parse(indexScript.match(/window\.PEOPLE_INDEX = (.+);\n/)[1]);
+const profileCount = indexData.length;
+const expectedTechnology = indexData.filter(person=>person.domains.includes('technology') && person.eras.includes('contemporary') && person.regions.includes('north-america')).slice(0,12).map(person=>person.id);
 const visiblePeople = document => [...document.querySelectorAll('#people-grid .person-card')].filter(card => !card.hidden).map(card => card.dataset.id);
 const visibleCandidates = document => [...document.querySelectorAll('[data-candidate]')].filter(row => !row.hidden);
 const nextTask = () => new Promise(resolve => setImmediate(resolve));
@@ -56,21 +59,21 @@ async function search(window, value) {
 
 test('the generated index paginates complete biographies and keeps navigation under a path prefix', t => {
   const { document, window, calls } = openPage(t);
-  assert.equal(document.querySelectorAll('#people-grid .person-card').length, 24);
+  assert.equal(document.querySelectorAll('#people-grid .person-card').length, profileCount);
   assert.equal(visiblePeople(document).length, 12);
-  assert.equal(visiblePeople(document)[0], 'elon-musk');
-  assert.match(document.getElementById('result-count').textContent, /24/);
+  assert.deepEqual(visiblePeople(document), indexData.slice(0,12).map(person=>person.id));
+  assert.ok(document.getElementById('result-count').textContent.includes(String(profileCount)));
   assert.equal(document.querySelector('[data-id="elon-musk"] a').href, 'https://archive.example/catalog/people/elon-musk/index.html');
   document.querySelector('#pagination [data-page="2"]').click();
   assert.equal(visiblePeople(document).length, 12);
-  assert.ok(visiblePeople(document).includes('nelson-mandela'));
-  assert.ok(!visiblePeople(document).includes('elon-musk'));
+  assert.deepEqual(visiblePeople(document), indexData.slice(12,24).map(person=>person.id));
+  assert.ok(!visiblePeople(document).includes(indexData[0].id));
   assert.equal(new URL(window.location.href).searchParams.get('page'), '2');
   assert.equal(document.querySelector('#pagination [aria-current="page"]').textContent, '2');
-  assert.equal(document.querySelector('#pagination [aria-label="下一页"]').disabled, true);
+  assert.equal(document.querySelector('#pagination [aria-label="下一页"]').disabled, profileCount<=24);
   assert.equal(calls.scroll, 1);
   document.querySelector('#pagination [aria-label="上一页"]').click();
-  assert.equal(visiblePeople(document)[0], 'elon-musk');
+  assert.deepEqual(visiblePeople(document), indexData.slice(0,12).map(person=>person.id));
   assert.equal(new URL(window.location.href).searchParams.has('page'), false);
 });
 
@@ -91,13 +94,13 @@ test('domain, era, region and query compose; removing a chip preserves the other
   document.querySelector('[data-domain="technology"]').click();
   select(window, 'era-filter', 'contemporary');
   select(window, 'region-filter', 'north-america');
-  assert.deepEqual(visiblePeople(document), ['elon-musk', 'jensen-huang', 'mark-zuckerberg', 'larry-page']);
+  assert.deepEqual(visiblePeople(document), expectedTechnology);
   assert.equal(document.querySelector('[data-domain="technology"]').getAttribute('aria-pressed'), 'true');
   await search(window, '黄仁勋');
   assert.deepEqual(visiblePeople(document), ['jensen-huang']);
   const queryChip = [...document.querySelectorAll('#active-filters button')].find(button => button.textContent.includes('搜索：'));
   queryChip.click();
-  assert.deepEqual(visiblePeople(document), ['elon-musk', 'jensen-huang', 'mark-zuckerberg', 'larry-page']);
+  assert.deepEqual(visiblePeople(document), expectedTechnology);
   assert.equal(document.getElementById('region-filter').value, 'north-america');
   assert.equal(document.getElementById('era-filter').value, 'contemporary');
   const params = new URL(window.location.href).searchParams;
@@ -163,13 +166,14 @@ test('untrusted query values remain literal text and invalid URL filters do not 
 
 test('chronological sort handles BCE births and restoring editorial order works', t => {
   const { document, window } = openPage(t);
+  const originalPage=visiblePeople(document);
   select(window, 'sort', 'birth');
   assert.deepEqual(visiblePeople(document).slice(0, 3), ['confucius', 'leonardo-da-vinci', 'ada-lovelace']);
   select(window, 'sort', 'name');
   assert.equal(visiblePeople(document).length, 12);
   assert.notEqual(visiblePeople(document)[0], 'confucius');
   select(window, 'sort', 'featured');
-  assert.equal(visiblePeople(document)[0], 'elon-musk');
+  assert.deepEqual(visiblePeople(document), originalPage);
 });
 
 test('keyboard shortcut focuses search and Chinese composition commits only when complete', async t => {
@@ -189,23 +193,38 @@ test('keyboard shortcut focuses search and Chinese composition commits only when
   assert.equal(visiblePeople(document).length, 12);
 });
 
-test('candidate search combines with domain and batch while preserving profile links', t => {
+test('candidate search combines with available filters while preserving profile links', t => {
   const { document, window } = openPage(t, { kind: 'candidates' });
-  assert.equal(visibleCandidates(document).length, 120);
+  const total = document.querySelectorAll('[data-candidate]').length;
+  assert.equal(visibleCandidates(document).length, document.querySelector('.campaign-table')?Math.min(50,total):total);
   const input = document.getElementById('candidate-search');
-  input.value = 'ELON';
+  const campaign=Boolean(document.querySelector('.campaign-table'));
+  const expectedId=campaign?'sam-altman':'elon-musk';
+  input.value = campaign?'SAM ALTMAN':'ELON MUSK';
   input.dispatchEvent(new window.Event('input', { bubbles: true }));
   assert.equal(visibleCandidates(document).length, 1);
-  assert.match(visibleCandidates(document)[0].textContent, /马斯克/);
-  assert.equal(visibleCandidates(document)[0].querySelector('a').href, 'https://archive.example/catalog/people/elon-musk/index.html');
-  select(window, 'candidate-batch', '2');
-  assert.equal(visibleCandidates(document).length, 0);
-  assert.match(document.getElementById('candidate-count').textContent, /0 \/ 120/);
-  input.value = '';
-  input.dispatchEvent(new window.Event('input', { bubbles: true }));
-  select(window, 'candidate-domain', 'science');
-  assert.ok(visibleCandidates(document).length > 0);
-  assert.ok(visibleCandidates(document).every(row => row.dataset.domain === 'science' && row.dataset.batch === '2'));
+  assert.equal(visibleCandidates(document)[0].dataset.id,expectedId);
+  assert.equal(visibleCandidates(document)[0].querySelector('a').href, `https://archive.example/catalog/people/${expectedId}/index.html`);
+  if(document.getElementById('candidate-batch')) {
+    select(window, 'candidate-batch', '2');
+    assert.equal(visibleCandidates(document).length, 0);
+    assert.ok(document.getElementById('candidate-count').textContent.includes(`0 / ${total}`));
+    input.value = '';
+    input.dispatchEvent(new window.Event('input', { bubbles: true }));
+    select(window, 'candidate-domain', 'science');
+    assert.ok(visibleCandidates(document).length > 0);
+    assert.ok(visibleCandidates(document).every(row => row.dataset.domain === 'science' && row.dataset.batch === '2'));
+  } else {
+    select(window, 'candidate-status', 'pending');
+    assert.equal(visibleCandidates(document).length, 0);
+    select(window, 'candidate-status', 'published');
+    assert.equal(visibleCandidates(document).length, 1);
+    input.value='';
+    input.dispatchEvent(new window.Event('input',{bubbles:true}));
+    select(window,'candidate-status','collected');
+    assert.ok(visibleCandidates(document).length>0);
+    assert.ok(visibleCandidates(document).every(row=>row.dataset.status==='collected'&&!row.querySelector('a[href*="people/"]')));
+  }
 });
 
 test('profile copy reports clipboard success and print invokes the browser action', async t => {

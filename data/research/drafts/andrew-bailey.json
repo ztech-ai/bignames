@@ -1,0 +1,1857 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "andrew-bailey",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/andrew-bailey.json",
+    "sha256": "45ed23d7e2c8868ccd4c66269b5eb91b5ae08ad601dce57d46672e7410930d7f",
+    "capturedAt": "2026-11-13T11:26:20Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+      "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+      "https://www.wikidata.org/wiki/Q4756258"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q4756258",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Andrew Bailey",
+    "sourceIdentity": {
+      "requestedName": "Andrew Bailey",
+      "requestedTitle": "Andrew Bailey (banker)",
+      "resolvedTitle": "Andrew Bailey (banker)",
+      "wikidataId": "Q4756258",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "wikipedia-pageprops"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-4cdecbaac4cf6173efc2",
+      "property": "P106",
+      "claimId": "Q4756258$e0d4857f-5d1a-4676-99a5-e10269bd4db6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 212238,
+          "id": "Q212238"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 191769,
+                "id": "Q191769"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q191769",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q191769"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-22176b419a630e0ac187",
+      "property": "P27",
+      "claimId": "Q4756258$837217D1-5D99-4C5F-99E6-5073AB6880AF",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 145,
+          "id": "Q145"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-514da2f835e07ffb4c15",
+      "property": "P569",
+      "claimId": "Q4756258$4D5F2C72-5519-4450-9B76-96F7A054DF5C",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1959-03-30T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1959-03-30"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1959-03-30T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1959-03-30",
+        "earliest": "1959-03-30",
+        "latest": "1959-03-30",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-251b683a94ec5034762e",
+      "property": "P19",
+      "claimId": "Q4756258$9DB2905A-3271-40AA-8BCC-145FD2E91841",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 83065,
+          "id": "Q83065"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1c6e4e9cafb07df693e7",
+      "property": "P69",
+      "claimId": "Q4756258$5B1CBB23-3AEA-4399-93DA-72986CC3DC6B",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 765642,
+          "id": "Q765642"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6a62109938565fdf9961",
+      "property": "P69",
+      "claimId": "Q4756258$D0D248EA-5976-4556-BBE8-8C957F0D224C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60286109,
+          "id": "Q60286109"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-cade1765b3c821820bbb",
+      "property": "P69",
+      "claimId": "Q4756258$E442A280-38A8-44FA-BBCD-53A0CE46E073",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 8039751,
+          "id": "Q8039751"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-08d11fd98c1603a28877",
+      "property": "P39",
+      "claimId": "Q4756258$b7399314-4e65-3002-8c24-f46937043d88",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2579905,
+          "id": "Q2579905"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-03-16T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-03-16"
+          }
+        ],
+        "P1365": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 192533,
+              "id": "Q192533"
+            }
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2020-03-16T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-03-16",
+          "earliest": "2020-03-16",
+          "latest": "2020-03-16",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-71004bd998b8ebad7e6a",
+      "property": "P39",
+      "claimId": "Q4756258$5e9ad122-4085-9b1a-63d6-c48a8eafe263",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 140686,
+          "id": "Q140686"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2025-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2025"
+          }
+        ],
+        "P1365": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 631864,
+              "id": "Q631864"
+            }
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2025-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b0101d7b7fec21ca1b64",
+      "property": "P39",
+      "claimId": "Q4756258$0F9A344E-6312-457A-B752-8A4C1CA0F608",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5096682,
+          "id": "Q5096682"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-01-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004-01"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2011-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2011-04"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2004-01-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004-01",
+          "earliest": "2004-01-01",
+          "latest": "2004-01-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2011-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2011-04",
+          "earliest": "2011-04-01",
+          "latest": "2011-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-be303da1f6ef5b3a8f68",
+      "factId": "fact-71004bd998b8ebad7e6a",
+      "claimId": "Q4756258$5e9ad122-4085-9b1a-63d6-c48a8eafe263",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2025",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2ccb453ea50ff844d742",
+      "factId": "fact-08d11fd98c1603a28877",
+      "claimId": "Q4756258$b7399314-4e65-3002-8c24-f46937043d88",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2020-03-16",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-fdf5980c919b75150ae1",
+      "factId": "fact-b0101d7b7fec21ca1b64",
+      "claimId": "Q4756258$0F9A344E-6312-457A-B752-8A4C1CA0F608",
+      "property": "P39",
+      "dateProperty": "P582",
+      "date": "2011-04",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c252ec4451d9536ed450",
+      "factId": "fact-b0101d7b7fec21ca1b64",
+      "claimId": "Q4756258$0F9A344E-6312-457A-B752-8A4C1CA0F608",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2004-01",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-36159b4dff86cffdd42d",
+      "factId": "fact-514da2f835e07ffb4c15",
+      "claimId": "Q4756258$4D5F2C72-5519-4450-9B76-96F7A054DF5C",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1959-03-30",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1382037841",
+        "https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q4756258"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "安德鲁·贝利",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "职业",
+          "value": "公務員",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "国籍",
+          "value": "英国",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "来源所记出生日期",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "出生地",
+          "value": "莱斯特",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "就读机构",
+          "value": "剑桥大学女皇学院",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "就读机构",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "就读机构",
+          "value": "維杰斯頓伊利莎白女皇一世書院",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "担任职务",
+          "value": "英格兰银行行长",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "担任职务",
+          "value": "主席",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "担任职务",
+          "value": "英格蘭銀行出納總管",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "担任职务: 主席",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: 英格兰银行行长",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "担任职务: 英格蘭銀行出納總管",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "担任职务: 英格蘭銀行出納總管",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1959-03-30",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Andrew Bailey",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "Occupation",
+          "value": "civil servant",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "Citizenship",
+          "value": "United Kingdom",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "Source-reported birth date",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "Place of birth",
+          "value": "Leicester",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "Educational institution",
+          "value": "Queens' College",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "Educational institution",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "Educational institution",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "Position held",
+          "value": "Governor of the Bank of England",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "Position held",
+          "value": "chairperson",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "Position held",
+          "value": "Chief Cashier of the Bank of England",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "Position held: chairperson",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: Governor of the Bank of England",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Position held: Chief Cashier of the Bank of England",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Position held: Chief Cashier of the Bank of England",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1959-03-30",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Andrew Bailey",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "Profession",
+          "value": "fonctionnaire",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "Nationalité",
+          "value": "Royaume-Uni",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "Lieu de naissance",
+          "value": "Leicester",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "Établissement fréquenté",
+          "value": "Queens' College, Cambridge",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "Établissement fréquenté",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "Établissement fréquenté",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "Fonction exercée",
+          "value": "gouverneur de la Banque d'Angleterre",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "Fonction exercée",
+          "value": "président ou présidente",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "Fonction exercée",
+          "value": "Chief Cashier of the Bank of England",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "Fonction exercée: président ou présidente",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: gouverneur de la Banque d'Angleterre",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Fonction exercée: Chief Cashier of the Bank of England",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Fonction exercée: Chief Cashier of the Bank of England",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1959-03-30",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Andrew Bailey",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "المهنة",
+          "value": "موظف مدني",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "الجنسية",
+          "value": "المملكة المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "مكان الميلاد",
+          "value": "ليستر",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "المؤسسة التعليمية",
+          "value": "كلية كوينز",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "المؤسسة التعليمية",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "المؤسسة التعليمية",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "المنصب",
+          "value": "حاكم بنك إنجلترا",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "المنصب",
+          "value": "رئيس مجلس الإدارة",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "المنصب",
+          "value": "Chief Cashier of the Bank of England",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "المنصب: رئيس مجلس الإدارة",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: حاكم بنك إنجلترا",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "المنصب: Chief Cashier of the Bank of England",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "المنصب: Chief Cashier of the Bank of England",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1959-03-30",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Andrew Bailey",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "Beruf",
+          "value": "Beamter",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigtes Königreich",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "Geburtsort",
+          "value": "Leicester",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "Bildungseinrichtung",
+          "value": "Queens' College, Cambridge",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "Bildungseinrichtung",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "Bildungseinrichtung",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "Ausgeübtes Amt",
+          "value": "Governor of the Bank of England",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "Ausgeübtes Amt",
+          "value": "Vorsitzender",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "Ausgeübtes Amt",
+          "value": "Chief Cashier",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Vorsitzender",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Governor of the Bank of England",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Ausgeübtes Amt: Chief Cashier",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Chief Cashier",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1959-03-30",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "アンドリュー・ジョン・ベイリー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "職業",
+          "value": "公務員",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "国籍",
+          "value": "イギリス",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "出典に記載された生年月日",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "出生地",
+          "value": "レスター",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "在籍した教育機関",
+          "value": "クイーンズ・カレッジ (ケンブリッジ大学)",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "在籍した教育機関",
+          "value": "ワイゲストン男子グラマースクール",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "在籍した教育機関",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "役職",
+          "value": "イングランド銀行総裁",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "役職",
+          "value": "組織代表",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "役職",
+          "value": "Chief Cashier of the Bank of England",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "役職: 組織代表",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: イングランド銀行総裁",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "役職: Chief Cashier of the Bank of England",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "役職: Chief Cashier of the Bank of England",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1959-03-30",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Andrew Bailey",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "Ocupación",
+          "value": "funcionario",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "Nacionalidad",
+          "value": "Reino Unido",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "Lugar de nacimiento",
+          "value": "Leicester",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "Institución educativa",
+          "value": "Queens' College, Cambridge",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "Institución educativa",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "Institución educativa",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "Cargo desempeñado",
+          "value": "gobernador del Banco de Inglaterra",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "Cargo desempeñado",
+          "value": "presidente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "Cargo desempeñado",
+          "value": "Cajero Jefe",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "Cargo desempeñado: presidente",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: gobernador del Banco de Inglaterra",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Cargo desempeñado: Cajero Jefe",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "Cargo desempeñado: Cajero Jefe",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1959-03-30",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "앤드루 베일리",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-4cdecbaac4cf6173efc2",
+          "label": "직업",
+          "value": "공무원",
+          "notes": []
+        },
+        {
+          "id": "fact-22176b419a630e0ac187",
+          "label": "국적",
+          "value": "영국",
+          "notes": []
+        },
+        {
+          "id": "fact-514da2f835e07ffb4c15",
+          "label": "출처에 기재된 출생일",
+          "value": "1959-03-30",
+          "notes": []
+        },
+        {
+          "id": "fact-251b683a94ec5034762e",
+          "label": "출생지",
+          "value": "레스터",
+          "notes": []
+        },
+        {
+          "id": "fact-1c6e4e9cafb07df693e7",
+          "label": "교육 기관",
+          "value": "Queens' College",
+          "notes": []
+        },
+        {
+          "id": "fact-6a62109938565fdf9961",
+          "label": "교육 기관",
+          "value": "Wyggeston Grammar School for Boys",
+          "notes": []
+        },
+        {
+          "id": "fact-cade1765b3c821820bbb",
+          "label": "교육 기관",
+          "value": "Wyggeston and Queen Elizabeth I College",
+          "notes": []
+        },
+        {
+          "id": "fact-08d11fd98c1603a28877",
+          "label": "직책",
+          "value": "Governor of the Bank of England",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-71004bd998b8ebad7e6a",
+          "label": "직책",
+          "value": "의장",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-b0101d7b7fec21ca1b64",
+          "label": "직책",
+          "value": "Chief Cashier of the Bank of England",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-be303da1f6ef5b3a8f68",
+          "factId": "fact-71004bd998b8ebad7e6a",
+          "date": "2025",
+          "precision": 9,
+          "kind": "start",
+          "title": "직책: 의장",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-2ccb453ea50ff844d742",
+          "factId": "fact-08d11fd98c1603a28877",
+          "date": "2020-03-16",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: Governor of the Bank of England",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-fdf5980c919b75150ae1",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2011-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "직책: Chief Cashier of the Bank of England",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-c252ec4451d9536ed450",
+          "factId": "fact-b0101d7b7fec21ca1b64",
+          "date": "2004-01",
+          "precision": 10,
+          "kind": "start",
+          "title": "직책: Chief Cashier of the Bank of England",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-36159b4dff86cffdd42d",
+          "factId": "fact-514da2f835e07ffb4c15",
+          "date": "1959-03-30",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1959-03-30",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q5096682"
+      },
+      {
+        "locale": "ar",
+        "key": "Q60286109"
+      },
+      {
+        "locale": "ar",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "de",
+        "key": "Q60286109"
+      },
+      {
+        "locale": "de",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "es",
+        "key": "Q60286109"
+      },
+      {
+        "locale": "es",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "fr",
+        "key": "Q5096682"
+      },
+      {
+        "locale": "fr",
+        "key": "Q60286109"
+      },
+      {
+        "locale": "fr",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "ja",
+        "key": "Q5096682"
+      },
+      {
+        "locale": "ja",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2579905"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5096682"
+      },
+      {
+        "locale": "ko",
+        "key": "Q60286109"
+      },
+      {
+        "locale": "ko",
+        "key": "Q765642"
+      },
+      {
+        "locale": "ko",
+        "key": "Q8039751"
+      },
+      {
+        "locale": "zh",
+        "key": "Q60286109"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Andrew Bailey",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q5096682",
+        "fallbackLocale": "en",
+        "value": "Chief Cashier of the Bank of England",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q5096682",
+        "fallbackLocale": "en",
+        "value": "Chief Cashier of the Bank of England",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q5096682",
+        "fallbackLocale": "en",
+        "value": "Chief Cashier of the Bank of England",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2579905",
+        "fallbackLocale": "en",
+        "value": "Governor of the Bank of England",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5096682",
+        "fallbackLocale": "en",
+        "value": "Chief Cashier of the Bank of England",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q765642",
+        "fallbackLocale": "en",
+        "value": "Queens' College",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q8039751",
+        "fallbackLocale": "en",
+        "value": "Wyggeston and Queen Elizabeth I College",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q60286109",
+        "fallbackLocale": "en",
+        "value": "Wyggeston Grammar School for Boys",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 10,
+    "factsWithoutExternalReference": 10,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

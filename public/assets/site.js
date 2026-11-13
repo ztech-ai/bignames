@@ -248,29 +248,88 @@
 
   const candidateSearch = $('#candidate-search');
   if (candidateSearch) {
-    const domain = $('#candidate-domain');
-    const batch = $('#candidate-batch');
+    const controls = { domain: $('#candidate-domain'), batch: $('#candidate-batch'), region: $('#candidate-region'), status: $('#candidate-status'), minStars: $('#candidate-min-stars') };
+    const sort = $('#candidate-sort');
     const rows = $$('[data-candidate]');
-    const filterCandidates = () => {
-      const tokens = normalize(candidateSearch.value).split(' ').filter(Boolean);
-      const selectedDomain = cleanFilter(domain?.value);
-      const selectedBatch = cleanFilter(batch?.value);
-      let visible = 0;
-      for (const row of rows) {
-        const text = normalize(row.dataset.search || row.textContent);
-        const domains = (row.dataset.domain || row.dataset.domains || '').split(/[\s,|]+/);
-        const match = tokens.every(token => text.includes(token)) && (!selectedDomain || domains.includes(selectedDomain)) && (!selectedBatch || row.dataset.batch === selectedBatch);
-        row.hidden = !match;
-        if (match) visible++;
+    const pageSize = Number($('.campaign-table')?.dataset.pageSize) || Math.max(rows.length, 1);
+    const pagination = $('#candidate-pagination');
+    const textIndex = new Map(rows.map(row => [row, normalize(row.dataset.search || row.textContent)]));
+    const validValue = (key, value) => controls[key] && [...controls[key].options].some(option => cleanFilter(option.value) === value) ? value : '';
+    let state;
+    function readCandidateURL() {
+      const params = new URLSearchParams(window.location.search);
+      const page = Number(params.get('page'));
+      return { q: (params.get('q') || '').slice(0, 200), ...Object.fromEntries(Object.keys(controls).map(key => [key, validValue(key, cleanFilter(params.get(key)))])), page: Number.isSafeInteger(page) && page > 0 ? page : 1, sort: params.get('sort')==='stars'?'stars':'editorial' };
+    }
+    function writeCandidateURL(replace = false) {
+      const url = new URL(window.location.href);
+      for (const key of ['q', ...Object.keys(controls), 'page', 'sort']) url.searchParams.delete(key);
+      for (const key of ['q', ...Object.keys(controls)]) if (state[key]) url.searchParams.set(key, state[key]);
+      if (state.page > 1) url.searchParams.set('page', String(state.page));
+      if (state.sort === 'stars') url.searchParams.set('sort', 'stars');
+      if (url.href !== window.location.href) {
+        try { window.history[replace ? 'replaceState' : 'pushState']({}, '', url); }
+        catch { /* Local file previews can still filter without history access. */ }
       }
+      syncLanguageLinks();
+    }
+    function renderCandidatePagination(totalPages, total) {
+      if (!pagination) return;
+      pagination.replaceChildren();
+      pagination.hidden = totalPages < 2;
+      if (totalPages < 2) return;
+      function addButton(label, page, disabled = false, current = false) {
+        const button = document.createElement('button');
+        button.type = 'button'; button.textContent = label; button.disabled = disabled;
+        button.dataset.page = String(page);
+        button.setAttribute('aria-label', /^\d+$/.test(label) ? m('pagination.page', { page: number.format(page) }) : label);
+        if (current) { button.classList.add('active'); button.setAttribute('aria-current', 'page'); }
+        button.addEventListener('click', () => { updateCandidates({ page }); $('#candidate-count')?.scrollIntoView({ behavior: reducedMotion() ? 'auto' : 'smooth', block: 'start' }); });
+        pagination.append(button);
+      }
+      addButton(m('pagination.previous'), state.page - 1, state.page === 1);
+      const start = Math.max(1, Math.min(state.page - 2, totalPages - 4));
+      for (let page = start; page <= Math.min(totalPages, start + 4); page++) addButton(number.format(page), page, false, page === state.page);
+      addButton(m('pagination.next'), state.page + 1, state.page === totalPages);
+      const info = document.createElement('span'); info.className = 'page-info';
+      info.textContent = m('pagination.info', { page: number.format(state.page), pages: number.format(totalPages), total: number.format(total) });
+      pagination.append(info);
+    }
+    function renderCandidates() {
+      candidateSearch.value = state.q;
+      if (sort) sort.value = state.sort;
+      for (const [key, control] of Object.entries(controls)) if (control) control.value = state[key] || 'all';
+      const tokens = normalize(state.q).split(' ').filter(Boolean);
+      const matches = rows.filter(row => {
+        const domains = (row.dataset.domains || row.dataset.domain || '').split(/[\s,|]+/);
+        const regions = (row.dataset.regions || '').split(/[\s,|]+/);
+        return tokens.every(token => textIndex.get(row).includes(token)) && (!state.domain || domains.includes(state.domain)) && (!state.batch || row.dataset.batch === state.batch) && (!state.region || regions.includes(state.region)) && (!state.status || row.dataset.status === state.status) && (!state.minStars || Number(row.dataset.stars) >= Number(state.minStars));
+      });
+      if (state.sort === 'stars') matches.sort((a,b) => Number(b.dataset.stars || 0) - Number(a.dataset.stars || 0));
+      const totalPages = Math.max(1, Math.ceil(matches.length / pageSize));
+      state.page = Math.min(state.page, totalPages);
+      const visible = new Set(matches.slice((state.page - 1) * pageSize, state.page * pageSize));
+      for (const row of rows) row.hidden = !visible.has(row);
+      if (rows.length) for (const row of matches) rows[0].parentElement.append(row);
       const count = $('#candidate-count');
-      if (count) count.textContent = m('candidates.count', { count: number.format(visible), total: number.format(rows.length) });
+      if (count) count.textContent = m('candidates.count', { count: number.format(matches.length), total: number.format(rows.length) });
       const empty = $('#candidate-empty');
-      if (empty) empty.hidden = visible > 0;
-    };
-    candidateSearch.addEventListener('input', filterCandidates);
-    domain?.addEventListener('change', filterCandidates);
-    batch?.addEventListener('change', filterCandidates);
-    filterCandidates();
+      if (empty) empty.hidden = matches.length > 0;
+      renderCandidatePagination(totalPages, matches.length);
+    }
+    function updateCandidates(patch, replace = false) {
+      state = { ...state, ...patch };
+      renderCandidates(); writeCandidateURL(replace);
+    }
+    candidateSearch.addEventListener('input', event => { if (!event.isComposing) updateCandidates({ q: candidateSearch.value.slice(0, 200), page: 1 }, true); });
+    candidateSearch.addEventListener('compositionend', () => updateCandidates({ q: candidateSearch.value.slice(0, 200), page: 1 }, true));
+    candidateSearch.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && !event.isComposing) { event.preventDefault(); updateCandidates({ q: '', page: 1 }, true); }
+    });
+    for (const [key, control] of Object.entries(controls)) control?.addEventListener('change', () => updateCandidates({ [key]: cleanFilter(control.value), page: 1 }));
+    sort?.addEventListener('change', () => updateCandidates({ sort: sort.value, page: 1 }));
+    $('#candidate-reset')?.addEventListener('click', () => updateCandidates({ q: '', domain: '', region: '', batch: '', status: '', minStars: '', sort: 'editorial', page: 1 }));
+    window.addEventListener('popstate', () => { state = readCandidateURL(); renderCandidates(); syncLanguageLinks(); });
+    state = readCandidateURL(); renderCandidates(); writeCandidateURL(true);
   }
 })();

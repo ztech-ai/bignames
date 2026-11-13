@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": 1,
+  "id": "luis-arce",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "路易斯·阿尔塞",
+    "enName": "Luis Arce",
+    "domain": "politics",
+    "domains": [
+      "politics"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "subfield": "玻利维亚政治",
+    "inclusionReason": "曾任玻利维亚经济部长并当选总统，参与资源、公共投资和国家经济政策的长期调整。",
+    "priority": 3
+  },
+  "fetchedAt": "2026-11-13T11:00:06Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Luis Arce",
+    "requestedTitle": "Luis Arce",
+    "resolvedTitle": "Luis Arce",
+    "wikidataId": "Q16149892",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Luis_Arce",
+      "title": "Luis Arce",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:00:06Z",
+      "revisionId": 1379740731,
+      "revisionTimestamp": "2026-10-11T17:49:44Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1379740731",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16149892",
+      "title": "Q16149892",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:00:07Z",
+      "revisionId": 2567130497,
+      "revisionTimestamp": "2026-11-09T13:18:59Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Luis Alberto Arce Catacora (born 28 September 1963), often referred to as Lucho, is a Bolivian former politician, banker, and economist who served as the 67th president of Bolivia from 2020 to 2025. A member of the Movement for Socialism (MAS), he previously served as minister of finance—later minister of economy and public finance—from 2006 to 2017, and in 2019.\nBorn in La Paz, Arce graduated as an economist at the University of Warwick. His lifelong career in banking and accounting at the Central Bank of Bolivia prompted President Evo Morales to appoint him as minister of finance in 2006. For over ten years as Morales' longest-serving minister, Arce was hailed as the architect behind Bolivia's economic transformation, overseeing the nationalization of the country's hydrocarbons industry, the rapid expansion of GDP, and the reduction of poverty. His tenure was only brought to an end by a diagnosis of kidney cancer, which forced him to leave office to seek treatment abroad. Upon his recovery, Arce was reappointed to his position in January 2019 but resigned from office within the year amid the social unrest within the country following the disputed 2019 election that culminated in Morales...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Luis Arce",
+    "de": "Luis Arce",
+    "fr": "Luis Arce",
+    "es": "Luis Arce",
+    "ar": "لويس آرسي",
+    "ko": "루이스 아르세",
+    "zh": "卢乔·阿尔塞",
+    "ja": "ルイス・アルセ"
+  },
+  "descriptions": {
+    "en": "Bolivian politician and president of Bolivia from 2020 to 2025",
+    "es": "presidente de Bolivia de 2020 a 2025",
+    "ar": "سياسي بوليفي",
+    "de": "ehemaliger Präsident Boliviens",
+    "fr": "économiste et homme d'État bolivien",
+    "zh": "會計師 和前任玻利維亞總統",
+    "ja": "ボリビア大統領"
+  },
+  "languageArticles": {
+    "ar": "لويس آرسي",
+    "de": "Luis Arce",
+    "en": "Luis Arce",
+    "es": "Luis Arce",
+    "fr": "Luis Arce",
+    "ja": "ルイス・アルセ",
+    "ko": "루이스 아르세",
+    "zh": "路易斯·阿尔塞"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q16149892$81471875-B48A-4655-960F-0F7CFE4F6310",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q16149892$E0FA6E12-0441-4EEA-A621-CAB9F9FD5B80",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82955,
+            "id": "Q82955"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16149892$F73CF5A3-C95C-464C-9C82-4A31291BC6A3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 188094,
+            "id": "Q188094"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8449,
+                  "id": "Q8449"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q16149892$A23F910C-4388-4D7B-97F8-7783657BA916",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1963-09-28T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1963-09-28"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q16149892$093FB15F-0992-4675-98B6-E4F32F2B4541",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 750,
+            "id": "Q750"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q16149892$F9F3CD1A-B71A-4A65-8BB9-9C9CC53CFB7E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1491,
+            "id": "Q1491"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q16149892$72D9D304-237B-47B3-B32A-8A408B928667",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3290454,
+            "id": "Q3290454"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 749020,
+                "id": "Q749020"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16149892$dba2f3a1-42a9-5ae0-0c5b-47fd903c909d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 865528,
+            "id": "Q865528"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1589434,
+                "id": "Q1589434"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://warwick.ac.uk/fac/soc/economics/news/2021/11/warwick_welcomes_bolivian_president/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16149892$0890ffca-46e9-ed9f-3dc2-937fcd3ff11e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 373548,
+            "id": "Q373548"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-11-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-11-08"
+            }
+          ],
+          "P1365": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 16581287,
+                "id": "Q16581287"
+              }
+            }
+          ],
+          "P1366": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 110520817,
+                "id": "Q110520817"
+              }
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-11-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-11-08"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q16149892$cc659cec-4280-98cd-4e64-e571148b2155",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 110419018,
+            "id": "Q110419018"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-01-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-01-23"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-11-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-11-10"
+            }
+          ],
+          "P1365": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 60887847,
+                "id": "Q60887847"
+              }
+            }
+          ],
+          "P1366": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 98140052,
+                "id": "Q98140052"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16149892$e09fbbec-4064-06dc-1789-4cf3b15a4e60",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 110419018,
+            "id": "Q110419018"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-01-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006-01-23"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-06-24T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-06-24"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q16149892$D514901B-B02F-4E9D-B52B-B7F89F924721",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped II.png"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P69": "education",
+    "P39": "position",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q110419018": {
+      "id": "Q110419018",
+      "fetchedAt": "2026-11-13T11:00:07Z",
+      "labels": {
+        "en": "Minister of Economy and Public Finance",
+        "es": "Ministro de Economía y Finanzas Públicas"
+      },
+      "descriptions": {
+        "en": "Ministerial position in Bolivia"
+      }
+    },
+    "Q110520817": {
+      "id": "Q110520817",
+      "fetchedAt": "2026-11-13T11:00:08Z",
+      "labels": {
+        "de": "Rodrigo Paz Pereira",
+        "fr": "Rodrigo Paz Pereira",
+        "es": "Rodrigo Paz Pereira",
+        "ja": "ロドリゴ・パス・ペレイラ",
+        "zh": "罗德里戈·帕斯·佩雷拉",
+        "en": "Rodrigo Paz",
+        "ar": "رودريغو باز بيريرا",
+        "ko": "로드리고 파스 페레이라"
+      },
+      "descriptions": {
+        "en": "President of Bolivia",
+        "es": "presidente de Bolivia desde 2025",
+        "ar": "سياسي بوليفي",
+        "fr": "homme d'État bolivien",
+        "de": "bolivianischer Präsident",
+        "ja": "ボリビアの政治家 (1967-)",
+        "zh": "玻利維亞總統"
+      }
+    },
+    "Q1491": {
+      "id": "Q1491",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "fr": "La Paz",
+        "en": "La Paz",
+        "ar": "لاباز",
+        "de": "La Paz",
+        "es": "La Paz",
+        "ja": "ラパス",
+        "ko": "라파스",
+        "zh": "拉巴斯"
+      },
+      "descriptions": {
+        "en": "capital city and seat of government of Bolivia",
+        "fr": "capitale administrative de la Bolivie",
+        "es": "sede de gobierno de Bolivia",
+        "de": "Großstadt und Regierungssitz Boliviens",
+        "ar": "عاصمة بوليفيا",
+        "zh": "玻利维亚城市",
+        "ja": "ボリビアの事実上の首都"
+      }
+    },
+    "Q1589434": {
+      "id": "Q1589434",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "de": "Magister",
+        "en": "magister degree",
+        "fr": "magistère",
+        "es": "magíster",
+        "ar": "ماجستير",
+        "zh": "文學碩士",
+        "ja": "マギスター"
+      },
+      "descriptions": {
+        "en": "academic degree in higher education",
+        "es": "grado académico",
+        "de": "akademischer Grad",
+        "fr": "diplôme de second cycle universitaire",
+        "zh": "高等教育學位",
+        "ar": "درجة أكاديمية في التعليم العالي"
+      }
+    },
+    "Q16581287": {
+      "id": "Q16581287",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "es": "Jeanine Áñez",
+        "en": "Jeanine Áñez",
+        "fr": "Jeanine Añez",
+        "de": "Jeanine Áñez",
+        "ko": "자니네 아녜스",
+        "zh": "珍尼娜∙阿涅斯",
+        "ar": "جانين آنييز",
+        "ja": "ヘアニネ・アニェス"
+      },
+      "descriptions": {
+        "ar": "سياسية بوليفية",
+        "fr": "femme d'État bolivienne",
+        "de": "bolivianische Politikerin",
+        "zh": "律師 和前任玻利維亞總統",
+        "ko": "볼리비아 제81대 대통령",
+        "en": "Bolivian politician and Former President of Bolivia (2019–2020)",
+        "es": "presidenta de Bolivia de 2019 a 2020",
+        "ja": "ボリビアの政治家"
+      }
+    },
+    "Q188094": {
+      "id": "Q188094",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "ko": "경제학자",
+        "fr": "économiste",
+        "es": "economista",
+        "de": "Wirtschaftswissenschaftler",
+        "ja": "経済学者",
+        "en": "economist",
+        "zh": "经济学家",
+        "ar": "اقتصادي"
+      },
+      "descriptions": {
+        "en": "professional in the discipline of economics",
+        "es": "profesional de la ciencia social de economía",
+        "fr": "chercheur et théoricien en science économique",
+        "de": "Person mit Studium der Wirtschaftswissenschaften, die als Ökonom arbeitet",
+        "ar": "محترف مختص في علم الاقتصاد",
+        "zh": "經濟學專業社會科學學者",
+        "ko": "경제학을 연구하는 학자",
+        "ja": "経済の研究などを行う専門家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3290454": {
+      "id": "Q3290454",
+      "fetchedAt": "2026-11-13T11:00:12Z",
+      "labels": {
+        "ja": "サン・アンドレス大学",
+        "es": "Universidad Mayor de San Andrés",
+        "en": "Higher University of San Andrés",
+        "de": "Universidad Mayor de San Andrés",
+        "fr": "Université de San Andrés",
+        "ar": "جامعة سان أندرياس العليا",
+        "zh": "圣安德烈斯大学"
+      },
+      "descriptions": {
+        "es": "universidad pública de Bolivia, fundada en 1830 y la segunda más antigua del país",
+        "de": "Universität in Bolivien",
+        "en": "university in La Paz, Bolivia",
+        "ar": "جامعة في لاباز، بوليفيا",
+        "fr": "université bolivienne",
+        "ja": "ボリビアの大学"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q373548": {
+      "id": "Q373548",
+      "fetchedAt": "2026-11-13T11:00:12Z",
+      "labels": {
+        "fr": "président de la Bolivie",
+        "es": "presidente de Bolivia",
+        "de": "Präsident Boliviens",
+        "ja": "ボリビアの大統領",
+        "zh": "玻利维亚总统",
+        "ar": "رئيس جمهورية بوليفيا",
+        "en": "president of Bolivia",
+        "ko": "볼리비아의 대통령"
+      },
+      "descriptions": {
+        "fr": "chef d'État de la Bolivie",
+        "es": "jefe de Estado y Gobierno de Bolivia",
+        "en": "head of state and head of government of Bolivia",
+        "zh": "职位",
+        "ar": "سيمون بوليفار هو اول محرر دول امريكا اللاتينيه من الاستعمار الاسباني"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q60887847": {
+      "id": "Q60887847",
+      "fetchedAt": "2026-11-13T11:00:14Z",
+      "labels": {
+        "en": "Mario Guillén",
+        "es": "Mario Guillén"
+      },
+      "descriptions": {
+        "es": "Ingeniero industrial, abogado y político boliviano",
+        "en": "Bolivian Minister of Econmy"
+      }
+    },
+    "Q749020": {
+      "id": "Q749020",
+      "fetchedAt": "2026-11-13T10:59:47Z",
+      "labels": {
+        "ar": "إجازة جامعية",
+        "de": "Lizenziat",
+        "en": "licentiate",
+        "es": "licenciatura",
+        "fr": "licence",
+        "ja": "上級修士号",
+        "zh": "执业学位"
+      },
+      "descriptions": {
+        "fr": "grade universitaire décerné dans de nombreux pays",
+        "de": "akademischer Grad und Inhaber einer akademischen Licentia docendi (Erlaubnis zu lehren)",
+        "en": "academic rank which represents different educational levels in diverse countries",
+        "es": "grado académico universitario, el cual representa diferentes niveles educacionales en diversos países",
+        "ar": "شهادة جامعية متوسطة للمجالات النظرية",
+        "ja": "学術ランクのひとつ。さまざまな国の異なる教育レベルを表す"
+      }
+    },
+    "Q750": {
+      "id": "Q750",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "en": "Bolivia",
+        "fr": "Bolivie",
+        "es": "Bolivia",
+        "de": "Bolivien",
+        "ar": "بوليفيا",
+        "ja": "ボリビア",
+        "ko": "볼리비아",
+        "zh": "玻利維亞"
+      },
+      "descriptions": {
+        "en": "sovereign state in South America",
+        "fr": "pays d'Amérique du Sud",
+        "es": "país de América del Sur",
+        "de": "Staat in Südamerika",
+        "ko": "남아메리카의 나라",
+        "ar": "دولة في أمريكا الجنوبية",
+        "zh": "南美洲國家",
+        "ja": "南アメリカの国"
+      }
+    },
+    "Q82955": {
+      "id": "Q82955",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "政治人物",
+        "es": "político",
+        "ar": "سياسي",
+        "ko": "정치인",
+        "fr": "personnalité politique",
+        "de": "Politiker",
+        "ja": "政治家",
+        "en": "politician"
+      },
+      "descriptions": {
+        "en": "person who seeks or holds a political office or mandate or is otherwise politically active",
+        "es": "persona que desempeña o aspira a desempeñar un cargo político",
+        "de": "Person, die ein politisches Amt oder Mandat innehat oder in sonstiger Weise politisch wirkt",
+        "fr": "personne impliquée dans la vie politique",
+        "zh": "參與政治的人物、政府官員",
+        "ja": "議員・地方自治体の首長といった、選挙で公職に選出され、政策や法律を決める職業",
+        "ko": "정치에 참여하는 인물",
+        "ar": "الشخص الذي يسعى إلى شغل منصب سياسي أو ولاية أو يشغلها أو يكون ناشطًا سياسيًا بأي شكل آخر"
+      }
+    },
+    "Q8449": {
+      "id": "Q8449",
+      "fetchedAt": "2026-11-13T10:59:02Z",
+      "labels": {
+        "fr": "Wikipédia en espagnol",
+        "en": "Spanish Wikipedia",
+        "ar": "ويكيبيديا الإسبانية",
+        "de": "spanischsprachige Wikipedia",
+        "es": "Wikipedia en español",
+        "ja": "スペイン語版ウィキペディア",
+        "ko": "스페인어 위키백과",
+        "zh": "西班牙語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "Spanish-language edition of Wikipedia",
+        "es": "edición de Wikipedia en idioma español",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in spanischer Sprache",
+        "ko": "위키백과의 스페인어판",
+        "ar": "النسخة الإسبانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科的西班牙语版",
+        "ja": "ウィキペディアのスペイン語版"
+      }
+    },
+    "Q865528": {
+      "id": "Q865528",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "ko": "워릭 대학교",
+        "fr": "Université de Warwick",
+        "es": "Universidad de Warwick",
+        "en": "University of Warwick",
+        "de": "University of Warwick",
+        "ja": "ウォーリック大学",
+        "ar": "جامعة ووريك",
+        "zh": "华威大学"
+      },
+      "descriptions": {
+        "en": "university in Coventry, United Kingdom",
+        "de": "Universität im Vereinigten Königreich",
+        "fr": "université anglaise située à Coventry dans les Midlands de l'Ouest",
+        "ar": "جامعة في المملكة المتحدة",
+        "es": "universidad",
+        "ja": "イギリスの大学",
+        "zh": "英国公立大学"
+      }
+    },
+    "Q98140052": {
+      "id": "Q98140052",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "en": "José Luis Parada Rivero",
+        "es": "José Luis Parada Rivero"
+      },
+      "descriptions": {
+        "es": "Economista y político boliviano",
+        "en": "Bolivian politician",
+        "fr": "homme politique bolivien",
+        "ar": "سياسي بوليفي"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped II.png",
+    "fetchedAt": "2026-11-13T11:00:18Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luis_Alberto_Arce_Catacora_(Official_Portrait,_2020)_Cropped_II.png",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luis_Alberto_Arce_Catacora_%28Official_Portrait%2C_2020%29_Cropped_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Luis_Alberto_Arce_Catacora_%28Official_Portrait%2C_2020%29_Cropped_II.png/960px-Luis_Alberto_Arce_Catacora_%28Official_Portrait%2C_2020%29_Cropped_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 2916,
+    "height": 3782,
+    "mediaTimestamp": "2023-01-03T07:32:17Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Government of Bolivia",
+    "credit": "Plurinational Legislative Assembly",
+    "description": "Luis Alberto Arce Catacora, 67th president of Bolivia",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/42c31a6fb245048b8d262be9.png",
+    "cachedImageBytes": 1756012,
+    "cachedImageSha256": "306bdd20f871d667a878bd56a34b5ae29e2083b3cc9bc34f25ec7278912b0dd2"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 3,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

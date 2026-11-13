@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "mike-henry",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "迈克·亨利",
+    "enName": "Mike Henry",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "oceania",
+      "north-america"
+    ],
+    "subfield": "能源与矿业",
+    "inclusionReason": "领导必和必拓，参与全球矿业资产调整与能源转型所需资源供应。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "领导必和必拓，参与全球矿业资产调整与能源转型所需资源供应。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:28Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Mike Henry",
+    "requestedTitle": "Mike Henry (businessman)",
+    "resolvedTitle": "Mike Henry (businessman)",
+    "wikidataId": "Q81071198",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Mike_Henry_(businessman)",
+      "title": "Mike Henry (businessman)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:28Z",
+      "revisionId": 1372382630,
+      "revisionTimestamp": "2026-08-31T13:51:02Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1372382630",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q81071198",
+      "title": "Q81071198",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:15:22Z",
+      "revisionId": 2431746013,
+      "revisionTimestamp": "2025-11-20T01:01:10Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Mike Henry (born 1966) is a Canadian-born businessman who was the CEO of BHP from 1 January 2020 to 30 June 2026.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Mike Henry",
+    "zh": "韩慕睿",
+    "ja": "マイク・ヘンリー"
+  },
+  "descriptions": {
+    "en": "CEO of BHP",
+    "ja": "BHPのCEO",
+    "zh": "加拿大企业家"
+  },
+  "languageArticles": {
+    "en": "Mike Henry (businessman)",
+    "zh": "韩慕睿"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q81071198$53d5cd85-4c3b-8301-0e98-c1772f6722b2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q81071198$b9f7ce57-4132-a5c5-eadf-8bf201aac368",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q81071198$c85eb47a-4126-d86d-6eab-78a7c104f2da",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 391028,
+            "id": "Q391028"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 53775321,
+                "id": "Q53775321"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.businessnews.com.au/Person/Mike-Henry"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q81071198$7EEF5F04-4948-47B9-939A-CA5B747DCB85",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1966-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1966"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q81071198$9fe3807c-4b1c-c3ee-4ef8-3d67342efa08",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Mike Henry (born 1966) at World Economic Forum Davos 2024.png"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q81071198$715a3e45-41b0-2862-4403-37c01e6a4094",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 625713,
+            "id": "Q625713"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q81071198$8e095f46-4dbf-2043-a553-6f78352b37ec",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-01-01"
+            }
+          ]
+        },
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P69": "education",
+    "P569": "birthDate",
+    "P18": "image",
+    "P108": "employer",
+    "P39": "position"
+  },
+  "relatedEntities": {
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q391028": {
+      "id": "Q391028",
+      "fetchedAt": "2026-11-13T10:59:45Z",
+      "labels": {
+        "fr": "Université de la Colombie-Britannique",
+        "ko": "브리티시컬럼비아 대학교",
+        "es": "Universidad de Columbia Británica",
+        "de": "Universität von British Columbia",
+        "ja": "ブリティッシュコロンビア大学",
+        "en": "University of British Columbia",
+        "zh": "不列顛哥倫比亞大學",
+        "ar": "جامعة كولومبيا البريطانية"
+      },
+      "descriptions": {
+        "en": "public research university in British Columbia, Canada",
+        "de": "Universität in Kanada",
+        "zh": "加拿大不列顛哥倫比亞省公立大學",
+        "fr": "université canadienne située à Vancouver en Colombie-Britannique",
+        "ar": "جامعة في مقاطعة كولومبيا البريطانية في كندا",
+        "ja": "カナダの大学",
+        "es": "universidad pública de investigación en Columbia Británica, Canadá"
+      }
+    },
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q53775321": {
+      "id": "Q53775321",
+      "fetchedAt": "2026-11-13T11:15:23Z",
+      "labels": {
+        "en": "Bachelor of Science in Chemistry",
+        "fr": "licence en chimie",
+        "ar": "بكالوريوس العلوم في الكيمياء",
+        "es": "Grado en Ciencias de Química"
+      },
+      "descriptions": {
+        "en": "undergraduate academic degree in chemistry",
+        "fr": "licence en chimie en France",
+        "ar": "شهادة جامعية",
+        "es": "tipo de grado universitario"
+      }
+    },
+    "Q625713": {
+      "id": "Q625713",
+      "fetchedAt": "2026-11-13T11:15:23Z",
+      "labels": {
+        "ko": "BHP 빌리튼",
+        "fr": "BHP Billiton",
+        "en": "BHP Group",
+        "es": "BHP Billiton",
+        "de": "BHP Billiton",
+        "ja": "BHPグループ",
+        "zh": "必和必拓",
+        "ar": "شركة بي اتش بي"
+      },
+      "descriptions": {
+        "en": "Australian multinational mining and metals company",
+        "fr": "compagnie minière multinationale",
+        "de": "Unternehmen in Australien",
+        "ja": "多国籍鉱業会社",
+        "es": "empresa australiana de minera",
+        "ar": "شركة أسترالية",
+        "zh": "資源公司"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Mike Henry (born 1966) at World Economic Forum Davos 2024.png",
+    "fetchedAt": "2026-11-13T11:15:31Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mike_Henry_(born_1966)_at_World_Economic_Forum_Davos_2024.png",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mike_Henry_%28born_1966%29_at_World_Economic_Forum_Davos_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mike_Henry_%28born_1966%29_at_World_Economic_Forum_Davos_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 583,
+    "height": 601,
+    "mediaTimestamp": "2024-02-03T06:44:53Z",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "World Economic Forum",
+    "credit": "YouTube: The Economics of Gender Parity | Davos 2024 | World Economic Forum – View/save archived versions on archive.org",
+    "description": "Mike Henry (born 1966) at World Economic Forum Davos 2024",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/c7f23633d5cd576cff8337cd.png",
+    "cachedImageBytes": 344350,
+    "cachedImageSha256": "acfb036eb15168067b0dc9350973d778ce037fd2290af2a1524551e9a32c8ff7"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

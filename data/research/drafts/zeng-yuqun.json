@@ -1,0 +1,983 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "zeng-yuqun",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/zeng-yuqun.json",
+    "sha256": "3e773655d03127c9a77915fa76c243616611a3b1eb4655e932bbed3255125cfe",
+    "capturedAt": "2026-11-13T11:25:37Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+      "https://en.wikipedia.org/wiki/Robin_Zeng",
+      "https://www.wikidata.org/wiki/Q18653686"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q18653686",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Robin Zeng",
+    "sourceIdentity": {
+      "requestedName": "Robin Zeng",
+      "requestedTitle": "Zeng Yuqun",
+      "resolvedTitle": "Robin Zeng",
+      "wikidataId": "Q18653686",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-f1f881f6ac2d77d7558f",
+      "property": "P106",
+      "claimId": "Q18653686$721295c5-8f49-4978-9f1c-38e92e17c751",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1120b51749bd84020056",
+      "property": "P27",
+      "claimId": "Q18653686$2A5AC962-477F-4D7A-AE1E-78517F6A6473",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 148,
+          "id": "Q148"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-64421df80e6995d1d741",
+      "property": "P569",
+      "claimId": "Q18653686$01CB4B05-A6CE-4AE4-8EF7-272047CB5716",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1968-03-01T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 10,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1968-03"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 30239,
+                "id": "Q30239"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1968-03-01T00:00:00Z",
+        "precision": 10,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1968-03",
+        "earliest": "1968-03-01",
+        "latest": "1968-03-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-7059b49b35c3f8b949e7",
+      "property": "P19",
+      "claimId": "Q18653686$87B1CAFC-C3C6-4D0D-B41F-DEC34F7EB1AF",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 68919,
+          "id": "Q68919"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1ba6dc502a572e1c4881",
+      "property": "P69",
+      "claimId": "Q18653686$CA6A1C29-35BA-4654-B719-9B805192F09D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 525169,
+          "id": "Q525169"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-cd3cf1d57a1a768ff22e",
+      "property": "P39",
+      "claimId": "Q18653686$618B49CD-4773-4735-93F9-270EB8B9CF99",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 51078983,
+          "id": "Q51078983"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-41a29b4e6291171449af",
+      "property": "P1416",
+      "claimId": "Q18653686$cadc8e4c-427f-a939-83f0-f115dbe018b4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 19215,
+          "id": "Q19215"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-982a16a57c5d6f538e60",
+      "property": "P1416",
+      "claimId": "Q18653686$5C290876-17DA-43D9-A20A-4B1F6972000D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 18653563,
+          "id": "Q18653563"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835663,
+                "id": "Q114835663"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q114835663",
+        "https://www.wikidata.org/wiki/Q18653686"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114835663"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-75d03a065532fd3083aa",
+      "factId": "fact-64421df80e6995d1d741",
+      "claimId": "Q18653686$01CB4B05-A6CE-4AE4-8EF7-272047CB5716",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1968-03",
+      "precision": 10,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1345330127",
+        "https://en.wikipedia.org/wiki/Robin_Zeng",
+        "https://www.wikidata.org/wiki/Q18653686",
+        "https://www.wikidata.org/wiki/Q30239"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "曾毓群",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "国籍",
+          "value": "中华人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "来源所记出生日期",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "出生地",
+          "value": "宁德市",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "就读机构",
+          "value": "上海交通大学",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "担任职务",
+          "value": "全国政协委员",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "所属机构",
+          "value": "中国人民政治协商会议",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "所属机构",
+          "value": "宁德时代",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1968-03",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Robin Zeng",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "Citizenship",
+          "value": "People's Republic of China",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "Source-reported birth date",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "Place of birth",
+          "value": "Ningde",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "Educational institution",
+          "value": "Shanghai Jiao Tong University",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "Position held",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "Affiliation",
+          "value": "Chinese People's Political Consultative Conference",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "Affiliation",
+          "value": "Contemporary Amperex Technology Co. Limited",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1968-03",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Zeng Yuqun",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "Nationalité",
+          "value": "République populaire de Chine",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "Lieu de naissance",
+          "value": "Ningde",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "Établissement fréquenté",
+          "value": "université Jiao-tong de Shanghai",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "Fonction exercée",
+          "value": "membre du comité national de la conférence consultative politique du peuple chinois",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "Affiliation",
+          "value": "Conférence consultative politique du peuple chinois",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "Affiliation",
+          "value": "Contemporary Amperex Technology Limited",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1968-03",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Robin Zeng",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "الجنسية",
+          "value": "الصين",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "مكان الميلاد",
+          "value": "نينغد",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة شانغهاي جياو تونغ",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "المنصب",
+          "value": "عضو اللجنة الوطنية لجمهورية الصين الشعبية",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "الانتساب المؤسسي",
+          "value": "المؤتمر الاستشاري السياسي للشعب الصيني",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "الانتساب المؤسسي",
+          "value": "شركة كاتل",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1968-03",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Zeng Yuqun",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "Staatsangehörigkeit",
+          "value": "Volksrepublik China",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "Geburtsort",
+          "value": "Ningde",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "Bildungseinrichtung",
+          "value": "Jiaotong-Universität Shanghai",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "Ausgeübtes Amt",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "Zugehörigkeit",
+          "value": "Politische Konsultativkonferenz des chinesischen Volkes",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "Zugehörigkeit",
+          "value": "Contemporary Amperex Technology Limited",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1968-03",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ロビン・ゼン",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "国籍",
+          "value": "中華人民共和国",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "出典に記載された生年月日",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "出生地",
+          "value": "寧徳市",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "在籍した教育機関",
+          "value": "上海交通大学",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "役職",
+          "value": "中国人民政治協商会議全国委員会委員",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "所属機関",
+          "value": "中国人民政治協商会議",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "所属機関",
+          "value": "寧徳時代新能源科技",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1968-03",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Robin Zeng",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "Nacionalidad",
+          "value": "República Popular China",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "Lugar de nacimiento",
+          "value": "Ningde",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "Institución educativa",
+          "value": "Universidad de Shanghái Jiao Tong",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "Cargo desempeñado",
+          "value": "miembro del Comité Nacional de la Conferencia Consultiva Política del Pueblo Chino",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "Afiliación",
+          "value": "Conferencia Consultiva Política del Pueblo Chino",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "Afiliación",
+          "value": "Contemporary Amperex Technology",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1968-03",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Robin Zeng",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-f1f881f6ac2d77d7558f",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-1120b51749bd84020056",
+          "label": "국적",
+          "value": "중화인민공화국",
+          "notes": []
+        },
+        {
+          "id": "fact-64421df80e6995d1d741",
+          "label": "출처에 기재된 출생일",
+          "value": "1968-03",
+          "notes": []
+        },
+        {
+          "id": "fact-7059b49b35c3f8b949e7",
+          "label": "출생지",
+          "value": "닝더시",
+          "notes": []
+        },
+        {
+          "id": "fact-1ba6dc502a572e1c4881",
+          "label": "교육 기관",
+          "value": "상하이 자오퉁 대학",
+          "notes": []
+        },
+        {
+          "id": "fact-cd3cf1d57a1a768ff22e",
+          "label": "직책",
+          "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-41a29b4e6291171449af",
+          "label": "소속 기관",
+          "value": "중국인민정치협상회의",
+          "notes": []
+        },
+        {
+          "id": "fact-982a16a57c5d6f538e60",
+          "label": "소속 기관",
+          "value": "CATL",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-75d03a065532fd3083aa",
+          "factId": "fact-64421df80e6995d1d741",
+          "date": "1968-03",
+          "precision": 10,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1968-03",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q51078983"
+      },
+      {
+        "locale": "es",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q51078983"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Robin Zeng",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q51078983",
+        "fallbackLocale": "en",
+        "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Robin Zeng",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Robin Zeng",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q51078983",
+        "fallbackLocale": "en",
+        "value": "member of the National Committee of the Chinese People's Political Consultative Conference",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 8,
+    "factsWithoutExternalReference": 8,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

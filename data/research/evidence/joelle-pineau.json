@@ -1,0 +1,1086 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "joelle-pineau",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "乔埃尔·皮诺",
+    "enName": "Joelle Pineau",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "在强化学习、机器人和开放科学方面作出贡献，推动机器学习研究的复现性与应用。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "在强化学习、机器人和开放科学方面作出贡献，推动机器学习研究的复现性与应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:13Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Joelle Pineau",
+    "requestedTitle": "Joëlle Pineau",
+    "resolvedTitle": "Joëlle Pineau",
+    "wikidataId": "Q44741969",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau",
+      "title": "Joëlle Pineau",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:13Z",
+      "revisionId": 1379680139,
+      "revisionTimestamp": "2026-10-11T08:05:07Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1379680139",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q44741969",
+      "title": "Q44741969",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:28Z",
+      "revisionId": 2527632984,
+      "revisionTimestamp": "2026-08-05T13:29:18Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Joëlle Pineau (born 1974) is a Canadian computer scientist and Professor at McGill University. She is the chief A.I. Officer of Cohere. She was the global vice president of Facebook Artificial Intelligence Research (FAIR), now known as AI at Meta, until May 2025. She was elected as a Fellow of the Royal Society of Canada in 2023.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Joëlle Pineau",
+    "en": "Joëlle Pineau",
+    "de": "Joëlle Pineau",
+    "es": "Joëlle Pineau",
+    "zh": "喬埃爾·皮諾"
+  },
+  "descriptions": {
+    "en": "Canadian computer scientist",
+    "fr": "chercheuse canadienne",
+    "de": "Kanadische Computerwissenschafterin, Associate Professor an der McGill Universität Montreal, Leiterin Facebook AI Lab",
+    "ja": "研究員",
+    "es": "investigador",
+    "zh": "研究者"
+  },
+  "languageArticles": {
+    "de": "Joëlle Pineau",
+    "en": "Joëlle Pineau",
+    "fr": "Joëlle Pineau"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q44741969$E8FD0661-607A-407B-9E80-850781ADE535",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54919,
+                  "id": "Q54919"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-05-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-05-14"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q44741969$c8d61b8d-4307-3c1f-5db7-4eb52e79b3e2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 47524244,
+            "id": "Q47524244"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-09-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-09"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://publications.mcgill.ca/reporter/2017/09/joelle-pineau-to-head-new-facebook-ai-fair-lab-in-montreal/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-01-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-01-31"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q44741969$004f5f3c-4aeb-4d51-8de4-30c7a868a846",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 201492,
+            "id": "Q201492"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q44741969$d02e2a02-4f23-208a-80ec-db2012eaaa33",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "http://www.cs.mcgill.ca/~jpineau/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q44741969$926209E5-C7B9-4197-80CF-9C3D7005D835",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1930,
+            "id": "Q1930"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q44741969$4ebffd22-4b9f-85fb-600b-24b5d0a99cdc",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$72c02230-4a76-9ba3-16b6-ecce051ed0db",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11660,
+            "id": "Q11660"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$d43557d9-4d2d-16b7-33f8-a81d197bff09",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170978,
+            "id": "Q170978"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q44741969$532faf50-4ae4-52c7-23d3-c40f4cd1b0c5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1049470,
+            "id": "Q1049470"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$0d8145b4-43d6-1cd6-2b14-4534b8d788a6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 190080,
+            "id": "Q190080"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q44741969$db5b808e-8ef6-4c65-9a2a-df00f9d44dce",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15976092,
+            "id": "Q15976092"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8447,
+                  "id": "Q8447"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q44741969$55b750db-42a8-ca33-a967-00567ba43526",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1622272,
+            "id": "Q1622272"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$4B29611D-EFBD-47F9-BD13-775652DB2CFD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q44741969$00F9D78D-7F16-4629-836D-E07CC9C95928",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1974-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1974"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q44741969$655DFC33-B075-4340-80F2-76990132B324",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16,
+            "id": "Q16"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q44741969$DE920C36-DA6E-4206-8988-5B04752CBF09",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748042,
+            "id": "Q18748042"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q44741969$25dd7138-46b6-6601-97b0-f43c885246e2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 67189629,
+            "id": "Q67189629"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q44741969$5a41bcea-4239-8843-9c7a-47393480deea",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 94301,
+            "id": "Q94301"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$3501d918-4237-9e2d-11fc-8852e979c18a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5030174,
+            "id": "Q5030174"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q44741969$d5aad474-4425-3a68-ca45-4cc71cc8fe89",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 17087718,
+            "id": "Q17087718"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q44741969$A5ADF7B4-B243-4EEA-BBCF-F970DA182059",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Joëlle Pineau at the Canada Science and Technology Museum.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P108": "employer",
+    "P856": "officialWebsite",
+    "P19": "birthPlace",
+    "P101": "fieldOfWork",
+    "P69": "education",
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P166": "award",
+    "P463": "membership",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q1049470": {
+      "id": "Q1049470",
+      "fetchedAt": "2026-11-13T11:06:35Z",
+      "labels": {
+        "ko": "워털루 대학교",
+        "fr": "Université de Waterloo",
+        "en": "University of Waterloo",
+        "es": "Universidad de Waterloo",
+        "de": "University of Waterloo",
+        "ja": "ウォータールー大学",
+        "ar": "جامعة واترلو",
+        "zh": "滑鐵盧大學"
+      },
+      "descriptions": {
+        "de": "Universität in Kanada",
+        "en": "public research university in Waterloo, Ontario, Canada",
+        "fr": "université de l'Ontario, au Canada",
+        "zh": "加拿大的一所大学",
+        "ar": "جامعة أبحاث عامة في أونتاريو، كندا",
+        "es": "universidad pública de investigación en Waterloo, Ontario, Canadá",
+        "ja": "カナダの大学"
+      }
+    },
+    "Q11660": {
+      "id": "Q11660",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "en": "artificial intelligence",
+        "fr": "intelligence artificielle",
+        "de": "künstliche Intelligenz",
+        "ar": "ذكاء اصطناعي",
+        "es": "inteligencia artificial",
+        "ja": "人工知能",
+        "ko": "인공지능",
+        "zh": "人工智能"
+      },
+      "descriptions": {
+        "es": "inteligencia exhibida por máquinas y software",
+        "de": "Teilgebiet der Informatik, das sich mit maschinellen Intelligenzleistungen befasst",
+        "fr": "ensemble des techniques de simulation de l'intelligence",
+        "ar": "مجال علوم الحاسوب والممارسات الهندسية للذكاء التي تظهرها الآلات والوكلاء الأذكياء",
+        "zh": "計算機科學分支，開發具有類似人類智能的機器和軟件",
+        "ja": "人間の知能をコンピュータで模倣する技術",
+        "en": "field that develops and studies software enabling machines to exhibit intelligent behavior",
+        "ko": "인간의 학습능력, 추론능력, 지각능력을에 인공적으로 구현하려는 컴퓨터 과학의 세부 분야"
+      }
+    },
+    "Q15976092": {
+      "id": "Q15976092",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "artificial intelligence researcher",
+        "es": "investigador de la inteligencia artificial",
+        "fr": "chercheur ou chercheuse en intelligence artificielle",
+        "de": "KI-Forscher",
+        "ar": "باحث في مجال الذكاء الاصطناعي",
+        "ja": "人工知能研究者",
+        "ko": "인공지능 연구자",
+        "zh": "人工智能研究者"
+      },
+      "descriptions": {
+        "de": "Wissenschaftler auf dem Gebiet der künstlichen Intelligenz",
+        "es": "profesión, científicos del campo de la inteligencia artificial",
+        "en": "researcher in the field of artificial intelligence",
+        "ja": "人工知能分野の研究者"
+      }
+    },
+    "Q16": {
+      "id": "Q16",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "Canadá",
+        "ar": "كندا",
+        "de": "Kanada",
+        "en": "Canada",
+        "fr": "Canada",
+        "zh": "加拿大",
+        "ja": "カナダ",
+        "ko": "캐나다"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "zh": "北美洲國家",
+        "es": "país de América del Norte",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "en": "country in North America",
+        "ja": "北アメリカの国",
+        "ko": "북아메리카의 국가"
+      }
+    },
+    "Q1622272": {
+      "id": "Q1622272",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "de": "Hochschullehrer",
+        "fr": "professeur d'université",
+        "en": "university teacher",
+        "es": "profesor universitario",
+        "zh": "大學教師",
+        "ko": "대학 교수",
+        "ja": "大学教員",
+        "ar": "مُدرِّس جامعي"
+      },
+      "descriptions": {
+        "fr": "personnel enseignant en poste dans une université. Voir Q121594 pour le titre de Professeur et Q28004591 pour le grade de professeur des universités en France",
+        "en": "person teaching at a university or college",
+        "es": "persona que enseña en la universidad",
+        "de": "Person, die an einer Hochschule lehrt und forscht",
+        "zh": "高等院校任教者",
+        "ja": "大学で教育を行う者",
+        "ar": "شخص يدرس في الجامعة"
+      }
+    },
+    "Q17087718": {
+      "id": "Q17087718",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "International Conference on Machine Learning",
+        "fr": "International Conference on Machine Learning",
+        "de": "International Conference on Machine Learning",
+        "ar": "المؤتمر الدولي للتعلم الآلي",
+        "zh": "国际机器学习大会",
+        "ko": "국제 기계 학습 학술회의"
+      },
+      "descriptions": {
+        "en": "ICML, leading international academic conference in machine learning",
+        "ar": "منظمة"
+      }
+    },
+    "Q170978": {
+      "id": "Q170978",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "fr": "robotique",
+        "ko": "로봇공학",
+        "es": "robótica",
+        "de": "Robotik",
+        "ja": "ロボット工学",
+        "ar": "روبوتية",
+        "en": "robotics",
+        "zh": "機器人學"
+      },
+      "descriptions": {
+        "ja": "ロボットに関する技術を研究する学問",
+        "en": "design, construction, operation, and application of robots",
+        "de": "Sammelbegriff für das Design, Konstruktion und den Betrieb von Robotern",
+        "fr": "ensemble des techniques permettant la conception de robots",
+        "es": "rama de la tecnología que se dedica al diseño, construcción y operación de los robots",
+        "zh": "機器人的設計、建造、操作和應用",
+        "ko": "로봇에 관한 공학"
+      }
+    },
+    "Q18748042": {
+      "id": "Q18748042",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "AAAI Fellow",
+        "ar": "زمالة جمعية النهوض بالذكاء الاصطناعي",
+        "zh": "人工智慧促進協會會士",
+        "ja": "AAAIフェロー"
+      },
+      "descriptions": {
+        "en": "award",
+        "ar": "جائزة"
+      }
+    },
+    "Q190080": {
+      "id": "Q190080",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "ko": "카네기 멜론 대학교",
+        "fr": "Université Carnegie-Mellon",
+        "es": "Universidad Carnegie Mellon",
+        "de": "Carnegie Mellon University",
+        "ja": "カーネギーメロン大学",
+        "en": "Carnegie Mellon University",
+        "ar": "جامعة كارنيغي ميلون",
+        "zh": "卡内基梅隆大学"
+      },
+      "descriptions": {
+        "en": "private research university in Pittsburgh, Pennsylvania, United States",
+        "de": "Universität in Pittsburgh, Vereinigte Staaten",
+        "ar": "جامعة خاصة في الولايات المتحدة",
+        "zh": "美国宾夕法尼亚州匹兹堡的研究型私立大学",
+        "ja": "アメリカの私立大学",
+        "fr": "université privée américaine située à Pittsburgh (Pennsylvanie)",
+        "es": "universidad privada en Pittsburgh, Pensilvania, Estados Unidos"
+      }
+    },
+    "Q1930": {
+      "id": "Q1930",
+      "fetchedAt": "2026-11-13T10:59:43Z",
+      "labels": {
+        "en": "Ottawa",
+        "fr": "Ottawa",
+        "ar": "أوتاوا",
+        "de": "Ottawa",
+        "es": "Ottawa",
+        "ja": "オタワ",
+        "ko": "오타와",
+        "zh": "渥太華"
+      },
+      "descriptions": {
+        "en": "capital city of Canada",
+        "es": "capital de Canadá",
+        "ja": "カナダの首都",
+        "fr": "capitale du Canada",
+        "de": "Bundeshauptstadt Kanadas",
+        "ar": "العاصمة الفيدرالية لكندا",
+        "zh": "加拿大首都",
+        "ko": "캐나다의 수도"
+      }
+    },
+    "Q201492": {
+      "id": "Q201492",
+      "fetchedAt": "2026-11-13T10:59:43Z",
+      "labels": {
+        "fr": "Université McGill",
+        "ko": "맥길 대학교",
+        "es": "Universidad McGill",
+        "de": "McGill University",
+        "ja": "マギル大学",
+        "en": "McGill University",
+        "ar": "جامعة مكغيل",
+        "zh": "麦吉尔大学"
+      },
+      "descriptions": {
+        "en": "English-language public research university in Montreal, Quebec, Canada",
+        "de": "englischsprachige Universität in Montreal, Kanada",
+        "fr": "université anglophone située à Montréal, au Québec, Canada",
+        "zh": "魁北克蒙特利爾的英語公立研究型大學",
+        "es": "universidad pública en Montreal, Quebec, Canadá",
+        "ja": "カナダの大学",
+        "ko": "캐나다 퀘벡주 몬트리올에 위치한 연구 중심 공립 대학",
+        "ar": "جامعة بحثية عامة ناطقة بالإنجليزية في مونتريال، كيبك، كندا"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q47524244": {
+      "id": "Q47524244",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "FAIR Montreal",
+        "fr": "Facebook Artificial Intelligence Research"
+      },
+      "descriptions": {
+        "en": "Facebook Artificial Intelligence Research Lab in Montreal"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5030174": {
+      "id": "Q5030174",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "Canadian Institute for Advanced Research",
+        "fr": "Institut canadien de recherches avancées",
+        "zh": "加拿大高等研究院",
+        "ar": "المعهد الكندي للبحوث المتقدمة",
+        "ja": "カナダ先端研究機構",
+        "ko": "CIFAR"
+      },
+      "descriptions": {
+        "de": "Forschungseinrichtung in Kanada",
+        "en": "charitable organization based in Toronto",
+        "fr": "institut de recherche au Canada"
+      }
+    },
+    "Q54919": {
+      "id": "Q54919",
+      "fetchedAt": "2026-11-13T10:59:46Z",
+      "labels": {
+        "fr": "Fichier d'autorité international virtuel",
+        "es": "Fichero de Autoridades Virtual Internacional",
+        "ja": "バーチャル国際典拠ファイル",
+        "zh": "虚拟国际规范文档",
+        "ko": "가상 국제 전거 파일",
+        "ar": "ملف استنادي دولي افتراضي",
+        "en": "Virtual International Authority File",
+        "de": "Virtual International Authority File"
+      },
+      "descriptions": {
+        "de": "internationale Sammlung von Normdaten",
+        "fr": "fichier international d'identification de personnes ou collectivités",
+        "es": "proyecto de bibliotecas nacionales y operado por el Online Computer Library Center para unir los ficheros de autoridad virtual de aquellas bibliotecas",
+        "ko": "OCLC가 운영하는 전거 파일. 약칭 VIAF",
+        "en": "OCLC dataset and service that virtually combines multiple name authority files into a single name authority service",
+        "ja": "複数の国立図書館による共同プロジェクトで、Online Computer Library Center (OCLC) が運営する、国際典拠ファイル",
+        "ar": "ملف استنادي دولي",
+        "zh": "國際權威檔案"
+      }
+    },
+    "Q67189629": {
+      "id": "Q67189629",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "fr": "prix du gouverneur général pour l’innovation",
+        "en": "Governor General's Innovation Awards"
+      },
+      "descriptions": {
+        "en": "Canadian award for innovation"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q8447": {
+      "id": "Q8447",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "Wikipédia en français",
+        "en": "French Wikipedia",
+        "ar": "ويكيبيديا الفرنسية",
+        "de": "französischsprachige Wikipedia",
+        "es": "Wikipedia en francés",
+        "ja": "フランス語版ウィキペディア",
+        "ko": "프랑스어 위키백과",
+        "zh": "法語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "[fr] French-language edition of Wikipedia",
+        "es": "edición en francés de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in französischer Sprache",
+        "ko": "위키백과의 프랑스어판",
+        "zh": "维基百科法语版",
+        "ar": "النسخة الفرنسية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアのフランス語版"
+      }
+    },
+    "Q94301": {
+      "id": "Q94301",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "de": "Royal Society of Canada",
+        "ja": "カナダ王立協会",
+        "fr": "Société royale du Canada",
+        "en": "Royal Society of Canada",
+        "zh": "加拿大皇家學會",
+        "ar": "الجمعية الملكية الكندية",
+        "es": "Real Sociedad Canadiense"
+      },
+      "descriptions": {
+        "en": "bilingual academy in Canada (1882–)",
+        "fr": "plus ancien organisme national bilingue regroupant les plus éminents universitaires, humanistes, scientifiques et artistes canadiens",
+        "es": "academia en Canadá",
+        "de": "zweisprachige Akademie der Wissenschaften Kanadas (1882–)",
+        "ja": "カナダの科学・芸術アカデミー",
+        "zh": "加拿大学术机构"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Joëlle Pineau at the Canada Science and Technology Museum.jpg",
+    "fetchedAt": "2026-11-13T11:14:33Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jo%C3%ABlle_Pineau_at_the_Canada_Science_and_Technology_Museum.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jo%C3%ABlle_Pineau_at_the_Canada_Science_and_Technology_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Jo%C3%ABlle_Pineau_at_the_Canada_Science_and_Technology_Museum.jpg/960px-Jo%C3%ABlle_Pineau_at_the_Canada_Science_and_Technology_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1079,
+    "height": 1407,
+    "mediaTimestamp": "2019-10-30T18:53:37Z",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Canada Science and Technology Museum",
+    "credit": "Curiosity on Stage Evening Edition with Google - The AI Revolution at 12:35, cropped",
+    "description": "Join Google, Inc. and the Canada Science and Technology Museum for an evening of thought-provoking discussions about artificial intelligence.\nInvited speakers from industry leaders Google, Facebook, Element AI and Deepmind will explore the intersection of artificial intelligence with robotics, arts, social impact and healthcare.\nSpeakers include\n\nDavid Usher (Moderator)\nJoelle Pineau (Facebook) - The AI Revolution:  From Ideas and Models to Building Smart Robots\nPablo Samuel Castro (Google) - Building an Intelligent Assistant for Music Creators\nPhilippe Beaudoin (Element AI) - Concrete AI-for-Good initiatives at Element AI\nDoina Precup (Deepmind) - Challenges and opportunities for the AI revolution in health care\nFor more information please visit https://ingeniumcanada.org/scitech/wh...",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/f6e22d910f0fc65c0bd796ee.jpg",
+    "cachedImageBytes": 122351,
+    "cachedImageSha256": "8ac813b19662462f2843e418599e1c18fb765ed72ee94364cef517bc5f3d5ff7"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 2,
+    "referenceUrls": 2,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

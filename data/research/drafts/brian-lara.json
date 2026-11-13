@@ -1,0 +1,1593 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "brian-lara",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/brian-lara.json",
+    "sha256": "3d8298635fc84c5cc1c321098577140226ce7720343a63dae0651d35ac0441c5",
+    "capturedAt": "2026-11-13T11:25:58Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+      "https://en.wikipedia.org/wiki/Brian_Lara",
+      "https://www.wikidata.org/wiki/Q202877"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q202877",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Brian Lara",
+    "sourceIdentity": {
+      "requestedName": "Brian Lara",
+      "requestedTitle": "Brian Lara",
+      "resolvedTitle": "Brian Lara",
+      "wikidataId": "Q202877",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-04d846e70513893a9666",
+      "property": "P106",
+      "claimId": "Q202877$AD8B35A9-9190-403C-AF87-34291272205E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 12299841,
+          "id": "Q12299841"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-37de0d59fbd2558fc46c",
+      "property": "P106",
+      "claimId": "Q202877$C7BF2A92-E4B3-4CEB-B45A-56886CABA43C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2066131,
+          "id": "Q2066131"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-f3496fabcd4aa5eeae15",
+      "property": "P27",
+      "claimId": "Q202877$E80868C2-FC42-4F7D-A754-A0196EB0262D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 754,
+          "id": "Q754"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-265ac2a85c63ec971e5b",
+      "property": "P569",
+      "claimId": "q202877$CE12F16A-FCD4-40A5-A2D5-24E5EBB2754F",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1969-05-02T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1969-05-02"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 5375741,
+                "id": "Q5375741"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1969-05-02T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1969-05-02",
+        "earliest": "1969-05-02",
+        "latest": "1969-05-02",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-6298b3af5f8f6cdaba2a",
+      "property": "P19",
+      "claimId": "Q202877$63626D17-FB82-4A58-872E-EC254E574D27",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 7419386,
+          "id": "Q7419386"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 746368,
+                "id": "Q746368"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-10-17T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-262a21eb5f79c9ec3eaa",
+      "property": "P69",
+      "claimId": "Q202877$AED78CE8-A8D9-4424-AA1B-CF5900CBB375",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5437829,
+          "id": "Q5437829"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d62bf4a4e20c924d5122",
+      "property": "P166",
+      "claimId": "Q202877$56F69FD0-CFF8-4EA2-B198-D3483110C066",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 56449119,
+          "id": "Q56449119"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2009-11-27T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2009-11-27"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 47088042,
+                "id": "Q47088042"
+              }
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://honours.pmc.gov.au/honours/awards/1141645"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://honours.pmc.gov.au/honours/awards/1141645",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q47088042"
+      ],
+      "referenceUrls": [
+        "https://honours.pmc.gov.au/honours/awards/1141645",
+        "https://www.wikidata.org/wiki/Q47088042"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2009-11-27T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2009-11-27",
+          "earliest": "2009-11-27",
+          "latest": "2009-11-27",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f50119218c257597dc17",
+      "property": "P166",
+      "claimId": "Q202877$3966EF04-EE29-4DB5-AB1E-697F1088BCAA",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3569447,
+          "id": "Q3569447"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1995"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.wisden.com/wisden-cricketers-almanack/wisden-cricketers-of-the-year"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wisden.com/wisden-cricketers-almanack/wisden-cricketers-of-the-year"
+      ],
+      "referenceUrls": [
+        "https://www.wisden.com/wisden-cricketers-almanack/wisden-cricketers-of-the-year"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1995-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1995",
+          "earliest": "1995-01-01",
+          "latest": "1995-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e45b9e16869117138bda",
+      "property": "P856",
+      "claimId": "Q202877$AED21764-121C-47AF-9B68-D6D4233B9BEA",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://bclara.com"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-35937cb1238ddc2d94cd",
+      "factId": "fact-d62bf4a4e20c924d5122",
+      "claimId": "Q202877$56F69FD0-CFF8-4EA2-B198-D3483110C066",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2009-11-27",
+      "precision": 11,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://honours.pmc.gov.au/honours/awards/1141645",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q47088042"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-04cb1a77f1199f7d2ccf",
+      "factId": "fact-f50119218c257597dc17",
+      "claimId": "Q202877$3966EF04-EE29-4DB5-AB1E-697F1088BCAA",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1995",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wisden.com/wisden-cricketers-almanack/wisden-cricketers-of-the-year"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2d4f03148fc7b070c1a0",
+      "factId": "fact-265ac2a85c63ec971e5b",
+      "claimId": "q202877$CE12F16A-FCD4-40A5-A2D5-24E5EBB2754F",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1969-05-02",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385116874",
+        "https://en.wikipedia.org/wiki/Brian_Lara",
+        "https://www.wikidata.org/wiki/Q202877",
+        "https://www.wikidata.org/wiki/Q5375741",
+        "https://www.wikidata.org/wiki/Q746368"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "布赖恩·拉拉",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "职业",
+          "value": "板球運動員",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "职业",
+          "value": "运动员",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "国籍",
+          "value": "千里達及托巴哥",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "来源所记出生日期",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "出生地",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "就读机构",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "奖项",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "奖项",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "官方网站",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "奖项: Honorary Member of the Order of Australia",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Wisden Cricketer of the Year",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1969-05-02",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Brian Lara",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "Occupation",
+          "value": "cricketer",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "Occupation",
+          "value": "athlete",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "Citizenship",
+          "value": "Trinidad and Tobago",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "Source-reported birth date",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "Place of birth",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "Educational institution",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "Award",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "Award",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "Official website",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "Award: Honorary Member of the Order of Australia",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Wisden Cricketer of the Year",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1969-05-02",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Brian Lara",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "Profession",
+          "value": "joueur ou joueuse de cricket",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "Profession",
+          "value": "sportif ou sportive",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "Nationalité",
+          "value": "Trinité-et-Tobago",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "Lieu de naissance",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "Établissement fréquenté",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "Distinction",
+          "value": "membre honoraire de l'ordre d'Australie",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "Distinction",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "Site officiel",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinction: membre honoraire de l'ordre d'Australie",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Wisden Cricketer of the Year",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1969-05-02",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "بريان لارا",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "المهنة",
+          "value": "لاعب كريكت",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "المهنة",
+          "value": "رياضي",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "الجنسية",
+          "value": "ترينيداد وتوباغو",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "مكان الميلاد",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "المؤسسة التعليمية",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "الجائزة",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "الجائزة",
+          "value": "لاعب كريكت ويسدن للسنة",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "الموقع الرسمي",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "الجائزة: Honorary Member of the Order of Australia",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: لاعب كريكت ويسدن للسنة",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1969-05-02",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Brian Lara",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "Beruf",
+          "value": "Cricketspieler",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "Beruf",
+          "value": "Sportler",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "Staatsangehörigkeit",
+          "value": "Trinidad und Tobago",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "Geburtsort",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "Bildungseinrichtung",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "Auszeichnung",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "Auszeichnung",
+          "value": "Wisden Cricketers of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "Offizielle Website",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "Auszeichnung: Honorary Member of the Order of Australia",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Wisden Cricketers of the Year",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1969-05-02",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ブライアン・ララ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "職業",
+          "value": "クリケット選手",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "職業",
+          "value": "スポーツ選手",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "国籍",
+          "value": "トリニダード・トバゴ",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "出典に記載された生年月日",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "出生地",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "在籍した教育機関",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "受賞",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "受賞",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "公式サイト",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "受賞: Honorary Member of the Order of Australia",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Wisden Cricketer of the Year",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1969-05-02",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Brian Lara",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "Ocupación",
+          "value": "jugador de críquet",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "Ocupación",
+          "value": "deportista",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "Nacionalidad",
+          "value": "Trinidad y Tobago",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "Lugar de nacimiento",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "Institución educativa",
+          "value": "Colegio Fátima",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "Distinción",
+          "value": "Miembro Honorario de la Orden de Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "Distinción",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "Sitio web oficial",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "Distinción: Miembro Honorario de la Orden de Australia",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Wisden Cricketer of the Year",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1969-05-02",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Brian Lara",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04d846e70513893a9666",
+          "label": "직업",
+          "value": "크리켓 선수",
+          "notes": []
+        },
+        {
+          "id": "fact-37de0d59fbd2558fc46c",
+          "label": "직업",
+          "value": "선수",
+          "notes": []
+        },
+        {
+          "id": "fact-f3496fabcd4aa5eeae15",
+          "label": "국적",
+          "value": "트리니다드 토바고",
+          "notes": []
+        },
+        {
+          "id": "fact-265ac2a85c63ec971e5b",
+          "label": "출처에 기재된 출생일",
+          "value": "1969-05-02",
+          "notes": []
+        },
+        {
+          "id": "fact-6298b3af5f8f6cdaba2a",
+          "label": "출생지",
+          "value": "Santa Cruz",
+          "notes": []
+        },
+        {
+          "id": "fact-262a21eb5f79c9ec3eaa",
+          "label": "교육 기관",
+          "value": "Fatima College",
+          "notes": []
+        },
+        {
+          "id": "fact-d62bf4a4e20c924d5122",
+          "label": "수상",
+          "value": "Honorary Member of the Order of Australia",
+          "notes": []
+        },
+        {
+          "id": "fact-f50119218c257597dc17",
+          "label": "수상",
+          "value": "Wisden Cricketer of the Year",
+          "notes": []
+        },
+        {
+          "id": "fact-e45b9e16869117138bda",
+          "label": "공식 웹사이트",
+          "value": "http://bclara.com",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-35937cb1238ddc2d94cd",
+          "factId": "fact-d62bf4a4e20c924d5122",
+          "date": "2009-11-27",
+          "precision": 11,
+          "kind": "point",
+          "title": "수상: Honorary Member of the Order of Australia",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-04cb1a77f1199f7d2ccf",
+          "factId": "fact-f50119218c257597dc17",
+          "date": "1995",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Wisden Cricketer of the Year",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-2d4f03148fc7b070c1a0",
+          "factId": "fact-265ac2a85c63ec971e5b",
+          "date": "1969-05-02",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1969-05-02",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "ar",
+        "key": "Q56449119"
+      },
+      {
+        "locale": "ar",
+        "key": "Q7419386"
+      },
+      {
+        "locale": "de",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "de",
+        "key": "Q56449119"
+      },
+      {
+        "locale": "es",
+        "key": "Q3569447"
+      },
+      {
+        "locale": "fr",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "ja",
+        "key": "Q3569447"
+      },
+      {
+        "locale": "ja",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "ja",
+        "key": "Q56449119"
+      },
+      {
+        "locale": "ja",
+        "key": "Q7419386"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q3569447"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "ko",
+        "key": "Q56449119"
+      },
+      {
+        "locale": "ko",
+        "key": "Q7419386"
+      },
+      {
+        "locale": "zh",
+        "key": "Q3569447"
+      },
+      {
+        "locale": "zh",
+        "key": "Q5437829"
+      },
+      {
+        "locale": "zh",
+        "key": "Q56449119"
+      },
+      {
+        "locale": "zh",
+        "key": "Q7419386"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q56449119",
+        "fallbackLocale": "en",
+        "value": "Honorary Member of the Order of Australia",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q7419386",
+        "fallbackLocale": "en",
+        "value": "Santa Cruz",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q56449119",
+        "fallbackLocale": "en",
+        "value": "Honorary Member of the Order of Australia",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q3569447",
+        "fallbackLocale": "en",
+        "value": "Wisden Cricketer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q3569447",
+        "fallbackLocale": "en",
+        "value": "Wisden Cricketer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q56449119",
+        "fallbackLocale": "en",
+        "value": "Honorary Member of the Order of Australia",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q7419386",
+        "fallbackLocale": "en",
+        "value": "Santa Cruz",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Brian Lara",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q3569447",
+        "fallbackLocale": "en",
+        "value": "Wisden Cricketer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q56449119",
+        "fallbackLocale": "en",
+        "value": "Honorary Member of the Order of Australia",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q7419386",
+        "fallbackLocale": "en",
+        "value": "Santa Cruz",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q3569447",
+        "fallbackLocale": "en",
+        "value": "Wisden Cricketer of the Year",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q5437829",
+        "fallbackLocale": "en",
+        "value": "Fatima College",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q56449119",
+        "fallbackLocale": "en",
+        "value": "Honorary Member of the Order of Australia",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q7419386",
+        "fallbackLocale": "en",
+        "value": "Santa Cruz",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 3,
+    "professionalEventCount": 2,
+    "factCount": 9,
+    "factsWithoutExternalReference": 7,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

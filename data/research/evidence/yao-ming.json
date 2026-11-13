@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "yao-ming",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "姚明",
+    "enName": "Yao Ming",
+    "domain": "sports",
+    "domains": [
+      "sports"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "篮球",
+    "inclusionReason": "进入NBA名人堂并参与篮球治理，连接中国与国际篮球市场。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "进入NBA名人堂并参与篮球治理，连接中国与国际篮球市场。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:00Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Yao Ming",
+    "requestedTitle": "Yao Ming",
+    "resolvedTitle": "Yao Ming",
+    "wikidataId": "Q58590",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Yao_Ming",
+      "title": "Yao Ming",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:00Z",
+      "revisionId": 1384959939,
+      "revisionTimestamp": "2026-11-11T01:34:58Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384959939",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q58590",
+      "title": "Q58590",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:13:18Z",
+      "revisionId": 2568393454,
+      "revisionTimestamp": "2026-11-12T19:12:24Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Yao Ming (Chinese: 姚明; born September 12, 1980) is a Chinese basketball executive and former professional player. He played for the Shanghai Sharks of the Chinese Basketball Association (CBA), and then spent his entire nine-year National Basketball Association (NBA) career with the Houston Rockets. He was an eight-time NBA All-Star, and was named to the All-NBA Team five times. At 7 feet 6 inches (2.29 m), he was the NBA's tallest active player in his final season.\nBorn in Shanghai, Yao began playing for the Sharks as a teenager, and played on their senior team for five years in the CBA, winning a championship in his final year. After negotiating with the CBA and the Sharks to secure his release, Yao was selected by the Rockets as the first overall pick in the 2002 NBA draft. He reached the NBA playoffs four times, and in 2009, helped the Rockets win their first playoff series since 1997. After missing several games due to a series of foot and ankle injuries in his last six seasons, Yao announced his retirement from professional basketball in 2011. Among Rockets franchise leaders, Yao ranks second in total blocks, sixth in total rebounds, and ranked sixth in total points at the time...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "zh": "姚明",
+    "ar": "ياو مينغ",
+    "de": "Yao Ming",
+    "en": "Yao Ming",
+    "es": "Yao Ming",
+    "fr": "Yao Ming",
+    "ja": "姚明",
+    "ko": "야오밍"
+  },
+  "descriptions": {
+    "zh": "中國籃球運動員",
+    "es": "baloncestista chino",
+    "fr": "joueur de basket-ball chinois",
+    "de": "chinesischer Basketballspieler",
+    "ar": "لاعب كرة سلة صيني",
+    "ko": "중국의 前 농구 선수",
+    "ja": "中国のバスケットボール選手 (1980-)",
+    "en": "Chinese basketball player (born 1980)"
+  },
+  "languageArticles": {
+    "ar": "ياو مينغ",
+    "de": "Yao Ming",
+    "en": "Yao Ming",
+    "es": "Yao Ming",
+    "fr": "Yao Ming",
+    "ja": "姚明",
+    "ko": "야오밍",
+    "zh": "姚明"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q58590$523F9EB4-519F-4831-B827-A6CA37C06302",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 148,
+            "id": "Q148"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 130293317,
+                  "id": "Q130293317"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-06-05T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-06-05"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "q58590$0E7189D3-3BFD-4CCD-B063-25A7B6CC9453",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "YaoMingonoffense2.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-12-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006-12-10"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q58590$ac321f06-42b1-98e9-ca1c-8c1c8cf613c8",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Yao Ming in Beijing in 2016 (cropped).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "q58590$f89c72db-429c-5af6-357d-79f8985cd535",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8686,
+            "id": "Q8686"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q58590$ecbd0b4e-48bf-a1ae-7985-bdf56b07d304",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1980-09-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1980-09-12"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 37312,
+                  "id": "Q37312"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-10-13T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-10-13"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 130293317,
+                  "id": "Q130293317"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-06-05T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-06-05"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "q58590$5C8E3F7F-4F27-4844-8404-14179904B907",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3665646,
+            "id": "Q3665646"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7300810,
+                  "id": "Q7300810"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-04-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-04-04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q58590$F8F3958E-197B-4F6A-A74C-F60FA1165AC9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18814623,
+            "id": "Q18814623"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q58590$CED33FF9-0EBF-4160-877F-24DAFFB19FD0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 131524,
+            "id": "Q131524"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q58590$4800484C-1866-4CC5-9158-218812D8CB65",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q58590$B80848D6-579D-4129-9075-06DF13B13AB8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10867892,
+            "id": "Q10867892"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q58590$5705AED8-E7BD-4892-8EF6-542EC12BCD09",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10867660,
+            "id": "Q10867660"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q58590$FBE0BD2E-7B80-4E92-BE0A-276C14BEAC70",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 51078983,
+            "id": "Q51078983"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q58590$83652DAD-AA35-47FB-A8A1-15628895CC27",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 63072128,
+            "id": "Q63072128"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q58590$18CCC783-9717-428B-9233-ED1BCF60DAD6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 63307285,
+            "id": "Q63307285"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2018-12-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2018-12-18"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.xinhuanet.com/politics/2018-12/18/c_1123872223.htm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q58590$6BE38223-803B-46DD-B819-2C334C29F56D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 586458,
+            "id": "Q586458"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P2032": [
+      {
+        "id": "Q58590$2B89437B-7A7D-4D76-8A12-A7A12DFE6C5F",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+2011-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "2011"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q58590$4BA5C5AA-6C4E-480F-9E9C-B1136413E044",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1997-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1997"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P31": "instanceOf",
+    "P69": "education",
+    "P39": "position",
+    "P166": "award",
+    "P2032": "careerEnd",
+    "P2031": "careerStart"
+  },
+  "relatedEntities": {
+    "Q10867660": {
+      "id": "Q10867660",
+      "fetchedAt": "2026-11-13T11:13:19Z",
+      "labels": {
+        "zh": "上海交通大学安泰经济与管理学院",
+        "en": "Antai College of Economics and Management, Shanghai Jiao Tong University",
+        "ja": "上海交通大学 安泰経済与管理学院"
+      },
+      "descriptions": {
+        "en": "business school in Shanghai, China"
+      }
+    },
+    "Q10867892": {
+      "id": "Q10867892",
+      "fetchedAt": "2026-11-13T11:13:19Z",
+      "labels": {
+        "zh": "上海市第二中学",
+        "en": "Shanghai No. 2 High School"
+      },
+      "descriptions": {
+        "de": "Schule in der Volksrepublik China",
+        "en": "public school, shanghai municipal demonstrative high school in Shanghai",
+        "zh": "上海市高级中学"
+      }
+    },
+    "Q130293317": {
+      "id": "Q130293317",
+      "fetchedAt": "2026-11-13T11:05:27Z",
+      "labels": {
+        "en": "FIBA database",
+        "zh": "FIBA資料庫"
+      },
+      "descriptions": {
+        "en": "online database"
+      }
+    },
+    "Q131524": {
+      "id": "Q131524",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "emprendedor",
+        "ar": "رائد أعمال",
+        "ko": "기업가",
+        "fr": "entrepreneur ou entrepreneuse",
+        "en": "entrepreneur",
+        "de": "Unternehmer",
+        "zh": "企业家",
+        "ja": "起業家"
+      },
+      "descriptions": {
+        "de": "Person, die ein Unternehmen eigenverantwortlich führt und dessen wirtschaftliches Risiko trägt",
+        "es": "persona que organiza y dirige un negocio, asumiendo su riesgo económico",
+        "en": "person who organizes and runs a business venture, assuming its business risks",
+        "fr": "personne qui organise et dirige une activité économique en assumant les risques",
+        "zh": "組織和經營企業的個人，承擔財務風險",
+        "ar": "الشخص الذي ينظم ويدير الأعمال التجارية",
+        "ja": "自ら事業を興す者に対する総称",
+        "ko": "기존에 존재하지 않았던 가치와 일자리를 만드는 사람"
+      }
+    },
+    "Q148": {
+      "id": "Q148",
+      "fetchedAt": "2026-11-13T11:01:51Z",
+      "labels": {
+        "en": "People's Republic of China",
+        "fr": "République populaire de Chine",
+        "de": "Volksrepublik China",
+        "es": "República Popular China",
+        "ar": "الصين",
+        "ja": "中華人民共和国",
+        "ko": "중화인민공화국",
+        "zh": "中华人民共和国"
+      },
+      "descriptions": {
+        "en": "country in East Asia",
+        "fr": "pays d'Asie de l'Est",
+        "de": "Staat in Ostasien",
+        "es": "país de Asia Oriental",
+        "ja": "東アジアの国",
+        "zh": "东亚国家",
+        "ar": "دولة في شرق آسيا",
+        "ko": "동아시아의 국가"
+      }
+    },
+    "Q18814623": {
+      "id": "Q18814623",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "autobiographer",
+        "fr": "autobiographe",
+        "es": "autobiógrafo",
+        "de": "Autobiograf",
+        "zh": "自传作者",
+        "ja": "自伝作家",
+        "ar": "كاتب سير ذاتية",
+        "ko": "자서전 작가"
+      },
+      "descriptions": {
+        "en": "person who wrote their autobiography",
+        "es": "persona que ha escrito su autobiografía",
+        "de": "Verfasser einer Autobiografie",
+        "zh": "写作自传的人",
+        "ja": "自伝を書く者",
+        "ko": "자서전을 집필하는 사람",
+        "fr": "personne qui écrit ou a écrit son autobiographie",
+        "ar": "الشخص الذي يكتب سيرته الذاتية"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3665646": {
+      "id": "Q3665646",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "en": "basketball player",
+        "ja": "バスケットボール選手",
+        "fr": "basketteur ou basketteuse",
+        "de": "Basketballspieler",
+        "es": "baloncestista",
+        "zh": "籃球運動員",
+        "ko": "농구 선수",
+        "ar": "لاعب كرة سلة"
+      },
+      "descriptions": {
+        "de": "Sportler, der an Basketballturnieren teilnimmt",
+        "en": "person who plays in basketball",
+        "es": "jugador de baloncesto",
+        "fr": "personne pratiquant le basket-ball",
+        "ko": "농구 경기에 참가하는 운동 선수",
+        "ja": "バスケットボールを行うスポーツ選手",
+        "zh": "參加籃球比賽的運動員"
+      }
+    },
+    "Q37312": {
+      "id": "Q37312",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "互联网电影数据库",
+        "ar": "قاعدة بيانات الأفلام على الإنترنت",
+        "ko": "인터넷 영화 데이터베이스",
+        "ja": "IMDb",
+        "en": "IMDb",
+        "es": "Internet Movie Database",
+        "fr": "Internet Movie Database",
+        "de": "IMDb"
+      },
+      "descriptions": {
+        "en": "online database of information related to films, television series, and video games",
+        "de": "Datenbank über Filme, Fernsehserien, Videoproduktionen, Videospiele und daran Mitwirkende",
+        "fr": "base de données en ligne sur le cinéma, les films et téléfilms, les séries télévisées et les jeux vidéos",
+        "ar": "قاعدة بيانات على الويب للأفلام والممثلين",
+        "ja": "映画や俳優に関するオンライン・データベース",
+        "ko": "영화와 배우에 관한 정보들을 모아놓은 온라인 데이터베이스",
+        "es": "base de datos cinematográficos en línea",
+        "zh": "收錄影片及電影從業人員 (演員、導演、編劇等) 的網路資料庫"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q51078983": {
+      "id": "Q51078983",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "en": "member of the National Committee of the Chinese People's Political Consultative Conference",
+        "zh": "全国政协委员",
+        "fr": "membre du comité national de la conférence consultative politique du peuple chinois",
+        "ar": "عضو اللجنة الوطنية لجمهورية الصين الشعبية",
+        "ja": "中国人民政治協商会議全国委員会委員",
+        "es": "miembro del Comité Nacional de la Conferencia Consultiva Política del Pueblo Chino"
+      },
+      "descriptions": {
+        "ja": "中国人民政治協商会議全国委員会の職位",
+        "ar": "منصب سياسي صيني"
+      }
+    },
+    "Q586458": {
+      "id": "Q586458",
+      "fetchedAt": "2026-11-13T11:12:12Z",
+      "labels": {
+        "es": "Salón de la Fama FIBA",
+        "de": "FIBA Hall of Fame",
+        "en": "FIBA Hall of Fame",
+        "fr": "FIBA Hall of Fame",
+        "ja": "FIBA殿堂",
+        "ar": "قاعة مشاهير الاتحاد الدولي لكرة السلة",
+        "zh": "FIBA名人堂",
+        "ko": "FIBA 명예의 전당"
+      },
+      "descriptions": {
+        "en": "international basketball award",
+        "de": "Ruhmeshalle der Fédération Internationale de Basketball",
+        "fr": "temple de la renommée créé par la Fédération internationale de basket-ball (FIBA)"
+      }
+    },
+    "Q63072128": {
+      "id": "Q63072128",
+      "fetchedAt": "2026-11-13T11:02:40Z",
+      "labels": {
+        "en": "honorary doctor of the University of Hong Kong",
+        "zh": "香港大学名誉博士",
+        "fr": "docteur honoris causa de l'université de Hong Kong",
+        "ar": "الدكتوراة الفخرية من جامعة هونغ كونغ",
+        "ja": "香港大学名誉博士",
+        "de": "Ehrendoktor der Universität Hongkong"
+      },
+      "descriptions": {}
+    },
+    "Q63307285": {
+      "id": "Q63307285",
+      "fetchedAt": "2026-11-13T11:06:51Z",
+      "labels": {
+        "en": "Pioneer of Reform",
+        "zh": "改革先锋",
+        "es": "Pionero de la Reforma",
+        "fr": "pionnier de la réforme",
+        "ar": "جائزة الريادة في الإصلاح",
+        "ja": "改革先鋒"
+      },
+      "descriptions": {
+        "ja": "中華人民共和国の名誉称号"
+      }
+    },
+    "Q7300810": {
+      "id": "Q7300810",
+      "fetchedAt": "2026-11-13T11:05:34Z",
+      "labels": {
+        "en": "RealGM",
+        "de": "RealGM",
+        "fr": "RealGM",
+        "ar": "ريلجم",
+        "ja": "リアルGM"
+      },
+      "descriptions": {
+        "de": "website über Sport",
+        "en": "sports website",
+        "ja": "スポーツのウェブサイト"
+      }
+    },
+    "Q8686": {
+      "id": "Q8686",
+      "fetchedAt": "2026-11-13T11:02:41Z",
+      "labels": {
+        "en": "Shanghai",
+        "fr": "Shanghaï",
+        "ar": "شانغهاي",
+        "de": "Shanghai",
+        "es": "Shanghái",
+        "ja": "上海市",
+        "ko": "상하이시",
+        "zh": "上海市"
+      },
+      "descriptions": {
+        "en": "provincial-level municipality in China",
+        "fr": "municipalité autonome chinoise située sur la côte, à l'estuaire sud du fleuve Yangtsé",
+        "es": "ciudad más poblada de la República Popular China",
+        "de": "bevölkerungsreichste Stadt der Volksrepublik China",
+        "ja": "中国の直轄市",
+        "zh": "中华人民共和国直辖市",
+        "ko": "중화인민공화국의 직할시",
+        "ar": "أكبر مدينة في الصين"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:YaoMingonoffense2.jpg",
+    "fetchedAt": "2026-11-13T11:13:20Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:YaoMingonoffense2.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/YaoMingonoffense2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/YaoMingonoffense2.jpg/960px-YaoMingonoffense2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1236,
+    "height": 1858,
+    "mediaTimestamp": "2009-01-30T19:34:38Z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Keith Allison from Baltimore, USA",
+    "credit": "120906l 099",
+    "description": "Yao Ming playing against the Washington Wizards",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/8da108ae6cda3b64a3ed95b5.jpg",
+    "cachedImageBytes": 286566,
+    "cachedImageSha256": "0f13cd290b9a894a8dc468dc840220cae58673929b34431efc97e28891c161b1"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

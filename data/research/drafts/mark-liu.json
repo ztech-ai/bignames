@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "mark-liu",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/mark-liu.json",
+    "sha256": "a50f1cf0c0500813ee8568ae43e56d4969f867684a387747c1d514ed6745e082",
+    "capturedAt": "2026-11-13T11:26:13Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://www.wikidata.org/wiki/Q96392053"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q96392053",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Mark Liu",
+    "sourceIdentity": {
+      "requestedName": "Mark Liu",
+      "requestedTitle": "Mark Liu",
+      "resolvedTitle": "Mark Liu",
+      "wikidataId": "Q96392053",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id",
+      "excludedWikipediaRedirect": {
+        "resolvedTitle": "Mark Liu",
+        "qid": null,
+        "url": "https://en.wikipedia.org/wiki/Mark_Liu"
+      }
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-a26b8fcccc6ae4568df4",
+      "property": "P27",
+      "claimId": "Q96392053$001DA51D-A492-4668-969E-CDC4FB5952F8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 865,
+          "id": "Q865"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q96392053"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b0cadf6d2eae2723cf31",
+      "property": "P569",
+      "claimId": "Q96392053$79e22aef-efe2-4e44-9f87-28ea6d4fd4b7",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1954-01-01T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1954"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q96392053"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1954-01-01T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1954",
+        "earliest": "1954-01-01",
+        "latest": "1954-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-986efe9683e0087de93a",
+      "factId": "fact-b0cadf6d2eae2723cf31",
+      "claimId": "Q96392053$79e22aef-efe2-4e44-9f87-28ea6d4fd4b7",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1954",
+      "precision": 9,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q96392053"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "刘德音",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "国籍",
+          "value": "中華民國",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "来源所记出生日期",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1954",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Mark Liu",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "Citizenship",
+          "value": "Taiwan",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "Source-reported birth date",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1954",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Mark Liu",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "Nationalité",
+          "value": "Taïwan",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1954",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Mark Liu",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "الجنسية",
+          "value": "تايوان",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1954",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Mark Liu",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "Staatsangehörigkeit",
+          "value": "Taiwan",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1954",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Mark Liu",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "国籍",
+          "value": "中華民国",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "出典に記載された生年月日",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1954",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Mark Liu",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "Nacionalidad",
+          "value": "República de China",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1954",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Mark Liu",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-a26b8fcccc6ae4568df4",
+          "label": "국적",
+          "value": "중화민국",
+          "notes": []
+        },
+        {
+          "id": "fact-b0cadf6d2eae2723cf31",
+          "label": "출처에 기재된 출생일",
+          "value": "1954",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-986efe9683e0087de93a",
+          "factId": "fact-b0cadf6d2eae2723cf31",
+          "date": "1954",
+          "precision": 9,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1954",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "es",
+        "key": "person-name"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Mark Liu",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 2,
+    "factsWithoutExternalReference": 2,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

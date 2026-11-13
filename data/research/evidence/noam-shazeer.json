@@ -1,0 +1,918 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "noam-shazeer",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "诺姆·沙泽尔",
+    "enName": "Noam Shazeer",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "参与Transformer及大型神经网络系统研究，推动语言模型效率与对话人工智能应用。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与Transformer及大型神经网络系统研究，推动语言模型效率与对话人工智能应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:28Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Noam Shazeer",
+    "requestedTitle": "Noam Shazeer",
+    "resolvedTitle": "Noam Shazeer",
+    "wikidataId": "Q30251943",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Noam_Shazeer",
+      "title": "Noam Shazeer",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:28Z",
+      "revisionId": 1381041419,
+      "revisionTimestamp": "2026-10-19T17:01:16Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1381041419",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30251943",
+      "title": "Q30251943",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:06:49Z",
+      "revisionId": 2541482402,
+      "revisionTimestamp": "2026-09-07T04:12:41Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Noam Shazeer (born 1975 or 1976) is an American software engineer and entrepreneur known for his contributions to the field of artificial intelligence and deep learning, particularly in the development of transformer models and natural language processing. He lives in Palo Alto, California.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Noam Shazeer",
+    "de": "Noam Shazeer",
+    "fr": "Noam Shazeer",
+    "es": "Noam Shazeer",
+    "zh": "诺姆·沙泽",
+    "ja": "ノーム・シャジール",
+    "ar": "نعوم شازير",
+    "ko": "노암 샤지어"
+  },
+  "descriptions": {
+    "en": "American machine learning researcher",
+    "zh": "机器学习研究员",
+    "ja": "機械学習研究者",
+    "de": "US-amerikanischer Forscher für maschinelles Lernen",
+    "es": "Investigador de aprendizaje automático estadounidense",
+    "fr": "chercheur américain en apprentissage automatique",
+    "ko": "미국의 소프트웨어 엔지니어이자 기업가"
+  },
+  "languageArticles": {
+    "ar": "نعوم شازير",
+    "en": "Noam Shazeer",
+    "ja": "Noam Shazeer",
+    "ko": "노암 샤지어",
+    "zh": "諾姆·沙澤爾"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q30251943$AFA994EA-3367-41B5-AD5D-DD2B72A7FADB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P1416": [
+      {
+        "id": "Q30251943$a3753360-4d35-aa0a-abba-8e91ac5a0266",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16927616,
+            "id": "Q16927616"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30249683,
+                  "id": "Q30249683"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q30251943$323e044e-4320-e108-659d-35bb0db28320",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15733006,
+            "id": "Q15733006"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q30251943$0fdb31cc-4f72-6247-9eb4-89f48f9e7ba3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 95,
+            "id": "Q95"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2000-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2000"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q30251943$8c0575a2-4ae5-864d-9cfc-d2f6f603501e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 95,
+            "id": "Q95"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q30251943$1bd96e15-4bd8-6c62-6694-838138512192",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 115517493,
+            "id": "Q115517493"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q30251943$FFF06E6D-DD53-4FD0-A6DD-474F2CB8CBB3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 23515215,
+            "id": "Q23515215"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 130363626,
+                  "id": "Q130363626"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-09-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-09-25"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q30251943$4aaa9e92-4925-f657-dfdc-658d57f0012a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 168751,
+            "id": "Q168751"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 163727,
+                "id": "Q163727"
+              }
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1998-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1998"
+            }
+          ],
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 213660,
+                  "id": "Q213660"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q30251943$1a800010-4602-3a5d-6f78-3e0002021ff9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q30251943$6142B4A4-FBF5-4754-85DF-2C4E328620BC",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1976-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1976"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199913,
+                  "id": "Q199913"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q30251943$5D02B3CA-46B9-472C-905F-A5B1CE0FDFA2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1345,
+            "id": "Q1345"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199913,
+                  "id": "Q199913"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q30251943$b9a9ac25-4797-5592-4b80-d429a0e7f096",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.noamshazeer.com/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q30251943$61051FD8-A461-4E76-AF90-ACFA9B45E810",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199913,
+                  "id": "Q199913"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P1416": "affiliation",
+    "P108": "employer",
+    "P106": "occupation",
+    "P69": "education",
+    "P27": "citizenship",
+    "P569": "birthDate",
+    "P19": "birthPlace",
+    "P856": "officialWebsite",
+    "P101": "fieldOfWork"
+  },
+  "relatedEntities": {
+    "Q115517493": {
+      "id": "Q115517493",
+      "fetchedAt": "2026-11-13T11:06:50Z",
+      "labels": {
+        "en": "Character.ai",
+        "zh": "Character.ai",
+        "ja": "Character.ai",
+        "de": "Character.ai",
+        "fr": "Character.ai",
+        "es": "Character.ai",
+        "ar": "كاراكتر.اي آي",
+        "ko": "Character.ai"
+      },
+      "descriptions": {
+        "en": "American neural language model chatbot service",
+        "zh": "神經語言模型聊天機器人網絡應用程序",
+        "ja": "ニューラル言語モデル チャットボット Web アプリケーション",
+        "fr": "application web de chatbot de modèle de langage neuronal",
+        "de": "Chatbot-Webanwendung mit neuronalem Sprachmodell",
+        "es": "aplicación web chatbot modelo de lenguaje neural",
+        "ar": "نموذج اللغة العصبية chatbot تطبيق الويب"
+      }
+    },
+    "Q130363626": {
+      "id": "Q130363626",
+      "fetchedAt": "2026-11-13T11:06:50Z",
+      "labels": {
+        "en": "Google Paid $2.7 Billion to Bring Back an AI Genius Who Quit in Frustration"
+      },
+      "descriptions": {
+        "en": "The Wall Street Journal article (September 25, 2024)"
+      }
+    },
+    "Q1345": {
+      "id": "Q1345",
+      "fetchedAt": "2026-11-13T11:06:50Z",
+      "labels": {
+        "en": "Philadelphia",
+        "fr": "Philadelphie",
+        "de": "Philadelphia",
+        "es": "Filadelfia",
+        "ar": "فيلادلفيا",
+        "ja": "フィラデルフィア",
+        "ko": "필라델피아",
+        "zh": "費城"
+      },
+      "descriptions": {
+        "en": "largest city in the U.S. state of Pennsylvania and seat of Philadelphia County",
+        "fr": "ville de Pennsylvanie, aux États-Unis",
+        "es": "ciudad más poblada del estado de Pensilvania, Estados Unidos",
+        "de": "bevölkerungsreichste Stadt des US-Bundesstaats Pennsylvania",
+        "ja": "アメリカ合衆国ペンシルベニア州の都市",
+        "ko": "펜실베이니아주에서 가장 큰 도시",
+        "zh": "美国宾夕法尼亚州最大城市",
+        "ar": "مدينة في ولاية بنسيلفانيا الأمريكية"
+      }
+    },
+    "Q15733006": {
+      "id": "Q15733006",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "Google DeepMind",
+        "de": "Google DeepMind",
+        "fr": "Google DeepMind",
+        "es": "Google DeepMind",
+        "zh": "Google DeepMind",
+        "ar": "ديب مايند",
+        "ja": "Google DeepMind",
+        "ko": "딥마인드"
+      },
+      "descriptions": {
+        "fr": "entreprise britannique d'IA",
+        "en": "artificial intelligence company owned by Google",
+        "zh": "谷歌旗下人工智能公司",
+        "de": "Tochterunternehmen von Google mit Schwerpunkt auf künstlicher Intelligenz",
+        "ja": "Googleの人工知能研究開発企業",
+        "es": "empresa de inteligencia artificial propiedad de Google",
+        "ko": "알파벳의 자회사",
+        "ar": "شركة ذكاء اصطناعي مملوكة لشركة جوجل"
+      }
+    },
+    "Q163727": {
+      "id": "Q163727",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "título de grado",
+        "ar": "بكالوريوس",
+        "fr": "premier cycle universitaire",
+        "ko": "학사",
+        "de": "Bachelor",
+        "ja": "学士",
+        "en": "bachelor's degree",
+        "zh": "學士"
+      },
+      "descriptions": {
+        "en": "undergraduate academic degree lasting from three to seven years",
+        "de": "akademischer Abschluss",
+        "fr": "diplôme et grade universitaire généralement obtenu après 2 à 4 années d'études supérieures et donnant accès au master (maîtrise)",
+        "zh": "大学本科学位",
+        "ko": "대학 졸업자에게 주는 학위",
+        "ar": "درجة أكاديمية جامعية تستمر من ثلاث إلى سبع سنوات",
+        "es": "titulación académica de grado de tres a siete años de duración",
+        "ja": "学部課程とその学位、履修期間は3年から7年。"
+      }
+    },
+    "Q168751": {
+      "id": "Q168751",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "es": "Universidad Duke",
+        "ar": "جامعة ديوك",
+        "fr": "Université Duke",
+        "ko": "듀크 대학교",
+        "de": "Duke University",
+        "ja": "デューク大学",
+        "en": "Duke University",
+        "zh": "杜克大学"
+      },
+      "descriptions": {
+        "fr": "université privée située à Durham, Caroline du Nord, États-Unis",
+        "en": "private university in Durham, North Carolina, USA",
+        "de": "private Universität in Durham, North Carolina, USA",
+        "zh": "美國北卡羅來納州達勒姆的私立大學",
+        "ar": "جامعة في الولايات المتحدة",
+        "es": "universidad privada en Durham, Carolina del Norte, Estados Unidos",
+        "ja": "アメリカの私立大学",
+        "ko": "미국의 사립 대학"
+      }
+    },
+    "Q16927616": {
+      "id": "Q16927616",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "Google Brain",
+        "fr": "Google Brain",
+        "ja": "グーグル・ブレイン",
+        "de": "Google Brain",
+        "zh": "谷歌大脑",
+        "ko": "구글 브레인",
+        "ar": "جوجل برين",
+        "es": "Google Brain"
+      },
+      "descriptions": {
+        "fr": "équipe de recherche en deep learning",
+        "en": "former deep learning research team",
+        "de": "Deep-Learning-Abteilung von Google LLC",
+        "ar": "فريق أبحاث ذكاء اصطناعي يستعمل تقنيات التعلم العميق في جوجل",
+        "es": "proyecto de investigación de aprendizaje profundo",
+        "zh": "深度学习研究项目"
+      }
+    },
+    "Q199913": {
+      "id": "Q199913",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ko": "히브리어 위키백과",
+        "fr": "Wikipédia en hébreu",
+        "es": "Wikipedia en hebreo",
+        "ja": "ヘブライ語版ウィキペディア",
+        "en": "Hebrew Wikipedia",
+        "ar": "ويكيبيديا العبرية",
+        "de": "hebräische Wikipedia",
+        "zh": "希伯來語維基百科"
+      },
+      "descriptions": {
+        "de": "Wikipedia-Sprachversion",
+        "en": "Hebrew-language edition of Wikipedia",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة العبرية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科希伯来语版",
+        "es": "edición hebrea de Wikipedia",
+        "ko": "히브리어로 작성된 위키백과",
+        "ja": "ウィキペディアのヘブライ語版"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q213660": {
+      "id": "Q213660",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "ko": "링크드인",
+        "ar": "لينكد إن",
+        "zh": "領英",
+        "en": "LinkedIn"
+      },
+      "descriptions": {
+        "en": "American social networking website for people in professional occupations",
+        "fr": "société américaine, nom du service associé",
+        "de": "soziales Netzwerk für Geschäftskontakte",
+        "es": "red social estadounidense en línea para profesionales",
+        "zh": "專業人士職業社交網站",
+        "ar": "شبكة تواصل إجتماعي للناس أصحاب المهن الاحترافية",
+        "ja": "世界最大級のビジネス特化型SNS、および同サービスを提供するシリコンバレーの企業",
+        "ko": "미국의 비즈니스 중심의 소셜 네트워크 서비스"
+      }
+    },
+    "Q23515215": {
+      "id": "Q23515215",
+      "fetchedAt": "2026-11-13T11:06:50Z",
+      "labels": {
+        "en": "machine learning engineer",
+        "ja": "機械学習工学者",
+        "fr": "ingénieur de l'apprentissage automatique",
+        "zh": "机器学习工程师",
+        "ar": "مهندس تعلم الآلة"
+      },
+      "descriptions": {
+        "en": "profession"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q30249683": {
+      "id": "Q30249683",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "en": "Attention Is All You Need",
+        "zh": "注意力就是你们所需要的一切",
+        "ar": "الانتباه هو كل ما تحتاجه",
+        "ko": "어텐션 이즈 올 유 니드"
+      },
+      "descriptions": {
+        "en": "scientific article published in June 2017",
+        "ar": "مقالة علمية (نشرت في 12-6-2017)",
+        "de": "wissenschaftlicher Artikel, der im Juni 2017 veröffentlicht wurde",
+        "fr": "article académique",
+        "es": "artículo científico publicado en 2017",
+        "ja": "2017年の論文",
+        "ko": "2017년 논문",
+        "zh": "2017年學術文章"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q95": {
+      "id": "Q95",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "ar": "جوجل",
+        "ko": "구글",
+        "en": "Google",
+        "de": "Google",
+        "es": "Google",
+        "fr": "Google",
+        "zh": "Google",
+        "ja": "Google"
+      },
+      "descriptions": {
+        "fr": "multinationale américaine spécialisée dans les technologies, filiale d'Alphabet Inc.",
+        "de": "US-amerikanisches multinationales Technologieunternehmen, eine Tochtergesellschaft von Alphabet Inc.",
+        "es": "empresa tecnológica multinacional estadounidense, filial de Alphabet Inc.",
+        "zh": "美國的跨國科技企業",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "ko": "미국의 IT 기업, 검색엔진 서비스",
+        "ar": "شركة إنترنت وتكنولوجيا أمريكية متعددة الجنسيات",
+        "en": "American multinational technology company, a subsidiary of Alphabet Inc."
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 4,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

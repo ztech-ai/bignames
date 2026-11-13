@@ -1,0 +1,1097 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "hadley-wickham",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "哈德利·威克姆",
+    "enName": "Hadley Wickham",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "oceania",
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "推动R语言tidyverse生态与数据可视化工具，使统计分析和数据科学教学更加普及。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "推动R语言tidyverse生态与数据可视化工具，使统计分析和数据科学教学更加普及。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:13Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Hadley Wickham",
+    "requestedTitle": "Hadley Wickham",
+    "resolvedTitle": "Hadley Wickham",
+    "wikidataId": "Q16251925",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Hadley_Wickham",
+      "title": "Hadley Wickham",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:13Z",
+      "revisionId": 1373678532,
+      "revisionTimestamp": "2026-09-07T07:18:28Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1373678532",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16251925",
+      "title": "Q16251925",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:28Z",
+      "revisionId": 2519928092,
+      "revisionTimestamp": "2026-07-20T00:26:26Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Hadley Alexander Wickham (born 14 October 1979) is a New Zealand statistician known for his work on open-source software for the R statistical programming environment. He is the chief scientist at Posit PBC and an adjunct professor of statistics at the University of Auckland, Stanford University, and Rice University. His work includes the data visualisation system ggplot2 and the tidyverse, a collection of R packages for data science based on the concept of tidy data.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Hadley Wickham",
+    "de": "Hadley Wickham",
+    "fr": "Hadley Wickham",
+    "es": "Hadley Wickham",
+    "ja": "ハドリー・ウィッカム",
+    "zh": "哈德利·威克漢姆",
+    "ar": "هادلي ويكهام",
+    "ko": "해들리 위컴"
+  },
+  "descriptions": {
+    "fr": "développeur et statisticien néo-zélandais",
+    "en": "New Zealand statistician (born 1979)",
+    "ja": "ニュージーランドの統計学者、計算機科学者、ソフトウェア開発者 (1979-)",
+    "de": "neuseeländischer Statistiker (* 1979)",
+    "ko": "뉴질랜드의 통계학자, 컴퓨터과학자, 소프트웨어 개발자 (1979-)"
+  },
+  "languageArticles": {
+    "en": "Hadley Wickham",
+    "fr": "Hadley Wickham",
+    "ja": "ハドリー・ウィッカム",
+    "ko": "해들리 위컴",
+    "zh": "哈德利·威克漢姆"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q16251925$CD2CD196-E5C3-460B-B499-25D22F3E0034",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q16251925$0FE97A84-33BE-4CEE-8640-713942A3A312",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2732142,
+            "id": "Q2732142"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16251925$35e5cc82-4a7e-ddaf-1bbf-2939d51e6b40",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183888,
+            "id": "Q183888"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q16251925$2acd60e1-0ba6-4c7f-b981-d2f8d3f85586",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16251925$3d6d5891-4455-a629-c06e-626c5adc7ea3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29169143,
+            "id": "Q29169143"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q16251925$0BDE6841-A746-4BC4-AECB-569598CF65EB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1622272,
+            "id": "Q1622272"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q16251925$ba1a0f32-4c4c-6345-9ad8-da17e848a1af",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28746410,
+            "id": "Q28746410"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://github.com/hadley"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2016-02-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2016-02-03"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16251925$373d8915-4d9f-3158-8f2f-0d668a38b042",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 842909,
+            "id": "Q842909"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://had.co.nz/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2016-02-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2016-02-03"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q16251925$77F9DA37-69A3-4AC3-A8F0-C1D814D731A2",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Hadley-wickham2016-02-04.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-11-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015-11-04"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q16251925$FF8ECEA1-6684-4BD6-8ADC-528B2CFE9C23",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1136919,
+            "id": "Q1136919"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 752297,
+                "id": "Q752297"
+              }
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q16251925$999447ae-420e-a269-fc21-d746b3d36209",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 326489,
+            "id": "Q326489"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q16251925$b7229456-4535-c1b9-17c3-db11fee54c71",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 60755534,
+            "id": "Q60755534"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q16251925$5A7CAE79-8684-4A0B-8157-5A8B83F478AD",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1979-10-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1979-10-14"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://r4ds.had.co.nz/dates-and-times.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q16251925$9db858fd-495a-9357-f27b-f2b9368e0214",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 200028,
+            "id": "Q200028"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q16251925$009F983C-5752-4517-8588-3EE79F618362",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 61744587,
+            "id": "Q61744587"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107471151,
+                  "id": "Q107471151"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-07-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-07-10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q16251925$9279f9c6-4f1d-03ba-7973-d371db115866",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5013454,
+            "id": "Q5013454"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q16251925$6a24c9d9-4fd2-7cfa-b36d-b3673e137e06",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 664,
+            "id": "Q664"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q16251925$7D321F60-E452-4346-9C85-4A74B91B1EB5",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "http://hadley.nz/"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 648625,
+                  "id": "Q648625"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2020-08-06T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2020-08-06"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P108": "employer",
+    "P18": "image",
+    "P69": "education",
+    "P800": "notableWork",
+    "P569": "birthDate",
+    "P19": "birthPlace",
+    "P166": "award",
+    "P27": "citizenship",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q107471151": {
+      "id": "Q107471151",
+      "fetchedAt": "2026-11-13T11:06:21Z",
+      "labels": {
+        "en": "Fellows of the American Statistical Association database"
+      },
+      "descriptions": {
+        "en": "online database of Fellows of the American Statistical Association"
+      }
+    },
+    "Q1136919": {
+      "id": "Q1136919",
+      "fetchedAt": "2026-11-13T11:14:16Z",
+      "labels": {
+        "ko": "아이오와 주립 대학교",
+        "fr": "Université d'État de l'Iowa",
+        "en": "Iowa State University",
+        "de": "Iowa State University",
+        "ja": "アイオワ州立大学",
+        "ar": "جامعة ولاية آيوا",
+        "zh": "爱荷华州立大学",
+        "es": "Universidad Estatal de Iowa"
+      },
+      "descriptions": {
+        "fr": "université américaine située à Ames dans l'État de l'Iowa",
+        "en": "public research university in Ames, Iowa, United States",
+        "de": "Universität in den Vereinigten Staaten",
+        "es": "universidad publico ubicada en Ames, Iowa",
+        "ar": "جامعة أبحاث عامة في أيمز, آيوا, الولايات المتحدة الأمريكية",
+        "zh": "美國愛荷華州艾姆斯的公立研究型大學",
+        "ja": "アメリカの州立大学",
+        "ko": "미국 아이오와주 에임스의 대학교"
+      }
+    },
+    "Q1622272": {
+      "id": "Q1622272",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "de": "Hochschullehrer",
+        "fr": "professeur d'université",
+        "en": "university teacher",
+        "es": "profesor universitario",
+        "zh": "大學教師",
+        "ko": "대학 교수",
+        "ja": "大学教員",
+        "ar": "مُدرِّس جامعي"
+      },
+      "descriptions": {
+        "fr": "personnel enseignant en poste dans une université. Voir Q121594 pour le titre de Professeur et Q28004591 pour le grade de professeur des universités en France",
+        "en": "person teaching at a university or college",
+        "es": "persona que enseña en la universidad",
+        "de": "Person, die an einer Hochschule lehrt und forscht",
+        "zh": "高等院校任教者",
+        "ja": "大学で教育を行う者",
+        "ar": "شخص يدرس في الجامعة"
+      }
+    },
+    "Q183888": {
+      "id": "Q183888",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "développeur ou développeuse informatique",
+        "de": "Softwareentwickler",
+        "en": "software developer",
+        "es": "desarrollador de software",
+        "zh": "软件开发者",
+        "ko": "소프트웨어 개발자",
+        "ar": "مطور برمجيات",
+        "ja": "ソフトウェア開発者"
+      },
+      "descriptions": {
+        "de": "Person oder Unternehmen, die bzw. das an der Erstellung von Software mitwirkt",
+        "en": "person or company concerned with facets of the software development process",
+        "fr": "informaticien spécialisé en programmation",
+        "es": "persona que se dedica a diseñar y programar software",
+        "zh": "關注軟件開發過程的各個方面的人",
+        "ko": "소프트웨어 개발 업무에 종사하는 사람",
+        "ar": "الشخص أو الشركة المعنية بجوانب عملية تطوير البرمجيات",
+        "ja": "ソフトウェア開発工程に何らかの形で関わる人"
+      }
+    },
+    "Q200028": {
+      "id": "Q200028",
+      "fetchedAt": "2026-11-13T11:08:04Z",
+      "labels": {
+        "ko": "해밀턴",
+        "fr": "Hamilton",
+        "es": "Hamilton",
+        "de": "Hamilton",
+        "ja": "ハミルトン",
+        "en": "Hamilton",
+        "ar": "هاميلتون",
+        "zh": "哈密尔顿"
+      },
+      "descriptions": {
+        "en": "largest city in New Zealand's Waikato region",
+        "de": "Stadt und eine zur Region Waikato zählende Verwaltungseinheit auf der Nordinsel von Neuseeland",
+        "fr": "ville de Nouvelle-Zélande",
+        "es": "ciudad de Nueva Zelanda",
+        "ar": "مدينة في نيوزيلندا",
+        "zh": "新西兰城市"
+      }
+    },
+    "Q2732142": {
+      "id": "Q2732142",
+      "fetchedAt": "2026-11-13T11:06:35Z",
+      "labels": {
+        "fr": "statisticien ou statisticienne",
+        "en": "statistician",
+        "es": "estadístico",
+        "ko": "통계학자",
+        "de": "Statistiker",
+        "ja": "統計学者",
+        "ar": "عالم إحصاء",
+        "zh": "统计学家"
+      },
+      "descriptions": {
+        "en": "person who works with theoretical or applied statistics",
+        "es": "profesional dedicado a la estadística",
+        "fr": "personne travaillant dans le champ des statistiques théoriques ou appliquées",
+        "de": "jemand, der sich wissenschaftlich mit der Statistik befasst",
+        "ar": "الشخص الذي يعمل بالإحصاءات النظرية أو التطبيقية",
+        "zh": "從事理論或應用統計工作的人",
+        "ja": "統計の専門家"
+      }
+    },
+    "Q28746410": {
+      "id": "Q28746410",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "fr": "Posit PBC",
+        "en": "Posit PBC",
+        "de": "Posit PBC",
+        "es": "Posit PBC"
+      },
+      "descriptions": {
+        "fr": "entreprise située aux États-Unis",
+        "en": "American firm developing the RStudio IDE"
+      }
+    },
+    "Q29169143": {
+      "id": "Q29169143",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "data scientist",
+        "es": "científico de datos",
+        "fr": "expert en données",
+        "de": "Data Scientist",
+        "zh": "數據科學家",
+        "ja": "データ・サイエンティスト",
+        "ko": "데이터 과학자",
+        "ar": "عالم بيانات"
+      },
+      "descriptions": {
+        "en": "person studying and working with data",
+        "es": "persona que se especializa en ciencia de datos",
+        "fr": "individu qui étudie et qui travaille avec les données",
+        "de": "Person, die im Bereich Data Science arbeit"
+      }
+    },
+    "Q326489": {
+      "id": "Q326489",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "ggplot2",
+        "fr": "ggplot2",
+        "es": "ggplot2",
+        "zh": "Ggplot2",
+        "ja": "Ggplot2",
+        "ko": "ggplot2",
+        "de": "ggplot2"
+      },
+      "descriptions": {
+        "en": "data visualization package for the statistical programming language R, implementing the Grammar of Graphics",
+        "fr": "librairie R de visualisation de données",
+        "es": "librería de visualización de datos para el lenguaje de programación estadístico R"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5013454": {
+      "id": "Q5013454",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "COPSS Presidents' Award",
+        "zh": "考普斯会长奖",
+        "fr": "prix COPSS",
+        "de": "COPSS-Präsidenten-Preis"
+      },
+      "descriptions": {
+        "fr": "distinction en statistiques",
+        "en": "American award for statisticians whose age must be below a certain limit (1981–)",
+        "de": "amerikanische Auszeichnung für Statistiker, deren Alter unter einer bestimmten Grenze liegen muss (1981–)",
+        "zh": "统计学奖项"
+      }
+    },
+    "Q60755534": {
+      "id": "Q60755534",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "en": "tidyverse",
+        "ja": "Tidyverse",
+        "fr": "tidyverse",
+        "de": "Tidyverse",
+        "zh": "Tidyverse",
+        "es": "Tidyverse"
+      },
+      "descriptions": {
+        "en": "collection of R packages",
+        "fr": "ensemble de bibliothèques logicielles R"
+      }
+    },
+    "Q61744587": {
+      "id": "Q61744587",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "en": "Fellow of the American Statistical Association",
+        "ar": "زمالة الرابطة الإحصائية الأمريكية",
+        "fr": "fellow de la Société américaine de statistique",
+        "ja": "アメリカ統計学会フェロー",
+        "es": "miembro de la Asociación Estadounidense de Estadística"
+      },
+      "descriptions": {}
+    },
+    "Q648625": {
+      "id": "Q648625",
+      "fetchedAt": "2026-11-13T10:59:47Z",
+      "labels": {
+        "fr": "Knowledge Graph",
+        "es": "Gráfico de conocimiento de Google",
+        "en": "Google Knowledge Graph",
+        "ja": "Google ナレッジグラフ",
+        "ko": "구글 지식 그래프",
+        "zh": "Google知识图谱",
+        "ar": "رسم قوقل البياني المعرفي",
+        "de": "Google Knowledge Graph"
+      },
+      "descriptions": {
+        "es": "base de conocimiento usada por Google para mejorar los resultados obtenidos con su motor de búsqueda",
+        "en": "knowledge base used by Google to enhance its search engine's results",
+        "ja": "検索エンジンの検索結果を拡張するためにGoogleが使用する知識ベース",
+        "fr": "base de connaissance utilisée par le moteur de recherche Google pour améliorer ses résultats",
+        "ar": "قاعدة بيانات مستخدمة من قبل جوجل لتعزيز نتائج محرك البحث",
+        "de": "Wissensdatenbank, die von Google verwendet wird, um die Ergebnisse der eigenen Suchmaschine zu verbessern",
+        "zh": "谷歌用於增強其搜索引擎之搜索結果的知識庫",
+        "ko": "구글이 쓰는 지식 그래프"
+      }
+    },
+    "Q664": {
+      "id": "Q664",
+      "fetchedAt": "2026-11-13T11:05:33Z",
+      "labels": {
+        "es": "Nueva Zelanda",
+        "zh": "新西兰",
+        "ar": "نيوزيلندا",
+        "de": "Neuseeland",
+        "en": "New Zealand",
+        "fr": "Nouvelle-Zélande",
+        "ko": "뉴질랜드",
+        "ja": "ニュージーランド"
+      },
+      "descriptions": {
+        "fr": "pays d'Océanie, au sud-ouest de l'océan Pacifique",
+        "zh": "大洋洲國家",
+        "es": "país insular de Oceanía",
+        "de": "Insel­staat im südlichen Pazifik",
+        "ar": "دولة جزرية في جنوب المحيط الهادئ",
+        "en": "island country in the southwest Pacific Ocean",
+        "ja": "オセアニアの島国",
+        "ko": "오세아니아의 국가"
+      }
+    },
+    "Q752297": {
+      "id": "Q752297",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ko": "철학박사",
+        "fr": "docteur en philosophie",
+        "de": "Ph.D.",
+        "ja": "Doctor of Philosophy",
+        "en": "Doctor of Philosophy",
+        "zh": "哲學博士",
+        "es": "Doctor en filosofía",
+        "ar": "دكتوراه الفلسفة"
+      },
+      "descriptions": {
+        "fr": "diplôme universitaire le plus élevé accordant le titre de docteur",
+        "es": "grado académico para graduados otorgado por universidades de muchos países",
+        "en": "postgraduate academic degree awarded by most universities worldwide",
+        "de": "in englischsprachigen Ländern der wissenschaftliche Doktorgrad in fast allen Fächern",
+        "zh": "高等教育學位",
+        "ar": "درجة أكاديمية للدراسات العليا تمنحها معظم الجامعات في جميع أنحاء العالم",
+        "ja": "世界中のほとんどの大学で授与される大学院学位",
+        "ko": "학위의 하나"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q842909": {
+      "id": "Q842909",
+      "fetchedAt": "2026-11-13T11:06:23Z",
+      "labels": {
+        "fr": "Université Rice",
+        "ko": "라이스 대학교",
+        "es": "Universidad Rice",
+        "en": "Rice University",
+        "de": "Rice University",
+        "ja": "ライス大学",
+        "ar": "جامعة رايس",
+        "zh": "萊斯大學"
+      },
+      "descriptions": {
+        "de": "Universität in Houston, Texas, Vereinigte Staaten",
+        "en": "private university in Houston, Texas, USA",
+        "fr": "université américaine privée située à Houston au Texas",
+        "ar": "جامعة في هيوستن، الولايات المتحدة",
+        "es": "universidad privada en Houston, Texas, Estados Unidos",
+        "ja": "アメリカの私立大学",
+        "zh": "美国得克萨斯州大学"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Hadley-wickham2016-02-04.jpg",
+    "fetchedAt": "2026-11-13T11:14:32Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hadley-wickham2016-02-04.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Hadley-wickham2016-02-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hadley-wickham2016-02-04.jpg/960px-Hadley-wickham2016-02-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1000,
+    "height": 1500,
+    "mediaTimestamp": "2016-02-06T03:29:32Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Hadley Wickham",
+    "credit": "Private correspondence",
+    "description": "Hadley Wickham",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/dcd3654a942610a5803c62bd.jpg",
+    "cachedImageBytes": 367535,
+    "cachedImageSha256": "d4c942b2033619fb503cc6a228ee98c24b6a268bab1d2caac9f56a0c4bf43786"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 3,
+    "referenceUrls": 3,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

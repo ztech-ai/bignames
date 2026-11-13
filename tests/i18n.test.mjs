@@ -132,8 +132,9 @@ const visible = document => [...document.querySelectorAll('.person-card')].filte
 
 test('language changes preserve canonical tag filters, other URL state and the current section', async t => {
   const query = `?tag=${encodeURIComponent('电动汽车')}&region=north-america#explore`;
+  const expected=profiles.filter(p=>p.tags.includes('电动汽车')&&p.regions.includes('north-america')).map(p=>p.id).sort();
   const french = await openInteractive(t, 'fr', query);
-  assert.deepEqual(visible(french.document), ['elon-musk']);
+  assert.deepEqual(visible(french.document).sort(), expected);
   const fr = await json('data/i18n/fr/ui.json');
   const frenchMusk = await translatedProfile(profiles.find(p => p.id === 'elon-musk'), 'fr');
   const frenchChip = formatMessage(fr['filter.tagChip'], { tag: frenchMusk.tags[0] });
@@ -145,7 +146,7 @@ test('language changes preserve canonical tag filters, other URL state and the c
   assert.equal(destination.searchParams.get('region'), 'north-america');
   assert.equal(destination.hash, '#explore');
   const arabic = await openInteractive(t, 'ar', destination.search + destination.hash);
-  assert.deepEqual(visible(arabic.document), ['elon-musk']);
+  assert.deepEqual(visible(arabic.document).sort(), expected);
   const ar = await json('data/i18n/ar/ui.json');
   const arabicMusk = await translatedProfile(profiles.find(p => p.id === 'elon-musk'), 'ar');
   assert.ok(arabic.document.getElementById('active-filters').textContent.includes(formatMessage(ar['filter.tagChip'], { tag: arabicMusk.tags[0] })));

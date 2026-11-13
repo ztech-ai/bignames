@@ -1,0 +1,3414 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "john-martinis",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/john-martinis.json",
+    "sha256": "c7913b56adc7f1aabcdcbb11d9c03283775d8bb6800b753aab2a42b4c687c9a2",
+    "capturedAt": "2026-11-13T11:25:42Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+      "https://en.wikipedia.org/wiki/John_M._Martinis",
+      "https://www.wikidata.org/wiki/Q28976188"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q28976188",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "John Martinis",
+    "sourceIdentity": {
+      "requestedName": "John Martinis",
+      "requestedTitle": "John M. Martinis",
+      "resolvedTitle": "John M. Martinis",
+      "wikidataId": "Q28976188",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "wikipedia-pageprops"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-555dccb9d3b729044435",
+      "property": "P106",
+      "claimId": "Q28976188$3B197AAA-40D0-4789-9E8A-E7DDD261986F",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 169470,
+          "id": "Q169470"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-10-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-10-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q28976188",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-4f39b8d5207ba0c64d9a",
+      "property": "P27",
+      "claimId": "Q28976188$d784a0b9-4394-97f0-3b67-1e1d62f5bf13",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-6afba6b4a02cfc910ff0",
+      "property": "P569",
+      "claimId": "Q28976188$A06D2212-58E0-4E6E-8CAC-CFC153164970",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1958-07-13T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1958-07-13"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-10-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 26878196,
+                "id": "Q26878196"
+              }
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www-ancestryinstitution-com.wikipedialibrary.idm.oclc.org/search/collections/5247/records/6971228?tid=&pid=&queryId=eeae01f4-e071-4622-bf09-cc8acae9532d&usePUBJs=true"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.matica.hr/vijenac/844%20-%20846/povratak-kuci-od-komize-do-kvantnog-doba-39996/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www-ancestryinstitution-com.wikipedialibrary.idm.oclc.org/search/collections/5247/records/6971228?tid=&pid=&queryId=eeae01f4-e071-4622-bf09-cc8acae9532d&usePUBJs=true",
+        "https://www.matica.hr/vijenac/844%20-%20846/povratak-kuci-od-komize-do-kvantnog-doba-39996/",
+        "https://www.wikidata.org/wiki/Q26878196",
+        "https://www.wikidata.org/wiki/Q28976188",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceUrls": [
+        "https://www-ancestryinstitution-com.wikipedialibrary.idm.oclc.org/search/collections/5247/records/6971228?tid=&pid=&queryId=eeae01f4-e071-4622-bf09-cc8acae9532d&usePUBJs=true",
+        "https://www.matica.hr/vijenac/844%20-%20846/povratak-kuci-od-komize-do-kvantnog-doba-39996/",
+        "https://www.wikidata.org/wiki/Q26878196",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1958-07-13T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1958-07-13",
+        "earliest": "1958-07-13",
+        "latest": "1958-07-13",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-d354166f2dc9c395f7a2",
+      "property": "P19",
+      "claimId": "Q28976188$c63b07dc-422e-fed1-187c-faa302d70e8b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 65,
+          "id": "Q65"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-27f73a1383018805c7b1",
+      "property": "P69",
+      "claimId": "Q28976188$99eb5f17-4429-93d8-6fc5-b91d6587d793",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168756,
+          "id": "Q168756"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1985-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1985"
+          }
+        ],
+        "P512": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 752297,
+              "id": "Q752297"
+            }
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+1985-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-538ab85ca624dfbca6c6",
+      "property": "P108",
+      "claimId": "Q28976188$de06a116-41da-3837-bf65-431542455cc6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 868550,
+          "id": "Q868550"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://ieeexplore.ieee.org/author/37319851200"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://ieeexplore.ieee.org/author/37319851200",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://ieeexplore.ieee.org/author/37319851200"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-7bdc24b65728a45f50df",
+      "property": "P108",
+      "claimId": "Q28976188$c2fba9e1-8dd6-44b0-b7a1-45b5f89a80a1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 263064,
+          "id": "Q263064"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://ieeexplore.ieee.org/author/37319851200"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://ieeexplore.ieee.org/author/37319851200",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://ieeexplore.ieee.org/author/37319851200"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e5d43c707b689db53f5d",
+      "property": "P108",
+      "claimId": "Q28976188$66c2f222-4304-2750-4d5e-88cdb0d598e1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 176691,
+          "id": "Q176691"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2004"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+2004-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2004",
+          "earliest": "2004-01-01",
+          "latest": "2004-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f0ba02f76ee6115bd240",
+      "property": "P108",
+      "claimId": "Q28976188$353186ee-4982-707c-5980-22759e563376",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 16927765,
+          "id": "Q16927765"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-09-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014-09"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2020-04-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2020-04"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/"
+            },
+            {
+              "type": "string",
+              "value": "https://www.businessinsider.com/john-martinis-why-working-at-google-is-great-2014-9"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.businessinsider.com/john-martinis-why-working-at-google-is-great-2014-9",
+        "https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://www.businessinsider.com/john-martinis-why-working-at-google-is-great-2014-9",
+        "https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2014-09-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014-09",
+          "earliest": "2014-09-01",
+          "latest": "2014-09-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2020-04-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2020-04",
+          "earliest": "2020-04-01",
+          "latest": "2020-04-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2017d8e6c745ae5c74e8",
+      "property": "P166",
+      "claimId": "Q28976188$71dfc127-4059-4c4d-3fcd-03b3c090730b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 18208328,
+          "id": "Q18208328"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2021-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2021"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/john-martinis-awarded-the-seventh-bell-prize/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/john-martinis-awarded-the-seventh-bell-prize/",
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/john-martinis-awarded-the-seventh-bell-prize/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2021-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2021",
+          "earliest": "2021-01-01",
+          "latest": "2021-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-443c3ca30773d50109e0",
+      "property": "P166",
+      "claimId": "Q28976188$9A2768BB-1DCA-4AB5-8EF6-28AA63E1C825",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 41955909,
+          "id": "Q41955909"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188",
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-61e42b1e5b5085fa577d",
+      "property": "P166",
+      "claimId": "Q28976188$976C0E6C-B28F-4152-ACB2-8F499925D058",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 246592,
+          "id": "Q246592"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2014-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2014"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://iupap.org/who-we-are/internal-organization/commissions/low-temperature-physics/c5-awards/#commission"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://iupap.org/who-we-are/internal-organization/commissions/low-temperature-physics/c5-awards/#commission",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://iupap.org/who-we-are/internal-organization/commissions/low-temperature-physics/c5-awards/#commission"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2014-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2014",
+          "earliest": "2014-01-01",
+          "latest": "2014-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a6c89496fde0af23f887",
+      "property": "P166",
+      "claimId": "Q28976188$E7566257-4BAC-4778-A071-76841814D57A",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 59918767,
+          "id": "Q59918767"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2019-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2019"
+          }
+        ],
+        "P1545": [
+          {
+            "type": "string",
+            "value": "9"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-09-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2019-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2019",
+          "earliest": "2019-01-01",
+          "latest": "2019-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f539d1808963cea63820",
+      "property": "P166",
+      "claimId": "Q28976188$449ccd47-4fb0-480f-a488-e23bc38941ff",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 97175140,
+          "id": "Q97175140"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1996"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.nist.gov/system/files/documents/nvl/SP955_Suppl_09_Appendix_G.pdf"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.nist.gov/system/files/documents/nvl/SP955_Suppl_09_Appendix_G.pdf",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://www.nist.gov/system/files/documents/nvl/SP955_Suppl_09_Appendix_G.pdf"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+1996-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1996",
+          "earliest": "1996-01-01",
+          "latest": "1996-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-f85455e761b954eb5100",
+      "property": "P166",
+      "claimId": "Q28976188$7c50ac3e-4c79-14da-aae5-4695b765a1ec",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 38104,
+          "id": "Q38104"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2025-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2025"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.kva.se/nyheter/nobelpriset-i-fysik-2025/"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-10-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.kva.se/nyheter/nobelpriset-i-fysik-2025/",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [
+        "https://www.kva.se/nyheter/nobelpriset-i-fysik-2025/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2025-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a68d7e6a0ee87e5a9b20",
+      "property": "P101",
+      "claimId": "Q28976188$8a31eecb-40a8-81f9-df28-2a06844b61b4",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 17995793,
+          "id": "Q17995793"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-555fa7272fef8dcfd13f",
+      "property": "P856",
+      "claimId": "Q28976188$fabe7c20-4e38-efa0-eb2d-9f3f1398adbf",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "http://www.physics.ucsb.edu/people/john-martinis"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-19f42ae867c94708c1a3",
+      "factId": "fact-f85455e761b954eb5100",
+      "claimId": "Q28976188$7c50ac3e-4c79-14da-aae5-4695b765a1ec",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2025",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.kva.se/nyheter/nobelpriset-i-fysik-2025/",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-311b75f08373b57f2034",
+      "factId": "fact-2017d8e6c745ae5c74e8",
+      "claimId": "Q28976188$71dfc127-4059-4c4d-3fcd-03b3c090730b",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2021",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://cqiqc.physics.utoronto.ca/bell-prize/bell-prize-winners/john-martinis-awarded-the-seventh-bell-prize/",
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-e450d894d2556256cdb0",
+      "factId": "fact-f0ba02f76ee6115bd240",
+      "claimId": "Q28976188$353186ee-4982-707c-5980-22759e563376",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2020-04",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.businessinsider.com/john-martinis-why-working-at-google-is-great-2014-9",
+        "https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-cfa3399a1b08c68d2736",
+      "factId": "fact-a6c89496fde0af23f887",
+      "claimId": "Q28976188$E7566257-4BAC-4778-A071-76841814D57A",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2019",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4f02ef7dfc45dc091c78",
+      "factId": "fact-f0ba02f76ee6115bd240",
+      "claimId": "Q28976188$353186ee-4982-707c-5980-22759e563376",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2014-09",
+      "precision": 10,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.businessinsider.com/john-martinis-why-working-at-google-is-great-2014-9",
+        "https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-239074f196ad6dde332a",
+      "factId": "fact-61e42b1e5b5085fa577d",
+      "claimId": "Q28976188$976C0E6C-B28F-4152-ACB2-8F499925D058",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2014",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://iupap.org/who-we-are/internal-organization/commissions/low-temperature-physics/c5-awards/#commission",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-8a4d7d1fa0e6613cb741",
+      "factId": "fact-7bdc24b65728a45f50df",
+      "claimId": "Q28976188$c2fba9e1-8dd6-44b0-b7a1-45b5f89a80a1",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2014",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://ieeexplore.ieee.org/author/37319851200",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-1b924988466e599e6e23",
+      "factId": "fact-e5d43c707b689db53f5d",
+      "claimId": "Q28976188$66c2f222-4304-2750-4d5e-88cdb0d598e1",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2004",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c8592de530053db7701f",
+      "factId": "fact-7bdc24b65728a45f50df",
+      "claimId": "Q28976188$c2fba9e1-8dd6-44b0-b7a1-45b5f89a80a1",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2004",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://ieeexplore.ieee.org/author/37319851200",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-40932214d640ba5cbec7",
+      "factId": "fact-f539d1808963cea63820",
+      "claimId": "Q28976188$449ccd47-4fb0-480f-a488-e23bc38941ff",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "1996",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.nist.gov/system/files/documents/nvl/SP955_Suppl_09_Appendix_G.pdf",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-b33f1f48a3e82c4b9483",
+      "factId": "fact-27f73a1383018805c7b1",
+      "claimId": "Q28976188$99eb5f17-4429-93d8-6fc5-b91d6587d793",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1985",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www.wikidata.org/wiki/Q28976188"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-21e84785767d38f9e40a",
+      "factId": "fact-6afba6b4a02cfc910ff0",
+      "claimId": "Q28976188$A06D2212-58E0-4E6E-8CAC-CFC153164970",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1958-07-13",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1385089853",
+        "https://en.wikipedia.org/wiki/John_M._Martinis",
+        "https://www-ancestryinstitution-com.wikipedialibrary.idm.oclc.org/search/collections/5247/records/6971228?tid=&pid=&queryId=eeae01f4-e071-4622-bf09-cc8acae9532d&usePUBJs=true",
+        "https://www.matica.hr/vijenac/844%20-%20846/povratak-kuci-od-komize-do-kvantnog-doba-39996/",
+        "https://www.wikidata.org/wiki/Q26878196",
+        "https://www.wikidata.org/wiki/Q28976188",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "约翰·马丁尼斯",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "职业",
+          "value": "物理学家",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "来源所记出生日期",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "出生地",
+          "value": "洛杉矶",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "就读机构",
+          "value": "加州大學柏克萊分校",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "雇主",
+          "value": "原子能研究所",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "雇主",
+          "value": "加利福尼亞大學聖巴巴拉分校",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "雇主",
+          "value": "國家標準技術研究所",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "雇主",
+          "value": "Quantum Artificial Intelligence Lab",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "奖项",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "奖项",
+          "value": "美国物理学会会士",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "奖项",
+          "value": "弗里茨·伦敦奖",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "奖项",
+          "value": "自然科學十人",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "奖项",
+          "value": "Samuel Wesley Stratton Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "奖项",
+          "value": "诺贝尔物理学奖",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "研究领域",
+          "value": "量子计算",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "官方网站",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 诺贝尔物理学奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: John Stewart Bell Prize",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: Quantum Artificial Intelligence Lab",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 自然科學十人",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇主: Quantum Artificial Intelligence Lab",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 弗里茨·伦敦奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 加利福尼亞大學聖巴巴拉分校",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 國家標準技術研究所",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: 加利福尼亞大學聖巴巴拉分校",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: Samuel Wesley Stratton Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 加州大學柏克萊分校",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1958-07-13",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "John Martinis",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "Occupation",
+          "value": "physicist",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "Source-reported birth date",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "Place of birth",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "Educational institution",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "Employer",
+          "value": "Alternative Energies and Atomic Energy Commission",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "Employer",
+          "value": "University of California, Santa Barbara",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "Employer",
+          "value": "National Institute of Standards and Technology",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "Employer",
+          "value": "Quantum Artificial Intelligence Lab",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "Award",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "Award",
+          "value": "Fellow of the American Physical Society",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "Award",
+          "value": "Fritz London Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "Award",
+          "value": "Nature's 10",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "Award",
+          "value": "Samuel Wesley Stratton Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "Award",
+          "value": "Nobel Prize in Physics",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "Field of work",
+          "value": "quantum computing",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "Official website",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Nobel Prize in Physics",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: John Stewart Bell Prize",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: Quantum Artificial Intelligence Lab",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Nature's 10",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employer: Quantum Artificial Intelligence Lab",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Fritz London Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: University of California, Santa Barbara",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: National Institute of Standards and Technology",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: University of California, Santa Barbara",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Samuel Wesley Stratton Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: University of California, Berkeley",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1958-07-13",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "John Martinis",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "Profession",
+          "value": "physicien ou physicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "Lieu de naissance",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "Établissement fréquenté",
+          "value": "Université de Californie à Berkeley",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "Employeur",
+          "value": "Commissariat à l'énergie atomique et aux énergies alternatives",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "Employeur",
+          "value": "Université de Californie à Santa Barbara",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "Employeur",
+          "value": "National Institute of Standards and Technology",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "Employeur",
+          "value": "Laboratoire d'intelligence artificielle quantique",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "Distinction",
+          "value": "prix John Stewart Bell",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "Distinction",
+          "value": "membre de la Société américaine de physique",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "Distinction",
+          "value": "prix en mémoire de Fritz London",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "Distinction",
+          "value": "Les dix scientifiques de l'année",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "Distinction",
+          "value": "Prix Samuel Wesley Stratton",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "Distinction",
+          "value": "prix Nobel de physique",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "Domaine de travail",
+          "value": "informatique quantique",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "Site officiel",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix Nobel de physique",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix John Stewart Bell",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: Laboratoire d'intelligence artificielle quantique",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Les dix scientifiques de l'année",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "Employeur: Laboratoire d'intelligence artificielle quantique",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: prix en mémoire de Fritz London",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: Université de Californie à Santa Barbara",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: National Institute of Standards and Technology",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: Université de Californie à Santa Barbara",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Prix Samuel Wesley Stratton",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Université de Californie à Berkeley",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1958-07-13",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "جون مارتينيس",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "المهنة",
+          "value": "فيزيائي",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "مكان الميلاد",
+          "value": "لوس أنجلوس",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة كاليفورنيا، بركلي",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "جهة العمل",
+          "value": "هيئة الطاقة الذرية والبديلة الفرنسية",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "جهة العمل",
+          "value": "جامعة كاليفورنيا، سانتا باربرا",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "جهة العمل",
+          "value": "المعهد الوطني للمعايير والتقانة",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "جهة العمل",
+          "value": "مختبر الذكاء الاصطناعي الكمومي",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "الجائزة",
+          "value": "جائزة جون ستيوارت بيل",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "الجائزة",
+          "value": "زمالة الجمعية الأمريكية الفيزيائية",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "الجائزة",
+          "value": "جائزة فريتز لندن التذكارية",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "الجائزة",
+          "value": "جائزة مجلة نيتشر",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "الجائزة",
+          "value": "جائزة صموئيل ويسلي ستراتون",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "الجائزة",
+          "value": "جائزة نوبل في الفيزياء",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "مجال العمل",
+          "value": "حوسبة كمومية",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "الموقع الرسمي",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة نوبل في الفيزياء",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة جون ستيوارت بيل",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: مختبر الذكاء الاصطناعي الكمومي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة مجلة نيتشر",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "جهة العمل: مختبر الذكاء الاصطناعي الكمومي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة فريتز لندن التذكارية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: جامعة كاليفورنيا، سانتا باربرا",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: المعهد الوطني للمعايير والتقانة",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: جامعة كاليفورنيا، سانتا باربرا",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة صموئيل ويسلي ستراتون",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: جامعة كاليفورنيا، بركلي",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1958-07-13",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "John M. Martinis",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "Beruf",
+          "value": "Physiker",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "Geburtsort",
+          "value": "Los Angeles",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "Bildungseinrichtung",
+          "value": "University of California, Berkeley",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "Arbeitgeber",
+          "value": "CEA",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "Arbeitgeber",
+          "value": "University of California, Santa Barbara",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "Arbeitgeber",
+          "value": "National Institute of Standards and Technology",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "Arbeitgeber",
+          "value": "Quantum Artificial Intelligence Lab",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "Auszeichnung",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "Auszeichnung",
+          "value": "Fellow of the American Physical Society",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "Auszeichnung",
+          "value": "Fritz London Memorial Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "Auszeichnung",
+          "value": "Nature's 10",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "Auszeichnung",
+          "value": "Samuel-Wesley-Stratton-Preis",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "Auszeichnung",
+          "value": "Nobelpreis für Physik",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "Arbeitsgebiet",
+          "value": "Quantenrechnen",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "Offizielle Website",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Nobelpreis für Physik",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: John Stewart Bell Prize",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: Quantum Artificial Intelligence Lab",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Nature's 10",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "Arbeitgeber: Quantum Artificial Intelligence Lab",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Fritz London Memorial Prize",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: University of California, Santa Barbara",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: National Institute of Standards and Technology",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: University of California, Santa Barbara",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Samuel-Wesley-Stratton-Preis",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: University of California, Berkeley",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1958-07-13",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ジョン・M・マーティニス",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "職業",
+          "value": "物理学者",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "出典に記載された生年月日",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "出生地",
+          "value": "ロサンゼルス",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "在籍した教育機関",
+          "value": "カリフォルニア大学バークレー校",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "雇用主",
+          "value": "原子力・代替エネルギー庁",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "雇用主",
+          "value": "カリフォルニア大学サンタバーバラ校",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "雇用主",
+          "value": "アメリカ国立標準技術研究所",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "雇用主",
+          "value": "量子人工知能研究所",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "受賞",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "受賞",
+          "value": "アメリカ物理学会フェロー",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "受賞",
+          "value": "フリッツ・ロンドン記念賞",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "受賞",
+          "value": "今年の10人",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "受賞",
+          "value": "Samuel Wesley Stratton Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "受賞",
+          "value": "ノーベル物理学賞",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "活動分野",
+          "value": "量子コンピューティング",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "公式サイト",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ノーベル物理学賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: John Stewart Bell Prize",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: 量子人工知能研究所",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 今年の10人",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "雇用主: 量子人工知能研究所",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: フリッツ・ロンドン記念賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: カリフォルニア大学サンタバーバラ校",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: アメリカ国立標準技術研究所",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: カリフォルニア大学サンタバーバラ校",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Samuel Wesley Stratton Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: カリフォルニア大学バークレー校",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1958-07-13",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "John Martinis",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "Ocupación",
+          "value": "físico",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "Lugar de nacimiento",
+          "value": "Los Ángeles",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "Institución educativa",
+          "value": "Universidad de California en Berkeley",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "Empleador",
+          "value": "Comisariado para la energía atómica y las energías renovables",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "Empleador",
+          "value": "Universidad de California en Santa Bárbara",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "Empleador",
+          "value": "Instituto Nacional de Estándares y Tecnología",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "Empleador",
+          "value": "Quantum Artificial Intelligence Lab",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "Distinción",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "Distinción",
+          "value": "Miembro de la Sociedad Estadounidense de Física",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "Distinción",
+          "value": "Fritz London Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "Distinción",
+          "value": "Nature's 10",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "Distinción",
+          "value": "Samuel Wesley Stratton Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "Distinción",
+          "value": "Premio Nobel de Física",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "Campo de trabajo",
+          "value": "computación cuántica",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "Sitio web oficial",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Nobel de Física",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: John Stewart Bell Prize",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: Quantum Artificial Intelligence Lab",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Nature's 10",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "Empleador: Quantum Artificial Intelligence Lab",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Fritz London Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Universidad de California en Santa Bárbara",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Instituto Nacional de Estándares y Tecnología",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: Universidad de California en Santa Bárbara",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Samuel Wesley Stratton Award",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Universidad de California en Berkeley",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1958-07-13",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "존 M. 마티니스",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-555dccb9d3b729044435",
+          "label": "직업",
+          "value": "물리학자",
+          "notes": []
+        },
+        {
+          "id": "fact-4f39b8d5207ba0c64d9a",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-6afba6b4a02cfc910ff0",
+          "label": "출처에 기재된 출생일",
+          "value": "1958-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-d354166f2dc9c395f7a2",
+          "label": "출생지",
+          "value": "로스앤젤레스",
+          "notes": []
+        },
+        {
+          "id": "fact-27f73a1383018805c7b1",
+          "label": "교육 기관",
+          "value": "캘리포니아 대학교 버클리",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-538ab85ca624dfbca6c6",
+          "label": "고용 기관",
+          "value": "프랑스 원자력청",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-7bdc24b65728a45f50df",
+          "label": "고용 기관",
+          "value": "캘리포니아 대학교 샌타바버라",
+          "notes": []
+        },
+        {
+          "id": "fact-e5d43c707b689db53f5d",
+          "label": "고용 기관",
+          "value": "미국 국립표준기술연구소",
+          "notes": []
+        },
+        {
+          "id": "fact-f0ba02f76ee6115bd240",
+          "label": "고용 기관",
+          "value": "Quantum Artificial Intelligence Lab",
+          "notes": []
+        },
+        {
+          "id": "fact-2017d8e6c745ae5c74e8",
+          "label": "수상",
+          "value": "John Stewart Bell Prize",
+          "notes": []
+        },
+        {
+          "id": "fact-443c3ca30773d50109e0",
+          "label": "수상",
+          "value": "Fellow of the American Physical Society",
+          "notes": []
+        },
+        {
+          "id": "fact-61e42b1e5b5085fa577d",
+          "label": "수상",
+          "value": "Fritz London Award",
+          "notes": []
+        },
+        {
+          "id": "fact-a6c89496fde0af23f887",
+          "label": "수상",
+          "value": "네이처스 10",
+          "notes": []
+        },
+        {
+          "id": "fact-f539d1808963cea63820",
+          "label": "수상",
+          "value": "Samuel Wesley Stratton Award",
+          "notes": []
+        },
+        {
+          "id": "fact-f85455e761b954eb5100",
+          "label": "수상",
+          "value": "노벨 물리학상",
+          "notes": []
+        },
+        {
+          "id": "fact-a68d7e6a0ee87e5a9b20",
+          "label": "활동 분야",
+          "value": "양자 계산",
+          "notes": []
+        },
+        {
+          "id": "fact-555fa7272fef8dcfd13f",
+          "label": "공식 웹사이트",
+          "value": "http://www.physics.ucsb.edu/people/john-martinis",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-19f42ae867c94708c1a3",
+          "factId": "fact-f85455e761b954eb5100",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 노벨 물리학상",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-311b75f08373b57f2034",
+          "factId": "fact-2017d8e6c745ae5c74e8",
+          "date": "2021",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: John Stewart Bell Prize",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-e450d894d2556256cdb0",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2020-04",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: Quantum Artificial Intelligence Lab",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-cfa3399a1b08c68d2736",
+          "factId": "fact-a6c89496fde0af23f887",
+          "date": "2019",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: 네이처스 10",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-4f02ef7dfc45dc091c78",
+          "factId": "fact-f0ba02f76ee6115bd240",
+          "date": "2014-09",
+          "precision": 10,
+          "kind": "start",
+          "title": "고용 기관: Quantum Artificial Intelligence Lab",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-239074f196ad6dde332a",
+          "factId": "fact-61e42b1e5b5085fa577d",
+          "date": "2014",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Fritz London Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-8a4d7d1fa0e6613cb741",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2014",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 캘리포니아 대학교 샌타바버라",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-1b924988466e599e6e23",
+          "factId": "fact-e5d43c707b689db53f5d",
+          "date": "2004",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 미국 국립표준기술연구소",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-c8592de530053db7701f",
+          "factId": "fact-7bdc24b65728a45f50df",
+          "date": "2004",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: 캘리포니아 대학교 샌타바버라",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-40932214d640ba5cbec7",
+          "factId": "fact-f539d1808963cea63820",
+          "date": "1996",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Samuel Wesley Stratton Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-b33f1f48a3e82c4b9483",
+          "factId": "fact-27f73a1383018805c7b1",
+          "date": "1985",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 캘리포니아 대학교 버클리",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-21e84785767d38f9e40a",
+          "factId": "fact-6afba6b4a02cfc910ff0",
+          "date": "1958-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1958-07-13",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "de",
+        "key": "Q16927765"
+      },
+      {
+        "locale": "de",
+        "key": "Q41955909"
+      },
+      {
+        "locale": "es",
+        "key": "Q16927765"
+      },
+      {
+        "locale": "es",
+        "key": "Q18208328"
+      },
+      {
+        "locale": "es",
+        "key": "Q246592"
+      },
+      {
+        "locale": "es",
+        "key": "Q97175140"
+      },
+      {
+        "locale": "fr",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "Q18208328"
+      },
+      {
+        "locale": "ja",
+        "key": "Q97175140"
+      },
+      {
+        "locale": "ko",
+        "key": "Q16927765"
+      },
+      {
+        "locale": "ko",
+        "key": "Q18208328"
+      },
+      {
+        "locale": "ko",
+        "key": "Q246592"
+      },
+      {
+        "locale": "ko",
+        "key": "Q41955909"
+      },
+      {
+        "locale": "ko",
+        "key": "Q97175140"
+      },
+      {
+        "locale": "zh",
+        "key": "Q16927765"
+      },
+      {
+        "locale": "zh",
+        "key": "Q18208328"
+      },
+      {
+        "locale": "zh",
+        "key": "Q97175140"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "de",
+        "key": "Q16927765",
+        "fallbackLocale": "en",
+        "value": "Quantum Artificial Intelligence Lab",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q41955909",
+        "fallbackLocale": "en",
+        "value": "Fellow of the American Physical Society",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q16927765",
+        "fallbackLocale": "en",
+        "value": "Quantum Artificial Intelligence Lab",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q18208328",
+        "fallbackLocale": "en",
+        "value": "John Stewart Bell Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q246592",
+        "fallbackLocale": "en",
+        "value": "Fritz London Award",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q97175140",
+        "fallbackLocale": "en",
+        "value": "Samuel Wesley Stratton Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "John Martinis",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q18208328",
+        "fallbackLocale": "en",
+        "value": "John Stewart Bell Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q97175140",
+        "fallbackLocale": "en",
+        "value": "Samuel Wesley Stratton Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q16927765",
+        "fallbackLocale": "en",
+        "value": "Quantum Artificial Intelligence Lab",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q18208328",
+        "fallbackLocale": "en",
+        "value": "John Stewart Bell Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q246592",
+        "fallbackLocale": "en",
+        "value": "Fritz London Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q41955909",
+        "fallbackLocale": "en",
+        "value": "Fellow of the American Physical Society",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q97175140",
+        "fallbackLocale": "en",
+        "value": "Samuel Wesley Stratton Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q16927765",
+        "fallbackLocale": "en",
+        "value": "Quantum Artificial Intelligence Lab",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q18208328",
+        "fallbackLocale": "en",
+        "value": "John Stewart Bell Prize",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q97175140",
+        "fallbackLocale": "en",
+        "value": "Samuel Wesley Stratton Award",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [
+      {
+        "property": "P166",
+        "claimId": "Q28976188$2140863f-4c64-ea6c-2669-e6f7dba2df06",
+        "reason": "event-not-established-before-cutoff"
+      }
+    ],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 12,
+    "professionalEventCount": 11,
+    "factCount": 17,
+    "factsWithoutExternalReference": 9,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

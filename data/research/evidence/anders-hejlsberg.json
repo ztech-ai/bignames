@@ -1,0 +1,929 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "anders-hejlsberg",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "安德斯·海尔斯伯格",
+    "enName": "Anders Hejlsberg",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "参与设计Turbo Pascal、C#与TypeScript，影响现代编程语言工具与大型软件开发。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与设计Turbo Pascal、C#与TypeScript，影响现代编程语言工具与大型软件开发。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Anders Hejlsberg",
+    "requestedTitle": "Anders Hejlsberg",
+    "resolvedTitle": "Anders Hejlsberg",
+    "wikidataId": "Q316544",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Anders_Hejlsberg",
+      "title": "Anders Hejlsberg",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:20Z",
+      "revisionId": 1377816621,
+      "revisionTimestamp": "2026-10-01T07:43:55Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1377816621",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q316544",
+      "title": "Q316544",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:47Z",
+      "revisionId": 2558821918,
+      "revisionTimestamp": "2026-10-19T15:04:30Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Anders Hejlsberg (; Danish: [ˈhɑjlsˌpɛɐ̯ˀ]; born 2 December 1960) is a Danish software engineer who co-designed several programming languages and development tools. He was the original author of Turbo Pascal and the chief architect of Delphi. He currently works for Microsoft as the lead architect of C# and core developer on TypeScript.\n\n",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Anders Hejlsberg",
+    "ko": "아네르스 하일스베르",
+    "es": "Anders Hejlsberg",
+    "en": "Anders Hejlsberg",
+    "de": "Anders Hejlsberg",
+    "ja": "アンダース・ヘルスバーグ",
+    "ar": "أندرس هيلسبرغ",
+    "zh": "安德斯·海尔斯伯格"
+  },
+  "descriptions": {
+    "de": "dänischer Software-Architekt",
+    "en": "Danish software engineer (born 1960)",
+    "ja": "デンマークのソフトウェアエンジニア",
+    "fr": "inventeur du C# et de TypeScript",
+    "ar": "مبرمج دنماركي"
+  },
+  "languageArticles": {
+    "ar": "أندرس هيلسبرغ",
+    "de": "Anders Hejlsberg",
+    "en": "Anders Hejlsberg",
+    "es": "Anders Hejlsberg",
+    "fr": "Anders Hejlsberg",
+    "ja": "アンダース・ヘルスバーグ",
+    "ko": "아네르스 하일스베르",
+    "zh": "安德斯·海尔斯伯格"
+  },
+  "claims": {
+    "P18": [
+      {
+        "id": "q316544$7C435BF7-A9C7-4668-906E-AD151B804BC5",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Anders Hejlsberg.jpg"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "q316544$5AC297E0-1A4B-408E-93AE-739D95BCD465",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "q316544$B6DF5058-63E2-41C7-AD85-08EBB0E317AF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1748,
+            "id": "Q1748"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-10-28T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-10-28"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "q316544$4615AA76-CCDE-4716-9CB9-0742BF29A648",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "q316544$E7165B46-6BC2-4A14-9F3A-F9EE1ED426F8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7663860,
+            "id": "Q7663860"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q316544$AA9B40E6-C55A-49DE-AE19-ECEFF7D8B0D0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "q316544$AB3271B0-ED47-43A1-B5AE-B1E1A004E6D9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2283,
+            "id": "Q2283"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q316544$8096ea5b-4272-19a3-5e36-aca3404f10a2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 210075,
+            "id": "Q210075"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q316544$EA8C7E62-F378-45D0-B703-576E99A57ECC",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1960-12-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1960-12-02"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q316544$BEB7DE94-C783-4254-81E8-5BB786329EB2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 756617,
+            "id": "Q756617"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q316544$9c032c05-4b1e-1d39-b8b1-bad9d5ba647b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 12317945,
+            "id": "Q12317945"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2014-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2014"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q316544$FEF1A388-D0A6-48A8-AAFC-B83F8182CA86",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1269766,
+            "id": "Q1269766"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30239,
+                  "id": "Q30239"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q316544$c99c8220-4d5f-5fbe-7137-db0f37f12f24",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 473201,
+            "id": "Q473201"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q316544$dfe9715b-45a6-3602-5d6f-922860067bea",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4037189,
+            "id": "Q4037189"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q316544$35cd955f-4010-1e47-c79f-9850f626f4d1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2370,
+            "id": "Q2370"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q316544$ca44bdb6-4c3e-70e5-8db8-e1913563eac1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 978185,
+            "id": "Q978185"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P18": "image",
+    "P31": "instanceOf",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P108": "employer",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P166": "award",
+    "P69": "education",
+    "P800": "notableWork"
+  },
+  "relatedEntities": {
+    "Q12317945": {
+      "id": "Q12317945",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "IT-prisen",
+        "en": "IT Award",
+        "es": "Premio IT"
+      },
+      "descriptions": {
+        "en": "Danish business award"
+      }
+    },
+    "Q1269766": {
+      "id": "Q1269766",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "Université technique du Danemark",
+        "en": "Technical University of Denmark",
+        "zh": "丹麦技术大学",
+        "de": "Dänemarks Technische Universität",
+        "es": "Universidad Técnica de Dinamarca",
+        "ja": "デンマーク工科大学",
+        "ko": "덴마크 공과 대학",
+        "ar": "جامعة الدنمارك التقنية"
+      },
+      "descriptions": {
+        "de": "Universität in Dänemark",
+        "en": "university in the town Kongens Lyngby",
+        "es": "Universidad Técnica de Dinamarca",
+        "zh": "高等教育机构",
+        "ja": "デンマークの工業大学",
+        "fr": "université au Danemark",
+        "ar": "منظمة في الدنمارك"
+      }
+    },
+    "Q1748": {
+      "id": "Q1748",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "de": "Kopenhagen",
+        "fr": "Copenhague",
+        "en": "Copenhagen",
+        "ar": "كوبنهاغن",
+        "es": "Copenhague",
+        "ja": "コペンハーゲン",
+        "ko": "코펜하겐",
+        "zh": "哥本哈根"
+      },
+      "descriptions": {
+        "de": "Hauptstadt von Dänemark",
+        "fr": "capitale et plus grande ville du Danemark",
+        "en": "capital and largest city of Denmark",
+        "es": "capital de Dinamarca",
+        "ko": "덴마크의 수도",
+        "zh": "丹麥首都",
+        "ja": "デンマークの首都",
+        "ar": "عاصمة الدانمارك"
+      }
+    },
+    "Q210075": {
+      "id": "Q210075",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "Borland",
+        "ko": "볼랜드",
+        "es": "Borland",
+        "de": "Borland",
+        "ja": "ボーランド",
+        "ar": "بورلاند",
+        "en": "Borland",
+        "zh": "Borland"
+      },
+      "descriptions": {
+        "en": "software company",
+        "ja": "かつてのアメリカのソフトウェア会社",
+        "ar": "شركة أمريكية",
+        "es": "Compañía de software",
+        "fr": "éditeur de logiciels",
+        "de": "US-amerikanisches Softwareunternehmen mit Sitz in Austin",
+        "ko": "이전에 존재한 미국의 소프트웨어 회사"
+      }
+    },
+    "Q2283": {
+      "id": "Q2283",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ar": "مايكروسوفت",
+        "ja": "マイクロソフト",
+        "ko": "마이크로소프트",
+        "zh": "微軟",
+        "en": "Microsoft",
+        "fr": "Microsoft"
+      },
+      "descriptions": {
+        "de": "US-amerikanisches Technologieunternehmen mit Hauptsitz in Redmond, Washington",
+        "fr": "multinationale informatique américaine",
+        "zh": "美國的跨國電腦科技公司",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "ko": "미국의 다국적 소프트웨어 및 하드웨어 기업",
+        "ar": "شركة أمريكية متعددة الجنسيات تعمل في مجال التقنية",
+        "es": "corporación tecnológica multinacional estadounidense",
+        "en": "American multinational technology corporation"
+      }
+    },
+    "Q2370": {
+      "id": "Q2370",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "ar": "سي#",
+        "zh": "C♯",
+        "ko": "C 샤프",
+        "en": "C#"
+      },
+      "descriptions": {
+        "en": "multi-paradigm (object-oriented) programming language",
+        "de": "objektorientierte Programmiersprache",
+        "es": "lenguaje de programación",
+        "fr": "langage de programmation informatique",
+        "ko": "객체 지향 프로그래밍 언어",
+        "ja": "オブジェクト指向プログラミング言語",
+        "zh": "多範式（面向對象）編程語言",
+        "ar": "لغة برمجة عالية المستوى"
+      }
+    },
+    "Q30239": {
+      "id": "Q30239",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الصينية",
+        "es": "Wikipedia en chino",
+        "fr": "Wikipédia en chinois",
+        "ja": "中国語版ウィキペディア",
+        "ko": "중국어 위키백과",
+        "de": "chinesischsprachige Wikipedia",
+        "zh": "中文維基百科",
+        "en": "Chinese Wikipedia"
+      },
+      "descriptions": {
+        "en": "Chinese-language edition of Wikipedia",
+        "es": "edición en chino de la Wikipedia",
+        "zh": "維基百科的中文版本",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in chinesischer Sprache",
+        "ko": "위키백과의 중국어판",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الصينية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの中国語版"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q4037189": {
+      "id": "Q4037189",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "en": "Delphi",
+        "es": "Delphi",
+        "de": "Delphi",
+        "fr": "Delphi",
+        "ar": "دلفي"
+      },
+      "descriptions": {
+        "de": "Programmiersprache (Dialekt von Object Pascal, verwendet in Embarcadero Delphi)",
+        "en": "programming language (dialect of Object Pascal, used in Embarcadero Delphi)",
+        "fr": "langage de programmation",
+        "ar": "لغة البرمجة (لهجة Object Pascal ، المستخدمة في Embarcadero Delphi)"
+      }
+    },
+    "Q473201": {
+      "id": "Q473201",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "fr": "Turbo Pascal",
+        "ko": "터보 파스칼",
+        "es": "Turbo Pascal",
+        "de": "Turbo Pascal",
+        "ja": "Turbo Pascal",
+        "en": "Turbo Pascal",
+        "zh": "Turbo Pascal",
+        "ar": "توربو باسكال"
+      },
+      "descriptions": {
+        "de": "Entwicklungsumgebung für Software",
+        "en": "programming language",
+        "fr": "langage de programmation informatique",
+        "es": "lenguaje de programación",
+        "ko": "파스칼을 사용하는 컴파일러와 통합 개발 환경"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q756617": {
+      "id": "Q756617",
+      "fetchedAt": "2026-11-13T11:01:57Z",
+      "labels": {
+        "ko": "덴마크 왕국",
+        "es": "Reino de Dinamarca",
+        "ja": "デンマーク王国",
+        "en": "Kingdom of Denmark",
+        "zh": "丹麥王國",
+        "de": "Königreich Dänemark",
+        "fr": "royaume de Danemark",
+        "ar": "مملكة الدنمارك"
+      },
+      "descriptions": {
+        "de": "Dänemark mit den autonomen Gebieten Grönland und Färöer",
+        "fr": "État souverain et monarchie constitutionnelle transcontinentale",
+        "en": "transcontinental sovereign state and constitutional monarchy",
+        "ja": "デンマーク国王を君主に戴くデンマーク本土とその海外領土から成る主権国家",
+        "zh": "跨大陸君主立憲制主權國家",
+        "es": "reino de Dinamarca y sus territorios autónomos",
+        "ar": "دولة ذات سيادة عابرة للقارات وملكية دستورية"
+      }
+    },
+    "Q7663860": {
+      "id": "Q7663860",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "en": "systems architect",
+        "es": "arquitecto de sistemas",
+        "zh": "系统架构师",
+        "fr": "architecte systèmes",
+        "ar": "مهندس أنظمة",
+        "ja": "システム技師"
+      },
+      "descriptions": {
+        "en": "profession in information and communications technology",
+        "ja": "情報通信技術における専門職"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q978185": {
+      "id": "Q978185",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "ja": "TypeScript",
+        "fr": "TypeScript",
+        "en": "TypeScript",
+        "es": "TypeScript",
+        "zh": "TypeScript",
+        "de": "TypeScript",
+        "ko": "타입스크립트",
+        "ar": "تايب سكريبت"
+      },
+      "descriptions": {
+        "de": "Programmiersprache, Obermenge von JavaScript, die sich zu JavaScript kompilieren lässt",
+        "en": "programming language, superset of JavaScript that compiles to JavaScript",
+        "fr": "langage de programmation qui se transpile en JavaScript",
+        "es": "lenguaje de programación, superconjunto de JavaScript, que se compila a este último.",
+        "ar": "لغة برمجة",
+        "ja": "マイクロソフトによって開発され、メンテナンスされているフリーでオープンソースのプログラミング言語",
+        "zh": "程式語言，編譯成JavaScript的JavaScript超集",
+        "ko": "자바스크립트의 슈퍼셋인 오픈소스 프로그래밍 언어"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Anders Hejlsberg.jpg",
+    "fetchedAt": "2026-11-13T11:05:49Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anders_Hejlsberg.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Anders_Hejlsberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Anders_Hejlsberg.jpg/960px-Anders_Hejlsberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1088,
+    "height": 1484,
+    "mediaTimestamp": "2009-04-07T08:12:46Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "DBegley",
+    "credit": "https://www.flickr.com/photos/begley/2985424826/in/set-72157608507966144",
+    "description": "A cropped picture of Anders Hejlsberg, lead architect of the C# programming language, at the Professional Developers Conference 2008.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/01b4fbcbecb0ad17c24fc908.jpg",
+    "cachedImageBytes": 171473,
+    "cachedImageSha256": "b1850d02d99d75eb4856253297b3a07f6bff50759e1a50cd655bdef5142581a1"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

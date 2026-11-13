@@ -1,0 +1,225 @@
+{
+  "roster": "culture.json",
+  "targetCutoff": "2026-11-13",
+  "researchedAt": "2026-11-13",
+  "scope": "候选筛选与分领域影响力初评，不是逐人完成的传记事实核验。",
+  "methodology": [
+    "优先选择有持续作品影响、跨国传播、重大领域认可或主要地区文化结构影响的人物；不以净资产、热搜、粉丝量单独作为收录理由。",
+    "影响力按统一1—5星初评，候选池仅纳入3星及以上；领域分布是筛选结果，不作为补足人数的硬配额。",
+    "来源名录用于确定代表性和查找后续资料入口；只有标记opened的页面被实际展开阅读，search表示本轮搜索结果核对。",
+    "所有人物selectionStatus仍为pending-verification。星级为编辑性判断并标记provisional，不代表权威排名或赞同人物立场。",
+    "不以未搜索到讣告作为在世证明。出生、死亡、现职、近期活动、照片权利和每条年表必须在正式档案阶段分别核验。"
+  ],
+  "counts": {
+    "total": 240,
+    "domains": {
+      "culture": 140,
+      "literature": 55,
+      "arts": 45
+    },
+    "influenceStars": {
+      "5": 6,
+      "4": 147,
+      "3": 87
+    }
+  },
+  "sources": [
+    {
+      "id": "nobel-laureates",
+      "title": "All Nobel Prizes in Literature",
+      "publisher": "Nobel Foundation",
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/?images=yes",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "文学奖项记录；奖项不自动等同影响力评分或在世核验。"
+    },
+    {
+      "id": "nobel-2026",
+      "title": "Nobelpriset i litteratur 2026: Anne Carson",
+      "publisher": "Swedish Academy",
+      "url": "https://www.svenskaakademien.se/nobelpriset/2026",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "已打开，确认安妮·卡森获得2026年诺贝尔文学奖；不是完整个人档案核验。"
+    },
+    {
+      "id": "booker-authors",
+      "title": "Authors",
+      "publisher": "Booker Prize Foundation",
+      "url": "https://thebookerprizes.com/the-booker-library/authors",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "跨国小说作家名录，用于拓展作者候选；名单包含已故者，不能作为在世证明。"
+    },
+    {
+      "id": "booker-roy",
+      "title": "Arundhati Roy",
+      "publisher": "Booker Prize Foundation",
+      "url": "https://thebookerprizes.com/the-booker-library/authors/arundhati-roy",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "《微物之神》及国际翻译传播的候选背景。"
+    },
+    {
+      "id": "booker-shree",
+      "title": "Geetanjali Shree",
+      "publisher": "Booker Prize Foundation",
+      "url": "https://thebookerprizes.com/the-booker-library/authors/geetanjali-shree",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "印地语小说与国际布克奖的候选背景。"
+    },
+    {
+      "id": "booker-flanagan",
+      "title": "Richard Flanagan",
+      "publisher": "Booker Prize Foundation",
+      "url": "https://thebookerprizes.com/the-booker-library/authors/richard-flanagan",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "澳大利亚小说与2014年布克奖的候选背景。"
+    },
+    {
+      "id": "pritzker-laureates",
+      "title": "Laureates",
+      "publisher": "The Pritzker Architecture Prize",
+      "url": "https://www.pritzkerprize.com/laureates",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "建筑人物名录含2026年获奖者；历史名录并非在世人物名单。"
+    },
+    {
+      "id": "pritzker-radic",
+      "title": "Smiljan Radić Clarke",
+      "publisher": "The Pritzker Architecture Prize",
+      "url": "https://www.pritzkerprize.com/laureates/smiljan-radic-clarke",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "已打开2026年普利兹克奖介绍与职业资料，核对身份及跨地区建筑项目。"
+    },
+    {
+      "id": "pritzker-liu",
+      "title": "Liu Jiakun",
+      "publisher": "The Pritzker Architecture Prize",
+      "url": "https://www.pritzkerprize.com/laureates/liu-jiakun",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "2025年获奖及成都建筑实践的候选背景。"
+    },
+    {
+      "id": "grammy-2026",
+      "title": "2026 Grammy Awards Nominations Revealed",
+      "publisher": "Recording Academy",
+      "url": "https://www.grammy.com/news/2026-grammys-nominations-revealed/",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "2025-11-07发布的2026年提名记录，用于观察近期音乐行业认可；不是2026年最终获奖名单。"
+    },
+    {
+      "id": "cannes-deniro",
+      "title": "Robert De Niro, Honorary Palme d’or of the 78th Festival de Cannes",
+      "publisher": "Festival de Cannes",
+      "url": "https://www.festival-cannes.com/en/press/press-releases/robert-de-niro-honorary-palme-d-or-of-the-78th-festival-de-cannes/",
+      "accessMode": "opened",
+      "accessedAt": "2026-11-13",
+      "use": "电影职业成就与2025年荣誉金棕榈公布材料。"
+    },
+    {
+      "id": "cannes-washington",
+      "title": "Denzel Washington, Honorary Palme d’or",
+      "publisher": "Festival de Cannes",
+      "url": "https://www.festival-cannes.com/en/medialibrary/denzel-washington-honorary-palme-dor/",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "2025-05-19的官方荣誉记录。"
+    },
+    {
+      "id": "afi-coppola",
+      "title": "Francis Ford Coppola",
+      "publisher": "American Film Institute",
+      "url": "https://www.afi.com/laa/francis-ford-coppola/",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "导演职业成就及美国电影学会的生涯评价。"
+    },
+    {
+      "id": "moma-steyerl",
+      "title": "Hito Steyerl",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/artists/43752-hito-steyerl",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "美术馆对影像艺术与理论实践的介绍。"
+    },
+    {
+      "id": "moma-mehretu",
+      "title": "Julie Mehretu",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/artists/25414-julie-mehretu?hl=en-US",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "馆藏及展览记录用于核对人物身份和制度性艺术认可。"
+    },
+    {
+      "id": "moma-anatsui",
+      "title": "El Anatsui",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/artists/34619-el-anatsui",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "馆藏艺术家资料，用于核对材料艺术候选背景。"
+    },
+    {
+      "id": "nmwa-muholi",
+      "title": "Zanele Muholi",
+      "publisher": "National Museum of Women in the Arts",
+      "url": "https://nmwa.org/art/artists/zanele-muholi/",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "摄影与视觉行动实践的美术馆说明。"
+    },
+    {
+      "id": "whitney-mehretu",
+      "title": "Julie Mehretu",
+      "publisher": "Whitney Museum of American Art",
+      "url": "https://whitney.org/artists/9260",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "埃塞俄比亚裔美国艺术家的身份与绘画实践说明。"
+    },
+    {
+      "id": "mit-contemporary-art",
+      "title": "The Story of Contemporary Art",
+      "publisher": "MIT Press",
+      "url": "https://mitpress.mit.edu/9780262366045/the-story-of-contemporary-art/",
+      "accessMode": "search",
+      "accessedAt": "2026-11-13",
+      "use": "当代艺术史出版物的代表艺术家范围，用于补充领域候选。"
+    }
+  ],
+  "excludedAfterRecentSearch": [
+    {
+      "name": "草间弥生",
+      "enName": "Yayoi Kusama",
+      "reason": "检索发现2026年讣告，本轮在世优先候选池排除；保留既有历史候选。",
+      "sourceUrl": "https://www.ft.com/content/2ec4b920-6b1c-4dd2-914d-4310e2afe06c",
+      "publisher": "Financial Times",
+      "sourceTitle": "Yayoi Kusama, pioneering Japanese artist, 1929–2026"
+    },
+    {
+      "name": "大卫·霍克尼",
+      "enName": "David Hockney",
+      "reason": "检索发现2026年6月死亡报道，本轮在世优先候选池排除。",
+      "sourceUrl": "https://apnews.com/article/79ddb3813406f21a8859d3b22e653852",
+      "publisher": "Associated Press",
+      "sourceTitle": "David Hockney, iconic British artist known for his colorful landscapes and pool scenes, dies at 88"
+    },
+    {
+      "name": "多莉·帕顿",
+      "enName": "Dolly Parton",
+      "reason": "检索发现2026年8月死亡报道，本轮在世优先候选池排除。",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/everybody-has-dolly-parton-song-world-mourns-country-music-legend-2026-08-26/",
+      "publisher": "Reuters",
+      "sourceTitle": "We will always love you — world mourns Dolly Parton"
+    }
+  ]
+}

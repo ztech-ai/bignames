@@ -1,0 +1,2024 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "brian-kernighan",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "布赖恩·柯尼汉",
+    "enName": "Brian Kernighan",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "参与Unix工具和编程语言研究，通过著作与教育推动C语言和软件实践的全球传播。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与Unix工具和编程语言研究，通过著作与教育推动C语言和软件实践的全球传播。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:21Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Brian Kernighan",
+    "requestedTitle": "Brian Kernighan",
+    "resolvedTitle": "Brian Kernighan",
+    "wikidataId": "Q92608",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Brian_Kernighan",
+      "title": "Brian Kernighan",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:21Z",
+      "revisionId": 1384296935,
+      "revisionTimestamp": "2026-11-07T16:06:37Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384296935",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q92608",
+      "title": "Q92608",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:58Z",
+      "revisionId": 2505816559,
+      "revisionTimestamp": "2026-06-14T08:59:16Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Brian Wilson Kernighan (; born 30 January 1942) is a Canadian computer scientist.\nHe worked at Bell Labs and contributed to the development of Unix alongside Unix creators Ken Thompson and Dennis Ritchie. Kernighan's name became widely known through co-authorship of the first book on the C programming language (The C Programming Language) with Dennis Ritchie. Kernighan affirmed that he had no part in the design of the C language (\"it's entirely Dennis Ritchie's work\").\nKernighan authored many Unix programs, including ditroff. He is coauthor of the AWK and AMPL programming languages. The \"K\" of K&R C and of AWK both stand for \"Kernighan\".\nIn collaboration with Shen Lin he devised well-known heuristics for two NP-complete optimization problems: graph partitioning and the travelling salesman problem. In a display of authorial equity, the former is usually called the Kernighan–Lin algorithm, while the latter is known as the Lin–Kernighan heuristic.\nKernighan has been a professor of computer science at Princeton University since 2000 and is the director of undergraduate studies in the department of computer science.\nIn 2015, he co-authored the book The Go Programming Language.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Brian Kernighan",
+    "ko": "브라이언 커니핸",
+    "es": "Brian Kernighan",
+    "de": "Brian W. Kernighan",
+    "ja": "ブライアン・カーニハン",
+    "en": "Brian Kernighan",
+    "zh": "布萊恩·柯林漢",
+    "ar": "براين كيرنيغان"
+  },
+  "descriptions": {
+    "de": "kanadischer Informatiker, Miterfinder des Unix-Betriebssystems",
+    "en": "Canadian computer scientist, co-inventor of the Unix operating system",
+    "ar": "عالم حاسوب كندي",
+    "es": "informático canadiense",
+    "ja": "カナダ出身の計算機科学者",
+    "fr": "informaticien américain",
+    "ko": "캐나다의 컴퓨터 과학자"
+  },
+  "languageArticles": {
+    "ar": "براين كيرنيغان",
+    "de": "Brian W. Kernighan",
+    "en": "Brian Kernighan",
+    "es": "Brian Kernighan",
+    "fr": "Brian Kernighan",
+    "ja": "ブライアン・カーニハン",
+    "ko": "브라이언 커니핸",
+    "zh": "布萊恩·克尼漢"
+  },
+  "claims": {
+    "P19": [
+      {
+        "id": "q92608$736E6717-8E6C-4F04-8FDD-9FAE039C68D4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 172,
+            "id": "Q172"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.linuxjournal.com/article/7035"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 63412991,
+                  "id": "Q63412991"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q92608$ac23f0d7-42ce-8eeb-426d-f4c768d57451",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1942-01-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1942-01-01"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q92608$49C3FB35-577B-4DD3-9C8D-4DBBD5B23D3D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 180865,
+            "id": "Q180865"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1960-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1960"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1964-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1964"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.linuxjournal.com/article/7035"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Interview with Brian Kernighan",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-05-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-05-11"
+              }
+            ],
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1233442,
+                  "id": "Q1233442"
+                }
+              }
+            ]
+          },
+          {
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The Factory of Ideas: Working at Bell Labs",
+                  "language": "en"
+                }
+              }
+            ],
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 63324785,
+                  "id": "Q63324785"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.youtube.com/watch?v=QFK6RG47bww"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$E51A0033-7BFE-48B8-9209-B0C71513385B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21578,
+            "id": "Q21578"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1969-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1969"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 752297,
+                "id": "Q752297"
+              }
+            }
+          ],
+          "P1026": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 57901462,
+                "id": "Q57901462"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.cs.princeton.edu/people/profile/bwk"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Brian Kernighan",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-05-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-05-11"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 829984,
+                  "id": "Q829984"
+                }
+              }
+            ]
+          },
+          {
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The Factory of Ideas: Working at Bell Labs",
+                  "language": "en"
+                }
+              }
+            ],
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 63324785,
+                  "id": "Q63324785"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.youtube.com/watch?v=QFK6RG47bww"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q92608$1ABE5EDF-B70D-468F-BF40-6A22A232964D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19938912,
+                  "id": "Q19938912"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-10-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-10-10"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q92608$B720308F-724B-421F-A561-31F79B5B414D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16,
+            "id": "Q16"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$9a96a9ad-4267-05d3-66d0-1607a733884e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q92608$1761896E-7CDC-45A5-BA56-446B6AC680EA",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Brian kernighan2.gif"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$2017fc5a-46fa-3f77-d64e-e4f664c8f803",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "Brian Kernighan in 2012 at Bell Labs 1.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-09-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012-09-07"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q92608$8c15a65c-42bd-747c-51e6-7dec0d1f050a",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Brian Kernighan in 2012 at Bell Labs 1(cropped).jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q92608$D0DE1AF2-AD77-428C-B3D4-17D568DBB18A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-06-24"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$934A06F6-D8C7-4DCB-909D-D104B158D28E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 81096,
+            "id": "Q81096"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$F2991907-3B05-417D-A94F-E1891790B98E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$C39CA2A6-9F27-4BDE-8F67-2876FAEC6C8F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 36180,
+            "id": "Q36180"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$b5ed32e3-f950-437d-ade2-30a68bab1208",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1622272,
+            "id": "Q1622272"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-12-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-12-15"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q92608$516B76D2-60C8-438D-A32C-238AC30C57B1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21578,
+            "id": "Q21578"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$e6bc3576-4ee0-adb1-9458-912ab0cf7f86",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 217365,
+            "id": "Q217365"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.linuxjournal.com/article/7035"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 63412991,
+                  "id": "Q63412991"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$d5676309-4627-dc44-29b3-a5b1ce4164e5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 217365,
+            "id": "Q217365"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1969-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1969"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2000-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2000"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.cs.princeton.edu/people/profile/bwk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$33250112-4e6c-02b6-07a6-1b3bada5e00e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1053094,
+            "id": "Q1053094"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q92608$5E8C89F0-D947-4B2F-98EE-817DFF6B4F11",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1493021,
+            "id": "Q1493021"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2002-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2002"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.cs.princeton.edu/people/profile/bwk"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Brian Kernighan",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-05-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-05-11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$3133D5C2-8F91-4C98-ADDC-A048A727201C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q92608$79a1080d-4e20-46a7-c7d4-5fb990521e18",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 213970,
+            "id": "Q213970"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$8ab0f111-440c-3dbb-45c1-9962863be1ba",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 295250,
+            "id": "Q295250"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$be941eb1-4c6e-8e12-4100-8738348aa688",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1137974,
+            "id": "Q1137974"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q92608$321acfd6-4de9-7896-5661-4034286341e3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11368,
+            "id": "Q11368"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q92608$D0D97BE9-3538-475E-8BBF-9CECD50A7F95",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1551807,
+                  "id": "Q1551807"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$3D4E8BEF-3D52-4809-A934-34F79D68599A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4027615,
+            "id": "Q4027615"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-11-07"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$4DE49476-F9DC-4F23-8F89-5C7D3B9B2F71",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 80006,
+            "id": "Q80006"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-11-07"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$97B12A91-1B8F-4D3D-BDD2-C29C2A2B5860",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 9143,
+            "id": "Q9143"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13550863,
+                  "id": "Q13550863"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2022-11-07"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q92608$E57529B4-36E1-4BB7-B307-E9F3B0CD102E",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "https://www.cs.princeton.edu/~bwk/"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199698,
+                  "id": "Q199698"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q92608$e5509d02-43d9-f12c-a0a0-071aa6c01c5d",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://kernighan.com/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P512": [
+      {
+        "id": "Q92608$f7818800-4314-6310-349c-d5d6d3b90efc",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 752297,
+            "id": "Q752297"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1969-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1969"
+            }
+          ]
+        },
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P69": "education",
+    "P31": "instanceOf",
+    "P27": "citizenship",
+    "P18": "image",
+    "P106": "occupation",
+    "P108": "employer",
+    "P463": "membership",
+    "P800": "notableWork",
+    "P101": "fieldOfWork",
+    "P856": "officialWebsite",
+    "P512": "academicDegree"
+  },
+  "relatedEntities": {
+    "Q1053094": {
+      "id": "Q1053094",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "ja": "Project MAC",
+        "en": "Project MAC"
+      },
+      "descriptions": {
+        "en": "computer science project at MIT"
+      }
+    },
+    "Q11368": {
+      "id": "Q11368",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "ar": "يونكس",
+        "ja": "UNIX",
+        "ko": "유닉스",
+        "en": "Unix"
+      },
+      "descriptions": {
+        "en": "family of computer operating systems that derive from the original AT&T Unix from 1969",
+        "de": "Betriebssystemfamilie, die ihren Ursprung im UNIX-Betriebssystem (1969) von AT&T hat",
+        "es": "sistema operativo",
+        "ja": "コンピュータ・オペレーティング・システム",
+        "fr": "système d'exploitation",
+        "zh": "計算機操作系統",
+        "ar": "نظام تشغيل حاسوب",
+        "ko": "컴퓨터의 운영 체제 정보"
+      }
+    },
+    "Q1137974": {
+      "id": "Q1137974",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "fr": "The C Programming Language",
+        "es": "El lenguaje de programación C",
+        "en": "The C Programming Language",
+        "de": "The C Programming Language",
+        "ja": "プログラミング言語C",
+        "zh": "C程序设计语言",
+        "ar": "لغة البرمجة سي",
+        "ko": "C 프로그래밍 언어 (책)"
+      },
+      "descriptions": {
+        "en": "authoritative programming book by Brian Kernighan and Dennis Ritchie, the developers of the C programming language",
+        "ar": "كتاب عن برمجة الحاسوب من تأليف بريان كيرنيغان و دينيس ريتشي",
+        "fr": "livre de Brian Kernighan, Dennis Ritchie",
+        "de": "Standard-Lehrbuch über die Programmiersprache C von Brian Kernighan und Dennis Ritchie, den Entwicklern von C",
+        "es": "libro de Brian Kernighan y Dennis Ritchie",
+        "ja": "ブライアン・カーニハンとデニス・リッチーによって書かれた書籍"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q1233442": {
+      "id": "Q1233442",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "de": "Linux Journal",
+        "ar": "لينكس جورنال",
+        "en": "Linux Journal",
+        "ja": "Linux Journal",
+        "fr": "Linux Journal",
+        "ko": "리눅스 저널",
+        "es": "Linux Journal",
+        "zh": "Linux杂志"
+      },
+      "descriptions": {
+        "de": "Zeitschrift",
+        "en": "magazine",
+        "ar": "مجلة تقنية",
+        "es": "revista"
+      }
+    },
+    "Q13550863": {
+      "id": "Q13550863",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "Nationale Normdatei von Tschechien",
+        "fr": "catalogue de la Bibliothèque nationale de la République tchèque",
+        "en": "Czech National Authority Database",
+        "ko": "체코 국립 전거 데이터베이스",
+        "ar": "قاعدة بيانات الضبط الوطنية التشيكية",
+        "zh": "捷克国家规范数据库",
+        "es": "catálogo de la Biblioteca Nacional Checa",
+        "ja": "チェコ国立図書館典拠データベース"
+      },
+      "descriptions": {
+        "de": "verwaltet von der tschechischen Nationalbibliothek",
+        "en": "Authority Database of the National Library of the Czech Republic",
+        "es": "base de datos de autoridades de la Biblioteca Nacional de la República Checa",
+        "fr": "base de notices d'autorité tchèque"
+      }
+    },
+    "Q1493021": {
+      "id": "Q1493021",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "National Academy of Engineering",
+        "en": "National Academy of Engineering",
+        "fr": "Académie nationale d'ingénierie des États-Unis",
+        "ja": "全米技術アカデミー",
+        "zh": "美国国家工程院",
+        "ar": "الأكاديمية الوطنية للهندسة",
+        "es": "Academia Nacional de Ingeniería",
+        "ko": "미국 국립 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "engineering branch of the United States National Academies",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a la ingeniería",
+        "fr": "organisation privée à but non lucratif"
+      }
+    },
+    "Q1551807": {
+      "id": "Q1551807",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "en": "Polish Wikipedia",
+        "zh": "波蘭語維基百科",
+        "ko": "폴란드어 위키백과",
+        "ar": "ويكيبيديا البولندية",
+        "es": "Wikipedia en polaco",
+        "fr": "Wikipédia en polonais",
+        "ja": "ポーランド語版ウィキペディア",
+        "de": "polnischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Polish-language edition of Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in polnischer Sprache",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة البولندية من ويكيبيديا، الموسوعة الحرة",
+        "es": "edición de Wikipedia en polaco",
+        "ko": "위키백과의 폴란드어판",
+        "zh": "维基百科的波兰语版",
+        "ja": "ウィキペディアのポーランド語版"
+      }
+    },
+    "Q16": {
+      "id": "Q16",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "Canadá",
+        "ar": "كندا",
+        "de": "Kanada",
+        "en": "Canada",
+        "fr": "Canada",
+        "zh": "加拿大",
+        "ja": "カナダ",
+        "ko": "캐나다"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "zh": "北美洲國家",
+        "es": "país de América del Norte",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "en": "country in North America",
+        "ja": "北アメリカの国",
+        "ko": "북아메리카의 국가"
+      }
+    },
+    "Q1622272": {
+      "id": "Q1622272",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "de": "Hochschullehrer",
+        "fr": "professeur d'université",
+        "en": "university teacher",
+        "es": "profesor universitario",
+        "zh": "大學教師",
+        "ko": "대학 교수",
+        "ja": "大学教員",
+        "ar": "مُدرِّس جامعي"
+      },
+      "descriptions": {
+        "fr": "personnel enseignant en poste dans une université. Voir Q121594 pour le titre de Professeur et Q28004591 pour le grade de professeur des universités en France",
+        "en": "person teaching at a university or college",
+        "es": "persona que enseña en la universidad",
+        "de": "Person, die an einer Hochschule lehrt und forscht",
+        "zh": "高等院校任教者",
+        "ja": "大学で教育を行う者",
+        "ar": "شخص يدرس في الجامعة"
+      }
+    },
+    "Q172": {
+      "id": "Q172",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "Toronto",
+        "fr": "Toronto",
+        "de": "Toronto",
+        "es": "Toronto",
+        "ar": "تورنتو",
+        "ja": "トロント",
+        "ko": "토론토",
+        "zh": "多伦多"
+      },
+      "descriptions": {
+        "en": "capital and largest city of the province of Ontario, Canada",
+        "fr": "capitale de l'Ontario et plus grande ville du Canada",
+        "de": "bevölkerungsreichste Stadt Kanadas und Hauptstadt der Provinz Ontario",
+        "es": "capital de la provincia de Ontario y ciudad más poblada de Canadá",
+        "ko": "온타리오 주에 위치한 캐나다에서 가장 큰 도시",
+        "ja": "カナダ最大の都市",
+        "zh": "加拿大安大略省的首府和最大城市",
+        "ar": "أكبر مدن كندا وعاصمة مقاطعة أونتاريو"
+      }
+    },
+    "Q180865": {
+      "id": "Q180865",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "Université de Toronto",
+        "ko": "토론토 대학교",
+        "es": "Universidad de Toronto",
+        "de": "University of Toronto",
+        "ja": "トロント大学",
+        "en": "University of Toronto",
+        "ar": "جامعة تورنتو",
+        "zh": "多倫多大學"
+      },
+      "descriptions": {
+        "en": "public research university in the Greater Toronto Area of Ontario, Canada",
+        "fr": "université de recherche publique à Région du Grand Toronto en Ontario au Canada",
+        "de": "eine der drei Universitäten von Toronto, größte Universität Kanadas",
+        "zh": "加拿大公立大學",
+        "ar": "جامعة في كندا",
+        "es": "universidad pública en Toronto, Ontario, Canadá",
+        "ja": "カナダ・オンタリオ州トロントにある州立大学",
+        "ko": "캐나다 온타리오주 토론토에 있는 연구 중심 공립 대학"
+      }
+    },
+    "Q19938912": {
+      "id": "Q19938912",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Autorités BnF",
+        "en": "BnF authorities",
+        "de": "BnF-Normdatei",
+        "es": "data.bnf.fr",
+        "ar": "استنادات المكتبة الوطنية الفرنسية",
+        "ko": "BnF 당국",
+        "ja": "BnFオーソリティーズ",
+        "zh": "Bnf名称规范"
+      },
+      "descriptions": {
+        "fr": "base de données d'autorité concernant personnes, collectivités, titres uniformes textuels et musicaux, noms géographiques et marques commerciales",
+        "en": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
+        "de": "Normdatei für Personen, Organisationen und Werke bei der Französischen Nationalbibliothek",
+        "ko": "프랑스 국립 도서관의 개인, 조직, 작품, 주제 및 지리적 장소에 대한 전거 파일",
+        "ja": "オンラインデータベース",
+        "es": "fichero de autoridad de personas, organizaciones, obras, temas y lugares geográficos, de la Biblioteca Nacional de Francia",
+        "ar": "ملف استناد في المكتبة الفرنسية الوطنية، يحوي بيانات عن الأفراد والمنظمات والأعمال والموضوعات والأقاليم الجغرافية",
+        "zh": "法国国家图书馆人物、组织、作品、话题、地名等的规范档"
+      }
+    },
+    "Q199698": {
+      "id": "Q199698",
+      "fetchedAt": "2026-11-13T11:00:10Z",
+      "labels": {
+        "fr": "Wikipédia en ukrainien",
+        "ko": "우크라이나어 위키백과",
+        "es": "Wikipedia en ucraniano",
+        "ja": "ウクライナ語版ウィキペディア",
+        "en": "Ukrainian Wikipedia",
+        "ar": "ويكيبيديا الأوكرانية",
+        "zh": "烏克蘭語維基百科",
+        "de": "ukrainischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Ukrainian-language edition of Wikipedia",
+        "de": "Wikipedia-Sprachversion",
+        "ar": "النسخة الأوكرانية من ويكيبيديا، الموسوعة الحرة",
+        "fr": "édition de Wikipédia",
+        "ja": "ウィキペディアのウクライナ語版",
+        "es": "sección de Wikipedia en el idioma ucraniano",
+        "ko": "우크라이나어로 된 Wikipedia 섹션"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q213970": {
+      "id": "Q213970",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "fr": "Awk",
+        "ar": "أوك",
+        "ko": "AWK",
+        "en": "AWK"
+      },
+      "descriptions": {
+        "en": "data-driven programming language made by Alfred Aho, Peter Weinberger and Brian Kernighan",
+        "fr": "mini-langage UNIX de traitement par lignes d'un fichier formatté",
+        "de": "Programmiersprache",
+        "es": "lenguaje de programación",
+        "zh": "程式語言",
+        "ja": "プログラミング言語のひとつ"
+      }
+    },
+    "Q21578": {
+      "id": "Q21578",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "en": "Princeton University",
+        "ar": "جامعة برينستون",
+        "de": "Princeton University",
+        "es": "Universidad de Princeton",
+        "fr": "Université de Princeton",
+        "ja": "プリンストン大学",
+        "ko": "프린스턴 대학교",
+        "zh": "普林斯顿大学"
+      },
+      "descriptions": {
+        "en": "private Ivy League research university in Princeton, New Jersey, United States",
+        "de": "Universität im US-Bundesstaat New Jersey",
+        "es": "universidad privada en Nueva Jersey, Estados Unidos",
+        "fr": "université américaine située dans le New Jersey",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة في نيو جيرسي، الولايات المتحدة",
+        "zh": "在美國新澤西普林斯頓的私立常春藤聯盟研究型大學",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q217365": {
+      "id": "Q217365",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Laboratoires Bell",
+        "ko": "벨 연구소",
+        "es": "Bell Labs",
+        "de": "Bell Laboratories",
+        "ja": "ベル研究所",
+        "ar": "مختبرات بل",
+        "en": "Bell Labs",
+        "zh": "貝爾實驗室"
+      },
+      "descriptions": {
+        "de": "US-amerikanische Forschungseinrichtung",
+        "en": "research and scientific development company",
+        "es": "empresa de investigación y desarrollo científico",
+        "ko": "미국의 통신 연구소",
+        "ja": "アメリカ合衆国の研究所",
+        "fr": "institut de recherche aux États-Unis",
+        "ar": "معامل خاصة تنشط في مجال الأبحاث تعمل حاليا لصالح شركة نوكيا"
+      }
+    },
+    "Q295250": {
+      "id": "Q295250",
+      "fetchedAt": "2026-11-13T11:05:59Z",
+      "labels": {
+        "en": "AMPL",
+        "zh": "AMPL",
+        "de": "AMPL",
+        "fr": "AMPL",
+        "ja": "AMPL",
+        "es": "AMPL"
+      },
+      "descriptions": {
+        "en": "algebraic modeling language",
+        "es": "Lenguage de programación algebraica",
+        "fr": "langage de programmation",
+        "de": "Programmiersprache"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36180": {
+      "id": "Q36180",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "作家",
+        "es": "escritor",
+        "ar": "كاتب",
+        "fr": "écrivain ou écrivaine",
+        "ko": "작가",
+        "de": "Schriftsteller",
+        "ja": "著作家",
+        "en": "writer"
+      },
+      "descriptions": {
+        "de": "Person, die literarische Texte verfasst",
+        "es": "persona que crea obras escritas, especialmente de carácter literario",
+        "en": "person who uses written words to communicate ideas and to produce literary works",
+        "fr": "personne qui rédige des ouvrages littéraires ou scientifiques",
+        "zh": "以寫作為業的人",
+        "ko": "아이디어를 전달하고 문학 작품을 만들기 위해 글을 사용하는 사람",
+        "ar": "الشخص الذي يستخدم الكلمات المكتوبة لتوصيل الأفكار وإنتاج الأعمال الأدبية",
+        "ja": "職業のひとつ"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q4027615": {
+      "id": "Q4027615",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "es": "ciencias de la información",
+        "en": "informatics",
+        "ar": "معلوماتية",
+        "ja": "インフォマティクス",
+        "ko": "컴퓨터 과학",
+        "fr": "sciences de l'information",
+        "zh": "信息学"
+      },
+      "descriptions": {
+        "en": "study of computational systems, especially those for data storage and retrieval",
+        "es": "ciencia que estudia la práctica del procesamiento de información y la ingeniería de los sistemas de información",
+        "fr": "domaine académique",
+        "zh": "學術領域",
+        "de": "Studium von Computersystemen, insbesondere solchen zur Datenspeicherung und -abfrage",
+        "ar": "دراسة الأنظمة الحاسوبية، وخاصة تلك المستخدمة في تخزين البيانات واسترجاعها",
+        "ja": "情報学などの関連分野"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q57901462": {
+      "id": "Q57901462",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Some graph partitioning problems related to program segmentation"
+      },
+      "descriptions": {
+        "en": "dissertation by Brian Kernighan"
+      }
+    },
+    "Q63324785": {
+      "id": "Q63324785",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Computerphile",
+        "de": "Computerphile",
+        "es": "Computerphile",
+        "fr": "Computerphile"
+      },
+      "descriptions": {
+        "de": "YouTube-Kanal",
+        "en": "YouTube channel about computing and computing history"
+      }
+    },
+    "Q63412991": {
+      "id": "Q63412991",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "YouTube video",
+        "de": "YouTube-Video",
+        "zh": "YouTube影片",
+        "fr": "vidéo de YouTube",
+        "ar": "تسجيل مرئي على يوتيوب",
+        "ko": "유튜브 영상",
+        "es": "vídeo en YouTube",
+        "ja": "YouTube動画"
+      },
+      "descriptions": {
+        "en": "software resource that represents a video, its comments, likes, etc. on YouTube",
+        "de": "Webvideo, welches auf dem Videoportal YouTube veröffentlicht wurde",
+        "zh": "於YouTube網站上之影片",
+        "fr": "type de clip vidéo",
+        "ko": "영상 공유 플랫폼 유튜브의 영상 클립",
+        "es": "vídeo alojado en la plataforma YouTube"
+      }
+    },
+    "Q752297": {
+      "id": "Q752297",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ko": "철학박사",
+        "fr": "docteur en philosophie",
+        "de": "Ph.D.",
+        "ja": "Doctor of Philosophy",
+        "en": "Doctor of Philosophy",
+        "zh": "哲學博士",
+        "es": "Doctor en filosofía",
+        "ar": "دكتوراه الفلسفة"
+      },
+      "descriptions": {
+        "fr": "diplôme universitaire le plus élevé accordant le titre de docteur",
+        "es": "grado académico para graduados otorgado por universidades de muchos países",
+        "en": "postgraduate academic degree awarded by most universities worldwide",
+        "de": "in englischsprachigen Ländern der wissenschaftliche Doktorgrad in fast allen Fächern",
+        "zh": "高等教育學位",
+        "ar": "درجة أكاديمية للدراسات العليا تمنحها معظم الجامعات في جميع أنحاء العالم",
+        "ja": "世界中のほとんどの大学で授与される大学院学位",
+        "ko": "학위의 하나"
+      }
+    },
+    "Q80006": {
+      "id": "Q80006",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "计算机程序设计",
+        "es": "programación",
+        "ar": "برمجة",
+        "ko": "컴퓨터 프로그래밍",
+        "fr": "programmation",
+        "de": "Programmierung",
+        "ja": "コンピュータプログラミング",
+        "en": "computer programming"
+      },
+      "descriptions": {
+        "de": "Tätigkeit der Erstellung von Computerprogrammen",
+        "fr": "discipline de l'informatique",
+        "es": "proceso de diseñar, codificar, depurar y mantener el código fuente de programas computacionales",
+        "en": "the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task",
+        "ar": "توجيه أوامر لجهاز الحاسوب او أي جهاز آخر",
+        "zh": "软件开发步骤",
+        "ja": "特定のコンピューティングの結果を得るために実行可能なコンピュータープログラムを設計・構築する過程",
+        "ko": "특정한 프로그래밍 언어를 이용해 구체적인 컴퓨터 프로그램으로 구현하는 기술"
+      }
+    },
+    "Q81096": {
+      "id": "Q81096",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "工程师",
+        "ar": "مهندس",
+        "ko": "기술자",
+        "fr": "ingénieur ou ingénieure",
+        "de": "Ingenieur",
+        "ja": "エンジニア",
+        "en": "engineer",
+        "es": "ingeniero"
+      },
+      "descriptions": {
+        "en": "professional practitioner of engineering",
+        "es": "persona dedicada a la ingeniería",
+        "de": "Berufsbezeichnung für wissenschaftlich ausgebildete Fachleute auf technischem Gebiet",
+        "fr": "personne pratiquant l'ingénierie",
+        "ar": "ممارس محترف للهندسة",
+        "ja": "工学学位を持つ研究者、技術界の研究開発者",
+        "ko": "공학에 종사하는 사람"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q829984": {
+      "id": "Q829984",
+      "fetchedAt": "2026-11-13T11:00:15Z",
+      "labels": {
+        "fr": "Mathematics Genealogy Project",
+        "en": "Mathematics Genealogy Project",
+        "es": "Mathematics Genealogy Project",
+        "de": "Mathematics Genealogy Project",
+        "ja": "Mathematics Genealogy Project",
+        "ar": "مشروع إحصاء علماء الرياضيات",
+        "zh": "數學譜系計畫",
+        "ko": "수학 계보 프로젝트"
+      },
+      "descriptions": {
+        "fr": "base de données sur Internet qui donne la généalogie académique de mathématiciens",
+        "en": "web-based database for the academic genealogy of mathematicians",
+        "de": "Datenbank für Dissertationen in der Mathematik",
+        "ko": "수학자들의 학문 계보를 위한 웹 기반 데이터베이스",
+        "zh": "汇集数学家谱系的网络数据库"
+      }
+    },
+    "Q9143": {
+      "id": "Q9143",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "de": "Programmiersprache",
+        "ar": "لغة برمجة",
+        "es": "lenguaje de programación",
+        "fr": "langage de programmation",
+        "ja": "プログラミング言語",
+        "ko": "프로그래밍 언어",
+        "zh": "编程语言",
+        "en": "programming language"
+      },
+      "descriptions": {
+        "de": "formale Sprache zur Formulierung von Rechenvorschriften, die von einem Computer ausgeführt werden können",
+        "fr": "langage artificiel conçu pour donner des instructions à une machine",
+        "ko": "기계에게 명령을 내리기 위해 설계된 언어",
+        "ja": "コンピュータプログラム記述用の形式言語",
+        "es": "lenguaje artificial diseñado para facilitar el paso de instrucciones a computadoras",
+        "zh": "用於將指令傳達給機器的語言",
+        "en": "language for communicating instructions to a machine"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Brian kernighan2.gif",
+    "fetchedAt": "2026-11-13T11:06:02Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_kernighan2.gif",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Brian_kernighan2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Brian_kernighan2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 241,
+    "height": 247,
+    "mediaTimestamp": "2013-03-31T22:18:21Z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Thiele41",
+    "credit": "Own work",
+    "description": "teste",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 5,
+    "referenceUrls": 4,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

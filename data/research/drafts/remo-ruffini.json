@@ -1,0 +1,1222 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "remo-ruffini",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/remo-ruffini.json",
+    "sha256": "4eabe8205e283daa8824e11b022e2f9042f61cbd6fc67d47d6f1728bdee75abe",
+    "capturedAt": "2026-11-13T11:26:28Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+      "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+      "https://www.wikidata.org/wiki/Q39071812"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q39071812",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Remo Ruffini",
+    "sourceIdentity": {
+      "requestedName": "Remo Ruffini",
+      "requestedTitle": "Remo Ruffini (businessman)",
+      "resolvedTitle": "Remo Ruffini (businessman)",
+      "wikidataId": "Q39071812",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "wikipedia-pageprops"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-3825ed5ddd7d84d5c8c9",
+      "property": "P106",
+      "claimId": "Q39071812$fdf1cc17-4c0b-2461-7a9c-3b363c5249bc",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 62063127,
+          "id": "Q62063127"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2026-04-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2026-04-01"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [
+        "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2026-04-01T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2026-04-01",
+          "earliest": "2026-04-01",
+          "latest": "2026-04-01",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-95fff0f59a9fb9d9332a",
+      "property": "P106",
+      "claimId": "Q39071812$dffc3673-47b6-2903-b3e1-b47dfc1ca7a8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2026-03-31T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2026-03-31"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [
+        "https://www.vogue.com/article/moncler-names-bartolomeo-rongone-as-group-ceo"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P582",
+          "raw": "+2026-03-31T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2026-03-31",
+          "earliest": "2026-03-31",
+          "latest": "2026-03-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-ae6b15e7b490a71f7424",
+      "property": "P106",
+      "claimId": "Q39071812$ce6583f5-4b0d-98ea-2acf-d9288cee4018",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2961975,
+          "id": "Q2961975"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-fe8043aaa56af291e240",
+      "property": "P27",
+      "claimId": "Q39071812$A352BBBE-3E6D-4978-AEF1-C6105E3FA64D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 38,
+          "id": "Q38"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1fece651feaab5786e44",
+      "property": "P569",
+      "claimId": "Q39071812$CF88B76D-CA43-4F16-A5A8-639C48031679",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1961-08-27T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1961-08-27"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 11920,
+                "id": "Q11920"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q11920",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q11920"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1961-08-27T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1961-08-27",
+        "earliest": "1961-08-27",
+        "latest": "1961-08-27",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-455093642087e443f723",
+      "property": "P19",
+      "claimId": "Q39071812$c65e3b40-e947-47d4-a0b1-8a02018ff161",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1308,
+          "id": "Q1308"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-0a9e94c194296a0a4e1e",
+      "property": "P108",
+      "claimId": "Q39071812$a9cc2a96-40f3-044e-d72f-522338ee471a",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 1548951,
+          "id": "Q1548951"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a9d9dc43fc4f9f5b9025",
+      "property": "P166",
+      "claimId": "Q39071812$d4e8ba3f-4ea8-4e6a-43b7-83ffbcdfbc4f",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 629291,
+          "id": "Q629291"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-96660ed53448f1c4893d",
+      "property": "P800",
+      "claimId": "Q39071812$e32ebcbb-410e-512b-ac66-656646336ac9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 134580223,
+          "id": "Q134580223"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-26d97a7b8de0261db025",
+      "factId": "fact-1fece651feaab5786e44",
+      "claimId": "Q39071812$CF88B76D-CA43-4F16-A5A8-639C48031679",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1961-08-27",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1355123347",
+        "https://en.wikipedia.org/wiki/Remo_Ruffini_(businessman)",
+        "https://www.wikidata.org/wiki/Q11920",
+        "https://www.wikidata.org/wiki/Q39071812"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "雷莫·鲁菲尼",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "职业",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "职业",
+          "value": "首席执行官",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "职业",
+          "value": "企业主管",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "国籍",
+          "value": "意大利",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "来源所记出生日期",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "出生地",
+          "value": "科莫",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "雇主",
+          "value": "盟可睞",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "奖项",
+          "value": "劳动功绩勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "代表作品",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1961-08-27",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Remo Ruffini",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "Occupation",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "Occupation",
+          "value": "chief executive officer",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "Occupation",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "Citizenship",
+          "value": "Italy",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "Source-reported birth date",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "Place of birth",
+          "value": "Como",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "Employer",
+          "value": "Moncler",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "Award",
+          "value": "Order of Merit for Labour",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "Notable work",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1961-08-27",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Remo Ruffini",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "Profession",
+          "value": "président exécutif",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "Profession",
+          "value": "directeur général ou directrice générale",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "Profession",
+          "value": "chef ou cheffe d'entreprise",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "Nationalité",
+          "value": "Italie",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "Lieu de naissance",
+          "value": "Côme",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "Employeur",
+          "value": "Moncler",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "Distinction",
+          "value": "ordre du Mérite du travail",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "Œuvre notable",
+          "value": "Casa Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1961-08-27",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Remo Ruffini",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "المهنة",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "المهنة",
+          "value": "رئيس تنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "المهنة",
+          "value": "مسير أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "الجنسية",
+          "value": "إيطاليا",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "مكان الميلاد",
+          "value": "كومو",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "جهة العمل",
+          "value": "مونكلير",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "الجائزة",
+          "value": "نيشان الاستحقاق للعمل",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "عمل بارز",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1961-08-27",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Remo Ruffini",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "Beruf",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "Beruf",
+          "value": "Geschäftsführer",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "Beruf",
+          "value": "Unternehmensleiter",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "Staatsangehörigkeit",
+          "value": "Italien",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "Geburtsort",
+          "value": "Como",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "Arbeitgeber",
+          "value": "Moncler",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "Auszeichnung",
+          "value": "Arbeitsverdienstorden (Italien)",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "Bekanntes Werk",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1961-08-27",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "Remo Ruffini",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "職業",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "職業",
+          "value": "最高経営責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "職業",
+          "value": "企業重役",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "国籍",
+          "value": "イタリア",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "出典に記載された生年月日",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "出生地",
+          "value": "コモ",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "雇用主",
+          "value": "モンクレール",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "受賞",
+          "value": "労働功績騎士団",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "代表的な作品",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1961-08-27",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Remo Ruffini",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "Ocupación",
+          "value": "presidente ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "Ocupación",
+          "value": "director ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "Ocupación",
+          "value": "ejecutivo de empresa",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "Nacionalidad",
+          "value": "Italia",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "Lugar de nacimiento",
+          "value": "Como",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "Empleador",
+          "value": "Moncler",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "Distinción",
+          "value": "Orden del Mérito en el Trabajo",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "Obra destacada",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1961-08-27",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "Remo Ruffini",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-3825ed5ddd7d84d5c8c9",
+          "label": "직업",
+          "value": "executive chairperson",
+          "notes": []
+        },
+        {
+          "id": "fact-95fff0f59a9fb9d9332a",
+          "label": "직업",
+          "value": "최고경영자",
+          "notes": []
+        },
+        {
+          "id": "fact-ae6b15e7b490a71f7424",
+          "label": "직업",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-fe8043aaa56af291e240",
+          "label": "국적",
+          "value": "이탈리아",
+          "notes": []
+        },
+        {
+          "id": "fact-1fece651feaab5786e44",
+          "label": "출처에 기재된 출생일",
+          "value": "1961-08-27",
+          "notes": []
+        },
+        {
+          "id": "fact-455093642087e443f723",
+          "label": "출생지",
+          "value": "코모",
+          "notes": []
+        },
+        {
+          "id": "fact-0a9e94c194296a0a4e1e",
+          "label": "고용 기관",
+          "value": "몽클레르",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-a9d9dc43fc4f9f5b9025",
+          "label": "수상",
+          "value": "Order of Merit for Labour",
+          "notes": []
+        },
+        {
+          "id": "fact-96660ed53448f1c4893d",
+          "label": "주요 작품",
+          "value": "Palazzo Moncler",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-26d97a7b8de0261db025",
+          "factId": "fact-1fece651feaab5786e44",
+          "date": "1961-08-27",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1961-08-27",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "ar",
+        "key": "Q62063127"
+      },
+      {
+        "locale": "de",
+        "key": "person-name"
+      },
+      {
+        "locale": "de",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "de",
+        "key": "Q62063127"
+      },
+      {
+        "locale": "es",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "ja",
+        "key": "person-name"
+      },
+      {
+        "locale": "ja",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "ja",
+        "key": "Q62063127"
+      },
+      {
+        "locale": "ko",
+        "key": "person-name"
+      },
+      {
+        "locale": "ko",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975"
+      },
+      {
+        "locale": "ko",
+        "key": "Q62063127"
+      },
+      {
+        "locale": "ko",
+        "key": "Q629291"
+      },
+      {
+        "locale": "zh",
+        "key": "Q134580223"
+      },
+      {
+        "locale": "zh",
+        "key": "Q62063127"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Remo Ruffini",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q62063127",
+        "fallbackLocale": "en",
+        "value": "executive chairperson",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Remo Ruffini",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q62063127",
+        "fallbackLocale": "en",
+        "value": "executive chairperson",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Remo Ruffini",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q62063127",
+        "fallbackLocale": "en",
+        "value": "executive chairperson",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Remo Ruffini",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2961975",
+        "fallbackLocale": "en",
+        "value": "business executive",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q62063127",
+        "fallbackLocale": "en",
+        "value": "executive chairperson",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q629291",
+        "fallbackLocale": "en",
+        "value": "Order of Merit for Labour",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q134580223",
+        "fallbackLocale": "en",
+        "value": "Palazzo Moncler",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q62063127",
+        "fallbackLocale": "en",
+        "value": "executive chairperson",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 1,
+    "professionalEventCount": 0,
+    "factCount": 9,
+    "factsWithoutExternalReference": 7,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

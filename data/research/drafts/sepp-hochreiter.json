@@ -1,0 +1,4103 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "sepp-hochreiter",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/sepp-hochreiter.json",
+    "sha256": "84ab253bf38175edc46ee565b47199eb43ae21cd633f9cded79b3fa2d6e731bb",
+    "capturedAt": "2026-11-13T11:25:29Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+      "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+      "https://www.wikidata.org/wiki/Q7451965"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q7451965",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Sepp Hochreiter",
+    "sourceIdentity": {
+      "requestedName": "Sepp Hochreiter",
+      "requestedTitle": "Sepp Hochreiter",
+      "resolvedTitle": "Sepp Hochreiter",
+      "wikidataId": "Q7451965",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1eb58171623555e7b484",
+      "property": "P106",
+      "claimId": "Q7451965$A9E34253-CE84-4789-A687-27D10037A179",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 15976092,
+          "id": "Q15976092"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-34a8da88aed221a9242c",
+      "property": "P106",
+      "claimId": "Q7451965$3018378A-AF44-4D01-A024-141109DBC3E1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82594,
+          "id": "Q82594"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b440a9ffdda2f5d277ca",
+      "property": "P106",
+      "claimId": "Q7451965$4D08DAA5-DFBF-444B-8B49-0929A1396CDB",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2904006,
+          "id": "Q2904006"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-f3c3d8d7cb215ed3afba",
+      "property": "P27",
+      "claimId": "Q7451965$6e110321-4c16-102b-06f8-80b72335bdc9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 183,
+          "id": "Q183"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8202055574bda1903ca5",
+      "property": "P569",
+      "claimId": "Q7451965$7CD9E44D-BBCF-436E-8A40-8A6D64F44663",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1967-02-14T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1967-02-14"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Hochreiter_Sepp_D.pdf"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-10-15T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-10-15"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Hochreiter_Sepp_D.pdf",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Hochreiter_Sepp_D.pdf"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1967-02-14T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1967-02-14",
+        "earliest": "1967-02-14",
+        "latest": "1967-02-14",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-2193b1239abe0f1bef72",
+      "property": "P19",
+      "claimId": "Q7451965$04E115CF-AA6D-4638-9190-E27AD6EEA6C8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 502615,
+          "id": "Q502615"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-11-07T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-11-07"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-03f33f38b9297f6fe4e5",
+      "property": "P69",
+      "claimId": "Q7451965$6605b443-433f-cf39-e126-0e5f8bfef38c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 157808,
+          "id": "Q157808"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1999"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1999-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1999",
+          "earliest": "1999-01-01",
+          "latest": "1999-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-74f651f673da366c7103",
+      "property": "P69",
+      "claimId": "Q7451965$f0876cbd-430e-55c9-bfae-e20885313927",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 687017,
+          "id": "Q687017"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-987ef8428d797f75a58c",
+      "property": "P69",
+      "claimId": "Q7451965$55563EFE-62F5-4EE2-9C26-C4308CB00B8C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 157808,
+          "id": "Q157808"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 829984,
+                "id": "Q829984"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965",
+        "https://www.wikidata.org/wiki/Q829984"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q829984"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-cf205c2c866617581d77",
+      "property": "P69",
+      "claimId": "Q7451965$1e390051-40b5-d995-2510-3178075f2628",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 314089,
+          "id": "Q314089"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1985-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1985"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1986-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1986"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48183,
+                "id": "Q48183"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48183"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1985-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1986-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1986",
+          "earliest": "1986-01-01",
+          "latest": "1986-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d313a02a7ace17c10fd4",
+      "property": "P69",
+      "claimId": "Q7451965$B8BCA643-C2EF-4DEF-9AC1-E7B6587A070D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 157808,
+          "id": "Q157808"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1986-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1986"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1991-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1991"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1986-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1986",
+          "earliest": "1986-01-01",
+          "latest": "1986-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1991-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1991",
+          "earliest": "1991-01-01",
+          "latest": "1991-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-5692a030c0b1dd5122ad",
+      "property": "P108",
+      "claimId": "Q7451965$ac4b9d9f-4b7f-45d8-3239-7fc740875df6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 682739,
+          "id": "Q682739"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2006-02-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2006-02-01"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 123508386,
+                "id": "Q123508386"
+              }
+            }
+          ],
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://pub.orcid.org/v3.0/0000-0001-7449-2528/employment/10092200"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-11-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-11-10"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://pub.orcid.org/v3.0/0000-0001-7449-2528/employment/10092200",
+        "https://www.wikidata.org/wiki/Q123508386",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://pub.orcid.org/v3.0/0000-0001-7449-2528/employment/10092200",
+        "https://www.wikidata.org/wiki/Q123508386"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2006-02-01T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2006-02-01",
+          "earliest": "2006-02-01",
+          "latest": "2006-02-01",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-b7fc70b4f6ff9c49d827",
+      "property": "P108",
+      "claimId": "Q7451965$77E78B23-822D-4812-901E-B0ED37C56DA9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 157808,
+          "id": "Q157808"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-07-03T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-07-03"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-ddafa45fc410b8f71b08",
+      "property": "P108",
+      "claimId": "Q7451965$397488d6-4ac2-45e2-ef12-9664e6278906",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 487292,
+          "id": "Q487292"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1992-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1992"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1992-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1992",
+          "earliest": "1992-01-01",
+          "latest": "1992-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-518e5f48bd90e64bb5eb",
+      "property": "P166",
+      "claimId": "Q7451965$c5233ebe-41dc-f994-e94b-4b3d17f0b0d2",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 700368,
+          "id": "Q700368"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2025-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2025"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.sn.at/panorama/wissen/sepp-hochreiter-wilhelm-exner-medaille-186487549"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.sn.at/panorama/wissen/sepp-hochreiter-wilhelm-exner-medaille-186487549",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.sn.at/panorama/wissen/sepp-hochreiter-wilhelm-exner-medaille-186487549"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2025-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bf3fae525687d02c5923",
+      "property": "P166",
+      "claimId": "Q7451965$9f2ce781-4eee-5d7b-7b15-9259653dfb04",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 104713915,
+          "id": "Q104713915"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2023-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2023"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.tips.at/nachrichten/linz/land-leute/620497-spitzenforscher-sepp-hochreiter-mit-deutschem-ki-innovationspreis-ausgezeichnet"
+            }
+          ]
+        },
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://science.apa.at/power-search/17839077489851839612"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://science.apa.at/power-search/17839077489851839612",
+        "https://www.tips.at/nachrichten/linz/land-leute/620497-spitzenforscher-sepp-hochreiter-mit-deutschem-ki-innovationspreis-ausgezeichnet",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://science.apa.at/power-search/17839077489851839612",
+        "https://www.tips.at/nachrichten/linz/land-leute/620497-spitzenforscher-sepp-hochreiter-mit-deutschem-ki-innovationspreis-ausgezeichnet"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2023-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2023",
+          "earliest": "2023-01-01",
+          "latest": "2023-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-02a0b598ac774a588b10",
+      "property": "P101",
+      "claimId": "Q7451965$f1990e94-4a96-832b-78e4-0364cc870926",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 128570,
+          "id": "Q128570"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-9a0b925aaf8282fe777a",
+      "property": "P101",
+      "claimId": "Q7451965$ad24a75e-45d7-50d7-6e1f-1644c6699b33",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2539,
+          "id": "Q2539"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-06d457a441d29a2e0385",
+      "property": "P463",
+      "claimId": "Q7451965$834c9eb9-460e-7e26-2ee7-2a2f3b885083",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 78151117,
+          "id": "Q78151117"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://ellis.eu/members"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-12-12T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-12-12"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://ellis.eu/members",
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://ellis.eu/members"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-48e64ea896dd21d56f6f",
+      "property": "P463",
+      "claimId": "Q7451965$A1D28E96-38C9-44AC-9464-412D00E01919",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 299015,
+          "id": "Q299015"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2024-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2024"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.ots.at/presseaussendung/OTS_20240415_OTS0023/oeaw-waehlt-34-neue-mitglieder"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.ots.at/presseaussendung/OTS_20240415_OTS0023/oeaw-waehlt-34-neue-mitglieder",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.ots.at/presseaussendung/OTS_20240415_OTS0023/oeaw-waehlt-34-neue-mitglieder"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2024-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2024",
+          "earliest": "2024-01-01",
+          "latest": "2024-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-a65ee7a456968efca8ef",
+      "property": "P463",
+      "claimId": "Q7451965$0F460100-AF9A-42C2-8E04-9BB541358A17",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 543804,
+          "id": "Q543804"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2025-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2025"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/sepp-hochreiter/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/sepp-hochreiter/",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.leopoldina.org/mitgliederverzeichnis/mitglieder/member/Member/show/sepp-hochreiter/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2025-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2025",
+          "earliest": "2025-01-01",
+          "latest": "2025-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-73f50e235ffe8b969430",
+      "property": "P856",
+      "claimId": "Q7451965$648952F1-DABC-436A-BBD3-7FFC0BF59235",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-469d8f1fc1dbec314ffa",
+      "factId": "fact-518e5f48bd90e64bb5eb",
+      "claimId": "Q7451965$c5233ebe-41dc-f994-e94b-4b3d17f0b0d2",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2025",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.sn.at/panorama/wissen/sepp-hochreiter-wilhelm-exner-medaille-186487549",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-550d3e2ce418dbe436e5",
+      "factId": "fact-bf3fae525687d02c5923",
+      "claimId": "Q7451965$9f2ce781-4eee-5d7b-7b15-9259653dfb04",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2023",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://science.apa.at/power-search/17839077489851839612",
+        "https://www.tips.at/nachrichten/linz/land-leute/620497-spitzenforscher-sepp-hochreiter-mit-deutschem-ki-innovationspreis-ausgezeichnet",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f109668b5eb55c2f868a",
+      "factId": "fact-5692a030c0b1dd5122ad",
+      "claimId": "Q7451965$ac4b9d9f-4b7f-45d8-3239-7fc740875df6",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2006-02-01",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://pub.orcid.org/v3.0/0000-0001-7449-2528/employment/10092200",
+        "https://www.wikidata.org/wiki/Q123508386",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-26948b859a37b70b0f66",
+      "factId": "fact-03f33f38b9297f6fe4e5",
+      "claimId": "Q7451965$6605b443-433f-cf39-e126-0e5f8bfef38c",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1999",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-2d584b49f1695e8f180e",
+      "factId": "fact-03f33f38b9297f6fe4e5",
+      "claimId": "Q7451965$6605b443-433f-cf39-e126-0e5f8bfef38c",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1994",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-edc1e52562b17a637d28",
+      "factId": "fact-ddafa45fc410b8f71b08",
+      "claimId": "Q7451965$397488d6-4ac2-45e2-ef12-9664e6278906",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "1994",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4e881dbdc3c50b2e17cb",
+      "factId": "fact-ddafa45fc410b8f71b08",
+      "claimId": "Q7451965$397488d6-4ac2-45e2-ef12-9664e6278906",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "1992",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4bf9f0a93e55acb3aacf",
+      "factId": "fact-d313a02a7ace17c10fd4",
+      "claimId": "Q7451965$B8BCA643-C2EF-4DEF-9AC1-E7B6587A070D",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1991",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-87c5ffd6d4a5a1c5b346",
+      "factId": "fact-d313a02a7ace17c10fd4",
+      "claimId": "Q7451965$B8BCA643-C2EF-4DEF-9AC1-E7B6587A070D",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1986",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-c95c73ffe97082709432",
+      "factId": "fact-cf205c2c866617581d77",
+      "claimId": "Q7451965$1e390051-40b5-d995-2510-3178075f2628",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1986",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-90cac19fbc70becd8bab",
+      "factId": "fact-cf205c2c866617581d77",
+      "claimId": "Q7451965$1e390051-40b5-d995-2510-3178075f2628",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1985",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.wikidata.org/wiki/Q48183",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-97bd6a4a8658b400ff15",
+      "factId": "fact-8202055574bda1903ca5",
+      "claimId": "Q7451965$7CD9E44D-BBCF-436E-8A40-8A6D64F44663",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1967-02-14",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1373946247",
+        "https://en.wikipedia.org/wiki/Sepp_Hochreiter",
+        "https://www.leopoldina.org/fileadmin/redaktion/Mitglieder/CV_Hochreiter_Sepp_D.pdf",
+        "https://www.wikidata.org/wiki/Q7451965"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "塞普·霍赫赖特",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "职业",
+          "value": "人工智能研究者",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "职业",
+          "value": "電腦科學家",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "职业",
+          "value": "生物信息学家",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "国籍",
+          "value": "德國",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "来源所记出生日期",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "出生地",
+          "value": "因河畔米尔多夫",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "就读机构",
+          "value": "慕尼黑工业大学",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "就读机构",
+          "value": "哈根函授大学",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "就读机构",
+          "value": "慕尼黑工业大学",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "就读机构",
+          "value": "慕尼黑应用科技大学",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "就读机构",
+          "value": "慕尼黑工业大学",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "雇主",
+          "value": "约翰内斯·开普勒林茨大学",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "雇主",
+          "value": "慕尼黑工业大学",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "雇主",
+          "value": "安联",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "奖项",
+          "value": "威廉·埃克斯纳奖章",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "奖项",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "研究领域",
+          "value": "生物信息学",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "研究领域",
+          "value": "机器学习",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "组织成员",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "组织成员",
+          "value": "奧地利科學院",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "组织成员",
+          "value": "利奥波第那科学院",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "官方网站",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 威廉·埃克斯纳奖章",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: German AI Award",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "雇主: 约翰内斯·开普勒林茨大学",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 慕尼黑工业大学",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 慕尼黑工业大学",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇主: 安联",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: 安联",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 慕尼黑工业大学",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 慕尼黑工业大学",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 慕尼黑应用科技大学",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 慕尼黑应用科技大学",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1967-02-14",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Sepp Hochreiter",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "Occupation",
+          "value": "artificial intelligence researcher",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "Occupation",
+          "value": "computer scientist",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "Occupation",
+          "value": "bioinformatician",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "Citizenship",
+          "value": "Germany",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "Source-reported birth date",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "Place of birth",
+          "value": "Mühldorf am Inn",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "Educational institution",
+          "value": "Technical University of Munich",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "Educational institution",
+          "value": "FernUniversität in Hagen",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "Educational institution",
+          "value": "Technical University of Munich",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "Educational institution",
+          "value": "Munich University of Applied Sciences",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "Educational institution",
+          "value": "Technical University of Munich",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "Employer",
+          "value": "Johannes Kepler University Linz",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "Employer",
+          "value": "Technical University of Munich",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "Employer",
+          "value": "Allianz SE",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "Award",
+          "value": "Wilhelm Exner Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "Award",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "Field of work",
+          "value": "bioinformatics",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "Field of work",
+          "value": "machine learning",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "Organization membership",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "Organization membership",
+          "value": "Austrian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "Organization membership",
+          "value": "German Academy of Sciences Leopoldina",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "Official website",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Wilhelm Exner Medal",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: German AI Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "Employer: Johannes Kepler University Linz",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Technical University of Munich",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Technical University of Munich",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employer: Allianz SE",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: Allianz SE",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Technical University of Munich",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Technical University of Munich",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Munich University of Applied Sciences",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Munich University of Applied Sciences",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1967-02-14",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Sepp Hochreiter",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "Profession",
+          "value": "chercheur ou chercheuse en intelligence artificielle",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "Profession",
+          "value": "informaticien ou informaticienne",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "Profession",
+          "value": "bioinformaticien",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "Nationalité",
+          "value": "Allemagne",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "Lieu de naissance",
+          "value": "Mühldorf am Inn",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "Établissement fréquenté",
+          "value": "université de technologie de Munich",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "Établissement fréquenté",
+          "value": "Université de Hagen",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "Établissement fréquenté",
+          "value": "université de technologie de Munich",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "Établissement fréquenté",
+          "value": "université de sciences appliquées de Munich",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "Établissement fréquenté",
+          "value": "université de technologie de Munich",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "Employeur",
+          "value": "université de Linz",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "Employeur",
+          "value": "université de technologie de Munich",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "Employeur",
+          "value": "Allianz",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "Distinction",
+          "value": "médaille Wilhelm-Exner",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "Distinction",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "Domaine de travail",
+          "value": "bioinformatique",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "Domaine de travail",
+          "value": "apprentissage automatique",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "Organisation dont la personne est membre",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie autrichienne des sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "Organisation dont la personne est membre",
+          "value": "Académie Léopoldine",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "Site officiel",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: médaille Wilhelm-Exner",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: German AI Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "Employeur: université de Linz",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: université de technologie de Munich",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: université de technologie de Munich",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Employeur: Allianz",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: Allianz",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: université de technologie de Munich",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: université de technologie de Munich",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: université de sciences appliquées de Munich",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: université de sciences appliquées de Munich",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1967-02-14",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "Sepp Hochreiter",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "المهنة",
+          "value": "باحث في مجال الذكاء الاصطناعي",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "المهنة",
+          "value": "عالم حاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "المهنة",
+          "value": "عالم معلوماتية حيوية",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "الجنسية",
+          "value": "ألمانيا",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "مكان الميلاد",
+          "value": "مولدورف",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ميونخ التقنية",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة هاغن",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ميونخ التقنية",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "المؤسسة التعليمية",
+          "value": "Munich University of Applied Sciences",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة ميونخ التقنية",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "جهة العمل",
+          "value": "جامعة لينتس",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "جهة العمل",
+          "value": "جامعة ميونخ التقنية",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "جهة العمل",
+          "value": "أليانز",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "الجائزة",
+          "value": "ميدالية ويلهلم إكسنر",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "الجائزة",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "مجال العمل",
+          "value": "معلوماتية حيوية",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "مجال العمل",
+          "value": "تعلم الآلة",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "عضوية منظمة",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية النمساوية للعلوم",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "عضوية منظمة",
+          "value": "الأكاديمية الوطنية الألمانية للعلوم ليوبولدينا",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "الموقع الرسمي",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: ميدالية ويلهلم إكسنر",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: German AI Award",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "جهة العمل: جامعة لينتس",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: جامعة ميونخ التقنية",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: جامعة ميونخ التقنية",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "جهة العمل: أليانز",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: أليانز",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: جامعة ميونخ التقنية",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: جامعة ميونخ التقنية",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: Munich University of Applied Sciences",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: Munich University of Applied Sciences",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1967-02-14",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Sepp Hochreiter",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "Beruf",
+          "value": "KI-Forscher",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "Beruf",
+          "value": "Informatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "Beruf",
+          "value": "Bioinformatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "Staatsangehörigkeit",
+          "value": "Deutschland",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "Geburtsort",
+          "value": "Mühldorf am Inn",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "Bildungseinrichtung",
+          "value": "Technische Universität München",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "Bildungseinrichtung",
+          "value": "Fernuniversität in Hagen",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "Bildungseinrichtung",
+          "value": "Technische Universität München",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "Bildungseinrichtung",
+          "value": "Hochschule für angewandte Wissenschaften München",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "Bildungseinrichtung",
+          "value": "Technische Universität München",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "Arbeitgeber",
+          "value": "Johannes-Kepler-Universität",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "Arbeitgeber",
+          "value": "Technische Universität München",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "Arbeitgeber",
+          "value": "Allianz SE",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "Auszeichnung",
+          "value": "Wilhelm-Exner-Medaille",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "Auszeichnung",
+          "value": "Deutscher KI-Preis",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "Arbeitsgebiet",
+          "value": "Bioinformatik",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "Arbeitsgebiet",
+          "value": "maschinelles Lernen",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "Mitgliedschaft",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "Mitgliedschaft",
+          "value": "Österreichische Akademie der Wissenschaften",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "Mitgliedschaft",
+          "value": "Deutsche Akademie der Naturforscher Leopoldina",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "Offizielle Website",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Wilhelm-Exner-Medaille",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Deutscher KI-Preis",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "Arbeitgeber: Johannes-Kepler-Universität",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Technische Universität München",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Technische Universität München",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Arbeitgeber: Allianz SE",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: Allianz SE",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Technische Universität München",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Technische Universität München",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Hochschule für angewandte Wissenschaften München",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Hochschule für angewandte Wissenschaften München",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1967-02-14",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ゼップ・ホッフライター",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "職業",
+          "value": "人工知能研究者",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "職業",
+          "value": "計算機科学者",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "職業",
+          "value": "生物情報学者",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "国籍",
+          "value": "ドイツ",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "出典に記載された生年月日",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "出生地",
+          "value": "ミュールドルフ",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "在籍した教育機関",
+          "value": "ミュンヘン工科大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "在籍した教育機関",
+          "value": "ハーゲン通信大学",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "在籍した教育機関",
+          "value": "ミュンヘン工科大学",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "在籍した教育機関",
+          "value": "ミュンヘン専門大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "在籍した教育機関",
+          "value": "ミュンヘン工科大学",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "雇用主",
+          "value": "ヨハネス・ケプラー大学",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "雇用主",
+          "value": "ミュンヘン工科大学",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "雇用主",
+          "value": "アリアンツ",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "受賞",
+          "value": "ヴィルヘルム・エクスナー・メダル",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "受賞",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "活動分野",
+          "value": "バイオインフォマティクス",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "活動分野",
+          "value": "機械学習",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "団体への所属",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "団体への所属",
+          "value": "オーストリア科学アカデミー",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "団体への所属",
+          "value": "国立科学アカデミー・レオポルディーナ",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "公式サイト",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: ヴィルヘルム・エクスナー・メダル",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: German AI Award",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "雇用主: ヨハネス・ケプラー大学",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ミュンヘン工科大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ミュンヘン工科大学",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "雇用主: アリアンツ",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: アリアンツ",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ミュンヘン工科大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ミュンヘン工科大学",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ミュンヘン専門大学",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ミュンヘン専門大学",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1967-02-14",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Sepp Hochreiter",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "Ocupación",
+          "value": "investigador de la inteligencia artificial",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "Ocupación",
+          "value": "informático teórico",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "Ocupación",
+          "value": "bioinformático",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "Nacionalidad",
+          "value": "Alemania",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "Lugar de nacimiento",
+          "value": "Mühldorf",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "Institución educativa",
+          "value": "Universidad Técnica de Múnich",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "Institución educativa",
+          "value": "Universidad a Distancia de Hagen",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "Institución educativa",
+          "value": "Universidad Técnica de Múnich",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "Institución educativa",
+          "value": "Munich University of Applied Sciences",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "Institución educativa",
+          "value": "Universidad Técnica de Múnich",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "Empleador",
+          "value": "Universidad Johannes Kepler",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "Empleador",
+          "value": "Universidad Técnica de Múnich",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "Empleador",
+          "value": "Allianz SE",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "Distinción",
+          "value": "Wilhelm Exner Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "Distinción",
+          "value": "Premio Deutscher KI",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "Campo de trabajo",
+          "value": "bioinformática",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "Campo de trabajo",
+          "value": "aprendizaje automático",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "Pertenencia a una organización",
+          "value": "Laboratorio Europeo de Aprendizaje y Sistemas Inteligentes",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Austríaca de Ciencias",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "Pertenencia a una organización",
+          "value": "Academia Alemana de las Ciencias Naturales Leopoldina",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "Sitio web oficial",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Wilhelm Exner Medal",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Deutscher KI",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "Empleador: Universidad Johannes Kepler",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Universidad Técnica de Múnich",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Universidad Técnica de Múnich",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Empleador: Allianz SE",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: Allianz SE",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Universidad Técnica de Múnich",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Universidad Técnica de Múnich",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Munich University of Applied Sciences",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Munich University of Applied Sciences",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1967-02-14",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "제프 호흐라이터",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1eb58171623555e7b484",
+          "label": "직업",
+          "value": "인공지능 연구자",
+          "notes": []
+        },
+        {
+          "id": "fact-34a8da88aed221a9242c",
+          "label": "직업",
+          "value": "컴퓨터 과학자",
+          "notes": []
+        },
+        {
+          "id": "fact-b440a9ffdda2f5d277ca",
+          "label": "직업",
+          "value": "생물 정보 학자",
+          "notes": []
+        },
+        {
+          "id": "fact-f3c3d8d7cb215ed3afba",
+          "label": "국적",
+          "value": "독일",
+          "notes": []
+        },
+        {
+          "id": "fact-8202055574bda1903ca5",
+          "label": "출처에 기재된 출생일",
+          "value": "1967-02-14",
+          "notes": []
+        },
+        {
+          "id": "fact-2193b1239abe0f1bef72",
+          "label": "출생지",
+          "value": "Mühldorf am Inn",
+          "notes": []
+        },
+        {
+          "id": "fact-03f33f38b9297f6fe4e5",
+          "label": "교육 기관",
+          "value": "뮌헨 공과대학교",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-74f651f673da366c7103",
+          "label": "교육 기관",
+          "value": "FernUniversität in Hagen",
+          "notes": []
+        },
+        {
+          "id": "fact-987ef8428d797f75a58c",
+          "label": "교육 기관",
+          "value": "뮌헨 공과대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-cf205c2c866617581d77",
+          "label": "교육 기관",
+          "value": "Munich University of Applied Sciences",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-d313a02a7ace17c10fd4",
+          "label": "교육 기관",
+          "value": "뮌헨 공과대학교",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-5692a030c0b1dd5122ad",
+          "label": "고용 기관",
+          "value": "린츠 대학교",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-b7fc70b4f6ff9c49d827",
+          "label": "고용 기관",
+          "value": "뮌헨 공과대학교",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-ddafa45fc410b8f71b08",
+          "label": "고용 기관",
+          "value": "알리안츠",
+          "notes": []
+        },
+        {
+          "id": "fact-518e5f48bd90e64bb5eb",
+          "label": "수상",
+          "value": "Wilhelm Exner Medal",
+          "notes": []
+        },
+        {
+          "id": "fact-bf3fae525687d02c5923",
+          "label": "수상",
+          "value": "German AI Award",
+          "notes": []
+        },
+        {
+          "id": "fact-02a0b598ac774a588b10",
+          "label": "활동 분야",
+          "value": "생물정보학",
+          "notes": []
+        },
+        {
+          "id": "fact-9a0b925aaf8282fe777a",
+          "label": "활동 분야",
+          "value": "기계 학습",
+          "notes": []
+        },
+        {
+          "id": "fact-06d457a441d29a2e0385",
+          "label": "단체 회원 자격",
+          "value": "European Laboratory for Learning and Intelligent Systems",
+          "notes": []
+        },
+        {
+          "id": "fact-48e64ea896dd21d56f6f",
+          "label": "단체 회원 자격",
+          "value": "Austrian Academy of Sciences",
+          "notes": []
+        },
+        {
+          "id": "fact-a65ee7a456968efca8ef",
+          "label": "단체 회원 자격",
+          "value": "German Academy of Sciences Leopoldina",
+          "notes": []
+        },
+        {
+          "id": "fact-73f50e235ffe8b969430",
+          "label": "공식 웹사이트",
+          "value": "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-469d8f1fc1dbec314ffa",
+          "factId": "fact-518e5f48bd90e64bb5eb",
+          "date": "2025",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Wilhelm Exner Medal",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-550d3e2ce418dbe436e5",
+          "factId": "fact-bf3fae525687d02c5923",
+          "date": "2023",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: German AI Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f109668b5eb55c2f868a",
+          "factId": "fact-5692a030c0b1dd5122ad",
+          "date": "2006-02-01",
+          "precision": 11,
+          "kind": "start",
+          "title": "고용 기관: 린츠 대학교",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-26948b859a37b70b0f66",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1999",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 뮌헨 공과대학교",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-2d584b49f1695e8f180e",
+          "factId": "fact-03f33f38b9297f6fe4e5",
+          "date": "1994",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: 뮌헨 공과대학교",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-edc1e52562b17a637d28",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "고용 기관: 알리안츠",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-4e881dbdc3c50b2e17cb",
+          "factId": "fact-ddafa45fc410b8f71b08",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: 알리안츠",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-4bf9f0a93e55acb3aacf",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1991",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 뮌헨 공과대학교",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-87c5ffd6d4a5a1c5b346",
+          "factId": "fact-d313a02a7ace17c10fd4",
+          "date": "1986",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: 뮌헨 공과대학교",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-c95c73ffe97082709432",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1986",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: Munich University of Applied Sciences",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-90cac19fbc70becd8bab",
+          "factId": "fact-cf205c2c866617581d77",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: Munich University of Applied Sciences",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-97bd6a4a8658b400ff15",
+          "factId": "fact-8202055574bda1903ca5",
+          "date": "1967-02-14",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1967-02-14",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "person-name"
+      },
+      {
+        "locale": "ar",
+        "key": "Q104713915"
+      },
+      {
+        "locale": "ar",
+        "key": "Q314089"
+      },
+      {
+        "locale": "ar",
+        "key": "Q78151117"
+      },
+      {
+        "locale": "de",
+        "key": "Q78151117"
+      },
+      {
+        "locale": "es",
+        "key": "Q314089"
+      },
+      {
+        "locale": "es",
+        "key": "Q700368"
+      },
+      {
+        "locale": "fr",
+        "key": "Q104713915"
+      },
+      {
+        "locale": "fr",
+        "key": "Q78151117"
+      },
+      {
+        "locale": "ja",
+        "key": "Q104713915"
+      },
+      {
+        "locale": "ja",
+        "key": "Q78151117"
+      },
+      {
+        "locale": "ko",
+        "key": "Q104713915"
+      },
+      {
+        "locale": "ko",
+        "key": "Q299015"
+      },
+      {
+        "locale": "ko",
+        "key": "Q314089"
+      },
+      {
+        "locale": "ko",
+        "key": "Q502615"
+      },
+      {
+        "locale": "ko",
+        "key": "Q543804"
+      },
+      {
+        "locale": "ko",
+        "key": "Q687017"
+      },
+      {
+        "locale": "ko",
+        "key": "Q700368"
+      },
+      {
+        "locale": "ko",
+        "key": "Q78151117"
+      },
+      {
+        "locale": "zh",
+        "key": "Q104713915"
+      },
+      {
+        "locale": "zh",
+        "key": "Q78151117"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "person-name",
+        "fallbackLocale": "en",
+        "value": "Sepp Hochreiter",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q104713915",
+        "fallbackLocale": "en",
+        "value": "German AI Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q314089",
+        "fallbackLocale": "en",
+        "value": "Munich University of Applied Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q314089",
+        "fallbackLocale": "en",
+        "value": "Munich University of Applied Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q700368",
+        "fallbackLocale": "en",
+        "value": "Wilhelm Exner Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q104713915",
+        "fallbackLocale": "en",
+        "value": "German AI Award",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q104713915",
+        "fallbackLocale": "en",
+        "value": "German AI Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q104713915",
+        "fallbackLocale": "en",
+        "value": "German AI Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q299015",
+        "fallbackLocale": "en",
+        "value": "Austrian Academy of Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q314089",
+        "fallbackLocale": "en",
+        "value": "Munich University of Applied Sciences",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q502615",
+        "fallbackLocale": "en",
+        "value": "Mühldorf am Inn",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q543804",
+        "fallbackLocale": "en",
+        "value": "German Academy of Sciences Leopoldina",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q687017",
+        "fallbackLocale": "en",
+        "value": "FernUniversität in Hagen",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q700368",
+        "fallbackLocale": "en",
+        "value": "Wilhelm Exner Medal",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q104713915",
+        "fallbackLocale": "en",
+        "value": "German AI Award",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q78151117",
+        "fallbackLocale": "en",
+        "value": "European Laboratory for Learning and Intelligent Systems",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 12,
+    "professionalEventCount": 11,
+    "factCount": 22,
+    "factsWithoutExternalReference": 15,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

@@ -1,0 +1,3625 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "bruce-schneier",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/bruce-schneier.json",
+    "sha256": "79045aa96dbe5d5b29f78843fbc6be6db55918c4728f0db575295c2392430e6d",
+    "capturedAt": "2026-11-13T11:25:21Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+      "https://en.wikipedia.org/wiki/Bruce_Schneier",
+      "https://www.wikidata.org/wiki/Q368328"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q368328",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Bruce Schneier",
+    "sourceIdentity": {
+      "requestedName": "Bruce Schneier",
+      "requestedTitle": "Bruce Schneier",
+      "resolvedTitle": "Bruce Schneier",
+      "wikidataId": "Q368328",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-04ac6437b25639c58078",
+      "property": "P106",
+      "claimId": "Q368328$1001F95E-F1DF-4E7A-9759-60C8F7780A10",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 15442776,
+          "id": "Q15442776"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-15c14c2e5c86fc06a8e6",
+      "property": "P106",
+      "claimId": "Q368328$98B95D6B-4A77-4F44-BE13-5F132ED64164",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 91947388,
+          "id": "Q91947388"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8a75b665d6eac6239d3e",
+      "property": "P106",
+      "claimId": "Q368328$9BF991D6-497A-497C-8D03-92E3C11BED1C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 36180,
+          "id": "Q36180"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-05-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-05-22"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 181163,
+                "id": "Q181163"
+              }
+            },
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 11921,
+                "id": "Q11921"
+              }
+            },
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 169514,
+                "id": "Q169514"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q11921",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q181163",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q11921",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q181163"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d1abbee043b7ac6f1e4b",
+      "property": "P106",
+      "claimId": "Q368328$0B7A6A71-56BF-4230-9E68-BBB4287333EE",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 169470,
+          "id": "Q169470"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-06-14T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-06-14"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 181163,
+                "id": "Q181163"
+              }
+            },
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 169514,
+                "id": "Q169514"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q181163",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q169514",
+        "https://www.wikidata.org/wiki/Q181163"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d27099e35673461e16fb",
+      "property": "P106",
+      "claimId": "Q368328$32A5757D-0427-42D6-BC1F-1F2327B57E78",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 82594,
+          "id": "Q82594"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 36578,
+                "id": "Q36578"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-20T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-20"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q36578",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q36578"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-d3177dea1f2c2d588bfb",
+      "property": "P106",
+      "claimId": "Q368328$13EBE68A-054A-4053-8E0D-002CD9C087AD",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 170790,
+          "id": "Q170790"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-f599181ed448e427447c",
+      "property": "P27",
+      "claimId": "q368328$7F3E1B66-6B83-4A79-9696-64E41788F617",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-a415cce98c9bf6636568",
+      "property": "P569",
+      "claimId": "q368328$8098B601-B5DB-480A-A2DF-AE10263E9EA8",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1963-01-15T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1963-01-15"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 29861311,
+                "id": "Q29861311"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2629164,
+                "id": "Q2629164"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-10-09T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-10-09"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q2629164",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q2629164",
+        "https://www.wikidata.org/wiki/Q29861311"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1963-01-15T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1963-01-15",
+        "earliest": "1963-01-15",
+        "latest": "1963-01-15",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-c30b8a52fac78e5b4186",
+      "property": "P19",
+      "claimId": "q368328$30F28496-9C52-48AE-84BF-D0C116178068",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60,
+          "id": "Q60"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-646771ee6492a5f0ca9c",
+      "property": "P69",
+      "claimId": "Q368328$9664B48E-12EC-41D9-9EF0-42FBE8C54F89",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 168000,
+          "id": "Q168000"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-8be5d6e00a3972a3ddb1",
+      "property": "P69",
+      "claimId": "Q368328$35CED3A2-4416-4C8E-9C3B-3FEE419F8F42",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 149990,
+          "id": "Q149990"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-e6b539f7b4f221882962",
+      "property": "P69",
+      "claimId": "Q368328$44AB50D3-6243-4DF3-BD89-15312F310B66",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5944289,
+          "id": "Q5944289"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-07-10T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-07-10"
+            }
+          ],
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        },
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-04T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03-04"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q328",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-1266c69b18895e276828",
+      "property": "P108",
+      "claimId": "Q368328$7f894929-4379-5616-bd17-47b82c54ca4b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4836759,
+          "id": "Q4836759"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2a1f79a5b32dee6ec112",
+      "property": "P108",
+      "claimId": "Q368328$026c00ac-40f0-73e9-8ad2-f284389c6ae5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 37156,
+          "id": "Q37156"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2016-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2016"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2019-06-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2019-06"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2016-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2016",
+          "earliest": "2016-01-01",
+          "latest": "2016-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2019-06-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2019-06",
+          "earliest": "2019-06-01",
+          "latest": "2019-06-30",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-d21e96502a085fc879ae",
+      "property": "P108",
+      "claimId": "Q368328$2657a947-405f-3772-8e87-01f8e03ae4f5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 13371,
+          "id": "Q13371"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://cyber.harvard.edu/people/bschneier"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-02-19T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-02-19"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://cyber.harvard.edu/people/bschneier",
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://cyber.harvard.edu/people/bschneier"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-eb738e791b5aac9a08c3",
+      "property": "P108",
+      "claimId": "Q368328$9154fd24-40c7-3d1f-79d4-b33bdedee58c",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 106746930,
+          "id": "Q106746930"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://inrupt.com/about"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-08-23T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-08-23"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://inrupt.com/about",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://inrupt.com/about"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-25cd8e1e89432007fb48",
+      "property": "P166",
+      "claimId": "Q368328$B81CF7BF-EC28-42A8-956C-D376199EB25E",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 16897956,
+          "id": "Q16897956"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2008-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2008"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2008-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2008",
+          "earliest": "2008-01-01",
+          "latest": "2008-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a78222e517a6a31e0422",
+      "property": "P166",
+      "claimId": "Q368328$0E209AB9-4229-4F7D-8236-89FB08BC7298",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 31323,
+          "id": "Q31323"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2007-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2007"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.eff.org/awards/past-winners"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "EFF Awards: Past Winners",
+                "language": "en"
+              }
+            }
+          ],
+          "P577": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2017-06-28T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2017-06-28"
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2025-06-08T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2025-06-08"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.eff.org/awards/past-winners",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.eff.org/awards/past-winners"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2007-01-01T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-87f25b60d8639788d37c",
+      "property": "P101",
+      "claimId": "Q368328$D4BCC843-7BBD-4CB4-B92F-7165228A9C22",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 21198,
+          "id": "Q21198"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 206855,
+                "id": "Q206855"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q206855",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q206855"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c30cf966e438c3875cd6",
+      "property": "P101",
+      "claimId": "Q368328$49638059-477d-afca-1421-a5030eee74bb",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 3510521,
+          "id": "Q3510521"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-dba885b42c3cc1696343",
+      "property": "P101",
+      "claimId": "Q368328$cebfa224-4933-3deb-eed0-68c4504f1cf5",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 8789,
+          "id": "Q8789"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-061483163687ecb7c9cf",
+      "property": "P800",
+      "claimId": "Q368328$204b175d-4b12-8662-bf90-e36910f05589",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4899970,
+          "id": "Q4899970"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-06dd1b1bf9d2c78ea413",
+      "property": "P800",
+      "claimId": "Q368328$7da33318-42c9-9b12-8711-fae0651072d9",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60744248,
+          "id": "Q60744248"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-1ff19c560e6a9f3089e8",
+      "property": "P800",
+      "claimId": "Q368328$186c662a-48d8-47f3-1fcb-1b5771ce9bc6",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 6540279,
+          "id": "Q6540279"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-8d9f277d09bfd064f25f",
+      "property": "P856",
+      "claimId": "Q368328$a4c0a34b-4100-4444-0210-678ad93e8b64",
+      "rank": "normal",
+      "value": {
+        "type": "string",
+        "value": "https://www.schneier.com/"
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-60e0808e377f58f22fc2",
+      "factId": "fact-2a1f79a5b32dee6ec112",
+      "claimId": "Q368328$026c00ac-40f0-73e9-8ad2-f284389c6ae5",
+      "property": "P108",
+      "dateProperty": "P582",
+      "date": "2019-06",
+      "precision": 10,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-14a4547377600d5532c6",
+      "factId": "fact-2a1f79a5b32dee6ec112",
+      "claimId": "Q368328$026c00ac-40f0-73e9-8ad2-f284389c6ae5",
+      "property": "P108",
+      "dateProperty": "P580",
+      "date": "2016",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-6c2f052ccc1d4d6bc08a",
+      "factId": "fact-25cd8e1e89432007fb48",
+      "claimId": "Q368328$B81CF7BF-EC28-42A8-956C-D376199EB25E",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2008",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f2cf2397eed5ec9305aa",
+      "factId": "fact-a78222e517a6a31e0422",
+      "claimId": "Q368328$0E209AB9-4229-4F7D-8236-89FB08BC7298",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2007",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.eff.org/awards/past-winners",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-487d1573c31aa9e454d4",
+      "factId": "fact-a415cce98c9bf6636568",
+      "claimId": "q368328$8098B601-B5DB-480A-A2DF-AE10263E9EA8",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1963-01-15",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+        "https://en.wikipedia.org/wiki/Bruce_Schneier",
+        "https://www.wikidata.org/wiki/Q2629164",
+        "https://www.wikidata.org/wiki/Q29861311",
+        "https://www.wikidata.org/wiki/Q368328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "布鲁斯·施奈尔",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "职业",
+          "value": "密碼學家",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "职业",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "职业",
+          "value": "作家",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "职业",
+          "value": "物理学家",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "职业",
+          "value": "電腦科學家",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "职业",
+          "value": "數學家",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "来源所记出生日期",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "出生地",
+          "value": "纽约",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "就读机构",
+          "value": "美利坚大学",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "就读机构",
+          "value": "羅徹斯特大學",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "就读机构",
+          "value": "亨特学院校园学校",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "雇主",
+          "value": "BT公司",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "雇主",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "雇主",
+          "value": "哈佛大學",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "雇主",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "奖项",
+          "value": "諾伯特·維納社會與專業責任獎",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "奖项",
+          "value": "电子前哨基金会先锋奖",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "研究领域",
+          "value": "計算機科學",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "研究领域",
+          "value": "计算机安全",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "研究领域",
+          "value": "密码编码学",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "代表作品",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "代表作品",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "代表作品",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "官方网站",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇主: IBM",
+          "text": "来源记载结束时间",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇主: IBM",
+          "text": "来源记载开始时间",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 諾伯特·維納社會與專業責任獎",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 电子前哨基金会先锋奖",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1963-01-15",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Bruce Schneier",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "Occupation",
+          "value": "cryptographer",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "Occupation",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "Occupation",
+          "value": "writer",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "Occupation",
+          "value": "physicist",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "Occupation",
+          "value": "computer scientist",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "Occupation",
+          "value": "mathematician",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "Source-reported birth date",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "Place of birth",
+          "value": "New York City",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "Educational institution",
+          "value": "American University",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "Educational institution",
+          "value": "University of Rochester",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "Educational institution",
+          "value": "Hunter College High School",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "Employer",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "Employer",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "Employer",
+          "value": "Harvard University",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "Employer",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "Award",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "Award",
+          "value": "EFF Award",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "Field of work",
+          "value": "computer science",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "Field of work",
+          "value": "computer security",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "Field of work",
+          "value": "cryptography",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "Notable work",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "Notable work",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "Notable work",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "Official website",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employer: IBM",
+          "text": "End date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employer: IBM",
+          "text": "Start date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: EFF Award",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1963-01-15",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Bruce Schneier",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "Profession",
+          "value": "cryptographe",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "Profession",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "Profession",
+          "value": "écrivain ou écrivaine",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "Profession",
+          "value": "physicien ou physicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "Profession",
+          "value": "informaticien ou informaticienne",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "Profession",
+          "value": "mathématicien ou mathématicienne",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "Lieu de naissance",
+          "value": "New York",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "Établissement fréquenté",
+          "value": "American University",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "Établissement fréquenté",
+          "value": "Université de Rochester",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "Établissement fréquenté",
+          "value": "Hunter College High School",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "Employeur",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "Employeur",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "Employeur",
+          "value": "Université Harvard",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "Employeur",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "Distinction",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "Distinction",
+          "value": "EFF Award",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "Domaine de travail",
+          "value": "informatique",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "Domaine de travail",
+          "value": "sécurité des systèmes d'information",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "Domaine de travail",
+          "value": "cryptographie",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "Œuvre notable",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "Œuvre notable",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "Œuvre notable",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "Site officiel",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Employeur: IBM",
+          "text": "Date de fin selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "Employeur: IBM",
+          "text": "Date de début selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: EFF Award",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1963-01-15",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "بروس شناير",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "المهنة",
+          "value": "مُعَمٍّ",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "المهنة",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "المهنة",
+          "value": "كاتب",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "المهنة",
+          "value": "فيزيائي",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "المهنة",
+          "value": "عالم حاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "المهنة",
+          "value": "رياضياتي",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "مكان الميلاد",
+          "value": "نيويورك",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "المؤسسة التعليمية",
+          "value": "الجامعة الأميركية",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "المؤسسة التعليمية",
+          "value": "جامعة روتشستر",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "المؤسسة التعليمية",
+          "value": "ثانوية كلية هانتر",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "جهة العمل",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "جهة العمل",
+          "value": "آي‌ بي‌ إم",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "جهة العمل",
+          "value": "جامعة هارفارد",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "جهة العمل",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "الجائزة",
+          "value": "جائزة نوربرت وينر للمسؤولية الاجتماعية والمهنية",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "الجائزة",
+          "value": "جائزة الرواد لمؤسسة التخوم الإلكترونية",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "مجال العمل",
+          "value": "علم الحاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "مجال العمل",
+          "value": "أمن الحاسوب",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "مجال العمل",
+          "value": "تعمية",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "عمل بارز",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "عمل بارز",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "عمل بارز",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "الموقع الرسمي",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "جهة العمل: آي‌ بي‌ إم",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "جهة العمل: آي‌ بي‌ إم",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة نوربرت وينر للمسؤولية الاجتماعية والمهنية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: جائزة الرواد لمؤسسة التخوم الإلكترونية",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1963-01-15",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Bruce Schneier",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "Beruf",
+          "value": "Kryptograph",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "Beruf",
+          "value": "Sicherheitsberater",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "Beruf",
+          "value": "Schriftsteller",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "Beruf",
+          "value": "Physiker",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "Beruf",
+          "value": "Informatiker",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "Beruf",
+          "value": "Mathematiker",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "Geburtsort",
+          "value": "New York City",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "Bildungseinrichtung",
+          "value": "American University",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "Bildungseinrichtung",
+          "value": "Universität Rochester",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "Bildungseinrichtung",
+          "value": "Hunter College High School",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "Arbeitgeber",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "Arbeitgeber",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "Arbeitgeber",
+          "value": "Harvard University",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "Arbeitgeber",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "Auszeichnung",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "Auszeichnung",
+          "value": "EFF Award",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "Arbeitsgebiet",
+          "value": "Informatik",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "Arbeitsgebiet",
+          "value": "Computersicherheit",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "Arbeitsgebiet",
+          "value": "Kryptographie",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "Bekanntes Werk",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "Bekanntes Werk",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "Bekanntes Werk",
+          "value": "Die Kunst des Vertrauens",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "Offizielle Website",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Arbeitgeber: IBM",
+          "text": "Ende laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "Arbeitgeber: IBM",
+          "text": "Beginn laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: EFF Award",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1963-01-15",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ブルース・シュナイアー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "職業",
+          "value": "暗号研究者",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "職業",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "職業",
+          "value": "著作家",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "職業",
+          "value": "物理学者",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "職業",
+          "value": "計算機科学者",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "職業",
+          "value": "数学者",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "出典に記載された生年月日",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "出生地",
+          "value": "ニューヨーク",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "在籍した教育機関",
+          "value": "アメリカン大学",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "在籍した教育機関",
+          "value": "ロチェスター大学",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "在籍した教育機関",
+          "value": "ハンター大学高校",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "雇用主",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "雇用主",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "雇用主",
+          "value": "ハーバード大学",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "雇用主",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "受賞",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "受賞",
+          "value": "EFFパイオニア賞",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "活動分野",
+          "value": "計算機科学",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "活動分野",
+          "value": "コンピューター・セキュリティ",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "活動分野",
+          "value": "暗号理論",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "代表的な作品",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "代表的な作品",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "代表的な作品",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "公式サイト",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "雇用主: IBM",
+          "text": "出典に記載された終了の日付",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "雇用主: IBM",
+          "text": "出典に記載された開始の日付",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: EFFパイオニア賞",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1963-01-15",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Bruce Schneier",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "Ocupación",
+          "value": "criptógrafo",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "Ocupación",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "Ocupación",
+          "value": "escritor",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "Ocupación",
+          "value": "físico",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "Ocupación",
+          "value": "informático teórico",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "Ocupación",
+          "value": "matemático",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "Lugar de nacimiento",
+          "value": "Nueva York",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "Institución educativa",
+          "value": "Universidad Americana",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "Institución educativa",
+          "value": "Universidad de Rochester",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "Institución educativa",
+          "value": "Hunter College High School",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "Empleador",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "Empleador",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "Empleador",
+          "value": "Universidad Harvard",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "Empleador",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "Distinción",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "Distinción",
+          "value": "Premio Pionero EFF",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "Campo de trabajo",
+          "value": "ciencias de la computación",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "Campo de trabajo",
+          "value": "seguridad informática",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "Campo de trabajo",
+          "value": "criptografía",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "Obra destacada",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "Obra destacada",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "Obra destacada",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "Sitio web oficial",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "Empleador: IBM",
+          "text": "Fecha de fin según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "Empleador: IBM",
+          "text": "Fecha de inicio según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Premio Pionero EFF",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1963-01-15",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "브루스 슈나이어",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-04ac6437b25639c58078",
+          "label": "직업",
+          "value": "암호학자",
+          "notes": []
+        },
+        {
+          "id": "fact-15c14c2e5c86fc06a8e6",
+          "label": "직업",
+          "value": "security advisor",
+          "notes": []
+        },
+        {
+          "id": "fact-8a75b665d6eac6239d3e",
+          "label": "직업",
+          "value": "작가",
+          "notes": []
+        },
+        {
+          "id": "fact-d1abbee043b7ac6f1e4b",
+          "label": "직업",
+          "value": "물리학자",
+          "notes": []
+        },
+        {
+          "id": "fact-d27099e35673461e16fb",
+          "label": "직업",
+          "value": "컴퓨터 과학자",
+          "notes": []
+        },
+        {
+          "id": "fact-d3177dea1f2c2d588bfb",
+          "label": "직업",
+          "value": "수학자",
+          "notes": []
+        },
+        {
+          "id": "fact-f599181ed448e427447c",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-a415cce98c9bf6636568",
+          "label": "출처에 기재된 출생일",
+          "value": "1963-01-15",
+          "notes": []
+        },
+        {
+          "id": "fact-c30b8a52fac78e5b4186",
+          "label": "출생지",
+          "value": "뉴욕",
+          "notes": []
+        },
+        {
+          "id": "fact-646771ee6492a5f0ca9c",
+          "label": "교육 기관",
+          "value": "아메리칸 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-8be5d6e00a3972a3ddb1",
+          "label": "교육 기관",
+          "value": "로체스터 대학교",
+          "notes": []
+        },
+        {
+          "id": "fact-e6b539f7b4f221882962",
+          "label": "교육 기관",
+          "value": "Hunter College High School",
+          "notes": []
+        },
+        {
+          "id": "fact-1266c69b18895e276828",
+          "label": "고용 기관",
+          "value": "BT Managed Security Solutions",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-2a1f79a5b32dee6ec112",
+          "label": "고용 기관",
+          "value": "IBM",
+          "notes": []
+        },
+        {
+          "id": "fact-d21e96502a085fc879ae",
+          "label": "고용 기관",
+          "value": "하버드 대학교",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-eb738e791b5aac9a08c3",
+          "label": "고용 기관",
+          "value": "Inrupt Inc.",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-25cd8e1e89432007fb48",
+          "label": "수상",
+          "value": "Norbert Wiener Award for Social and Professional Responsibility",
+          "notes": []
+        },
+        {
+          "id": "fact-a78222e517a6a31e0422",
+          "label": "수상",
+          "value": "EFF Award",
+          "notes": []
+        },
+        {
+          "id": "fact-87f25b60d8639788d37c",
+          "label": "활동 분야",
+          "value": "컴퓨터 과학",
+          "notes": []
+        },
+        {
+          "id": "fact-c30cf966e438c3875cd6",
+          "label": "활동 분야",
+          "value": "컴퓨터 보안",
+          "notes": []
+        },
+        {
+          "id": "fact-dba885b42c3cc1696343",
+          "label": "활동 분야",
+          "value": "암호학",
+          "notes": []
+        },
+        {
+          "id": "fact-061483163687ecb7c9cf",
+          "label": "주요 작품",
+          "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+          "notes": []
+        },
+        {
+          "id": "fact-06dd1b1bf9d2c78ea413",
+          "label": "주요 작품",
+          "value": "Click Here to Kill Everybody",
+          "notes": []
+        },
+        {
+          "id": "fact-1ff19c560e6a9f3089e8",
+          "label": "주요 작품",
+          "value": "Liars and Outliers",
+          "notes": []
+        },
+        {
+          "id": "fact-8d9f277d09bfd064f25f",
+          "label": "공식 웹사이트",
+          "value": "https://www.schneier.com/",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-60e0808e377f58f22fc2",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2019-06",
+          "precision": 10,
+          "kind": "end",
+          "title": "고용 기관: IBM",
+          "text": "출처에 기재된 종료일",
+          "notes": []
+        },
+        {
+          "id": "event-14a4547377600d5532c6",
+          "factId": "fact-2a1f79a5b32dee6ec112",
+          "date": "2016",
+          "precision": 9,
+          "kind": "start",
+          "title": "고용 기관: IBM",
+          "text": "출처에 기재된 시작일",
+          "notes": []
+        },
+        {
+          "id": "event-6c2f052ccc1d4d6bc08a",
+          "factId": "fact-25cd8e1e89432007fb48",
+          "date": "2008",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Norbert Wiener Award for Social and Professional Responsibility",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f2cf2397eed5ec9305aa",
+          "factId": "fact-a78222e517a6a31e0422",
+          "date": "2007",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: EFF Award",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-487d1573c31aa9e454d4",
+          "factId": "fact-a415cce98c9bf6636568",
+          "date": "1963-01-15",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1963-01-15",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "ar",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "ar",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "ar",
+        "key": "Q91947388"
+      },
+      {
+        "locale": "de",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "de",
+        "key": "Q16897956"
+      },
+      {
+        "locale": "de",
+        "key": "Q37156"
+      },
+      {
+        "locale": "de",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "de",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "de",
+        "key": "Q5944289"
+      },
+      {
+        "locale": "de",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "es",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "es",
+        "key": "Q16897956"
+      },
+      {
+        "locale": "es",
+        "key": "Q37156"
+      },
+      {
+        "locale": "es",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "es",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "es",
+        "key": "Q5944289"
+      },
+      {
+        "locale": "es",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "es",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "es",
+        "key": "Q91947388"
+      },
+      {
+        "locale": "fr",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "fr",
+        "key": "Q16897956"
+      },
+      {
+        "locale": "fr",
+        "key": "Q37156"
+      },
+      {
+        "locale": "fr",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "fr",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "fr",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "fr",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "fr",
+        "key": "Q91947388"
+      },
+      {
+        "locale": "ja",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "ja",
+        "key": "Q16897956"
+      },
+      {
+        "locale": "ja",
+        "key": "Q37156"
+      },
+      {
+        "locale": "ja",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "ja",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "ja",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "ja",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "ja",
+        "key": "Q91947388"
+      },
+      {
+        "locale": "ko",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "ko",
+        "key": "Q16897956"
+      },
+      {
+        "locale": "ko",
+        "key": "Q31323"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4836759"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5944289"
+      },
+      {
+        "locale": "ko",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "ko",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "ko",
+        "key": "Q91947388"
+      },
+      {
+        "locale": "zh",
+        "key": "Q106746930"
+      },
+      {
+        "locale": "zh",
+        "key": "Q37156"
+      },
+      {
+        "locale": "zh",
+        "key": "Q4899970"
+      },
+      {
+        "locale": "zh",
+        "key": "Q60744248"
+      },
+      {
+        "locale": "zh",
+        "key": "Q6540279"
+      },
+      {
+        "locale": "zh",
+        "key": "Q91947388"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q16897956",
+        "fallbackLocale": "en",
+        "value": "Norbert Wiener Award for Social and Professional Responsibility",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q37156",
+        "fallbackLocale": "en",
+        "value": "IBM",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q5944289",
+        "fallbackLocale": "en",
+        "value": "Hunter College High School",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q16897956",
+        "fallbackLocale": "en",
+        "value": "Norbert Wiener Award for Social and Professional Responsibility",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q37156",
+        "fallbackLocale": "en",
+        "value": "IBM",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5944289",
+        "fallbackLocale": "en",
+        "value": "Hunter College High School",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q16897956",
+        "fallbackLocale": "en",
+        "value": "Norbert Wiener Award for Social and Professional Responsibility",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q37156",
+        "fallbackLocale": "en",
+        "value": "IBM",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q16897956",
+        "fallbackLocale": "en",
+        "value": "Norbert Wiener Award for Social and Professional Responsibility",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q37156",
+        "fallbackLocale": "en",
+        "value": "IBM",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q16897956",
+        "fallbackLocale": "en",
+        "value": "Norbert Wiener Award for Social and Professional Responsibility",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q31323",
+        "fallbackLocale": "en",
+        "value": "EFF Award",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4836759",
+        "fallbackLocale": "en",
+        "value": "BT Managed Security Solutions",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5944289",
+        "fallbackLocale": "en",
+        "value": "Hunter College High School",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q106746930",
+        "fallbackLocale": "en",
+        "value": "Inrupt Inc.",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q37156",
+        "fallbackLocale": "en",
+        "value": "IBM",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q4899970",
+        "fallbackLocale": "en",
+        "value": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q60744248",
+        "fallbackLocale": "en",
+        "value": "Click Here to Kill Everybody",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q6540279",
+        "fallbackLocale": "en",
+        "value": "Liars and Outliers",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q91947388",
+        "fallbackLocale": "en",
+        "value": "security advisor",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 25,
+    "factsWithoutExternalReference": 21,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

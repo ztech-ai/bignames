@@ -1,0 +1,830 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "jane-fraser",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "简·弗雷泽",
+    "enName": "Jane Fraser",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america",
+      "europe"
+    ],
+    "subfield": "银行业",
+    "inclusionReason": "成为美国主要银行首位女性首席执行官，并领导花旗集团的业务重组。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "成为美国主要银行首位女性首席执行官，并领导花旗集团的业务重组。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:35Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Jane Fraser",
+    "requestedTitle": "Jane Fraser (businesswoman)",
+    "resolvedTitle": "Jane Fraser (businesswoman)",
+    "wikidataId": "Q21997525",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+      "title": "Jane Fraser (businesswoman)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:35Z",
+      "revisionId": 1384095327,
+      "revisionTimestamp": "2026-11-06T15:29:56Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q21997525",
+      "title": "Q21997525",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:25:35Z",
+      "revisionId": 2567790181,
+      "revisionTimestamp": "2026-11-11T01:51:20Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Dame Jane Fraser  (born 13 July 1967) is a British-American banking executive who has been chief executive officer (CEO) of Citi since March 2021 and chair since October 2025. She is the first woman to head a major U.S. bank.\nFraser was educated at Girton College, Cambridge, and Harvard Business School. She worked at McKinsey & Company for 10 years, rising to partner prior to joining Citigroup in 2004. In 2019, she was named president of Citigroup and CEO of its consumer banking division.\nFraser was included on Fortune's \"Most Powerful Women in Business\" list in 2014 and 2015 and has been called the \"Number 1 Woman to Watch\" for two consecutive years by American Banker. She was named the eighth most powerful woman in the world in 2025 by Forbes. She is a member of the President's Export Council.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Jane Fraser",
+    "fr": "Jane Fraser",
+    "es": "Jane Fraser",
+    "de": "Jane Fraser",
+    "zh": "范潔恩",
+    "ar": "جين فريزر",
+    "ja": "ジェーン・フレイザー",
+    "ko": "제인 프레이저"
+  },
+  "descriptions": {
+    "en": "British-American banking executive",
+    "fr": "femme d'affaires scotto-américaine",
+    "es": "ejecutiva",
+    "de": "Managerin",
+    "ja": "銀行家",
+    "ko": "영국·미국 금융인"
+  },
+  "languageArticles": {
+    "ar": "جين فريزر",
+    "de": "Jane Fraser (Bankmanagerin)",
+    "en": "Jane Fraser (businesswoman)",
+    "es": "Jane Fraser",
+    "fr": "Jane Fraser (femme d'affaires)",
+    "zh": "范潔恩"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q21997525$9E8E5F00-D5F7-4943-89FD-5063207A9187",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q21997525$DDAB53C0-0A0C-4ADA-8BED-1B7920D383E9",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1967-07-13T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1967-07-13"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q21997525$4174398D-DAEE-43A4-A915-F889C61262C7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 207736,
+            "id": "Q207736"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q21997525$4FFCC4A9-77E5-470D-9CB3-8DEF4B4A6CF3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 219508,
+            "id": "Q219508"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q21997525$FE610EE3-3E21-46EA-A3DE-6D69FBD575CB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 797846,
+            "id": "Q797846"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1985-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1985"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1988-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1988"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 2091008,
+                "id": "Q2091008"
+              }
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.linkedin.com/in/jane-fraser-3292068/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q21997525$35A6E9D7-388A-4933-B92F-13BEF4256193",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49126,
+            "id": "Q49126"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1992-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1992"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.linkedin.com/in/jane-fraser-3292068/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q21997525$cc76c895-5018-4f4e-82de-2240100a0ac7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q21997525$ae4e8522-4c3f-39b3-7996-94ba662848e1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 32947888,
+            "id": "Q32947888"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q21997525$58197e8f-4fa7-3169-a871-6ef1993276b1",
+        "rank": "preferred",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 484876,
+            "id": "Q484876"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-03-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-03"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q21997525$041D5940-70E6-4A72-9521-945CF1FDED77",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 145,
+            "id": "Q145"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P1416": [
+      {
+        "id": "Q21997525$51324A24-B07F-46D3-B07A-835246D54292",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 219508,
+            "id": "Q219508"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 116813909,
+                  "id": "Q116813909"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q21997525$52C56D6E-C929-449B-9CBF-5C13C06541E6",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Jane Fraser (cropped).jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q21997525$851ECD2F-FC17-4907-A8DF-892395E6A561",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1990-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1990"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199913,
+                  "id": "Q199913"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P19": "birthPlace",
+    "P108": "employer",
+    "P69": "education",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P1416": "affiliation",
+    "P18": "image",
+    "P2031": "careerStart"
+  },
+  "relatedEntities": {
+    "Q116813909": {
+      "id": "Q116813909",
+      "fetchedAt": "2026-11-13T11:02:57Z",
+      "labels": {
+        "en": "Global Conference 2022 - Speakers"
+      },
+      "descriptions": {}
+    },
+    "Q145": {
+      "id": "Q145",
+      "fetchedAt": "2026-11-13T10:59:41Z",
+      "labels": {
+        "es": "Reino Unido",
+        "ar": "المملكة المتحدة",
+        "de": "Vereinigtes Königreich",
+        "en": "United Kingdom",
+        "fr": "Royaume-Uni",
+        "zh": "英国",
+        "ja": "イギリス",
+        "ko": "영국"
+      },
+      "descriptions": {
+        "fr": "pays d'Europe occidentale",
+        "zh": "歐洲西部的島國",
+        "es": "país insular de Europa del Norte con territorios de ultramar en Europa, América, África, Asia y Oceanía",
+        "de": "Inselstaat in Nordwesteuropa",
+        "ar": "دولة في شمال غرب أوروبا",
+        "en": "island country in north-west Europe",
+        "ja": "西ヨーロッパの王国",
+        "ko": "서유럽의 국가"
+      }
+    },
+    "Q199913": {
+      "id": "Q199913",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ko": "히브리어 위키백과",
+        "fr": "Wikipédia en hébreu",
+        "es": "Wikipedia en hebreo",
+        "ja": "ヘブライ語版ウィキペディア",
+        "en": "Hebrew Wikipedia",
+        "ar": "ويكيبيديا العبرية",
+        "de": "hebräische Wikipedia",
+        "zh": "希伯來語維基百科"
+      },
+      "descriptions": {
+        "de": "Wikipedia-Sprachversion",
+        "en": "Hebrew-language edition of Wikipedia",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة العبرية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科希伯来语版",
+        "es": "edición hebrea de Wikipedia",
+        "ko": "히브리어로 작성된 위키백과",
+        "ja": "ウィキペディアのヘブライ語版"
+      }
+    },
+    "Q207736": {
+      "id": "Q207736",
+      "fetchedAt": "2026-11-13T11:25:36Z",
+      "labels": {
+        "fr": "St Andrews",
+        "ko": "세인트앤드루스",
+        "es": "Saint Andrews",
+        "de": "St Andrews",
+        "ja": "セント・アンドルーズ",
+        "en": "St Andrews",
+        "zh": "圣安德鲁斯",
+        "ar": "سنت أندروز"
+      },
+      "descriptions": {
+        "fr": "ville écossaise située sur la côte de la mer du Nord, Royaume-Uni",
+        "en": "town on the east coast of Fife in Scotland, UK",
+        "de": "Kleinstadt an der Ostküste Schottlands (Grafschaft Fife)",
+        "zh": "苏格兰城市",
+        "ar": "بلدة في المملكة المتحدة",
+        "ja": "スコットランドの町",
+        "es": "localidad de la costa oriental de Fife, en Escocia"
+      }
+    },
+    "Q2091008": {
+      "id": "Q2091008",
+      "fetchedAt": "2026-11-13T11:01:27Z",
+      "labels": {
+        "fr": "maîtrise ès arts",
+        "en": "Master of Arts",
+        "de": "Master of Arts",
+        "zh": "文学硕士",
+        "es": "Maestría en Artes",
+        "ja": "マスター・オブ・アーツ",
+        "ar": "ماجستير الآداب",
+        "ko": "인문사회 석사"
+      },
+      "descriptions": {
+        "en": "type of master's degree in the fields of humanities and social sciences",
+        "de": "Studienabschluss",
+        "zh": "一种硕士学位",
+        "es": "tipo de maestría",
+        "ar": "نوع درجة الماجستير في مجالات العلوم الإنسانية والاجتماعية",
+        "ja": "修士号のひとつ",
+        "fr": "grade universitaire de maîtrise en sciences humaines et sociales notamment dans les pays anglo-saxons"
+      }
+    },
+    "Q219508": {
+      "id": "Q219508",
+      "fetchedAt": "2026-11-13T11:15:23Z",
+      "labels": {
+        "fr": "Citigroup",
+        "ko": "시티그룹",
+        "es": "Citigroup",
+        "de": "Citigroup",
+        "ja": "シティグループ",
+        "ar": "سيتي غروب",
+        "en": "Citigroup",
+        "zh": "花旗集团"
+      },
+      "descriptions": {
+        "fr": "entreprise financière américaine",
+        "en": "American investment bank and financial services corporation",
+        "es": "empresa multinacional estadounidense de banca de inversión y servicios financieros",
+        "zh": "總部位於美國紐約的金融投資集團",
+        "ar": "شركة أمريكية",
+        "de": "US-amerikanischer Finanzdienstleister",
+        "ja": "アメリカの金融グループ"
+      }
+    },
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q32947888": {
+      "id": "Q32947888",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "en": "bank manager",
+        "de": "Bankmanager",
+        "es": "director de banco",
+        "fr": "directeur de banque",
+        "ja": "銀行の支店長",
+        "ar": "مدير بنك",
+        "zh": "银行经理"
+      },
+      "descriptions": {
+        "en": "manager of a financial institution",
+        "de": "Manager eines Finanzinstituts",
+        "es": "profesión"
+      }
+    },
+    "Q484876": {
+      "id": "Q484876",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "ko": "최고경영자",
+        "fr": "directeur général ou directrice générale",
+        "es": "director ejecutivo",
+        "de": "Geschäftsführer",
+        "ja": "最高経営責任者",
+        "en": "chief executive officer",
+        "ar": "رئيس تنفيذي",
+        "zh": "首席执行官"
+      },
+      "descriptions": {
+        "en": "highest-ranking officer of an organization",
+        "fr": "salarié qui occupe le rang le plus élevé dans la hiérarchie d'une organisation sociale (CEO)",
+        "de": "CEO = geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung",
+        "es": "funcionario corporativo de más alto rango en una organización",
+        "ko": "기업에서 업무를 집행하는 가장 높은 임원",
+        "zh": "CEO・最高級別的公司職員或管理人",
+        "ja": "アメリカ合衆国内の法人において理事会（法人が会社の場合は取締役会） の指揮下で法人の全ての業務執行を統括する役員",
+        "ar": "أعلى رتبة موظف في الشركة"
+      }
+    },
+    "Q49126": {
+      "id": "Q49126",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Harvard Business School",
+        "de": "Harvard Business School",
+        "es": "Escuela de Negocios Harvard",
+        "fr": "Harvard Business School",
+        "ja": "ハーバード・ビジネス・スクール",
+        "ko": "하버드 경영대학원",
+        "zh": "哈佛商学院",
+        "ar": "كلية هرفرد للأعمال"
+      },
+      "descriptions": {
+        "en": "business school in Boston, Massachusetts, USA",
+        "fr": "école de management",
+        "es": "escuela de la Universidad de Harvard",
+        "zh": "馬薩諸塞州波士頓的商學院",
+        "de": "US-amerikanische Business School",
+        "ja": "アメリカの大学院大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q797846": {
+      "id": "Q797846",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "fr": "Girton College",
+        "es": "Girton College",
+        "en": "Girton College",
+        "de": "Girton College",
+        "ja": "ガートン・カレッジ",
+        "zh": "剑桥大学格顿学院",
+        "ko": "거튼 칼리지",
+        "ar": "كلية غريتون"
+      },
+      "descriptions": {
+        "en": "college of the University of Cambridge",
+        "es": "college de la Universidad de Cambridge",
+        "ar": "إحدى كليات جامعة كامبريدج",
+        "fr": "collège de l'université de Cambridge"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Jane Fraser (cropped).jpg",
+    "fetchedAt": "2026-11-13T11:25:36Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jane_Fraser_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jane_Fraser_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jane_Fraser_%28cropped%29.jpg/960px-Jane_Fraser_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 2182,
+    "height": 2623,
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 721,
+    "mediaTimestamp": "2023-08-07T14:21:14Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "LowneyJen",
+    "credit": "Own work (uploader of the original uncropped version — user LowneyJen — is associated with the subject[1])",
+    "description": "Jane Fraser 2021",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/b1bd7a8aac64ae7af3749b16.jpg",
+    "cachedImageBytes": 140427,
+    "cachedImageSha256": "6e59bf97c19f426695e7dce504eb847522fcf428d367d97e8ca57d62dcc47207"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 2,
+    "referenceUrls": 2,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

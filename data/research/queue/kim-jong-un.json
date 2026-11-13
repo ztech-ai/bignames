@@ -1,0 +1,56 @@
+{
+  "id": "kim-jong-un",
+  "selection": {
+    "id": "kim-jong-un",
+    "name": "金正恩",
+    "enName": "Kim Jong Un",
+    "domain": "politics",
+    "domains": [
+      "politics"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "朝鲜政治",
+    "inclusionReason": "长期领导朝鲜，其核武、导弹与对外关系政策对朝鲜半岛及国际安全具有重要影响。",
+    "priority": 1,
+    "wikipediaTitle": "Kim Jong Un",
+    "selectionStatus": "pending-verification",
+    "influence": {
+      "stars": 4,
+      "scope": "global",
+      "rationale": "长期领导朝鲜，其核武、导弹与对外关系政策对朝鲜半岛及国际安全具有重要影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    },
+    "researchStatus": "evidence-collected",
+    "lifeReviewStatus": "pending",
+    "wikidataId": "Q56226"
+  },
+  "cutoffDate": "2026-11-13",
+  "publicationReady": false,
+  "requiredLocales": [
+    "zh",
+    "en",
+    "fr",
+    "ar",
+    "de",
+    "ja",
+    "es",
+    "ko"
+  ],
+  "evidenceFile": "data/research/evidence/kim-jong-un.json",
+  "requiredChecks": [
+    "identity",
+    "living-status-at-cutoff",
+    "latest-career-coverage",
+    "independent-sources",
+    "portrait-identity-and-license",
+    "color-photo",
+    "original-resume",
+    "eight-language-parity",
+    "influence-evidence"
+  ],
+  "note": "候选与已抓取资料不等于已完成或已核验的人物档案。"
+}

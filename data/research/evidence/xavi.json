@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "xavi",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "哈维",
+    "enName": "Xavi",
+    "domain": "sports",
+    "domains": [
+      "sports"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "足球",
+    "inclusionReason": "西班牙世界杯与欧洲杯冠军核心，推动传控足球的国际传播。",
+    "priority": 2,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "西班牙世界杯与欧洲杯冠军核心，推动传控足球的国际传播。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:00Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Xavi",
+    "requestedTitle": "Xavi (footballer, born 1980)",
+    "resolvedTitle": "Xavi (footballer, born 1980)",
+    "wikidataId": "Q17500",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Xavi_(footballer,_born_1980)",
+      "title": "Xavi (footballer, born 1980)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:00Z",
+      "revisionId": 1385285896,
+      "revisionTimestamp": "2026-11-12T17:03:46Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1385285896",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17500",
+      "title": "Q17500",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:26:01Z",
+      "revisionId": 2558285970,
+      "revisionTimestamp": "2026-10-18T06:32:40Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Xavier Hernández Creus (born 25 January 1980), commonly known as Xavi Hernández (Spanish: [ˈʃaβj eɾˈnandeθ]) or simply Xavi, is a Spanish professional football manager and former player who is currently head coach of the Netherlands national team. Widely regarded as one of the greatest midfielders of all time, he was renowned for his exceptional passing and vision. Xavi is the all-time Spanish top assist provider in the UEFA Champions League with 30 assists. He spent most of his playing career at Barcelona and is one of the few players to make over 1,000 professional career appearances.\nXavi joined La Masia, the Barcelona youth academy, at age 11 and made his first-team debut against Mallorca in August 1998, aged 18. For Barcelona, he played 767 official matches, a former club record—now held by Lionel Messi—and scored 85 goals. With the initial management guidance by Pep Guardiola and using the tiki-taka football philosophy, Xavi was part of a widely lauded midfield combination trio with Andrés Iniesta and Sergio Busquets; from 2008 to 2015 the trio together were instrumental in Barcelona's exceptional on-field successes in 7 seasons, winning five La Liga titles, three Copa del Rey...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Xavi Hernández",
+    "ar": "تشافي هيرنانديز",
+    "de": "Xavi",
+    "es": "Xavi Hernández",
+    "fr": "Xavi Hernández",
+    "ja": "シャビ",
+    "ko": "차비 에르난데스",
+    "zh": "哈维·埃尔南德斯"
+  },
+  "descriptions": {
+    "en": "Spanish footballer and manager",
+    "de": "spanischer Fußballspieler und -trainer",
+    "ja": "スペインのサッカー選手・監督",
+    "es": "futbolista y entrenador español",
+    "fr": "footballeur et entraîneur espagnol",
+    "ar": "لاعب كرة قدم إسباني",
+    "zh": "西班牙足球运动员",
+    "ko": "스페인의 남자 축구 지도자"
+  },
+  "languageArticles": {
+    "ar": "تشافي هيرنانديز",
+    "de": "Xavi",
+    "en": "Xavi (footballer, born 1980)",
+    "es": "Xavi Hernández",
+    "fr": "Xavi",
+    "ja": "シャビ・エルナンデス",
+    "ko": "차비 에르난데스",
+    "zh": "哈維"
+  },
+  "claims": {
+    "P19": [
+      {
+        "id": "q17500$E5382977-FD42-482D-88AA-07870B20D939",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13939,
+            "id": "Q13939"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q17500$e7dbf7de-4d7d-9109-01c9-6d249e32656b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 628099,
+            "id": "Q628099"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2449070,
+                  "id": "Q2449070"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-04-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://beteve.cat/esports/oficial-xavi-hernandez-destituit-entrenador-barca/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "q17500$6438A33B-C911-4000-932B-C384653D486A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 937857,
+            "id": "Q937857"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1997-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1997"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19368470,
+                  "id": "Q19368470"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-04-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "q17500$69993257-8EA6-4BC4-A8FB-D9AA88D50DD3",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29,
+            "id": "Q29"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q17500$719DFE8E-1425-40A1-A771-3AF83D26DC0C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 50358336,
+                  "id": "Q50358336"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-04-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q17500$9B5AB405-0FAA-4692-9268-FE82C08A8CE2",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1980-01-25T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1980-01-25"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 746368,
+                  "id": "Q746368"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-10-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q17500$0442B084-B102-494F-83C9-2B284CDFBA8C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3320370,
+            "id": "Q3320370"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q17500$8EDC6FA5-F768-4165-B91F-1151EAA73DC2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30278709,
+            "id": "Q30278709"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q17500$744F3FDE-22BA-44F5-ACAD-3D5CBBB687CB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30860334,
+            "id": "Q30860334"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q17500$5B7F5E0E-F74E-4848-90BA-54FD990279FB",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1997-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1997"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8449,
+                  "id": "Q8449"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q17500$A603D1E6-529D-4AD0-8E25-096C947F7E07",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Xavi 13981129001173637176666027076571.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-02-18T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020-02-18"
+            }
+          ]
+        },
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P166": "award",
+    "P2031": "careerStart",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q13939": {
+      "id": "Q13939",
+      "fetchedAt": "2026-11-13T11:26:01Z",
+      "labels": {
+        "fr": "Terrassa",
+        "en": "Terrassa",
+        "de": "Terrassa",
+        "ar": "تاراسا",
+        "es": "Tarrasa",
+        "ja": "タラサ",
+        "ko": "테라사",
+        "zh": "塔拉萨"
+      },
+      "descriptions": {
+        "fr": "commune de Catalogne, Espagne",
+        "en": "city in Catalonia, Spain",
+        "es": "municipio en la comarca del valles occidental, Cataluña, España",
+        "de": "Gemeinde in Spanien",
+        "ja": "スペインの都市",
+        "zh": "西班牙巴塞罗那省市镇"
+      }
+    },
+    "Q19368470": {
+      "id": "Q19368470",
+      "fetchedAt": "2026-11-13T11:05:28Z",
+      "labels": {
+        "de": "Base de Datos del Futbol Argentino",
+        "en": "Argentine Soccer Database",
+        "fr": "Base de Datos del Futbol Argentino",
+        "es": "Base de Datos del Fútbol Argentino",
+        "ja": "アルゼンチン・サッカー・データベース",
+        "ar": "قاعدة بيانات كرة القدم الأرجنتينية",
+        "zh": "阿根廷足球数据库"
+      },
+      "descriptions": {
+        "de": "Datenbank zum Fußball",
+        "en": "database about football",
+        "es": "base de datos sobre futbol"
+      }
+    },
+    "Q2449070": {
+      "id": "Q2449070",
+      "fetchedAt": "2026-11-13T11:05:30Z",
+      "labels": {
+        "de": "Transfermarkt",
+        "en": "Transfermarkt",
+        "fr": "Transfermarkt",
+        "es": "Transfermarkt",
+        "zh": "轉會市場",
+        "ar": "ترانسفير ماركت",
+        "ja": "Transfermarkt",
+        "ko": "트랜스퍼마크트"
+      },
+      "descriptions": {
+        "en": "German website of association football database",
+        "de": "deutsche Website zum Thema Sport",
+        "fr": "site web allemand",
+        "ar": "موقع ويب",
+        "es": "Sitio web alemán de base de datos de fútbol",
+        "zh": "德国足球网站",
+        "ko": "독일의 축구 웹사이트",
+        "ja": "ウェブサイト版サッカーデータベース（ドイツ）"
+      }
+    },
+    "Q29": {
+      "id": "Q29",
+      "fetchedAt": "2026-11-13T11:01:29Z",
+      "labels": {
+        "es": "España",
+        "zh": "西班牙",
+        "ar": "إسبانيا",
+        "de": "Spanien",
+        "en": "Spain",
+        "fr": "Espagne",
+        "ja": "スペイン王国",
+        "ko": "스페인"
+      },
+      "descriptions": {
+        "fr": "pays du sud-ouest de l'Europe",
+        "zh": "西南歐國家",
+        "es": "país del suroeste de Europa con territorios en África",
+        "de": "Staat in Südeuropa, mit Territorium in Afrika",
+        "ko": "아프리카에 영토를 두고 있는 유럽 남서부의 국가",
+        "ar": "دولة في جنوب غرب أوروبا في شبه الجزيرة الأيبيرية",
+        "en": "country in southwestern Europe with territories in Africa",
+        "ja": "南ヨーロッパの王国"
+      }
+    },
+    "Q30278709": {
+      "id": "Q30278709",
+      "fetchedAt": "2026-11-13T11:26:01Z",
+      "labels": {
+        "es": "Gran Cruz de la Real Orden del Mérito Deportivo",
+        "en": "Knight Grand Cross of the Order of Sports Merit",
+        "fr": "grand-croix de l'ordre royal du mérite sportif",
+        "ar": "نيشان الاستحقاق الرياضي الملكي من رتبة صليب أعظم"
+      },
+      "descriptions": {
+        "es": "categoría de la Real Orden del Mérito Deportivo"
+      }
+    },
+    "Q30860334": {
+      "id": "Q30860334",
+      "fetchedAt": "2026-11-13T11:11:51Z",
+      "labels": {
+        "en": "Gold Medal of the Royal Order of Sports Merit",
+        "es": "Medalla de Oro del Mérito Deportivo de España",
+        "fr": "médaille d'or de l'ordre royal du mérite sportif",
+        "ar": "الميدالية الذهبية للاستحقاق الرياضي في إسبانيا"
+      },
+      "descriptions": {
+        "es": "categoría de la Real Orden del Mérito Deportivo",
+        "fr": "récompense officielle espagnole",
+        "ar": "جائزة تقديرية إسبانية"
+      }
+    },
+    "Q3320370": {
+      "id": "Q3320370",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "es": "Premio Princesa de Asturias de los Deportes",
+        "en": "Princess of Asturias Award for Sports",
+        "de": "Prinz-von-Asturien-Preis für Sport",
+        "fr": "prix Princesse des Asturies en sport",
+        "ja": "アストゥリアス皇太子賞スポーツ部門",
+        "ar": "جائزة أميرة أستورياس للرياضة"
+      },
+      "descriptions": {
+        "de": "spanische Auszeichnung",
+        "fr": "prix sportif espagnol",
+        "es": "reconocimiento internacional entregado anualmente en España"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q50358336": {
+      "id": "Q50358336",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "datos.bne.es",
+        "de": "datos.bne.es",
+        "es": "datos.bne.es",
+        "fr": "datos.bne.es",
+        "zh": "datos.bne.es"
+      },
+      "descriptions": {
+        "en": "open data platform of the Biblioteca Nacional de España",
+        "es": "portal de datos bibliográficos de la Biblioteca Nacional de España"
+      }
+    },
+    "Q628099": {
+      "id": "Q628099",
+      "fetchedAt": "2026-11-13T11:11:52Z",
+      "labels": {
+        "de": "Fußballtrainer",
+        "en": "association football coach",
+        "fr": "entraîneur ou entraîneuse de football",
+        "ko": "축구 감독",
+        "zh": "足球教练",
+        "es": "entrenador",
+        "ar": "مدرب كرة قدم",
+        "ja": "サッカー指導者"
+      },
+      "descriptions": {
+        "de": "Person, die eine Fußballmannschaft aufstellt, führt, ausbildet und leitet",
+        "en": "person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823",
+        "es": "profesión en fútbol",
+        "fr": "personne qui entraîne une équipe de football",
+        "zh": "足球界職位",
+        "ar": "الشخص المسؤول عن تدريب نادي كرة قدم أو منتخب وطني",
+        "ko": "축구팀 운영에 대한 전반적인 책임을 지는 사람",
+        "ja": "サッカー選手のトレーニングを行う人"
+      }
+    },
+    "Q746368": {
+      "id": "Q746368",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "de": "Store norske leksikon",
+        "en": "Great Norwegian Encyclopedia",
+        "es": "Store norske leksikon",
+        "fr": "Store norske leksikon",
+        "zh": "挪威大百科全书",
+        "ja": "ノルウェー百科事典",
+        "ar": "الموسوعة النرويجية العظمى"
+      },
+      "descriptions": {
+        "fr": "encyclopédie norvégienne",
+        "en": "Norwegian encyclopedia",
+        "de": "norwegische Enzyklopädie",
+        "es": "enciclopedia noruega"
+      }
+    },
+    "Q8449": {
+      "id": "Q8449",
+      "fetchedAt": "2026-11-13T10:59:02Z",
+      "labels": {
+        "fr": "Wikipédia en espagnol",
+        "en": "Spanish Wikipedia",
+        "ar": "ويكيبيديا الإسبانية",
+        "de": "spanischsprachige Wikipedia",
+        "es": "Wikipedia en español",
+        "ja": "スペイン語版ウィキペディア",
+        "ko": "스페인어 위키백과",
+        "zh": "西班牙語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "Spanish-language edition of Wikipedia",
+        "es": "edición de Wikipedia en idioma español",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in spanischer Sprache",
+        "ko": "위키백과의 스페인어판",
+        "ar": "النسخة الإسبانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科的西班牙语版",
+        "ja": "ウィキペディアのスペイン語版"
+      }
+    },
+    "Q937857": {
+      "id": "Q937857",
+      "fetchedAt": "2026-11-13T10:59:48Z",
+      "labels": {
+        "en": "association football player",
+        "de": "Fußballspieler",
+        "ko": "축구 선수",
+        "fr": "footballeur ou footballeuse",
+        "es": "futbolista",
+        "ja": "サッカー選手",
+        "zh": "足球运动员",
+        "ar": "لاعب كرة قدم"
+      },
+      "descriptions": {
+        "en": "person who plays association football (soccer)",
+        "ko": "축구 또는 여러 다른 종류의 축구를 경기한 스포츠 선수",
+        "fr": "sportif ou sportive pratiquant le football (soccer)",
+        "es": "deportista que juega al fútbol",
+        "ja": "サッカーの競技者",
+        "de": "Person, die an Fußballwettbewerben teilnimmt",
+        "zh": "從事足球運動的人",
+        "ar": "الشخص الذي يلعب كرة القدم"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Xavi 13981129001173637176666027076571.jpg",
+    "fetchedAt": "2026-11-13T11:26:02Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xavi_13981129001173637176666027076571.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Xavi_13981129001173637176666027076571.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Xavi_13981129001173637176666027076571.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 756,
+    "height": 902,
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 716,
+    "mediaTimestamp": "2020-02-19T18:28:43Z",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Mehdi Zare",
+    "credit": "https://www.farsnews.ir/photo/13981129001247/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%AF-%D9%88-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86",
+    "description": "Xavi Hernandez",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/b15e8af01d07f8acb08ee35d.jpg",
+    "cachedImageBytes": 204266,
+    "cachedImageSha256": "c94c4061971fba08d1aebf513b29c7d26bec462e219b7b376f43e4b5f82ebb78"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

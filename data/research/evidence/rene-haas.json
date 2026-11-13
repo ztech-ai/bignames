@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "rene-haas",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "雷内·哈斯",
+    "enName": "Rene Haas",
+    "domain": "technology",
+    "domains": [
+      "technology",
+      "business"
+    ],
+    "regions": [
+      "north-america",
+      "europe"
+    ],
+    "subfield": "半导体与硬件",
+    "inclusionReason": "参与Arm处理器架构业务发展，对移动终端、数据中心与芯片授权生态具有影响。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "参与Arm处理器架构业务发展，对移动终端、数据中心与芯片授权生态具有影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:18Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Rene Haas",
+    "requestedTitle": "Rene Haas",
+    "resolvedTitle": "Rene Haas",
+    "wikidataId": "Q111181494",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Rene_Haas",
+      "title": "Rene Haas",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:18Z",
+      "revisionId": 1357038137,
+      "revisionTimestamp": "2026-05-31T11:24:48Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1357038137",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q111181494",
+      "title": "Q111181494",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:39Z",
+      "revisionId": 2515802949,
+      "revisionTimestamp": "2026-07-10T08:42:31Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Rene Anthony Andrada Haas (born 1962) is an American business executive who has been chief executive officer of Arm Holdings since February 2022. Haas is based in California while the company headquarters are in Cambridge, UK.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Rene Haas",
+    "ja": "レネ・ハース",
+    "es": "Rene Haas"
+  },
+  "descriptions": {
+    "en": "American executive",
+    "es": "ejecutivo estadounidense"
+  },
+  "languageArticles": {
+    "en": "Rene Haas"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q111181494$d53ae040-e1db-4c88-a1e5-c53f2390fe40",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q111181494$16f57b68-4157-d9bf-c4f6-bf29810031ee",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q111181494$f34cf3ac-4d72-66cd-31e5-92b80d2ce4ef",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q111181494$e63c5960-432c-7e43-1101-f302b47f1080",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1962-07-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1962-07-23"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q111181494$c2e1c33a-44bc-c9c4-576a-a7ffe27233e3",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Rene Haas at SXSW 2025.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P27": "citizenship",
+    "P106": "occupation",
+    "P569": "birthDate",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Rene Haas at SXSW 2025.jpg",
+    "fetchedAt": "2026-11-13T11:14:47Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rene_Haas_at_SXSW_2025.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rene_Haas_at_SXSW_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rene_Haas_at_SXSW_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 960,
+    "height": 1308,
+    "mediaTimestamp": "2025-05-06T10:05:30Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rosiestep",
+    "credit": "Own work",
+    "description": "Rene Haas at SXSW 2025 in Austin, Texas. Featured Session: Fireside Chat with Arm CEO Rene Haas.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/244acaeb37d3c38e8c7c78ee.jpg",
+    "cachedImageBytes": 316939,
+    "cachedImageSha256": "d62b21d0ce2874d808b1c70f430bb0af8b8d5b62f091f94f29d85279c4d30812"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

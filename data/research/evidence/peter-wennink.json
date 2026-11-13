@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "peter-wennink",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "彼得·温宁克",
+    "enName": "Peter Wennink",
+    "domain": "technology",
+    "domains": [
+      "technology",
+      "business"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "subfield": "半导体与硬件",
+    "inclusionReason": "参与ASML经营与光刻设备产业化，推动先进芯片制造设备在全球半导体供应链中的发展。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与ASML经营与光刻设备产业化，推动先进芯片制造设备在全球半导体供应链中的发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:28Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Peter Wennink",
+    "requestedTitle": "Peter Wennink",
+    "resolvedTitle": "Peter Wennink",
+    "wikidataId": "Q96654591",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id",
+    "excludedWikipediaRedirect": {
+      "resolvedTitle": "ASML",
+      "qid": "Q297879",
+      "url": "https://en.wikipedia.org/wiki/ASML"
+    }
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": false,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q96654591",
+      "title": "Q96654591",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:25:28Z",
+      "revisionId": 2527829121,
+      "revisionTimestamp": "2026-08-05T21:56:08Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "",
+    "sourceId": null,
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "de": "Peter Wennink",
+    "en": "Peter Wennink",
+    "fr": "Peter Wennink",
+    "es": "Peter Wennink",
+    "zh": "彼得·温宁克",
+    "ar": "بيتر وينينك"
+  },
+  "descriptions": {
+    "en": "Dutch business executive",
+    "ar": "مدير أعمال هولندي"
+  },
+  "languageArticles": {
+    "en": "Peter Wennink"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q96654591$56E8B7BB-9777-4465-A26E-89C44AB1C263",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q96654591$303ED7A4-EAE3-4889-AF98-51B5817A825A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29999,
+            "id": "Q29999"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q96654591$0992503a-44e5-cb42-b1a4-ad1d47c7d34e",
+        "rank": "normal",
+        "value": {
+          "type": "somevalue"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q96654591$6074c0b7-4956-6c1e-6f42-5cab0ae83f01",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q96654591$44b95c80-40b4-8f3b-05c4-10613cfde7b5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 297879,
+            "id": "Q297879"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P27": "citizenship",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P108": "employer"
+  },
+  "relatedEntities": {
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q297879": {
+      "id": "Q297879",
+      "fetchedAt": "2026-11-13T11:25:29Z",
+      "labels": {
+        "fr": "ASML",
+        "en": "ASML Holding",
+        "zh": "阿斯麦",
+        "de": "ASML",
+        "ja": "ASML",
+        "ko": "ASML",
+        "ar": "شركة أيه. أس. أم. أل. القابضة",
+        "es": "ASML"
+      },
+      "descriptions": {
+        "en": "Dutch company and supplier of photolithography systems",
+        "de": "Anbieter von Lithographiesystemen für die Herstellung von Halbleiter-Chips",
+        "es": "empresa de sistemas de fotolitografía neerlandesa",
+        "ar": "شركة هولندية",
+        "ja": "オランダの半導体製造装置メーカー",
+        "zh": "荷蘭的半導體設備製造商",
+        "fr": "entreprise néerlandaise fabriquant des machines de photolithographie pour les semi-conducteurs",
+        "ko": "광학 노광 공정 장치를 만드는 네덜란드의 다국적 기업"
+      }
+    },
+    "Q29999": {
+      "id": "Q29999",
+      "fetchedAt": "2026-11-13T11:01:29Z",
+      "labels": {
+        "es": "Reino de los Países Bajos",
+        "ja": "オランダ王国",
+        "de": "Königreich der Niederlande",
+        "en": "Kingdom of the Netherlands",
+        "zh": "荷兰王国",
+        "ko": "네덜란드 왕국",
+        "fr": "Royaume des Pays-Bas",
+        "ar": "مملكة هولندا"
+      },
+      "descriptions": {
+        "en": "transcontinental sovereign state and constitutional monarchy",
+        "es": "estado federado de Europa Occidental",
+        "de": "die Niederlande mit Aruba, Curaçao und Sint Maarten",
+        "fr": "État souverain et monarchie constitutionnelle transcontinentale",
+        "ar": "دولة في أوروبا ومنطقة البحر الكاريبي",
+        "zh": "主权国家及君主立宪制实体",
+        "ja": "欧州のオランダ本土・カリブ海の3国家とBSE諸島で構成された立憲君主制国家"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": null,
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

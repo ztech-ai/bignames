@@ -1,0 +1,71 @@
+{
+  "id": "volodymyr-zelenskyy",
+  "status": "ready",
+  "checkedAt": "2026-11-13",
+  "researchCutoff": "2026-11-13",
+  "coverageEnd": "2025-07-31",
+  "translationLocales": [
+    "zh",
+    "en",
+    "fr",
+    "ar",
+    "de",
+    "ja",
+    "es",
+    "ko"
+  ],
+  "influence": {
+    "stars": 4,
+    "scope": "global",
+    "rationale": "从影视行业进入乌克兰总统职位，在战争时期的国家动员与国际外交中具有全球影响。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional",
+    "rationales": {
+      "en": "Moved from entertainment to Ukraine’s presidency, with global influence through wartime national mobilisation and international diplomacy.",
+      "fr": "Passé du spectacle à la présidence ukrainienne, il exerce une influence mondiale par la mobilisation nationale en temps de guerre et la diplomatie internationale.",
+      "de": "Wechselte aus der Unterhaltungsbranche ins ukrainische Präsidentenamt und wirkt durch nationale Mobilisierung im Krieg und internationale Diplomatie weltweit.",
+      "es": "Pasó del entretenimiento a la presidencia ucraniana, con influencia mundial mediante la movilización nacional durante la guerra y la diplomacia internacional.",
+      "ja": "映像・芸能分野からウクライナ大統領となり、戦時の国民動員と国際外交を通じて世界的な影響を持つ。",
+      "ko": "연예계에서 우크라이나 대통령으로 진출해 전시 국가 동원과 국제 외교를 통해 세계적인 영향을 미친다.",
+      "ar": "انتقل من الترفيه إلى رئاسة أوكرانيا، وأصبح ذا تأثير عالمي عبر التعبئة الوطنية أثناء الحرب والدبلوماسية الدولية."
+    }
+  },
+  "checks": {
+    "facts": "Reviewed dated career milestones against official biographies and independent reporting; each timeline/highlight has source IDs.",
+    "sources": "Official and independent sources retained; search-only access identified below rather than represented as a full-page fetch.",
+    "livingStatus": {
+      "canonicalDeath": null,
+      "sourceUrl": "https://www.president.gov.ua/en",
+      "sourceDate": "2026-11-12",
+      "access": "search-index official activities and opened MOD biography; peer review opened current activity",
+      "interpretation": "Recent documented public activity supports living status; not inferred merely from absent death data."
+    },
+    "currentRole": {
+      "sourceUrl": "https://www.president.gov.ua/en",
+      "sourceDate": "2026-11-12"
+    },
+    "portrait": {
+      "identitySource": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+      "identityMethod": "File caption, linked encyclopedia/Wikimedia identity metadata and named publisher attribution; not face recognition alone.",
+      "visualCheck": "Viewed local image; color photograph, clear single principal subject, usable portrait framing.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "Press Service of the President of Ukraine",
+      "modifications": "Unchanged downloaded image; CSS display crop only."
+    },
+    "translations": "All seven non-Chinese body translations complete; facts and dates shared with canonical source. All seven influence rationales translated. Stable keys and final sourceHash validated separately."
+  },
+  "sourceUrls": [
+    "https://mod.gov.ua/en/about-us/mod-leadership/volodymyr-zelenskyy",
+    "https://abcnews.com/International/ukrainian-president-volodymyr-zelenskyy/story?id=83085078",
+    "https://enlargement.ec.europa.eu/news/eu-opens-accession-negotiations-ukraine-2024-06-25_en",
+    "https://www.investing.com/news/world-news/ukraines-parliament-to-consider-restoring-power-of-antigraft-agencies-4161664",
+    "https://www.president.gov.ua/en"
+  ],
+  "limitations": [
+    "Ready indicates completion of this editorial pass, not endorsement by any third-party institution.",
+    "The selected timeline is not an exhaustive current-news chronology.",
+    "Influence stars remain provisional editorial judgements, distinct from factual verification."
+  ]
+}

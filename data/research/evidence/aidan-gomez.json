@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "aidan-gomez",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "艾丹·戈麦斯",
+    "enName": "Aidan Gomez",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "人工智能研究",
+    "inclusionReason": "参与Transformer研究并共同创办Cohere，推动语言模型从基础研究走向企业应用。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与Transformer研究并共同创办Cohere，推动语言模型从基础研究走向企业应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Aidan Gomez",
+    "requestedTitle": "Aidan Gomez",
+    "resolvedTitle": "Aidan Gomez",
+    "wikidataId": "Q110864219",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Aidan_Gomez",
+      "title": "Aidan Gomez",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:20Z",
+      "revisionId": 1384965856,
+      "revisionTimestamp": "2026-11-11T02:25:29Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384965856",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q110864219",
+      "title": "Q110864219",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:47Z",
+      "revisionId": 2566648623,
+      "revisionTimestamp": "2026-11-08T19:17:03Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Aidan Gomez is a British-Canadian computer scientist working in the field of artificial intelligence, with a focus on natural language processing. He is the co-founder and CEO of the technology company Cohere.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Aidan N. Gomez",
+    "zh": "艾丹·高梅茲",
+    "ar": "أيدان غوميز",
+    "de": "Aidan Gomez"
+  },
+  "descriptions": {
+    "en": "artificial intelligence researcher",
+    "de": "britisch-kanadischer Unternehmer und KI-Forscher"
+  },
+  "languageArticles": {
+    "ar": "أيدان غوميز",
+    "en": "Aidan Gomez",
+    "zh": "艾丹·高梅茲"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q110864219$A967C45B-8C04-48AA-A6CF-AD44DF48EB04",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q110864219$01BDFFC9-7159-4905-A8C0-F32DD0F0E01B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15976092,
+            "id": "Q15976092"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30249683,
+                  "id": "Q30249683"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q110864219$32278ad3-483f-33a1-b085-97f788279bbb",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 34433,
+            "id": "Q34433"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 213660,
+                  "id": "Q213660"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q110864219$a53e16e5-43e9-bd25-6e34-7f9caa61c79a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 180865,
+            "id": "Q180865"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 213660,
+                  "id": "Q213660"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q110864219$7550f581-44ed-141e-5557-41b77de1478f",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://aidangomez.ca/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q110864219$5e73e485-437a-ed27-53e5-e7f901f7443b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 110363143,
+            "id": "Q110363143"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://aidangomez.ca/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-09-06T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-09-06"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q110864219$087c1d1f-43e0-487e-59f6-1f4c534b8990",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Aidan Gomez at \"ALL IN\" 2025 06.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q110864219$28DCD748-C046-46D7-9729-E6A7F64A4479",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 172,
+            "id": "Q172"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-07"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P69": "education",
+    "P856": "officialWebsite",
+    "P108": "employer",
+    "P18": "image",
+    "P19": "birthPlace"
+  },
+  "relatedEntities": {
+    "Q110363143": {
+      "id": "Q110363143",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "Cohere",
+        "de": "Cohere",
+        "zh": "Cohere",
+        "ar": "كوهير (شركة)",
+        "fr": "Cohere"
+      },
+      "descriptions": {
+        "en": "Canadian artificial intelligence company building foundational models",
+        "de": "kanadisches KI-Unternehmen",
+        "ar": "منظمة في كندا",
+        "zh": "加拿大自然語言處理初創公司"
+      }
+    },
+    "Q15976092": {
+      "id": "Q15976092",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "artificial intelligence researcher",
+        "es": "investigador de la inteligencia artificial",
+        "fr": "chercheur ou chercheuse en intelligence artificielle",
+        "de": "KI-Forscher",
+        "ar": "باحث في مجال الذكاء الاصطناعي",
+        "ja": "人工知能研究者",
+        "ko": "인공지능 연구자",
+        "zh": "人工智能研究者"
+      },
+      "descriptions": {
+        "de": "Wissenschaftler auf dem Gebiet der künstlichen Intelligenz",
+        "es": "profesión, científicos del campo de la inteligencia artificial",
+        "en": "researcher in the field of artificial intelligence",
+        "ja": "人工知能分野の研究者"
+      }
+    },
+    "Q172": {
+      "id": "Q172",
+      "fetchedAt": "2026-11-13T11:05:47Z",
+      "labels": {
+        "en": "Toronto",
+        "fr": "Toronto",
+        "de": "Toronto",
+        "es": "Toronto",
+        "ar": "تورنتو",
+        "ja": "トロント",
+        "ko": "토론토",
+        "zh": "多伦多"
+      },
+      "descriptions": {
+        "en": "capital and largest city of the province of Ontario, Canada",
+        "fr": "capitale de l'Ontario et plus grande ville du Canada",
+        "de": "bevölkerungsreichste Stadt Kanadas und Hauptstadt der Provinz Ontario",
+        "es": "capital de la provincia de Ontario y ciudad más poblada de Canadá",
+        "ko": "온타리오 주에 위치한 캐나다에서 가장 큰 도시",
+        "ja": "カナダ最大の都市",
+        "zh": "加拿大安大略省的首府和最大城市",
+        "ar": "أكبر مدن كندا وعاصمة مقاطعة أونتاريو"
+      }
+    },
+    "Q180865": {
+      "id": "Q180865",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "Université de Toronto",
+        "ko": "토론토 대학교",
+        "es": "Universidad de Toronto",
+        "de": "University of Toronto",
+        "ja": "トロント大学",
+        "en": "University of Toronto",
+        "ar": "جامعة تورنتو",
+        "zh": "多倫多大學"
+      },
+      "descriptions": {
+        "en": "public research university in the Greater Toronto Area of Ontario, Canada",
+        "fr": "université de recherche publique à Région du Grand Toronto en Ontario au Canada",
+        "de": "eine der drei Universitäten von Toronto, größte Universität Kanadas",
+        "zh": "加拿大公立大學",
+        "ar": "جامعة في كندا",
+        "es": "universidad pública en Toronto, Ontario, Canadá",
+        "ja": "カナダ・オンタリオ州トロントにある州立大学",
+        "ko": "캐나다 온타리오주 토론토에 있는 연구 중심 공립 대학"
+      }
+    },
+    "Q213660": {
+      "id": "Q213660",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "ko": "링크드인",
+        "ar": "لينكد إن",
+        "zh": "領英",
+        "en": "LinkedIn"
+      },
+      "descriptions": {
+        "en": "American social networking website for people in professional occupations",
+        "fr": "société américaine, nom du service associé",
+        "de": "soziales Netzwerk für Geschäftskontakte",
+        "es": "red social estadounidense en línea para profesionales",
+        "zh": "專業人士職業社交網站",
+        "ar": "شبكة تواصل إجتماعي للناس أصحاب المهن الاحترافية",
+        "ja": "世界最大級のビジネス特化型SNS、および同サービスを提供するシリコンバレーの企業",
+        "ko": "미국의 비즈니스 중심의 소셜 네트워크 서비스"
+      }
+    },
+    "Q30249683": {
+      "id": "Q30249683",
+      "fetchedAt": "2026-11-13T11:05:48Z",
+      "labels": {
+        "en": "Attention Is All You Need",
+        "zh": "注意力就是你们所需要的一切",
+        "ar": "الانتباه هو كل ما تحتاجه",
+        "ko": "어텐션 이즈 올 유 니드"
+      },
+      "descriptions": {
+        "en": "scientific article published in June 2017",
+        "ar": "مقالة علمية (نشرت في 12-6-2017)",
+        "de": "wissenschaftlicher Artikel, der im Juni 2017 veröffentlicht wurde",
+        "fr": "article académique",
+        "es": "artículo científico publicado en 2017",
+        "ja": "2017年の論文",
+        "ko": "2017년 논문",
+        "zh": "2017年學術文章"
+      }
+    },
+    "Q34433": {
+      "id": "Q34433",
+      "fetchedAt": "2026-11-13T11:02:18Z",
+      "labels": {
+        "zh": "牛津大学",
+        "es": "Universidad de Oxford",
+        "ar": "جامعة أكسفورد",
+        "ko": "옥스퍼드 대학교",
+        "fr": "Université d'Oxford",
+        "de": "University of Oxford",
+        "ja": "オックスフォード大学",
+        "en": "University of Oxford"
+      },
+      "descriptions": {
+        "fr": "université britannique située à Oxford (Angleterre)",
+        "en": "collegiate research university in Oxford, England",
+        "de": "Universität in Oxford, England",
+        "es": "universidad pública en Inglaterra, Reino Unido",
+        "ar": "جامعة بحث عامة تقع في أكسفورد، إنجلترا، المملكة المتحدة",
+        "ko": "영국 옥스퍼드셔주의 공립 대학",
+        "zh": "1096年创建的一所学校",
+        "ja": "イングランド・オックスフォードにある国立大学"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Aidan Gomez at \"ALL IN\" 2025 06.jpg",
+    "fetchedAt": "2026-11-13T11:05:56Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aidan_Gomez_at_%22ALL_IN%22_2025_06.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Aidan_Gomez_at_%22ALL_IN%22_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Aidan_Gomez_at_%22ALL_IN%22_2025_06.jpg/960px-Aidan_Gomez_at_%22ALL_IN%22_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 2857,
+    "height": 4000,
+    "mediaTimestamp": "2025-09-28T18:13:36Z",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Gabriel Hutchinson",
+    "credit": "Own work",
+    "description": "Aidan Gomez, CEO of Cohere, speaks on a panel during the 2025 edition of the \"ALL IN\" conference, held in Montreal, Canada in September 2025",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/c8c055715bfb53175eebfd08.jpg",
+    "cachedImageBytes": 246332,
+    "cachedImageSha256": "dd11d06434bd05f9e6d5eff59ae5c5cc0169d1d08de2e1ec23fa81fbb822ab58"
+  },
+  "qualitySignals": {
+    "hasBirthDate": false,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

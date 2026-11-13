@@ -1,0 +1,2141 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "ajay-banga",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/ajay-banga.json",
+    "sha256": "44ef4b32c9a66f1fb436256e6acabdc110d9399866505e9b146b395f96c178c9",
+    "capturedAt": "2026-11-13T11:25:32Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+      "https://en.wikipedia.org/wiki/Ajay_Banga",
+      "https://www.wikidata.org/wiki/Q4699676"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q4699676",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Ajay Banga",
+    "sourceIdentity": {
+      "requestedName": "Ajay Banga",
+      "requestedTitle": "Ajay Banga",
+      "resolvedTitle": "Ajay Banga",
+      "wikidataId": "Q4699676",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "explicit-wikidata-id"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-0f0ca9d6838afb59dec0",
+      "property": "P106",
+      "claimId": "Q4699676$7E2F09E9-4AAB-40F4-928C-9D03F7B6941D",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 131524,
+          "id": "Q131524"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 48952,
+                "id": "Q48952"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676",
+        "https://www.wikidata.org/wiki/Q48952"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q48952"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-c98542d56a5ac509f025",
+      "property": "P106",
+      "claimId": "Q4699676$174927FC-F571-4A04-9E53-DB3E854D4D08",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 43845,
+          "id": "Q43845"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-37755a64673aaf5f16c2",
+      "property": "P27",
+      "claimId": "Q4699676$a1a340e1-4748-101a-2d83-abc002b0ea3b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 30,
+          "id": "Q30"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2007-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2007"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2007-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-c12dff51526a6cc7ccc0",
+      "property": "P27",
+      "claimId": "Q4699676$6E4E66AE-6BA4-4851-A3A9-49BCA2AFC767",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 668,
+          "id": "Q668"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1959-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1959"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2007-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2007"
+          }
+        ]
+      },
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1959-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1959",
+          "earliest": "1959-01-01",
+          "latest": "1959-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+2007-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2007",
+          "earliest": "2007-01-01",
+          "latest": "2007-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-348fd1599521d75b6b58",
+      "property": "P569",
+      "claimId": "Q4699676$B8AF8F60-CF87-4689-B6FD-E8CF04C576A4",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1959-11-10T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1959-11-10"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114752493,
+                "id": "Q114752493"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q114752493",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114752493"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1959-11-10T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1959-11-10",
+        "earliest": "1959-11-10",
+        "latest": "1959-11-10",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-8fad58f097ea14daf375",
+      "property": "P19",
+      "claimId": "Q4699676$B9EA6255-59FE-4540-9C23-7827FCF6DB4C",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2234392,
+          "id": "Q2234392"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 1373513,
+                "id": "Q1373513"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q1373513",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q1373513"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b1e895440aa8105e338c",
+      "property": "P69",
+      "claimId": "Q4699676$DEDEBBED-B1FD-4075-A0FF-2DCCDFBF6570",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 46027,
+          "id": "Q46027"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-34f5f140bcc729d10a32",
+      "property": "P39",
+      "claimId": "Q4699676$30bfc6a7-4434-adac-df89-6a7fca28751e",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4166474,
+          "id": "Q4166474"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2023-06-02T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2023-06-02"
+          }
+        ],
+        "P1545": [
+          {
+            "type": "string",
+            "value": "14"
+          }
+        ],
+        "P1365": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5237086,
+              "id": "Q5237086"
+            }
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.bancomundial.org/es/news/press-release/2023/05/03/ajay-banga-selected-14th-president-of-the-world-bank"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Ajay Banga elegido decimocuarto presidente del Banco Mundial",
+                "language": "es"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-06-15T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-06-15"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.bancomundial.org/es/news/press-release/2023/05/03/ajay-banga-selected-14th-president-of-the-world-bank",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [
+        "https://www.bancomundial.org/es/news/press-release/2023/05/03/ajay-banga-selected-14th-president-of-the-world-bank"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2023-06-02T00:00:00Z",
+          "precision": 11,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2023-06-02",
+          "earliest": "2023-06-02",
+          "latest": "2023-06-02",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-bb02d0938325c541a9c8",
+      "property": "P39",
+      "claimId": "Q4699676$8056e0af-4d3f-833b-5047-d6d29221f8f8",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 137120311,
+          "id": "Q137120311"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2175db9959f819644c85",
+      "property": "P166",
+      "claimId": "Q4699676$cae9a538-4349-c665-966b-0ce58017deaa",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 4914524,
+          "id": "Q4914524"
+        }
+      },
+      "qualifiers": {
+        "P585": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2022-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2022"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Ajay Banga | World Bank Group",
+                "language": "en"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-11"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676",
+        "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+      ],
+      "referenceUrls": [
+        "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P585",
+          "raw": "+2022-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2022",
+          "earliest": "2022-01-01",
+          "latest": "2022-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-2bdf1a7a04b2157a101f",
+      "property": "P166",
+      "claimId": "Q4699676$31377785-4d08-8ed4-8f2f-a57cc601372b",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 5365910,
+          "id": "Q5365910"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+            }
+          ],
+          "P1476": [
+            {
+              "type": "monolingualtext",
+              "value": {
+                "text": "Ajay Banga | World Bank Group",
+                "language": "en"
+              }
+            }
+          ],
+          "P813": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2026-04-11T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2026-04-11"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676",
+        "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+      ],
+      "referenceUrls": [
+        "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-a4ba794c753eee065370",
+      "property": "P166",
+      "claimId": "Q4699676$3D106D01-7769-40CE-9E80-509D0A25B535",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 60671348,
+          "id": "Q60671348"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-088d4fd4773b7440e81a",
+      "property": "P1416",
+      "claimId": "Q4699676$03CE881B-639D-4894-A7AF-E3677967BEC7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 489921,
+          "id": "Q489921"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114752493,
+                "id": "Q114752493"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835661,
+                "id": "Q114835661"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835660,
+                "id": "Q114835660"
+              }
+            }
+          ]
+        },
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 114835659,
+                "id": "Q114835659"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q114752493",
+        "https://www.wikidata.org/wiki/Q114835659",
+        "https://www.wikidata.org/wiki/Q114835660",
+        "https://www.wikidata.org/wiki/Q114835661",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q114752493",
+        "https://www.wikidata.org/wiki/Q114835659",
+        "https://www.wikidata.org/wiki/Q114835660",
+        "https://www.wikidata.org/wiki/Q114835661"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-686ed879ab52d5ebd0f1",
+      "factId": "fact-34f5f140bcc729d10a32",
+      "claimId": "Q4699676$30bfc6a7-4434-adac-df89-6a7fca28751e",
+      "property": "P39",
+      "dateProperty": "P580",
+      "date": "2023-06-02",
+      "precision": 11,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.bancomundial.org/es/news/press-release/2023/05/03/ajay-banga-selected-14th-president-of-the-world-bank",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-4cdb169dee4496fc9089",
+      "factId": "fact-2175db9959f819644c85",
+      "claimId": "Q4699676$cae9a538-4349-c665-966b-0ce58017deaa",
+      "property": "P166",
+      "dateProperty": "P585",
+      "date": "2022",
+      "precision": 9,
+      "kind": "point",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q4699676",
+        "https://www.worldbank.org/ext/en/who-we-are/leadership/ajay-banga"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-f06a07cdbb3d6ce1a644",
+      "factId": "fact-348fd1599521d75b6b58",
+      "claimId": "Q4699676$B8AF8F60-CF87-4689-B6FD-E8CF04C576A4",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1959-11-10",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1376990278",
+        "https://en.wikipedia.org/wiki/Ajay_Banga",
+        "https://www.wikidata.org/wiki/Q114752493",
+        "https://www.wikidata.org/wiki/Q4699676"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "阿贾伊·班加",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "职业",
+          "value": "企业家",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "职业",
+          "value": "商人",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "国籍",
+          "value": "美國",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "国籍",
+          "value": "印度",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "来源所记出生日期",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "出生地",
+          "value": "基尔凯埃",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "就读机构",
+          "value": "印度管理研究所亞美達巴德分校",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "担任职务",
+          "value": "世界银行行长",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "担任职务",
+          "value": "UN board member",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "奖项",
+          "value": "公共服务星章",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "奖项",
+          "value": "埃利斯岛荣誉勋章",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "奖项",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "所属机构",
+          "value": "万事达卡",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "担任职务: 世界银行行长",
+          "text": "来源记载开始时间",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "奖项: 公共服务星章",
+          "text": "来源记载发生时间",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1959-11-10",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Ajay Banga",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "Occupation",
+          "value": "entrepreneur",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "Occupation",
+          "value": "businessperson",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "Citizenship",
+          "value": "United States",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "Citizenship",
+          "value": "India",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "Source-reported birth date",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "Place of birth",
+          "value": "Khadki",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "Educational institution",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "Position held",
+          "value": "President of the World Bank Group",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "Position held",
+          "value": "UN board member",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "Award",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "Award",
+          "value": "Ellis Island Medal of Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "Award",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "Affiliation",
+          "value": "Mastercard",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "Position held: President of the World Bank Group",
+          "text": "Start date reported by source",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Award: Bintang Bakti Masyarakat",
+          "text": "Event date reported by source",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1959-11-10",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Ajaypal Singh Banga",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "Profession",
+          "value": "entrepreneur ou entrepreneuse",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "Profession",
+          "value": "personnalité du monde des affaires",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "Nationalité",
+          "value": "États-Unis",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "Nationalité",
+          "value": "Inde",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "Lieu de naissance",
+          "value": "Khadki",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "Établissement fréquenté",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "Fonction exercée",
+          "value": "président de la Banque mondiale",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "Fonction exercée",
+          "value": "UN board member",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "Distinction",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "Distinction",
+          "value": "Médaille d'honneur d'Ellis Island",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "Distinction",
+          "value": "Padma Shri dans le commerce et l'industrie",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "Affiliation",
+          "value": "Mastercard",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "Fonction exercée: président de la Banque mondiale",
+          "text": "Date de début selon la source",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinction: Bintang Bakti Masyarakat",
+          "text": "Date de l'événement selon la source",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1959-11-10",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "أجاي بانغا",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "المهنة",
+          "value": "رائد أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "المهنة",
+          "value": "صاحب أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "الجنسية",
+          "value": "الولايات المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "الجنسية",
+          "value": "الهند",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "مكان الميلاد",
+          "value": "خادكي",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "المؤسسة التعليمية",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "المنصب",
+          "value": "رئيس مجموعة البنك الدولي",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "المنصب",
+          "value": "UN board member",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "الجائزة",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "الجائزة",
+          "value": "وسام جزيرة إليس للشرف",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "الجائزة",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "الانتساب المؤسسي",
+          "value": "ماستركارد",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "المنصب: رئيس مجموعة البنك الدولي",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "الجائزة: Bintang Bakti Masyarakat",
+          "text": "تاريخ الحدث حسب المصدر",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1959-11-10",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Ajaypal Singh Banga",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "Beruf",
+          "value": "Unternehmer",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "Beruf",
+          "value": "Geschäftsmann",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigte Staaten",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "Staatsangehörigkeit",
+          "value": "Indien",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "Geburtsort",
+          "value": "Kirkee",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "Bildungseinrichtung",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "Ausgeübtes Amt",
+          "value": "Präsident der Weltbank",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "Ausgeübtes Amt",
+          "value": "UN board member",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "Auszeichnung",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "Auszeichnung",
+          "value": "Ellis Island Medal of Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "Auszeichnung",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "Zugehörigkeit",
+          "value": "Mastercard",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "Ausgeübtes Amt: Präsident der Weltbank",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Auszeichnung: Bintang Bakti Masyarakat",
+          "text": "Ereignisdatum laut Quelle",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1959-11-10",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "アジェイ・バンガ",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "職業",
+          "value": "起業家",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "職業",
+          "value": "実業家",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "国籍",
+          "value": "アメリカ合衆国",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "国籍",
+          "value": "インド",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "出典に記載された生年月日",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "出生地",
+          "value": "Khadki",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "在籍した教育機関",
+          "value": "インド経営大学",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "役職",
+          "value": "世界銀行グループ総裁",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "役職",
+          "value": "UN board member",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "受賞",
+          "value": "公共服務星章",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "受賞",
+          "value": "Ellis Island Medal of Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "受賞",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "所属機関",
+          "value": "マスターカード",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "役職: 世界銀行グループ総裁",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "受賞: 公共服務星章",
+          "text": "出典に記載された出来事の日付",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1959-11-10",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Ajaypal Singh Banga",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "Ocupación",
+          "value": "emprendedor",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "Ocupación",
+          "value": "empresario",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "Nacionalidad",
+          "value": "Estados Unidos",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "Nacionalidad",
+          "value": "India",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "Lugar de nacimiento",
+          "value": "Kirkee Cantonment",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "Institución educativa",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "Cargo desempeñado",
+          "value": "President of the World Bank Group",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "Cargo desempeñado",
+          "value": "UN board member",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "Distinción",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "Distinción",
+          "value": "Ellis Island Medal of Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "Distinción",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "Afiliación",
+          "value": "Mastercard",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "Cargo desempeñado: President of the World Bank Group",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "Distinción: Bintang Bakti Masyarakat",
+          "text": "Fecha del acontecimiento según la fuente",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1959-11-10",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "아자이 방가",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-0f0ca9d6838afb59dec0",
+          "label": "직업",
+          "value": "기업가",
+          "notes": []
+        },
+        {
+          "id": "fact-c98542d56a5ac509f025",
+          "label": "직업",
+          "value": "사업가",
+          "notes": []
+        },
+        {
+          "id": "fact-37755a64673aaf5f16c2",
+          "label": "국적",
+          "value": "미국",
+          "notes": []
+        },
+        {
+          "id": "fact-c12dff51526a6cc7ccc0",
+          "label": "국적",
+          "value": "인도",
+          "notes": []
+        },
+        {
+          "id": "fact-348fd1599521d75b6b58",
+          "label": "출처에 기재된 출생일",
+          "value": "1959-11-10",
+          "notes": []
+        },
+        {
+          "id": "fact-8fad58f097ea14daf375",
+          "label": "출생지",
+          "value": "Khadki",
+          "notes": []
+        },
+        {
+          "id": "fact-b1e895440aa8105e338c",
+          "label": "교육 기관",
+          "value": "Indian Institute of Management Ahmedabad",
+          "notes": []
+        },
+        {
+          "id": "fact-34f5f140bcc729d10a32",
+          "label": "직책",
+          "value": "President of the World Bank Group",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-bb02d0938325c541a9c8",
+          "label": "직책",
+          "value": "UN board member",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-2175db9959f819644c85",
+          "label": "수상",
+          "value": "Bintang Bakti Masyarakat",
+          "notes": []
+        },
+        {
+          "id": "fact-2bdf1a7a04b2157a101f",
+          "label": "수상",
+          "value": "Ellis Island Medal of Honor",
+          "notes": []
+        },
+        {
+          "id": "fact-a4ba794c753eee065370",
+          "label": "수상",
+          "value": "Padma Shri in Trade & Industry",
+          "notes": []
+        },
+        {
+          "id": "fact-088d4fd4773b7440e81a",
+          "label": "소속 기관",
+          "value": "마스타카드",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-686ed879ab52d5ebd0f1",
+          "factId": "fact-34f5f140bcc729d10a32",
+          "date": "2023-06-02",
+          "precision": 11,
+          "kind": "start",
+          "title": "직책: President of the World Bank Group",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "event-4cdb169dee4496fc9089",
+          "factId": "fact-2175db9959f819644c85",
+          "date": "2022",
+          "precision": 9,
+          "kind": "point",
+          "title": "수상: Bintang Bakti Masyarakat",
+          "text": "출처에 기재된 사건 날짜",
+          "notes": []
+        },
+        {
+          "id": "event-f06a07cdbb3d6ce1a644",
+          "factId": "fact-348fd1599521d75b6b58",
+          "date": "1959-11-10",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1959-11-10",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ar",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "ar",
+        "key": "Q46027"
+      },
+      {
+        "locale": "ar",
+        "key": "Q4914524"
+      },
+      {
+        "locale": "ar",
+        "key": "Q60671348"
+      },
+      {
+        "locale": "de",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "de",
+        "key": "Q4914524"
+      },
+      {
+        "locale": "de",
+        "key": "Q60671348"
+      },
+      {
+        "locale": "es",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "es",
+        "key": "Q4166474"
+      },
+      {
+        "locale": "es",
+        "key": "Q46027"
+      },
+      {
+        "locale": "es",
+        "key": "Q4914524"
+      },
+      {
+        "locale": "es",
+        "key": "Q5365910"
+      },
+      {
+        "locale": "es",
+        "key": "Q60671348"
+      },
+      {
+        "locale": "fr",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "fr",
+        "key": "Q2234392"
+      },
+      {
+        "locale": "ja",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "ja",
+        "key": "Q2234392"
+      },
+      {
+        "locale": "ja",
+        "key": "Q5365910"
+      },
+      {
+        "locale": "ja",
+        "key": "Q60671348"
+      },
+      {
+        "locale": "ko",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "ko",
+        "key": "Q2234392"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4166474"
+      },
+      {
+        "locale": "ko",
+        "key": "Q46027"
+      },
+      {
+        "locale": "ko",
+        "key": "Q4914524"
+      },
+      {
+        "locale": "ko",
+        "key": "Q5365910"
+      },
+      {
+        "locale": "ko",
+        "key": "Q60671348"
+      },
+      {
+        "locale": "zh",
+        "key": "Q137120311"
+      },
+      {
+        "locale": "zh",
+        "key": "Q60671348"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ar",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q46027",
+        "fallbackLocale": "en",
+        "value": "Indian Institute of Management Ahmedabad",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q4914524",
+        "fallbackLocale": "en",
+        "value": "Bintang Bakti Masyarakat",
+        "unresolved": false
+      },
+      {
+        "locale": "ar",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q4914524",
+        "fallbackLocale": "en",
+        "value": "Bintang Bakti Masyarakat",
+        "unresolved": false
+      },
+      {
+        "locale": "de",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4166474",
+        "fallbackLocale": "en",
+        "value": "President of the World Bank Group",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q46027",
+        "fallbackLocale": "en",
+        "value": "Indian Institute of Management Ahmedabad",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q4914524",
+        "fallbackLocale": "en",
+        "value": "Bintang Bakti Masyarakat",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q5365910",
+        "fallbackLocale": "en",
+        "value": "Ellis Island Medal of Honor",
+        "unresolved": false
+      },
+      {
+        "locale": "es",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "fr",
+        "key": "Q2234392",
+        "fallbackLocale": "en",
+        "value": "Khadki",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q2234392",
+        "fallbackLocale": "en",
+        "value": "Khadki",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q5365910",
+        "fallbackLocale": "en",
+        "value": "Ellis Island Medal of Honor",
+        "unresolved": false
+      },
+      {
+        "locale": "ja",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q2234392",
+        "fallbackLocale": "en",
+        "value": "Khadki",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4166474",
+        "fallbackLocale": "en",
+        "value": "President of the World Bank Group",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q46027",
+        "fallbackLocale": "en",
+        "value": "Indian Institute of Management Ahmedabad",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q4914524",
+        "fallbackLocale": "en",
+        "value": "Bintang Bakti Masyarakat",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q5365910",
+        "fallbackLocale": "en",
+        "value": "Ellis Island Medal of Honor",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q137120311",
+        "fallbackLocale": "en",
+        "value": "UN board member",
+        "unresolved": false
+      },
+      {
+        "locale": "zh",
+        "key": "Q60671348",
+        "fallbackLocale": "en",
+        "value": "Padma Shri in Trade & Industry",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 3,
+    "professionalEventCount": 2,
+    "factCount": 13,
+    "factsWithoutExternalReference": 10,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

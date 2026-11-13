@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "wael-sawan",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "韦尔·萨万",
+    "enName": "Wael Sawan",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "subfield": "能源",
+    "inclusionReason": "领导壳牌，参与国际能源业务和天然气、电力与减排投资的战略选择。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "领导壳牌，参与国际能源业务和天然气、电力与减排投资的战略选择。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:32Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Wael Sawan",
+    "requestedTitle": "Wael Sawan",
+    "resolvedTitle": "Wael Sawan",
+    "wikidataId": "Q113988833",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Wael_Sawan",
+      "title": "Wael Sawan",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:32Z",
+      "revisionId": 1374250370,
+      "revisionTimestamp": "2026-09-10T20:29:27Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1374250370",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q113988833",
+      "title": "Q113988833",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:15:35Z",
+      "revisionId": 2529758088,
+      "revisionTimestamp": "2026-08-10T22:08:50Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Wael Sawan (Arabic: وائل صوان; born 1974) is a Lebanese-Canadian business executive, and the CEO of Shell plc since January 2023.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Wael Sawan",
+    "de": "Wael Sawan",
+    "fr": "Wael Sawan",
+    "es": "Wael Sawan",
+    "ar": "وال صوان"
+  },
+  "descriptions": {
+    "en": "Lebanese Canadian chief executive",
+    "fr": "dirigeant d'entreprise libano-canadien",
+    "es": "director de empresa libanés-canadiense",
+    "de": "libanesisch-kanadischer Unternehmensleiter",
+    "ar": "الرئيس التنفيذي الكندي اللبناني"
+  },
+  "languageArticles": {
+    "de": "Wael Sawan",
+    "en": "Wael Sawan",
+    "fr": "Wael Sawan"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q113988833$f1fdaffa-0a2b-4178-9e15-41c873944a67",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q113988833$c1614921-1ed2-4c92-aa5f-a54538ef5279",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1974-07-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1974-07"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 114752493,
+                  "id": "Q114752493"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2544289,
+                  "id": "Q2544289"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-01-03"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q113988833$be9756c1-3793-4bf9-82c2-fd6ce7c6b1a5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2961975,
+            "id": "Q2961975"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P1416": [
+      {
+        "id": "Q113988833$0BBDE82A-6137-4B17-8015-6534A76635CC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 154950,
+            "id": "Q154950"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 114835663,
+                  "id": "Q114835663"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q113988833$94b9e3d3-44d1-2508-4965-e3e1bbd9a5e5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3820,
+            "id": "Q3820"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2544289,
+                  "id": "Q2544289"
+                }
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-01-03"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q113988833$9a15d31f-454e-cedf-f492-c0b971e308c4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 822,
+            "id": "Q822"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2544289,
+                  "id": "Q2544289"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-01-03"
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q113988833$e55fb4ed-4f7a-6de8-6f35-cfb8e3144d80",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16,
+            "id": "Q16"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2544289,
+                  "id": "Q2544289"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-01-03"
+              }
+            ],
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q113988833$c886ba15-4544-9dcd-0bcd-5e79d2f1d7e0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 201492,
+            "id": "Q201492"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q113988833$e46b63de-463a-e28d-88be-b71c6126c755",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49126,
+            "id": "Q49126"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.thenationalnews.com/business/energy/2022/09/15/who-is-shells-new-chief-executive-wael-sawan/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q113988833$f4f53373-4b36-3b8f-ca93-d537418c9c44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 100824067,
+            "id": "Q100824067"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-01-01"
+            }
+          ],
+          "P1365": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 15650949,
+                "id": "Q15650949"
+              }
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P2031": [
+      {
+        "id": "Q113988833$686904f0-45eb-34eb-5052-d98e57b83f51",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1997-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1997"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q113988833$068D2B70-7E5D-4248-8BEE-9DD9379466AF",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Wael Sawan, Vice President Commerical, Qatar Shell (4327237111).jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P1416": "affiliation",
+    "P19": "birthPlace",
+    "P27": "citizenship",
+    "P69": "education",
+    "P39": "position",
+    "P2031": "careerStart",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q100824067": {
+      "id": "Q100824067",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "fr": "directeur général de Shell",
+        "en": "Shell chief executive",
+        "es": "director general de Shell",
+        "de": "Geschäftsführer von Shell"
+      },
+      "descriptions": {
+        "fr": "fonction, à La Haye aux Pays-Bas, et à Londres au Royaume-Uni",
+        "es": "función, en La Haya, en los Países Bajos, y en Londres, en el Reino Unido",
+        "en": "occupation in The Hague, Netherlands, and in London, United Kingdom"
+      }
+    },
+    "Q114752493": {
+      "id": "Q114752493",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "en": "Davos 2014 Participant List",
+        "ar": "قائمة المشاركين في دافوس 2014",
+        "es": "Lista de participantes de Davos 2014",
+        "ja": "ダヴォス2014参加者一覧"
+      },
+      "descriptions": {}
+    },
+    "Q114835663": {
+      "id": "Q114835663",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Davos 2022 Participant List",
+        "ja": "ダヴォス2022参加者一覧"
+      },
+      "descriptions": {}
+    },
+    "Q154950": {
+      "id": "Q154950",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "ko": "로열 더치 쉘",
+        "fr": "Shell",
+        "es": "Shell",
+        "de": "Shell plc",
+        "ja": "シェル",
+        "ar": "شل",
+        "en": "Shell",
+        "zh": "荷兰皇家壳牌"
+      },
+      "descriptions": {
+        "de": "Mineralöl- und Erdgas-Unternehmen",
+        "en": "British multinational oil and gas company",
+        "es": "empresa petrolera multinacional británica",
+        "fr": "compagnie pétrolière anglo-néerlandaise",
+        "zh": "英国石油公司",
+        "ar": "شركة نفط بريطانية و هولندية",
+        "ja": "イギリスのエネルギー関連企業"
+      }
+    },
+    "Q15650949": {
+      "id": "Q15650949",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "de": "Ben van Beurden",
+        "en": "Ben van Beurden",
+        "fr": "Ben van Beurden",
+        "es": "Ben van Beurden"
+      },
+      "descriptions": {
+        "en": "Dutch chief executive",
+        "de": "niederländischer Unternehmensleiter",
+        "ar": "رئيس تنفيذي لشركة هولندي",
+        "fr": "dirigeant d'entreprise néerlandais",
+        "es": "director de empresa neerlandés"
+      }
+    },
+    "Q16": {
+      "id": "Q16",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "Canadá",
+        "ar": "كندا",
+        "de": "Kanada",
+        "en": "Canada",
+        "fr": "Canada",
+        "zh": "加拿大",
+        "ja": "カナダ",
+        "ko": "캐나다"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "zh": "北美洲國家",
+        "es": "país de América del Norte",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "en": "country in North America",
+        "ja": "北アメリカの国",
+        "ko": "북아메리카의 국가"
+      }
+    },
+    "Q201492": {
+      "id": "Q201492",
+      "fetchedAt": "2026-11-13T10:59:43Z",
+      "labels": {
+        "fr": "Université McGill",
+        "ko": "맥길 대학교",
+        "es": "Universidad McGill",
+        "de": "McGill University",
+        "ja": "マギル大学",
+        "en": "McGill University",
+        "ar": "جامعة مكغيل",
+        "zh": "麦吉尔大学"
+      },
+      "descriptions": {
+        "en": "English-language public research university in Montreal, Quebec, Canada",
+        "de": "englischsprachige Universität in Montreal, Kanada",
+        "fr": "université anglophone située à Montréal, au Québec, Canada",
+        "zh": "魁北克蒙特利爾的英語公立研究型大學",
+        "es": "universidad pública en Montreal, Quebec, Canadá",
+        "ja": "カナダの大学",
+        "ko": "캐나다 퀘벡주 몬트리올에 위치한 연구 중심 공립 대학",
+        "ar": "جامعة بحثية عامة ناطقة بالإنجليزية في مونتريال، كيبك، كندا"
+      }
+    },
+    "Q2544289": {
+      "id": "Q2544289",
+      "fetchedAt": "2026-11-13T11:15:36Z",
+      "labels": {
+        "de": "The National",
+        "en": "The National",
+        "ar": "ذا ناشيونال",
+        "fr": "The National",
+        "ko": "더 내셔널",
+        "zh": "國家報",
+        "ja": "ザ・ナショナル",
+        "es": "The National (Abu Dhabi)"
+      },
+      "descriptions": {
+        "en": "UAE newspaper",
+        "ar": "صحيفة إماراتية",
+        "zh": "於阿拉伯聯合大公國阿布達比出版的英語日報",
+        "fr": "quotidien privé de langue anglaise publié à Abou Dabi"
+      }
+    },
+    "Q2961975": {
+      "id": "Q2961975",
+      "fetchedAt": "2026-11-13T11:02:58Z",
+      "labels": {
+        "fr": "chef ou cheffe d'entreprise",
+        "en": "business executive",
+        "es": "ejecutivo de empresa",
+        "ar": "مسير أعمال",
+        "de": "Unternehmensleiter",
+        "ja": "企業重役",
+        "zh": "企业主管"
+      },
+      "descriptions": {
+        "fr": "personne dirigeant une entreprise, sans en être forcément le fondateur ou le propriétaire",
+        "es": "persona responsable de administrar un negocio, o un aspecto del mismo",
+        "en": "person responsible for running a business, or an aspect of it",
+        "de": "Leiter eines Unternehmens",
+        "ja": "企業において企業組織の経営・運営に責任を持つ人",
+        "zh": "負責經營某項業務或某方面的人",
+        "ar": "الشخص المسؤول عن إدارة الأعمال، أو جانب منها"
+      }
+    },
+    "Q3820": {
+      "id": "Q3820",
+      "fetchedAt": "2026-11-13T11:11:39Z",
+      "labels": {
+        "en": "Beirut",
+        "fr": "Beyrouth",
+        "es": "Beirut",
+        "ar": "بيروت",
+        "de": "Beirut",
+        "ja": "ベイルート",
+        "ko": "베이루트",
+        "zh": "贝鲁特"
+      },
+      "descriptions": {
+        "en": "capital and largest city of Lebanon",
+        "fr": "capitale du Liban",
+        "es": "capital del Líbano",
+        "de": "Hauptstadt des Libanon",
+        "ar": "عاصمة الجمهورية اللبنانية",
+        "ja": "レバノンの首都",
+        "zh": "黎巴嫩首都",
+        "ko": "레바논의 수도"
+      }
+    },
+    "Q49126": {
+      "id": "Q49126",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Harvard Business School",
+        "de": "Harvard Business School",
+        "es": "Escuela de Negocios Harvard",
+        "fr": "Harvard Business School",
+        "ja": "ハーバード・ビジネス・スクール",
+        "ko": "하버드 경영대학원",
+        "zh": "哈佛商学院",
+        "ar": "كلية هرفرد للأعمال"
+      },
+      "descriptions": {
+        "en": "business school in Boston, Massachusetts, USA",
+        "fr": "école de management",
+        "es": "escuela de la Universidad de Harvard",
+        "zh": "馬薩諸塞州波士頓的商學院",
+        "de": "US-amerikanische Business School",
+        "ja": "アメリカの大学院大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q822": {
+      "id": "Q822",
+      "fetchedAt": "2026-11-13T10:59:47Z",
+      "labels": {
+        "es": "Líbano",
+        "zh": "黎巴嫩",
+        "ar": "لبنان",
+        "de": "Libanon",
+        "en": "Lebanon",
+        "fr": "Liban",
+        "ko": "레바논",
+        "ja": "レバノン"
+      },
+      "descriptions": {
+        "ar": "دولة عربية تقع في غرب آسيا",
+        "fr": "État souverain du Proche-Orient indépendant depuis 1943",
+        "en": "country in West Asia",
+        "es": "país de Asia Occidental",
+        "ja": "西アジアの国",
+        "de": "Staat in Vorderasien",
+        "zh": "亞洲西部國家",
+        "ko": "서아시아의 국가"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Wael Sawan, Vice President Commerical, Qatar Shell (4327237111).jpg",
+    "fetchedAt": "2026-11-13T11:15:39Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wael_Sawan,_Vice_President_Commerical,_Qatar_Shell_(4327237111).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Wael_Sawan%2C_Vice_President_Commerical%2C_Qatar_Shell_%284327237111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wael_Sawan%2C_Vice_President_Commerical%2C_Qatar_Shell_%284327237111%29.jpg/960px-Wael_Sawan%2C_Vice_President_Commerical%2C_Qatar_Shell_%284327237111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 3072,
+    "height": 2048,
+    "mediaTimestamp": "2013-05-21T22:16:44Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Chatham House",
+    "credit": "Wael Sawan, Vice President Commerical, Qatar Shell",
+    "description": "Wael Sawan, Vice President Commerical, Qatar Shell",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/980cc9607da6f3dd5a7d2de8.jpg",
+    "cachedImageBytes": 67392,
+    "cachedImageSha256": "de58cf1ca6f0518a6a0b354479957e976fc09a7148187c27f54756906804ec4e"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 1,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

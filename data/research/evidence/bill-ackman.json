@@ -1,0 +1,822 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "bill-ackman",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "比尔·阿克曼",
+    "enName": "Bill Ackman",
+    "domain": "business",
+    "domains": [
+      "business"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "投资与资产管理",
+    "inclusionReason": "创办潘兴广场，以集中投资与股东行动介入大型上市公司的战略。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "regional",
+      "rationale": "创办潘兴广场，以集中投资与股东行动介入大型上市公司的战略。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Bill Ackman",
+    "requestedTitle": "Bill Ackman",
+    "resolvedTitle": "Bill Ackman",
+    "wikidataId": "Q1586871",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Bill_Ackman",
+      "title": "Bill Ackman",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:20Z",
+      "revisionId": 1383767442,
+      "revisionTimestamp": "2026-11-04T19:12:43Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1383767442",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1586871",
+      "title": "Q1586871",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:51Z",
+      "revisionId": 2568550501,
+      "revisionTimestamp": "2026-11-13T05:20:34Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "William Albert Ackman (born May 11, 1966) is an American billionaire hedge fund manager who is the founder and chief executive of Pershing Square Capital Management, an investment management company. He has been described as an activist investor. As of April 2026, Ackman's net worth was estimated at $8 billion by Bloomberg.\nA long-time donor to Democratic candidates and organizations, Ackman endorsed Donald Trump in the 2024 United States presidential election. Ackman has been an active supporter of Israel, particularly following the October 7 attacks, and has criticized the 2024 pro-Palestinian protests on university campuses.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "ar": "بيل أكمان",
+    "de": "Bill Ackman",
+    "en": "Bill Ackman",
+    "es": "Bill Ackman",
+    "fr": "Bill Ackman",
+    "ja": "ビル・アックマン",
+    "zh": "艾克曼",
+    "ko": "빌 애크먼"
+  },
+  "descriptions": {
+    "en": "American billionaire hedge fund manager (born 1966)",
+    "ja": "アメリカの投資家、ヘッジファンドのマネージャー",
+    "de": "US-amerikanischer Hedgefonds-Manager",
+    "es": "Gestor e inversor de fondos de cobertura estadounidenses",
+    "fr": "manager de hedge fund américain",
+    "ko": "미국의 헤지펀드 매니저 (1966~)"
+  },
+  "languageArticles": {
+    "ar": "بيل أكمان",
+    "de": "Bill Ackman",
+    "en": "Bill Ackman",
+    "es": "Bill Ackman",
+    "fr": "Bill Ackman",
+    "ja": "ビル・アックマン",
+    "ko": "빌 애크먼",
+    "zh": "比尔·阿克曼"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q1586871$E8AF41B8-D303-4F98-AF69-9EE8B3578B9A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q1586871$14A37217-86CC-4CBA-81AD-4F4D7B00F5C9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49123,
+            "id": "Q49123"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1586871$73FEBD41-BA15-4010-BC5C-CC554D3AF01C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49126,
+            "id": "Q49126"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1586871$85C835C3-DA98-437C-98CF-0406DEF91E29",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5901772,
+            "id": "Q5901772"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q1586871$519492F4-9BA1-4C05-9D2A-552239C6BF57",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1966-05-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1966-05-11"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q1586871$866EEED1-00A3-4BB3-9DDB-9019E575EA29",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1979607,
+            "id": "Q1979607"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1586871$e7f70132-4458-6d8b-9d9d-af2e2a0b114a",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43845,
+            "id": "Q43845"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1586871$b23b0701-47b6-ca50-58dc-c03db94a4ffa",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 43423468,
+            "id": "Q43423468"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1586871$DCD443DC-2B44-4C50-9DBE-73A2CFE70A74",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 131524,
+            "id": "Q131524"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1586871$893C5141-F014-4840-9F80-72AF4255E0E6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1416279,
+            "id": "Q1416279"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q1586871$8B37884B-1680-4933-B91B-720DE630B77C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q1586871$e0b3fefa-4077-2ed4-674f-da201b2b3f21",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.pershingsquareholdings.com"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q1586871$E1D47FD7-5664-4E6D-A78E-C4EC6B996AB4",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Bill Ackman (26410186110) (cropped).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-04-27T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016-04-27"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q1586871$39c1f4ef-4753-c2b3-d149-978bef8d0af1",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "Valeant Pharmaceuticals' Business Model (headshot).jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-04-27T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016-04-27"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q1586871$EF97F216-7C8C-480F-BA60-D7C0D59025CC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2957569,
+            "id": "Q2957569"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P69": "education",
+    "P569": "birthDate",
+    "P106": "occupation",
+    "P27": "citizenship",
+    "P856": "officialWebsite",
+    "P18": "image",
+    "P19": "birthPlace"
+  },
+  "relatedEntities": {
+    "Q131524": {
+      "id": "Q131524",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "es": "emprendedor",
+        "ar": "رائد أعمال",
+        "ko": "기업가",
+        "fr": "entrepreneur ou entrepreneuse",
+        "en": "entrepreneur",
+        "de": "Unternehmer",
+        "zh": "企业家",
+        "ja": "起業家"
+      },
+      "descriptions": {
+        "de": "Person, die ein Unternehmen eigenverantwortlich führt und dessen wirtschaftliches Risiko trägt",
+        "es": "persona que organiza y dirige un negocio, asumiendo su riesgo económico",
+        "en": "person who organizes and runs a business venture, assuming its business risks",
+        "fr": "personne qui organise et dirige une activité économique en assumant les risques",
+        "zh": "組織和經營企業的個人，承擔財務風險",
+        "ar": "الشخص الذي ينظم ويدير الأعمال التجارية",
+        "ja": "自ら事業を興す者に対する総称",
+        "ko": "기존에 존재하지 않았던 가치와 일자리를 만드는 사람"
+      }
+    },
+    "Q1416279": {
+      "id": "Q1416279",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "en": "financial analyst",
+        "de": "Finanzanalyst",
+        "ja": "証券アナリスト",
+        "es": "analista financiero",
+        "fr": "analyste financier ou analyste financière",
+        "ar": "محلل مالي",
+        "zh": "金融分析師",
+        "ko": "재무분석가"
+      },
+      "descriptions": {
+        "en": "person who performs financial analysis",
+        "fr": "profession",
+        "ar": "شخص تتمثل وظيفته في تقييم الحالة المالية لنشاط تجاري أو أصول لتحديد ما إذا كان استثمارًا سليمًا.",
+        "es": "persona que realiza análisis financieros",
+        "de": "Analyst, dessen Aufgabe überwiegend in der Finanzanalyse besteht"
+      }
+    },
+    "Q1979607": {
+      "id": "Q1979607",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "en": "financier",
+        "es": "financiero",
+        "fr": "financier",
+        "de": "Finanzier",
+        "ar": "خبير مالي",
+        "ja": "金融家",
+        "ko": "금융인",
+        "zh": "金融业者"
+      },
+      "descriptions": {
+        "en": "person who makes their living from investments; person who finances certain things",
+        "fr": "professionnel de la finance",
+        "es": "profesional de las finanzas",
+        "de": "Person, die über ein Vermögen verfügt und damit bestimmte Dinge finanziert",
+        "ar": "المُتخصص بمجال الاستثمارات"
+      }
+    },
+    "Q2957569": {
+      "id": "Q2957569",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "en": "Chappaqua",
+        "fr": "Chappaqua",
+        "es": "Chappaqua",
+        "de": "Chappaqua",
+        "ja": "チャパクア",
+        "ko": "채퍼콰",
+        "zh": "查帕闊",
+        "ar": "تشاباكوا"
+      },
+      "descriptions": {
+        "de": "Census-designated place im US-Bundesstaat New York",
+        "fr": "census-designated place de l'État de New York",
+        "en": "census-designated place in Westchester County, New York, United States",
+        "ko": "미국 뉴욕 주의 도시",
+        "ar": "قرية بولاية نيويورك",
+        "es": "lugar designado por el censo del condado de Westchester, estado de Nueva York, Estados Unidos",
+        "ja": "アメリカ合衆国ニューヨーク州の村"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q43423468": {
+      "id": "Q43423468",
+      "fetchedAt": "2026-11-13T11:06:35Z",
+      "labels": {
+        "en": "hedge fund manager",
+        "fr": "manager de hedge fund",
+        "es": "gestor de fondos de cobertura",
+        "de": "Hedgefonds-Manager",
+        "ja": "ヘッジファンド・マネージャー"
+      },
+      "descriptions": {
+        "fr": "gérant d'un fonds de couverture (hedge fund)",
+        "en": "profession: portfolio manager or analyst involved in running hedge funds",
+        "es": "Gerente de fondos de cobertura",
+        "ja": "ヘッジファンドを設立するためにプロのポートフォリオマネージャーやアナリストを雇用している金融会社または個人"
+      }
+    },
+    "Q43845": {
+      "id": "Q43845",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "es": "empresario",
+        "fr": "personnalité du monde des affaires",
+        "ja": "実業家",
+        "en": "businessperson",
+        "de": "Geschäftsmann",
+        "ko": "사업가",
+        "zh": "商人",
+        "ar": "صاحب أعمال"
+      },
+      "descriptions": {
+        "en": "person involved in activities for the purpose of generating revenue",
+        "es": "persona dedicada a la gestión de empresas o a los negocios",
+        "fr": "personne participant à des activités visant à générer des revenus",
+        "de": "Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften",
+        "ja": "生産・流通・販売などの過程における事業を行う人物",
+        "ar": "شخص يقوم بنشاطات تجارية بغرض الربح المادي",
+        "zh": "為了產生收入而參與活動的人",
+        "ko": "한 회사의 경영에 임하는 사람"
+      }
+    },
+    "Q49123": {
+      "id": "Q49123",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Harvard College",
+        "fr": "Harvard College",
+        "de": "Harvard College",
+        "es": "Harvard College",
+        "zh": "哈佛學院",
+        "ar": "كلية هارفارد",
+        "ja": "ハーバード・カレッジ",
+        "ko": "하버드 칼리지"
+      },
+      "descriptions": {
+        "en": "undergraduate college of Harvard University in Cambridge, Massachusetts",
+        "de": "Schule der Harvard-Universität an der ein grundständiges Studium abgeschlossen werden kann",
+        "zh": "哈佛大學本科生部",
+        "ar": "كلية في الولايات المتحدة الأمريكية",
+        "es": "college de pregrado de la Universidad de Harvard"
+      }
+    },
+    "Q49126": {
+      "id": "Q49126",
+      "fetchedAt": "2026-11-13T10:58:58Z",
+      "labels": {
+        "en": "Harvard Business School",
+        "de": "Harvard Business School",
+        "es": "Escuela de Negocios Harvard",
+        "fr": "Harvard Business School",
+        "ja": "ハーバード・ビジネス・スクール",
+        "ko": "하버드 경영대학원",
+        "zh": "哈佛商学院",
+        "ar": "كلية هرفرد للأعمال"
+      },
+      "descriptions": {
+        "en": "business school in Boston, Massachusetts, USA",
+        "fr": "école de management",
+        "es": "escuela de la Universidad de Harvard",
+        "zh": "馬薩諸塞州波士頓的商學院",
+        "de": "US-amerikanische Business School",
+        "ja": "アメリカの大学院大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5901772": {
+      "id": "Q5901772",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "en": "Horace Greeley High School",
+        "fr": "Horace Greeley High School",
+        "ja": "ホレース・グリーリー高等学校",
+        "es": "Instituto Horace Greeley"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في نيويورك، الولايات المتحدة",
+        "en": "high school in New York, United States",
+        "ja": "アメリカ合衆国のニュー・ヨーク州ウェストチェスター郡ニュー・キャッスル町チャパクアにある高等学校",
+        "es": "Instituto de Nueva York, Estados Unidos"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Bill Ackman (26410186110) (cropped).jpg",
+    "fetchedAt": "2026-11-13T11:14:54Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bill_Ackman_(26410186110)_(cropped).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bill_Ackman_%2826410186110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bill_Ackman_%2826410186110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 593,
+    "height": 549,
+    "mediaTimestamp": "2018-08-11T00:23:36Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Senate Democrats",
+    "credit": "Valeant Pharmaceuticals' Business Model",
+    "description": "Valeant Pharmaceuticals' Business Model: the Repercussions for Patients and the Health Care System",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/1b2d5898c92f2362382beaf0.jpg",
+    "cachedImageBytes": 80360,
+    "cachedImageSha256": "09f9f7d9210a161a700109734a94af637693ef50415e3ed10bed790e3df1d841"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 0,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

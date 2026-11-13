@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "ken-thompson",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "肯·汤普森",
+    "enName": "Ken Thompson",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "共同创建Unix并参与设计Go语言，对操作系统、编程工具和现代软件基础设施具有深远影响。",
+    "priority": 1,
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "共同创建Unix并参与设计Go语言，对操作系统、编程工具和现代软件基础设施具有深远影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:18Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Ken Thompson",
+    "requestedTitle": "Ken Thompson",
+    "resolvedTitle": "Ken Thompson",
+    "wikidataId": "Q1107006",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Ken_Thompson",
+      "title": "Ken Thompson",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:18Z",
+      "revisionId": 1378540759,
+      "revisionTimestamp": "2026-10-04T23:13:37Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1378540759",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1107006",
+      "title": "Q1107006",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:07Z",
+      "revisionId": 2567226792,
+      "revisionTimestamp": "2026-11-09T17:51:12Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Kenneth Lane Thompson (born February 4, 1943) is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C language, and was one of the creators and early developers of the Plan 9 operating system. Other notable contributions included his work on regular expressions and early computer text editors QED and ed, the definition of the UTF-8 encoding, and his work on computer chess that included the creation of endgame tablebases and the chess machine Belle. \nSince 2006, Thompson has worked at Google, where he co-developed the Go language. In 1983, he won the Turing Award with his long-term colleague Dennis Ritchie. He is considered one of the greatest computer programmers of all time.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "zh": "肯·汤普森",
+    "ko": "켄 톰프슨",
+    "ar": "كين تومسن",
+    "ja": "ケン・トンプソン",
+    "en": "Ken Thompson"
+  },
+  "descriptions": {
+    "de": "US-amerikanischer Programmierer und Informatiker, Mitentwickler des Unix-Betriebssystems",
+    "en": "American programmer and computer scientist, co-creator of the Unix operating system (born 1943)",
+    "fr": "informaticien américain",
+    "ar": "مبرمج أمريكي",
+    "es": "científico de computación estadounidense, creador del sistema operativo Unix",
+    "ja": "アメリカ合衆国の計算機科学者",
+    "zh": "美国计算机科学家，Unix操作系统联合创始人"
+  },
+  "languageArticles": {
+    "ar": "كين تومسن",
+    "de": "Ken Thompson",
+    "en": "Ken Thompson",
+    "es": "Ken Thompson",
+    "fr": "Ken Thompson",
+    "ja": "ケン・トンプソン",
+    "ko": "켄 톰프슨",
+    "zh": "肯·汤普逊"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q1107006$4CE17E68-A5A1-42E0-92A7-9B6990E78C9C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48183,
+                  "id": "Q48183"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q1107006$F14999EB-DB03-471F-80F4-48B64E303B07",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1943-02-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1943-02-04"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q1107006$D4FA8C96-DF73-4EF2-839D-DDBCF4852C3B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q1107006$a3545e2c-4103-38b8-8a3d-5bedb65898f9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 185667,
+            "id": "Q185667"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1983-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1983"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://amturing.acm.org/award_winners/thompson_4588371.cfm"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/thompson_4588371#140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$5E1D059B-9180-4BDC-855D-063B623845C2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 937629,
+            "id": "Q937629"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1998-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1998"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nationalmedals.org/laureates"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$C7466B42-79E4-433A-8709-D3C048B764D9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10354962,
+            "id": "Q10354962"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2003-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2003"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Pender Lecture",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-11-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-11-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$C5BAB5C8-4713-47C0-A583-8C4BA9EE13A6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5970360,
+            "id": "Q5970360"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1982-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1982"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/piore_rl.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$8FFB785C-6367-45CB-8A8A-58CF292200A8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 7850328,
+            "id": "Q7850328"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1999-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1999"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.computer.org./profiles/kenneth-thompson"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$299D785A-B27D-4D29-883D-CD1B48B04E71",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29545180,
+            "id": "Q29545180"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1997-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1997"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q1107006$022A273B-868B-40D9-95EE-0E5CE05DC1C4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4363133,
+            "id": "Q4363133"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.computer.org/volunteering/awards/pioneer/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "IEEE Computer Society Women of ENIAC Computer Pioneer Award",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-11-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-11-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$DECEE7DC-7EF5-4D9B-8AE0-0BBE27310EA7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 986509,
+            "id": "Q986509"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1983-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1983"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/thompson_4588371#149"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$4CD7661D-DAEE-433E-8788-010DC21BFED1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1640531,
+            "id": "Q1640531"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1990-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1990"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/hamming-rl.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$22428171-5C72-43D8-84B8-049095B5CB2F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 908745,
+            "id": "Q908745"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2011-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2011"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.japanprize.jp/en/prize_past_2011_prize01.html"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The Japan Prize Foundation",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-11-15T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2023-11-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$fe814ffe-4daf-a8c8-b827-5b00e407fc97",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1366018,
+            "id": "Q1366018"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q1107006$E27D2495-57EF-42AB-B06A-054D849C0003",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748039,
+            "id": "Q18748039"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2020-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2020"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q1107006$632C54F3-6095-4399-8B98-93007DE4275B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 34404,
+            "id": "Q34404"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-11-07"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q1107006$5E28128C-9682-48BC-B281-BAB3FEF301BB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$ECD4027E-3FA7-4972-B86E-E9FD11DD450D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q1107006$5B39A2C0-C82C-4CC5-B6EA-B44D47807C3A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 168756,
+            "id": "Q168756"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1965-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1965"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 787674,
+                "id": "Q787674"
+              }
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q1107006$C703ACC2-6B6C-44EA-8748-1B4277E60D92",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 168756,
+            "id": "Q168756"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1966-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1966"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 950900,
+                "id": "Q950900"
+              }
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q1107006$DACA4C29-04D3-47F0-ADBF-D4E624265F5B",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 270794,
+            "id": "Q270794"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$4FCBF006-9ECD-472D-9A19-2EA8F7743843",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$4A7D4E94-DEB9-46FF-8A10-494E1612C708",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1493021,
+            "id": "Q1493021"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$DDC1E5C5-57AE-4CE6-9815-0A73BA08314A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 127992,
+            "id": "Q127992"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2021-01-13T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2021-01-13"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.acm.org/media-center/2021/january/fellows-2020"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2024-06-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q1107006$06F8E4CD-453B-48EF-AF75-BC15072CDEB1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 217365,
+            "id": "Q217365"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2000-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2000"
+            }
+          ],
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1966-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1966"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$21281103-45d3-546f-8844-0ae5a0e19acc",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 95,
+            "id": "Q95"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q1107006$67696418-4982-099e-a75c-73120225a332",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11368,
+            "id": "Q11368"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.computerhistory.org/collections/catalog/102657921"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-01-03"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$91315bfc-4e31-0958-5b00-aa58e66d5e60",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2746807,
+            "id": "Q2746807"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.computerhistory.org/collections/catalog/102657921"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-01-03"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$18c2f011-4255-8fcd-70ab-e48caf3dfb29",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 37227,
+            "id": "Q37227"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$c8737451-48a2-fb5a-d8a4-50c49cdaf226",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 725779,
+            "id": "Q725779"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$9258b578-43c4-4e23-4ccb-ee495fa3d6fd",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 739186,
+            "id": "Q739186"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$227f09a3-4c51-f333-40ab-8d21d0f0085d",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 961733,
+            "id": "Q961733"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$c1e8c3f9-4cd0-44cd-7b07-487877c73105",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 283992,
+            "id": "Q283992"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q1107006$FAF11B80-52AC-4AD0-8C83-C80C4DF22342",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4027615,
+            "id": "Q4027615"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$3828488b-4099-1398-1826-05cfe265f7ce",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q1107006$CC4AEF64-2B90-4543-9886-F3C536B7E5BF",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Ken Thompson 02.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$496a8c7c-1118-41bd-88a5-07450e84bfcd",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Ken Thompson and Dennis Ritchie--1973.jpg"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 199693,
+                  "id": "Q199693"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q1107006$eef4848d-4975-fa20-a9f8-ba71b6737ffa",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "Ken Thompson, 2019.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q1107006$ea9003ec-46dd-4afd-664c-83108c264bc1",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://9p.io/cm/cs/who/ken/"
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q1107006$4e3cd1ec-4feb-e789-eeb5-706db4c5d19f",
+        "rank": "preferred",
+        "value": {
+          "type": "string",
+          "value": "http://cs.bell-labs.co/who/ken/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P166": "award",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P69": "education",
+    "P463": "membership",
+    "P108": "employer",
+    "P800": "notableWork",
+    "P101": "fieldOfWork",
+    "P18": "image",
+    "P856": "officialWebsite"
+  },
+  "relatedEntities": {
+    "Q10354962": {
+      "id": "Q10354962",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "en": "Harold Pender Award",
+        "es": "Premio Harold Pender",
+        "fr": "prix Harold-Pender",
+        "ja": "ハロルド・ペンダー賞",
+        "ar": "جائزة هارولد بندر",
+        "ko": "헤럴드 펜더 상",
+        "de": "Harold Pender Award",
+        "zh": "哈羅德·彭德獎"
+      },
+      "descriptions": {
+        "en": "American award for an engineer who has made significant contributions to society",
+        "fr": "prix américain d'ingénierie",
+        "de": "Auszeichnung für herausragende Ingenieure"
+      }
+    },
+    "Q11368": {
+      "id": "Q11368",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "ar": "يونكس",
+        "ja": "UNIX",
+        "ko": "유닉스",
+        "en": "Unix"
+      },
+      "descriptions": {
+        "en": "family of computer operating systems that derive from the original AT&T Unix from 1969",
+        "de": "Betriebssystemfamilie, die ihren Ursprung im UNIX-Betriebssystem (1969) von AT&T hat",
+        "es": "sistema operativo",
+        "ja": "コンピュータ・オペレーティング・システム",
+        "fr": "système d'exploitation",
+        "zh": "計算機操作系統",
+        "ar": "نظام تشغيل حاسوب",
+        "ko": "컴퓨터의 운영 체제 정보"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q127992": {
+      "id": "Q127992",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Association for Computing Machinery",
+        "ko": "ACM",
+        "es": "Asociación de Maquinaria Computacional",
+        "de": "Association for Computing Machinery",
+        "ja": "Association for Computing Machinery",
+        "ar": "جمعية آلات الحوسبة",
+        "en": "Association for Computing Machinery",
+        "zh": "计算机协会"
+      },
+      "descriptions": {
+        "en": "international learned society for computing",
+        "ar": "رابطة علمية وتعليمية للحوسبة",
+        "zh": "計算機的國際學會",
+        "de": "wissenschaftliche Gesellschaft für Informatik",
+        "ja": "ニューヨークに本部のあるコンピュータ科学分野の国際学会",
+        "fr": "société savante, maison d'édition",
+        "ko": "세계 최초의 컴퓨터 분야의 학술과 교육을 목적으로 하는 각 분야 학회들의 연합체",
+        "es": "sociedad Científica Internacional estadounidense para la Computación"
+      }
+    },
+    "Q1366018": {
+      "id": "Q1366018",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "de": "National Inventors Hall of Fame",
+        "en": "National Inventors Hall of Fame",
+        "fr": "National Inventors Hall of Fame",
+        "zh": "美國國家發明家名人堂",
+        "ja": "全米発明家殿堂",
+        "ar": "القاعة الوطنية للمخترعين المشاهير",
+        "es": "Salón Nacional de la Fama de los Inventores"
+      },
+      "descriptions": {
+        "en": "American award for inventors (1973–)",
+        "es": "premio estadounidense",
+        "de": "amerikanische Auszeichnungen für Erfinder in Form einer Ruhmeshalle (1973–)",
+        "fr": "musée honorant les scientifiques"
+      }
+    },
+    "Q1493021": {
+      "id": "Q1493021",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "National Academy of Engineering",
+        "en": "National Academy of Engineering",
+        "fr": "Académie nationale d'ingénierie des États-Unis",
+        "ja": "全米技術アカデミー",
+        "zh": "美国国家工程院",
+        "ar": "الأكاديمية الوطنية للهندسة",
+        "es": "Academia Nacional de Ingeniería",
+        "ko": "미국 국립 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "engineering branch of the United States National Academies",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a la ingeniería",
+        "fr": "organisation privée à but non lucratif"
+      }
+    },
+    "Q1640531": {
+      "id": "Q1640531",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "de": "Richard-W.-Hamming-Medaille",
+        "ja": "ハミングメダル",
+        "fr": "médaille Richard-Hamming",
+        "en": "IEEE Richard W. Hamming Medal",
+        "ar": "وسام ريتشارد هامينغ",
+        "ko": "IEEE 리처드 W. 해밍 메달",
+        "zh": "IEEE漢明獎"
+      },
+      "descriptions": {
+        "fr": "récompense décernée par l'IEEE",
+        "en": "prize for exceptional contributions to information sciences, systems, and technology",
+        "de": "Auszeichnung in der Informationstechnik",
+        "ar": "جائزة تمنح سنويًا إلى ثلاثة أشخاص"
+      }
+    },
+    "Q168756": {
+      "id": "Q168756",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "es": "Universidad de California en Berkeley",
+        "ar": "جامعة كاليفورنيا، بركلي",
+        "fr": "Université de Californie à Berkeley",
+        "ko": "캘리포니아 대학교 버클리",
+        "de": "University of California, Berkeley",
+        "ja": "カリフォルニア大学バークレー校",
+        "en": "University of California, Berkeley",
+        "zh": "加州大學柏克萊分校"
+      },
+      "descriptions": {
+        "en": "public university in Berkeley, California, USA",
+        "fr": "université publique américaine située en Californie",
+        "de": "Universität in Berkeley, Kalifornien",
+        "zh": "美国加利福尼亚州伯克利的大学",
+        "es": "universidad pública de Estados Unidos",
+        "ar": "جامعة في الولايات المتحدة",
+        "ja": "アメリカ・カリフォルニア州にある州立大学",
+        "ko": "미국의 공립 대학교"
+      }
+    },
+    "Q185667": {
+      "id": "Q185667",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "prix Turing",
+        "ko": "튜링상",
+        "es": "Premio Turing",
+        "de": "Turing Award",
+        "ja": "チューリング賞",
+        "en": "Turing Award",
+        "zh": "图灵奖",
+        "ar": "جائزة تورنغ"
+      },
+      "descriptions": {
+        "en": "computer science award",
+        "de": "Informatikpreis",
+        "zh": "計算機科學獎項",
+        "es": "Premio ciencias de la computación",
+        "fr": "prix en informatique",
+        "ar": "جائزة تُمنح للمساهمات البارزة في علم الحاسوب",
+        "ja": "計算機科学の賞"
+      }
+    },
+    "Q18748039": {
+      "id": "Q18748039",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ACM Fellow",
+        "ja": "ACMフェロー",
+        "ar": "زمالة جمعية آلات الحوسبة",
+        "es": "ACM Fellow",
+        "de": "ACM Fellow",
+        "zh": "ACM會士",
+        "ko": "ACM 석학회원"
+      },
+      "descriptions": {
+        "en": "award granted by the Association for Computing Machinery (ACM)",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة",
+        "ja": "計算機協会 (ACM)の優れたメンバーに与えられる賞と称号"
+      }
+    },
+    "Q199693": {
+      "id": "Q199693",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "fr": "Wikipédia en catalan",
+        "ko": "카탈루냐어 위키백과",
+        "es": "Wikipedia en catalán",
+        "de": "katalanischsprachige Wikipedia",
+        "ja": "カタルーニャ語版ウィキペディア",
+        "en": "Catalan Wikipedia",
+        "ar": "ويكيبيديا الكتلانية",
+        "zh": "加泰羅尼亞語維基百科"
+      },
+      "descriptions": {
+        "es": "edición en idioma catalán de Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in katalanischer Sprache",
+        "en": "Catalan-language edition of Wikipedia",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الكتالونية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科加泰罗尼亚语版",
+        "ja": "ウィキペディアのカタルーニャ語版"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q217365": {
+      "id": "Q217365",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Laboratoires Bell",
+        "ko": "벨 연구소",
+        "es": "Bell Labs",
+        "de": "Bell Laboratories",
+        "ja": "ベル研究所",
+        "ar": "مختبرات بل",
+        "en": "Bell Labs",
+        "zh": "貝爾實驗室"
+      },
+      "descriptions": {
+        "de": "US-amerikanische Forschungseinrichtung",
+        "en": "research and scientific development company",
+        "es": "empresa de investigación y desarrollo científico",
+        "ko": "미국의 통신 연구소",
+        "ja": "アメリカ合衆国の研究所",
+        "fr": "institut de recherche aux États-Unis",
+        "ar": "معامل خاصة تنشط في مجال الأبحاث تعمل حاليا لصالح شركة نوكيا"
+      }
+    },
+    "Q270794": {
+      "id": "Q270794",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Académie américaine des sciences",
+        "es": "Academia Nacional de Ciencias de los Estados Unidos",
+        "de": "National Academy of Sciences",
+        "ja": "米国科学アカデミー",
+        "en": "National Academy of Sciences",
+        "ar": "الأكاديمية الوطنية للعلوم",
+        "zh": "美国国家科学院",
+        "ko": "미국 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "science branch of the United States National Academies",
+        "fr": "académie nationale des sciences des États-Unis",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a las ciencias",
+        "de": "Teil der US-amerikanischen National Academies of Sciences, Engineering, and Medicine",
+        "ja": "アメリカ合衆国の科学アカデミー",
+        "ar": "دار نشر",
+        "zh": "科学家组织",
+        "ko": "미국의 비영리 비정부 조직"
+      }
+    },
+    "Q2746807": {
+      "id": "Q2746807",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Belle",
+        "en": "Belle",
+        "ko": "벨",
+        "de": "Belle",
+        "es": "Belle",
+        "ja": "ベル"
+      },
+      "descriptions": {
+        "en": "chess computer",
+        "fr": "ordinateur d'échecs",
+        "ko": "체스 컴퓨터",
+        "de": "früher Schachcomputer"
+      }
+    },
+    "Q283992": {
+      "id": "Q283992",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Ed",
+        "es": "Ed",
+        "en": "ed",
+        "de": "ed",
+        "ja": "ed",
+        "ar": "إد",
+        "ko": "ed",
+        "zh": "Ed (文本编辑器)"
+      },
+      "descriptions": {
+        "en": "line-oriented text editor",
+        "de": "Texteditor",
+        "es": "editor de texto",
+        "fr": "éditeur standard UNIX développé par Ken Thompson en 1969. Pour la version GNU, voyez Q86987640",
+        "ja": "テキストエディタ",
+        "ko": "라인 에디터"
+      }
+    },
+    "Q29545180": {
+      "id": "Q29545180",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "en": "Computer History Museum Fellow",
+        "es": "fellow del Museo Histórico de Ordenadores",
+        "ar": "زمالة متحف تاريخ الحاسوب",
+        "ja": "コンピュータ歴史博物館フェロー"
+      },
+      "descriptions": {
+        "en": "fellowship",
+        "ar": "زمالة"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q34404": {
+      "id": "Q34404",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "zh": "新奥尔良",
+        "es": "Nueva Orleans",
+        "ar": "نيو أورلينز",
+        "ko": "뉴올리언스",
+        "fr": "La Nouvelle-Orléans",
+        "de": "New Orleans",
+        "ja": "ニューオーリンズ",
+        "en": "New Orleans"
+      },
+      "descriptions": {
+        "en": "largest city of the state of Louisiana, United States",
+        "fr": "plus grande ville de la Louisiane, aux États-Unis",
+        "de": "Stadt im US-Bundesstaat Louisiana",
+        "es": "ciudad más poblada del estado de Luisiana, Estados Unidos de América",
+        "ja": "アメリカ合衆国ルイジアナ州の都市",
+        "zh": "美國路易斯安那州最大城市、港口城市",
+        "ar": "مدينة في الولايات المتحدة",
+        "ko": "미국 루이지애나주에 있는 도시"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q37227": {
+      "id": "Q37227",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "ar": "غو",
+        "ko": "Go",
+        "en": "Go"
+      },
+      "descriptions": {
+        "en": "programming language developed by Google and the open-source community",
+        "fr": "langage de programmation",
+        "es": "lenguaje de programación",
+        "de": "Programmiersprache",
+        "zh": "編程語言",
+        "ja": "プログラミング言語",
+        "ar": "لغة برمجة",
+        "ko": "구글에서 개발한 프로그래밍 언어"
+      }
+    },
+    "Q4027615": {
+      "id": "Q4027615",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "es": "ciencias de la información",
+        "en": "informatics",
+        "ar": "معلوماتية",
+        "ja": "インフォマティクス",
+        "ko": "컴퓨터 과학",
+        "fr": "sciences de l'information",
+        "zh": "信息学"
+      },
+      "descriptions": {
+        "en": "study of computational systems, especially those for data storage and retrieval",
+        "es": "ciencia que estudia la práctica del procesamiento de información y la ingeniería de los sistemas de información",
+        "fr": "domaine académique",
+        "zh": "學術領域",
+        "de": "Studium von Computersystemen, insbesondere solchen zur Datenspeicherung und -abfrage",
+        "ar": "دراسة الأنظمة الحاسوبية، وخاصة تلك المستخدمة في تخزين البيانات واسترجاعها",
+        "ja": "情報学などの関連分野"
+      }
+    },
+    "Q4363133": {
+      "id": "Q4363133",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Computer Pioneer Award",
+        "de": "Computer Pioneer Award",
+        "fr": "Computer Pioneer Award",
+        "zh": "計算機先驅獎",
+        "ja": "コンピュータパイオニア賞",
+        "ko": "컴퓨터 파이오니어 상",
+        "ar": "جائزة رواد الحاسوب"
+      },
+      "descriptions": {
+        "de": "für herausragende Leistungen im Bereich Computer",
+        "en": "award conferred by the IEEE Computer Society",
+        "fr": "prix relatif à l'informatique"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q48183": {
+      "id": "Q48183",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "德語維基百科",
+        "es": "Wikipedia en alemán",
+        "ar": "ويكيبيديا الألمانية",
+        "ko": "독일어 위키백과",
+        "fr": "Wikipédia en allemand",
+        "de": "deutschsprachige Wikipedia",
+        "ja": "ドイツ語版ウィキペディア",
+        "en": "German Wikipedia"
+      },
+      "descriptions": {
+        "en": "German-language edition of Wikipedia",
+        "es": "versión en alemán de la Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in deutscher Sprache",
+        "fr": "édition de Wikipédia",
+        "ko": "위키백과 독일어판",
+        "ar": "النسخة الألمانية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科德语版",
+        "ja": "ウィキペディアのドイツ語版"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q5970360": {
+      "id": "Q5970360",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "en": "IEEE Emanuel R. Piore Award",
+        "de": "IEEE Emanuel R. Piore Award",
+        "fr": "prix IEEE Emanuel R. Piore",
+        "es": "IEEE Emanuel R. Piore Award",
+        "ja": "IEEEエマニエル・R・ピオレ賞",
+        "ko": "IEEE 임마누엘 R Piore 상",
+        "zh": "IEEE皮奧爾獎"
+      },
+      "descriptions": {
+        "en": "award for contributions to information processing systems in relation to computer science (1977-2012)"
+      }
+    },
+    "Q725779": {
+      "id": "Q725779",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "fr": "Plan 9",
+        "ko": "플랜 9 (운영체제)",
+        "es": "Plan 9 from Bell Labs",
+        "en": "Plan 9",
+        "de": "Plan 9",
+        "ja": "Plan 9",
+        "zh": "貝爾實驗室九號計畫",
+        "ar": "بلان 9"
+      },
+      "descriptions": {
+        "en": "distributed operating system designed by Bell Labs as an UNIX's intended successor",
+        "de": "Betriebssystem von den Bell Laboratories",
+        "es": "sistema operativo",
+        "fr": "système d'exploitation distribué conçu par Bell Labs comme un potentiel successeur d'UNIX",
+        "ar": "نظام التشغيل من مختبرات بل"
+      }
+    },
+    "Q739186": {
+      "id": "Q739186",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "ko": "멀틱스",
+        "ar": "مولتكس",
+        "zh": "多工資訊與計算系統",
+        "es": "Multics",
+        "en": "Multics"
+      },
+      "descriptions": {
+        "fr": "système d’exploitation",
+        "en": "operating system",
+        "es": "sistema operativo",
+        "de": "Weiterentwicklung des MIT Compatible Time-Sharing System (CTSS), Vorläufer von Unix",
+        "zh": "操作系統",
+        "ar": "نظام تشغيل",
+        "ko": "현대의 운영 체제에 큰 영향을 미친 초기 시분할 운영 체제의 하나",
+        "ja": "オペレーティングシステム"
+      }
+    },
+    "Q7850328": {
+      "id": "Q7850328",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "en": "Tsutomu Kanai Award",
+        "ko": "츠토무 카나이 상",
+        "zh": "金井务奖"
+      },
+      "descriptions": {
+        "en": "Technical award"
+      }
+    },
+    "Q787674": {
+      "id": "Q787674",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "baccalauréat ès sciences",
+        "en": "Bachelor of Science",
+        "zh": "理學士",
+        "es": "graduado en ciencias",
+        "de": "Bachelor of Science",
+        "ja": "学士 (理学)",
+        "ar": "بكالوريوس العلوم",
+        "ko": "이학사"
+      },
+      "descriptions": {
+        "de": "Absolventen der Natur-, Human und Wirtschaftswissenschaften, der Ingenieurwissenschaften (meist von Universitäten), Mathematik sowie (in aller Regel) der Informatik",
+        "ar": "نوع درجة البكالوريوس",
+        "en": "type of bachelor's degree",
+        "zh": "本科學位",
+        "es": "tipo de grado universitario",
+        "fr": "grade universitaire anglo-saxon",
+        "ko": "학술적 지위",
+        "ja": "学士の学位の一つ"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q908745": {
+      "id": "Q908745",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "fr": "prix japonais",
+        "es": "Premio Japón",
+        "en": "Japan Prize",
+        "de": "Japan-Preis",
+        "ja": "日本国際賞",
+        "zh": "日本国际奖",
+        "ar": "جائزة اليابان",
+        "ko": "일본국제상"
+      },
+      "descriptions": {
+        "en": "Japanese science award",
+        "ja": "日本の賞",
+        "fr": "prix en sciences et technologies",
+        "zh": "日本设立奖项"
+      }
+    },
+    "Q937629": {
+      "id": "Q937629",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "es": "Medalla Nacional de Tecnología e Innovación",
+        "de": "National Medal of Technology",
+        "en": "National Medal of Technology and Innovation",
+        "fr": "National Medal of Technology and Innovation",
+        "ja": "アメリカ国家技術賞",
+        "zh": "國家技術與創新獎章 (美國)",
+        "ar": "القلادة الوطنية للتكنولوجيا والابتكار",
+        "ko": "미국 국가 기술혁신 메달"
+      },
+      "descriptions": {
+        "en": "science award",
+        "fr": "prix scientifique",
+        "de": "Wissenschaftspreis",
+        "es": "premio científico"
+      }
+    },
+    "Q95": {
+      "id": "Q95",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "ar": "جوجل",
+        "ko": "구글",
+        "en": "Google",
+        "de": "Google",
+        "es": "Google",
+        "fr": "Google",
+        "zh": "Google",
+        "ja": "Google"
+      },
+      "descriptions": {
+        "fr": "multinationale américaine spécialisée dans les technologies, filiale d'Alphabet Inc.",
+        "de": "US-amerikanisches multinationales Technologieunternehmen, eine Tochtergesellschaft von Alphabet Inc.",
+        "es": "empresa tecnológica multinacional estadounidense, filial de Alphabet Inc.",
+        "zh": "美國的跨國科技企業",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "ko": "미국의 IT 기업, 검색엔진 서비스",
+        "ar": "شركة إنترنت وتكنولوجيا أمريكية متعددة الجنسيات",
+        "en": "American multinational technology company, a subsidiary of Alphabet Inc."
+      }
+    },
+    "Q950900": {
+      "id": "Q950900",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "master of science",
+        "en": "Master of Science",
+        "zh": "理學碩士",
+        "de": "Master of Science",
+        "ja": "修士（理学）",
+        "es": "maestría en ciencias",
+        "ar": "ماجستير العلوم",
+        "ko": "이학석사"
+      },
+      "descriptions": {
+        "en": "master's degree awarded for post-graduate study in the sciences",
+        "es": "programa de posgrado que se imparte en una institución de educación superior",
+        "fr": "grade universitaire des études scientifiques existant notamment dans les pays de tradition universitaire anglo-saxonne",
+        "zh": "授予理學研究生的碩士學位",
+        "ar": "شهادة جامعية عليا تُمنح للمتخصصين في دراسة العلوم، وفي بعض الأحيان للمتخصصين بالعلوم الاجتماعية",
+        "ja": "大学院修了で受ける学位"
+      }
+    },
+    "Q961733": {
+      "id": "Q961733",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "de": "DBM",
+        "en": "dbm",
+        "fr": "dbm",
+        "ja": "DBM",
+        "zh": "Dbm",
+        "es": "Dbm",
+        "ko": "DBM"
+      },
+      "descriptions": {
+        "fr": "moteur de base de données, à l’origine écrit par Ken Thompson, et publié par AT&T en 1979.",
+        "en": "key-value database"
+      }
+    },
+    "Q986509": {
+      "id": "Q986509",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "ja": "ACMソフトウェアシステム賞",
+        "en": "ACM Software System Award",
+        "de": "ACM Software System Award",
+        "fr": "prix ACM Software System",
+        "zh": "計算機協會軟件系統獎",
+        "ar": "جائزة نظام البرمجيات",
+        "ko": "ACM 소프트웨어 시스템 상"
+      },
+      "descriptions": {
+        "de": "Preis der Association for Computing Machinery",
+        "en": "award by the Association for Computing Machinery",
+        "zh": "計算機協會頒發的獎項",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Ken Thompson 02.jpg",
+    "fetchedAt": "2026-11-13T11:05:15Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ken_Thompson_02.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ken_Thompson_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ken_Thompson_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 220,
+    "height": 255,
+    "mediaTimestamp": "2010-01-05T15:56:59Z",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "author": "Unknown authorUnknown author",
+    "credit": "http://www.catb.org/~esr/jargon/html/U/Unix.html",
+    "description": "Unix creator Ken Thompson",
+    "attributionRequired": "false",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/3b72ada1c8cd5bc652415778.jpg",
+    "cachedImageBytes": 39515,
+    "cachedImageSha256": "22e652c4ecbd9c6955fa3f2fc7534fa88d8a0aa78ebcbadc86be66a94bb9de13"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 17,
+    "referenceUrls": 12,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

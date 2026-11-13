@@ -1,0 +1,3226 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "robert-kahn",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "罗伯特·卡恩",
+    "enName": "Robert Kahn",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "共同设计TCP/IP协议并推动互联网架构发展，奠定异构计算机网络互联的重要技术基础。",
+    "priority": 1,
+    "influence": {
+      "stars": 5,
+      "scope": "global",
+      "rationale": "共同设计TCP/IP协议并推动互联网架构发展，奠定异构计算机网络互联的重要技术基础。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:18Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Robert Kahn",
+    "requestedTitle": "Robert Kahn (computer scientist)",
+    "resolvedTitle": "Robert Kahn (computer scientist)",
+    "wikidataId": "Q62843",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "wikipedia-pageprops"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)",
+      "title": "Robert Kahn (computer scientist)",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:18Z",
+      "revisionId": 1378626569,
+      "revisionTimestamp": "2026-10-05T08:51:28Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1378626569",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62843",
+      "title": "Q62843",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:25:18Z",
+      "revisionId": 2516978589,
+      "revisionTimestamp": "2026-07-13T08:33:46Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Robert Elliot Kahn (born December 23, 1938) is an American electrical engineer who, along with Vint Cerf, first proposed the Transmission Control Protocol (TCP) and the Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet.\nIn 2004, Kahn won the Turing Award with Vint Cerf for their work on TCP/IP.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "zh": "罗伯特·卡恩",
+    "fr": "Robert E. Kahn",
+    "ko": "로버트 칸",
+    "es": "Bob Kahn",
+    "en": "Bob Kahn",
+    "de": "Robert E. Kahn",
+    "ja": "ロバート・カーン",
+    "ar": "روبرت خان"
+  },
+  "descriptions": {
+    "fr": "informaticien américain",
+    "en": "American Internet pioneer, computer scientist (born 1938)",
+    "de": "amerikanischer Informatiker",
+    "ar": "عالم حاسوب أمريكي",
+    "es": "pionero estadounidense de Internet, ingeniero e informático"
+  },
+  "languageArticles": {
+    "ar": "روبرت خان",
+    "de": "Robert E. Kahn",
+    "en": "Robert Kahn (computer scientist)",
+    "es": "Robert Kahn",
+    "fr": "Robert Elliot Kahn",
+    "ja": "ロバート・カーン",
+    "ko": "로버트 칸",
+    "zh": "罗伯特·卡恩"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q62843$61701CD3-FF75-4E0A-B5FA-563A5D9CC258",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.nytimes.com/2012/05/25/opinion/keep-the-internet-open.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P19": [
+      {
+        "id": "q62843$95DF87CC-CBD7-47D3-B3EA-1F1405D76194",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 60,
+            "id": "Q60"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-12-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "q62843$29936BAE-4C16-4C9A-B7B4-1264D73491D6",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1938-12-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1938-12-23"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2014-04-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://ieeexplore.ieee.org/iel5/26/23883/01093722.pdf?arnumber=1093722"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.britannica.com/EBchecked/topic/932776/Robert-Elliot-Kahn"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.nndb.com/lists/503/000063314/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q62843$915AD398-B7BC-4FE0-8EBB-3A266739D376",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q62843$e62b9a4c-4604-0251-dc69-32e5d38fcd47",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q62843$3E70D141-79D2-437E-9274-DABB2C4F94CB",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 185667,
+            "id": "Q185667"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2004-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2004"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://amturing.acm.org/award_winners/kahn_4598637.cfm"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/kahn_4598637#140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$2c86fd07-4b35-68ec-dc1e-2ff78237f7cf",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 19833602,
+            "id": "Q19833602"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://winners.webbyawards.com/2006/specialachievement/175/dr-robert-kahn"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Webby Lifetime Achievement: Dr. Robert Kahn",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$3EA258D8-6B94-4708-8A97-6118AD25B0C8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3320352,
+            "id": "Q3320352"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2002-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2002"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2002-lawrence-roberts-robert-kahn-vinton-cerf-y-tim-berners-lee.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$43B26002-F072-44E7-A132-DA4C5E4D549F",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 10354962,
+            "id": "Q10354962"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://events.seas.upenn.edu/distinguished-lectures/pender-lecture/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$57FA6141-1CF7-4593-A869-71329660B356",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 31323,
+            "id": "Q31323"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1992-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1992"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.eff.org/awards/past-winners"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "EFF Awards: Past Winners",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-06-28T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$cfa4a11e-4615-1276-b844-f28143d6b3b7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4273323,
+            "id": "Q4273323"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q62843$CF273BA9-8BFF-4672-A6C1-3E5635D7BE82",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1063447,
+            "id": "Q1063447"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2001-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2001"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nae.edu/55037/page2001"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "2001 Recipients of the Charles Stark Draper Prize",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$9E495AAF-C53D-4ED1-8EFA-0E240DBABB10",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 17144,
+            "id": "Q17144"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2005-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2005"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://crsreports.congress.gov/product/pdf/R/R47639"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$BADAA83F-2D87-404A-BD3B-28AECCBACF19",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 937629,
+            "id": "Q937629"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1997-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1997"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nationalmedals.org/laureates"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$8982337B-73F0-471C-9A00-201A6A2AC030",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2086833,
+            "id": "Q2086833"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1997-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1997"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/bell-rl.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$27C623F3-9CF3-4E3A-B2C8-E7881CD01C05",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 840924,
+            "id": "Q840924"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1993-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1993"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q62843$18E10E5A-DA87-41FA-ABDA-BD83A76C85A9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 473292,
+            "id": "Q473292"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1994-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1994"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q62843$5B3236FD-EF9A-4A31-A65D-149EC391B3BA",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1366018,
+            "id": "Q1366018"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2006-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2006"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.invent.org/inductees/robert-e-kahn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$eb19a837-4bcb-e399-6838-fa0220d7b464",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6055547,
+            "id": "Q6055547"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2012-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2012"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.internethalloffame.org/inductee/robert-kahn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$FDA132E6-A698-4DD8-A089-28593EAF095C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29545180,
+            "id": "Q29545180"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$8A700108-148F-4272-A31C-5A48A93D5652",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4363133,
+            "id": "Q4363133"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1996-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1996"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.computer.org/volunteering/awards/pioneer"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "IEEE Computer Society Computer Pioneer Award in Honor of the Women of ENIAC Award",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-04-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$68ADEA74-4CEE-4A16-909A-E867F8C83AD1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 817496,
+            "id": "Q817496"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$F9F6C773-64DE-4E8A-A1AF-6735BD4254A1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 908745,
+            "id": "Q908745"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.japanprize.jp/en/prize_past_2008_prize01.html"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "The Japan Prize Foundation",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$B7A84A34-63FB-4064-A242-7F3ADF71757C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748039,
+            "id": "Q18748039"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2001-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2001"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/kahn_4598637#158"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$952c47d9-4e53-6919-1885-d4da86b37180",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 62505651,
+            "id": "Q62505651"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://inf.ethz.ch/de/departement/auszeichnungen-und-rankings/ehrendoktoren.html"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2022-11-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$5f6afa6d-403c-85e2-e88f-8d82b44b8619",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 42309226,
+            "id": "Q42309226"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$99516582-4d74-e0b5-fd5e-43491dcb3af5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 986509,
+            "id": "Q986509"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1991-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1991"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/award_winners/kahn_4598637#149"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$3716e2e0-4123-46ce-3bbb-90fe18cd9e44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 329157,
+            "id": "Q329157"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$4da5fac5-4138-d980-952f-5003356700ea",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4377107,
+            "id": "Q4377107"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1992-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1992"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/kobayashi-rl.pdf"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2023-06-30T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$8bdee964-4fbc-56fe-b54b-a6d5e66e0685",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15995115,
+            "id": "Q15995115"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1986-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1986"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.computer.org/volunteering/awards/goode"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$ef1f4bdd-495b-484f-7904-bb602140c347",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18748042,
+            "id": "Q18748042"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1990-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1990"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$367bdb52-4df3-b6d4-039f-aa2deb6ac5ab",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21662156,
+            "id": "Q21662156"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://alumni.princeton.edu/our-community/awards/james-madison-medal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$d249d336-4c84-fbd5-3163-c31dca719d4f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 678414,
+            "id": "Q678414"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://corporate-awards.ieee.org/recipient/robert-kahn/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q62843$5C1C97E9-9368-40E5-BC01-821668396777",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11920,
+                  "id": "Q11920"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$42D0F66F-1EB3-4C03-8540-98EB859F9420",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 205375,
+            "id": "Q205375"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 53464,
+                  "id": "Q53464"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$11A940BB-AB61-4295-BB98-D73DCDE8C335",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1326886,
+            "id": "Q1326886"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$ED27DCCC-20CD-4F67-9560-CF4227B11156",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 715679,
+            "id": "Q715679"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.nndb.com/honors/032/000111696/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.nndb.com/company/753/000114411/"
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.nndb.com/company/260/000058086/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$c5b4f6b1-fc01-44dc-bf69-72f61015ab9e",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 81096,
+            "id": "Q81096"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3123304,
+                  "id": "Q3123304"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q62843$7EC46EF0-80F7-41C9-8338-F57DA47FF268",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1093910,
+            "id": "Q1093910"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1960-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1960"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 163727,
+                "id": "Q163727"
+              }
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q62843$639F0F84-C25E-465F-9DDE-9819697E13EF",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21578,
+            "id": "Q21578"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1962-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1962"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 183816,
+                "id": "Q183816"
+              }
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q62843$65E57074-2188-4364-9BCE-FE709EDED01D",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21578,
+            "id": "Q21578"
+          }
+        },
+        "qualifiers": {
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+1964-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "1964"
+            }
+          ],
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 849697,
+                "id": "Q849697"
+              }
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q62843$3F55FF5C-FE73-42C8-ADBC-941D1E2D4B44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49108,
+            "id": "Q49108"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P463": [
+      {
+        "id": "Q62843$B2871326-848B-48D3-B716-6B2B46A83887",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 270794,
+            "id": "Q270794"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2015-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2015"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1373513,
+                  "id": "Q1373513"
+                }
+              }
+            ]
+          },
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.nasonline.org/directory-entry/robert-e-kahn-qeketd/"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "Robert E. Kahn – NAS",
+                  "language": "en"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-05-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$2D36DA3E-42E4-44EE-ACC3-27CF07549240",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463303,
+            "id": "Q463303"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$AFBDC020-E000-4BFA-BD95-2C5637CD11A1",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1493021,
+            "id": "Q1493021"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q62843$C6732906-96D5-4ECA-95BD-A3EE51631ECC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 127992,
+            "id": "Q127992"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2001-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2001"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://awards.acm.org/fellows/award-recipients"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2024-06-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q62843$5a6f1020-40d6-e354-ed6c-1140e3dc5f04",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 177524,
+            "id": "Q177524"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.computerhistory.org/collections/catalog/102657973"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2016-12-21T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$2ba5a0a9-4206-5346-9fce-a3ea082dd0c2",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8803,
+            "id": "Q8803"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.computerhistory.org/collections/catalog/102657973"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2016-12-21T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q62843$61bfe984-4850-c107-7ec2-6ddc19aaeaa0",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 81414,
+            "id": "Q81414"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "http://www.computerhistory.org/collections/catalog/102657973"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2016-12-21T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P512": [
+      {
+        "id": "Q62843$8d10322e-461e-6821-747e-9852406f7df9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 752297,
+            "id": "Q752297"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q62843$F5BFAD6C-862C-45BC-9298-7E50FC267143",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Bob Kahn.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2013-05-14T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2013-05-14"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P101": "fieldOfWork",
+    "P166": "award",
+    "P106": "occupation",
+    "P69": "education",
+    "P108": "employer",
+    "P463": "membership",
+    "P800": "notableWork",
+    "P512": "academicDegree",
+    "P18": "image"
+  },
+  "relatedEntities": {
+    "Q10354962": {
+      "id": "Q10354962",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "en": "Harold Pender Award",
+        "es": "Premio Harold Pender",
+        "fr": "prix Harold-Pender",
+        "ja": "ハロルド・ペンダー賞",
+        "ar": "جائزة هارولد بندر",
+        "ko": "헤럴드 펜더 상",
+        "de": "Harold Pender Award",
+        "zh": "哈羅德·彭德獎"
+      },
+      "descriptions": {
+        "en": "American award for an engineer who has made significant contributions to society",
+        "fr": "prix américain d'ingénierie",
+        "de": "Auszeichnung für herausragende Ingenieure"
+      }
+    },
+    "Q1063447": {
+      "id": "Q1063447",
+      "fetchedAt": "2026-11-13T11:05:08Z",
+      "labels": {
+        "de": "Charles-Stark-Draper-Preis",
+        "en": "Charles Stark Draper Prize",
+        "zh": "查尔斯·斯塔克·德雷珀奖",
+        "es": "Premio Charles Stark Draper",
+        "fr": "prix Charles-Stark-Draper",
+        "ja": "チャールズ・スターク・ドレイパー賞",
+        "ar": "جائزة تشارلز ستارك درابر",
+        "ko": "찰스 스타크 드래이퍼 상"
+      },
+      "descriptions": {
+        "en": "one of three prizes that constitute the \"Nobel Prizes of Engineering\"",
+        "fr": "prix scientifique"
+      }
+    },
+    "Q1093910": {
+      "id": "Q1093910",
+      "fetchedAt": "2026-11-13T11:25:18Z",
+      "labels": {
+        "fr": "City College of New York",
+        "en": "City College of New York",
+        "zh": "纽约市立学院",
+        "de": "City College of New York",
+        "ja": "ニューヨーク市立大学シティカレッジ",
+        "es": "City College of New York",
+        "ko": "시티 칼리지",
+        "ar": "كلية مدينة نيويورك"
+      },
+      "descriptions": {
+        "fr": "université américaine",
+        "de": "Universität in den Vereinigten Staaten",
+        "en": "senior college of the City University of New York",
+        "ar": "كلية في الولايات المتحدة الأمريكية",
+        "ja": "アメリカの公立大学",
+        "es": "universidad pública estadounidense"
+      }
+    },
+    "Q11920": {
+      "id": "Q11920",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en italien",
+        "en": "Italian Wikipedia",
+        "ar": "ويكيبيديا الإيطالية",
+        "es": "Wikipedia en italiano",
+        "ja": "イタリア語版ウィキペディア",
+        "ko": "이탈리아어 위키백과",
+        "zh": "意大利語維基百科",
+        "de": "italienischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "es": "edición de Wikipedia en idioma italiano",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in italienischer Sprache",
+        "en": "Italian-language edition of Wikipedia",
+        "ko": "2002년 1월에 시작한 이탈리아어로 된 위키백과",
+        "ar": "النسخة الإيطالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科意大利语版",
+        "ja": "ウィキペディアのイタリア語版"
+      }
+    },
+    "Q127992": {
+      "id": "Q127992",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "Association for Computing Machinery",
+        "ko": "ACM",
+        "es": "Asociación de Maquinaria Computacional",
+        "de": "Association for Computing Machinery",
+        "ja": "Association for Computing Machinery",
+        "ar": "جمعية آلات الحوسبة",
+        "en": "Association for Computing Machinery",
+        "zh": "计算机协会"
+      },
+      "descriptions": {
+        "en": "international learned society for computing",
+        "ar": "رابطة علمية وتعليمية للحوسبة",
+        "zh": "計算機的國際學會",
+        "de": "wissenschaftliche Gesellschaft für Informatik",
+        "ja": "ニューヨークに本部のあるコンピュータ科学分野の国際学会",
+        "fr": "société savante, maison d'édition",
+        "ko": "세계 최초의 컴퓨터 분야의 학술과 교육을 목적으로 하는 각 분야 학회들의 연합체",
+        "es": "sociedad Científica Internacional estadounidense para la Computación"
+      }
+    },
+    "Q1326886": {
+      "id": "Q1326886",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "de": "Elektroingenieur",
+        "en": "electrical engineer",
+        "es": "ingeniero eléctrico",
+        "fr": "ingénieur électricien",
+        "zh": "电气工程师",
+        "ar": "مهندس كهربائي",
+        "ja": "電気工学者",
+        "ko": "전기공학자"
+      },
+      "descriptions": {
+        "de": "Berufsbezeichnung für einen Ingenieur der Elektrotechnik",
+        "en": "professional practicioner of electrical engineering",
+        "es": "persona que se especializa en la ingeniería eléctrica",
+        "fr": "ingénieur de l’électrotechnique",
+        "ja": "電気工学の研究者",
+        "zh": "职业",
+        "ar": "مهنة"
+      }
+    },
+    "Q1366018": {
+      "id": "Q1366018",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "de": "National Inventors Hall of Fame",
+        "en": "National Inventors Hall of Fame",
+        "fr": "National Inventors Hall of Fame",
+        "zh": "美國國家發明家名人堂",
+        "ja": "全米発明家殿堂",
+        "ar": "القاعة الوطنية للمخترعين المشاهير",
+        "es": "Salón Nacional de la Fama de los Inventores"
+      },
+      "descriptions": {
+        "en": "American award for inventors (1973–)",
+        "es": "premio estadounidense",
+        "de": "amerikanische Auszeichnungen für Erfinder in Form einer Ruhmeshalle (1973–)",
+        "fr": "musée honorant les scientifiques"
+      }
+    },
+    "Q1373513": {
+      "id": "Q1373513",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "de": "Notable Names Database",
+        "ko": "NNDB",
+        "en": "NNDB",
+        "fr": "NNDB",
+        "es": "NNDB",
+        "ar": "NNDB",
+        "zh": "全球名人資料庫",
+        "ja": "著名人名データベース"
+      },
+      "descriptions": {
+        "en": "database of famous people",
+        "fr": "site web",
+        "es": "base de datos en línea de gente notoria",
+        "de": "Online-Datenbank",
+        "ko": "유명한 사람들의 정보를 모은 데이터베이스",
+        "zh": "名人數據庫",
+        "ar": "منظمة"
+      }
+    },
+    "Q1493021": {
+      "id": "Q1493021",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "de": "National Academy of Engineering",
+        "en": "National Academy of Engineering",
+        "fr": "Académie nationale d'ingénierie des États-Unis",
+        "ja": "全米技術アカデミー",
+        "zh": "美国国家工程院",
+        "ar": "الأكاديمية الوطنية للهندسة",
+        "es": "Academia Nacional de Ingeniería",
+        "ko": "미국 국립 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "engineering branch of the United States National Academies",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a la ingeniería",
+        "fr": "organisation privée à but non lucratif"
+      }
+    },
+    "Q15995115": {
+      "id": "Q15995115",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "en": "Harry H. Goode Memorial Award",
+        "fr": "prix commémoratif Harry H. Goode",
+        "ko": "해리 H. 구드 기념상",
+        "zh": "哈里·古德紀念獎",
+        "ja": "ハリー・H・グッド記念賞",
+        "ar": "جائزة هاري إتش غود التذكارية"
+      },
+      "descriptions": {
+        "en": "award for achievements in the information processing field",
+        "fr": "Récompense pour des succès dans le champ des traitements de données"
+      }
+    },
+    "Q163727": {
+      "id": "Q163727",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "título de grado",
+        "ar": "بكالوريوس",
+        "fr": "premier cycle universitaire",
+        "ko": "학사",
+        "de": "Bachelor",
+        "ja": "学士",
+        "en": "bachelor's degree",
+        "zh": "學士"
+      },
+      "descriptions": {
+        "en": "undergraduate academic degree lasting from three to seven years",
+        "de": "akademischer Abschluss",
+        "fr": "diplôme et grade universitaire généralement obtenu après 2 à 4 années d'études supérieures et donnant accès au master (maîtrise)",
+        "zh": "大学本科学位",
+        "ko": "대학 졸업자에게 주는 학위",
+        "ar": "درجة أكاديمية جامعية تستمر من ثلاث إلى سبع سنوات",
+        "es": "titulación académica de grado de tres a siete años de duración",
+        "ja": "学部課程とその学位、履修期間は3年から7年。"
+      }
+    },
+    "Q17144": {
+      "id": "Q17144",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "en": "Presidential Medal of Freedom",
+        "ar": "وسام الحرية الرئاسي",
+        "de": "Presidential Medal of Freedom",
+        "es": "Medalla Presidencial de la Libertad",
+        "fr": "médaille présidentielle de la Liberté",
+        "ja": "大統領自由勲章",
+        "ko": "대통령 자유 훈장",
+        "zh": "總統自由勳章"
+      },
+      "descriptions": {
+        "en": "joint-highest civilian award of the United States, bestowed by the President",
+        "de": "eine der beiden höchsten zivilen Auszeichnungen der Vereinigten Staaten von Amerika",
+        "es": "condecoración civil más alta en los Estados Unidos, otorgada por el Presidente",
+        "fr": "décoration décernée par le président des États-Unis",
+        "ar": "أسمى الجوائز المدنية في الولايات المتحدة الأمريكية. يمنحها الرئيس الأمريكي",
+        "zh": "由總統授予的美國聯邦最高平民獎"
+      }
+    },
+    "Q177524": {
+      "id": "Q177524",
+      "fetchedAt": "2026-11-13T11:25:18Z",
+      "labels": {
+        "ko": "아파넷",
+        "de": "Arpanet",
+        "ja": "アーパネット",
+        "ar": "أربانت",
+        "zh": "高等研究計劃署網路"
+      },
+      "descriptions": {
+        "fr": "premier réseau informatique à transfert de paquets",
+        "de": "Vorläufer des modernen Internets",
+        "ar": "من أوائل شبكات نقل المعطيات باستخدام تقنية تبديل الرزم",
+        "zh": "早期的分組交換早期的分組交換網絡網絡",
+        "ja": "20世紀後半にアメリカで運用されたパケット通信コンピュータネットワーク、インターネットの起源",
+        "ko": "세계 최초의 패킷 스위칭 네트워크",
+        "en": "early packet switching network (1969–1990)",
+        "es": "agencia de proyectos de investigación avanzada de redes"
+      }
+    },
+    "Q183816": {
+      "id": "Q183816",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "maîtrise",
+        "ko": "석사",
+        "es": "máster",
+        "de": "Master",
+        "ja": "修士",
+        "en": "master's degree",
+        "ar": "ماجستير",
+        "zh": "硕士"
+      },
+      "descriptions": {
+        "de": "akademischer Grad",
+        "en": "postgraduate academic degree",
+        "fr": "grade universitaire généralement obtenu après 4 ou 5 années d'études supérieures",
+        "zh": "一种学位",
+        "ja": "高等教育機関の修士課程を修了したものに授与される学位",
+        "ko": "대학원 교육 과정",
+        "ar": "درجة أكاديمية عليا",
+        "es": "grado académico de posgrado"
+      }
+    },
+    "Q185667": {
+      "id": "Q185667",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "fr": "prix Turing",
+        "ko": "튜링상",
+        "es": "Premio Turing",
+        "de": "Turing Award",
+        "ja": "チューリング賞",
+        "en": "Turing Award",
+        "zh": "图灵奖",
+        "ar": "جائزة تورنغ"
+      },
+      "descriptions": {
+        "en": "computer science award",
+        "de": "Informatikpreis",
+        "zh": "計算機科學獎項",
+        "es": "Premio ciencias de la computación",
+        "fr": "prix en informatique",
+        "ar": "جائزة تُمنح للمساهمات البارزة في علم الحاسوب",
+        "ja": "計算機科学の賞"
+      }
+    },
+    "Q18748039": {
+      "id": "Q18748039",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "ACM Fellow",
+        "ja": "ACMフェロー",
+        "ar": "زمالة جمعية آلات الحوسبة",
+        "es": "ACM Fellow",
+        "de": "ACM Fellow",
+        "zh": "ACM會士",
+        "ko": "ACM 석학회원"
+      },
+      "descriptions": {
+        "en": "award granted by the Association for Computing Machinery (ACM)",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة",
+        "ja": "計算機協会 (ACM)の優れたメンバーに与えられる賞と称号"
+      }
+    },
+    "Q18748042": {
+      "id": "Q18748042",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "AAAI Fellow",
+        "ar": "زمالة جمعية النهوض بالذكاء الاصطناعي",
+        "zh": "人工智慧促進協會會士",
+        "ja": "AAAIフェロー"
+      },
+      "descriptions": {
+        "en": "award",
+        "ar": "جائزة"
+      }
+    },
+    "Q19833602": {
+      "id": "Q19833602",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "en": "Webby Lifetime Achievement Award",
+        "fr": "Webby Lifetime Achievement Award",
+        "ja": "ウェビー生涯功労賞",
+        "ar": "جائزة ويبي لايف تايم"
+      },
+      "descriptions": {
+        "ar": "جوائز ويبي"
+      }
+    },
+    "Q205375": {
+      "id": "Q205375",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ko": "발명가",
+        "fr": "inventeur",
+        "es": "inventor",
+        "de": "Erfinder",
+        "ja": "発明家",
+        "en": "inventor",
+        "zh": "发明家",
+        "ar": "مخترع"
+      },
+      "descriptions": {
+        "de": "Person, die eine zuvor nicht bekannte Lösung im Bereich der Technik hervorbringt",
+        "en": "person that devises a new device, method, composition, or process",
+        "es": "individuo que idea, crea o concibe algo que no existía antes",
+        "fr": "personne qui réalise une invention",
+        "ar": "الشخص الذي يبتكر جهازًا أو طريقة أو تكوينًا أو عملية جديدة"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q2086833": {
+      "id": "Q2086833",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "ja": "IEEEアレクサンダー・グラハム・ベル・メダル",
+        "en": "IEEE Alexander Graham Bell Medal",
+        "de": "IEEE Alexander Graham Bell Medal",
+        "zh": "貝爾獎",
+        "fr": "médaille Alexander-Graham-Bell de l'IEEE",
+        "ko": "IEEE 알렉산더 그레이엄 벨 메달",
+        "ar": "ميدالية ألكسندر جراهام بيل من معهد مهندسي الكهرباء والإلكترونيات"
+      },
+      "descriptions": {
+        "en": "award",
+        "de": "Auszeichnung",
+        "fr": "prix récompensant des réalisations en sciences et ingénierie des télécommunications"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q21578": {
+      "id": "Q21578",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "en": "Princeton University",
+        "ar": "جامعة برينستون",
+        "de": "Princeton University",
+        "es": "Universidad de Princeton",
+        "fr": "Université de Princeton",
+        "ja": "プリンストン大学",
+        "ko": "프린스턴 대학교",
+        "zh": "普林斯顿大学"
+      },
+      "descriptions": {
+        "en": "private Ivy League research university in Princeton, New Jersey, United States",
+        "de": "Universität im US-Bundesstaat New Jersey",
+        "es": "universidad privada en Nueva Jersey, Estados Unidos",
+        "fr": "université américaine située dans le New Jersey",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة في نيو جيرسي، الولايات المتحدة",
+        "zh": "在美國新澤西普林斯頓的私立常春藤聯盟研究型大學",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q21662156": {
+      "id": "Q21662156",
+      "fetchedAt": "2026-11-13T11:08:52Z",
+      "labels": {
+        "en": "James Madison Medal",
+        "ar": "ميدالية جيمس ماديسون",
+        "fr": "médaille James-Madison"
+      },
+      "descriptions": {
+        "en": "award for distinguished Princeton alumni"
+      }
+    },
+    "Q270794": {
+      "id": "Q270794",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "fr": "Académie américaine des sciences",
+        "es": "Academia Nacional de Ciencias de los Estados Unidos",
+        "de": "National Academy of Sciences",
+        "ja": "米国科学アカデミー",
+        "en": "National Academy of Sciences",
+        "ar": "الأكاديمية الوطنية للعلوم",
+        "zh": "美国国家科学院",
+        "ko": "미국 과학 아카데미"
+      },
+      "descriptions": {
+        "en": "science branch of the United States National Academies",
+        "fr": "académie nationale des sciences des États-Unis",
+        "es": "rama de las Academias Nacionales de los Estados Unidos dedicada a las ciencias",
+        "de": "Teil der US-amerikanischen National Academies of Sciences, Engineering, and Medicine",
+        "ja": "アメリカ合衆国の科学アカデミー",
+        "ar": "دار نشر",
+        "zh": "科学家组织",
+        "ko": "미국의 비영리 비정부 조직"
+      }
+    },
+    "Q29545180": {
+      "id": "Q29545180",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "en": "Computer History Museum Fellow",
+        "es": "fellow del Museo Histórico de Ordenadores",
+        "ar": "زمالة متحف تاريخ الحاسوب",
+        "ja": "コンピュータ歴史博物館フェロー"
+      },
+      "descriptions": {
+        "en": "fellowship",
+        "ar": "زمالة"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q3123304": {
+      "id": "Q3123304",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en malgache",
+        "en": "Malagasy Wikipedia",
+        "ko": "말라가시어 위키백과",
+        "ar": "ويكيبيديا الملغاشية",
+        "ja": "マダガスカル語版ウィキペディア",
+        "de": "madagassischsprachige Wikipedia",
+        "zh": "馬達加斯加語維基百科"
+      },
+      "descriptions": {
+        "en": "Malagasy-language edition of Wikipedia",
+        "ar": "النسخة الملغاشية من ويكيبيديا، الموسوعة الحرة",
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in Malagasy",
+        "zh": "维基百科马达加斯加语版",
+        "ja": "ウィキペディアのマダガスカル語版"
+      }
+    },
+    "Q31323": {
+      "id": "Q31323",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "zh": "电子前哨基金会先锋奖",
+        "fr": "EFF Award",
+        "en": "EFF Award",
+        "es": "Premio Pionero EFF",
+        "de": "EFF Award",
+        "ja": "EFFパイオニア賞",
+        "ar": "جائزة الرواد لمؤسسة التخوم الإلكترونية"
+      },
+      "descriptions": {
+        "es": "premio anual otorgado por la EFF",
+        "de": "Preis für Menschen, die bedeutende Beiträge zur Stärkung von Individuen im Umgang mit Computern gemacht haben",
+        "en": "science and engineering award",
+        "ja": "電子フロンティア財団 (EFF) が授与する科学技術賞",
+        "fr": "prix scientifique dédié aux chercheurs, innovateurs et personnalités du numérique et de l'informatique"
+      }
+    },
+    "Q329157": {
+      "id": "Q329157",
+      "fetchedAt": "2026-11-13T11:02:18Z",
+      "labels": {
+        "fr": "prix Princesse des Asturies",
+        "es": "Premios Princesa de Asturias",
+        "de": "Prinzessin-von-Asturien-Preis",
+        "ja": "アストゥリアス皇太子賞",
+        "ar": "جائزة أميرة أستورياس",
+        "en": "Princess of Asturias Awards",
+        "zh": "阿斯图里亚斯亲王奖",
+        "ko": "아스투리아스 여공상"
+      },
+      "descriptions": {
+        "en": "annual prizes awarded in Spain",
+        "es": "reconocimientos internacionales entregados anualmente en España",
+        "de": "Auszeichnung in Spanien für besondere Leistungen",
+        "fr": "distinction espagnole",
+        "ja": "スペインの賞",
+        "ko": "스페인의 상",
+        "ar": "جائزة سنوية تُمنح في إسبانيا",
+        "zh": "西班牙奖项"
+      }
+    },
+    "Q3320352": {
+      "id": "Q3320352",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "es": "Premio Princesa de Asturias de Investigación Científica y Técnica",
+        "en": "Princess of Asturias Award for Technical and Scientific Research",
+        "fr": "prix Princesse des Asturies de la recherche scientifique et technique",
+        "de": "Prinzessin-von-Asturien-Preis für wissenschaftliche und technische Forschung",
+        "ar": "جائزة أميرة أستورياس للبحث التقني والعلمي",
+        "ja": "アストゥリアス公妃技術科学研究賞",
+        "zh": "阿斯图里亚斯亲王奖科学技术奖"
+      },
+      "descriptions": {
+        "es": "reconocimiento internacional entregado anualmente en España",
+        "fr": "prix scientifique espagnol",
+        "en": "science award",
+        "ar": "جائزة علمية إسبانية"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q42309226": {
+      "id": "Q42309226",
+      "fetchedAt": "2026-11-13T11:05:31Z",
+      "labels": {
+        "fr": "docteur honoris causa de l'université de Princeton",
+        "de": "Ehrendoktor der Princeton University",
+        "en": "honorary doctorate from Princeton University",
+        "ar": "الدكتوراة الفخرية من جامعة برينستون",
+        "es": "doctor honoris causa por la Universidad de Princeton",
+        "ja": "プリンストン大学名誉博士"
+      },
+      "descriptions": {
+        "es": "título honorífico de doctor conferido por la Universidad de Princeton, y otorgado a personas eminentes en reconocimiento de sus méritos especiales"
+      }
+    },
+    "Q4273323": {
+      "id": "Q4273323",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Queen Elizabeth Prize for Engineering",
+        "fr": "Queen Elizabeth Prize for Engineering",
+        "de": "Queen-Elizabeth-Preis für Ingenieurwissenschaften",
+        "es": "Premio Reina Isabel de Ingeniería",
+        "ar": "جائزة الملكة إليزابيث للهندسة",
+        "ko": "엘리자베스 여왕 공학상",
+        "ja": "エリザベス女王工学賞",
+        "zh": "伊麗莎白女王工程獎"
+      },
+      "descriptions": {
+        "fr": "prix d'ingénierie",
+        "en": "global engineering prize",
+        "ar": "جائزة عالمية في مجال الهندسة",
+        "de": "Auszeichnung",
+        "ko": "영국에서 수여하는 공학상"
+      }
+    },
+    "Q4363133": {
+      "id": "Q4363133",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Computer Pioneer Award",
+        "de": "Computer Pioneer Award",
+        "fr": "Computer Pioneer Award",
+        "zh": "計算機先驅獎",
+        "ja": "コンピュータパイオニア賞",
+        "ko": "컴퓨터 파이오니어 상",
+        "ar": "جائزة رواد الحاسوب"
+      },
+      "descriptions": {
+        "de": "für herausragende Leistungen im Bereich Computer",
+        "en": "award conferred by the IEEE Computer Society",
+        "fr": "prix relatif à l'informatique"
+      }
+    },
+    "Q4377107": {
+      "id": "Q4377107",
+      "fetchedAt": "2026-11-13T11:05:11Z",
+      "labels": {
+        "en": "IEEE Koji Kobayashi Computers and Communications Award",
+        "ja": "IEEE小林宏治記念賞",
+        "zh": "IEEE小林浩二計算機與通訊獎"
+      },
+      "descriptions": {
+        "en": "Technical award"
+      }
+    },
+    "Q463303": {
+      "id": "Q463303",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "fr": "Académie américaine des arts et des sciences",
+        "en": "American Academy of Arts and Sciences",
+        "zh": "美国文理科学院",
+        "de": "American Academy of Arts and Sciences",
+        "ko": "미국 예술 과학 아카데미",
+        "ar": "الأكاديمية الأمريكية للفنون والعلوم",
+        "es": "Academia Estadounidense de las Artes y las Ciencias",
+        "ja": "アメリカ芸術科学アカデミー"
+      },
+      "descriptions": {
+        "de": "US-Akademie für Kunst und Wissenschaften",
+        "en": "United States honorary society and policy research center",
+        "zh": "美國名譽社會和獨立政策研究中心",
+        "ar": "منظمة علمية أمريكية",
+        "fr": "société académique américaine",
+        "es": "organización dedicada a la enseñanza y al avance del conocimiento",
+        "ja": "名誉協会であり政策研究センターでもある団体（アメリカ）"
+      }
+    },
+    "Q473292": {
+      "id": "Q473292",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "de": "Marconi-Preis",
+        "en": "Marconi Prize",
+        "fr": "prix Marconi",
+        "es": "Premio Marconi",
+        "ja": "マルコーニ賞",
+        "ar": "جائزة ماركوني",
+        "ko": "마르코니상",
+        "zh": "馬可尼獎"
+      },
+      "descriptions": {
+        "en": "information and communications technology award",
+        "de": "Wissenschaftspreis"
+      }
+    },
+    "Q49108": {
+      "id": "Q49108",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Massachusetts Institute of Technology",
+        "ar": "معهد ماساتشوستس للتقانة",
+        "de": "Massachusetts Institute of Technology",
+        "es": "Instituto Tecnológico de Massachusetts",
+        "fr": "Institut de technologie du Massachusetts",
+        "ja": "マサチューセッツ工科大学",
+        "ko": "매사추세츠 공과대학교",
+        "zh": "麻省理工學院"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts, USA, founded 1861",
+        "ko": "미국 매사추세츠 주의 케임브리지에 있는 연구 중심 공과대학을 모체로 한 사립 대학교",
+        "de": "Universität im US-Bundesstaat Massachusetts",
+        "zh": "1861年建立的一所学校",
+        "fr": "université américaine à Cambridge, Massachusetts",
+        "ar": "جامعة خاصة في مدينة كامبريدج بولاية ماستشوستس الأمريكية، أُسِّسَت عام 1861",
+        "es": "universidad privada localizada en Cambridge, Massachusetts, Estados Unidos de América",
+        "ja": "アメリカ・マサチューセッツ州ケンブリッジにある私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q53464": {
+      "id": "Q53464",
+      "fetchedAt": "2026-11-13T11:01:56Z",
+      "labels": {
+        "ar": "ويكيبيديا المجرية",
+        "en": "Hungarian Wikipedia",
+        "es": "Wikipedia en húngaro",
+        "fr": "Wikipédia en hongrois",
+        "ja": "ハンガリー語版ウィキペディア",
+        "ko": "헝가리어 위키백과",
+        "zh": "匈牙利語維基百科",
+        "de": "ungarischsprachige Wikipedia"
+      },
+      "descriptions": {
+        "en": "Hungarian-language edition of Wikipedia",
+        "de": "Ausgabe der Online-Enzyklopädie Wikipedia in ungarischer Sprache",
+        "es": "edición de Wikipedia en idioma húngaro",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة المجرية من ويكيبيديا، الموسوعة الحرة",
+        "ko": "위키백과의 헝가리어판",
+        "zh": "维基百科匈牙利语版",
+        "ja": "ウィキペディアのハンガリー語版"
+      }
+    },
+    "Q60": {
+      "id": "Q60",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "ar": "نيويورك",
+        "fr": "New York",
+        "ja": "ニューヨーク",
+        "es": "Nueva York",
+        "ko": "뉴욕",
+        "zh": "纽约",
+        "en": "New York City",
+        "de": "New York City"
+      },
+      "descriptions": {
+        "en": "most populous city in the United States",
+        "fr": "ville de l'État de New York et plus grande ville des États-Unis",
+        "de": "bevölkerungsreichste Stadt der Vereinigten Staaten",
+        "es": "ciudad más poblada del estado de Nueva York, y de los Estados Unidos",
+        "ko": "미국의 최대 도시",
+        "zh": "美國最大都市、國際大都市之一",
+        "ja": "アメリカ合衆国ニューヨーク州の都市",
+        "ar": "المدينة الأكثر اكتظاظًا بالسكان في الولايات المتحدة"
+      }
+    },
+    "Q6055547": {
+      "id": "Q6055547",
+      "fetchedAt": "2026-11-13T10:58:59Z",
+      "labels": {
+        "en": "Internet Hall of Fame",
+        "es": "Salón de la Fama de Internet",
+        "fr": "temple de la renommée d'Internet",
+        "zh": "網際網路名人堂",
+        "de": "Internet Hall of Fame",
+        "ko": "인터넷 명예의 전당",
+        "ja": "インターネットの殿堂",
+        "ar": "عضو قاعة مشاهير الإنترنت"
+      },
+      "descriptions": {
+        "en": "honorary lifetime achievement award administered by the Internet Society",
+        "de": "internationale virtuelle Ruhmeshalle für Pioniere und Entwickler des Internets",
+        "ar": "جائزة تقديرية تمنحها جمعية الإنترنت لأنجاز العمر في مجال الشابكة",
+        "fr": "prix international dans le domaine de l'informatique",
+        "es": "premio honorífico a la trayectoria administrado por Internet Society"
+      }
+    },
+    "Q62505651": {
+      "id": "Q62505651",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "de": "Ehrendoktor der Eidgenössischen Technischen Hochschule Zürich",
+        "en": "honorary doctor of ETH Zürich",
+        "fr": "docteur honoris causa de l'École polytechnique fédérale de Zurich",
+        "ar": "الدكتوراه الفخرية من المعهد الفدرالي السويسري للتكنولوجيا في زيورخ",
+        "ja": "チューリッヒ工科大学名誉博士"
+      },
+      "descriptions": {}
+    },
+    "Q678414": {
+      "id": "Q678414",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "en": "IEEE Medal of Honor",
+        "de": "IEEE Medal of Honor",
+        "es": "Medalla de honor IEEE",
+        "fr": "IEEE Medal of Honor",
+        "ja": "IEEE栄誉賞",
+        "zh": "IEEE榮譽獎章",
+        "ar": "ميدالية الشرف لمعهد مهندسي الكهرباء والإلكترونيات",
+        "ko": "IEEE 영예상"
+      },
+      "descriptions": {
+        "en": "award conferred by the Institute of Electrical and Electronics Engineers",
+        "zh": "国际电子电气工程学会的最高荣誉",
+        "de": "höchste Auszeichnung des Institute of Electrical and Electronics Engineers",
+        "ar": "جائزة علمية"
+      }
+    },
+    "Q715679": {
+      "id": "Q715679",
+      "fetchedAt": "2026-11-13T11:25:18Z",
+      "labels": {
+        "ja": "発明者",
+        "en": "patent inventor",
+        "de": "Erfinder",
+        "fr": "inventeur ou inventrice d'un brevet",
+        "ar": "مخترع",
+        "es": "inventor de patentes",
+        "ko": "발명자"
+      },
+      "descriptions": {
+        "en": "person, or persons in United States patent law, who contribute to the claims of a patentable invention",
+        "de": "Person oder Personengruppe im US-amerikanischen Patentrecht, die zu einer patentierbaren Erfindung beigetragen hat",
+        "es": "persona que contribuye a la producción de un invento patentado",
+        "ko": "발명을 한 사람"
+      }
+    },
+    "Q752297": {
+      "id": "Q752297",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ko": "철학박사",
+        "fr": "docteur en philosophie",
+        "de": "Ph.D.",
+        "ja": "Doctor of Philosophy",
+        "en": "Doctor of Philosophy",
+        "zh": "哲學博士",
+        "es": "Doctor en filosofía",
+        "ar": "دكتوراه الفلسفة"
+      },
+      "descriptions": {
+        "fr": "diplôme universitaire le plus élevé accordant le titre de docteur",
+        "es": "grado académico para graduados otorgado por universidades de muchos países",
+        "en": "postgraduate academic degree awarded by most universities worldwide",
+        "de": "in englischsprachigen Ländern der wissenschaftliche Doktorgrad in fast allen Fächern",
+        "zh": "高等教育學位",
+        "ar": "درجة أكاديمية للدراسات العليا تمنحها معظم الجامعات في جميع أنحاء العالم",
+        "ja": "世界中のほとんどの大学で授与される大学院学位",
+        "ko": "학위의 하나"
+      }
+    },
+    "Q81096": {
+      "id": "Q81096",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "工程师",
+        "ar": "مهندس",
+        "ko": "기술자",
+        "fr": "ingénieur ou ingénieure",
+        "de": "Ingenieur",
+        "ja": "エンジニア",
+        "en": "engineer",
+        "es": "ingeniero"
+      },
+      "descriptions": {
+        "en": "professional practitioner of engineering",
+        "es": "persona dedicada a la ingeniería",
+        "de": "Berufsbezeichnung für wissenschaftlich ausgebildete Fachleute auf technischem Gebiet",
+        "fr": "personne pratiquant l'ingénierie",
+        "ar": "ممارس محترف للهندسة",
+        "ja": "工学学位を持つ研究者、技術界の研究開発者",
+        "ko": "공학에 종사하는 사람"
+      }
+    },
+    "Q81414": {
+      "id": "Q81414",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "ar": "حزمة بروتوكولات الإنترنت",
+        "ko": "인터넷 프로토콜 스위트",
+        "fr": "suite des protocoles Internet",
+        "de": "Internetprotokollfamilie",
+        "ja": "インターネット・プロトコル・スイート",
+        "zh": "互联网协议套件",
+        "en": "Internet protocol suite",
+        "es": "familia de protocolos de internet"
+      },
+      "descriptions": {
+        "de": "Netzwerkprotokolle, die die Basis für die Netzkommunikation im Internet bilden",
+        "ar": "نموذج مُجرّد يربط عمل مجموعة من بروتوكولات الاتصالات المُستعملة في شبكة الإنترنت وفي شبكات حواسِب أُخرى",
+        "zh": "產品可以獲得多種通信協議",
+        "fr": "protocole réseaux internet",
+        "ja": "IPネットワークで使用される通信プロトコルのフレームワーク",
+        "en": "framework for communication protocols used in IP networking",
+        "es": "conjunto de protocolos de comunicaciones",
+        "ko": "인터넷에서 컴퓨터들이 서로 정보를 주고받는 데 쓰이는 프로토콜의 모음"
+      }
+    },
+    "Q817496": {
+      "id": "Q817496",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "de": "Benjamin Franklin Medal",
+        "ar": "وسام بنجامين فرانكلين",
+        "en": "Benjamin Franklin Medal",
+        "ja": "ベンジャミン・フランクリン・メダル",
+        "zh": "富兰克林研究所奖项",
+        "fr": "médaille Benjamin-Franklin",
+        "es": "Medalla Benjamin Franklin",
+        "ko": "벤자민 프랭클린 메달"
+      },
+      "descriptions": {
+        "de": "Auszeichnung in den Bereichen Wissenschaft und Technologie des Franklin Institute (1824–)",
+        "en": "science and engineering award presented by the Franklin Institute (1824–)",
+        "es": "premio",
+        "ar": "جائزة أمريكية يتم منحها للمبدعين في مجال العلوم والهندسة",
+        "ja": "フランクリン協会が授与する賞",
+        "fr": "récompense en science et en ingénierie"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q840924": {
+      "id": "Q840924",
+      "fetchedAt": "2026-11-13T11:25:18Z",
+      "labels": {
+        "ko": "SIGCOMM상",
+        "en": "SIGCOMM Award",
+        "fr": "prix SIGCOMM",
+        "ja": "SIGCOMM賞",
+        "ar": "جائزة SIGCOMM"
+      },
+      "descriptions": {
+        "en": "award",
+        "ar": "جائزة"
+      }
+    },
+    "Q849697": {
+      "id": "Q849697",
+      "fetchedAt": "2026-11-13T10:59:47Z",
+      "labels": {
+        "fr": "doctorat",
+        "de": "Doktorgrad",
+        "ar": "دكتوراه",
+        "en": "doctorate",
+        "es": "doctorado",
+        "zh": "博士",
+        "ja": "博士号",
+        "ko": "박사"
+      },
+      "descriptions": {
+        "en": "academic or professional degree",
+        "de": "akademischer Grad",
+        "es": "grado académico de posgrado",
+        "zh": "學術或專業學位",
+        "ja": "高等教育機関・体系の中で与えられる学位のうち最高位のもの",
+        "fr": "titre et/ou grade universitaire",
+        "ko": "학업 또는 전문 학위",
+        "ar": "درجة أكاديمية أو مهنية"
+      }
+    },
+    "Q8803": {
+      "id": "Q8803",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "en": "Transmission Control Protocol",
+        "fr": "Transmission Control Protocol",
+        "de": "Transmission Control Protocol",
+        "ar": "بروتوكول التحكم بالإرسال",
+        "es": "Transmission Control Protocol",
+        "ja": "Transmission Control Protocol",
+        "ko": "전송 제어 프로토콜",
+        "zh": "传输控制协议"
+      },
+      "descriptions": {
+        "en": "transport protocol providing reliable, ordered byte streams over IP",
+        "es": "protocolo de transporte de datos sobre redes IP",
+        "de": "Vereinbarung darüber, wie Daten zwischen Computern ausgetauscht werden",
+        "fr": "protocole de transmission de données informatiques",
+        "zh": "用於在網際協議網絡上傳輸數據的主要協議",
+        "ar": "بروتوكول إرسال في شبكات البيانات",
+        "ja": "IPネットワーク上のアプリ間・コネクション型・高信頼性・ストリーム指向の通信プロトコル"
+      }
+    },
+    "Q908745": {
+      "id": "Q908745",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "fr": "prix japonais",
+        "es": "Premio Japón",
+        "en": "Japan Prize",
+        "de": "Japan-Preis",
+        "ja": "日本国際賞",
+        "zh": "日本国际奖",
+        "ar": "جائزة اليابان",
+        "ko": "일본국제상"
+      },
+      "descriptions": {
+        "en": "Japanese science award",
+        "ja": "日本の賞",
+        "fr": "prix en sciences et technologies",
+        "zh": "日本设立奖项"
+      }
+    },
+    "Q937629": {
+      "id": "Q937629",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "es": "Medalla Nacional de Tecnología e Innovación",
+        "de": "National Medal of Technology",
+        "en": "National Medal of Technology and Innovation",
+        "fr": "National Medal of Technology and Innovation",
+        "ja": "アメリカ国家技術賞",
+        "zh": "國家技術與創新獎章 (美國)",
+        "ar": "القلادة الوطنية للتكنولوجيا والابتكار",
+        "ko": "미국 국가 기술혁신 메달"
+      },
+      "descriptions": {
+        "en": "science award",
+        "fr": "prix scientifique",
+        "de": "Wissenschaftspreis",
+        "es": "premio científico"
+      }
+    },
+    "Q986509": {
+      "id": "Q986509",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "ja": "ACMソフトウェアシステム賞",
+        "en": "ACM Software System Award",
+        "de": "ACM Software System Award",
+        "fr": "prix ACM Software System",
+        "zh": "計算機協會軟件系統獎",
+        "ar": "جائزة نظام البرمجيات",
+        "ko": "ACM 소프트웨어 시스템 상"
+      },
+      "descriptions": {
+        "de": "Preis der Association for Computing Machinery",
+        "en": "award by the Association for Computing Machinery",
+        "zh": "計算機協會頒發的獎項",
+        "ar": "جائزة تمنحها جمعية آلات الحوسبة"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Bob Kahn.jpg",
+    "fetchedAt": "2026-11-13T11:25:19Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bob_Kahn.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bob_Kahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kahn.jpg/960px-Bob_Kahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 2255,
+    "height": 2614,
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 696,
+    "mediaTimestamp": "2013-05-20T22:24:50Z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Вени Марковски | Veni Markovski",
+    "credit": "Own work",
+    "description": "American Internet pioneer Bob Kahn",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/fe28b9f8f92434ac0d312e4c.jpg",
+    "cachedImageBytes": 277775,
+    "cachedImageSha256": "4256c3884a65893fe46e0e33a7b13115c832be485ff7f1dcbe7cbe24039dbf33"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 27,
+    "referenceUrls": 32,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

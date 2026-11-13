@@ -1,0 +1,1886 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.0",
+  "id": "jane-fraser",
+  "stage": "research-draft",
+  "publicationReady": false,
+  "reviewStatus": "needs-editorial-review",
+  "cutoffDate": "2026-11-13",
+  "evidenceSource": {
+    "path": "data/research/evidence/jane-fraser.json",
+    "sha256": "74a3028add338e71eaafa17ad26b1abcb26ba3784e9809247b86f3f53de61257",
+    "capturedAt": "2026-11-13T11:25:35Z",
+    "captureIsNotEditorialReview": true,
+    "sourceUrls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+      "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+      "https://www.wikidata.org/wiki/Q21997525"
+    ]
+  },
+  "identity": {
+    "wikidataId": "Q21997525",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "requestedName": "Jane Fraser",
+    "sourceIdentity": {
+      "requestedName": "Jane Fraser",
+      "requestedTitle": "Jane Fraser (businesswoman)",
+      "resolvedTitle": "Jane Fraser (businesswoman)",
+      "wikidataId": "Q21997525",
+      "humanEntityConfirmed": true,
+      "editorialIdentityReviewRequired": true,
+      "resolutionMethod": "wikipedia-pageprops"
+    },
+    "blockedReasons": []
+  },
+  "lifeStatus": {
+    "status": "unverified",
+    "editorialReviewRequired": true,
+    "sourceReportedDeathFacts": [],
+    "absenceOfDeathClaimIsNotEvidenceOfLife": true
+  },
+  "missingChecks": [
+    "editorial-identity-match",
+    "independent-primary-source-corroboration",
+    "current-life-status",
+    "career-chronology-and-completeness",
+    "source-currency-through-cutoff",
+    "original-achievements-and-summary",
+    "human-review-of-all-eight-languages",
+    "portrait-identity-and-license",
+    "publication-review"
+  ],
+  "facts": [
+    {
+      "id": "fact-1975546faec8e0e2e502",
+      "property": "P106",
+      "claimId": "Q21997525$ae4e8522-4c3f-39b3-7996-94ba662848e1",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 32947888,
+          "id": "Q32947888"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-465a7d0da4c48f4f56ec",
+      "property": "P106",
+      "claimId": "Q21997525$cc76c895-5018-4f4e-82de-2240100a0ac7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 2961975,
+          "id": "Q2961975"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-99eda6faf9e2cd4cdf9d",
+      "property": "P106",
+      "claimId": "Q21997525$58197e8f-4fa7-3169-a871-6ef1993276b1",
+      "rank": "preferred",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 484876,
+          "id": "Q484876"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+2021-03-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "2021-03"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.citigroup.com/global/about-us/leadership/jane-fraser",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+2021-03-00T00:00:00Z",
+          "precision": 10,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "2021-03",
+          "earliest": "2021-03-01",
+          "latest": "2021-03-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ]
+    },
+    {
+      "id": "fact-57b720814df627d7e32b",
+      "property": "P27",
+      "claimId": "Q21997525$041D5940-70E6-4A72-9521-945CF1FDED77",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 145,
+          "id": "Q145"
+        }
+      },
+      "qualifiers": {},
+      "references": [],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-b62a0d9ab976e9b86ffb",
+      "property": "P569",
+      "claimId": "Q21997525$DDAB53C0-0A0C-4ADA-8BED-1B7920D383E9",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1967-07-13T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1967-07-13"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1967-07-13T00:00:00Z",
+        "precision": 11,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1967-07-13",
+        "earliest": "1967-07-13",
+        "latest": "1967-07-13",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    },
+    {
+      "id": "fact-70901954caf4276833dd",
+      "property": "P19",
+      "claimId": "Q21997525$4174398D-DAEE-43A4-A915-F889C61262C7",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 207736,
+          "id": "Q207736"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 328,
+                "id": "Q328"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-9a5bddbc443dd06c1a2f",
+      "property": "P69",
+      "claimId": "Q21997525$35A6E9D7-388A-4933-B92F-13BEF4256193",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 49126,
+          "id": "Q49126"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1992-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1992"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1994"
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.linkedin.com/in/jane-fraser-3292068/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.linkedin.com/in/jane-fraser-3292068/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1992-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1992",
+          "earliest": "1992-01-01",
+          "latest": "1992-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1994-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1994",
+          "earliest": "1994-01-01",
+          "latest": "1994-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-c5390641c7173548edaf",
+      "property": "P69",
+      "claimId": "Q21997525$FE610EE3-3E21-46EA-A3DE-6D69FBD575CB",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 797846,
+          "id": "Q797846"
+        }
+      },
+      "qualifiers": {
+        "P580": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1985-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1985"
+          }
+        ],
+        "P582": [
+          {
+            "type": "time",
+            "value": {
+              "time": "+1988-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "date": "1988"
+          }
+        ],
+        "P512": [
+          {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2091008,
+              "id": "Q2091008"
+            }
+          }
+        ]
+      },
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.linkedin.com/in/jane-fraser-3292068/"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.linkedin.com/in/jane-fraser-3292068/"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [
+        {
+          "property": "P580",
+          "raw": "+1985-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1985",
+          "earliest": "1985-01-01",
+          "latest": "1985-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        },
+        {
+          "property": "P582",
+          "raw": "+1988-00-00T00:00:00Z",
+          "precision": 9,
+          "calendar": "http://www.wikidata.org/entity/Q1985727",
+          "uncertaintyBefore": 0,
+          "uncertaintyAfter": 0,
+          "date": "1988",
+          "earliest": "1988-01-01",
+          "latest": "1988-12-31",
+          "cutoffRelation": "within-cutoff",
+          "uncertain": false
+        }
+      ],
+      "endStatus": "source-reported-not-verified",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-1160ec0c90341d9c5d01",
+      "property": "P108",
+      "claimId": "Q21997525$4FFCC4A9-77E5-470D-9CB3-8DEF4B4A6CF3",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 219508,
+          "id": "Q219508"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P854": [
+            {
+              "type": "string",
+              "value": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.citigroup.com/global/about-us/leadership/jane-fraser",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+      ],
+      "referenceHasExternalUrl": true,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "endStatus": "unknown",
+      "currentStatus": "not-inferred"
+    },
+    {
+      "id": "fact-6d54b32154798e6b0efc",
+      "property": "P1416",
+      "claimId": "Q21997525$51324A24-B07F-46D3-B07A-835246D54292",
+      "rank": "normal",
+      "value": {
+        "type": "wikibase-entityid",
+        "value": {
+          "entity-type": "item",
+          "numeric-id": 219508,
+          "id": "Q219508"
+        }
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P248": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 116813909,
+                "id": "Q116813909"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q116813909",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q116813909"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": []
+    },
+    {
+      "id": "fact-2bf245079c5374aef094",
+      "property": "P2031",
+      "claimId": "Q21997525$851ECD2F-FC17-4907-A8DF-892395E6A561",
+      "rank": "normal",
+      "value": {
+        "type": "time",
+        "value": {
+          "time": "+1990-00-00T00:00:00Z",
+          "timezone": 0,
+          "before": 0,
+          "after": 0,
+          "precision": 9,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        },
+        "date": "1990"
+      },
+      "qualifiers": {},
+      "references": [
+        {
+          "P143": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 199913,
+                "id": "Q199913"
+              }
+            }
+          ]
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q199913",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "referenceUrls": [
+        "https://www.wikidata.org/wiki/Q199913"
+      ],
+      "referenceHasExternalUrl": false,
+      "reviewStatus": "unverified-source-claim",
+      "dates": [],
+      "sourceDate": {
+        "raw": "+1990-00-00T00:00:00Z",
+        "precision": 9,
+        "calendar": "http://www.wikidata.org/entity/Q1985727",
+        "uncertaintyBefore": 0,
+        "uncertaintyAfter": 0,
+        "date": "1990",
+        "earliest": "1990-01-01",
+        "latest": "1990-12-31",
+        "cutoffRelation": "within-cutoff",
+        "uncertain": false
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "id": "event-a194b371a1a623ccb52f",
+      "factId": "fact-9a5bddbc443dd06c1a2f",
+      "claimId": "Q21997525$35A6E9D7-388A-4933-B92F-13BEF4256193",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1994",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-192f6e54ae78c39043e8",
+      "factId": "fact-9a5bddbc443dd06c1a2f",
+      "claimId": "Q21997525$35A6E9D7-388A-4933-B92F-13BEF4256193",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1992",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-684f93d72963bd4ad657",
+      "factId": "fact-c5390641c7173548edaf",
+      "claimId": "Q21997525$FE610EE3-3E21-46EA-A3DE-6D69FBD575CB",
+      "property": "P69",
+      "dateProperty": "P582",
+      "date": "1988",
+      "precision": 9,
+      "kind": "end",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-0e26d72d92076742572c",
+      "factId": "fact-c5390641c7173548edaf",
+      "claimId": "Q21997525$FE610EE3-3E21-46EA-A3DE-6D69FBD575CB",
+      "property": "P69",
+      "dateProperty": "P580",
+      "date": "1985",
+      "precision": 9,
+      "kind": "start",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.linkedin.com/in/jane-fraser-3292068/",
+        "https://www.wikidata.org/wiki/Q21997525"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    },
+    {
+      "id": "event-67e8e833e6b1f49f29bf",
+      "factId": "fact-b62a0d9ab976e9b86ffb",
+      "claimId": "Q21997525$DDAB53C0-0A0C-4ADA-8BED-1B7920D383E9",
+      "property": "P569",
+      "dateProperty": "P569",
+      "date": "1967-07-13",
+      "precision": 11,
+      "kind": "birth",
+      "sourceUrls": [
+        "https://en.wikipedia.org/w/index.php?oldid=1384095327",
+        "https://en.wikipedia.org/wiki/Jane_Fraser_(businesswoman)",
+        "https://www.wikidata.org/wiki/Q21997525",
+        "https://www.wikidata.org/wiki/Q328"
+      ],
+      "reviewStatus": "unverified-source-claim"
+    }
+  ],
+  "localized": {
+    "zh": {
+      "name": "简·弗雷泽",
+      "statusNote": "自动整理的研究草稿；身份、事实、日期和译文均待人工核验。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "职业",
+          "value": "银行经理",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "职业",
+          "value": "企业主管",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "职业",
+          "value": "首席执行官",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "国籍",
+          "value": "英国",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "来源所记出生日期",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "出生地",
+          "value": "圣安德鲁斯",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "就读机构",
+          "value": "哈佛商学院",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "就读机构",
+          "value": "剑桥大学格顿学院",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "雇主",
+          "value": "花旗集团",
+          "notes": [
+            "来源未提供结束时间；不能据此认定目前仍在任。"
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "所属机构",
+          "value": "花旗集团",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "活动开始日期",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 哈佛商学院",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 哈佛商学院",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "就读机构: 剑桥大学格顿学院",
+          "text": "来源记载结束时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "就读机构: 剑桥大学格顿学院",
+          "text": "来源记载开始时间",
+          "notes": [
+            "就读结束时间不等同于毕业或取得学位。"
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "来源所记出生日期: 1967-07-13",
+          "text": "来源记载出生日期",
+          "notes": []
+        }
+      ]
+    },
+    "en": {
+      "name": "Jane Fraser",
+      "statusNote": "Automatically assembled research draft. Identity, facts, dates and translations require human review.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "Occupation",
+          "value": "bank manager",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "Occupation",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "Occupation",
+          "value": "chief executive officer",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "Citizenship",
+          "value": "United Kingdom",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "Source-reported birth date",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "Place of birth",
+          "value": "St Andrews",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "Educational institution",
+          "value": "Harvard Business School",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "Educational institution",
+          "value": "Girton College",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "Employer",
+          "value": "Citigroup",
+          "notes": [
+            "The source gives no end date; this does not establish a current position."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "Affiliation",
+          "value": "Citigroup",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "Activity start date",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Harvard Business School",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Harvard Business School",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "Educational institution: Girton College",
+          "text": "End date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Educational institution: Girton College",
+          "text": "Start date reported by source",
+          "notes": [
+            "An education end date does not establish graduation or a degree."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Source-reported birth date: 1967-07-13",
+          "text": "Birth date reported by source",
+          "notes": []
+        }
+      ]
+    },
+    "fr": {
+      "name": "Jane Fraser",
+      "statusNote": "Brouillon de recherche assemblé automatiquement. L'identité, les faits, les dates et les traductions doivent être vérifiés.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "Profession",
+          "value": "directeur de banque",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "Profession",
+          "value": "chef ou cheffe d'entreprise",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "Profession",
+          "value": "directeur général ou directrice générale",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "Nationalité",
+          "value": "Royaume-Uni",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "Date de naissance indiquée par la source",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "Lieu de naissance",
+          "value": "St Andrews",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "Établissement fréquenté",
+          "value": "Harvard Business School",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "Établissement fréquenté",
+          "value": "Girton College",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "Employeur",
+          "value": "Citigroup",
+          "notes": [
+            "La source ne donne pas de date de fin ; cela ne prouve pas que la fonction est toujours exercée."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "Affiliation",
+          "value": "Citigroup",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "Date de début d'activité",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Harvard Business School",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: Harvard Business School",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "Établissement fréquenté: Girton College",
+          "text": "Date de fin selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Établissement fréquenté: Girton College",
+          "text": "Date de début selon la source",
+          "notes": [
+            "Une date de fin d'études ne prouve ni la réussite ni l'obtention d'un diplôme."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Date de naissance indiquée par la source: 1967-07-13",
+          "text": "Date de naissance selon la source",
+          "notes": []
+        }
+      ]
+    },
+    "ar": {
+      "name": "جين فريزر",
+      "statusNote": "مسودة بحث جُمعت آليًا. تتطلب الهوية والوقائع والتواريخ والترجمات مراجعة بشرية.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "المهنة",
+          "value": "مدير بنك",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "المهنة",
+          "value": "مسير أعمال",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "المهنة",
+          "value": "رئيس تنفيذي",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "الجنسية",
+          "value": "المملكة المتحدة",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "تاريخ الميلاد الوارد في المصدر",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "مكان الميلاد",
+          "value": "سنت أندروز",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "المؤسسة التعليمية",
+          "value": "كلية هرفرد للأعمال",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "المؤسسة التعليمية",
+          "value": "كلية غريتون",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "جهة العمل",
+          "value": "سيتي غروب",
+          "notes": [
+            "لم يحدد المصدر تاريخ انتهاء؛ وهذا لا يثبت استمرار شغل المنصب."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "الانتساب المؤسسي",
+          "value": "سيتي غروب",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "تاريخ بدء النشاط",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: كلية هرفرد للأعمال",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: كلية هرفرد للأعمال",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "المؤسسة التعليمية: كلية غريتون",
+          "text": "تاريخ الانتهاء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "المؤسسة التعليمية: كلية غريتون",
+          "text": "تاريخ البدء حسب المصدر",
+          "notes": [
+            "تاريخ انتهاء الدراسة لا يثبت التخرج أو الحصول على درجة."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "تاريخ الميلاد الوارد في المصدر: 1967-07-13",
+          "text": "تاريخ الميلاد حسب المصدر",
+          "notes": []
+        }
+      ]
+    },
+    "de": {
+      "name": "Jane Fraser",
+      "statusNote": "Automatisch zusammengestellter Forschungsentwurf. Identität, Fakten, Daten und Übersetzungen müssen geprüft werden.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "Beruf",
+          "value": "Bankmanager",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "Beruf",
+          "value": "Unternehmensleiter",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "Beruf",
+          "value": "Geschäftsführer",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "Staatsangehörigkeit",
+          "value": "Vereinigtes Königreich",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "Geburtsdatum laut Quelle",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "Geburtsort",
+          "value": "St Andrews",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "Bildungseinrichtung",
+          "value": "Harvard Business School",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "Bildungseinrichtung",
+          "value": "Girton College",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "Arbeitgeber",
+          "value": "Citigroup",
+          "notes": [
+            "Die Quelle nennt kein Enddatum; daraus folgt keine gegenwärtige Amtsausübung."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "Zugehörigkeit",
+          "value": "Citigroup",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "Beginn der Tätigkeit",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Harvard Business School",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Harvard Business School",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "Bildungseinrichtung: Girton College",
+          "text": "Ende laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Bildungseinrichtung: Girton College",
+          "text": "Beginn laut Quelle",
+          "notes": [
+            "Ein Ausbildungsenddatum belegt weder einen Abschluss noch einen akademischen Grad."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Geburtsdatum laut Quelle: 1967-07-13",
+          "text": "Geburtsdatum laut Quelle",
+          "notes": []
+        }
+      ]
+    },
+    "ja": {
+      "name": "ジェーン・フレイザー",
+      "statusNote": "自動整理された調査草稿です。本人の同定、事実、日付、翻訳は人による確認が必要です。",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "職業",
+          "value": "銀行の支店長",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "職業",
+          "value": "企業重役",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "職業",
+          "value": "最高経営責任者",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "国籍",
+          "value": "イギリス",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "出典に記載された生年月日",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "出生地",
+          "value": "セント・アンドルーズ",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "在籍した教育機関",
+          "value": "ハーバード・ビジネス・スクール",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "在籍した教育機関",
+          "value": "ガートン・カレッジ",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "雇用主",
+          "value": "シティグループ",
+          "notes": [
+            "出典には終了日の記載がありません。現在も在職していることを意味しません。"
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "所属機関",
+          "value": "シティグループ",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "活動開始日",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ハーバード・ビジネス・スクール",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ハーバード・ビジネス・スクール",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "在籍した教育機関: ガートン・カレッジ",
+          "text": "出典に記載された終了の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "在籍した教育機関: ガートン・カレッジ",
+          "text": "出典に記載された開始の日付",
+          "notes": [
+            "在学期間の終了日は卒業や学位取得を意味しません。"
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "出典に記載された生年月日: 1967-07-13",
+          "text": "出典に記載された出生の日付",
+          "notes": []
+        }
+      ]
+    },
+    "es": {
+      "name": "Jane Fraser",
+      "statusNote": "Borrador de investigación generado automáticamente. La identidad, los hechos, las fechas y las traducciones requieren revisión humana.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "Ocupación",
+          "value": "director de banco",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "Ocupación",
+          "value": "ejecutivo de empresa",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "Ocupación",
+          "value": "director ejecutivo",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "Nacionalidad",
+          "value": "Reino Unido",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "Fecha de nacimiento según la fuente",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "Lugar de nacimiento",
+          "value": "Saint Andrews",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "Institución educativa",
+          "value": "Escuela de Negocios Harvard",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "Institución educativa",
+          "value": "Girton College",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "Empleador",
+          "value": "Citigroup",
+          "notes": [
+            "La fuente no indica una fecha de fin; esto no demuestra que el cargo siga vigente."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "Afiliación",
+          "value": "Citigroup",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "Inicio de actividad",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Escuela de Negocios Harvard",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Escuela de Negocios Harvard",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "Institución educativa: Girton College",
+          "text": "Fecha de fin según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "Institución educativa: Girton College",
+          "text": "Fecha de inicio según la fuente",
+          "notes": [
+            "Una fecha de fin de estudios no demuestra la graduación ni la obtención de un título."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "Fecha de nacimiento según la fuente: 1967-07-13",
+          "text": "Fecha de nacimiento según la fuente",
+          "notes": []
+        }
+      ]
+    },
+    "ko": {
+      "name": "제인 프레이저",
+      "statusNote": "자동 정리된 조사 초안입니다. 인물 식별, 사실, 날짜와 번역은 사람의 검토가 필요합니다.",
+      "translationStatus": "template-and-source-labels-unreviewed",
+      "facts": [
+        {
+          "id": "fact-1975546faec8e0e2e502",
+          "label": "직업",
+          "value": "bank manager",
+          "notes": []
+        },
+        {
+          "id": "fact-465a7d0da4c48f4f56ec",
+          "label": "직업",
+          "value": "business executive",
+          "notes": []
+        },
+        {
+          "id": "fact-99eda6faf9e2cd4cdf9d",
+          "label": "직업",
+          "value": "최고경영자",
+          "notes": []
+        },
+        {
+          "id": "fact-57b720814df627d7e32b",
+          "label": "국적",
+          "value": "영국",
+          "notes": []
+        },
+        {
+          "id": "fact-b62a0d9ab976e9b86ffb",
+          "label": "출처에 기재된 출생일",
+          "value": "1967-07-13",
+          "notes": []
+        },
+        {
+          "id": "fact-70901954caf4276833dd",
+          "label": "출생지",
+          "value": "세인트앤드루스",
+          "notes": []
+        },
+        {
+          "id": "fact-9a5bddbc443dd06c1a2f",
+          "label": "교육 기관",
+          "value": "하버드 경영대학원",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-c5390641c7173548edaf",
+          "label": "교육 기관",
+          "value": "거튼 칼리지",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "fact-1160ec0c90341d9c5d01",
+          "label": "고용 기관",
+          "value": "시티그룹",
+          "notes": [
+            "출처에 종료일이 없습니다. 현재도 재직 중이라는 뜻은 아닙니다."
+          ]
+        },
+        {
+          "id": "fact-6d54b32154798e6b0efc",
+          "label": "소속 기관",
+          "value": "시티그룹",
+          "notes": []
+        },
+        {
+          "id": "fact-2bf245079c5374aef094",
+          "label": "활동 시작일",
+          "value": "1990",
+          "notes": []
+        }
+      ],
+      "timeline": [
+        {
+          "id": "event-a194b371a1a623ccb52f",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1994",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 하버드 경영대학원",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-192f6e54ae78c39043e8",
+          "factId": "fact-9a5bddbc443dd06c1a2f",
+          "date": "1992",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: 하버드 경영대학원",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-684f93d72963bd4ad657",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1988",
+          "precision": 9,
+          "kind": "end",
+          "title": "교육 기관: 거튼 칼리지",
+          "text": "출처에 기재된 종료일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-0e26d72d92076742572c",
+          "factId": "fact-c5390641c7173548edaf",
+          "date": "1985",
+          "precision": 9,
+          "kind": "start",
+          "title": "교육 기관: 거튼 칼리지",
+          "text": "출처에 기재된 시작일",
+          "notes": [
+            "교육 종료일은 졸업이나 학위 취득을 뜻하지 않습니다."
+          ]
+        },
+        {
+          "id": "event-67e8e833e6b1f49f29bf",
+          "factId": "fact-b62a0d9ab976e9b86ffb",
+          "date": "1967-07-13",
+          "precision": 11,
+          "kind": "birth",
+          "title": "출처에 기재된 출생일: 1967-07-13",
+          "text": "출처에 기재된 출생일",
+          "notes": []
+        }
+      ]
+    }
+  },
+  "quality": {
+    "missingLabels": [
+      {
+        "locale": "ko",
+        "key": "Q2961975"
+      },
+      {
+        "locale": "ko",
+        "key": "Q32947888"
+      }
+    ],
+    "labelFallbacks": [
+      {
+        "locale": "ko",
+        "key": "Q2961975",
+        "fallbackLocale": "en",
+        "value": "business executive",
+        "unresolved": false
+      },
+      {
+        "locale": "ko",
+        "key": "Q32947888",
+        "fallbackLocale": "en",
+        "value": "bank manager",
+        "unresolved": false
+      }
+    ],
+    "excludedClaims": [],
+    "excludedDates": [],
+    "claimsMissingIds": [],
+    "uncertainDates": [],
+    "datedEventCount": 5,
+    "professionalEventCount": 4,
+    "factCount": 11,
+    "factsWithoutExternalReference": 7,
+    "translationReviewRequired": true,
+    "sourceReviewRequired": true
+  }
+}

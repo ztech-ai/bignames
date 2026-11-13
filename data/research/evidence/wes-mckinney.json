@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "wes-mckinney",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "韦斯·麦金尼",
+    "enName": "Wes McKinney",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "计算机基础与开源",
+    "inclusionReason": "创建pandas并参与Apache Arrow，推动Python数据分析和跨系统数据交换工具的发展。",
+    "priority": 2,
+    "influence": {
+      "stars": 3,
+      "scope": "field",
+      "rationale": "创建pandas并参与Apache Arrow，推动Python数据分析和跨系统数据交换工具的发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:26:20Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Wes McKinney",
+    "requestedTitle": "Wes McKinney",
+    "resolvedTitle": "Wes McKinney",
+    "wikidataId": "Q22279146",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Wes_McKinney",
+      "title": "Wes McKinney",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:26:20Z",
+      "revisionId": 1384356037,
+      "revisionTimestamp": "2026-11-07T21:40:33Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1384356037",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q22279146",
+      "title": "Q22279146",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:14:51Z",
+      "revisionId": 2520333863,
+      "revisionTimestamp": "2026-07-20T19:01:18Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Wes McKinney is an American software developer and businessman. He is the creator and \"Benevolent Dictator for Life\" (BDFL) of the open-source pandas package for data analysis in the Python programming language, and has also authored three versions of the reference book Python for Data Analysis. He is also the creator of Apache Arrow, a cross-language development platform for in-memory data, and Ibis, a unified Python dataframe API. He was the CEO and founder of technology startup Datapad. He was a software engineer at Two Sigma Investments. He founded Ursa Labs, which, in 2021, became part of Voltron Data. In 2022, it was announced that Voltron Data had raised $110 million.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Wes McKinney",
+    "fr": "Wes McKinney",
+    "de": "Wes McKinney",
+    "es": "Wes McKinney"
+  },
+  "descriptions": {
+    "en": "statistician, data scientist",
+    "fr": "développeur, data scientist"
+  },
+  "languageArticles": {
+    "en": "Wes McKinney",
+    "fr": "Wes McKinney"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q22279146$a9407f18-45ae-6f37-eca2-1834df7235a4",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19938912,
+                  "id": "Q19938912"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-12-24T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-12-24"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q22279146$0843e4c7-4b9c-7c72-d818-8c8ce79b0d44",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2732142,
+            "id": "Q2732142"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q22279146$3ac55193-4885-9316-9ee8-eb5beb9faa0c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 183888,
+            "id": "Q183888"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q22279146$79d89f6a-4475-9638-1291-aa75e1be7672",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 29169143,
+            "id": "Q29169143"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q22279146$760A1ADF-7C96-42DC-A3FF-9D90B7AF19DC",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170790,
+            "id": "Q170790"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q22279146$CF3EBD38-7AD0-461F-977D-E3113DA86AF6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5482740,
+            "id": "Q5482740"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q22279146$6c410394-4921-20c6-d572-a366797842e5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15967387,
+            "id": "Q15967387"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q22279146$00252f3c-493b-759b-34fd-ec1846d4ce62",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 26833602,
+            "id": "Q26833602"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q22279146$BBA41D01-F96B-40AA-8799-F665202F5CC7",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49108,
+            "id": "Q49108"
+          }
+        },
+        "qualifiers": {
+          "P512": [
+            {
+              "type": "wikibase-entityid",
+              "value": {
+                "entity-type": "item",
+                "numeric-id": 787674,
+                "id": "Q787674"
+              }
+            }
+          ],
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2003-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2003"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": []
+      },
+      {
+        "id": "Q22279146$D04EE8B1-28AE-4F48-8825-4D2CB8715B0A",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 168751,
+            "id": "Q168751"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2010-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2010"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2011-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2011"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 213660,
+                  "id": "Q213660"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-12-22T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-12-22"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q22279146$D10634C5-2472-4C3C-85F4-DD966B21DFD2",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1985-01-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1985"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54919,
+                  "id": "Q54919"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2018-05-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2018-05-25"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q22279146$9c4405a6-49c6-7cf2-35ee-bf22fcaeec25",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q22279146$566aa911-40e9-e694-ef3d-b0ffeff7bba7",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Wes McKinney.jpg"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q22279146$3794d39a-439e-c480-d489-11da057056d8",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 28746410,
+            "id": "Q28746410"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P106": "occupation",
+    "P800": "notableWork",
+    "P69": "education",
+    "P569": "birthDate",
+    "P27": "citizenship",
+    "P18": "image",
+    "P108": "employer"
+  },
+  "relatedEntities": {
+    "Q15967387": {
+      "id": "Q15967387",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "fr": "Pandas",
+        "en": "Pandas",
+        "de": "Pandas",
+        "ja": "pandas",
+        "es": "Pandas",
+        "ar": "باندا",
+        "ko": "pandas",
+        "zh": "Pandas"
+      },
+      "descriptions": {
+        "en": "Python library for data manipulation and analysis",
+        "de": "Pythonbibliothek für Datenmanipulation und -analyse",
+        "fr": "bibliothèque logicielle Python",
+        "es": "librería para manipulación y análisis de datos en Python",
+        "ko": "데이터 조작과 분석을 위한 파이썬 라이브러리",
+        "ar": "مكتبة برمجية بايثون",
+        "zh": "Python的資料處理與分析的函式庫",
+        "ja": "Pythonのライブラリ"
+      }
+    },
+    "Q168751": {
+      "id": "Q168751",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "es": "Universidad Duke",
+        "ar": "جامعة ديوك",
+        "fr": "Université Duke",
+        "ko": "듀크 대학교",
+        "de": "Duke University",
+        "ja": "デューク大学",
+        "en": "Duke University",
+        "zh": "杜克大学"
+      },
+      "descriptions": {
+        "fr": "université privée située à Durham, Caroline du Nord, États-Unis",
+        "en": "private university in Durham, North Carolina, USA",
+        "de": "private Universität in Durham, North Carolina, USA",
+        "zh": "美國北卡羅來納州達勒姆的私立大學",
+        "ar": "جامعة في الولايات المتحدة",
+        "es": "universidad privada en Durham, Carolina del Norte, Estados Unidos",
+        "ja": "アメリカの私立大学",
+        "ko": "미국의 사립 대학"
+      }
+    },
+    "Q170790": {
+      "id": "Q170790",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "matemático",
+        "ja": "数学者",
+        "fr": "mathématicien ou mathématicienne",
+        "de": "Mathematiker",
+        "en": "mathematician",
+        "ar": "رياضياتي",
+        "ko": "수학자",
+        "zh": "數學家"
+      },
+      "descriptions": {
+        "es": "persona dedicada a las matemáticas",
+        "en": "person with an extensive knowledge of mathematics",
+        "fr": "chercheur ou chercheuse en mathématiques",
+        "de": "Person mit weitreichenden mathematischen Kenntnissen",
+        "zh": "在數學方面擁有淵博知識的人",
+        "ko": "수학을 전공으로 하는 학자",
+        "ja": "数学に属する分野の事柄を第一に、調査および研究する者を指していう呼称",
+        "ar": "شخص لديه معرفة واسعة بالرياضيات"
+      }
+    },
+    "Q183888": {
+      "id": "Q183888",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "développeur ou développeuse informatique",
+        "de": "Softwareentwickler",
+        "en": "software developer",
+        "es": "desarrollador de software",
+        "zh": "软件开发者",
+        "ko": "소프트웨어 개발자",
+        "ar": "مطور برمجيات",
+        "ja": "ソフトウェア開発者"
+      },
+      "descriptions": {
+        "de": "Person oder Unternehmen, die bzw. das an der Erstellung von Software mitwirkt",
+        "en": "person or company concerned with facets of the software development process",
+        "fr": "informaticien spécialisé en programmation",
+        "es": "persona que se dedica a diseñar y programar software",
+        "zh": "關注軟件開發過程的各個方面的人",
+        "ko": "소프트웨어 개발 업무에 종사하는 사람",
+        "ar": "الشخص أو الشركة المعنية بجوانب عملية تطوير البرمجيات",
+        "ja": "ソフトウェア開発工程に何らかの形で関わる人"
+      }
+    },
+    "Q19938912": {
+      "id": "Q19938912",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Autorités BnF",
+        "en": "BnF authorities",
+        "de": "BnF-Normdatei",
+        "es": "data.bnf.fr",
+        "ar": "استنادات المكتبة الوطنية الفرنسية",
+        "ko": "BnF 당국",
+        "ja": "BnFオーソリティーズ",
+        "zh": "Bnf名称规范"
+      },
+      "descriptions": {
+        "fr": "base de données d'autorité concernant personnes, collectivités, titres uniformes textuels et musicaux, noms géographiques et marques commerciales",
+        "en": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
+        "de": "Normdatei für Personen, Organisationen und Werke bei der Französischen Nationalbibliothek",
+        "ko": "프랑스 국립 도서관의 개인, 조직, 작품, 주제 및 지리적 장소에 대한 전거 파일",
+        "ja": "オンラインデータベース",
+        "es": "fichero de autoridad de personas, organizaciones, obras, temas y lugares geográficos, de la Biblioteca Nacional de Francia",
+        "ar": "ملف استناد في المكتبة الفرنسية الوطنية، يحوي بيانات عن الأفراد والمنظمات والأعمال والموضوعات والأقاليم الجغرافية",
+        "zh": "法国国家图书馆人物、组织、作品、话题、地名等的规范档"
+      }
+    },
+    "Q213660": {
+      "id": "Q213660",
+      "fetchedAt": "2026-11-13T10:58:56Z",
+      "labels": {
+        "ko": "링크드인",
+        "ar": "لينكد إن",
+        "zh": "領英",
+        "en": "LinkedIn"
+      },
+      "descriptions": {
+        "en": "American social networking website for people in professional occupations",
+        "fr": "société américaine, nom du service associé",
+        "de": "soziales Netzwerk für Geschäftskontakte",
+        "es": "red social estadounidense en línea para profesionales",
+        "zh": "專業人士職業社交網站",
+        "ar": "شبكة تواصل إجتماعي للناس أصحاب المهن الاحترافية",
+        "ja": "世界最大級のビジネス特化型SNS、および同サービスを提供するシリコンバレーの企業",
+        "ko": "미국의 비즈니스 중심의 소셜 네트워크 서비스"
+      }
+    },
+    "Q26833602": {
+      "id": "Q26833602",
+      "fetchedAt": "2026-11-13T11:14:51Z",
+      "labels": {
+        "de": "Python for data analysis",
+        "en": "Python for data analysis",
+        "fr": "Python for data analysis"
+      },
+      "descriptions": {}
+    },
+    "Q2732142": {
+      "id": "Q2732142",
+      "fetchedAt": "2026-11-13T11:06:35Z",
+      "labels": {
+        "fr": "statisticien ou statisticienne",
+        "en": "statistician",
+        "es": "estadístico",
+        "ko": "통계학자",
+        "de": "Statistiker",
+        "ja": "統計学者",
+        "ar": "عالم إحصاء",
+        "zh": "统计学家"
+      },
+      "descriptions": {
+        "en": "person who works with theoretical or applied statistics",
+        "es": "profesional dedicado a la estadística",
+        "fr": "personne travaillant dans le champ des statistiques théoriques ou appliquées",
+        "de": "jemand, der sich wissenschaftlich mit der Statistik befasst",
+        "ar": "الشخص الذي يعمل بالإحصاءات النظرية أو التطبيقية",
+        "zh": "從事理論或應用統計工作的人",
+        "ja": "統計の専門家"
+      }
+    },
+    "Q28746410": {
+      "id": "Q28746410",
+      "fetchedAt": "2026-11-13T11:14:29Z",
+      "labels": {
+        "fr": "Posit PBC",
+        "en": "Posit PBC",
+        "de": "Posit PBC",
+        "es": "Posit PBC"
+      },
+      "descriptions": {
+        "fr": "entreprise située aux États-Unis",
+        "en": "American firm developing the RStudio IDE"
+      }
+    },
+    "Q29169143": {
+      "id": "Q29169143",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "en": "data scientist",
+        "es": "científico de datos",
+        "fr": "expert en données",
+        "de": "Data Scientist",
+        "zh": "數據科學家",
+        "ja": "データ・サイエンティスト",
+        "ko": "데이터 과학자",
+        "ar": "عالم بيانات"
+      },
+      "descriptions": {
+        "en": "person studying and working with data",
+        "es": "persona que se especializa en ciencia de datos",
+        "fr": "individu qui étudie et qui travaille avec les données",
+        "de": "Person, die im Bereich Data Science arbeit"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q49108": {
+      "id": "Q49108",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "en": "Massachusetts Institute of Technology",
+        "ar": "معهد ماساتشوستس للتقانة",
+        "de": "Massachusetts Institute of Technology",
+        "es": "Instituto Tecnológico de Massachusetts",
+        "fr": "Institut de technologie du Massachusetts",
+        "ja": "マサチューセッツ工科大学",
+        "ko": "매사추세츠 공과대학교",
+        "zh": "麻省理工學院"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts, USA, founded 1861",
+        "ko": "미국 매사추세츠 주의 케임브리지에 있는 연구 중심 공과대학을 모체로 한 사립 대학교",
+        "de": "Universität im US-Bundesstaat Massachusetts",
+        "zh": "1861年建立的一所学校",
+        "fr": "université américaine à Cambridge, Massachusetts",
+        "ar": "جامعة خاصة في مدينة كامبريدج بولاية ماستشوستس الأمريكية، أُسِّسَت عام 1861",
+        "es": "universidad privada localizada en Cambridge, Massachusetts, Estados Unidos de América",
+        "ja": "アメリカ・マサチューセッツ州ケンブリッジにある私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5482740": {
+      "id": "Q5482740",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "programmer",
+        "de": "Programmierer",
+        "es": "programador",
+        "ko": "프로그래머",
+        "ja": "プログラマ",
+        "zh": "程序员",
+        "ar": "مبرمج",
+        "fr": "programmeur"
+      },
+      "descriptions": {
+        "es": "persona que se dedica a la programación informática",
+        "en": "person who writes computer software (subclass of software developer)",
+        "de": "Person, welche Computerprogramme schreibt",
+        "fr": "concepteur de programmes informatiques ou pour automates",
+        "ja": "コンピュータプログラムを書く者",
+        "ko": "컴퓨터 소프트웨어를 만드는 사람",
+        "zh": "寫電腦程式的人",
+        "ar": "الشخص الذي يقوم ببرمجه الحاسوب"
+      }
+    },
+    "Q54919": {
+      "id": "Q54919",
+      "fetchedAt": "2026-11-13T10:59:46Z",
+      "labels": {
+        "fr": "Fichier d'autorité international virtuel",
+        "es": "Fichero de Autoridades Virtual Internacional",
+        "ja": "バーチャル国際典拠ファイル",
+        "zh": "虚拟国际规范文档",
+        "ko": "가상 국제 전거 파일",
+        "ar": "ملف استنادي دولي افتراضي",
+        "en": "Virtual International Authority File",
+        "de": "Virtual International Authority File"
+      },
+      "descriptions": {
+        "de": "internationale Sammlung von Normdaten",
+        "fr": "fichier international d'identification de personnes ou collectivités",
+        "es": "proyecto de bibliotecas nacionales y operado por el Online Computer Library Center para unir los ficheros de autoridad virtual de aquellas bibliotecas",
+        "ko": "OCLC가 운영하는 전거 파일. 약칭 VIAF",
+        "en": "OCLC dataset and service that virtually combines multiple name authority files into a single name authority service",
+        "ja": "複数の国立図書館による共同プロジェクトで、Online Computer Library Center (OCLC) が運営する、国際典拠ファイル",
+        "ar": "ملف استنادي دولي",
+        "zh": "國際權威檔案"
+      }
+    },
+    "Q787674": {
+      "id": "Q787674",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "fr": "baccalauréat ès sciences",
+        "en": "Bachelor of Science",
+        "zh": "理學士",
+        "es": "graduado en ciencias",
+        "de": "Bachelor of Science",
+        "ja": "学士 (理学)",
+        "ar": "بكالوريوس العلوم",
+        "ko": "이학사"
+      },
+      "descriptions": {
+        "de": "Absolventen der Natur-, Human und Wirtschaftswissenschaften, der Ingenieurwissenschaften (meist von Universitäten), Mathematik sowie (in aller Regel) der Informatik",
+        "ar": "نوع درجة البكالوريوس",
+        "en": "type of bachelor's degree",
+        "zh": "本科學位",
+        "es": "tipo de grado universitario",
+        "fr": "grade universitaire anglo-saxon",
+        "ko": "학술적 지위",
+        "ja": "学士の学位の一つ"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Wes McKinney.jpg",
+    "fetchedAt": "2026-11-13T11:14:58Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wes_McKinney.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wes_McKinney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Wes_McKinney.jpg/960px-Wes_McKinney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 3298,
+    "height": 3170,
+    "mediaTimestamp": "2025-06-10T22:17:19Z",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Web Summit",
+    "credit": "Flickr",
+    "description": "Wes McKinney, Cloudera, on the Data Stage during Day 2 of the 2015 Web Summit in the RDS, Dublin, Ireland.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/8d880a568646a311ba363e99.jpg",
+    "cachedImageBytes": 184205,
+    "cachedImageSha256": "e9a86dbae56908aa7b0ca1c7be1f7372b043a87236c20d24585f7fde9c7120f3"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 2,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

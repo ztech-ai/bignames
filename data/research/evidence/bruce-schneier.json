@@ -1,0 +1,1678 @@
+{
+  "schemaVersion": 2,
+  "dateNormalizationVersion": 2,
+  "id": "bruce-schneier",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "布鲁斯·施奈尔",
+    "enName": "Bruce Schneier",
+    "domain": "technology",
+    "domains": [
+      "technology"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "subfield": "网络安全与数字公共事务",
+    "inclusionReason": "从事密码学和安全技术研究，通过著作与公共讨论推动信息安全和数字社会风险认知。",
+    "priority": 1,
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "从事密码学和安全技术研究，通过著作与公共讨论推动信息安全和数字社会风险认知。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  },
+  "fetchedAt": "2026-11-13T11:25:21Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Bruce Schneier",
+    "requestedTitle": "Bruce Schneier",
+    "resolvedTitle": "Bruce Schneier",
+    "wikidataId": "Q368328",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true,
+    "resolutionMethod": "explicit-wikidata-id"
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Schneier",
+      "title": "Bruce Schneier",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:25:21Z",
+      "revisionId": 1383720486,
+      "revisionTimestamp": "2026-11-04T11:07:36Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1383720486",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q368328",
+      "title": "Q368328",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:05:58Z",
+      "revisionId": 2540352717,
+      "revisionTimestamp": "2026-09-05T03:55:24Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Bruce Schneier (; born January 15, 1963) is an American cryptographer, computer security professional, privacy specialist, and writer. Schneier is an adjunct lecturer in public policy at the Harvard Kennedy School and Munk School of Global Affairs & Public Policy and a Fellow at the Berkman Klein Center for Internet & Society as of November, 2013. He is a board member of the Electronic Frontier Foundation, Access Now, and The Tor Project; and an advisory board member of Electronic Privacy Information Center and VerifiedVoting.org. He is the author of several books on general security topics, computer security and cryptography and is a squid enthusiast.",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "fr": "Bruce Schneier",
+    "ko": "브루스 슈나이어",
+    "es": "Bruce Schneier",
+    "en": "Bruce Schneier",
+    "de": "Bruce Schneier",
+    "ja": "ブルース・シュナイアー",
+    "zh": "布魯斯·施奈爾",
+    "ar": "بروس شناير"
+  },
+  "descriptions": {
+    "de": "US-amerikanischer Sachbuchautor und Kryptologe",
+    "en": "American computer scientist (born 1963)",
+    "fr": "informaticien américain",
+    "ko": "미국의 컴퓨터 과학자",
+    "es": "científico de computación estadounidense",
+    "ar": "كاتب أمريكي"
+  },
+  "languageArticles": {
+    "ar": "بروس شناير",
+    "de": "Bruce Schneier",
+    "en": "Bruce Schneier",
+    "es": "Bruce Schneier",
+    "fr": "Bruce Schneier",
+    "ja": "ブルース・シュナイアー",
+    "ko": "브루스 슈나이어",
+    "zh": "布魯斯·施奈爾"
+  },
+  "claims": {
+    "P27": [
+      {
+        "id": "q368328$7F3E1B66-6B83-4A79-9696-64E41788F617",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 30,
+            "id": "Q30"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "q368328$30F28496-9C52-48AE-84BF-D0C116178068",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 60,
+            "id": "Q60"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P569": [
+      {
+        "id": "q368328$8098B601-B5DB-480A-A2DF-AE10263E9EA8",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1963-01-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1963-01-15"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29861311,
+                  "id": "Q29861311"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2629164,
+                  "id": "Q2629164"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-10-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-10-09"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q368328$AED8E9F6-8ADE-421B-9998-29283539DD33",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19938912,
+                  "id": "Q19938912"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2015-10-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2015-10-10"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q368328$99469EAE-7877-4977-ADB2-6E6400F4D56A",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Bruce Schneier 1.jpg"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q368328$1001F95E-F1DF-4E7A-9759-60C8F7780A10",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 15442776,
+            "id": "Q15442776"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$13EBE68A-054A-4053-8E0D-002CD9C087AD",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170790,
+            "id": "Q170790"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$32A5757D-0427-42D6-BC1F-1F2327B57E78",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82594,
+            "id": "Q82594"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$9BF991D6-497A-497C-8D03-92E3C11BED1C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 36180,
+            "id": "Q36180"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-05-22T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-05-22"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 181163,
+                  "id": "Q181163"
+                }
+              },
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11921,
+                  "id": "Q11921"
+                }
+              },
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 169514,
+                  "id": "Q169514"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$0B7A6A71-56BF-4230-9E68-BBB4287333EE",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 169470,
+            "id": "Q169470"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-06-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-06-14"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 181163,
+                  "id": "Q181163"
+                }
+              },
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 169514,
+                  "id": "Q169514"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$98B95D6B-4A77-4F44-BE13-5F132ED64164",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 91947388,
+            "id": "Q91947388"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2026-04-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P166": [
+      {
+        "id": "Q368328$0E209AB9-4229-4F7D-8236-89FB08BC7298",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 31323,
+            "id": "Q31323"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2007-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2007"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.eff.org/awards/past-winners"
+              }
+            ],
+            "P1476": [
+              {
+                "type": "monolingualtext",
+                "value": {
+                  "text": "EFF Awards: Past Winners",
+                  "language": "en"
+                }
+              }
+            ],
+            "P577": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2017-06-28T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2017-06-28"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2025-06-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2025-06-08"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$B81CF7BF-EC28-42A8-956C-D376199EB25E",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 16897956,
+            "id": "Q16897956"
+          }
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2008-01-01T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2008"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q368328$35CED3A2-4416-4C8E-9C3B-3FEE419F8F42",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 149990,
+            "id": "Q149990"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$9664B48E-12EC-41D9-9EF0-42FBE8C54F89",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 168000,
+            "id": "Q168000"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$44AB50D3-6243-4DF3-BD89-15312F310B66",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5944289,
+            "id": "Q5944289"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-10T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2019-07-10"
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          },
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-03-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-03-04"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q368328$D4BCC843-7BBD-4CB4-B92F-7165228A9C22",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 21198,
+            "id": "Q21198"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 206855,
+                  "id": "Q206855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$49638059-477d-afca-1421-a5030eee74bb",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3510521,
+            "id": "Q3510521"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$cebfa224-4933-3deb-eed0-68c4504f1cf5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8789,
+            "id": "Q8789"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q368328$7f894929-4379-5616-bd17-47b82c54ca4b",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4836759,
+            "id": "Q4836759"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$2657a947-405f-3772-8e87-01f8e03ae4f5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13371,
+            "id": "Q13371"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://cyber.harvard.edu/people/bschneier"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2020-02-19T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2020-02-19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$026c00ac-40f0-73e9-8ad2-f284389c6ae5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 37156,
+            "id": "Q37156"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2016-00-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 9,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2016"
+            }
+          ],
+          "P582": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2019-06-00T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 10,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2019-06"
+            }
+          ]
+        },
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://www.schneier.com/blog/archives/2019/06/im_leaving_ibm.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "Q368328$9154fd24-40c7-3d1f-79d4-b33bdedee58c",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 106746930,
+            "id": "Q106746930"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P854": [
+              {
+                "type": "string",
+                "value": "https://inrupt.com/about"
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2021-08-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "date": "2021-08-23"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P856": [
+      {
+        "id": "Q368328$a4c0a34b-4100-4444-0210-678ad93e8b64",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "https://www.schneier.com/"
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P800": [
+      {
+        "id": "Q368328$186c662a-48d8-47f3-1fcb-1b5771ce9bc6",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6540279,
+            "id": "Q6540279"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$7da33318-42c9-9b12-8711-fae0651072d9",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 60744248,
+            "id": "Q60744248"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q368328$204b175d-4b12-8662-bf90-e36910f05589",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 4899970,
+            "id": "Q4899970"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P27": "citizenship",
+    "P19": "birthPlace",
+    "P569": "birthDate",
+    "P31": "instanceOf",
+    "P18": "image",
+    "P106": "occupation",
+    "P166": "award",
+    "P69": "education",
+    "P101": "fieldOfWork",
+    "P108": "employer",
+    "P856": "officialWebsite",
+    "P800": "notableWork"
+  },
+  "relatedEntities": {
+    "Q106746930": {
+      "id": "Q106746930",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "en": "Inrupt Inc."
+      },
+      "descriptions": {
+        "en": "company developing the Solid project"
+      }
+    },
+    "Q11921": {
+      "id": "Q11921",
+      "fetchedAt": "2026-11-13T10:58:53Z",
+      "labels": {
+        "fr": "Wikipédia en portugais",
+        "en": "Portuguese Wikipedia",
+        "ja": "ポルトガル語版ウィキペディア",
+        "de": "portugiesischsprachige Wikipedia",
+        "ar": "ويكيبيديا البرتغالية",
+        "es": "Wikipedia en portugués",
+        "ko": "포르투갈어 위키백과",
+        "zh": "葡萄牙語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "ja": "ウィキペディアのポルトガル語版",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in portugiesischer Sprache",
+        "en": "Portuguese-language edition of Wikipedia",
+        "ko": "포르투갈어로 운영되는 위키백과 언어판이다. 2003년 10월 12일에 시작되었다.",
+        "es": "edición en portugués de la Wikipedia",
+        "ar": "النسخة البرتغالية من ويكيبيديا، الموسوعة الحرة",
+        "zh": "维基百科葡萄牙语版"
+      }
+    },
+    "Q13371": {
+      "id": "Q13371",
+      "fetchedAt": "2026-11-13T10:55:06Z",
+      "labels": {
+        "en": "Harvard University",
+        "fr": "Université Harvard",
+        "de": "Harvard University",
+        "ar": "جامعة هارفارد",
+        "es": "Universidad Harvard",
+        "ja": "ハーバード大学",
+        "ko": "하버드 대학교",
+        "zh": "哈佛大學"
+      },
+      "descriptions": {
+        "en": "private university in Cambridge, Massachusetts",
+        "de": "private Universität in Cambridge, Massachusetts, Vereinigte Staaten",
+        "es": "universidad privada ubicada en Cambridge, Massachusetts, Estados Unidos",
+        "fr": "université américaine située à Cambridge, Massachusetts",
+        "zh": "位於美國麻薩諸塞州劍橋市的私立研究型大學",
+        "ko": "미국의 사립 대학",
+        "ar": "جامعة أمريكية خاصة",
+        "ja": "アメリカ・マサチューセッツ州にある私立大学"
+      }
+    },
+    "Q149990": {
+      "id": "Q149990",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "en": "University of Rochester",
+        "de": "Universität Rochester",
+        "es": "Universidad de Rochester",
+        "fr": "Université de Rochester",
+        "ja": "ロチェスター大学",
+        "ko": "로체스터 대학교",
+        "zh": "羅徹斯特大學",
+        "ar": "جامعة روتشستر"
+      },
+      "descriptions": {
+        "en": "private, nonsectarian, research university in Rochester, New York, United States",
+        "de": "private Universität in Rochester, New York, USA",
+        "fr": "université américaine",
+        "zh": "美国纽约州罗切斯特市的大学",
+        "ar": "جامعة في روتشستر، الولايات المتحدة",
+        "ko": "미국 뉴욕주의 사립 종합대학",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q15442776": {
+      "id": "Q15442776",
+      "fetchedAt": "2026-11-13T11:05:09Z",
+      "labels": {
+        "en": "cryptographer",
+        "fr": "cryptographe",
+        "de": "Kryptograph",
+        "es": "criptógrafo",
+        "ar": "مُعَمٍّ",
+        "zh": "密碼學家",
+        "ko": "암호학자",
+        "ja": "暗号研究者"
+      },
+      "descriptions": {
+        "fr": "spécialiste de la cryptographie",
+        "de": "Beruf, der das Verschlüsseln vertrauenswürdiger Information beinhaltet",
+        "es": "persona que se especializa en la criptografía",
+        "en": "specialist on techniques for secure communication in the presence of third parties",
+        "zh": "在第三方面前進行安全通信技術的專家",
+        "ar": "شخص مُتخصص في تقنيات الاتصال الآمن"
+      }
+    },
+    "Q168000": {
+      "id": "Q168000",
+      "fetchedAt": "2026-11-13T11:00:09Z",
+      "labels": {
+        "ko": "아메리칸 대학교",
+        "fr": "American University",
+        "en": "American University",
+        "es": "Universidad Americana",
+        "de": "American University",
+        "ja": "アメリカン大学",
+        "ar": "الجامعة الأميركية",
+        "zh": "美利坚大学"
+      },
+      "descriptions": {
+        "fr": "université privée américaine (Washington DC)",
+        "en": "private liberal arts and research-based university in Washington, D.C., USA",
+        "de": "Universität in den Vereinigten Staaten",
+        "ar": "جامعة في الولايات المتحدة",
+        "zh": "美國的一所私立大學 (American University)",
+        "ja": "アメリカの私立大学",
+        "es": "universidad privada de artes liberales y basada en la investigación en Washington, D.C., EE.UU.",
+        "ko": "미국의 사립 대학"
+      }
+    },
+    "Q16897956": {
+      "id": "Q16897956",
+      "fetchedAt": "2026-11-13T11:05:58Z",
+      "labels": {
+        "en": "Norbert Wiener Award for Social and Professional Responsibility",
+        "zh": "諾伯特·維納社會與專業責任獎",
+        "ar": "جائزة نوربرت وينر للمسؤولية الاجتماعية والمهنية"
+      },
+      "descriptions": {}
+    },
+    "Q169470": {
+      "id": "Q169470",
+      "fetchedAt": "2026-11-13T10:59:42Z",
+      "labels": {
+        "es": "físico",
+        "ar": "فيزيائي",
+        "ko": "물리학자",
+        "fr": "physicien ou physicienne",
+        "de": "Physiker",
+        "ja": "物理学者",
+        "zh": "物理学家",
+        "en": "physicist"
+      },
+      "descriptions": {
+        "es": "científico que se dedica al estudio de las ciencias físicas",
+        "en": "scientist who does research in physics",
+        "de": "Person, die im Bereich der Physik forscht",
+        "fr": "scientifique étudiant la physique",
+        "zh": "從事物理學研究的科學家",
+        "ja": "物理学に携わる研究者",
+        "ko": "물리학을 연구하는 과학자",
+        "ar": "عالم يقوم بالبحث في الفيزياء"
+      }
+    },
+    "Q169514": {
+      "id": "Q169514",
+      "fetchedAt": "2026-11-13T10:58:54Z",
+      "labels": {
+        "ko": "스웨덴어 위키백과",
+        "fr": "Wikipédia en suédois",
+        "es": "Wikipedia en sueco",
+        "de": "schwedischsprachige Wikipedia",
+        "ja": "スウェーデン語版ウィキペディア",
+        "en": "Swedish Wikipedia",
+        "ar": "ويكيبيديا السويدية",
+        "zh": "瑞典語維基百科"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "Swedish-language edition of Wikipedia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in schwedischer Sprache",
+        "ar": "النسخة السويدية من ويكيبيديا، الموسوعة الحرة",
+        "es": "edición de Wikipedia en sueco",
+        "ja": "ウィキペディアのスウェーデン語版",
+        "zh": "维基百科瑞典语版"
+      }
+    },
+    "Q170790": {
+      "id": "Q170790",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "es": "matemático",
+        "ja": "数学者",
+        "fr": "mathématicien ou mathématicienne",
+        "de": "Mathematiker",
+        "en": "mathematician",
+        "ar": "رياضياتي",
+        "ko": "수학자",
+        "zh": "數學家"
+      },
+      "descriptions": {
+        "es": "persona dedicada a las matemáticas",
+        "en": "person with an extensive knowledge of mathematics",
+        "fr": "chercheur ou chercheuse en mathématiques",
+        "de": "Person mit weitreichenden mathematischen Kenntnissen",
+        "zh": "在數學方面擁有淵博知識的人",
+        "ko": "수학을 전공으로 하는 학자",
+        "ja": "数学に属する分野の事柄を第一に、調査および研究する者を指していう呼称",
+        "ar": "شخص لديه معرفة واسعة بالرياضيات"
+      }
+    },
+    "Q181163": {
+      "id": "Q181163",
+      "fetchedAt": "2026-11-13T10:58:55Z",
+      "labels": {
+        "fr": "Wikipédia en danois",
+        "ko": "덴마크어 위키백과",
+        "es": "Wikipedia en danés",
+        "de": "dänischsprachige Wikipedia",
+        "ja": "デンマーク語版ウィキペディア",
+        "ar": "ويكيبيديا الدنماركية",
+        "zh": "丹麥語維基百科",
+        "en": "Danish Wikipedia"
+      },
+      "descriptions": {
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in dänischer Sprache",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الدنماركية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Danish-language edition of Wikipedia",
+        "es": "wikipedia en danés",
+        "ja": "ウィキペディアのデンマーク語版"
+      }
+    },
+    "Q19938912": {
+      "id": "Q19938912",
+      "fetchedAt": "2026-11-13T10:55:07Z",
+      "labels": {
+        "fr": "Autorités BnF",
+        "en": "BnF authorities",
+        "de": "BnF-Normdatei",
+        "es": "data.bnf.fr",
+        "ar": "استنادات المكتبة الوطنية الفرنسية",
+        "ko": "BnF 당국",
+        "ja": "BnFオーソリティーズ",
+        "zh": "Bnf名称规范"
+      },
+      "descriptions": {
+        "fr": "base de données d'autorité concernant personnes, collectivités, titres uniformes textuels et musicaux, noms géographiques et marques commerciales",
+        "en": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
+        "de": "Normdatei für Personen, Organisationen und Werke bei der Französischen Nationalbibliothek",
+        "ko": "프랑스 국립 도서관의 개인, 조직, 작품, 주제 및 지리적 장소에 대한 전거 파일",
+        "ja": "オンラインデータベース",
+        "es": "fichero de autoridad de personas, organizaciones, obras, temas y lugares geográficos, de la Biblioteca Nacional de Francia",
+        "ar": "ملف استناد في المكتبة الفرنسية الوطنية، يحوي بيانات عن الأفراد والمنظمات والأعمال والموضوعات والأقاليم الجغرافية",
+        "zh": "法国国家图书馆人物、组织、作品、话题、地名等的规范档"
+      }
+    },
+    "Q206855": {
+      "id": "Q206855",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الروسية",
+        "es": "Wikipedia en ruso",
+        "fr": "Wikipédia en russe",
+        "ja": "ロシア語版ウィキペディア",
+        "ko": "러시아어 위키백과",
+        "zh": "俄語維基百科",
+        "de": "russischsprachige Wikipedia",
+        "en": "Russian Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in russischer Sprache",
+        "es": "versión en ruso de Wikipedia, la enciclopedia libre",
+        "ar": "النسخة الروسية من ويكيبيديا، الموسوعة الحرة",
+        "en": "Russian-language edition of Wikipedia",
+        "zh": "维基百科俄语版",
+        "ja": "ウィキペディアのロシア語版",
+        "ko": "위키백과 러시아어판"
+      }
+    },
+    "Q21198": {
+      "id": "Q21198",
+      "fetchedAt": "2026-11-13T11:00:30Z",
+      "labels": {
+        "fr": "informatique",
+        "de": "Informatik",
+        "es": "ciencias de la computación",
+        "ja": "計算機科学",
+        "ar": "علم الحاسوب",
+        "ko": "컴퓨터 과학",
+        "zh": "計算機科學",
+        "en": "computer science"
+      },
+      "descriptions": {
+        "en": "study of computation",
+        "es": "ciencia dedicada a la computación y al procesado de información",
+        "de": "Wissenschaft von der systematischen Verarbeitung von Informationen",
+        "fr": "activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique",
+        "zh": "研究信息和計算的理論基礎",
+        "ja": "情報と計算の理論的基礎、及びそのコンピュータ上への実装と応用に関する研究分野",
+        "ko": "전산 이론, 소프트웨어, 하드웨어의 중점을 둔 정보과학의 한 분야",
+        "ar": "دراسة الحوسبة"
+      }
+    },
+    "Q2629164": {
+      "id": "Q2629164",
+      "fetchedAt": "2026-11-13T11:00:11Z",
+      "labels": {
+        "ja": "Internet Speculative Fiction Database",
+        "fr": "Internet Speculative Fiction Database",
+        "en": "Internet Speculative Fiction Database",
+        "es": "Internet Speculative Fiction Database",
+        "zh": "網路推理小說資料庫",
+        "ko": "인터넷 사변 소설 데이터베이스",
+        "de": "Internet Speculative Fiction Database",
+        "ar": "قاعدة بيانات الخيال التأملي على الإنترنت"
+      },
+      "descriptions": {
+        "es": "base de datos de información bibliográfica sobre ciencia ficción y géneros relacionados como fantasía y horror",
+        "fr": "site web",
+        "en": "online database of written speculative fiction and its creators",
+        "ko": "공상 과학 소설(SF)의 한 부분인 사변 소설(Speculative Fiction)과 그 창작자들에 대한 데이터베이스",
+        "de": "Literaturdatenbank",
+        "zh": "推想小說及其創作者的在線數據庫"
+      }
+    },
+    "Q29861311": {
+      "id": "Q29861311",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "en": "SNAC",
+        "es": "SNAC",
+        "fr": "SNAC",
+        "ar": "الشبكات الاجتماعية وسياق الأرشيف",
+        "de": "SNAC",
+        "ja": "SNAC",
+        "zh": "社交網絡及存檔內容",
+        "ko": "SNAC"
+      },
+      "descriptions": {
+        "de": "Online Datenbank für Archivgut zu Personen, Familien und Körperschaften",
+        "en": "online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",
+        "ja": "図書館などが所蔵する歴史的記録を発見、検索、使用し、人物のソーシャルネットワークを構築するするためのオンラインプロジェクト",
+        "es": "proyecto en línea para descubrir, localizar y utilizar registros históricos distribuidos en relación con personas, familias y organizaciones individuales",
+        "ko": "온라인 인명 데이터베이스"
+      }
+    },
+    "Q30": {
+      "id": "Q30",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "es": "Estados Unidos",
+        "zh": "美國",
+        "ar": "الولايات المتحدة",
+        "de": "Vereinigte Staaten",
+        "en": "United States",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "ko": "미국"
+      },
+      "descriptions": {
+        "fr": "pays d'Amérique du Nord",
+        "es": "país ubicado principalmente en América del Norte",
+        "ko": "북아메리카의 국가",
+        "de": "Staat in Nordamerika",
+        "ar": "دولة في أمريكا الشمالية",
+        "ja": "北アメリカの国",
+        "en": "country located primarily in North America",
+        "zh": "北美洲國家"
+      }
+    },
+    "Q31323": {
+      "id": "Q31323",
+      "fetchedAt": "2026-11-13T11:05:10Z",
+      "labels": {
+        "zh": "电子前哨基金会先锋奖",
+        "fr": "EFF Award",
+        "en": "EFF Award",
+        "es": "Premio Pionero EFF",
+        "de": "EFF Award",
+        "ja": "EFFパイオニア賞",
+        "ar": "جائزة الرواد لمؤسسة التخوم الإلكترونية"
+      },
+      "descriptions": {
+        "es": "premio anual otorgado por la EFF",
+        "de": "Preis für Menschen, die bedeutende Beiträge zur Stärkung von Individuen im Umgang mit Computern gemacht haben",
+        "en": "science and engineering award",
+        "ja": "電子フロンティア財団 (EFF) が授与する科学技術賞",
+        "fr": "prix scientifique dédié aux chercheurs, innovateurs et personnalités du numérique et de l'informatique"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q3510521": {
+      "id": "Q3510521",
+      "fetchedAt": "2026-11-13T11:05:59Z",
+      "labels": {
+        "en": "computer security",
+        "zh": "计算机安全",
+        "fr": "sécurité des systèmes d'information",
+        "ar": "أمن الحاسوب",
+        "es": "seguridad informática",
+        "ko": "컴퓨터 보안",
+        "ja": "コンピューター・セキュリティ",
+        "de": "Computersicherheit"
+      },
+      "descriptions": {
+        "es": "protección de los sistemas informáticos contra la divulgación, el robo o los daños de la información",
+        "en": "protection of computer systems and networks from theft, damage, misuse or data leak",
+        "ar": "فرع من فروع التقانة المعروفة باسم أمن المعلومات، كما هي مطبقة على الحاسوب والشبكات",
+        "fr": "récapitulatif des techniques en rapport avec la sécurité des systèmes d'information",
+        "ja": "コンピューターシステムを災害、誤用および不正アクセスなどから守ること",
+        "ko": "서비스의 중단 또는 오용으로부터 컴퓨터 시스템을 보호하는 것",
+        "de": "Schutz von Computersystemen und -netzwerken vor Diebstahl, Schäden oder Missbrauch"
+      }
+    },
+    "Q36180": {
+      "id": "Q36180",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "zh": "作家",
+        "es": "escritor",
+        "ar": "كاتب",
+        "fr": "écrivain ou écrivaine",
+        "ko": "작가",
+        "de": "Schriftsteller",
+        "ja": "著作家",
+        "en": "writer"
+      },
+      "descriptions": {
+        "de": "Person, die literarische Texte verfasst",
+        "es": "persona que crea obras escritas, especialmente de carácter literario",
+        "en": "person who uses written words to communicate ideas and to produce literary works",
+        "fr": "personne qui rédige des ouvrages littéraires ou scientifiques",
+        "zh": "以寫作為業的人",
+        "ko": "아이디어를 전달하고 문학 작품을 만들기 위해 글을 사용하는 사람",
+        "ar": "الشخص الذي يستخدم الكلمات المكتوبة لتوصيل الأفكار وإنتاج الأعمال الأدبية",
+        "ja": "職業のひとつ"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q37156": {
+      "id": "Q37156",
+      "fetchedAt": "2026-11-13T10:59:17Z",
+      "labels": {
+        "ar": "آي‌ بي‌ إم",
+        "ko": "IBM",
+        "en": "IBM"
+      },
+      "descriptions": {
+        "en": "American multinational technology company",
+        "fr": "fabricant d'ordinateurs, également fournisseur de logiciel et de services informatiques",
+        "es": "corporación multinacional estadounidense de tecnología y consultoría",
+        "de": "US-amerikanisches Technologieunternehmen",
+        "ja": "アメリカの多国籍テクノロジー企業",
+        "zh": "美国跨国科技公司",
+        "ar": "شركة متعددة الجنسيات",
+        "ko": "미국의 다국적 기술 및 컨설팅 회사"
+      }
+    },
+    "Q4836759": {
+      "id": "Q4836759",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "BT Managed Security Solutions",
+        "zh": "BT公司"
+      },
+      "descriptions": {
+        "ar": "شركة"
+      }
+    },
+    "Q4899970": {
+      "id": "Q4899970",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Beyond Fear: Thinking Sensibly About Security in an Uncertain World"
+      },
+      "descriptions": {
+        "en": "2003 book by Bruce Schneier"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q5944289": {
+      "id": "Q5944289",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Hunter College High School",
+        "fr": "Hunter College High School",
+        "ja": "ハンター大学高校",
+        "zh": "亨特学院校园学校",
+        "ar": "ثانوية كلية هانتر"
+      },
+      "descriptions": {
+        "ar": "ثانوية عامة في مانهاتن، الولايات المتحدة",
+        "en": "high school in Manhattan, New York City"
+      }
+    },
+    "Q60": {
+      "id": "Q60",
+      "fetchedAt": "2026-11-13T11:05:12Z",
+      "labels": {
+        "ar": "نيويورك",
+        "fr": "New York",
+        "ja": "ニューヨーク",
+        "es": "Nueva York",
+        "ko": "뉴욕",
+        "zh": "纽约",
+        "en": "New York City",
+        "de": "New York City"
+      },
+      "descriptions": {
+        "en": "most populous city in the United States",
+        "fr": "ville de l'État de New York et plus grande ville des États-Unis",
+        "de": "bevölkerungsreichste Stadt der Vereinigten Staaten",
+        "es": "ciudad más poblada del estado de Nueva York, y de los Estados Unidos",
+        "ko": "미국의 최대 도시",
+        "zh": "美國最大都市、國際大都市之一",
+        "ja": "アメリカ合衆国ニューヨーク州の都市",
+        "ar": "المدينة الأكثر اكتظاظًا بالسكان في الولايات المتحدة"
+      }
+    },
+    "Q60744248": {
+      "id": "Q60744248",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Click Here to Kill Everybody"
+      },
+      "descriptions": {
+        "en": "2018 non-fiction book"
+      }
+    },
+    "Q6540279": {
+      "id": "Q6540279",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "en": "Liars and Outliers",
+        "de": "Die Kunst des Vertrauens"
+      },
+      "descriptions": {
+        "de": "Buch von Bruce Schneier",
+        "en": "2012 non-fiction work by Bruce Schneier",
+        "fr": "livre de Bruce Schneier",
+        "es": "libro de Bruce Schneier"
+      }
+    },
+    "Q82594": {
+      "id": "Q82594",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "電腦科學家",
+        "ko": "컴퓨터 과학자",
+        "fr": "informaticien ou informaticienne",
+        "es": "informático teórico",
+        "de": "Informatiker",
+        "ar": "عالم حاسوب",
+        "ja": "計算機科学者",
+        "en": "computer scientist"
+      },
+      "descriptions": {
+        "es": "profesional en ciencias de la computación",
+        "en": "one who studies or practices computer science",
+        "de": "Berufsbezeichnung",
+        "fr": "scientifique travaillant dans le domaine de l'informatique",
+        "ja": "計算機科学を専門とする科学者",
+        "ko": "컴퓨터 과학의 지식, 정보와 계산의 이론적 기초와 그 응용에 대한 연구자"
+      }
+    },
+    "Q8789": {
+      "id": "Q8789",
+      "fetchedAt": "2026-11-13T11:05:13Z",
+      "labels": {
+        "en": "cryptography",
+        "fr": "cryptographie",
+        "de": "Kryptographie",
+        "ar": "تعمية",
+        "es": "criptografía",
+        "ja": "暗号理論",
+        "ko": "암호학",
+        "zh": "密码编码学"
+      },
+      "descriptions": {
+        "en": "practice and study of secure communication techniques",
+        "es": "práctica y estudio de técnicas de comunicación segura en presencia de terceros",
+        "de": "Techniken zur sicheren Kommunikation in Anwesenheit Dritter",
+        "fr": "pratique et étude des techniques de communication sécurisée en présence de tiers",
+        "zh": "研究如何构造性能良好、实现方便的密码体制的方法",
+        "ko": "정보를 보호하기 위한 언어학적 및 수학적 방법론을 다루는 학문",
+        "ja": "第三者には理解できないように情報を暗号化し解読する技術理論",
+        "ar": "فرع من علم التعمية يهتم بدراسة تقانات جعل رسائل البيانات غير مقروءة للعموم لأغراض الأمن"
+      }
+    },
+    "Q91947388": {
+      "id": "Q91947388",
+      "fetchedAt": "2026-11-13T11:06:00Z",
+      "labels": {
+        "de": "Sicherheitsberater",
+        "en": "security advisor"
+      },
+      "descriptions": {
+        "de": "Dienstleistungsberuf"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Bruce Schneier 1.jpg",
+    "fetchedAt": "2026-11-13T11:06:00Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruce_Schneier_1.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bruce_Schneier_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bruce_Schneier_1.jpg/960px-Bruce_Schneier_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "width": 1536,
+    "height": 2048,
+    "mediaTimestamp": "2007-08-24T22:08:24Z",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "sfllaw",
+    "credit": "https://www.flickr.com/photos/sfllaw/507933411/",
+    "description": "Bruce Schneier at CFP 2007: Open panel on Net Freedom.",
+    "attributionRequired": "true",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/753b790d2bb61a51f13eae93.jpg",
+    "cachedImageBytes": 291033,
+    "cachedImageSha256": "afc714f66a24ab9dc000114e17dc8c0020dc1b8585aec53390afef7511fc3559"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 3,
+    "referenceUrls": 4,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}

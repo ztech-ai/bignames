@@ -1,0 +1,662 @@
+{
+  "schemaVersion": 1,
+  "id": "hun-manet",
+  "cutoffDate": "2026-11-13",
+  "selection": {
+    "name": "洪玛奈",
+    "enName": "Hun Manet",
+    "domain": "politics",
+    "domains": [
+      "politics"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "subfield": "柬埔寨政治",
+    "inclusionReason": "从军队进入柬埔寨政府领导层，其治理安排与经济外交体现该国政治代际交接。",
+    "priority": 2
+  },
+  "fetchedAt": "2026-11-13T11:02:33Z",
+  "status": "needs-review",
+  "publicationReady": false,
+  "identity": {
+    "requestedName": "Hun Manet",
+    "requestedTitle": "Hun Manet",
+    "resolvedTitle": "Hun Manet",
+    "wikidataId": "Q13024351",
+    "humanEntityConfirmed": true,
+    "editorialIdentityReviewRequired": true
+  },
+  "lifeStatus": {
+    "reviewRequired": true,
+    "deathDatesInSource": [],
+    "livingCategoryInSource": true,
+    "interpretation": "not-confirmed",
+    "note": "No death statement is not proof of life. Check recent independent/official evidence before setting death=null."
+  },
+  "sources": [
+    {
+      "id": "wikipedia-en",
+      "url": "https://en.wikipedia.org/wiki/Hun_Manet",
+      "title": "Hun Manet",
+      "publisher": "Wikipedia",
+      "retrievedAt": "2026-11-13T11:02:33Z",
+      "revisionId": 1381555689,
+      "revisionTimestamp": "2026-10-23T08:34:46Z",
+      "permanentUrl": "https://en.wikipedia.org/w/index.php?oldid=1381555689",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q13024351",
+      "title": "Q13024351",
+      "publisher": "Wikidata",
+      "retrievedAt": "2026-11-13T11:02:34Z",
+      "revisionId": 2568214544,
+      "revisionTimestamp": "2026-11-12T08:30:00Z",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "intro": {
+    "language": "en",
+    "text": "Hun Manet (born 20 October 1977) is a Cambodian politician and military officer who has served as Prime Minister of Cambodia and Vice President of the ruling Cambodian People's Party (CPP) since 2023. He is the second child of Senate president and former prime minister Hun Sen and Bun Rany.\nManet grew up in Phnom Penh, where he received his general education before joining the Royal Cambodian Armed Forces (RCAF) in 1995. That same year, he was admitted to the United States Military Academy at West Point, becoming the first Cambodian to graduate from the academy in 1999. Prior to entering politics, he served in the Royal Cambodian Army (RCA), rising to the position of the Royal Cambodian Army and later even becoming the deputy commander-in-chief of the Royal Cambodian Armed Forces. \nFollowing the 2023 general election, his father announced his resignation as prime minister on 26 July, designating Manet as his successor. After receiving a royal nomination from King Norodom Sihamoni, Manet and his cabinet were unanimously approved by the National Assembly and formally sworn into office on 22 August 2023. As prime minister, he has overseen major infrastructure projects such as the construction...",
+    "sourceId": "wikipedia-en",
+    "usage": "Research excerpt; paraphrase and cross-check before publication."
+  },
+  "labels": {
+    "en": "Hun Manet",
+    "de": "Hun Manet",
+    "fr": "Hun Manet",
+    "zh": "洪瑪奈",
+    "es": "Hun Manet",
+    "ja": "フン・マネット",
+    "ar": "هون مانيت",
+    "ko": "훈 마넷"
+  },
+  "descriptions": {
+    "en": "Prime Minister of Cambodia since 2023",
+    "fr": "militaire et homme d'État cambodgien",
+    "es": "político camboyano",
+    "zh": "柬埔寨第33任首相（總理）",
+    "de": "Premierminister von Kambodscha",
+    "ar": "رئيس مجلس الوزراء الكمبودي",
+    "ja": "カンボジア王国の首相",
+    "ko": "캄보디아 총리"
+  },
+  "languageArticles": {
+    "ar": "هون مانيت",
+    "de": "Hun Manet",
+    "en": "Hun Manet",
+    "es": "Hun Manet",
+    "fr": "Hun Manet",
+    "ja": "フン・マネット",
+    "ko": "훈 마넷",
+    "zh": "洪玛奈"
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q13024351$D8883B89-D5D4-4D8B-8B38-6A2E7DF1165C",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 5,
+            "id": "Q5"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30239,
+                  "id": "Q30239"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "id": "Q13024351$B2252C63-FAC1-4229-ACBC-E1259D6015DD",
+        "rank": "normal",
+        "value": {
+          "type": "time",
+          "value": {
+            "time": "+1977-10-20T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "date": "1977-10-20"
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          },
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30239,
+                  "id": "Q30239"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P69": [
+      {
+        "id": "Q13024351$E236777C-8443-4BF9-B5FE-C89542DFD7C5",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 9219,
+            "id": "Q9219"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      },
+      {
+        "id": "Q13024351$B7478ED1-6674-429A-8A88-3814E48DE671",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 49210,
+            "id": "Q49210"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2019-07-08T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ],
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P27": [
+      {
+        "id": "Q13024351$12644822-3D49-4AC4-A610-CEC696355F81",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 424,
+            "id": "Q424"
+          }
+        },
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q13024351$700A5273-2B6C-445B-BDA3-2052F579BCE7",
+        "rank": "normal",
+        "value": {
+          "type": "string",
+          "value": "Hun Manet in Australia on March 5, 2024.jpg"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2024-03-05T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2024-03-05"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "P19": [
+      {
+        "id": "Q13024351$2F6EA477-224F-4BEA-9E75-1B9D04773E20",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2221903,
+            "id": "Q2221903"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 328,
+                  "id": "Q328"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q13024351$ef64d5cc-51a7-4a23-83ad-6c2db509a36f",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 82955,
+            "id": "Q82955"
+          }
+        },
+        "qualifiers": {},
+        "references": [
+          {
+            "P143": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30239,
+                  "id": "Q30239"
+                }
+              }
+            ]
+          },
+          {
+            "P248": [
+              {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36578,
+                  "id": "Q36578"
+                }
+              }
+            ],
+            "P813": [
+              {
+                "type": "time",
+                "value": {
+                  "time": "+2026-11-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13024351$85f0b4d6-45ae-22cc-02d8-cd4a06bd7373",
+        "rank": "normal",
+        "value": {
+          "type": "wikibase-entityid",
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1999325,
+            "id": "Q1999325"
+          }
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "type": "time",
+              "value": {
+                "time": "+2023-08-22T00:00:00Z",
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "precision": 11,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "date": "2023-08-22"
+            }
+          ]
+        },
+        "references": []
+      }
+    ]
+  },
+  "propertyNames": {
+    "P31": "instanceOf",
+    "P569": "birthDate",
+    "P69": "education",
+    "P27": "citizenship",
+    "P18": "image",
+    "P19": "birthPlace",
+    "P106": "occupation",
+    "P39": "position"
+  },
+  "relatedEntities": {
+    "Q1999325": {
+      "id": "Q1999325",
+      "fetchedAt": "2026-11-13T11:02:37Z",
+      "labels": {
+        "es": "primer ministro de Camboya",
+        "en": "Prime Minister of Cambodia",
+        "ja": "カンボジアの首相",
+        "fr": "Premier ministre du Cambodge",
+        "ar": "رئيس وزراء كمبوديا",
+        "zh": "柬埔寨首相",
+        "ko": "캄보디아의 총리",
+        "de": "Premierminister von Kambodscha"
+      },
+      "descriptions": {
+        "es": "jefe de Gobierno de Camboya",
+        "en": "Head of government of Cambodia",
+        "fr": "chef du gouvernement du Cambodge",
+        "de": "Regierungschef von Kambodscha"
+      }
+    },
+    "Q2221903": {
+      "id": "Q2221903",
+      "fetchedAt": "2026-11-13T11:02:37Z",
+      "labels": {
+        "en": "Memot District",
+        "fr": "Memot",
+        "ja": "メモット郡",
+        "es": "Memot",
+        "zh": "棉末县"
+      },
+      "descriptions": {
+        "fr": "district de la province cambodgienne de Tbong Khmum",
+        "en": "district in Tboung Khmum, Cambodia"
+      }
+    },
+    "Q30239": {
+      "id": "Q30239",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "ar": "ويكيبيديا الصينية",
+        "es": "Wikipedia en chino",
+        "fr": "Wikipédia en chinois",
+        "ja": "中国語版ウィキペディア",
+        "ko": "중국어 위키백과",
+        "de": "chinesischsprachige Wikipedia",
+        "zh": "中文維基百科",
+        "en": "Chinese Wikipedia"
+      },
+      "descriptions": {
+        "en": "Chinese-language edition of Wikipedia",
+        "es": "edición en chino de la Wikipedia",
+        "zh": "維基百科的中文版本",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in chinesischer Sprache",
+        "ko": "위키백과의 중국어판",
+        "fr": "édition de Wikipédia",
+        "ar": "النسخة الصينية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの中国語版"
+      }
+    },
+    "Q328": {
+      "id": "Q328",
+      "fetchedAt": "2026-11-13T10:55:08Z",
+      "labels": {
+        "fr": "Wikipédia en anglais",
+        "de": "englischsprachige Wikipedia",
+        "es": "Wikipedia en inglés",
+        "ar": "ويكيبيديا الإنجليزية",
+        "ja": "英語版ウィキペディア",
+        "ko": "영어 위키백과",
+        "zh": "英語維基百科",
+        "en": "English Wikipedia"
+      },
+      "descriptions": {
+        "fr": "édition de Wikipédia",
+        "en": "English-language edition of Wikipedia",
+        "es": "versión en inglés de Wikipedia, la enciclopedia libre",
+        "de": "Ausgabe der freien Online-Enzyklopädie Wikipedia in englischer Sprache",
+        "zh": "維基百科英语版",
+        "ko": "영어판 위키백과",
+        "ar": "النسخة الإنجليزية من ويكيبيديا، الموسوعة الحرة",
+        "ja": "ウィキペディアの英語版"
+      }
+    },
+    "Q36578": {
+      "id": "Q36578",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "Integrated Authority File",
+        "ja": "統合典拠ファイル",
+        "ko": "독일 통합전거파일",
+        "ar": "ملف استنادي متكامل",
+        "zh": "整合规范文档",
+        "de": "Gemeinsame Normdatei",
+        "fr": "Gemeinsame Normdatei",
+        "es": "Gemeinsame Normdatei"
+      },
+      "descriptions": {
+        "de": "internationale Normdatei zur Ansetzung von Namen und Sachbegriffen",
+        "en": "German National Library authority file for personal names, subject headings and corporate bodies",
+        "fr": "fichier d'autorités partagé de la Bibliothèque nationale allemande pour les noms de personnes, de collectivités et de concepts",
+        "es": "índice estandarizado para el control de autoridades",
+        "ja": "人名、件名標目、法人のための国際典拠ファイル",
+        "zh": "个人名称、题目重点及企业实体的国际认可档案",
+        "ko": "인명, 법인, 주제명 표목을 다루는 독일의 전거 파일"
+      }
+    },
+    "Q424": {
+      "id": "Q424",
+      "fetchedAt": "2026-11-13T11:02:39Z",
+      "labels": {
+        "es": "Camboya",
+        "zh": "柬埔寨",
+        "de": "Kambodscha",
+        "ar": "كمبوديا",
+        "en": "Cambodia",
+        "fr": "Cambodge",
+        "ko": "캄보디아",
+        "ja": "カンボジア"
+      },
+      "descriptions": {
+        "fr": "pays d'Asie du Sud-Est",
+        "zh": "東南亞國家",
+        "es": "país de Asia Sudoriental",
+        "de": "Staat in Südostasien",
+        "ar": "دولة في جنوب شرق آسيا",
+        "en": "country in Southeast Asia",
+        "ja": "東南アジアの国",
+        "ko": "동남아시아의 국가"
+      }
+    },
+    "Q49210": {
+      "id": "Q49210",
+      "fetchedAt": "2026-11-13T11:02:39Z",
+      "labels": {
+        "en": "New York University",
+        "ar": "جامعة نيويورك",
+        "de": "New York University",
+        "es": "Universidad de Nueva York",
+        "fr": "Université de New York",
+        "ja": "ニューヨーク大学",
+        "ko": "뉴욕 대학교",
+        "zh": "纽约大学"
+      },
+      "descriptions": {
+        "en": "private university in New York City",
+        "ko": "미국 뉴욕주의 사립 대학",
+        "de": "Universität in den Vereinigten Staaten",
+        "fr": "université américaine",
+        "es": "universidad privada en Nueva York, Estados Unidos",
+        "zh": "美国纽约州纽约市私立研究型大学",
+        "ar": "جامعة في الولايات المتحدة",
+        "ja": "アメリカの私立大学"
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "fetchedAt": "2026-11-13T10:55:09Z",
+      "labels": {
+        "en": "human",
+        "fr": "être humain",
+        "de": "Mensch",
+        "es": "ser humano",
+        "ja": "ヒト",
+        "zh": "人類",
+        "ko": "사람",
+        "ar": "إنسان"
+      },
+      "descriptions": {
+        "en": "any single member of Homo sapiens, unique extant species of the genus Homo",
+        "fr": "individu appartenant à l’espèce Homo sapiens, la seule espèce restante du genre Homo – distinct de « humain fictif » et de « humain possiblement fictif »",
+        "de": "höheres Säugetier aus der Ordnung der Primaten",
+        "es": "nombre común de Homo sapiens, única especie existente del género Homo",
+        "ko": "영장류의 일종",
+        "zh": "靈長目人科人屬的物種",
+        "ja": "霊長目ヒト科の動物",
+        "ar": "الاسم الشائع للإنسان العاقل، الأنواع الفريدة الموجودة من جنس الإنسان"
+      }
+    },
+    "Q82955": {
+      "id": "Q82955",
+      "fetchedAt": "2026-11-13T10:55:10Z",
+      "labels": {
+        "zh": "政治人物",
+        "es": "político",
+        "ar": "سياسي",
+        "ko": "정치인",
+        "fr": "personnalité politique",
+        "de": "Politiker",
+        "ja": "政治家",
+        "en": "politician"
+      },
+      "descriptions": {
+        "en": "person who seeks or holds a political office or mandate or is otherwise politically active",
+        "es": "persona que desempeña o aspira a desempeñar un cargo político",
+        "de": "Person, die ein politisches Amt oder Mandat innehat oder in sonstiger Weise politisch wirkt",
+        "fr": "personne impliquée dans la vie politique",
+        "zh": "參與政治的人物、政府官員",
+        "ja": "議員・地方自治体の首長といった、選挙で公職に選出され、政策や法律を決める職業",
+        "ko": "정치에 참여하는 인물",
+        "ar": "الشخص الذي يسعى إلى شغل منصب سياسي أو ولاية أو يشغلها أو يكون ناشطًا سياسيًا بأي شكل آخر"
+      }
+    },
+    "Q9219": {
+      "id": "Q9219",
+      "fetchedAt": "2026-11-13T11:02:41Z",
+      "labels": {
+        "en": "United States Military Academy",
+        "fr": "Académie militaire de West Point",
+        "de": "West Point",
+        "ar": "الأكاديمية العسكرية الأمريكية",
+        "es": "Academia Militar de los Estados Unidos",
+        "ja": "陸軍士官学校",
+        "ko": "미국 육군사관학교",
+        "zh": "西点军校"
+      },
+      "descriptions": {
+        "es": "escuela militar creada en 1802",
+        "de": "Militärakademie der Vereinigten Staaten in West Point, New York",
+        "en": "federal service academy in West Point, New York, United States",
+        "fr": "académie fédérale formant des officiers militaires dans l'État de New York",
+        "zh": "位于美国纽约州西点的军事学校",
+        "ko": "미국 육군의 장교 양성 기관",
+        "ja": "アメリカ陸軍の士官候補生養成校"
+      }
+    }
+  },
+  "portrait": {
+    "title": "File:Hun Manet in Australia on March 5, 2024.jpg",
+    "fetchedAt": "2026-11-13T11:02:46Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hun_Manet_in_Australia_on_March_5,_2024.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hun_Manet_in_Australia_on_March_5%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hun_Manet_in_Australia_on_March_5%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "width": 861,
+    "height": 1144,
+    "mediaTimestamp": "2024-08-31T12:28:22Z",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "author": "BPMI Setpres/Muchlis Jr",
+    "credit": "[FOTO] Presiden Jokowi Tingkatkan Kerja Sama dengan Kamboja Saat Bertemu PM Hun Manet",
+    "description": "Cambodian Prime Minister Hun Manet holds a special summit with Indonesian President Joko Widodo to mark the 65th anniversary of the establishment of diplomatic relations at the Park Hyatt Hotel in Melbourne, Australia on March 5, 2024.",
+    "attributionRequired": "false",
+    "openLicenseRecognized": true,
+    "identityReviewRequired": true,
+    "colorReviewRequired": true,
+    "cachedImage": "data/research/cache/portraits/199525878144829e6ed40c88.jpg",
+    "cachedImageBytes": 214468,
+    "cachedImageSha256": "f13ee8a0e4919f35d436d7099c9909bce96a8e1ed6ee88d90afb85ee8ccd8b4a"
+  },
+  "qualitySignals": {
+    "hasBirthDate": true,
+    "datedProfessionalStatements": 1,
+    "referenceUrls": 0,
+    "sourceRevisionAfterCutoff": false
+  },
+  "reviewChecklist": [
+    "Confirm identity against official biography",
+    "Check living/deceased status as of cutoff",
+    "Review latest career events and distinguish former/current offices",
+    "Cross-check significant claims against primary/independent sources",
+    "Write original concise summary and reverse chronology",
+    "Verify portrait identity, license, credit and original color",
+    "Review all eight language versions against the same canonical facts"
+  ],
+  "coverageNote": "Retrieved public structured evidence, not a verified complete biography. Retrieval date does not prove coverage through cutoff."
+}
