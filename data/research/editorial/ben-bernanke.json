@@ -1,0 +1,131 @@
+{
+  "id": "ben-bernanke",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2026-07-09",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://www.federalreservehistory.org/people/ben-s-bernanke",
+    "https://www.brookings.edu/people/ben-s-bernanke/",
+    "https://www.kva.se/en/news/the-prize-in-economic-sciences-2022/",
+    "https://www.mprnews.org/story/2022/10/10/former-fed-chair-bernanke-shares-nobel-for-research-on-banks",
+    "https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review",
+    "https://www.anthropic.com/news/ben-bernanke",
+    "https://www.reuters.com/business/former-fed-chair-ben-bernanke-joins-anthropics-ai-oversight-trust-2026-07-09/",
+    "https://econpapers.repec.org/paper/risnobelp/2022_5f011.htm"
+  ],
+  "lifeStatusEvidence": "https://www.anthropic.com/news/ben-bernanke",
+  "identityEvidence": {
+    "wikidataId": "Q201795",
+    "officialBiography": "https://www.brookings.edu/people/ben-s-bernanke/",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Bernanke_official_portrait.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ben_Bernanke_official_portrait.jpg#Licensing",
+    "localFile": "public/assets/portraits/ben-bernanke.jpg",
+    "sha256": "32e3d855c258877a27b9df4c0f1ca8eee9ae41c51eb75adf37096c17682f449a"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Cached claims and draft timeline reviewed as unverified leads; dates and degree claims checked against Federal Reserve and Brookings biographies.",
+    "Distinguished Nobel research from crisis-era policy judgments; included criticism of emergency measures."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "49b611174712637bbe185ca095ee1aae65684db175b168c328220d17c42a4d75",
+    "englishReferenceTextHash": "76d4c032bd103f18b0f685cd94994022070861f55d1a14fd33338ce89be19a3d",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 39,
+        "sha256": "cf27f6fc5154c68dc6fae6a9917d50c7068085ec1e66cadd382bd9bfa006ae70",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 39,
+        "sha256": "be730a24783812e5909543cea1278847706370943df79de3ae1ddcccc37c848a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 39,
+        "sha256": "9321f687ff5971ac90dfc34ac1f095971cee4e7efc2fd833ede66e6ec5699077",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 39,
+        "sha256": "1eb2b898d77841270a9c30cfc05bd6ce5005b1b353d93267a16665f9e28897c2",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 39,
+        "sha256": "e0bde8cefb13184d1d97283e25e44a31280a6500a9f2f9df414a55219888ff89",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 39,
+        "sha256": "15a0cbe6de62ee9fa2202332bb2662e7f9159832318aa81e053475bec963dbd8",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "claudia-goldin",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2026-02-25",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://news.harvard.edu/gazette/story/2023/10/harvard-claudia-goldin-recognized-with-nobel-in-economic-sciences/",
+    "https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/",
+    "https://apnews.com/article/224c204c0cc20843636e5525d6a61673",
+    "https://news.cornell.edu/stories/2023/10/claudia-goldin-67-wins-nobel-prize-economics",
+    "https://news.uchicago.edu/story/uchicago-alum-claudia-goldin-wins-nobel-prize-research-gender-and-labor",
+    "https://news.harvard.edu/gazette/story/2025/10/harvard-appoints-four-university-professors/",
+    "https://www.amacad.org/news/claudia-goldin-talcott-parsons-prize"
+  ],
+  "lifeStatusEvidence": "https://www.amacad.org/news/claudia-goldin-talcott-parsons-prize",
+  "identityEvidence": {
+    "wikidataId": "Q1097475",
+    "officialBiography": "https://news.harvard.edu/gazette/story/2025/10/harvard-appoints-four-university-professors/",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claudia_Goldin_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "public/assets/portraits/claudia-goldin.jpg",
+    "sha256": "88e19c354e27f22321662eec356472aa3ea4144338d95dd444edba8b198581b2"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Inspected cached evidence/draft; Cornell confirms 1946-05-14, avoiding an inconsistent 1947 listing elsewhere.",
+    "The 2026 Parsons event is recorded as an announcement; no unsupported claim that the scheduled ceremony occurred.",
+    "University Professorship corroborated by Harvard appointment announcement and 2026 Academy biography."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "d2f8ce8776e0d666e175d3940a840337d44e6d9146c76246ceef0055cd991f7d",
+    "englishReferenceTextHash": "b323840d587c9811226e1f7b271909a8219b8390d0f2e5a1c4973d92e3cea185",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 37,
+        "sha256": "1e1b1668836bd45c549f0a0e1aabe3ece4c55213e8e0a209bfe3434e891d7843",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 37,
+        "sha256": "c26de21895038f5864a56d9927e51554f21b2d036306c5f5ac3a12c657744d5a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 37,
+        "sha256": "6f7311af6f4a69b4374420711d3789c96b35bd1a3d00035c372e9f79b730a76a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 37,
+        "sha256": "80b2746fb83d697e3f137a13a8003150f74737accef132a5873fdbb77c69137f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 37,
+        "sha256": "e739a7ce5f03cf37aa22846427d0a1f02877761377fd4c90e8e7c1bd9a27c838",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 37,
+        "sha256": "91d6885e4b5fe73360b2769201e9a610e9611ae2d588da3c8e73cc2665e14072",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "de3c5d83ee86bd5bd82b35a288b86bc67c43a92eff3d3bf3045693663a5126e1",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "leslie-lamport",
+    "name": "莱斯利·兰波特",
+    "enName": "Leslie Lamport",
+    "aliases": [
+      "Leslie Lamport",
+      "莱斯利·兰波特"
+    ],
+    "birth": "1941-02-07",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "分布式系统",
+      "形式化方法"
+    ],
+    "role": "分布式计算奠基者 · LaTeX创造者",
+    "summary": "莱斯利·兰波特为分布式与并发系统建立清晰的数学描述，提出逻辑时钟、状态机复制和Paxos等重要思想，并与合作者研究拜占庭容错。他创造LaTeX文档系统，发展TLA与TLA+形式化规格方法。其职业主要在工业研究机构展开，强调先准确说明问题，再用推理与证明检验程序。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "分布式系统理论",
+        "text": "以逻辑时钟与共识算法描述多进程协作，推动可靠系统的设计与分析。",
+        "sourceIds": [
+          "bio",
+          "works"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "形式化与文档工具",
+        "text": "创造LaTeX，并发展TLA+，分别支持科学文档组织和系统规格说明。",
+        "sourceIds": [
+          "bio",
+          "works"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国纽约市"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "MIT数学学士（1960）；布兰代斯数学硕士（1963）、博士（1972）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2025-01-03",
+        "title": "从微软退休",
+        "text": "结束微软研究院工作；其个人网站说明TLA+由独立基金会负责发展。",
+        "sourceIds": [
+          "retirement"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2014",
+        "title": "获2013年度图灵奖",
+        "text": "ACM公布其因分布式与并发系统的基础贡献获奖。",
+        "sourceIds": [
+          "works",
+          "wiki"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2002",
+        "title": "出版TLA+规格著作",
+        "text": "出版《Specifying Systems》，系统说明以数学方法描述硬件与软件系统。",
+        "sourceIds": [
+          "works"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "1998",
+        "title": "发表Paxos论文",
+        "text": "《The Part-Time Parliament》正式发表，描述在故障条件下达成一致的方法。",
+        "sourceIds": [
+          "works"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1986",
+        "title": "出版LaTeX手册",
+        "text": "首版《LaTeX: A Document Preparation System》出版，介绍结构化文档编排。",
+        "sourceIds": [
+          "works",
+          "wiki"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1982",
+        "title": "共同提出拜占庭将军问题",
+        "text": "与罗伯特·肖斯塔克、马歇尔·皮斯研究有故障或恶意参与者时的一致性。",
+        "sourceIds": [
+          "works"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1978",
+        "title": "发表时间与事件排序论文",
+        "text": "以事件的先后关系和逻辑时钟说明分布式系统中的时间问题。",
+        "sourceIds": [
+          "works"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1972",
+        "title": "完成数学博士",
+        "text": "在布兰代斯大学完成偏微分方程相关博士研究。",
+        "sourceIds": [
+          "bio",
+          "works"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1960",
+        "title": "取得MIT数学学士",
+        "text": "完成数学本科，随后赴布兰代斯继续学习。",
+        "sourceIds": [
+          "bio",
+          "works"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1941-02-07",
+        "title": "出生于纽约",
+        "text": "出生于美国纽约市，后来就读布朗克斯科学高中。",
+        "sourceIds": [
+          "wiki",
+          "bio"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Leslie Lamport — 2019 Fellow",
+        "publisher": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/leslie-lamport/"
+      },
+      {
+        "id": "works",
+        "title": "The Writings of Leslie Lamport",
+        "publisher": "Leslie Lamport",
+        "url": "https://lamport.azurewebsites.net/pubs/pubs.html"
+      },
+      {
+        "id": "retirement",
+        "title": "TLA+ News — I Am Retired",
+        "publisher": "Leslie Lamport",
+        "url": "https://lamport.azurewebsites.net/tla/news.html"
+      },
+      {
+        "id": "recent",
+        "title": "Turing Award Winner On Thinking Clearly, Paxos vs Raft, Working With Dijkstra",
+        "publisher": "Ryan Peterman / Developing.dev",
+        "url": "https://www.developing.dev/p/turing-award-winner-on-working-with"
+      },
+      {
+        "id": "wiki",
+        "title": "Leslie Lamport",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leslie_Lamport"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2025年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "发展分布式系统时序与一致性方法，并创建LaTeX，影响可靠计算和科学写作工具。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

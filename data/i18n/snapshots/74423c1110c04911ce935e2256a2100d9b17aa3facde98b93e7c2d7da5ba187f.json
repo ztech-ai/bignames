@@ -1,0 +1,196 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "74423c1110c04911ce935e2256a2100d9b17aa3facde98b93e7c2d7da5ba187f",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "bjarne-stroustrup",
+    "name": "比雅尼·斯特劳斯特鲁普",
+    "enName": "Bjarne Stroustrup",
+    "aliases": [
+      "Bjarne Stroustrup",
+      "比雅尼·斯特劳斯特鲁普"
+    ],
+    "birth": "1950-12-30",
+    "death": null,
+    "country": "丹麦 / 美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "tags": [
+      "C++",
+      "程序设计语言"
+    ],
+    "role": "C++设计者 · 程序设计研究者",
+    "summary": "比雅尼·斯特劳斯特鲁普在贝尔实验室设计并最初实现C++，把类、抽象与泛型编程等机制带入高性能系统开发。他通过著作、标准化工作和教学讨论效率、资源管理与程序表达的关系。其研究与实践跨越工业实验室、大学和金融技术领域，推动一种兼顾底层控制与软件组织能力的编程方式。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "C++语言",
+        "text": "设计并实现C++，使系统程序能够结合运行效率与数据抽象。",
+        "sourceIds": [
+          "bio",
+          "chm"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "著作与标准",
+        "text": "撰写《C++程序设计语言》等著作，长期参与语言标准和编程方法讨论。",
+        "sourceIds": [
+          "bio"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "丹麦奥胡斯"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "奥胡斯大学硕士（1975）；剑桥大学计算机科学博士（1979）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-07-14",
+        "title": "在CERN讨论现代C++",
+        "text": "面向科研软件开发者演讲，探讨更安全、简洁和高效的程序设计。",
+        "sourceIds": [
+          "cern"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2022",
+        "title": "成为哥伦比亚大学教授",
+        "text": "在长期访问教授工作之后，转为哥伦比亚大学全职教授。",
+        "sourceIds": [
+          "bio",
+          "wiki"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2018",
+        "title": "获德雷珀奖",
+        "text": "美国国家工程院因其构思和开发C++授予查尔斯·斯塔克·德雷珀奖。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "2015",
+        "title": "入选计算机历史博物馆会士",
+        "text": "因发明C++及相关编程贡献获选会士。",
+        "sourceIds": [
+          "chm"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1998",
+        "title": "首个ISO C++标准",
+        "text": "参与的C++国际标准化取得首个ISO标准，建立跨实现的共同规范。",
+        "sourceIds": [
+          "bio",
+          "wiki"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1985",
+        "title": "出版语言著作并发布实现",
+        "text": "《C++程序设计语言》首版出版，C++首次商业发布。",
+        "sourceIds": [
+          "bio",
+          "history"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1979",
+        "title": "博士毕业并赴贝尔实验室",
+        "text": "完成剑桥博士后赴贝尔实验室，开始发展后来成为C++的工作。",
+        "sourceIds": [
+          "bio",
+          "chm"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1975",
+        "title": "完成奥胡斯硕士",
+        "text": "取得数学与计算机科学硕士，随后赴剑桥研究分布式系统。",
+        "sourceIds": [
+          "bio",
+          "chm"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1950-12-30",
+        "title": "出生于奥胡斯",
+        "text": "出生于丹麦奥胡斯。",
+        "sourceIds": [
+          "wiki",
+          "chm"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Stroustrup: Biographical Information",
+        "publisher": "Bjarne Stroustrup",
+        "url": "https://stroustrup.com/bio.html"
+      },
+      {
+        "id": "chm",
+        "title": "Bjarne Stroustrup — 2015 Fellow",
+        "publisher": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/bjarne-stroustrup/"
+      },
+      {
+        "id": "history",
+        "title": "Programming: Principles and Practice Using C++ — Chapter 22",
+        "publisher": "Bjarne Stroustrup",
+        "url": "https://www.stroustrup.com/PPP2e_Ch22.pdf"
+      },
+      {
+        "id": "cern",
+        "title": "C++ creator talks about the future of programming",
+        "publisher": "CERN",
+        "url": "https://home.cern/c-creator-talks-about-the-future-of-programming/"
+      },
+      {
+        "id": "wiki",
+        "title": "Bjarne Stroustrup",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bjarne_Stroustrup"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2026年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "设计C++语言，推动系统编程与面向对象技术在工业软件、金融和科学计算中的应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

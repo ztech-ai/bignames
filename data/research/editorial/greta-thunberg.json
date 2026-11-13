@@ -1,0 +1,122 @@
+{
+  "id": "greta-thunberg",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2026-11-10",
+  "sourceUrls": [
+    "https://fridaysforfuture.se/en/about-us/",
+    "https://abc17news.com/cnn-other/2025/04/17/greta-thunberg-fast-facts/",
+    "https://lex.dk/Greta_Thunberg",
+    "https://www.un.org/development/desa/en/news/sustainable/climate-summit-2019.html",
+    "https://time.com/5748136/greta-thunberg-person-of-the-year-2019/",
+    "https://amp.dw.com/en/greta-thunberg-graduates-high-school-with-last-school-strike/a-65872598",
+    "https://www.sverigesradio.se/artikel/greta-thunberg-sentenced-after-climate-action-in-malmo",
+    "https://news.sky.com/story/greta-thunberg-among-gaza-aid-flotilla-activists-deported-as-israel-hamas-peace-talks-begin-13446158",
+    "https://apnews.com/article/f6845d33be04d42d2cbdb4d5d013ebe7"
+  ],
+  "lifeStatusEvidence": "https://apnews.com/article/f6845d33be04d42d2cbdb4d5d013ebe7",
+  "identityEvidence": {
+    "wikidataId": "Q56434717",
+    "officialOrInstitutionalBiography": "https://fridaysforfuture.se/en/about-us/"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_4.jpg",
+    "sha256": "4dfb58e7afc1f9f8898530eff164beafac76fee26abe0c4ae538ded09b562054"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification.",
+    "The July 2023 fine is a court finding for disobeying police; it is distinguished from the detention and deportation during Gaza flotilla actions."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "3a06d75ca8cc35a0799fe727c46fca405bd6c72e1d8aa7b2c75173dd85d2c613",
+    "englishReferenceTextHash": "af7c480f29d202cbf3212d8c076a9f4089762f800e3e283204c48e98c86d1c04",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 36,
+        "sha256": "957b73fa5b1dfa1a95b048ab4d0fd60b66e977aedc8452e37b4f284968a0a765",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 36,
+        "sha256": "d8e071d2263d9f88f0689fbfb8f0188f04dd1d3a9892e0bd0cc42fb878ebcaae",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 36,
+        "sha256": "11e81d0fa905cdb2c8909c5627bb35b0e5174c7c9ec24da704d831fc75be2160",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 36,
+        "sha256": "6c20fb719b334a41e29a1a419a550ba7c1774120e5f7e3b1774cc30ffbee0b71",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 36,
+        "sha256": "28137285d3212d04fcd5a0ac11eefb65111b342833bab4f0b501c7527153099d",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 36,
+        "sha256": "cfd3b97bf1cd5646f60b4621f9c1e6541f22ab2296cae4ee7fe909e2295ce88e",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

@@ -1,0 +1,899 @@
+{
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-13",
+  "scope": "All100 English rating reasons now explicitly translate the unchanged canonical Chinese reason; only this text field changed, no facts, scores, source URLs, dates or other English fields.",
+  "changes": [
+    {
+      "id": "andrew-ng",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "db57893a2dffb288b68391dafb809361f916ca1268e966da60e67f418527ec96",
+      "currentEnglishTextHash": "ff90235356c74c7e7f9d2a5bd59d81539ac152a6286a2583cc570906b8292ce9",
+      "canonicalHash": "4cac0882d2920a920cdad76573fb70931652775ad4719d3fb6241c568ae7b8b9"
+    },
+    {
+      "id": "john-hennessy",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "9cf7e6446df63a41966b860145544c9ee2f6efb51f3203283763ce938df0c576",
+      "currentEnglishTextHash": "1064d2cd3eaf4e2c2c91500a8af953fec2cbeadcb52ec0ddd0da0030b6a11d86",
+      "canonicalHash": "68a97334fcebb1087ebdf3c05b7dbb5df061cb453e1c6a3bbceabafc24740d76"
+    },
+    {
+      "id": "leslie-lamport",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "db746f83c87b9223daab019adf1fca3c6413116da0a3063b05665bf342245c24",
+      "currentEnglishTextHash": "1745f974d08feb690da8b9f6d716644f8749b0d48812eeb4854cf36e2e320b1f",
+      "canonicalHash": "de3c5d83ee86bd5bd82b35a288b86bc67c43a92eff3d3bf3045693663a5126e1"
+    },
+    {
+      "id": "barbara-liskov",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "218f8d41c4b70155dc7a7aa121ebed59403fb78883f7a1d2f1673950b53de28a",
+      "currentEnglishTextHash": "fa4ba5d484f019746e971ec4d7c7e28a7a7565c3ba9054c77dbe6a54cdaf9662",
+      "canonicalHash": "387559ba3e2eba28eb711abdb0785a013e19a7402820a9cff480bc714612e04f"
+    },
+    {
+      "id": "donald-knuth",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d4ca64eebd5d77b7d467625490a4cddafa279faeb9403bf72cdfce4b43393a95",
+      "currentEnglishTextHash": "12bfae88e7952fb905971a4c0db0ee7f1074b7e91df9044d4ca2598b6edb9daa",
+      "canonicalHash": "f4835e7566696481ac5eef276a55edb9d85f8768930c9b74acb16b25e873f29d"
+    },
+    {
+      "id": "bjarne-stroustrup",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "b6e1d3f3c82d0c246de3260660912c6817948136faf891b4f942361a0eabef34",
+      "currentEnglishTextHash": "593aaecd37e645ff67d56507e449c40f26748564b0901924824fed11d2070aed",
+      "canonicalHash": "74423c1110c04911ce935e2256a2100d9b17aa3facde98b93e7c2d7da5ba187f"
+    },
+    {
+      "id": "james-gosling",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "be0a5a779ee6d45411ead5a507e59a8a0ec72843e0e94eb2355f7da9b4ab2d9a",
+      "currentEnglishTextHash": "74b5473d03b81c8a681f07215285d9df49ec1532feca0fa9a060a89383793450",
+      "canonicalHash": "ec37b4731c9ebafa0a0cfb588049d3f64364d67cda7599cca2940f7051a25686"
+    },
+    {
+      "id": "ron-rivest",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "f1a45458c7dc69cb63e7905fcc4c52e5971ce591659ed1c8fe270212ff6bdd02",
+      "currentEnglishTextHash": "778ac47cc4ec98075f656d0e18272e2bdc401ecdd2e4b746be41c61f3bb8c485",
+      "canonicalHash": "f1786bfc3b48cb7d4742e2fc25c7e0204a694cdf37c6c80627dbae37ea33aaa2"
+    },
+    {
+      "id": "adi-shamir",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2621e0999317ee194265c8512695ac409aa71cac1083d0a28ed283e75ebf9362",
+      "currentEnglishTextHash": "dc524254aef7eedcefcc5e7ca16fd25fe3a11264aa33a02324c4553ee2df7fea",
+      "canonicalHash": "f598bc73d27bb804bfbd7089ebe1806cb5599c4021088d3cd2d7f06055db454f"
+    },
+    {
+      "id": "steve-wozniak",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "1457b96772573e89d01e42b773f1c7063f51bc864c5c54f8185a6b02e47b2173",
+      "currentEnglishTextHash": "53597fa8d3570a2b8eb35d5ec5f5704805c7a3136db18f797b591908d4a82e45",
+      "canonicalHash": "9dc448c40d652176ab7af0bff356486f6b0d12b67e4afcc43092fe5b23349b5d"
+    },
+    {
+      "id": "andy-jassy",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "c06aa75af322a8d3bcf9bc62129d935ba6c858ea2b117ac1a1297296e74c6c3b",
+      "currentEnglishTextHash": "118bae343623e3b9df2a88de22000f1fcfa402840e3aae548f7fb096a9abc233",
+      "canonicalHash": "988244195e869855f25c15aa26c6b70455c9efa5c9a0b8d89980643abc54acb6"
+    },
+    {
+      "id": "richard-stallman",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d3e8058f203a273aaa7e1d78b9517532b98901856bcb370625df5eea12eccac3",
+      "currentEnglishTextHash": "9c105e5f04997e3b9af9481ca570057aac018fcec517afc6ee214cf47578f558",
+      "canonicalHash": "1583f0185519288e8c7298138790985571b48365ceadc0e189931c09806b8b8a"
+    },
+    {
+      "id": "robin-li",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "099cda07b37571bfc492ba33f2d78b5b47c80cd6709fb2a1923fdc851391884e",
+      "currentEnglishTextHash": "3b9dab9faa2e21802173d12f2d0d23725bd078df612d68e79c6f89b294b0911b",
+      "canonicalHash": "74c1e30621db1e2d14a008834d9892c55975f4b612aff198c5503869270229df"
+    },
+    {
+      "id": "ben-bernanke",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "806e6247c6156a071dea002fd3d204417bd61d6ecdbb28265257f41dccaedcf4",
+      "currentEnglishTextHash": "76d4c032bd103f18b0f685cd94994022070861f55d1a14fd33338ce89be19a3d",
+      "canonicalHash": "49b611174712637bbe185ca095ee1aae65684db175b168c328220d17c42a4d75"
+    },
+    {
+      "id": "janet-yellen",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2414046ba2f5698991a9f1c7095865f357df000dadc485ddfffadf5a106c4ccc",
+      "currentEnglishTextHash": "f273e81343be6c9373db7b3cb75d008d1b5ef0e77a9742f1ba3e38e86ddcb376",
+      "canonicalHash": "be5151368d06743bc6586256c32a3cf619c15a0dc521458d33290bde4f66116b"
+    },
+    {
+      "id": "esther-duflo",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "8476ccc7e42413369a13f2afbbb754b08d76c0c3a3b81e689d8daf568bdf90fb",
+      "currentEnglishTextHash": "b223037feb1ba80042806fb5e41419f86f0e38fa18e99239ebc566342b7d9127",
+      "canonicalHash": "0a515b0c7619a5be7562adfd17135678735b75c362014635427ef06fb74ded1a"
+    },
+    {
+      "id": "abhijit-banerjee",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d5ed0b32b68ab854a7a37f25df16b325bfe69be78393745a4bc87a23c0232f57",
+      "currentEnglishTextHash": "4e76b42cd7984b022df4e331672a6ccc6bb564500bfb643d2a5c18429233f1bf",
+      "canonicalHash": "785bc591124d929d59177388bad92e79023e74dfd75b1c584fae7b4a06810504"
+    },
+    {
+      "id": "claudia-goldin",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "fe958a915160fe1f37e6ed78d65ae06c93a18d4596a77249a47bde2505e87883",
+      "currentEnglishTextHash": "b323840d587c9811226e1f7b271909a8219b8390d0f2e5a1c4973d92e3cea185",
+      "canonicalHash": "d2f8ce8776e0d666e175d3940a840337d44e6d9146c76246ceef0055cd991f7d"
+    },
+    {
+      "id": "daron-acemoglu",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "343cd713530bb147a0a1e8e5b1f4d71e155da440fbcfef76faa1d6efbb7b1176",
+      "currentEnglishTextHash": "3c271bfffd1f74592d454b1a3c0d2599a2d51b9444f846de35688faaa75f3dea",
+      "canonicalHash": "37547b54022a65aece5eb2abc0c0b3c106cac8ca7610c887db6ad49e9b4b6f7f"
+    },
+    {
+      "id": "carlos-slim",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "603613213528257e2da430fa6991dcc6511ecdb778761b2fdb94ca4a93645c58",
+      "currentEnglishTextHash": "22d8adf7ffb7c1da916aa9be6bb3833342056d6478a02127cb7f7f45a98f741f",
+      "canonicalHash": "24bf70abe89b4147b13561350bc2f1eb6c889755e9e6d570f21a18b5b221165b"
+    },
+    {
+      "id": "mukesh-ambani",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d7933d463b0f86c4b3d1920b005bb509f66532f520bedb2ce8faad8b63cd3e45",
+      "currentEnglishTextHash": "2a7890d63b2b9f541d54c5a36541608926ba8bce70634b2f12cb40fe049beb88",
+      "canonicalHash": "3f8ed56e30c0f84aca6b143debf666ce3b52b90e74906826ddfe4ff01ed8476f"
+    },
+    {
+      "id": "aliko-dangote",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "3160ffe17d474e180424fd14d67fe3554af3c63c33e1e37053d147427f1598bd",
+      "currentEnglishTextHash": "a7813ae182f0c78c81578b91ee76b231db07c3f5e10f97fe0fd4ac5591a70ff1",
+      "canonicalHash": "85a0da6dafb18699e68032d82685dc4bbc7a238cb6154d931b9a29062fcc5ec6"
+    },
+    {
+      "id": "akio-toyoda",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "daa0279777f5f42a387eca8120fff3b872c6c5e8326281add3a546ba54ad8425",
+      "currentEnglishTextHash": "4e34ffce25dc1d2caa8afaca1dc20f5214ef027377f196d91cc012aac711be35",
+      "canonicalHash": "22cee4f0d79d40d76109b69bce63a0eef96616e8189e3e177deeda141e20bb46"
+    },
+    {
+      "id": "jamie-dimon",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "38f9cc693891bb2e0e69e9f732b00d1e521c9756c60a991ff7707f4f112afd6a",
+      "currentEnglishTextHash": "d449235069f6286a2f49cab2b2250292a0a838a4d1944eade95cc73fafd393b5",
+      "canonicalHash": "e6ea8538b2b97e565664de8822c69a24c6b44923c4f91be365f4d815a457ef51"
+    },
+    {
+      "id": "bob-iger",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "34827a4284777876a1c61c71c484deb55cd00081d49ff237d29cf649dafc8bc7",
+      "currentEnglishTextHash": "e4da07323d90d30d17692eac0825a2c0147dd17f27bc2dcdbb0e4926de882e58",
+      "canonicalHash": "57a8adbc4b203ee12abb50545d00913ac4922735703088be59ec845c8223f58e"
+    },
+    {
+      "id": "indra-nooyi",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "fbf03f57f25b6faaf956a096ae2c1b37d0a2ca1b6aea4c87df2a0cb4e74177da",
+      "currentEnglishTextHash": "2d9e3a25ee56b84f8c92854a31cb004bce216beb0aa69730a036027b5ebde7a9",
+      "canonicalHash": "d7756bd9ecee3ae025e50eb7ff3d3caff1cc2426ebe6034c420c313a806105eb"
+    },
+    {
+      "id": "joe-biden",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "86296b8006664b1b025f9f02c439685cc40af6a4abbf9acad0dec63da657864c",
+      "currentEnglishTextHash": "bee792a72e0bdc0021725940c8faa4fc979f76f096fbb4924502ab955530a551",
+      "canonicalHash": "35cdb600dc44d67d52c2761ab8e5326a7e19a6559a202f651a10fcbe75f55b50"
+    },
+    {
+      "id": "antonio-guterres",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "fd134da08cf5c56d76383660e78a1eb9c5fc715c3e3d50b53552d092d9cecd9a",
+      "currentEnglishTextHash": "de3f9bc591f49e41fe4144e1b3736a9e81b28b98ad960f7f63b46f54f4b07ce2",
+      "canonicalHash": "b53364811f936bc30c1ee2f026a3cd2f5e1120d1992b694b57300ce316b9005f"
+    },
+    {
+      "id": "ban-ki-moon",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "0aa257862db6cc5eca1ddf9ea0997a58f7c5fe2c2b9af2b00c9589ef51acea6f",
+      "currentEnglishTextHash": "22269b0bbadda1750c48beffb471d83e8d687642735efa5f552449445e2a6be8",
+      "canonicalHash": "44001ee5de5e0b1a62bdd8b02b591b68f9b30967847527970930bf5f61a4d6ea"
+    },
+    {
+      "id": "ellen-johnson-sirleaf",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4a5d0344cd96c5f6f01f22ed70535fd993a32998702f268c410a14e3facf0277",
+      "currentEnglishTextHash": "ae0cc508fc7ff55392d3ca366770f7d1ab99bb449d5e05d33da5a6274db3b832",
+      "canonicalHash": "6b741187c5a3d50e8d9df3fbbc68fdba763f668e5d9c7f8a466db950ca0052b2"
+    },
+    {
+      "id": "jacinda-ardern",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "c567b4112ae1251c1f440c06b95c20d7eee9385151a02abde70d4088f5b2992a",
+      "currentEnglishTextHash": "664ce69fa145dcaee62cf4c4d426e912e9b6f0620a35c6967c661a7e775eb776",
+      "canonicalHash": "21d24ca110eda2c9316dbf098d0746d1dbd33c2918abe9c5c232635456ac2218"
+    },
+    {
+      "id": "michelle-bachelet",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "48d0dcd7922b90e623c66bf3d329bc0fe0e8bd6684420d6d6a20911c57bff0b2",
+      "currentEnglishTextHash": "7657fd3b6e86d778ad72202d2b73d9ef55ac72d4dbd9d67365ee6e03f29d3aaf",
+      "canonicalHash": "1820058fe71468bd0fb88a7e60d91630c569571c9004e7dd00c069b13f52444c"
+    },
+    {
+      "id": "luiz-inacio-lula-da-silva",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "bf9efb23e664ab934bbd56ece8994cae6613880423ea19a9bd97d108a9f0172f",
+      "currentEnglishTextHash": "766bf44eb26dfb20b57a2a5f93dbf010fe7d6de7bb41634a5a7a28da4bb4686e",
+      "canonicalHash": "71ff5dd81a0db7c274b0119519bf0a84ea6f73b8db9bf0b3be7e5b29a95ad468"
+    },
+    {
+      "id": "cyril-ramaphosa",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "f96e05d07bc47111743252e7954be488843d04f2979b77c1c0fdc0920932fd2a",
+      "currentEnglishTextHash": "396ebfdbcc32af66ca7b307edbce56f4505ee63a87c3c8a1b92445756b52ba1d",
+      "canonicalHash": "5e2e452e7d7b205936d88d7e65e9d3c0ed9b3f7fdeb1c98bca35b51ca9fc1472"
+    },
+    {
+      "id": "keir-starmer",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4b1b0e9702138370b016e6106beed1d06816fccacf9e6d0326beb3e98b2fcad4",
+      "currentEnglishTextHash": "1c94a237bd31ddabb6f89725cfcf1d62f59e45f3a752793c8073f5d523364f4c",
+      "canonicalHash": "184a8c5f23b187f9690a3eb7e0e45ddf0952c9d737bbee491e251b4288e637d6"
+    },
+    {
+      "id": "giorgia-meloni",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2004e01cfeba2aec5005cacf4d990964f7f39dced070905a1824cf29711e02c6",
+      "currentEnglishTextHash": "d52d78cdf7d696f91de17f9ca1ee6fffed1e97f0c16fb8a31d67c59ed3493697",
+      "canonicalHash": "12ed8634785bb37ee36a685da28b46d6d0dbb22965a0f91bc70b4b1683c45e22"
+    },
+    {
+      "id": "greta-thunberg",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "e500087bbe0c8264ba948d48b681ef745c1ea2367f787f6bce424c38564b3922",
+      "currentEnglishTextHash": "af7c480f29d202cbf3212d8c076a9f4089762f800e3e283204c48e98c86d1c04",
+      "canonicalHash": "3a06d75ca8cc35a0799fe727c46fca405bd6c72e1d8aa7b2c75173dd85d2c613"
+    },
+    {
+      "id": "adele",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "6d16b41886dc7dba5a32d0cf4577f8e351c674ffea32b9b43d67259c1c9ee903",
+      "currentEnglishTextHash": "21dce675b1960593da25f8d145858dba7f38454ce2cc45a214948d4a1d7affb3",
+      "canonicalHash": "22868ef9b947e17859e40aefc85ecd018227d4edaf5510db62dc034ff3a6cdba"
+    },
+    {
+      "id": "rihanna",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4c5b21217b6ec256f7deb207294b6f002c413003d39f6aa90332cc1954d15203",
+      "currentEnglishTextHash": "fcf3b780b25fb738e0988bfd3599a18a23549f0c6230f9068be0c3f5a30698d0",
+      "canonicalHash": "8c7219b31fa2bd7122a2866a7cf2d4b04c2a3b895757d50904565a2bc9d15fdd"
+    },
+    {
+      "id": "billie-eilish",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4eada3ac910c7477705026c81d3cf10fe7ef7e91a1540832b4aabf725ae733ee",
+      "currentEnglishTextHash": "1be56086ed39fe34c212e28e12c3fe43c2b3c4ad568e44adb665e51769ccaa66",
+      "canonicalHash": "334cb38c8820ceb71ef725c4d399c4e812e2eb5cd3fd1562561fba52c93a2ee9"
+    },
+    {
+      "id": "shakira",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "781f47e514fb1e2c39631a92ef1cb3e03c3309c2311e05d479158543878c7f33",
+      "currentEnglishTextHash": "f7eff27ed64e479b29e31fba7ab973e717bff77b30b4943f9c3835534247e204",
+      "canonicalHash": "9d30bcd19f949a498c2d7d15dbca3577011ca8c247a3957f1b237db762b72dd9"
+    },
+    {
+      "id": "celine-dion",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "eefb6cba84e422ef59281317325e40ba062fc7866694b6534421598fd9f67fdf",
+      "currentEnglishTextHash": "a17a8755ef0371348fefdbf580c1c722ee01d90a651cb35c2923a96a3a6a0d07",
+      "canonicalHash": "e3a6aef22d4079fa435df1c3cc999b334c58ef17e2725e9fd1b9a2f3f3835c09"
+    },
+    {
+      "id": "shah-rukh-khan",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "9e89c009b403021b028c5d5ecd666e2ee20a3dca6d85475f4aed7edba4619d3b",
+      "currentEnglishTextHash": "075acc78007f2bc2877ac182dbe3e6bac709882ef07e0b99ee101cbdab03ca3d",
+      "canonicalHash": "b85b28ebd17bd8d70a66fe247da53a22e844967414492576615eefff5b3e6bd2"
+    },
+    {
+      "id": "aamir-khan",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "0e1a2fc5c5c987ef4723553ef8e76587027e3a3218abcfdf6957a45a6ab1264e",
+      "currentEnglishTextHash": "875234f3958c2209120581d330c698a02c7a54f6c6e299d118d2aaa63817c6ee",
+      "canonicalHash": "0f7198524a2ddde4515f7c7266b90195c13f0a1e34b0cafd7a91d44f07cb3e8f"
+    },
+    {
+      "id": "amitabh-bachchan",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "a64f714140eebe16a69642547e1a5ae68b8bc04850ed1c47bb8c559a2dd0e1ab",
+      "currentEnglishTextHash": "f0fb3a6858b1fd2107f1b0dde5b24897db261e2392f90ce208038cbc8ec3f505",
+      "canonicalHash": "d80fb8908bb76802d8e6eb4f7b22d140f2e8c0ffe4b9b3b0653a09e81357330d"
+    },
+    {
+      "id": "ang-lee",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "e56684b999e81c08ca3a5eb46397ac8e7ba9a51dd52ee0cb23ce05a0fdafe9f4",
+      "currentEnglishTextHash": "0b40519988f11f9b56ebbcfda8c9fc5015f2cef2d3d06befa1af946dcfbc13f0",
+      "canonicalHash": "32d260bc681e4401c399b0ccac7da564245ff342b9c55c6445536ac7d7d920e5"
+    },
+    {
+      "id": "pedro-almodovar",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "af3abf638f132805d7903a56dbbebfe6c4c55d8746b342c0369cb95c10ee7990",
+      "currentEnglishTextHash": "c3a6b1287a23f500015cedb67c7fd740826ed560c2976063fc25deecfe9f3fbf",
+      "canonicalHash": "4010d87de68f129de296084761b8f91599853838f7200cafdaa0a4ddf6f6be37"
+    },
+    {
+      "id": "christopher-nolan",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2fb82191accc3014a09b16b0d1fc34e5162a2154e2b0694155fdde8389905050",
+      "currentEnglishTextHash": "1bc62e4496f5331beda93513be45e9116441d2d3ff1451666f7c4aa2d1b67176",
+      "canonicalHash": "026abe7f96611428c7ce1b030c5df81e5acf7ea2a3fcb889fb0f45b0b1d5a1f8"
+    },
+    {
+      "id": "meryl-streep",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "18d747c0db23426296219dbdc28eed672d18fc848ddec1f942b9e72a2a44ccda",
+      "currentEnglishTextHash": "e3444242c025e4ce5d4cbea5fcd55fe9da9a6a3933101ff8d0c31a63132f19f5",
+      "canonicalHash": "222dce40580e70132c5e8af4d477f1b1558bc520a35cde32490e3e7e8ae996db"
+    },
+    {
+      "id": "viola-davis",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "e2cacc0d738d119cbd46e2d3a816464babd46fc4ddd6509b110c2ecb00590f55",
+      "currentEnglishTextHash": "058b142f9b78f34878c4de385ccb8b659cd5f491fbf915e064f6425a979f8195",
+      "canonicalHash": "d0b14d1048b3dbc70d18de35e637baa4be94658687c249cb48b064c9bf699219"
+    },
+    {
+      "id": "alain-aspect",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "605b941d4d64eee5dafd2330493bb4c19d0ae6b07bea935dfd99ae2bcff753aa",
+      "currentEnglishTextHash": "cc694cdc69bf9a87bfecb2c89dfec15dc734ad28299ead92dc839f33486f7c58",
+      "canonicalHash": "082a21cc2eaa28e8098a0abac6cd7a8018ecba60964d865d74f6868155cda541"
+    },
+    {
+      "id": "anton-zeilinger",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2e8b85492ad83b7ea2a5152d8d7bb0be18a2727db43d0be3634968beee4f9910",
+      "currentEnglishTextHash": "8b692c09476cafa5a84409e220c0a6280e7c8027c9d2f3a6aef63f856583d13a",
+      "canonicalHash": "72880526b690d95a4697e869e81b67ecbbb12664de2f01c7a25d4b51c33a15e3"
+    },
+    {
+      "id": "andrea-ghez",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "cefab7e9e60437a0dd69819e5d0ccba7e1cc4e708be7e4697673a3119db436c5",
+      "currentEnglishTextHash": "472b5e2735658408d80b713dcd6e8a931af0d581b058f9f1c55abc51094d6e3a",
+      "canonicalHash": "718d5e07ac384094bd9dfc4b266d99ae8f7d9de461f385e57c0fbb735984e407"
+    },
+    {
+      "id": "roger-penrose",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "517037df3ec533338b7c53a8a64cbf1b946066b8e9ae248bba9424dbdaca71d4",
+      "currentEnglishTextHash": "1a159b355438565815e41c8fc79025bb7dbf357d25f7ceed7b0c2a0867385edf",
+      "canonicalHash": "cb0a0354a623b8d35b3829e8bba00d663e3b5bbe739908024a31ed6a65d7966c"
+    },
+    {
+      "id": "frances-arnold",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "054a70f215041b71ee269f89261ede818e62d5177810ae671b96e580f01abc0c",
+      "currentEnglishTextHash": "f5e2b8800ce7eaa42f9120cbf6e313aa5960f4153303799f6d1be606fa5894ca",
+      "canonicalHash": "dc2d02a84d116a10682b6f2904bb669ff2dd14b50c6b925eddcfd831887bf307"
+    },
+    {
+      "id": "carolyn-bertozzi",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "641ac678e7e32e1d7b95494946502ebacd0e6a8e8a587f6ffeb2ed4697b2b900",
+      "currentEnglishTextHash": "28e18e90a592e5b25156592e08d2798d169086711d6c91b632766e37f0c5e6c8",
+      "canonicalHash": "11d0c4c0c299ac23cd8d951121ed17632c885a778b2c5ff8334ef9b2ef61868e"
+    },
+    {
+      "id": "david-baker",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "cb8a9617308d77f168dc3f8a0fd3ad1e5bdc3e1f38ee3bb0179d31b94b5e69a4",
+      "currentEnglishTextHash": "432c4367c4df4c62f08122a2bd763d976f8822d110ed3fd026da2e3a6a127e4a",
+      "canonicalHash": "283acbd4339d9e389c652eb03b0626881a1385f70220be9a8f4f23b5b1b5aa5d"
+    },
+    {
+      "id": "john-jumper",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d8a90116c1d9aba823aa8e24a5c161b885e14f434e5cca0e094be90a561e9e82",
+      "currentEnglishTextHash": "38c30c1cd128f46594113c8378c1558a1ea747ed53de9aedaec773502ea9283b",
+      "canonicalHash": "ff9631c5e1d7e5af3adba10ad37bbb83413a11ed29d6158c15e755976a31e284"
+    },
+    {
+      "id": "elizabeth-blackburn",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d05d29eae0fd5f5e9b852afde33de1f82fc90d169dba2e4648e12154cf983da1",
+      "currentEnglishTextHash": "b0c0443bad4b6444ca593c4efa9baf04af2ad076eca3f288b94034d80fc4ebc2",
+      "canonicalHash": "7f2ff61333b81dfe3fd1cd2ceabd51563a0d52d511fa924f61b7f4ee8b9a3da2"
+    },
+    {
+      "id": "carol-greider",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "eafe3e3060c69112618c5384c9dab292a7c1c2aaa9f0fbe5177aa27a60b0b97b",
+      "currentEnglishTextHash": "2bbaef8da6ad0ef289f562694ba668811d2fa9f1ffa84fcb56d48ac4cdc937ba",
+      "canonicalHash": "6294cced05b8f1007e8feacf2fb09beb8a1a98acc1a5f7d58e526856b52248bc"
+    },
+    {
+      "id": "donna-strickland",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4e93fa86f70d48a2c389a7acfea050fa935880c1e9b2528c1d67d7a1729ac679",
+      "currentEnglishTextHash": "e3db4926776bfc1eea5ae00663188903686e68d2e6b8cc247e1f90acc61b2b82",
+      "canonicalHash": "977567a04b5aa7ce617e68b07e1c0ffbadb41cedf824859ac52f9e4fa521727c"
+    },
+    {
+      "id": "andrew-wiles",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "42e55901e87d10613cd51c3bf7fd36dbe77627e53d9ca038f62aaff8661bd56c",
+      "currentEnglishTextHash": "2d4db3c9912b098af6d79d0d77b0365fe331a6bc21b983689735795d32c5932f",
+      "canonicalHash": "fde4cb4ea5c38f001ae02976ce848b2351f3aebd9ce62707352b66c4730bd3b3"
+    },
+    {
+      "id": "haruki-murakami",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "1859d0b7213c5e130c6a0b75cd2af5706812a7f4163ecedd84c0bd1eb5e9b060",
+      "currentEnglishTextHash": "f9c70f700a437b3a0344f7c4b388560ef88478c949862b92154b5f1b1dd0b0a5",
+      "canonicalHash": "18a86968f74959d901d2e8aea1a2cc36f3321c556372181e0e9ef390b8d61bc9"
+    },
+    {
+      "id": "margaret-atwood",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "ba024634c9d9be2741f2cc6c5e3ce02892bb47a6f622e991939fa1a25c2e4abb",
+      "currentEnglishTextHash": "14e3b71ab0cde5c787a4fc3b02680938318d56eca17e647c2a022564b4b4f767",
+      "canonicalHash": "43b367ab813c4a074be407b44f6b7c7a6cdb6e8237006a669b85f9b50f187a2c"
+    },
+    {
+      "id": "kazuo-ishiguro",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "6381598a8cdb72417389cd31edd72e35dabf7dfdc3be7d52864cff80c05af95b",
+      "currentEnglishTextHash": "80b5d88737f3cec01077c22c7d09c0af010c90405434204e115875a0bc592095",
+      "canonicalHash": "2a9cfbc1275441b90b3afff3b6c55dfa855982fdbd1ee6a5649d4456ef42f6ec"
+    },
+    {
+      "id": "han-kang",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4c3f0a2663465052758a801e57e96e369f519762d6fe87e61e732cf40ef75654",
+      "currentEnglishTextHash": "1c544715fec98d40d62c03d9b0a35435ac6f658ad04511a57d05aeb241fd948c",
+      "canonicalHash": "de91d665f2dbedf0db645c5ab461d722848c60df3aa8ea5a0261b5c27e15580c"
+    },
+    {
+      "id": "annie-ernaux",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "09c3cbd855adf6d6835ee6aff65c7df04f7c492b96143a49bca9129deb7fafec",
+      "currentEnglishTextHash": "f6b16469afca2f6b6e2ad8f845878752e8d6b7460722c401a1657ce9bc055762",
+      "canonicalHash": "5cbfa2caf24f8d99333d0a68a5ca7a8c3cae983922a598f13b11c978161cd0e1"
+    },
+    {
+      "id": "olga-tokarczuk",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "0528c6b0f2cdd4e4f088d3db3ce01766475c2b7b21a89694ee89e91c94862c5d",
+      "currentEnglishTextHash": "3d55a5e58a870e461df7f0c5ae0d4a896674eb422feb529b5ea6b3bcc0865e14",
+      "canonicalHash": "74d719904b46d7168561bfd7a786ce64ea10f5fc1fff3bf0f4f2dad689c8ee56"
+    },
+    {
+      "id": "abdulrazak-gurnah",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "1c35484dd834b3501c50d845aae082a210593f231a52fa04a08e638499aff2d0",
+      "currentEnglishTextHash": "32a5ac5341079ab16203b667e6ee1bfb6f6e62d4c61a075fe1f4b583bad300dc",
+      "canonicalHash": "5ecf6c029ae124cef14fdaab165eee8ea17ea9a0cd25802ae482c01b21f3b7d0"
+    },
+    {
+      "id": "jon-fosse",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "373e6c5ad25f81d02ba0c259eb47b93a5a725ae98c4a1d2d0cac09256b09bf5b",
+      "currentEnglishTextHash": "486ed028c4edff8e69afe6ad37f71fc16f4447e1c70cd72addaddee382a622a8",
+      "canonicalHash": "f31b25371a08cbb64fc735bfd22928a192bcdd22aefcd12a53712d309e09160a"
+    },
+    {
+      "id": "orhan-pamuk",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "cf7438ec774565fd9930c889bd783eba07ac22654a0537bdf5c60f5a53930a6a",
+      "currentEnglishTextHash": "e2f2e85e8a37a1bef05ff9af337068a7614e836f8c855c839dcfa56d5bf6573d",
+      "canonicalHash": "dbd1aff41978662b8fd4001de3b1d6c5cb6bf2ad54dbac93def9715a74c567ee"
+    },
+    {
+      "id": "mo-yan",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "1e92f5b982a0368653cab054fa95561bf25cd28f3b9a84517c10b2a920ad6c24",
+      "currentEnglishTextHash": "8fc13b5da1f21493a8a031ea8c09bf3c6ac0d839e7ffdd47439121d792277659",
+      "canonicalHash": "230ce5fed2eec15cd2b6d30b62f53b0bd453341e5caf14d2bdb468e636982978"
+    },
+    {
+      "id": "salman-rushdie",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "160e8b403e3f6a83adefa062fc7589e78965db3b64926f5ddc97e480ba7747a8",
+      "currentEnglishTextHash": "1a4edb83fdc86fa9bbdbe4a9f745145537e36e36dd661faffb50ca7c9a3e8fc6",
+      "canonicalHash": "ccff713b0612b89a5def8233a8cb17a82d892b61ababf33104d924e76eed776e"
+    },
+    {
+      "id": "liu-cixin",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "032f7ec9007609ec0431d3135e6f68a4a8cd1b5c9517b8d4deae13db3edaba5e",
+      "currentEnglishTextHash": "85554c94bdfdadc0a99549b3fade158b0757ef77562fbcf01e9006f5b251bc32",
+      "canonicalHash": "625ce8f78f80a02a8512b1dc9d5357261ebef79cce5ee7efabb933f3bbc7df6c"
+    },
+    {
+      "id": "ai-weiwei",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "5be735be67b7b1e9259ae4db07edfb39c1a350e39a729549f3d1ab982dbb6ea3",
+      "currentEnglishTextHash": "4624b2d7dc59ec7cb60915507ec31d1a4bd63e55378a8919e25faf424b51a34c",
+      "canonicalHash": "bd3d2e7d4adc1a7c545c84fc5547e51d71175e5e80140e15a0623464d2932f9c"
+    },
+    {
+      "id": "anish-kapoor",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "9c7d629b588170d5d71afd0c73ac4af9d7d961e6ef95382c24d9041f30f3863a",
+      "currentEnglishTextHash": "22bdf3388c2cd19aa4bb8a66244e8717244c959b8e22ed1c3dff9622f9f62647",
+      "canonicalHash": "dc853df11884f908e94e3a5eee1acee464b031883e3809934ce95aa4395c8b3e"
+    },
+    {
+      "id": "gerhard-richter",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "2e098d6c7d7b6d85efc4e89e4870d6169df2d671a4b8e73c2505af590995e92b",
+      "currentEnglishTextHash": "0695141ede41d2dc88886a6eb73812edea400db58b75bebae76097cf15d97e58",
+      "canonicalHash": "3d4138bd5599130563d92ec32952eb2cc408c8a9d30d93ff3ab56ab6d97d11b7"
+    },
+    {
+      "id": "marina-abramovic",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d7c33824dd91a07941217b85e71a7a2b0324c93c3d48ceb65a80b7ebc0953113",
+      "currentEnglishTextHash": "4041ab611cf87ee8469f5dda874a5de4657f9a845522a9583670ec09cb1bab56",
+      "canonicalHash": "b09c843747c4b2b9f288ce344046d0d606d86e0b2eeeb1da8e905d8c3aa51583"
+    },
+    {
+      "id": "cai-guo-qiang",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "85e69bd8384f9c09104bdabd97dc2d22f8c3384faef19dcfdcf075f947da783f",
+      "currentEnglishTextHash": "bfbf0c428d87c528302c0e9ec0a6434e68d7f30c244441bab192604fa932b0d5",
+      "canonicalHash": "5732b958afa8b44d54587284dce53057e131bc80c972f75959f113faedb1658e"
+    },
+    {
+      "id": "olafur-eliasson",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "bf9f4f673ecdcef0676f423e79292fb945cb7d745a09bd39d48cfdc1f21ef3be",
+      "currentEnglishTextHash": "32f9f0774b7e35375f5dbf4b099cbdbb295364d5837bd91fd83c3992afc3ac0f",
+      "canonicalHash": "54466d330f3a88d71d773d7cfcf969145d91cc957ce22cce1a2e4065d989ebf2"
+    },
+    {
+      "id": "norman-foster",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "ac86d8c77ebb256ddbae5a3b5d61c7535fc10a3682c32726b37582f14297cde8",
+      "currentEnglishTextHash": "bdc54436db3fcb54b7452c7b64e62311f2474d72b7fb734c4779a9d59f34db92",
+      "canonicalHash": "b65883640f9475c999685110438f7fba02f33508b6d991b9f0c109abab67f7a9"
+    },
+    {
+      "id": "rem-koolhaas",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4f71b432c2c15c3d41500a61ce482161f1a7a9284209e5e9e56928a54d711dc1",
+      "currentEnglishTextHash": "62c8fd7b5aefe33b9951dec96235bf27933ed56dd6a91f91c98a9e5bbe007ba8",
+      "canonicalHash": "448f3c173def07d32ae8794040dd4a008a08525093be9e3191d27221753918bd"
+    },
+    {
+      "id": "tadao-ando",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "68742f70ff1ecee6666151e3b5a1d161be9e413e49814fb811a4c3de65421036",
+      "currentEnglishTextHash": "8bbdfe56b041d63351769501e682cad6f0b32791d537309c069526f32edb0e58",
+      "canonicalHash": "bf87760e9a0be0a2b50bec0ed2be8780fd88cbd699cb4fbfc9e6a14a5640be2b"
+    },
+    {
+      "id": "kazuyo-sejima",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "7226c77675d5d23aa537b7d4a2c61bff6ee94bee10fe9992cf8da2f258830499",
+      "currentEnglishTextHash": "2a0c33ff622a6a62ca6d8096f2dcf5fc7668ebb0faa0a8ac1c81e945d78a4eb9",
+      "canonicalHash": "2ffc9bf26bb6e97364f04afbf5ccc4ac71f509b420caa7e916ab7f15060a7b16"
+    },
+    {
+      "id": "david-chipperfield",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "b2c3067a210cfab231918ed429ff7c8ad9f4dd8b4bce940ab870f9d8efce2a7b",
+      "currentEnglishTextHash": "7158a39e9efc9f28f555e6b41c109a6f9e8288d289f4a02dde2e945d55f5f8ea",
+      "canonicalHash": "6cf74eeffb28a0ef312b77401fad169cc830ed92cebf996b5f0246acbbdc9af1"
+    },
+    {
+      "id": "diebedo-francis-kere",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "9efdb1d4240548cfb01c6cec6745ef25944110c6e80ff99c5a4913f79c885b15",
+      "currentEnglishTextHash": "1ee4a0da49d14d33f9e38d3253de28e2def5a1836af1ef17f9c07f2baf36681e",
+      "canonicalHash": "bb9f56421cfc37eced0fc94d11ea55d52c78cfe45c6834d0d18fe2b6b6b5f77b"
+    },
+    {
+      "id": "rafael-nadal",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "b10a0d890e27f0fadca12edbbd5621280959e3a5c1bf91486880f56f18064c05",
+      "currentEnglishTextHash": "2fcd8fed67828765182096eef3d8e5bd6109003a4742b37ecb20aec62b02b5d2",
+      "canonicalHash": "eb10438b057e2fe4e4023bd0324241a49768889408fcd985e51805b298d9cd62"
+    },
+    {
+      "id": "naomi-osaka",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "9cdadfaacc9837d5be40987a0382cedc324f31f5f01210ae0c69f89f3f95e44a",
+      "currentEnglishTextHash": "8d20239a3c15370dd079e0c4ff3af7eebb59dc0733cfad8f26b0cbe139a23b65",
+      "canonicalHash": "9402499f73fba9415db069169e9438a44313169f5a08026da63bcfdf6cf3bed7"
+    },
+    {
+      "id": "iga-swiatek",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "e49931dbd1d0a7627554d40b9a96e9cedbb16d1201574f189550572e9639886f",
+      "currentEnglishTextHash": "a15387ad66c814cdc62adf71939915d99502d036b92e2064348a2dd3fbf89234",
+      "canonicalHash": "d174dce96d570c4adcb124852a2842b2015ba943a81ca2f6e6e769735c8ba99e"
+    },
+    {
+      "id": "coco-gauff",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "387f080cbb4962b7c82507ea53c43392b9c75d35aac413c3838f0e48ef8d02b5",
+      "currentEnglishTextHash": "f258924bba9f18517b0f677ed025a94a8d361dd92c64cf80af9962d685a2de66",
+      "canonicalHash": "047828c7283a7830d1f5c47f4c50f1a4b13a2a661b5a073755808d4132b2310a"
+    },
+    {
+      "id": "carlos-alcaraz",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "61659e8f0796ff74ebd7c39c68bfb01efc874fb88392d29a49ff865d0c54b07b",
+      "currentEnglishTextHash": "80f35abf96ca616c08ab51abb3464d1364822475852124e282ab5a57bb76285d",
+      "canonicalHash": "b6fb5174d61f060d2f102d55cf2d54be5df0f81feb6125f4ce6a634c1608f29d"
+    },
+    {
+      "id": "stephen-curry",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "b8cc16a5009386451835d2b17a45cb2732cd74ec2d1c9c37b9d3e7fad90f1125",
+      "currentEnglishTextHash": "95cc23e93903b77c942d200ee9236f96be9630c25bf1cdc690a4485f38504d02",
+      "canonicalHash": "7ee6a84d14519976bcb5aa92983248ee1c10d77adea56b2dbc13e52326ffed99"
+    },
+    {
+      "id": "kevin-durant",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "e6409f4f7a203488030b4e03199fdc3f1047617440fb0a179665fa7f1c9da9c2",
+      "currentEnglishTextHash": "cf632ab7735260dcf4cc5a015c05008b3e9189b95817e98136357a54ea14709f",
+      "canonicalHash": "c8aed3a37638d1031078ac185b96e85542f0792f7ce52ac9d16c51b936d43270"
+    },
+    {
+      "id": "max-verstappen",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "262c61ad0ac586797c426806f14086779d75ee9158a05e711176fc11d4732890",
+      "currentEnglishTextHash": "1c03adf37161d42945eea7918f933c3b7db16bb832994e4db8d6349f6472a73f",
+      "canonicalHash": "69b073aab69624341c972de88bba06d53cd4d93c9c8124a0e5ba29c2b64417bc"
+    },
+    {
+      "id": "katie-ledecky",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "d5aaa3a211a9065f62804350d8694ab5f94a667383d2c53b6bf963b74793e03d",
+      "currentEnglishTextHash": "912958a2c94a34ddc583039d1dc6f0548a6334fc0df1adf1b8b1b682de723adb",
+      "canonicalHash": "fe9509efbaaec573f3abb7826682d7dabb5d78a4334d9abb8a6449f601ff7190"
+    },
+    {
+      "id": "shelly-ann-fraser-pryce",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "94f41caf792b6dab0f49cf554e8a43fcf8b26ce93fa1dcbe1998709fa32f2855",
+      "currentEnglishTextHash": "677a2ac52435bcf782a956b2f4450f209be5acf5a88a386b7383981e3e8e5ab2",
+      "canonicalHash": "b93b202dd1f5dc97a47b4ddeedf0e4e56357dc4097230bfc710da11ffa66a9b2"
+    },
+    {
+      "id": "mikaela-shiffrin",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "4ff4b446c2453f84364440b0ea16a86d1d094e03a30b0b09712761642be3580d",
+      "currentEnglishTextHash": "4216c21a75025bd33cb32413f7ff5f3d36001064c4feefe30e82d2e6fa2079ac",
+      "canonicalHash": "89e22d9e9482816109969701ff1c66a00528151813ffa6d310214e28aab6ed5c"
+    },
+    {
+      "id": "armand-duplantis",
+      "keys": [
+        "influence.rationale"
+      ],
+      "previousEnglishTextHash": "b1f74e05ada2e79740b6eb594a480333adc7fee1cf138e347c716bd4e1127925",
+      "currentEnglishTextHash": "ceed19b6f8cf03cc5044d31f8c9eec762e689820160a9111e34cbfde4aa4f934",
+      "canonicalHash": "76445c8f6dd6bdab73c60e4aeb6f5c28320a019fb81b51ee7b477a34cff54ca1"
+    }
+  ],
+  "subsequentReviewedCorrection": {
+    "id": "bjarne-stroustrup",
+    "key": "timeline.event-2.text",
+    "previousEnglish": "Became a full professor at Columbia after a long association as a visiting professor.",
+    "currentEnglish": "Became a full-time professor at Columbia after a long association as a visiting professor.",
+    "reason": "Align with canonical full-time appointment without inferring academic rank. All six target fields explicitly reviewed; DE/KO/ES wording corrected and all six saved using the reviewed helper."
+  }
+}

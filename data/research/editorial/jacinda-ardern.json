@@ -1,0 +1,121 @@
+{
+  "id": "jacinda-ardern",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2026-10-27",
+  "sourceUrls": [
+    "https://nzhistory.govt.nz/people/jacinda-ardern",
+    "https://www.waikato.ac.nz/study/student-success-stories/jacinda-ardern/",
+    "https://collections.tepapa.govt.nz/agent/62104",
+    "https://natlib.govt.nz/records/30110437",
+    "https://www.beehive.govt.nz/release/new-restrictions-semi-automatic-firearms-will-extend-exports",
+    "https://www.mfat.govt.nz/en/media-and-resources/christchurch-call-to-eliminate-terrorist-and-violent-extremist-content-online-adopted",
+    "https://www.1news.co.nz/2023/01/19/timeline-jacinda-ardern-as-prime-minister/",
+    "https://www.abc.net.au/news/2023-01-19/jacinda-ardern-stepping-down-is-no-shock-in-nz/101871510",
+    "https://www.sydney.edu.au/news-opinion/news/2026/10/27/rt-hon-dame-jacinda-ardern-joins-the-university-of-sydney.html"
+  ],
+  "lifeStatusEvidence": "https://www.sydney.edu.au/news-opinion/news/2026/10/27/rt-hon-dame-jacinda-ardern-joins-the-university-of-sydney.html",
+  "identityEvidence": {
+    "wikidataId": "Q3606816",
+    "officialOrInstitutionalBiography": "https://nzhistory.govt.nz/people/jacinda-ardern"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacinda_Ardern_-_Waitangi_2022_(cropped).jpg",
+    "sha256": "8c9fcfdb373ea9e9ff5e967d7262dc6151f393c1965079ba240cf2099c486562"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "21d24ca110eda2c9316dbf098d0746d1dbd33c2918abe9c5c232635456ac2218",
+    "englishReferenceTextHash": "664ce69fa145dcaee62cf4c4d426e912e9b6f0620a35c6967c661a7e775eb776",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 38,
+        "sha256": "01b4eb99146d0043122fa2e1a3e0b287a5bb4308d56a65e3999869fbbe56de98",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 38,
+        "sha256": "ad62c1fc9ab14bb10404f5a7c269d84e2737d95a310c708e1184a1e59c972e19",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 38,
+        "sha256": "fbe60c9f1b4cf7a6128a63f3a8067128dfe99b757d7ce456c5a9bf93838c2e62",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 38,
+        "sha256": "c78f56829c157b7e1e174f9352ecdf29a2931afdd8bbb0a9ec7ca6e8c08cb685",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 38,
+        "sha256": "b2221eb946970e4606792dbd4b86cb3441658396802428869a773c0c6614da24",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 38,
+        "sha256": "ff5b0ff02903a3f1bb7f093909812a276f8ff0afbf888294065cf06207e87607",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

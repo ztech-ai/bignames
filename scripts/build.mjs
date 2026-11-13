@@ -1,7 +1,7 @@
 import { readFile, writeFile, readdir, mkdir, rm, cp } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { validateTranslation, validateUI, validateUISource, localizePerson, formatMessage } from './i18n-core.mjs';
+import { validateTranslation, validateIntermediary, validateUI, validateUISource, localizePerson, formatMessage } from './i18n-core.mjs';
 import { escapeHtml as e, yearOf, lifeStatus, timelineOrder, safeUrl } from './utils.mjs';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 
@@ -191,6 +191,7 @@ for(const locale of locales) {
       // Image metadata is separate from the canonical biography and its source hash.
       const {image,...canonical}=person;
       validateTranslation(canonical,translation,locale.id);
+      if(translation.translationProvenance)validateIntermediary(translation,await json(`data/i18n/en/people/${canonical.id}.json`),locale.id,canonical.id);
     }
     const projected=localizePerson(person,translation);
     projected.timeline.sort(timelineOrder);

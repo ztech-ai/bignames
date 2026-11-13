@@ -1,0 +1,140 @@
+{
+  "id": "rafael-nadal",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2026-05-19",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://www.biography.com/athletes/rafael-nadal",
+    "https://www.atptour.com/en/news/rafael-nadal-retirement-untouchable-records",
+    "https://www.atptour.com/en/news/rafael-nadal-retirement-grand-slam-greatness",
+    "https://www.world.tennis/en/news-and-media/articles/haggerty-congratulates-nadal-on-phenomenal-career/",
+    "https://www.atptour.com/en/news/nadal-retirement-jan-2025",
+    "https://www.atptour.com/en/news/atp-50-next-gen-longform",
+    "https://www.atptour.com/es/news/mallorca-2026-rafa-nadal-feature-3",
+    "https://www.brecorder.com/news/amp/40447411"
+  ],
+  "lifeStatusEvidenceURL": "https://www.atptour.com/es/news/mallorca-2026-rafa-nadal-feature-3",
+  "lifeStatusEvidence": "https://www.atptour.com/es/news/mallorca-2026-rafa-nadal-feature-3",
+  "identityEvidence": {
+    "wikidataId": "Q10132",
+    "officialBiography": "https://www.atptour.com/en/players/rafael-nadal/n409/bio",
+    "reviewMethod": "Named official sports profile cross-checked with the cached identity and dated career sources."
+  },
+  "cachedEvidenceReview": {
+    "path": "data/research/evidence/rafael-nadal.json",
+    "sha256": "5cf525931f1269817cf3f8dd8de38285dc6b4a4bf92366455a0f4db0e18b77bf",
+    "reviewedFields": [
+      "identity",
+      "intro",
+      "birth claims",
+      "portrait metadata"
+    ],
+    "method": "Inspected relevant cached claims as leads; significant chronology and current life status were cross-checked against the cited primary and independent sources. Cached retrieval alone was not treated as editorial verification."
+  },
+  "portraitReview": {
+    "identityBasis": "Commons title and description explicitly name Rafael Nadal. Identity checked from the caption and corroborating official biography, not automated facial recognition.",
+    "visualReview": "Actually opened and visually inspected the labeled local contact sheet: actual color photograph, one clear principal subject, suitable face framing. Local bytes copied unchanged.",
+    "visualReviewArtifact": ".qa/batch100-sports/portraits-contact.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_(cropped).jpg",
+    "sha256": "04e7986668e39489d27c49f3a0eb1d885afdec27af12f5626eca3557babf12f0",
+    "credit": "Barcex",
+    "license": "CC BY-SA 4.0",
+    "sourcePageReviewed": true
+  },
+  "translationReview": {
+    "locales": [
+      "en"
+    ],
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "method": "All required English fields reviewed against the Chinese canonical facts; no human or native-language certification claimed."
+  },
+  "editorialNotes": [
+    "Research included targeted 2026 searches through the cutoff; planned competitions were not recorded as completed results.",
+    "Date precision follows the sources; total titles and records are tied to the cited result or retirement date.",
+    "ATP search-index passages were available while some direct ATP pages returned 403. Nadal retirement and major totals were independently cross-checked; the November 2026 planned exhibition is not recorded as a completed match."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "eb10438b057e2fe4e4023bd0324241a49768889408fcd985e51805b298d9cd62",
+    "englishReferenceTextHash": "2fcd8fed67828765182096eef3d8e5bd6109003a4742b37ecb20aec62b02b5d2",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 36,
+        "sha256": "8ce5da8d640ff3e394c7a4c8bf57f3b32895054eeba49e1c75c4e9a6e416e223",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 36,
+        "sha256": "d70a549f23f09d1e0fce0060b42dae384079495dbb3dcb2b00e2327bc58998bb",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 36,
+        "sha256": "be1c007d5f0822c48d815c58ab6320f1a1f3dcfd172beb05191e358486c58256",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 36,
+        "sha256": "a82291fbefc2a0655efed3fe0cacbd5a5857938c3ef52d9dec032aa181dc61b2",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 36,
+        "sha256": "2c27a202c74aecc8543a278d116ba31c78048fcb828efd02bf16bb0e5126b57e",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 36,
+        "sha256": "b56da8c7a92ffe8f10637adc4057e478e13054f6ccc827794cf7324d44fb92ad",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

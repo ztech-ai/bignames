@@ -1,0 +1,129 @@
+{
+  "id": "janet-yellen",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2026-09-10",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://www.federalreservehistory.org/people/janet-l-yellen",
+    "https://home.treasury.gov/about/history/prior-secretaries/janet-yellen-2021-2025",
+    "https://www.brookings.edu/people/janet-l-yellen/",
+    "https://www.investing.com/news/economy/yellen-says-she-was-wrong-about-inflation-path-biden-supports-fed-actions-2832148",
+    "https://berkeley-haas-deans-speaker-series.podbean.com/e/yellen/",
+    "https://en.wikipedia.org/wiki/Janet_Yellen"
+  ],
+  "lifeStatusEvidence": "https://berkeley-haas-deans-speaker-series.podbean.com/e/yellen/",
+  "identityEvidence": {
+    "wikidataId": "Q263725",
+    "officialBiography": "https://home.treasury.gov/about/history/prior-secretaries/janet-yellen-2021-2025",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait_(cropped).jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait_(cropped).jpg#Licensing",
+    "localFile": "public/assets/portraits/janet-yellen.jpg",
+    "sha256": "efc875ea81fd16b5d56781d06b93c601b61aef47ad57531f45798a832f1c4230"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Cached evidence and draft inspected; former offices checked against Treasury history and Brookings.",
+    "The September 10 date is podcast publication, not an invented date of her appearance; text explicitly says released."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "be5151368d06743bc6586256c32a3cf619c15a0dc521458d33290bde4f66116b",
+    "englishReferenceTextHash": "f273e81343be6c9373db7b3cb75d008d1b5ef0e77a9742f1ba3e38e86ddcb376",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 41,
+        "sha256": "cc38c33e6eb779d95a74754900a9098b768f44d2db766a3c3818c77bab578831",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 41,
+        "sha256": "4194c204eefb2eb02af4aee398d65c71a6a51128cc6e4019f0d4000cd401d5c1",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 41,
+        "sha256": "a20268f5e67572848a5f8c7b787c5ed172026ad0ca4cc730b164135e90c4d82a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 41,
+        "sha256": "44a730efe898d39ecedee8bc283fb354f1279fba61e186402d24c44f39c487c7",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 41,
+        "sha256": "d43918c4739b0b186a8fc9276e373af526685cc9507b1a1fff186f39e51139b8",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 41,
+        "sha256": "a27cf60a912f3e4d4821a8c9e0c825b415f2eaada2af7411acdaf94fff6f25a7",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

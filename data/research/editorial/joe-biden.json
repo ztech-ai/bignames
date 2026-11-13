@@ -1,0 +1,120 @@
+{
+  "id": "joe-biden",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2025-01-20",
+  "sourceUrls": [
+    "https://www.archives.gov/presidential-records/vice-presidential-records/selected-vice-presidential-records/biden-records",
+    "https://millercenter.org/president/biden/life-in-brief",
+    "https://millercenter.org/president/biden/domestic-affairs",
+    "https://obamawhitehouse.archives.gov/administration/vice-president-biden",
+    "https://www.abc.net.au/news/2025-01-18/joe-biden-presidency-political-legacy/104827820",
+    "https://www.pbs.org/newshour/politics/biden-insists-his-presidency-made-strides-in-restoring-american-credibility-on-world-stage",
+    "https://apnews.com/article/5f7d6b35e6fbc8d7fa2d8e0f24331d06",
+    "https://www.afp.com/en/biden-scales-back-book-tour-cancer-slows-me-down"
+  ],
+  "lifeStatusEvidence": "https://www.afp.com/en/biden-scales-back-book-tour-cancer-slows-me-down",
+  "identityEvidence": {
+    "wikidataId": "Q6279",
+    "officialOrInstitutionalBiography": "https://www.archives.gov/presidential-records/vice-presidential-records/selected-vice-presidential-records/biden-records"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+    "sha256": "06225d222bb1222c1ee02042823b19af1b1882707d61234513d97783f09839e6"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "35cdb600dc44d67d52c2761ab8e5326a7e19a6559a202f651a10fcbe75f55b50",
+    "englishReferenceTextHash": "bee792a72e0bdc0021725940c8faa4fc979f76f096fbb4924502ab955530a551",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 38,
+        "sha256": "18da13e6bd1b492ad8786f1065d1e07ae229bd99b8c8051ac5440b9473a2553f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 38,
+        "sha256": "c5e0f38b49f6d7ff752b357b1d2b020affe97f78799a3c5e8fabbdbbbb8bfb69",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 38,
+        "sha256": "41079ab81c91d89f92716c65130d98cd10750df2d78e7ba9e3c6ff70c31387aa",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 38,
+        "sha256": "1485b9f88433cdbd936729b3a8dbc5959fceb962d517fa183583d3fe8a3fddbd",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 38,
+        "sha256": "43e0c7d2c3b418212177375d4d1c96e64f9e81639d75c849ca83b8299a296c64",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 38,
+        "sha256": "3fe44aab0a7d658a67cb85e68b7728a251a542d82baee0b01b7897828fe3cd3c",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "hillary-clinton",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2025-01-04",
+  "sourceUrls": [
+    "https://history.state.gov/departmenthistory/people/clinton-hillary-rodham",
+    "https://history.house.gov/People/detail/11751",
+    "https://www.hillaryclinton.com/about/",
+    "https://www.whitehousehistory.org/bios/hillary-clinton",
+    "https://secretary.columbia.edu/directory/hillary-rodham-clinton",
+    "https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system",
+    "https://www.washingtonpost.com/business/2026/09/23/hillary-clinton-says-trumps-media-ban-is-deeply-disturbing/"
+  ],
+  "lifeStatusEvidence": "https://www.washingtonpost.com/business/2026/09/23/hillary-clinton-says-trumps-media-ban-is-deeply-disturbing/",
+  "identityEvidence": {
+    "wikidataId": "Q6294",
+    "officialOrInstitutionalBiography": "https://history.state.gov/departmenthistory/people/clinton-hillary-rodham"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+    "sha256": "b14fcd0f931a0858fbed4a2f2c8ece2459a80781f8466e21d8837335e1c5bb7f"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "7dc822f98fc954520ca9162b9fe8b1fef429c392fa0ca14b2eeec5a6c273c69b",
+    "englishReferenceTextHash": "e38ae50a48d90d0347684f49e2111ff7220386869b7f85dfe17f00ca7fceb7bc",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 36,
+        "sha256": "0184f6cedef51ba6af5d181266ea59d58a3a0665fde825a76326cd0fa50e2112",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 36,
+        "sha256": "5110fe2582daccb90d008d74d269802e0575a178908cb6ecea85258a806abe29",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 36,
+        "sha256": "9b922aced17d069e50c46c2b947b97ebfb45660a02210a249e125a13a891327f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 36,
+        "sha256": "86aafb18b59928af80552cbba050326a2ef33b3dc5d51e2a8ff11155477b5aad",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 36,
+        "sha256": "56caf029eeae4e681b43bafce99b55aeb371f047d43a2cf9034b94edadfec097",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 36,
+        "sha256": "42e2d0bcdea0ab430157b5761c62e5cc4918e0be50529d5eb49796132d2bce37",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

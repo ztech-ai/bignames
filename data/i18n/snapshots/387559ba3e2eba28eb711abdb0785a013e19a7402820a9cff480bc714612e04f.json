@@ -1,0 +1,220 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "387559ba3e2eba28eb711abdb0785a013e19a7402820a9cff480bc714612e04f",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "barbara-liskov",
+    "name": "芭芭拉·利斯科夫",
+    "enName": "Barbara Liskov",
+    "aliases": [
+      "Barbara Liskov",
+      "芭芭拉·利斯科夫"
+    ],
+    "birth": "1939-11-07",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "数据抽象",
+      "分布式系统"
+    ],
+    "role": "程序设计语言与分布式系统研究者",
+    "summary": "芭芭拉·利斯科夫研究如何把复杂软件组织成可理解、可验证的模块。她领导开发CLU与Argus语言，推进数据抽象与分布式程序设计；与合作者研究行为子类型、复制协议及实用拜占庭容错。其成果连接程序语言的理论与可靠系统的实现，获得2008年度图灵奖，长期影响软件工程与网络服务。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "数据抽象",
+        "text": "领导CLU项目，以抽象数据类型和模块化帮助程序员构建更可靠的软件。",
+        "sourceIds": [
+          "bio",
+          "mit"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "容错与行为子类型",
+        "text": "与合作者发展行为子类型和复制协议，使语言设计与分布式系统可靠性相互促进。",
+        "sourceIds": [
+          "bio",
+          "mit",
+          "interview"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国加利福尼亚州洛杉矶"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "加州大学伯克利数学学士（1961）；斯坦福计算机科学博士（1968）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-06-19",
+        "title": "回顾复制协议研究",
+        "text": "在公开访谈中讨论模块化、状态机复制与实用拜占庭容错的研究脉络。",
+        "sourceIds": [
+          "interview"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2023",
+        "title": "入选计算机历史博物馆会士",
+        "text": "因程序语言与系统设计的理论和实践贡献获选会士。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2009",
+        "title": "获2008年度图灵奖",
+        "text": "ACM公布其获奖，表彰程序语言和系统设计、数据抽象及容错方面的贡献。",
+        "sourceIds": [
+          "award"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "2008",
+        "title": "获MIT学院教授称号",
+        "text": "获麻省理工学院最高级别教授荣誉，延续语言与系统研究。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1999",
+        "title": "发表实用拜占庭容错协议",
+        "text": "与米格尔·卡斯特罗提出PBFT，探索在恶意副本存在时维持服务的方法。",
+        "sourceIds": [
+          "pbft"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1987",
+        "title": "阐述类型层次关系",
+        "text": "讨论抽象与层次结构中的替换要求，成为利斯科夫替换原则的思想基础。",
+        "sourceIds": [
+          "hierarchy"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1972",
+        "title": "加入MIT教职",
+        "text": "从MITRE转至MIT，研究程序设计方法，随后领导CLU与Argus项目。",
+        "sourceIds": [
+          "bio",
+          "mit"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1968",
+        "title": "完成斯坦福博士",
+        "text": "在约翰·麦卡锡指导下完成棋类残局研究，取得计算机科学博士。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1961",
+        "title": "取得数学学士",
+        "text": "毕业于加州大学伯克利分校，随后在MITRE和哈佛从事编程。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1939-11-07",
+        "title": "出生于洛杉矶",
+        "text": "出生于美国加利福尼亚州洛杉矶。",
+        "sourceIds": [
+          "birth",
+          "bio"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Barbara Liskov — 2023 Fellow",
+        "publisher": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/barbara-liskov/"
+      },
+      {
+        "id": "mit",
+        "title": "Barbara Liskov",
+        "publisher": "MIT CSAIL",
+        "url": "https://www.csail.mit.edu/person/barbara-liskov"
+      },
+      {
+        "id": "award",
+        "title": "Barbara Liskov Wins Turing Award",
+        "publisher": "MIT News",
+        "url": "https://news.mit.edu/2009/turing-liskov-0310"
+      },
+      {
+        "id": "pbft",
+        "title": "Practical Byzantine Fault Tolerance",
+        "publisher": "Miguel Castro and Barbara Liskov / USENIX",
+        "url": "https://www.usenix.org/legacy/events/osdi99/full_papers/castro/castro.pdf"
+      },
+      {
+        "id": "interview",
+        "title": "Before Blockchains, There Was State Machine Replication",
+        "publisher": "a16z Frontier",
+        "url": "https://a16zfrontier.com/posts/videos/first-principles-ft-barbara-liskov-and-tim-roughgarden/"
+      },
+      {
+        "id": "birth",
+        "title": "Barbara Liskov",
+        "publisher": "National Inventors Hall of Fame",
+        "url": "https://www.invent.org/inductees/barbara-liskov"
+      },
+      {
+        "id": "wiki",
+        "title": "Barbara Liskov",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Barbara_Liskov"
+      },
+      {
+        "id": "hierarchy",
+        "title": "Data Abstraction and Hierarchy",
+        "publisher": "Barbara Liskov / OOPSLA",
+        "url": "https://www.engr.mun.ca/~theo/Courses/ssd/9874-downloads/Liskov-1987-Data-Abstraction-and-Hierarchy-LSP.pdf"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2026年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "推动数据抽象、程序设计语言及分布式系统研究，对可靠软件设计具有基础性贡献。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

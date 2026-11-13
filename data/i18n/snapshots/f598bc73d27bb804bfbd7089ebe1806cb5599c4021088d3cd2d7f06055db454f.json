@@ -1,0 +1,204 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "f598bc73d27bb804bfbd7089ebe1806cb5599c4021088d3cd2d7f06055db454f",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "adi-shamir",
+    "name": "阿迪·沙米尔",
+    "enName": "Adi Shamir",
+    "aliases": [
+      "Adi Shamir",
+      "阿迪·沙米尔"
+    ],
+    "birth": "1952-07-06",
+    "death": null,
+    "country": "以色列",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "tags": [
+      "密码学",
+      "秘密分享"
+    ],
+    "role": "密码学家 · RSA共同发明者",
+    "summary": "阿迪·沙米尔与罗纳德·李维斯特、伦纳德·阿德尔曼共同发明RSA，并提出秘密分享等影响广泛的密码学方法。他也研究如何攻击与检验密码系统，与埃利·比哈姆发展差分密码分析。其工作兼顾构造与破译，跨越身份认证、签名和旁道攻击，显示安全性需要持续接受公开分析。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "公钥与秘密分享",
+        "text": "共同发明RSA，并提出以门限方式把秘密分配给多方的分享方案。",
+        "sourceIds": [
+          "rsac",
+          "japan"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "密码分析",
+        "text": "与比哈姆发展差分密码分析，也研究缓存和声音等旁道泄露。",
+        "sourceIds": [
+          "royal",
+          "rsac"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "以色列特拉维夫"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "特拉维夫大学数学学士（1973）；魏茨曼研究所硕士（1975）、博士（1977）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2017",
+        "title": "获日本国际奖",
+        "text": "因密码学与信息安全方面的先驱贡献获日本国际奖。",
+        "sourceIds": [
+          "japan",
+          "royal"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2008",
+        "title": "获以色列奖",
+        "text": "以计算机科学研究贡献获得以色列奖。",
+        "sourceIds": [
+          "royal"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2002",
+        "title": "共同获图灵奖",
+        "text": "与李维斯特、阿德尔曼因公钥密码学贡献共同获奖。",
+        "sourceIds": [
+          "royal"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "1991",
+        "title": "发表差分密码分析研究",
+        "text": "与埃利·比哈姆发表针对DES类密码的差分分析工作。",
+        "sourceIds": [
+          "japan"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1979",
+        "title": "提出秘密分享方案",
+        "text": "发表《How to Share a Secret》，使达到门限的参与者可共同恢复秘密。",
+        "sourceIds": [
+          "japan"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1978",
+        "title": "发表RSA论文",
+        "text": "与李维斯特、阿德尔曼共同发表数字签名与公钥密码方法。",
+        "sourceIds": [
+          "paper"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1977",
+        "title": "完成魏茨曼博士",
+        "text": "取得计算机科学博士，随后赴MIT开展博士后研究。",
+        "sourceIds": [
+          "bio",
+          "japan"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1973",
+        "title": "取得数学学士",
+        "text": "完成特拉维夫大学数学本科，随后在魏茨曼研究所深造。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1952-07-06",
+        "title": "出生于特拉维夫",
+        "text": "出生于以色列特拉维夫。",
+        "sourceIds": [
+          "birth"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Adi Shamir — Short Biography",
+        "publisher": "Ben-Gurion University",
+        "url": "https://fichsa.sise.bgu.ac.il/speakers/shamir.html"
+      },
+      {
+        "id": "royal",
+        "title": "Professor Adi Shamir FRS",
+        "publisher": "Royal Society",
+        "url": "https://royalsociety.org/people/adi-shamir-13842/"
+      },
+      {
+        "id": "japan",
+        "title": "Adi Shamir — 2017 Japan Prize",
+        "publisher": "Japan Prize Foundation",
+        "url": "https://www.japanprize.jp/en/prize_prof_2017_shamir.html"
+      },
+      {
+        "id": "birth",
+        "title": "Prof. Adi Shamir — Facial Recognition Threats",
+        "publisher": "Technology Innovation Institute",
+        "url": "https://www.tii.ae/seminar/crc-seminar-series-prof-adi-shamir"
+      },
+      {
+        "id": "rsac",
+        "title": "Adi Shamir — Biography and presentations",
+        "publisher": "RSAC",
+        "url": "https://www.rsaconference.com/experts/adi-shamir"
+      },
+      {
+        "id": "paper",
+        "title": "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems",
+        "publisher": "Rivest, Shamir and Adleman / MIT",
+        "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf"
+      },
+      {
+        "id": "recent",
+        "title": "Deep Neural Cryptography",
+        "publisher": "Czech Technical University G²OAT",
+        "url": "https://ggoat.fit.cvut.cz/seminar/shamir-Deep-Neural-Cryptography.html"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2017年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同提出RSA算法并推动密码分析与秘密共享研究，对现代信息安全具有深远影响。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

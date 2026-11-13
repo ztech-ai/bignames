@@ -1,0 +1,113 @@
+{
+  "id": "adele",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2025-11",
+  "sourceUrls": [
+    "https://www.allmusic.com/artist/adele-mn0000503460/biography",
+    "https://www.grammy.com/artists/adele/528/",
+    "https://www.oscars.org/oscars/ceremonies/2013",
+    "https://sony.mediaroom.com/2012-02-12-Adele-Takes-Home-6-Grammy-Awards-Including-Record-of-the-Year-Album-of-the-Year-and-Song-of-the-Year",
+    "https://www.ticketmaster.com/adele-tickets/artist/1159272",
+    "https://pitchfork.com/news/adele-to-star-in-new-tom-ford-movie/",
+    "https://en.wikipedia.org/wiki/Adele"
+  ],
+  "lifeStatusEvidence": "https://www.bayfm.ca/2026/11/09/adele-returns-to-the-spotlight-with-film-debut-as-fans-await-new-album/",
+  "identityEvidence": {
+    "researchEvidence": "data/research/evidence/adele.json",
+    "wikidataId": "Q23215",
+    "officialBiography": "https://www.grammy.com/artists/adele/528/"
+  },
+  "portraitReview": {
+    "identityBasis": "The Commons description/source record names the subject; author and file-specific license checked on the opened Commons page. No facial recognition inference used.",
+    "visualReview": "Opened the local cached photograph in the labeled contact sheet at .qa/batch100-culture/portraits.jpg. The principal subject is visible and the photograph is in color; original color is preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele_2016.jpg",
+    "sha256": "e1df4f2f30becc83199d89fec69ceba8344164e4b0d2673d16b701bcfe1fbcbf"
+  },
+  "editorialNotes": [
+    "Chinese prose and the full English translation were authored and checked by AI against the shared dates, citations, life status and unchanged provisional four-star rating; no human or native-speaker review is claimed.",
+    "Cached research was inspected as leads, with substantive milestones cross-checked against cited primary and independent sources. The chronology is selective, not a complete work or news archive.",
+    "Recent 2026 reporting was checked for life status and the uncompleted film project; no new album or film release is inferred from speculation."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "22868ef9b947e17859e40aefc85ecd018227d4edaf5510db62dc034ff3a6cdba",
+    "englishReferenceTextHash": "21dce675b1960593da25f8d145858dba7f38454ce2cc45a214948d4a1d7affb3",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 41,
+        "sha256": "234f07df43b96033af12865f5d4b0caeb1a440cb7364211f895b5ba9dfe4c845",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 41,
+        "sha256": "a5ba4e80a9df25fdcbb397db09c1bd722132a385ed9ce4b494785cc528e6ee2d",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 41,
+        "sha256": "913fc8858a12284c2728730e6b8594dce375ba823db036e550ddca0385c5a3ea",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 41,
+        "sha256": "31c452ea5e11edde9f0d943e313e66901b39dfe6177345de6c4246aeefbb9940",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 41,
+        "sha256": "5a2fd0f65f23d34bfd1207947490757fcae7e655cb7656dfa8739ecea3057b4b",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 41,
+        "sha256": "1c8ecf49b41dfb4c6e57738ba3f005a934f74aa591e9157047d9d0ea423ded2f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

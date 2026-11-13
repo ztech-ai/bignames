@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import { timelineOrder, yearOf, safeUrl, lifeStatus } from './utils.mjs';
-import { sourceStrings, validateTranslation, validateUI, validateUISource } from './i18n-core.mjs';
+import { sourceStrings, validateTranslation, validateIntermediary, validateUI, validateUISource } from './i18n-core.mjs';
 import { validateInfluence } from './influence.mjs';
 import { createHash } from 'node:crypto';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
@@ -110,7 +110,11 @@ for(const locale of enabledLocales) {
   validateUI(baseUI,await readJson(`data/i18n/${locale.id}/ui.json`),locale.id);
   if(locale.id!==sourceLocale) {
     validateUISource(baseUI,await readJson(`data/i18n/${locale.id}/ui-source.json`),locale.id);
-    for(const person of people)validateTranslation(person,await readJson(`data/i18n/${locale.id}/people/${person.id}.json`),locale.id);
+    for(const person of people){
+      const translation=await readJson(`data/i18n/${locale.id}/people/${person.id}.json`);
+      validateTranslation(person,translation,locale.id);
+      if(translation.translationProvenance)validateIntermediary(translation,await readJson(`data/i18n/en/people/${person.id}.json`),locale.id,person.id);
+    }
   }
 }
 for(const c of candidates) {

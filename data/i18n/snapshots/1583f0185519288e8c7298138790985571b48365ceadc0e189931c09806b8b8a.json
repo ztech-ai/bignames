@@ -1,0 +1,221 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "1583f0185519288e8c7298138790985571b48365ceadc0e189931c09806b8b8a",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "richard-stallman",
+    "name": "理查德·斯托曼",
+    "enName": "Richard Stallman",
+    "aliases": [
+      "Richard Stallman",
+      "理查德·斯托曼"
+    ],
+    "birth": "1953-03-16",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "自由软件",
+      "GNU"
+    ],
+    "role": "自由软件运动发起者 · GNU开发者",
+    "summary": "理查德·斯托曼发起GNU计划与自由软件运动，主张用户拥有运行、研究、修改和分享软件的自由。他开发GNU Emacs、编译器等工具，创办自由软件基金会，并以copyleft许可保护再分发权利。其技术与伦理倡议影响软件社群；公开言论也引发争议，导致2019年辞职及2021年重返基金会董事会后的反对。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "GNU与自由软件",
+        "text": "建立GNU计划，开发编辑器、编译器和调试器等自由软件基础工具。",
+        "sourceIds": [
+          "bio",
+          "hall"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "Copyleft许可",
+        "text": "推动以版权许可保留用户复制、修改与再分发自由的做法。",
+        "sourceIds": [
+          "bio",
+          "gpl"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国纽约市"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "哈佛大学物理学学士（1974）；曾在MIT攻读研究生"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2021-03",
+        "title": "重返FSF董事会引发反对",
+        "text": "宣布重返董事会；欧洲自由软件基金会等组织公开反对这一决定。",
+        "sourceIds": [
+          "return"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2019-09-16",
+        "title": "辞去FSF领导职务",
+        "text": "在言论争议中辞去自由软件基金会主席及董事职位。",
+        "sourceIds": [
+          "resign",
+          "return"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "1990",
+        "title": "获麦克阿瑟奖与霍珀奖",
+        "text": "软件开发工作获得麦克阿瑟研究员资助及ACM格蕾丝·霍珀奖。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "1989-02",
+        "title": "GNU GPL第一版发布",
+        "text": "通用公共许可证首版发布，把自由软件的再分发条件写成通用许可。",
+        "sourceIds": [
+          "gpl"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1985-10",
+        "title": "创办自由软件基金会",
+        "text": "设立非营利组织支持GNU与自由软件运动。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1984-01",
+        "title": "开始全职开发GNU",
+        "text": "离开MIT雇员岗位，着手实现此前宣布的自由操作系统计划。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1983-09",
+        "title": "宣布GNU计划",
+        "text": "公开提出开发由自由软件构成的类Unix操作系统。",
+        "sourceIds": [
+          "bio",
+          "hall"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1976",
+        "title": "参与开发Emacs",
+        "text": "在MIT人工智能实验室开发可扩展编辑器，形成其重要软件贡献之一。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1974",
+        "title": "取得物理学学士",
+        "text": "毕业于哈佛大学，随后在MIT攻读物理研究生并继续软件开发。",
+        "sourceIds": [
+          "bio",
+          "hall"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1953-03-16",
+        "title": "出生于纽约",
+        "text": "出生于美国纽约市。",
+        "sourceIds": [
+          "birth",
+          "wiki"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Richard Stallman — Biography",
+        "publisher": "Richard Stallman",
+        "url": "https://stallman.org/biographies.html"
+      },
+      {
+        "id": "hall",
+        "title": "Richard Stallman",
+        "publisher": "Internet Hall of Fame",
+        "url": "https://www.internethalloffame.org/inductee/richard-stallman/"
+      },
+      {
+        "id": "gpl",
+        "title": "GNU General Public License version1",
+        "publisher": "GNU Project / Free Software Foundation",
+        "url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0.html"
+      },
+      {
+        "id": "resign",
+        "title": "Richard M. Stallman resigns",
+        "publisher": "Free Software Foundation",
+        "url": "https://www.fsf.org/news/richard-m-stallman-resigns"
+      },
+      {
+        "id": "return",
+        "title": "Statement on Richard Stallman rejoining the FSF board",
+        "publisher": "Free Software Foundation Europe",
+        "url": "https://fsfe.org/news/2021/news-20210324-01.en.html"
+      },
+      {
+        "id": "birth",
+        "title": "Richard Stallman",
+        "publisher": "Centre for Computing History",
+        "url": "https://www.computinghistory.org.uk/det/1794/Richard-Stallman/"
+      },
+      {
+        "id": "wiki",
+        "title": "Richard Stallman",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Stallman"
+      },
+      {
+        "id": "recent",
+        "title": "Richard Stallman's Personal Page — November2026 notes",
+        "publisher": "Richard Stallman",
+        "url": "https://stallman.org/"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2021年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "发起GNU项目与自由软件运动，推动软件自由、开放许可和开发者协作的制度讨论。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

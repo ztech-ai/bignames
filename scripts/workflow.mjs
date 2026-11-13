@@ -2,7 +2,7 @@ import { readFile, readdir, stat, mkdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
-import { validateTranslation, validateUI, validateUISource, sourceStrings } from './i18n-core.mjs';
+import { validateTranslation, validateIntermediary, validateUI, validateUISource, sourceStrings } from './i18n-core.mjs';
 import { lifeStatus } from './utils.mjs';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 import { fingerprint, packageArtifacts, validateOutputDirectory } from './package.mjs';
@@ -24,7 +24,7 @@ export async function workflowStatus(root=defaultRoot) {
     try{person=await readJson(root,f);if(filename!==`${person.id}.json`)throw new Error('Filename and person ID differ');sourceStrings(person);lifeStatus(person);for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt'])if(typeof person[key]!=='string'||!person[key].trim())throw new Error(`Missing ${key}`);if(!person.timeline?.length||!person.sources?.length)throw new Error('Missing timeline or sources');published.add(person.id);}catch(error){issue('profile',f,error);continue;}
     const imageFile=`data/images/${person.id}.json`;
     try{const image=await readJson(root,imageFile);validateImageMetadata(image,person.id);if(hasPortrait(image)){if((await stat(path.join(root,'public',image.src))).size<=1000)throw new Error('Portrait file is missing or too small');images++;}else pendingPortraits++;}catch(error){issue('image',imageFile,error);}
-    for(const locale of locales.filter(l=>l.id!==source)){const translationFile=`data/i18n/${locale.id}/people/${person.id}.json`;try{validateTranslation(person,await readJson(root,translationFile),locale.id);translations++;}catch(error){issue('translation',translationFile,error);}}
+    for(const locale of locales.filter(l=>l.id!==source)){const translationFile=`data/i18n/${locale.id}/people/${person.id}.json`;try{const translation=await readJson(root,translationFile);validateTranslation(person,translation,locale.id);if(translation.translationProvenance)validateIntermediary(translation,await readJson(root,`data/i18n/en/people/${person.id}.json`),locale.id,person.id);translations++;}catch(error){issue('translation',translationFile,error);}}
   }
   let pages=0;async function countHtml(dir){try{for(const entry of await readdir(dir,{withFileTypes:true})){if(entry.isDirectory())await countHtml(path.join(dir,entry.name));else if(entry.name.endsWith('.html'))pages++;}}catch(error){if(error.code!=='ENOENT')throw error;}}await countHtml(path.join(root,'dist'));
   const evidencePresent=collection.filter(p=>evidence.has(p.id)).length,draftsPresent=collection.filter(p=>drafts.has(p.id)).length;

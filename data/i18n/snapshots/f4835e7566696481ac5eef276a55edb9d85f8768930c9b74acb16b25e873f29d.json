@@ -1,0 +1,210 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "f4835e7566696481ac5eef276a55edb9d85f8768930c9b74acb16b25e873f29d",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "donald-knuth",
+    "name": "唐纳德·克努特",
+    "enName": "Donald Knuth",
+    "aliases": [
+      "Donald Knuth",
+      "唐纳德·克努特"
+    ],
+    "birth": "1938-01-10",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "算法分析",
+      "数字排版"
+    ],
+    "role": "算法分析奠基者 · TeX设计者",
+    "summary": "唐纳德·克努特以《计算机程序设计艺术》系统整理算法及其数学分析，帮助确立计算机科学的研究与教学方法。他为改善技术出版质量创造TeX与METAFONT，并倡导把程序与解释相结合的文学编程。其工作横跨组合数学、算法、程序语言和字体设计，既重视严密推导，也强调编程的表达与工艺。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "算法的系统分析",
+        "text": "《计算机程序设计艺术》把算法、数学证明与丰富习题结合，成为重要参考书。",
+        "sourceIds": [
+          "bio",
+          "vita"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "技术出版工具",
+        "text": "创造TeX与METAFONT，让高质量数学排版和字体设计能够通过程序实现。",
+        "sourceIds": [
+          "bio",
+          "kyoto"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国威斯康星州密尔沃基"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "凯斯理工学院学士与硕士（1960）；加州理工学院数学博士（1963）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2025-02",
+        "title": "出版约束满足分册",
+        "text": "《计算机程序设计艺术》第4卷第7分册出版，继续整理组合算法。",
+        "sourceIds": [
+          "news"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "1996",
+        "title": "获京都奖",
+        "text": "因对计算机科学基础、算法和出版工具的贡献获先进技术领域京都奖。",
+        "sourceIds": [
+          "kyoto"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "1993",
+        "title": "转为斯坦福荣休教授",
+        "text": "从常规教职退休，把更多时间用于写作与算法研究。",
+        "sourceIds": [
+          "vita"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "1984",
+        "title": "阐述文学编程",
+        "text": "发表《Literate Programming》，主张以解释思路的文本组织程序。",
+        "sourceIds": [
+          "vita",
+          "wiki"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "1977",
+        "title": "开始开发TeX",
+        "text": "因书稿排版质量不理想，着手建立计算机排版系统。",
+        "sourceIds": [
+          "bio"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "1974",
+        "title": "获图灵奖",
+        "text": "因算法分析与程序设计研究获ACM图灵奖。",
+        "sourceIds": [
+          "bio",
+          "vita"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "1968",
+        "title": "著作首卷与斯坦福教职",
+        "text": "《计算机程序设计艺术》首卷出版；同年加入斯坦福大学。",
+        "sourceIds": [
+          "vita",
+          "history"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "1963",
+        "title": "取得数学博士",
+        "text": "在加州理工学院完成有限半域与射影平面研究。",
+        "sourceIds": [
+          "vita",
+          "history"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1960",
+        "title": "完成凯斯学业",
+        "text": "获得凯斯理工学院学士与硕士，随后进入加州理工学院。",
+        "sourceIds": [
+          "vita",
+          "bio"
+        ]
+      },
+      {
+        "id": "event-10",
+        "date": "1938-01-10",
+        "title": "出生于密尔沃基",
+        "text": "出生于美国威斯康星州密尔沃基。",
+        "sourceIds": [
+          "vita"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "bio",
+        "title": "Donald Knuth — 1998 Fellow",
+        "publisher": "Computer History Museum",
+        "url": "https://computerhistory.org/profile/donald-knuth/"
+      },
+      {
+        "id": "vita",
+        "title": "Donald E. Knuth — Curriculum vitae",
+        "publisher": "Stanford University / Donald Knuth",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/vita.pdf"
+      },
+      {
+        "id": "history",
+        "title": "Donald Knuth — Biography",
+        "publisher": "MacTutor / University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Knuth/"
+      },
+      {
+        "id": "kyoto",
+        "title": "Donald Ervin Knuth",
+        "publisher": "Inamori Foundation / Kyoto Prize",
+        "url": "https://www.kyotoprize.org/en/laureates/donald_ervin_knuth/"
+      },
+      {
+        "id": "news",
+        "title": "Knuth: Recent News",
+        "publisher": "Stanford University / Donald Knuth",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/news.html"
+      },
+      {
+        "id": "wiki",
+        "title": "Donald Knuth",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Donald_Knuth"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2025年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "系统化算法分析并开发TeX排版系统，其著作与工具长期影响计算机科学和科学出版。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

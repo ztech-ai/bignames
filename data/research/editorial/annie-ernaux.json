@@ -1,0 +1,114 @@
+{
+  "id": "annie-ernaux",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "coverageEnd": "2026-11-05",
+  "cutoffDate": "2026-11-13",
+  "sourceUrls": [
+    "https://www.annie-ernaux.org/biography/",
+    "https://www.nobelprize.org/uploads/2022/10/bio-bibliography-literatureprize2022.pdf",
+    "https://www.annie-ernaux.org/category/news/",
+    "https://www.annie-ernaux.org/fr/actualites/",
+    "https://en.wikipedia.org/w/index.php?oldid=1382224942"
+  ],
+  "lifeStatusEvidence": "https://www.annie-ernaux.org/fr/actualites/",
+  "lifeStatusEvidenceURL": "https://www.annie-ernaux.org/fr/actualites/",
+  "lifeStatusReview": "Recent named-author activity or interview and current primary biography reviewed; status was not inferred solely from absence of a death date.",
+  "identityEvidence": {
+    "researchEvidence": "data/research/evidence/annie-ernaux.json",
+    "officialBiography": "https://www.annie-ernaux.org/biography/",
+    "wikidataId": "Q1153825",
+    "review": "AI comparison of names, biographical dates, career and source captions; no human identity certification."
+  },
+  "portraitReview": {
+    "identityBasis": "Press conference with the 2022 Nobel Prize winner in literature, Annie Ernaux, in the Stockholm Stock Exchange Building at the Swedish Academy in Stockholm on December 7, 2022.; source caption identifies the subject; no facial recognition used.",
+    "visualReview": "Opened local contact sheet and visually inspected this image: clear principal subject, original color photograph with visible skin and background colors; color preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Annie_Ernaux_in_2022_(5_av_11).jpg",
+    "sha256": "77c5cca3b98ca651e71c172df02afc123530cb3ff0153e27cb89c978b6acfc07"
+  },
+  "editorialNotes": [
+    "Original Chinese summary and English translation written from reviewed evidence; cached draft text was not promoted as publication-ready.",
+    "Canonical dates, citations, death status and four-star influence object are shared by every language; no native-language or human editorial certification is claimed.",
+    "Writing, the Other Life is an edited collection in English, not a newly written 2026 novel. A Man’s Place was published in 1983; the Prix Renaudot followed in 1984."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "5cbfa2caf24f8d99333d0a68a5ca7a8c3cae983922a598f13b11c978161cd0e1",
+    "englishReferenceTextHash": "f6b16469afca2f6b6e2ad8f845878752e8d6b7460722c401a1657ce9bc055762",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 34,
+        "sha256": "8240461d473c923752946c96fe6f09c9b6ba861b3b332093d367d489b6e9e01d",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 34,
+        "sha256": "b289d2e369a6792cd33c070787a42cdd8e14a4e8a84afd9661c140c16ef7ca39",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 34,
+        "sha256": "432a2318da11819ffba6fbc83ef9d61ec8588b5ccefa8df9a7305efa7c4aa12f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 34,
+        "sha256": "7462ab2813040ef0be68950c58de670834bd5a3c4aeab918f5cfde907ff12335",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 34,
+        "sha256": "7655fab3b8f0a24f89e681c1d370f6d2583e587cba9393d6a0f4ff940656fe68",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 34,
+        "sha256": "d52251fd47143f806aac3e97bfb5aa8e16c697ba7952f4a620479131d6ef6f2b",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

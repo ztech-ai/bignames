@@ -1,0 +1,131 @@
+{
+  "id": "esther-duflo",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2026-07-01",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://economics.mit.edu/people/faculty/esther-duflo",
+    "https://economics.mit.edu/sites/default/files/2026-08/ESTHER%20DUFLO%20CV_current.pdf",
+    "https://www.oec.uzh.ch/de/current/news/2026/berufung-abhijit-banerjee-esther-duflo-bernardo-silveira.html",
+    "https://www.nber.org/news/nobel-prize-winners-economics-2019",
+    "https://www.sciencenews.org/article/economics-nobel-prize-poverty-science",
+    "https://www.college-de-france.fr/fr/chaire/esther-duflo-pauvrete-et-politiques-publiques-chaire-statutaire/biography",
+    "https://www.womenshistory.org/education-resources/biographies/esther-duflo",
+    "https://www.guinnessworldrecords.com/world-records/617100-youngest-recipient-of-the-nobel-prize-in-economic-sciences"
+  ],
+  "lifeStatusEvidence": "https://economics.mit.edu/sites/default/files/2026-08/ESTHER%20DUFLO%20CV_current.pdf",
+  "identityEvidence": {
+    "wikidataId": "Q434509",
+    "officialBiography": "https://economics.mit.edu/people/faculty/esther-duflo",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esther_Duflo_-_Pop!Tech_2009_-_001_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "localFile": "public/assets/portraits/esther-duflo.jpg",
+    "sha256": "012ad8a8919e1295f93f2ffd0a24006056f4a65f0cdc4f6e2866456bbe5423d8"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Read cached evidence and draft; replaced award-heavy draft with education, institutional work and books.",
+    "July 2026 UZH welcome and August CV confirm appointment actually commenced. MIT affiliation retained rather than presented as wholly terminated."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "0a515b0c7619a5be7562adfd17135678735b75c362014635427ef06fb74ded1a",
+    "englishReferenceTextHash": "b223037feb1ba80042806fb5e41419f86f0e38fa18e99239ebc566342b7d9127",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 37,
+        "sha256": "1346275e12ddc88ad874d9d2eea108f30c5fe4ecbd6cf70bc416055c40ea62c0",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 37,
+        "sha256": "5dc6edb42936f15528e436b72afa60b106fbb6d782d4b8c92cc411cd19f82b5e",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 37,
+        "sha256": "df2ca9c2d0b7c5236e79bfc82ca6306e1ea6ed96a3b4d33790101c03398a8d0f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 37,
+        "sha256": "6f0f5ee6cc3793e1256fee00a0edd9f8984bcee3b4dbb691eb415e51926d3232",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 37,
+        "sha256": "3f38007b8f6753f1a344e42df30bb3e1414a696b891eba0b1fd6de5eae9bfb35",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 37,
+        "sha256": "2ae33392e4e59dbd0d2f0fe7f3ca86b60e148e5470596451180bc90fde19f4cf",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

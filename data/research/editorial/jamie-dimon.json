@@ -1,0 +1,132 @@
+{
+  "id": "jamie-dimon",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2023-05-01",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+    "https://localnews8.com/news/national-world/cnn-national/2024/02/27/jamie-dimon-fast-facts-3/",
+    "https://www.fca.org.uk/news/press-releases/jpmorgan-chase-bank-na-fined-%C2%A3137610000-serious-failings-relating-its-chief",
+    "https://www.jpmorganchase.com/ir/news/2023/jpmc-acquires-substantial-majority-of-assets-and-assumes-certain-liabilities-of-first-republic-bank",
+    "https://content.govdelivery.com/accounts/USFDIC/bulletins/3580652",
+    "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/2008-AR-Complete-AR.pdf",
+    "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/corpq32026exhibit32.htm"
+  ],
+  "lifeStatusEvidence": "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/corpq32026exhibit32.htm",
+  "identityEvidence": {
+    "wikidataId": "Q922169",
+    "officialBiography": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jamie_Dimon,_CEO_of_JPMorgan_Chase.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "localFile": "public/assets/portraits/jamie-dimon.jpg",
+    "sha256": "f857198b06f9050917a5379176453defd912f59c5292bcb97abbd400831ad897"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Cached evidence/draft inspected; corrected CEO and chairman start years using company biography and CNN.",
+    "November 3, 2026 SEC certification explicitly signed by James Dimon as chairman and CEO; no inference from an old biography alone.",
+    "Risk-control failures retained as substantive chronology; bank settlements do not establish personal criminal conviction.",
+    "Influence rationale translated clause by clause against unchanged Chinese selection rationale."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "e6ea8538b2b97e565664de8822c69a24c6b44923c4f91be365f4d815a457ef51",
+    "englishReferenceTextHash": "d449235069f6286a2f49cab2b2250292a0a838a4d1944eade95cc73fafd393b5",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 41,
+        "sha256": "60c7b864e29b4695b0abd92d63881d7d7aed2b626a8ea6aeb02fa4a0035e4830",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 41,
+        "sha256": "b80290b2d10670b0c77bd82119fdd7fe7853c0c10701d663c385869f19c04d50",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 41,
+        "sha256": "246101ff4c3c038a06d252972b2276a3436d1f59055bf4a45ea02be6056e196a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 41,
+        "sha256": "ea9b16fa864a432999541c732eb21d8aa07786d85fe9cae85580fe48e4b277e9",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 41,
+        "sha256": "89c8882f612976b1049cb348ca859870fac3dd77275fa372b704871287e8be31",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 41,
+        "sha256": "8eb7b87f51fceb2fd594feb70e69bf53146fd712bb84412b78bcc25478b50076",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

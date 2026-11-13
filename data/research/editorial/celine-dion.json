@@ -1,0 +1,116 @@
+{
+  "id": "celine-dion",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2026-09",
+  "sourceUrls": [
+    "https://www.celinedion.com/about/biography/",
+    "https://www.grammy.com/artists/celine-dion/1762/",
+    "https://www.biography.com/musicians/celine-dion",
+    "https://www.youtube.com/watch?v=VXLWfXmlXPc",
+    "https://www.celinedion.com/discography/falling-into-you/",
+    "https://www.pbs.org/newshour/arts/celine-dion-suspends-performances-due-rare-disorder-stiff-person-syndrome",
+    "https://www.olympics.com/ioc/news/inspirational-video-released-to-accompany-celine-dion-s-iconic-paris-2024-performance",
+    "https://www.celinedion.com/news/celine-dion-releases-new-song-dansons/",
+    "https://www.celinedion.com/news/celine-dion-lights-up-paris-on-the-opening-night-of-her-celine-dion-paris-2026-shows/",
+    "https://www.reuters.com/world/europe/paris-cheers-power-celine-dion-2026-09-13/"
+  ],
+  "lifeStatusEvidence": "https://www.celinedion.com/news/celine-dion-lights-up-paris-on-the-opening-night-of-her-celine-dion-paris-2026-shows/",
+  "identityEvidence": {
+    "researchEvidence": "data/research/evidence/celine-dion.json",
+    "wikidataId": "Q5105",
+    "officialBiography": "https://www.celinedion.com/about/biography/"
+  },
+  "portraitReview": {
+    "identityBasis": "The Commons description/source record names the subject; author and file-specific license checked on the opened Commons page. No facial recognition inference used.",
+    "visualReview": "Opened the local cached photograph in the labeled contact sheet at .qa/batch100-culture/portraits.jpg. The principal subject is visible and the photograph is in color; original color is preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A9line_Dion_2012.jpg",
+    "sha256": "686e25c9a2f1b84ff2cfe858f7e2241d99add47c8e4349e2a5037147ff405cc5"
+  },
+  "editorialNotes": [
+    "Chinese prose and the full English translation were authored and checked by AI against the shared dates, citations, life status and unchanged provisional four-star rating; no human or native-speaker review is claimed.",
+    "Cached research was inspected as leads, with substantive milestones cross-checked against cited primary and independent sources. The chronology is selective, not a complete work or news archive.",
+    "The Oscar for the composition My Heart Will Go On belongs to its songwriters; this profile credits Dion’s recording and Grammy recognition rather than claiming a personal Oscar."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "e3a6aef22d4079fa435df1c3cc999b334c58ef17e2725e9fd1b9a2f3f3835c09",
+    "englishReferenceTextHash": "a17a8755ef0371348fefdbf580c1c722ee01d90a651cb35c2923a96a3a6a0d07",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 43,
+        "sha256": "8e81b1c2acc968994077e340b45008ce5417a93cb16b271acc24e1669be8834f",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 43,
+        "sha256": "0b0cf420787b3e9d7486624d3518300858edca7bfcfe43fe64e8c913b4c47584",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 43,
+        "sha256": "fb516be7935a766b2dc6632642ee61e49e8a8e0d4adc6bfa66db5b79e1f21c27",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 43,
+        "sha256": "10ba2c0c7978211ac4696963d0500189ae6b27496ed59e3513f216a2102baeef",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 43,
+        "sha256": "b335c206a0189f6d95370f454f0d24fb152bf0f11f4f49c171f986eb4f0b3821",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 43,
+        "sha256": "34936a1500c6524a356d2f044cd3dc1f2f89523be453c78fc1bedfbf133c0770",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

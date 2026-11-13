@@ -25,6 +25,13 @@ export function validateTranslation(person,translation,locale) {
   for(const key of expected)if(typeof translation.strings?.[key]!=='string'||!translation.strings[key].trim())throw new Error(`${locale}/${person.id}: missing translated string ${key}`);
   for(const key of Object.keys(translation.strings))if(!expected.includes(key))throw new Error(`${locale}/${person.id}: obsolete translation key ${key}`);
 }
+export function validateIntermediary(translation,english,locale,id) {
+  const provenance=translation.translationProvenance;
+  if(!provenance)return;
+  if(!['ai-reviewed','human-reviewed'].includes(provenance.kind)||provenance.sourceLocale!=='en')throw new Error(`${locale}/${id}: unreviewed machine draft or unsupported translation provenance`);
+  if(!['ai','human'].includes(provenance.reviewer?.kind)||provenance.kind!==`${provenance.reviewer.kind}-reviewed`||!provenance.reviewer?.name||!Array.isArray(provenance.reviewedKeys)||JSON.stringify([...provenance.reviewedKeys].sort())!==JSON.stringify(Object.keys(translation.strings).sort()))throw new Error(`${locale}/${id}: incomplete translation review declaration`);
+  if(!english?.strings||english.sourceHash!==translation.sourceHash||provenance.sourceTextSha256!==sourceHash(english.strings))throw new Error(`${locale}/${id}: stale English intermediary; review affected target text`);
+}
 export function localizePerson(person,translation) {
   if(!translation)return {...person,timeline:[...person.timeline],tagIds:[...person.tags]};
   const strings=translation.strings;

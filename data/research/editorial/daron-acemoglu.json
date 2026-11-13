@@ -1,0 +1,129 @@
+{
+  "id": "daron-acemoglu",
+  "reviewedAt": "2026-11-13",
+  "coverageEnd": "2025-11-03",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourceUrls": [
+    "https://economics.mit.edu/people/faculty/daron-acemoglu",
+    "https://economics.mit.edu/sites/default/files/2026-10/CV%20September%202026.pdf",
+    "https://www.investing.com/news/world-news/acemoglu-johnson-and-robinson-win-2024-nobel-economics-prize-3661110",
+    "https://shapingwork.mit.edu/news/stone-center-on-inequality-and-shaping-the-future-of-work-launches-at-mit/",
+    "https://en.wikipedia.org/wiki/Daron_Acemoglu"
+  ],
+  "lifeStatusEvidence": "https://economics.mit.edu/sites/default/files/2026-10/CV%20September%202026.pdf",
+  "identityEvidence": {
+    "wikidataId": "Q718581",
+    "officialBiography": "https://economics.mit.edu/people/faculty/daron-acemoglu",
+    "identityReview": "Reviewed named official/academic biography against cached identity; cached Wikidata claims treated as research leads."
+  },
+  "portraitReview": {
+    "identityBasis": "Opened Commons source page and checked named subject caption, author and license. Identity supported by source caption/context; no facial-recognition claim.",
+    "visualReview": "Actually opened local .qa/batch100-business/portraits.jpg contact sheet using view_image; inspected this named image: a color photograph, face visible, no placeholder. Original colors preserved.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acemoglu_2016.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "localFile": "public/assets/portraits/daron-acemoglu.png",
+    "sha256": "1efce9f6718ebabd020804094608dbc741c8771f5933b83980107ef6b35482d6"
+  },
+  "translationReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "locales": [
+      "en"
+    ],
+    "checks": [
+      "All sourceStrings keys translated and validated with scripts/i18n-core.mjs",
+      "sourceHash computed from final canonical JSON",
+      "English dates, titles, attribution and scope compared with Chinese source"
+    ],
+    "limitations": "AI translation/editorial review; no human or native-language review claimed. Other six language translations handled separately by parent."
+  },
+  "editorialNotes": [
+    "Cached evidence/draft inspected; degrees, title and dates corroborated against current MIT-hosted CV.",
+    "Used completed November 2025 Stone Center launch, not the earlier proposal alone.",
+    "Nobel recognition concerns institutions and prosperity; did not copy the inaccurate promotional claim that the prize was for AI."
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "37547b54022a65aece5eb2abc0c0b3c106cac8ca7610c887db6ad49e9b4b6f7f",
+    "englishReferenceTextHash": "3c271bfffd1f74592d454b1a3c0d2599a2d51b9444f846de35688faaa75f3dea",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 39,
+        "sha256": "32dc3b9bc1765931dc7f82cea60335b8c610a783625325a3ceddb5f1dca51078",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 39,
+        "sha256": "67267b6b54d270f1a51b61450f22074f0841d58cb4e2f9cf79f5d785b708c173",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 39,
+        "sha256": "605d4ea1afb4bda070a270abdcfd45960c0db4a89c4868e0cab1da19a96c95dd",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 39,
+        "sha256": "1349734f02dd051e180c78cee89b05b05ac9f80f2f056cdf1f961e87d3cb832d",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 39,
+        "sha256": "f44e4d42033b3e8a66958889400d2519869774e8ffe1be3d475b3d2b3c379b9d",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 39,
+        "sha256": "e391955f17b3d5b89a5cbbc002658981687ca68e01f30edbe120b79b41e616c7",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

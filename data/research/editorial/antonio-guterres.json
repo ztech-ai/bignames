@@ -1,0 +1,121 @@
+{
+  "id": "antonio-guterres",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2026-11-11",
+  "sourceUrls": [
+    "https://india.un.org/en/162478-un-secretary-general%E2%80%99s-biography-new-york",
+    "https://unric.org/de/biographie/",
+    "https://dppa.un.org/en/name-surname",
+    "https://www.unhcr.org/about-unhcr/overview/high-commissioner/previous-high-commissioners/antonio-guterres",
+    "https://www.un.org/pga/80/sg-selection/",
+    "https://apnews.com/article/47732bba62e2b1e9093bb76159ce236a",
+    "https://www.un.org/unispal/document/un-chief-hits-back-at-false-claim-he-justified-hamas-terror-attacks-news-item/",
+    "https://unfccc.int/fr/node/663987"
+  ],
+  "lifeStatusEvidence": "https://unfccc.int/fr/node/663987",
+  "identityEvidence": {
+    "wikidataId": "Q311440",
+    "officialOrInstitutionalBiography": "https://india.un.org/en/162478-un-secretary-general%E2%80%99s-biography-new-york"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg",
+    "sha256": "9a93eb5e83ab68ffe541bfeabfcd5b86dd5c18501548b2f9e4b7251dc45e863d"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification.",
+    "The second secretary-general term has not ended at the cutoff; no successor or future transition is presented as completed."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "b53364811f936bc30c1ee2f026a3cd2f5e1120d1992b694b57300ce316b9005f",
+    "englishReferenceTextHash": "de3f9bc591f49e41fe4144e1b3736a9e81b28b98ad960f7f63b46f54f4b07ce2",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 36,
+        "sha256": "b8934d40bb9642f37f187c273d03daed88e8658248c934716c2561da9c62a7a1",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 36,
+        "sha256": "3f4d37196d4b4d60057b50baca4887271aa0a857781cea9a179f738979c51d98",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 36,
+        "sha256": "04a0d2e8333fcf61317e8eec3c97383716f88ee60827bd460879169341924b76",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 36,
+        "sha256": "78c7920ea063673f6592326cd51fb3a2d66611be3bb4c8bedf176c0bdb8107af",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 36,
+        "sha256": "58f948698a4f8a8e7dc77720ea8984600f73ea2e156a6a2143ff989b69964d9e",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 36,
+        "sha256": "93a05efb5dbbda8ca6c00758527bec17dae03d9f00fbe2c3df21a4fab2cdb862",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}

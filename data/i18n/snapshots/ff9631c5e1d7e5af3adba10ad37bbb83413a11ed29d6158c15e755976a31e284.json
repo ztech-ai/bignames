@@ -1,0 +1,213 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "ff9631c5e1d7e5af3adba10ad37bbb83413a11ed29d6158c15e755976a31e284",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "john-jumper",
+    "name": "约翰·江珀",
+    "enName": "John Jumper",
+    "aliases": [
+      "John Jumper",
+      "约翰·江珀"
+    ],
+    "birth": "1985",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "science"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america",
+      "europe"
+    ],
+    "tags": [
+      "AlphaFold",
+      "蛋白质结构"
+    ],
+    "role": "计算化学家 · 蛋白质结构预测研究者",
+    "summary": "约翰·江珀结合物理、化学与机器学习，参与领导AlphaFold2的开发，使从氨基酸序列预测蛋白质结构的准确性大幅提高。其团队成果依赖实验结构数据库、算法与工程的长期积累，并推动开放结构资源。2024年他与德米斯·哈萨比斯分享半数诺贝尔化学奖；预测模型为研究提供线索，仍需按具体问题进行实验检验。",
+    "highlights": [
+      {
+        "id": "highlight-1",
+        "title": "AlphaFold2",
+        "text": "与团队把生物学知识和深度学习结合，在CASP14结构预测评估中取得突破。",
+        "sourceIds": [
+          "paper",
+          "nobel"
+        ]
+      },
+      {
+        "id": "highlight-2",
+        "title": "结构研究资源",
+        "text": "参与把预测方法与模型资源提供给研究者，加快提出和检验生物学问题。",
+        "sourceIds": [
+          "paper",
+          "lindau"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "fact-1",
+        "label": "出生地",
+        "value": "美国阿肯色州小石城；公开权威资料仅确认出生年"
+      },
+      {
+        "id": "fact-2",
+        "label": "教育",
+        "value": "范德堡学士（2007）；剑桥MPhil（2008）；芝加哥大学化学博士（2017）"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "event-1",
+        "date": "2026-06-19",
+        "title": "宣布离开DeepMind的计划",
+        "text": "公开表示将离开Google DeepMind，休整后加入Anthropic；未据此推定到任日期。",
+        "sourceIds": [
+          "move"
+        ]
+      },
+      {
+        "id": "event-2",
+        "date": "2024-10",
+        "title": "共同获诺贝尔化学奖",
+        "text": "与哈萨比斯因蛋白质结构预测分享半数奖项，另一半授予贝克。",
+        "sourceIds": [
+          "nobel"
+        ]
+      },
+      {
+        "id": "event-3",
+        "date": "2024-05",
+        "title": "参与发表AlphaFold3",
+        "text": "与团队发表预测蛋白质、核酸及其他分子相互作用结构的方法。",
+        "sourceIds": [
+          "af3"
+        ]
+      },
+      {
+        "id": "event-4",
+        "date": "2021-07",
+        "title": "发表AlphaFold2方法",
+        "text": "作为共同第一作者等参与发表模型架构与评估，并公开相关代码。",
+        "sourceIds": [
+          "paper"
+        ]
+      },
+      {
+        "id": "event-5",
+        "date": "2020",
+        "title": "AlphaFold2参加CASP14",
+        "text": "团队在盲测评估中显著提高蛋白质三维结构预测准确度。",
+        "sourceIds": [
+          "paper"
+        ]
+      },
+      {
+        "id": "event-6",
+        "date": "2017",
+        "title": "完成博士并进入DeepMind",
+        "text": "取得芝加哥大学化学博士，随后进入DeepMind研究蛋白质结构预测。",
+        "sourceIds": [
+          "chicago",
+          "lindau"
+        ]
+      },
+      {
+        "id": "event-7",
+        "date": "2008",
+        "title": "完成剑桥MPhil",
+        "text": "在卡文迪许实验室研究理论凝聚态物理，随后进入蛋白质模拟工作。",
+        "sourceIds": [
+          "cambridge",
+          "lindau"
+        ]
+      },
+      {
+        "id": "event-8",
+        "date": "2007",
+        "title": "完成范德堡学士",
+        "text": "完成数学与物理本科教育，随后赴剑桥深造。",
+        "sourceIds": [
+          "chicago",
+          "lindau"
+        ]
+      },
+      {
+        "id": "event-9",
+        "date": "1985",
+        "title": "出生于小石城",
+        "text": "出生于美国阿肯色州小石城；诺贝尔官方资料记载为1985年。",
+        "sourceIds": [
+          "facts",
+          "lindau"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "facts",
+        "title": "John Jumper — Facts",
+        "publisher": "Nobel Prize Outreach",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2024/jumper/facts/"
+      },
+      {
+        "id": "nobel",
+        "title": "The Nobel Prize in Chemistry2024 — Press release",
+        "publisher": "Royal Swedish Academy of Sciences / Nobel Prize Outreach",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+      },
+      {
+        "id": "paper",
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "publisher": "John Jumper and colleagues / Nature",
+        "url": "https://www.nature.com/articles/s41586-021-03819-2"
+      },
+      {
+        "id": "af3",
+        "title": "Accurate structure prediction of biomolecular interactions with AlphaFold3",
+        "publisher": "Josh Abramson and colleagues / Nature",
+        "url": "https://www.nature.com/articles/s41586-024-07487-w"
+      },
+      {
+        "id": "chicago",
+        "title": "John Jumper",
+        "publisher": "University of Chicago Data Science Institute",
+        "url": "https://datascience.uchicago.edu/people/john-jumper/"
+      },
+      {
+        "id": "cambridge",
+        "title": "University of Cambridge alumni awarded2024Nobel Prize in Chemistry",
+        "publisher": "University of Cambridge",
+        "url": "https://www.cam.ac.uk/research/news/university-of-cambridge-alumni-awarded-2024-nobel-prize-in-chemistry"
+      },
+      {
+        "id": "lindau",
+        "title": "John Jumper — CV",
+        "publisher": "Lindau Nobel Laureate Meetings",
+        "url": "https://mediatheque.lindau-nobel.org/laureates/jumper/cv"
+      },
+      {
+        "id": "move",
+        "title": "US scientist John Jumper to leave Google DeepMind for Anthropic",
+        "publisher": "Reuters",
+        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/"
+      }
+    ],
+    "verifiedAt": "2026-11-13",
+    "coverageNote": "资料检索截至2026年11月13日，选录年表覆盖至2026年；非逐日新闻档案。共同成果按合作者与团队归属表述。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与AlphaFold蛋白质结构预测研究，推动人工智能帮助理解生命分子结构。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

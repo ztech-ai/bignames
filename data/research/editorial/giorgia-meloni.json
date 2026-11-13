@@ -1,0 +1,122 @@
+{
+  "id": "giorgia-meloni",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-editorial-review-complete",
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "2026-10-22",
+  "sourceUrls": [
+    "https://www.giorgiameloni.it/biografia/",
+    "https://governo.it/il-presidente/",
+    "https://www.treccani.it/enciclopedia/giorgia-meloni/",
+    "https://pagellapolitica.it/articoli/curriculum-meloni-liceo-linguistico",
+    "https://www.investing.com/news/world-news/giorgia-meloni-the-long-climb-to-italys-political-summit-2918615",
+    "https://www.marketscreener.com/news/latest/Italy-court-again-blocks-migrant-detentions-in-Albania-in-blow-to-Meloni-48929463/",
+    "https://www.programmagoverno.pcm.gov.it/media/k2pna2bv/4anni_governomeloni.pdf",
+    "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-meloni-of-italy-12-november-2026"
+  ],
+  "lifeStatusEvidence": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-meloni-of-italy-12-november-2026",
+  "identityEvidence": {
+    "wikidataId": "Q451791",
+    "officialOrInstitutionalBiography": "https://governo.it/il-presidente/"
+  },
+  "portraitReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "identityBasis": "The opened Commons source caption explicitly names the subject; author and license were checked against that page and cached metadata. Identity rests on source context, not facial recognition.",
+    "visualReview": "Viewed the actual local image in a labeled contact sheet (and any replacement separately); confirmed a usable color photograph. Original image bytes retained without recoloring.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+    "sha256": "32ef0fbdfa27e18a5fa50f97c42667e641839802d58dfd0d35bfe69235ac412b"
+  },
+  "editorialNotes": [
+    "Chinese original prose and full English translation received AI editorial review; remaining locale review is handled separately.",
+    "Selected substantive milestones include early life, public achievements and material controversies; this is not an exhaustive news archive.",
+    "The four-star influence object is copied exactly from contemporary-1000; influence is not a moral endorsement.",
+    "AI editorial review is not human or native-language certification.",
+    "The education fact follows the documented vocational institute and does not repeat an unsupported claim to a university degree.",
+    "The Albania event is a dated judicial setback, not a claim that subsequent litigation has concluded."
+  ],
+  "sourceReviewMethod": "Live web searches and selected opened official/institutional and independent sources, cross-checked with cached research. Some official pages were accessible only in search excerpts; no unreviewed Wikidata draft was automatically promoted.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-13",
+    "canonicalSourceHash": "12ed8634785bb37ee36a685da28b46d6d0dbb22965a0f91bc70b4b1683c45e22",
+    "englishReferenceTextHash": "d52d78cdf7d696f91de17f9ca1ee6fffed1e97f0c16fb8a31d67c59ed3493697",
+    "method": "Each full target reviewed field by field by AI against the Chinese/English dossier; the program only validates keys, versions and recorded declarations.",
+    "records": [
+      {
+        "locale": "fr",
+        "fields": 36,
+        "sha256": "3d48ec3eff87d20d0e9904746f1cf9cc882dcac06cf1195aa79fb291c3e0134b",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ar",
+        "fields": 36,
+        "sha256": "abb9bec7be3871eeb03539cfb2a3bc65d6009c0e030b31a70317f3de585912dc",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "de",
+        "fields": 36,
+        "sha256": "4b9ee9091fb3435bea7a49ba91e4d7dd1df611a0c58aade4c5c3dc82db775266",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ja",
+        "fields": 36,
+        "sha256": "097a110ef308737f264903029c725bd18702e011684c27d476a8841b778cb5d9",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "es",
+        "fields": 36,
+        "sha256": "84457a5539362ee12c648a64d134b860b035a638855a4b68e3b265b73d4bedea",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      },
+      {
+        "locale": "ko",
+        "fields": 36,
+        "sha256": "d915543792c640ecdc5fbf427210aef119b0e25ad3e0c8e33fe0ab493573bf1a",
+        "reviewer": {
+          "kind": "ai",
+          "name": "OpenAI Codex"
+        },
+        "reviewedAt": "2026-11-13"
+      }
+    ],
+    "limitations": "AI review, not human or native-speaker certification. Hashes establish correspondence to reviewed files, not independent truth."
+  }
+}
