@@ -1,0 +1,23 @@
+{
+  "name": "big-names-on-this-planet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "这个星球上的名人 — 可独立托管的静态人物档案馆",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "i18n:prepare": "node scripts/i18n.mjs prepare",
+    "i18n:export": "node scripts/i18n.mjs export",
+    "i18n:import": "node scripts/i18n.mjs import",
+    "i18n:check": "node scripts/i18n.mjs check",
+    "i18n:enable": "node scripts/i18n.mjs enable"
+  },
+  "engines": {
+    "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.1"
+  }
+}

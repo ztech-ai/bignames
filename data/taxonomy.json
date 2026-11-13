@@ -1,0 +1,32 @@
+{
+  "domains": [
+    {"id":"technology","label":"科技与创新","short":"科技","description":"计算机、互联网、工程与技术创造"},
+    {"id":"politics","label":"政治与公共事务","short":"政治","description":"政治领导、公共治理与社会运动"},
+    {"id":"science","label":"科学与医学","short":"科学","description":"基础科学、生命科学与医学发现"},
+    {"id":"business","label":"商业与经济","short":"商业","description":"企业、投资、管理与经济思想"},
+    {"id":"literature","label":"文学与思想","short":"文学","description":"文学、哲学与人文思想"},
+    {"id":"arts","label":"艺术与设计","short":"艺术","description":"绘画、雕塑、建筑与设计"},
+    {"id":"culture","label":"影视与音乐","short":"文娱","description":"电影、表演与音乐创作"},
+    {"id":"sports","label":"体育与探索","short":"体育","description":"竞技体育、航天与地理探索"}
+  ],
+  "eras": [
+    {"id":"ancient","label":"古代 · 1500年前","description":"主要活动时期在1500年前"},
+    {"id":"early-modern","label":"近世 · 1500—1799","description":"主要活动时期在1500至1799年"},
+    {"id":"modern","label":"近代 · 1800—1945","description":"主要活动时期在1800至1945年"},
+    {"id":"contemporary","label":"当代 · 1946年至今","description":"主要活动时期在1946年以后"}
+  ],
+  "regions": [
+    {"id":"asia","label":"亚洲"},
+    {"id":"europe","label":"欧洲"},
+    {"id":"north-america","label":"北美洲"},
+    {"id":"south-america","label":"南美洲"},
+    {"id":"africa","label":"非洲"},
+    {"id":"oceania","label":"大洋洲"}
+  ],
+  "batches": [
+    {"id":1,"title":"首辑 · 从熟悉的名字开始","description":"以24位人物验证档案格式、跨领域标签、照片授权与引用规范。"},
+    {"id":2,"title":"第二辑 · 追溯思想与发现","description":"扩充科学、思想与技术史，补全早期时代的人物。"},
+    {"id":3,"title":"第三辑 · 看见更多世界","description":"增加地区和创作领域的多样性，建立更广阔的全球视野。"},
+    {"id":4,"title":"第四辑 · 持续补全人物谱系","description":"继续补全学科与时代，审阅候选、资料和图片权利后逐人收录。"}
+  ]
+}
