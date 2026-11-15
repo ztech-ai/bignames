@@ -26,7 +26,7 @@
     "女子体育"
   ],
   "role": "网球运动员 · 23项大满贯单打冠军得主",
-  "summary": "塞雷娜·威廉姆斯以强有力的发球、底线进攻和长期竞争力影响女子网球。她从康普顿的公共球场走向世界赛场，赢得23项大满贯单打冠军，并与姐姐维纳斯取得重要双打成就。她的职业历程包括伤病后复出、产后重返大满贯决赛，以及在2022年暂别赛场后于2026年回归职业双打。",
+  "summary": "塞雷娜·威廉姆斯以强有力的发球、底线进攻和长期竞争力影响女子网球。她从康普顿的公共球场走向世界赛场，赢得23项大满贯单打冠军，并与姐姐维纳斯取得重要双打成就。她经历伤病后复出、产后重返大满贯决赛，在2022年暂别赛场后于2026年重返双打及单打比赛。",
   "highlights": [
     {
       "title": "23项单打大满贯",
@@ -69,17 +69,40 @@
       "title": "与姐姐重返美网双打",
       "text": "与维纳斯再度搭档参加美国公开赛女子双打，在首轮三盘告负。",
       "sourceIds": [
-        "s5"
+        "s5",
+        "usopen-independent"
       ],
       "id": "event-01"
     },
     {
-      "date": "2026-06",
+      "id": "event-13",
+      "date": "2026-08-25",
+      "title": "与阿尔卡拉斯出战美网混双",
+      "text": "与卡洛斯·阿尔卡拉斯搭档赢得首轮后，在四分之一决赛负于贝琳达·本西奇与弗拉维奥·科博利。",
+      "sourceIds": [
+        "mixed",
+        "mixed-ap"
+      ]
+    },
+    {
+      "id": "event-12",
+      "date": "2026-06-30",
+      "title": "在温网重返单打赛场",
+      "text": "持外卡参加温网，在首轮三盘负于玛雅·乔因特；这是自2022年美网以来的首次单打比赛。",
+      "sourceIds": [
+        "wimbledon",
+        "wimbledon-independent",
+        "comeback-summary"
+      ]
+    },
+    {
+      "date": "2026-06-09",
       "title": "重返职业双打赛场",
-      "text": "在伦敦女王俱乐部与维多利亚·姆博科搭档，并赢得首轮比赛。",
+      "text": "在伦敦女王俱乐部与维多利亚·姆博科搭档赢得首轮；随后因姆博科受伤退赛，未赢得该赛事冠军。",
       "sourceIds": [
         "s3",
-        "s4"
+        "s4",
+        "comeback-summary"
       ],
       "id": "event-02"
     },
@@ -199,8 +222,44 @@
       "title": "Williams sisters’ 2026 US Open doubles return",
       "publisher": "美国网球公开赛 / USTA",
       "url": "https://www.usopen.org/amp/en_US/news/articles/2026-09-04/venus_and_serena_williams_lose_thriller_in_2026_us_open_doubles_return.html"
+    },
+    {
+      "id": "comeback-summary",
+      "title": "Serena Williams’ comeback so far: What to know before the 2026 US Open",
+      "publisher": "美国网球公开赛 / USTA",
+      "url": "https://www.usopen.org/amp/en_US/news/articles/2026-08-22/serena_williams_comeback_so_far_what_to_know_before_the_2026_us_open.html"
+    },
+    {
+      "id": "wimbledon",
+      "title": "Joint fulfills lifelong dream in besting Serena Williams at Wimbledon",
+      "publisher": "WTA",
+      "url": "https://www.wtatennis.com/news/4528691/maya-joint-fulfills-lifelong-dream-in-besting-serena-williams-at-wimbledon"
+    },
+    {
+      "id": "wimbledon-independent",
+      "title": "Serena Williams beaten by Maya Joint at Wimbledon",
+      "publisher": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-07-01/serena-williams-maya-joint-wimbledon-first-round/106863760"
+    },
+    {
+      "id": "mixed",
+      "title": "Bencic/Cobolli defeat superstars Williams/Alcaraz in 2026 US Open mixed doubles",
+      "publisher": "美国网球公开赛 / USTA",
+      "url": "https://www.usopen.org/amp/en_US/news/articles/2026-08-25/bencic-cobolli_defeat_superstars_williams-alcaraz_in_2026_us_open_mixed_doubles.html"
+    },
+    {
+      "id": "mixed-ap",
+      "title": "Serena Williams and Carlos Alcaraz knocked out of mixed doubles at the U.S. Open",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/70c4a8b10b89b2c02808ef1d042d80ec"
+    },
+    {
+      "id": "usopen-independent",
+      "title": "Williams sisters’ US Open return ends in heartbreak with third-set tie-break defeat",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat"
     }
   ],
-  "coverageNote": "选录职业里程碑至2026年9月；2022年离场与2026年双打回归均按赛事机构报道记录，不提供实时排名。",
+  "coverageNote": "选录职业里程碑至2026年9月4日；2026年回归及赛果经赛事机构与独立报道交叉核对，冠军数与排名分开，不提供实时排名或完整赛程。",
   "verifiedAt": "2026-11-13"
 }

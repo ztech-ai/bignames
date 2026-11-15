@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "Charlie Chaplin",
     "role": "Actor and director · A major creator of silent comedy",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "Tours the United States",
     "timeline.event-10.text": "Travelled with Fred Karno’s company, bringing his experience of stage comedy to America.",
     "timeline.event-11.title": "Born in London",
-    "timeline.event-11.text": "Both parents were stage performers. He grew up in poverty and later entered the theatre through children’s troupes."
+    "timeline.event-11.text": "Both parents were stage performers. He grew up in poverty and later entered the theatre through children’s troupes.",
+    "timeline.event-12.title": "Receives a British knighthood",
+    "timeline.event-12.text": "Queen Elizabeth II awards him a knighthood.",
+    "timeline.event-13.title": "Releases The Gold Rush",
+    "timeline.event-13.text": "The Gold Rush, a silent film he directed and starred in, is released and becomes a landmark of his feature-length comedy."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

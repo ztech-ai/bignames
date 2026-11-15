@@ -1,11 +1,11 @@
 {
-  "sourceHash": "71587d3440fedb34c4d78ae2eb31491193e13766c8eabdd119cf2f9f4024beb9",
+  "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
   "strings": {
     "name": "Donald Trump",
     "role": "45th and 47th US president · Businessman",
     "country": "United States",
     "summary": "Trump moved from his family’s New York property business into branding and television before winning the presidency as the Republican candidate. He began two non-consecutive presidential terms in 2017 and 2025. His political influence has coexisted with deeply divided public opinion. Two impeachments by the House of Representatives, disputes over the 2020 election and criminal proceedings are important parts of his biography.",
-    "coverageNote": "Selected milestones through January 2025. Legal entries describe decisions at the time and are not live updates on subsequent appeals or case status.",
+    "coverageNote": "Selected milestones through February 2026; life and presidential status checked on November 13, 2026. Tariff and legal entries record the stated decisions, without covering every subsequent policy, appeal or case.",
     "tags.美国政治": "US politics",
     "tags.总统": "Presidents",
     "tags.房地产": "Real estate",
@@ -41,6 +41,29 @@
     "timeline.event-09.title": "Completes university education",
     "timeline.event-09.text": "Earned a bachelor’s degree in economics from the University of Pennsylvania and then joined his father’s property business full-time.",
     "timeline.event-10.title": "Born in New York City",
-    "timeline.event-10.text": "Born and raised in a property developer’s family in Queens; attended the New York Military Academy in his youth."
+    "timeline.event-10.text": "Born and raised in a property developer’s family in Queens; attended the New York Military Academy in his youth.",
+    "timeline.event-12.title": "Supreme Court rejects emergency tariff authority",
+    "timeline.event-12.text": "The Supreme Court ruled 6–3 that the International Emergency Economic Powers Act did not authorize presidential tariffs, rejecting the legal basis for those levies without eliminating all statutory tariff powers.",
+    "timeline.event-11.title": "Announces sweeping “reciprocal tariffs”",
+    "timeline.event-11.text": "Invoked the International Emergency Economic Powers Act to announce additional tariffs on imports from many countries, a major focus of second-term trade policy and litigation.",
+    "timeline.event-14.title": "Signs major tax and spending legislation",
+    "timeline.event-14.text": "Signed the tax and spending legislation known as the “One Big Beautiful Bill,” extending tax cuts and reducing spending on programs including Medicaid, amid disputes over public finances and social protection.",
+    "timeline.event-13.title": "Injured in an assassination attempt at a rally",
+    "timeline.event-13.text": "Was shot and injured in the ear at a campaign rally in Butler, Pennsylvania. One spectator was killed, and the FBI investigated the attack as an assassination attempt."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
+    "fields": [
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

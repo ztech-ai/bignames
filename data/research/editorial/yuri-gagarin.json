@@ -1,0 +1,41 @@
+{
+  "id": "yuri-gagarin",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "1968-03-27",
+  "sourceUrls": [
+    "https://www.esa.int/articles/about-us/who-we-are/history/yuri-gagarin",
+    "https://www.nasa.gov/history/remembering-yuri-gagarin-50-years-later/",
+    "https://www.dvidshub.net/image/751822/gagarin-his-way-vostok-launch",
+    "https://www.nasa.gov/wp-content/uploads/static/history/SP-4408pt2.pdf",
+    "https://www.nasa.gov/image-article/april-1961-first-human-entered-space/"
+  ],
+  "lifeStatusEvidence": "https://www.nasa.gov/history/remembering-yuri-gagarin-50-years-later/",
+  "editorialNotes": [
+    "修订event-02为1968-02-17通过工程论文答辩；NASA SP-2000-4408第627页把1月其他航天员学位和2月Gagarin/Titov答辩分开。保留原精确日期，改用学位过程的准确描述，不从图片说明泛化技术科学学位。",
+    "补event-05约108分钟与再入后弹射/降落伞着陆，依据NASA，避免读者误以为本人留在返回舱内着陆；未将约数换成伪造精确时刻。",
+    "新增1962最高苏维埃代表event-10，依据ESA，并保留训练中心、联盟一号后备、工程学习与死亡旧节点。",
+    "ESA/NASA与NASA历史书核对死亡；坠机成因存在历史调查分歧，本次不追加单一事故原因，不把后来的纪念活动当新人生事件。",
+    "历史履历更新截至站点截点2026-11-13；已故者没有2026本人新活动，不以检索访问日期延长人生年表。",
+    "七语未变文字复用，新增/修订文字经AI逐字段语义审阅并用delta export/import保存；sharedFacts中的日期、来源、排序和稳定ID映射也实际审阅。未新增评级或英文参考provenance。",
+    "本记录不是人工史学审校、母语认证或照片复审；肖像未变更。"
+  ],
+  "translationReview": {
+    "kind": "ai",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "method": "validated snapshots plus reviewed incremental export/import",
+    "humanOrNativeCertification": false
+  }
+}

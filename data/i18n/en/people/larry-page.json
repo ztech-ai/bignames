@@ -1,11 +1,11 @@
 {
-  "sourceHash": "2cf9e0b1bbc7a16429bb994cae027d0db0e79d3df5f9d6360baa3fa8b36602a7",
+  "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
   "strings": {
     "name": "Larry Page",
-    "role": "Google co-founder · Search technology",
+    "role": "Google co-founder · Alphabet director",
     "country": "United States",
     "summary": "Page and Sergey Brin researched web-link analysis at Stanford and went on to found Google. Technologies such as PageRank helped improve online information retrieval, while the company later expanded into video, mobile operating systems and cloud services. Page twice took part in Google’s day-to-day management and helped create the Alphabet structure, stepping down as the group’s CEO in 2019.",
-    "coverageNote": "Selected public biographical and corporate-management milestones from 1973 to 2019. Later investments and private activities are not continuously tracked.",
+    "coverageNote": "Selected career milestones from 1973–2026, adding board reelection, startup reporting and Google antitrust decisions; research cutoff: November 13, 2026. Reports about a startup do not establish a completed product. Private investments are not continuously tracked and company litigation is not covered exhaustively.",
     "tags.搜索引擎": "Search engines",
     "tags.互联网": "Internet",
     "tags.计算机科学": "Computer science",
@@ -39,6 +39,35 @@
     "timeline.event-08.title": "Begins graduate work at Stanford",
     "timeline.event-08.text": "After completing his undergraduate degree at Michigan, went to Stanford, met Brin and gradually began collaborating on search.",
     "timeline.event-09.title": "Born in Michigan",
-    "timeline.event-09.text": "Born in the Lansing area; later studied engineering at the University of Michigan and continued his education at Stanford."
+    "timeline.event-09.text": "Born in the Lansing area; later studied engineering at the University of Michigan and continued his education at Stanford.",
+    "timeline.event-2026-board.title": "Reelected to Alphabet’s board",
+    "timeline.event-2026-board.text": "Won reelection at the annual shareholders’ meeting. His board position is distinct from the CEO tenure that ended in 2019.",
+    "timeline.event-2025-remedies.title": "Court issues search-case remedies ruling",
+    "timeline.event-2025-remedies.text": "The court ordered Google to share some search data and restricted exclusive distribution agreements, without requiring a Chrome sale. Ordered remedies do not establish full implementation.",
+    "timeline.event-2025-dynatomics.title": "Reports describe Dynatomics venture",
+    "timeline.event-2025-dynatomics.text": "Citing business filings and people familiar with the venture, Business Insider reported his involvement in Dynatomics, exploring AI and additive manufacturing. This profile does not establish product commercialization.",
+    "timeline.event-2024-antitrust.title": "Google search business found to maintain illegal monopolies",
+    "timeline.event-2024-antitrust.text": "A US district court found that Google illegally maintained monopolies in search and search text advertising. This was a ruling against the company, not a finding of personal wrongdoing by Page."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-board.title",
+      "timeline.event-2026-board.text",
+      "timeline.event-2025-remedies.title",
+      "timeline.event-2025-remedies.text",
+      "timeline.event-2025-dynatomics.title",
+      "timeline.event-2025-dynatomics.text",
+      "timeline.event-2024-antitrust.title",
+      "timeline.event-2024-antitrust.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

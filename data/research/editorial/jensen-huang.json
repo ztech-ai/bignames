@@ -1,0 +1,114 @@
+{
+  "id": "jensen-huang",
+  "reviewedAt": "2026-11-15",
+  "status": "ai-editorial-update-complete",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "sourceScope": "针对既有履历缺口进行在线来源核对，优先官方文件并交叉检查独立报道；未将既有全部历史资料重新审计。",
+  "lifeStatusReview": {
+    "death": null,
+    "basis": "查阅列明的2026年任职、离任或本人活动资料；本轮未见死亡证据，保留death:null。不是以数据库缺项推定在世。",
+    "sourceIds": [
+      "transition-filing",
+      "transition-reuters"
+    ]
+  },
+  "chronologyCoverage": {
+    "previousFrom": "1963-02-17",
+    "previousThrough": "2024-03-18",
+    "through": "2026-11-11",
+    "from": "1963-02-17"
+  },
+  "changes": {
+    "addedEventIds": [
+      "event-2026-resignation",
+      "event-2026-rubin",
+      "event-2025-ultra"
+    ],
+    "modifiedTextFields": [
+      "coverageNote",
+      "role",
+      "timeline.event-2025-ultra.text",
+      "timeline.event-2025-ultra.title",
+      "timeline.event-2026-resignation.text",
+      "timeline.event-2026-resignation.title",
+      "timeline.event-2026-rubin.text",
+      "timeline.event-2026-rubin.title"
+    ],
+    "stableIdsPreserved": true,
+    "influence": "未新增；保持不存在",
+    "images": "保留原肖像及元数据；本轮未重新进行图片目视或许可审计",
+    "note": "SEC确认生效日为11月11日，公司公告为11月12日；调查报道中的指控不写成定论。"
+  },
+  "sourceReview": [
+    {
+      "id": "ultra",
+      "url": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Blackwell-Ultra-AI-Factory-Platform-Paves-Way-for-Age-of-AI-Reasoning/default.aspx",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "rubin",
+      "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "transition-filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "board-review",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "transition-reuters",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    }
+  ],
+  "translationReview": {
+    "method": "编辑前验证旧7语哈希并保存快照；逐语导出增量，由OpenAI Codex审阅翻译改动字段与共享事实后导入，保留未变译文。",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "reviewerKind": "ai",
+    "humanReview": false,
+    "nativeSpeakerCertification": false
+  },
+  "limitations": "选录1963—2026年求学、创业与产品节点，并核对2026-11-11生效的离任；截至2026-11-13，独立调查未在本页认定结论。出生城市有来源差异，只标台湾；不穷尽公司全部活动。 AI采编及翻译自报记录，不代表人工审校或母语认证；浏览器视觉验收未在本子任务执行。",
+  "researchCutoff": "2026-11-13",
+  "datePolicy": "本轮在线访问和AI复核实际发生于2026-11-15，仅纳入事件日期不晚于2026-11-13的证据；正式档案verifiedAt沿用网站研究截点，不将访问日期等同于年表终点。",
+  "verification": {
+    "canonicalSourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
+    "translationVersionsValidated": 7,
+    "exactKeysValidated": true,
+    "unchangedTranslationsPreserved": true,
+    "oldStableIdsPreserved": true,
+    "reverseChronologyValidated": true,
+    "sourceReferencesValidated": true,
+    "changedFieldsPerLocale": 8,
+    "reviewKind": "ai",
+    "humanOrNativeSpeakerCertified": false,
+    "scope": "本6人结构、引用、哈希、键与增量保留验证；非全站构建或浏览器目视验收。"
+  }
+}

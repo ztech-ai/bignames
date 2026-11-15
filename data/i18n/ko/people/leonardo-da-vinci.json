@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "레오나르도 다 빈치",
     "role": "화가 · 르네상스의 다방면 탐구자",
     "country": "이탈리아의 여러 국가 / 프랑스",
     "summary": "다 빈치는 피렌체, 밀라노, 프랑스 궁정에서 활동하며 《최후의 만찬》과 《모나리자》 등으로 유럽 회화에 영향을 미쳤다. 관찰, 소묘, 실험적 사고를 인체·자연·기계 연구에 적용하고 방대한 수고를 남겼다. 많은 공학 구상은 설계 단계에 머물렀으며 미완성 미술 작품도 적지 않다. 그의 중요성은 전해지는 회화와 분야를 넘나드는 연구 방법 모두에 있다.",
-    "coverageNote": "작품 제작 시기는 학술적으로 다른 견해가 있다. 《모나리자》는 루브르의 약 1503년 착수 기록을 따른다. 역사적 인물 이미지는 미술 작품이며 실제 사진이 아니다.",
+    "coverageNote": "1452~1519년의 주요 생애, 예술과 해부학 연구를 다룬다. 작품의 제작 연대에는 논쟁이 있으며, 《모나리자》는 루브르의 약 1503년 착수 기록을 따른다. 초기 초상은 미술 작품이다. 검토 기준일은 2026-11-13이며, 사후 기념행사는 본인의 활동에 포함하지 않는다.",
     "tags.文艺复兴": "르네상스",
     "tags.绘画": "회화",
     "tags.解剖学": "해부학",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "화가 조합 가입",
     "timeline.event-09.text": "베로키오 공방에서 교육받은 뒤 피렌체의 성 루가 화가 단체에 가입했다.",
     "timeline.event-10.title": "빈치 인근에서 출생",
-    "timeline.event-10.text": "토스카나에서 태어나 어린 시절 고향에서 살았으며 이후 피렌체로 가서 미술을 배웠다."
+    "timeline.event-10.text": "토스카나에서 태어나 어린 시절 고향에서 살았으며 이후 피렌체로 가서 미술을 배웠다.",
+    "timeline.event-11.title": "인체 해부도를 체계적으로 작성",
+    "timeline.event-11.text": "해부를 통해 뼈와 근육을 연구하고 인체 구조를 여러 시점의 그림으로 기록했다. 구상했던 저술은 생전에 출판되지 못했다.",
+    "timeline.event-11.dateLabel": "1510~1511년 겨울 무렵"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

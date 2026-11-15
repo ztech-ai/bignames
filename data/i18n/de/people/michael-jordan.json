@@ -1,11 +1,11 @@
 {
-  "sourceHash": "a4f800385868cc7e950e09df75059a9c089fcab53041654f415e3c1608708178",
+  "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
   "strings": {
     "name": "Michael Jordan",
     "role": "Basketballspieler · Sechsfacher NBA-Meister",
     "country": "USA",
     "summary": "Michael Jordan gewann mit den Chicago Bulls sechs NBA-Meisterschaften und wurde fünfmal zum wertvollsten Spieler der regulären Saison gewählt. Bekannt für seine Punkteausbeute, Verteidigung und Leistungen in entscheidenden Spielen, prägte er auch die weltweite Verbreitung des Basketballs und die Vermarktung von Sportlern. Seine Karriere umfasste Rücktritte, einen Wechsel zum Baseball und zwei Comebacks. Später engagierte er sich als Teameigentümer und hielt zeitweise die Mehrheit an den Charlotte Hornets.",
-    "coverageNote": "Der Schwerpunkt liegt auf seiner sportlichen Laufbahn sowie dem Erwerb der Teammehrheit 2010 und deren Verkauf 2023. Laufende Unternehmensbewertungen werden nicht erfasst.",
+    "coverageNote": "Schwerpunkt sind Basketball und Teambesitz mit ausgewählten Stationen bis Februar 2026; Lebensstatus und Funktion im Rennteam bis November 2026 geprüft. Ein Sieg beim Daytona 500 ist kein Saisontitel; Unternehmensbewertungen werden nicht laufend verfolgt.",
     "tags.篮球": "Basketball",
     "tags.NBA": "NBA",
     "tags.奥运会": "Olympische Spiele",
@@ -41,6 +41,30 @@
     "timeline.event-10.title": "Nationale Hochschulmeisterschaft",
     "timeline.event-10.text": "Als Erstsemester der University of North Carolina erzielte er im NCAA-Finale einen entscheidenden Korb und half seinem Team zum Titel.",
     "timeline.event-11.title": "Geburt in New York",
-    "timeline.event-11.text": "Er wurde in Brooklyn geboren und wuchs in Wilmington, North Carolina, auf."
+    "timeline.event-11.text": "Er wurde in Brooklyn geboren und wuchs in Wilmington, North Carolina, auf.",
+    "timeline.event-14.title": "23XI gewinnt erstmals das Daytona 500",
+    "timeline.event-14.text": "Fahrer Tyler Reddick gewann das Daytona 500 für 23XI, und Jordan feierte als Miteigentümer des Teams; es war der Sieg in einem einzelnen Rennen.",
+    "timeline.event-13.title": "Team einigt sich mit NASCAR im Kartellrechtsstreit",
+    "timeline.event-13.text": "Sein mitbesessenes Team 23XI und Front Row Motorsports legten ihre Kartellklage gegen NASCAR bei. Eine gemeinsame Erklärung sah überarbeitete langfristige Startlizenzen vor; die Finanzbedingungen blieben vertraulich. Der Vergleich war keine gerichtliche Feststellung eines Rechtsverstoßes.",
+    "timeline.event-12.title": "Gründet 23XI Racing mit",
+    "timeline.event-12.text": "Gründete mit Denny Hamlin und weiteren Partnern das NASCAR-Team, das 2021 in der Cup Series antrat."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
+    "fields": [
+      "coverageNote",
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

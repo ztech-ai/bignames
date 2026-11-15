@@ -1,11 +1,11 @@
 {
-  "sourceHash": "92c44e5b5439a0d1e8fb5f90ebbd65ccc99fd013f0707ef2f4ed8a3edf98daee",
+  "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
   "strings": {
     "name": "Jack Ma",
     "role": "Entrepreneur · Cofondateur d'Alibaba",
     "country": "Chine",
     "summary": "Cofondateur d'Alibaba, Jack Ma en a été directeur général puis président du conseil. Passé de l'enseignement de l'anglais à l'entrepreneuriat sur Internet, il contribue au développement du commerce en ligne et du paiement numérique. Après avoir quitté la présidence du groupe en 2019, il se consacre davantage à la philanthropie éducative. Son parcours rencontre aussi les enjeux de gouvernance des plateformes et de régulation financière ; la suspension de l'introduction en Bourse d'Ant Group en 2020 constitue un tournant.",
-    "coverageNote": "Sélection d'étapes entrepreneuriales, de gouvernance et de philanthropie, principalement jusqu'en 2023. Les évolutions des entreprises ne sont pas assimilées à des réalisations individuelles.",
+    "coverageNote": "Jalons choisis de 1964 à 2026 concernant la création d’entreprise, la gouvernance et la philanthropie éducative, complétés par le symposium de 2025 et la rencontre d’enseignants de 2026 ; recherches arrêtées au 13 novembre 2026. Ma est cofondateur et associé d’Alibaba, et n’en est plus directeur général ni président du conseil. Les résultats de l’entreprise ne sont pas des réalisations personnelles exclusives.",
     "tags.电子商务": "Commerce électronique",
     "tags.阿里巴巴": "Alibaba",
     "tags.数字支付": "Paiement numérique",
@@ -23,7 +23,7 @@
     "highlights.highlight-03.title": "Philanthropie éducative",
     "highlights.highlight-03.text": "Il crée la Fondation Jack Ma en 2014 et lance notamment des programmes d'éducation rurale.",
     "timeline.event-01.title": "Réorganisation du contrôle d'Ant Group",
-    "timeline.event-01.text": "L'entreprise annonce une modification des droits de vote des actionnaires ; Jack Ma ne contrôle plus Ant Group.",
+    "timeline.event-01.text": "Ant a annoncé un projet de modification des droits de vote des actionnaires qui mettrait fin au contrôle de Ma ; l’approbation réglementaire restait alors nécessaire.",
     "timeline.event-02.title": "Suspension de l'introduction en Bourse d'Ant Group",
     "timeline.event-02.text": "La Bourse de Shanghai suspend l'entrée d'Ant Group sur le marché STAR, un tournant majeur pour ses activités.",
     "timeline.event-03.title": "Départ de la présidence d'Alibaba",
@@ -43,6 +43,27 @@
     "timeline.event-10.title": "Diplôme d'anglais",
     "timeline.event-10.text": "Il enseigne l'anglais après ses études, puis se tourne vers la traduction et l'entrepreneuriat sur Internet.",
     "timeline.event-11.title": "Naissance à Hangzhou",
-    "timeline.event-11.text": "Il naît et grandit à Hangzhou ; l'apprentissage de l'anglais joue un rôle important dans sa jeunesse."
+    "timeline.event-11.text": "Il naît et grandit à Hangzhou ; l'apprentissage de l'anglais joue un rôle important dans sa jeunesse.",
+    "timeline.event-2026-teachers.title": "Poursuite du dialogue avec les enseignants ruraux",
+    "timeline.event-2026-teachers.text": "Il a participé à la onzième rencontre annuelle de la fête de Laba, échangeant avec des enseignants ruraux sur l’éducation et la curiosité à l’ère de l’IA.",
+    "timeline.event-2025-symposium.title": "Participation au symposium sur les entreprises privées",
+    "timeline.event-2025-symposium.text": "Il a assisté à Pékin à la rencontre de Xi Jinping avec des représentants d’entreprises privées. Cette apparition ne signifie pas qu’il a repris la direction générale ou la présidence d’Alibaba."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "fields": [
+      "coverageNote",
+      "timeline.event-2026-teachers.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

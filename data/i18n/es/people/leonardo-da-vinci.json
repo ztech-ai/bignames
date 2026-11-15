@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "Leonardo da Vinci",
     "role": "Pintor · Investigador multidisciplinar del Renacimiento",
     "country": "Estados italianos / Francia",
     "summary": "Leonardo trabajó en Florencia, Milán y la corte francesa. Obras como La última cena y La Gioconda influyeron en la pintura europea. Aplicó la observación, el dibujo y el pensamiento experimental al cuerpo humano, la naturaleza y las máquinas, dejando numerosos manuscritos. Muchos proyectos de ingeniería no pasaron del diseño y varias obras artísticas quedaron inacabadas. Su importancia reside tanto en las pinturas conservadas como en su método de investigación entre disciplinas.",
-    "coverageNote": "La datación de sus obras varía según los estudios. Para La Gioconda se sigue la fecha de inicio hacia 1503 indicada por el Louvre. Los retratos históricos son obras artísticas, no fotografías reales.",
+    "coverageNote": "Principales hitos vitales, artísticos y de investigación anatómica de 1452 a 1519. La datación de las obras es discutida; para la Mona Lisa se sigue el registro del Louvre, que sitúa su inicio hacia 1503. Los retratos tempranos son obras de arte. Revisión hasta el 2026-11-13; las conmemoraciones póstumas no se consideran actividades personales.",
     "tags.文艺复兴": "Renacimiento",
     "tags.绘画": "Pintura",
     "tags.解剖学": "Anatomía",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "Se incorpora al gremio de pintores",
     "timeline.event-09.text": "Tras formarse en el taller de Verrocchio, ingresó en la compañía de pintores de San Lucas en Florencia.",
     "timeline.event-10.title": "Nace cerca de Vinci",
-    "timeline.event-10.text": "Nació en Toscana, donde pasó sus primeros años antes de ir a Florencia a estudiar arte."
+    "timeline.event-10.text": "Nació en Toscana, donde pasó sus primeros años antes de ir a Florencia a estudiar arte.",
+    "timeline.event-11.title": "Dibuja sistemáticamente la anatomía humana",
+    "timeline.event-11.text": "Estudió huesos y músculos mediante disecciones y registró la anatomía humana en dibujos desde diversos ángulos; el tratado previsto no llegó a publicarse en vida.",
+    "timeline.event-11.dateLabel": "Hacia el invierno de 1510-1511"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

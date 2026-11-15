@@ -1,0 +1,939 @@
+{
+  "id": "legacy24-career-refresh",
+  "status": "complete",
+  "cutoffDate": "2026-11-13",
+  "authorization": {
+    "source": "explicit-user-request",
+    "instruction": "先更新最早的24人履历",
+    "scope": "Career/source verification and eight-language synchronization; influence scores unchanged."
+  },
+  "baseline": "data/research/baseline.json",
+  "sourceCommit": "d6bb5b19fc7599a2572c19532f7c29e1b2b93b5e",
+  "profiles": [
+    {
+      "id": "ada-lovelace",
+      "beforeBlob": "f0c661a89f4c320e5c9d74b1453767f1c0dcf284",
+      "afterBlob": "9d1b1b1d0b74394a1895499eeb7c3de2fe63b34c",
+      "changed": true,
+      "eventCountBefore": 8,
+      "eventCountAfter": 8,
+      "editorialRecord": "data/research/editorial/ada-lovelace.json"
+    },
+    {
+      "id": "albert-einstein",
+      "beforeBlob": "09a8ebaada324e6eb244a9ed27fbc837995f7200",
+      "afterBlob": "775138793c23a0894d343c58a9c074cbbbf5edf7",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 11,
+      "editorialRecord": "data/research/editorial/albert-einstein.json"
+    },
+    {
+      "id": "charlie-chaplin",
+      "beforeBlob": "666849ceb141ff463495138cf301e8770af0a4eb",
+      "afterBlob": "64ff7b45701ddef41217cbfeeda979273a29bd22",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/charlie-chaplin.json"
+    },
+    {
+      "id": "confucius",
+      "beforeBlob": "5268490c8bc52021626e4c8e9d17cfc98f0a72ed",
+      "afterBlob": "5268490c8bc52021626e4c8e9d17cfc98f0a72ed",
+      "changed": false,
+      "eventCountBefore": 6,
+      "eventCountAfter": 6,
+      "editorialRecord": "data/research/editorial/confucius.json"
+    },
+    {
+      "id": "donald-trump",
+      "beforeBlob": "18591a0c09101dbba44a678beabefe098ad1d13c",
+      "afterBlob": "bd87eb9ecd9d9a286f4afff8d2ba070b607c4823",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 14,
+      "editorialRecord": "data/research/editorial/donald-trump.json"
+    },
+    {
+      "id": "elon-musk",
+      "beforeBlob": "0959333ba6e1c3f4a03080644b3153954ebc261c",
+      "afterBlob": "1afbe8b2f3e2367827c0f8357e9b7f8300c4839c",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 15,
+      "editorialRecord": "data/research/editorial/elon-musk.json"
+    },
+    {
+      "id": "emmanuel-macron",
+      "beforeBlob": "ff42931f8d144c3058743599ff0e751dd132fb7a",
+      "afterBlob": "4bfc36000f8ff9e46aebb39c3a5618b3514c6b1f",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 11,
+      "editorialRecord": "data/research/editorial/emmanuel-macron.json"
+    },
+    {
+      "id": "frida-kahlo",
+      "beforeBlob": "54254e1da4cda8575000e626cee7dfc5131c62b6",
+      "afterBlob": "b74f8723205744f83c818137f936b8a4451631e8",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 11,
+      "editorialRecord": "data/research/editorial/frida-kahlo.json"
+    },
+    {
+      "id": "jack-ma",
+      "beforeBlob": "1629d8f8b559d877064dcdaed41856fadb374606",
+      "afterBlob": "2e2c8dc19c9ff501d219b6cc0e519b0f7a6ea42b",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/jack-ma.json"
+    },
+    {
+      "id": "jensen-huang",
+      "beforeBlob": "d3e691cd84296109adfac690334c39e3cf9773e2",
+      "afterBlob": "5f1b6d29fe15582e8f13d7f34937f1a0322b745e",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 12,
+      "editorialRecord": "data/research/editorial/jensen-huang.json"
+    },
+    {
+      "id": "larry-page",
+      "beforeBlob": "ea24ee471d0f4a5b588b19d8135cc21ad58b77dd",
+      "afterBlob": "432457e11e077b7bb97af54e7e4417291fafe0a8",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/larry-page.json"
+    },
+    {
+      "id": "leonardo-da-vinci",
+      "beforeBlob": "3b01b3eb404816094a739dbc7892ddd4a07ad3b6",
+      "afterBlob": "ebb5c56eb7dc4ce08cbd012c49fc4fff22b00054",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 11,
+      "editorialRecord": "data/research/editorial/leonardo-da-vinci.json"
+    },
+    {
+      "id": "lu-xun",
+      "beforeBlob": "2f177973eb01489a2d5fc7a977db49c9688c2789",
+      "afterBlob": "d0cfe323190bf676be937066da70ff8e591a9550",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/lu-xun.json"
+    },
+    {
+      "id": "marie-curie",
+      "beforeBlob": "255bda3cbfc62ec95cff1786203030013b9b7fab",
+      "afterBlob": "d7fde799d476cdfd9659605395f4b0465eef14fa",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 12,
+      "editorialRecord": "data/research/editorial/marie-curie.json"
+    },
+    {
+      "id": "mark-zuckerberg",
+      "beforeBlob": "89360e1ea99532bfd06faa27f6cc4be1670170c7",
+      "afterBlob": "0606970e12c1fa0f9b380e94c02cf79a6a71af18",
+      "changed": true,
+      "eventCountBefore": 8,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/mark-zuckerberg.json"
+    },
+    {
+      "id": "michael-jackson",
+      "beforeBlob": "852f324768cee631f309e602b2f61dc813988967",
+      "afterBlob": "fda03d5c32551dadf16ad828670c33c339f35497",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/michael-jackson.json"
+    },
+    {
+      "id": "michael-jordan",
+      "beforeBlob": "7280d1537bfa7057c785ce58e3b558ccc9e80f0b",
+      "afterBlob": "e78011ccd3ddf16e4d1ebfaa4ed9cd2089f14424",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 14,
+      "editorialRecord": "data/research/editorial/michael-jordan.json"
+    },
+    {
+      "id": "nelson-mandela",
+      "beforeBlob": "23b676c06cc87548ac022cad7be64146fdbd9285",
+      "afterBlob": "7d1e8b152a5701d57d88b165c9b2a647b33db944",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/nelson-mandela.json"
+    },
+    {
+      "id": "rabindranath-tagore",
+      "beforeBlob": "be25c276f6883d44d90f520caa9d545dad49517e",
+      "afterBlob": "10792c3f03112ff5059b66fc8bc2b1764532c476",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 10,
+      "editorialRecord": "data/research/editorial/rabindranath-tagore.json"
+    },
+    {
+      "id": "serena-williams",
+      "beforeBlob": "75e7b12c9ffee7fc52a2f4541f1067390d46094a",
+      "afterBlob": "b0941c127346306fe6de1384bae52b6e357a6386",
+      "changed": true,
+      "eventCountBefore": 11,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/serena-williams.json"
+    },
+    {
+      "id": "tu-youyou",
+      "beforeBlob": "43b274dddcc91d85b15a8e8890dde94b0c416b17",
+      "afterBlob": "eaf204eba06fa68661083de52aa0f8597f6c9f64",
+      "changed": true,
+      "eventCountBefore": 12,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/tu-youyou.json"
+    },
+    {
+      "id": "vladimir-putin",
+      "beforeBlob": "0447f3ba9f3411cf6e96c41dd1a735bf976fd408",
+      "afterBlob": "f98ed9905269215c28d3ba0dd289544e6777a43b",
+      "changed": true,
+      "eventCountBefore": 10,
+      "eventCountAfter": 13,
+      "editorialRecord": "data/research/editorial/vladimir-putin.json"
+    },
+    {
+      "id": "warren-buffett",
+      "beforeBlob": "f47fe6485db8d8d7774aa109e49f38ef8783e635",
+      "afterBlob": "eed6b61142be38392daf147b652f250232be5ce4",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 11,
+      "editorialRecord": "data/research/editorial/warren-buffett.json"
+    },
+    {
+      "id": "yuri-gagarin",
+      "beforeBlob": "ce40d49748e5f33c674fcaa2adca30010563d7f0",
+      "afterBlob": "dcbe83ab5a129fe4c5daed69466b0daca8b964e5",
+      "changed": true,
+      "eventCountBefore": 9,
+      "eventCountAfter": 10,
+      "editorialRecord": "data/research/editorial/yuri-gagarin.json"
+    }
+  ],
+  "preservedOtherProfiles": [
+    {
+      "id": "aamir-khan",
+      "sha256": "4aa57591a982cef4afa565b6d3f4d3a16abf0e865fa401c406a639a212d772e7"
+    },
+    {
+      "id": "abdulrazak-gurnah",
+      "sha256": "39326c60fd76c41d421915bd637b018f4e7d5dc6507bc80bfeff6ec125e30bea"
+    },
+    {
+      "id": "abhijit-banerjee",
+      "sha256": "5b8265b4adb553245220148b0688c063d5edb5a3c50eb382de466cda2ae5ec51"
+    },
+    {
+      "id": "adele",
+      "sha256": "14b86612096a745b6bc34ca57ab8baa1d436477836c92a7a3907020f356e40b7"
+    },
+    {
+      "id": "adi-shamir",
+      "sha256": "aee71a42039149e7951df0dcc2fd99e509e5ad31553488f51134711f94bd727c"
+    },
+    {
+      "id": "ai-weiwei",
+      "sha256": "eea5298be137eb4d9e5f1522238881b7edb004dcb829bc42eaf7b716d0519dbb"
+    },
+    {
+      "id": "akio-toyoda",
+      "sha256": "88ac19c31b32346f5d1daaab9600b7c9f3a4dbfa0a2b94cf2110fb1ec8c39514"
+    },
+    {
+      "id": "al-gore",
+      "sha256": "b2912903ba2330af77dcd84242504bc11d4d9d36344f76d2c95d9c3bf79934d9"
+    },
+    {
+      "id": "alain-aspect",
+      "sha256": "7442f9eaa1512c7a813187a10e5498e5be3339e46c41978485ba231dbae65c67"
+    },
+    {
+      "id": "aliko-dangote",
+      "sha256": "fe6e3717e4158abd8947376599489964b45634b24396c3ca3dc0788c0b58cb17"
+    },
+    {
+      "id": "amancio-ortega",
+      "sha256": "8784b845109a477906337c2acfbb38cc3c101b37dc64c6f39741a146d8c67503"
+    },
+    {
+      "id": "amartya-sen",
+      "sha256": "6c9c15f5feac4bd37aec623073f43bf92fba549671314aa2a50a462aaf707e4b"
+    },
+    {
+      "id": "amitabh-bachchan",
+      "sha256": "20c24800b85a166607e2af100ff2e571fa86221b1f7bcf5719fbf69dcc262b46"
+    },
+    {
+      "id": "andrea-ghez",
+      "sha256": "ddb5bb7391cc4a4085ee19f376b598172b6d8efa81c67f2287a275e8302fd205"
+    },
+    {
+      "id": "andrew-ng",
+      "sha256": "1e2591f3fef328cb08414a6efd6fc8ad61dde12dba37a7b4eb73245131a80d46"
+    },
+    {
+      "id": "andrew-wiles",
+      "sha256": "227e0ecc019b06a1c883ad092226417097980d6a98f94853d8e7ab4dd7824c86"
+    },
+    {
+      "id": "andy-jassy",
+      "sha256": "fcc1f4d4ecabfcd4264efe4180753f6804e49560d250a71950fb32c77cd4763f"
+    },
+    {
+      "id": "ang-lee",
+      "sha256": "b7ab80239f47e83254a48fdbd2440e48a4f1d14dbbc30fb9bd744672f9e69d88"
+    },
+    {
+      "id": "angela-merkel",
+      "sha256": "018ac7017b3f36001e4d536431a100462d2bdfb32bbcade2537769bc1caffb59"
+    },
+    {
+      "id": "anish-kapoor",
+      "sha256": "cd75797a8b1bd5276462baddb8242e019f1eddd7397214bf10d3537a4fcae3b6"
+    },
+    {
+      "id": "annie-ernaux",
+      "sha256": "113d7a31c1a560300f5f9096a530a02e2b7a94fed2adb42aa432e6ddd1ee8411"
+    },
+    {
+      "id": "anton-zeilinger",
+      "sha256": "36d6a6d00b26181ac871f997e9192eff3e8495814e3b1850005b67bcb80d39df"
+    },
+    {
+      "id": "antonio-guterres",
+      "sha256": "7b5841f0627a5d0e1018040404cf6eefae2d0eb676eb523e106150f4d775aacd"
+    },
+    {
+      "id": "armand-duplantis",
+      "sha256": "76d29a567a51e1b07c3488133689b835acd67205562cc9f142ccc41d2b8ff52d"
+    },
+    {
+      "id": "ban-ki-moon",
+      "sha256": "a7ced10750372643c0baf50d434eeef3a2a01a808c5e378aeaed7a4a885797e5"
+    },
+    {
+      "id": "barack-obama",
+      "sha256": "20f09f0600876d612e02c5d503c58152ab627096461d7f273a94a230b93f8e6c"
+    },
+    {
+      "id": "barbara-liskov",
+      "sha256": "1d45afb1c0c8215cde117c81bef1b3f870dddda1466cfe611eeb0a0778659f29"
+    },
+    {
+      "id": "ben-bernanke",
+      "sha256": "d8483639cfe20dce71231e6fcdb0322f389f0a13b90abf9db4f24edf4b717606"
+    },
+    {
+      "id": "bernard-arnault",
+      "sha256": "fef33f8eba6cf158ddf6092d379f0240f090bcfd9a5b9156bed097e5bf6aaca7"
+    },
+    {
+      "id": "beyonce",
+      "sha256": "f8576632e630188590dce03a730b64e9d2eb2d00fa8e25069fffd0788d8b6be8"
+    },
+    {
+      "id": "bill-gates",
+      "sha256": "e097a5c3bbca3ad960bbed4f93b582ed1a5292cfec22a9aae77dbb94f3e14050"
+    },
+    {
+      "id": "billie-eilish",
+      "sha256": "96aa985a95d1878a01caa341750345235e2a0483532f79221f3363092baf481e"
+    },
+    {
+      "id": "bjarne-stroustrup",
+      "sha256": "52f3e7e3638f86a53c17e720be16d111c24ed76e0b3319baa3a4910b929742ff"
+    },
+    {
+      "id": "bob-dylan",
+      "sha256": "f73adab3148b281f3418d9988760a7a430090eee1d40caa70eca756b00f85c0e"
+    },
+    {
+      "id": "bob-iger",
+      "sha256": "c59fd3b025027397d97d3162f835d285f3879a6e546dce9853564189d739aa2c"
+    },
+    {
+      "id": "bong-joon-ho",
+      "sha256": "9532b86aa557b6b4176fd7f587e02eeaa08a6a2cb9ec6baa61d840001d24331a"
+    },
+    {
+      "id": "cai-guo-qiang",
+      "sha256": "381a8a2922a59d373ff489bc06feba7d73e79bc6cb616a0359be152bf06e1efd"
+    },
+    {
+      "id": "carlos-alcaraz",
+      "sha256": "4e500f29f58c0c2bf1187d8a501fffafea30527306cffac228e8829cece28fc7"
+    },
+    {
+      "id": "carlos-slim",
+      "sha256": "09b15cc7d3fe3a4fb1af87917648ac1f5490187f49f47c7569dd90f70e171690"
+    },
+    {
+      "id": "carol-greider",
+      "sha256": "6880f41f1c434fabe64d12bd03f6d409bbd4dc379946c554568cdb0ee71bd1ba"
+    },
+    {
+      "id": "carolyn-bertozzi",
+      "sha256": "23b0365159f121425c843e2b09aeeacf4007a0aaed9ec1aeff0dbb337f87e808"
+    },
+    {
+      "id": "celine-dion",
+      "sha256": "ab86ccf6462b9b6fb03811ae21969aa96014ac234c817384a3769357a45f76ac"
+    },
+    {
+      "id": "chimamanda-ngozi-adichie",
+      "sha256": "0f3b2114a5c6ca33575544d3700f0ac3eaa53fa76b6b39a951ce368623c97ca3"
+    },
+    {
+      "id": "christine-lagarde",
+      "sha256": "ecb6dc23cd4112c286f875919da9e11c3a2b9e81abca079d1f897fe87f5b534f"
+    },
+    {
+      "id": "christopher-nolan",
+      "sha256": "48b0cc6cae5c93d65f58ab8e30b2ab171d883c5c51b5cd05144c3d0350be3e21"
+    },
+    {
+      "id": "claudia-goldin",
+      "sha256": "bde69344e2d94b6a2ad8805921beccc9b6c98bce69844c821511fd813c1ca882"
+    },
+    {
+      "id": "claudia-sheinbaum",
+      "sha256": "4e5813cd6e3f34e0f96478904027a9798e145f827ad7ef51bbf8b188dbb5ec62"
+    },
+    {
+      "id": "coco-gauff",
+      "sha256": "afcfbd26dd3341c4b87b4ca8ff2dd6c7c3c0823b948f0bba7c67ca9ea54396ff"
+    },
+    {
+      "id": "cristiano-ronaldo",
+      "sha256": "e1cc503db6f5ad398c97ccf68020b9007bbd51beed07f763ceb6ac66031754b7"
+    },
+    {
+      "id": "cyril-ramaphosa",
+      "sha256": "a2a966c6b91c81b8491543c24f271051ecf9266186b1fb40dd6c350687c0a7ee"
+    },
+    {
+      "id": "dario-amodei",
+      "sha256": "2596309a2dfd4fc9694f9d39f9c0fa20da82b9ff7558279429ba07d6d1a07434"
+    },
+    {
+      "id": "daron-acemoglu",
+      "sha256": "357fdec254b9b4dc5d25e099d33ffbd6553a2e74669c9fdbcc852d7a27a2fc88"
+    },
+    {
+      "id": "david-baker",
+      "sha256": "a889b19430ea65ca0def24540608f633df03463e2f630c87431710063cff014f"
+    },
+    {
+      "id": "david-chipperfield",
+      "sha256": "35b675036976d7bcd2f2e194d57c5e370dd762d7d047293a7bdab505de7b4632"
+    },
+    {
+      "id": "demis-hassabis",
+      "sha256": "9a53480442e3812fa6d0e4afa7ac0e9ba6e6804e5c210b2d2d9f561b8d3935bc"
+    },
+    {
+      "id": "diebedo-francis-kere",
+      "sha256": "95c5054ecfaad03b7f76305b16f45b2ed209afd1347189c6d43a7082c7aae971"
+    },
+    {
+      "id": "donald-knuth",
+      "sha256": "bf678a358f418746af4b46356ae5ba5e737d44421844edb3f3fda879e71e24c1"
+    },
+    {
+      "id": "donna-strickland",
+      "sha256": "28f5084f965345b7fba028b7fe44e44c682911069cf81d000a807bfe5b735867"
+    },
+    {
+      "id": "drew-weissman",
+      "sha256": "9fedab727efbab7ebc9f3ef27ad877b1ec4c3c2daea1b889873a2c706da41f40"
+    },
+    {
+      "id": "eliud-kipchoge",
+      "sha256": "108f8ed61019dd1600d2522fa8f59e5055db862c1d86b23eaef7a4e5740301e6"
+    },
+    {
+      "id": "elizabeth-blackburn",
+      "sha256": "5a914f10ef2a84740efc07be8455783594ca6a62365eaa6aadc067b7e07c5722"
+    },
+    {
+      "id": "ellen-johnson-sirleaf",
+      "sha256": "7fabc4ae59f0be6a88df928fe2046ec7aec55e3c7eba993b14b2b9824d12559a"
+    },
+    {
+      "id": "emmanuelle-charpentier",
+      "sha256": "480d3ef627446d525234091fcf2c2ad4565df17b4afb67810f00419fb4a577ac"
+    },
+    {
+      "id": "esther-duflo",
+      "sha256": "038e764a0c1254f61cc2862d95a65bb797f43829af857ee4c564bdc0afb12c38"
+    },
+    {
+      "id": "fei-fei-li",
+      "sha256": "e1fa74cf32c2e6b7eea7656b443a044a8222c0ca24edaa6866862eb7a3617d45"
+    },
+    {
+      "id": "frances-arnold",
+      "sha256": "16c14cf4aeea2d2443e63790dba2add0b0d147b9d9dca422518e5f151e7ca8da"
+    },
+    {
+      "id": "geoffrey-hinton",
+      "sha256": "0737c4a77aca5e470bfbd97e27a0ecdfc3f21e6ffad95cded3b45a6bc77abafb"
+    },
+    {
+      "id": "george-soros",
+      "sha256": "48dd0bf48f7da0aba202ef1b370eb5de7208945a7da118d90e95ee7b8fde276d"
+    },
+    {
+      "id": "george-w-bush",
+      "sha256": "04c864d5d2c4b3c16985fdff9decaba402d3e7aa4fe0f9dba58406659bdaa643"
+    },
+    {
+      "id": "gerhard-richter",
+      "sha256": "9171c244f5a1e16eb5118258bd0c20ad0d8c5a3cd7f6ac3e76a5c401a867e513"
+    },
+    {
+      "id": "giorgia-meloni",
+      "sha256": "6e68f4b086a819a2e3ee8def596b0a4c0534e30f9444f4f29250d60cdcc27c85"
+    },
+    {
+      "id": "greta-thunberg",
+      "sha256": "a39e3c817f68db4e44f7d066b449896a779fd358655cb194eb842302bb5e54e3"
+    },
+    {
+      "id": "guido-van-rossum",
+      "sha256": "48072f3763fee3c806a5007321494751ff73ec81f94fa297e93d64f9970025de"
+    },
+    {
+      "id": "han-kang",
+      "sha256": "8375bf27c99ff4142a5b9e41000bd826be1447d21c81876793eb435eb68a3f75"
+    },
+    {
+      "id": "haruki-murakami",
+      "sha256": "fbe6cfeb728b73646a4f856905c22fb03797a68d0c2242dfa3418f35a78b09e7"
+    },
+    {
+      "id": "hayao-miyazaki",
+      "sha256": "d3f42708be72ed66cdfde4b211d36da7e7b9f3e3d00234ce8b1b1534736a6a40"
+    },
+    {
+      "id": "hillary-clinton",
+      "sha256": "f43e716139210aaa2635628e876d7bda170cef215971f9cfe76c8fde8cd906e3"
+    },
+    {
+      "id": "iga-swiatek",
+      "sha256": "54c6ebc16d9ebf674894ad414a63664b32c40295cce8a01cedba070334cb8c19"
+    },
+    {
+      "id": "indra-nooyi",
+      "sha256": "5702e6ba9c8721d6e7eaf7086417d721d987a9d746fe8cc015e90c3c8ec21540"
+    },
+    {
+      "id": "jacinda-ardern",
+      "sha256": "7337816abca449064ffcc2b4a9eb59b7516b9568d5a3cce01a1066c0b8414374"
+    },
+    {
+      "id": "james-cameron",
+      "sha256": "0cb922172f1e97aaa96f19445a6a2d77d3d42815b4c656caf19dbd56ce2df83e"
+    },
+    {
+      "id": "james-gosling",
+      "sha256": "ee56970983fcdc23f10f5ba261c9940e497b222fec7ac1bec43a32e72d3214bb"
+    },
+    {
+      "id": "jamie-dimon",
+      "sha256": "d81e64070fd44c45310ac382ffeae1fdcf036bd7998b63c9c161a894a1a507b2"
+    },
+    {
+      "id": "janet-yellen",
+      "sha256": "df27670e5c5a92cac05766c7805b9a2519ad0ace02fadfa1287e8673c491fecc"
+    },
+    {
+      "id": "jeff-bezos",
+      "sha256": "5dbfa7b36a1de5f7654cecfb1506f815713ffa839051afe2885db87ed8a1e489"
+    },
+    {
+      "id": "jennifer-doudna",
+      "sha256": "0f76c9bb7a570f595e45c0ba647846325dcff06cda8b92c03efddda3d730dc52"
+    },
+    {
+      "id": "joe-biden",
+      "sha256": "c4a84bb659cb740ea52397b916bc81e21970b618ecab423ad70768cd4c710e21"
+    },
+    {
+      "id": "john-hennessy",
+      "sha256": "cdfa3579b4c7db329844f86c66089c535379cdfb88adbb544189a55b14f23efe"
+    },
+    {
+      "id": "john-jumper",
+      "sha256": "c15339c28a5f08d02269d615537a8391c34bbc51bc2b8cdc5abd521183aeca1f"
+    },
+    {
+      "id": "jon-fosse",
+      "sha256": "59ff21bbdcf586758d0cd799bde9eec78bc25cd58df9cb00a9a20719b96f326d"
+    },
+    {
+      "id": "joseph-stiglitz",
+      "sha256": "27f8ecdb91c05e17b6135de168f904885227d47c3b5e26451693c1b8668faa36"
+    },
+    {
+      "id": "katalin-kariko",
+      "sha256": "543b85e5d3509eebfaab9f00be329e010bfd6c34b9a3b5622d2662aabab7f775"
+    },
+    {
+      "id": "katie-ledecky",
+      "sha256": "970ef04a46b0fad23d39168f768ddab8202f6bcda45f10111658ac20a314fbf2"
+    },
+    {
+      "id": "kazuo-ishiguro",
+      "sha256": "f856780fc64a4463c5e2af294fb00592677661817ed90a0db6b9359227076835"
+    },
+    {
+      "id": "kazuyo-sejima",
+      "sha256": "360e1b16c8fc77f0598606efa151adf434add11eae4cd922bf3e7fa916e91ca1"
+    },
+    {
+      "id": "keir-starmer",
+      "sha256": "49aee73fabd4716a036166574b335d1dcb1fa860698da16abeca626ee65eb6c3"
+    },
+    {
+      "id": "ken-thompson",
+      "sha256": "edec3509fef653c5330b6eaeda326c7668edabb6775ebb2f775a542786b9ccbc"
+    },
+    {
+      "id": "kevin-durant",
+      "sha256": "7a18f199528f2a1228f4d6bb647797f3702d1d2279d8fcfcb5f1049fa801dd00"
+    },
+    {
+      "id": "larry-fink",
+      "sha256": "fb7cf3c2570b4e7b63474c48994f3daeaf38bc113c62f2ff66f4f90507acf16d"
+    },
+    {
+      "id": "lebron-james",
+      "sha256": "bede5715412b5bedc2e3e11cace24591b7d721ff0425039e9f19e1e01892993f"
+    },
+    {
+      "id": "leslie-lamport",
+      "sha256": "ff45ea1977120d11124676d31404ca6491caaf8e56d20dc1516f448fc972422c"
+    },
+    {
+      "id": "lewis-hamilton",
+      "sha256": "9acb42a9f02bbc77b5010affa53fe677683a372beec83461b0795090c00508ab"
+    },
+    {
+      "id": "li-ka-shing",
+      "sha256": "7b537f39d8cfbbc92efb3cc29d0118375a5a13fff3f6c5a9f729908be5bab3ea"
+    },
+    {
+      "id": "linus-torvalds",
+      "sha256": "4ac7f6d555be2e26b533c623a329f01c3df971920c16ddf73eea5c2b15cec21e"
+    },
+    {
+      "id": "lionel-messi",
+      "sha256": "5116322a444c7f96cb9f02e5ab65191f57b2fb10059dd3ab28bd205c4f1d445d"
+    },
+    {
+      "id": "lisa-su",
+      "sha256": "8c6258b1c306428e7fa035c3382934f305dcfb62fe720a0be30530e432960ecc"
+    },
+    {
+      "id": "liu-cixin",
+      "sha256": "1a49a1d2aebe36ae73787913fecc074562d4e3422a55b3c7d2296bac131309d2"
+    },
+    {
+      "id": "luiz-inacio-lula-da-silva",
+      "sha256": "6c8d543253bd26296027cdab4dadb33a3d7a32ab1a503fec161da47becd33661"
+    },
+    {
+      "id": "madonna",
+      "sha256": "7a672b94b4db831ca41f62a7ad31c8c328eeb8ba6d88c0c523c730b9a1b0e240"
+    },
+    {
+      "id": "margaret-atwood",
+      "sha256": "b032b9fc7998a75429b75db4704df56a353e0233a1e8334cc92a62755eb2944b"
+    },
+    {
+      "id": "marina-abramovic",
+      "sha256": "4328d3aac90260a3ae0d54dff0a5b2aee0b19171a309871cf049c08dc7263062"
+    },
+    {
+      "id": "martin-hellman",
+      "sha256": "ec5cf792ae6c955f4811dec2062ace56e1f91096feb050cd9ea026e7b5268345"
+    },
+    {
+      "id": "mary-barra",
+      "sha256": "7636e88f9be33b02ba3c6c64da5b51cdf7bb41d53c5d4e31a72efa0b2efa17a5"
+    },
+    {
+      "id": "max-verstappen",
+      "sha256": "ab5aaf553de97dd2a468e9adb8d7a17d3bfc8b934d84ca23c50438bd6ff3c1ef"
+    },
+    {
+      "id": "meryl-streep",
+      "sha256": "2c135244031a226b990b51b3d3a30e8c15a5ade3d258709f82427cf90867f11c"
+    },
+    {
+      "id": "michael-bloomberg",
+      "sha256": "8a94321475068978da3cee5140018340c04bbf9f607713fe8719491505b26c6d"
+    },
+    {
+      "id": "michael-phelps",
+      "sha256": "6e8032fd4482f96c804d73f46fd8ad76bc6d739f29a62dba3895a42305eeb608"
+    },
+    {
+      "id": "michelle-bachelet",
+      "sha256": "9ab5cc43f307f87475010c567abbdbb2be334790fdaa27ea0580cb11197cd139"
+    },
+    {
+      "id": "mikaela-shiffrin",
+      "sha256": "12bfb78bcbf7ea9615da9b47d079260be137ed10bed19ed29d8f5e2e28bddf6a"
+    },
+    {
+      "id": "mo-yan",
+      "sha256": "ca93d35fad886be05f38b7133d36c2c1f0069555d414e76aae0a6e8925d01ab5"
+    },
+    {
+      "id": "morris-chang",
+      "sha256": "6c9fc4e1e108c024a0938221f09dda72fd1ac9fbe751f680de461c3abbdef8b4"
+    },
+    {
+      "id": "mukesh-ambani",
+      "sha256": "6cceb89f7b46fd1bc9f1bbf941a626e99d5d93d4d716fa293607939176f71dd9"
+    },
+    {
+      "id": "naomi-osaka",
+      "sha256": "d9a91baaf355a78ecad67044bfdc7bb0701333df9e94c6e1ff9d2bf7d26b3de3"
+    },
+    {
+      "id": "narendra-modi",
+      "sha256": "c1a44462e4b760836a44f43e4b82e2bd3755c3e4232e87ac1f3411dd33d3a07c"
+    },
+    {
+      "id": "norman-foster",
+      "sha256": "8e69076b6ba226c04e924f42037eda952b035eac285909288849bc8c5a214a06"
+    },
+    {
+      "id": "novak-djokovic",
+      "sha256": "1ca6dd75ab81e9ed1ff407be4887206c66e300e370da741b1c2105d686f5b70e"
+    },
+    {
+      "id": "olafur-eliasson",
+      "sha256": "e4cf739b61d4298331e900a4f4dcdc6ceed5a6409d81f98c65a87d3106bdc2ce"
+    },
+    {
+      "id": "olga-tokarczuk",
+      "sha256": "240f10b8dab1acba6bb89c645f8582fe6da7650a5a09ff3c3d1cdfc928961a9c"
+    },
+    {
+      "id": "orhan-pamuk",
+      "sha256": "8a26ae4ca53fe783afd19c408c281c93ae6e9bc21d0cfc74ae47c699358de017"
+    },
+    {
+      "id": "paul-krugman",
+      "sha256": "cc737b1437f0b283d4cf5b0f8cbefa27dbeb7d895189ab08a515f5a07cb8549d"
+    },
+    {
+      "id": "paul-mccartney",
+      "sha256": "5c9f31e5ad1aa71615fa8942127d22fbe9a74061a0569b7b608baecdf28978cd"
+    },
+    {
+      "id": "pedro-almodovar",
+      "sha256": "a1edd22a91b4631bbe88cc0e0be8d36a5409a466052fe1d8babc3fb67e0aba4b"
+    },
+    {
+      "id": "rafael-nadal",
+      "sha256": "b6e022d3145a795186d44691b2068b2258256aa81f2c7ef21bbfa105da0e1532"
+    },
+    {
+      "id": "rem-koolhaas",
+      "sha256": "cdd63ec700c0c399e19a093227c57468d92c43077779ca376fdc287d96e24708"
+    },
+    {
+      "id": "richard-stallman",
+      "sha256": "31f2c2dcf8b920a049480d6448f04a0e722187e4faa3b7cfbc5ca6ef6058bfec"
+    },
+    {
+      "id": "rihanna",
+      "sha256": "30e27e633a413b5ba95accda5e355427e012fbc658877e428d51ba522bfc7542"
+    },
+    {
+      "id": "robert-kahn",
+      "sha256": "ee3312420d2920334fd5181d94153c56a1377936413e8b94cc51fbca657c45ef"
+    },
+    {
+      "id": "robin-li",
+      "sha256": "7e4e0ec1f6560d0ef9bba72b6ec3a569e5f7456a0d0d828b4ce8dd5229514b76"
+    },
+    {
+      "id": "roger-federer",
+      "sha256": "8cd5198b5dedf5e0d8f81abfdf9422c82cd58d4d53ca0c7c5de75d62cffa5dd1"
+    },
+    {
+      "id": "roger-penrose",
+      "sha256": "520c8ec19f2994aeea4c85d8b85a133aa5aa9d42a7e50423eaa6df86e4b8cd27"
+    },
+    {
+      "id": "ron-rivest",
+      "sha256": "da7edd3321709eda5323ec4c1b7831a8eee3bd95b28af0978ba8567d0803186c"
+    },
+    {
+      "id": "rupert-murdoch",
+      "sha256": "b981f76a5b7b91177b37be3b93d0135f666eabff691423e0b0d7d1808643d5a9"
+    },
+    {
+      "id": "sachin-tendulkar",
+      "sha256": "87757287d7b6af5a2f94decf06e58a83dfec85bdc6735ecd3932a9be8c6640ce"
+    },
+    {
+      "id": "salman-rushdie",
+      "sha256": "5825712ef0c6d8b08baa8bb022148c75a09860529b8732441e6c89536af62184"
+    },
+    {
+      "id": "sam-altman",
+      "sha256": "852ef28c5c329b7b3ee3911ca1ddb33c90a6b78a341ea1989ef2b2d84a0bdba9"
+    },
+    {
+      "id": "satya-nadella",
+      "sha256": "8e6d2181760a39dfd3d536371638527ac5d069e84905ff55a8b8d6d76978663d"
+    },
+    {
+      "id": "sergey-brin",
+      "sha256": "51795d6d043a414bced850f03e79415d36451732c004ab6da9fbb9b2511a8cd0"
+    },
+    {
+      "id": "shah-rukh-khan",
+      "sha256": "540c854b5bf0a40183fb850addcd4605583cf86472538cc0b33401422bff945e"
+    },
+    {
+      "id": "shakira",
+      "sha256": "4c491fd0858b5611f7977670982bf15b2f021ea0c3fb0b57ec451a0e7ab14c07"
+    },
+    {
+      "id": "shelly-ann-fraser-pryce",
+      "sha256": "1a2f3634768672ddd7202e0eb47ae921711900eb0bfca8b7b431842a47152f3a"
+    },
+    {
+      "id": "simone-biles",
+      "sha256": "3d58a1f50527bd87dbf23496e4cc9bf6f4090fb5b8befa19cf7ae935f4be6d7e"
+    },
+    {
+      "id": "stephen-curry",
+      "sha256": "e805e9a61494333af60caaf080b2b39300935ac04a8e8efd3751d3596b0d7ba4"
+    },
+    {
+      "id": "steve-wozniak",
+      "sha256": "820ad60509e9e274697eecad89e6c5829c583e57c68a044b11ce5af31f7bf4ab"
+    },
+    {
+      "id": "steven-spielberg",
+      "sha256": "719d2525a8ce53d8cd2a3ade8c59ca87648cba80bd76e8081c75fde6fefcfb7f"
+    },
+    {
+      "id": "sundar-pichai",
+      "sha256": "80e38b5335e483d02082131191d54cb7372e122cd29bb36411dbcbffaeef2cf0"
+    },
+    {
+      "id": "tadao-ando",
+      "sha256": "4eb76760e59e35a2a30db155ea2ededb099f9f7844e8ae7ab6db8387bbcb647a"
+    },
+    {
+      "id": "taylor-swift",
+      "sha256": "d521f82ce49739f0f7124a849e0fbb80e80353294cdc146ebacd16813fcaad0b"
+    },
+    {
+      "id": "tiger-woods",
+      "sha256": "c6b6749bc6bf1b1620151702c7405c4f3edb2c29b17d10abdbdb4470d2ed7a45"
+    },
+    {
+      "id": "tim-berners-lee",
+      "sha256": "23bf4651c7168b71d1cf0cc6cad1de389dc40de35b7b4eb23f740e9b490d39eb"
+    },
+    {
+      "id": "tim-cook",
+      "sha256": "adebca20d39fe7b5d3bbff4a7ca7dc38bb790c98d11e4c85907ab818e0bfb5f2"
+    },
+    {
+      "id": "ursula-von-der-leyen",
+      "sha256": "9081c4bbd7975e764bd4432e431e13c6d62e2b8717a77322204c7f6fb58b0bd9"
+    },
+    {
+      "id": "usain-bolt",
+      "sha256": "cd0f9be2ae708c718fae66a128817841469074a1507be125341db75a77eaaf43"
+    },
+    {
+      "id": "vint-cerf",
+      "sha256": "6d125c3c533ba5ebbccd9769a4c1bc9f4171c91027bd67c191abdea5e09c400c"
+    },
+    {
+      "id": "viola-davis",
+      "sha256": "27eaf6647ecb3bbf8993ff2e41f09f05d2f8a2ed9e9d214565d6b48a1b6a7a66"
+    },
+    {
+      "id": "volodymyr-zelenskyy",
+      "sha256": "70a8325566b39b2ec6c2c371ebefd1357a7f049b2023d60217fe29b788fb0eea"
+    },
+    {
+      "id": "wang-chuanfu",
+      "sha256": "bfaff1f6a381c94613bf339affe4c09234dae262c41e921dc8c183b03d9ac309"
+    },
+    {
+      "id": "whitfield-diffie",
+      "sha256": "651a1f10ca7ad2f179f0b93177f0f5a9c120decde7d666cb66c27fa04ff21140"
+    },
+    {
+      "id": "xi-jinping",
+      "sha256": "649913cc57b5225c937b7fd017820fee3c23c5002e60761d317020b67847c4a4"
+    },
+    {
+      "id": "yann-lecun",
+      "sha256": "3b7799272042e7e1b6f1354bb9426913709aa6b2a9dc1bd5ebfc98acd6b556a3"
+    },
+    {
+      "id": "yoshua-bengio",
+      "sha256": "3f0a25054ebb4ed0708d0ac9855524e53a37340ffa26604715e0f113470f869d"
+    },
+    {
+      "id": "zeng-yuqun",
+      "sha256": "3edf62cf5ad5eebffd3752b8a6eee9691089a906c4317304d57f2e6eb6865184"
+    }
+  ],
+  "counts": {
+    "reviewedProfiles": 24,
+    "changedProfiles": 23,
+    "unchangedProfiles": 1,
+    "addedEvents": 52,
+    "addedSources": 96,
+    "changedForeignFields": 245,
+    "unchangedForeignFields": 6440,
+    "addedForeignFields": 749
+  },
+  "totals": {
+    "profiles": 195,
+    "timelineEvents": 2006,
+    "sourceRecords": 1401,
+    "living": 183,
+    "deceased": 12,
+    "htmlPages": 1600
+  },
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "verificationScope": "All24 original biographies and168 foreign variants checked; original baseline retained; other171 canonical files unchanged; existing influence values and stable IDs retained."
+}

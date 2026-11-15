@@ -1,11 +1,11 @@
 {
-  "sourceHash": "8c78772140c5cf7cd69b058c6dc49e59637aa081ba2ec32e96618ca5ab61e42d",
+  "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
   "strings": {
     "name": "ジェンスン・フアン（黄仁勲）",
-    "role": "NVIDIA共同創業者 · アクセラレーテッド・コンピューティング",
+    "role": "NVIDIA共同創業者 · 元最高経営責任者",
     "country": "アメリカ",
     "summary": "ジェンスン・フアンはNVIDIAの共同創業者で、幼少期に台湾からアメリカへ移り、電気工学を学んだ。率いたチームはパソコン向けのグラフィックスチップから出発し、GPUを科学計算や人工知能の重要な道具へと広げた。CUDAのソフトウェア環境、深層学習の計算、データセンター向け基盤は、その産業上の影響を理解する主要な軸である。",
-    "coverageNote": "本版は1963〜2024年の学習、起業、技術発展に焦点を当て、過去の役職を現在の在任状況として記述していない。出生都市は資料に相違があるため、台湾とのみ記載する。",
+    "coverageNote": "1963～2026年の学業、創業、製品開発の節目を選び、2026年11月11日付の退任を確認した。基準日の2026年11月13日時点で、本ページは独立調査の結論を認定していない。出生都市は資料間で異なるため台湾のみを記す。会社の全活動は網羅していない。",
     "tags.半导体": "半導体",
     "tags.GPU": "GPU",
     "tags.人工智能": "人工知能",
@@ -39,6 +39,31 @@
     "timeline.event-08.title": "電気工学の学部教育を修了",
     "timeline.event-08.text": "オレゴン州立大学を卒業し、キャリア初期にAMDとLSI Logicで働いた。",
     "timeline.event-09.title": "台湾に生まれる",
-    "timeline.event-09.text": "幼少期をアジアで過ごし、後にアメリカへ移住。学業と仕事はアジアと北米にまたがった。"
+    "timeline.event-09.text": "幼少期をアジアで過ごし、後にアメリカへ移住。学業と仕事はアジアと北米にまたがった。",
+    "timeline.event-2026-resignation.title": "NVIDIAの経営職と取締役を辞任",
+    "timeline.event-2026-resignation.text": "社長、CEO、取締役を辞任し、Colette Kressが暫定CEOに就任した。会社はその前に独立調査を開始しており、報道上の疑惑を確定した事実とみなしてはならない。",
+    "timeline.event-2026-rubin.title": "Vera Rubinシステムの量産拡大",
+    "timeline.event-2026-rubin.text": "NVIDIAは供給網のパートナーがVera Rubinシステムを大規模に生産していると発表した。製品上の進展であり、将来の導入計画すべての完了を意味しない。",
+    "timeline.event-2025-ultra.title": "Blackwell Ultraを発表",
+    "timeline.event-2025-ultra.text": "NVIDIAはBlackwell Ultraプラットフォームを発表し、AI推論向けのデータセンター製品群を拡充した。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-resignation.title",
+      "timeline.event-2026-resignation.text",
+      "timeline.event-2026-rubin.title",
+      "timeline.event-2026-rubin.text",
+      "timeline.event-2025-ultra.title",
+      "timeline.event-2025-ultra.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

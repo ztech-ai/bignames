@@ -1,5 +1,5 @@
 {
-  "sourceHash": "8f9f47e1f46ccfa4337989648ccb4c3901153baefbf1e5eabcda505dfda4301a",
+  "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
   "strings": {
     "name": "Michael Jackson",
     "role": "Chanteur et danseur · Figure de la pop et du clip musical",
@@ -41,6 +41,25 @@
     "timeline.event-10.title": "Début d'une carrière solo sur disque",
     "timeline.event-10.text": "Après le succès du groupe familial, il se lance comme chanteur solo et publie ensuite notamment Ben.",
     "timeline.event-11.title": "Naissance à Gary",
-    "timeline.event-11.text": "Né dans l'Indiana, il se produit dès l'enfance au sein des Jackson 5 avec ses frères."
+    "timeline.event-11.text": "Né dans l'Indiana, il se produit dès l'enfance au sein des Jackson 5 avec ses frères.",
+    "timeline.event-12.title": "Conclut un accord dans le procès civil lié aux accusations de 1993",
+    "timeline.event-12.text": "Il conclut un accord à l’amiable avec la partie représentant le garçon qui l’accuse d’abus sexuels sur mineur. Jackson continue de nier les accusations et son avocat déclare que l’accord ne constitue pas un aveu de culpabilité. Cette affaire est distincte du procès pénal de 2005.",
+    "timeline.event-13.title": "Sortie de Dangerous",
+    "timeline.event-13.text": "Il publie l’album studio Dangerous, qui comprend notamment « Black or White », « Remember the Time » et « Heal the World »."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

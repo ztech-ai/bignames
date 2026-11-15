@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d32fbbfb9105a1aa38cd9c5dabf0c06a7ca70582b2116c41e1ae084fe80184cc",
+  "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
   "strings": {
     "name": "Nelson Mandela",
     "role": "Wegbereiter des demokratischen Südafrika · Friedensnobelpreisträger",
     "country": "Südafrika",
     "summary": "Vom Rechtsanwalt und Aktivisten des African National Congress wurde Mandela zu einer Symbolfigur des Kampfes gegen die Apartheid. Nach bewaffnetem Widerstand und langer Haft beteiligte er sich nach seiner Freilassung an Verhandlungen zur Beendigung der weißen Minderheitsherrschaft. 1993 teilte er den Friedensnobelpreis mit F. W. de Klerk. Im folgenden Jahr wurde er nach demokratischen Wahlen Präsident Südafrikas. Nach einer Amtszeit trat er ab und widmete sich weiter gemeinnütziger Arbeit und gesellschaftlicher Versöhnung.",
-    "coverageNote": "Ausgewählte Lebensstationen von 1918 bis 2013, zusammengestellt anhand der Archive der Mandela Foundation und der Nobelpreisunterlagen.",
+    "coverageNote": "Ausgewählte Stationen des Kampfes gegen die Apartheid, des demokratischen Übergangs, der Präsidentschaft und der Wohltätigkeit von 1918 bis 2013, ergänzt um die Unterzeichnung der Verfassung und die Verringerung öffentlicher Auftritte. Stand der Prüfung: 2026-11-13; posthume Gedenkveranstaltungen gelten nicht als persönliche Aktivitäten. Familienleben und politische Debatten werden nicht vollständig erfasst.",
     "tags.反种族隔离": "Kampf gegen Apartheid",
     "tags.人权": "Menschenrechte",
     "tags.诺贝尔和平奖": "Friedensnobelpreis",
@@ -41,6 +41,30 @@
     "timeline.event-09.title": "Mitgründung der ANC-Jugendliga",
     "timeline.event-09.text": "Er trat dem African National Congress bei und gründete mit Mitstreitern dessen Jugendliga, um sich politisch gegen die Apartheid einzusetzen.",
     "timeline.event-10.title": "Geburt in Mvezo",
-    "timeline.event-10.text": "Er wurde im heutigen Ostkap Südafrikas geboren, studierte später unter anderem in Fort Hare und an der University of South Africa und schlug eine juristische Laufbahn ein."
+    "timeline.event-10.text": "Er wurde im heutigen Ostkap Südafrikas geboren, studierte später unter anderem in Fort Hare und an der University of South Africa und schlug eine juristische Laufbahn ein.",
+    "timeline.event-12.title": "Kündigt weniger öffentliche Auftritte an",
+    "timeline.event-12.text": "Kündigte den Rückzug aus einem dichten öffentlichen Terminkalender an, um mehr Zeit für Familie, Lesen und Schreiben zu haben; die verbundenen Stiftungen führten die gemeinnützige Arbeit fort.",
+    "timeline.event-11.title": "Unterzeichnet Südafrikas neue Verfassung",
+    "timeline.event-11.text": "Unterzeichnete in Sharpeville die Verfassung, die demokratische Institutionen und den Schutz der Rechte verankerte; sie trat am 4. Februar 1997 in Kraft.",
+    "timeline.event-13.title": "Gründet den Nelson Mandela Children’s Fund",
+    "timeline.event-13.text": "Gründete während seiner Präsidentschaft den Kinderfonds, um die Lebensbedingungen von Kindern zu verbessern, und machte Wohltätigkeit zum Teil seiner öffentlichen Arbeit."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
+    "fields": [
+      "coverageNote",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

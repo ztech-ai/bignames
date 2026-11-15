@@ -7,6 +7,7 @@ import { sourceStrings, validateTranslation, validateIntermediary, validateUI, v
 import { validateInfluence } from './influence.mjs';
 import { createHash } from 'node:crypto';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
+import { legacyExpectedBlobs } from './legacy-refresh.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const readJson = async name => JSON.parse(await readFile(path.join(root,name),'utf8'));
@@ -95,12 +96,15 @@ try {
       for(const event of person.timeline)assert(event.date.startsWith('-')||event.date<=collection.cutoffDate.slice(0,event.date.length),`${p.id}: event after research cutoff`);
     }
   }
+  let refresh=null;
+  try{refresh=await readJson('data/research/legacy-refresh-2026.json');}catch(error){if(error.code!=='ENOENT')throw error;}
+  const expectedLegacy=legacyExpectedBlobs(baseline,refresh);
   for(const item of baseline.profiles) {
     const bytes=await readFile(path.join(root,`data/people/${item.id}.json`));
     const hash=createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
-    assert.equal(hash,item.blob,`${item.id}: deferred legacy profile was changed`);
+    assert.equal(hash,expectedLegacy.get(item.id),`${item.id}: legacy profile differs from its approved revision`);
   }
-  console.log(`PASS: 1000 new candidates, all impact ratings >=3/5; ${baseline.profiles.length} deferred legacy dossiers preserved.`);
+  console.log(`PASS: 1000 new candidates, all impact ratings >=3/5; ${baseline.profiles.length} legacy dossiers ${refresh?'match the authorized career refresh':'match the original preserved baseline'}.`);
 } catch(error) {
   // A checkout predating the expansion remains buildable; incomplete campaigns do not.
   if(error.code!=='ENOENT'||!error.path?.endsWith('data/collections/contemporary-1000.json'))throw error;

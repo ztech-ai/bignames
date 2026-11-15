@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "Léonard de Vinci",
     "role": "Peintre · Explorateur de multiples savoirs à la Renaissance",
     "country": "États italiens / France",
     "summary": "Actif à Florence, Milan et à la cour de France, Léonard de Vinci marque la peinture européenne avec La Cène et La Joconde. Il applique observation, dessin et réflexion expérimentale à l'étude du corps, de la nature et des machines, laissant de nombreux manuscrits. Beaucoup de projets d'ingénierie restent à l'état de dessins, et plusieurs œuvres demeurent inachevées. Son importance tient autant aux peintures conservées qu'à sa méthode de recherche interdisciplinaire.",
-    "coverageNote": "Les datations des œuvres varient selon les études. Le début de La Joconde suit l'indication du Louvre, vers 1503. L'image ancienne du personnage est une œuvre d'art, non une photographie.",
+    "coverageNote": "Principaux repères biographiques, artistiques et anatomiques de 1452 à 1519. La datation des œuvres reste discutée ; pour La Joconde, on suit le Louvre, qui situe son commencement vers 1503. Les premiers portraits sont des œuvres d’art. Vérification arrêtée au 2026-11-13 ; les commémorations posthumes ne sont pas des activités personnelles.",
     "tags.文艺复兴": "Renaissance",
     "tags.绘画": "Peinture",
     "tags.解剖学": "Anatomie",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "Entrée dans la corporation des peintres",
     "timeline.event-09.text": "Formé dans l'atelier de Verrocchio, il rejoint la compagnie de Saint-Luc à Florence.",
     "timeline.event-10.title": "Naissance près de Vinci",
-    "timeline.event-10.text": "Il naît en Toscane et y passe sa jeunesse, avant d'apprendre les arts à Florence."
+    "timeline.event-10.text": "Il naît en Toscane et y passe sa jeunesse, avant d'apprendre les arts à Florence.",
+    "timeline.event-11.title": "Dessine méthodiquement l’anatomie humaine",
+    "timeline.event-11.text": "Étudie les os et les muscles par la dissection et représente l’anatomie humaine sous plusieurs angles ; le traité envisagé n’est pas publié de son vivant.",
+    "timeline.event-11.dateLabel": "Vers l’hiver 1510-1511"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

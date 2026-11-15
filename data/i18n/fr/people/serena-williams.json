@@ -1,11 +1,11 @@
 {
-  "sourceHash": "0ecf0fb171cb572346e06a5bf322844ccb62a5a5fd3507bf4cb2125d7110576a",
+  "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
   "strings": {
     "name": "Serena Williams",
     "role": "Joueuse de tennis · 23 titres du Grand Chelem en simple",
     "country": "États-Unis",
-    "summary": "Par la puissance de son service, son jeu de fond de court et sa longévité au plus haut niveau, Serena Williams marque le tennis féminin. Des terrains publics de Compton aux grandes compétitions mondiales, elle remporte 23 titres du Grand Chelem en simple et d'importants succès en double avec sa sœur Venus. Son parcours comprend des retours après blessure, des finales majeures après sa maternité, puis un retour au double professionnel en 2026 après son départ du circuit en 2022.",
-    "coverageNote": "Sélection de jalons professionnels jusqu'en septembre 2026. Le départ de 2022 et le retour en double de 2026 suivent les informations des organismes sportifs ; les classements ne sont pas actualisés en temps réel.",
+    "summary": "Serena Williams a marqué le tennis féminin par son service puissant, son jeu offensif de fond de court et sa longévité. Des courts publics de Compton, elle a rejoint la scène mondiale, remportant 23 titres du Grand Chelem en simple et de grands succès en double avec sa sœur Venus. Son parcours comprend des retours de blessure, des finales du Grand Chelem après une grossesse et un retour en double et en simple en 2026 après son départ en 2022.",
+    "coverageNote": "Jalons choisis jusqu’au 4 septembre 2026. Son retour et ses résultats de 2026 ont été recoupés avec les organisateurs et des médias indépendants ; les titres sont distingués du classement, sans classement en direct ni calendrier exhaustif.",
     "tags.网球": "Tennis",
     "tags.大满贯": "Grand Chelem",
     "tags.奥运会": "Jeux olympiques",
@@ -23,7 +23,7 @@
     "timeline.event-01.title": "Retour en double à l'US Open avec sa sœur",
     "timeline.event-01.text": "Associée de nouveau à Venus en double dames, elle s'incline au premier tour en trois sets.",
     "timeline.event-02.title": "Retour au double professionnel",
-    "timeline.event-02.text": "Au Queen's Club de Londres, elle fait équipe avec Victoria Mboko et remporte le premier tour.",
+    "timeline.event-02.text": "Gagne le premier tour avec Victoria Mboko au Queen’s Club de Londres ; elles déclarent ensuite forfait après la blessure de Mboko, sans remporter le tournoi.",
     "timeline.event-03.title": "Départ provisoire du circuit professionnel",
     "timeline.event-03.text": "Après sa défaite au troisième tour de l'US Open, elle quitte alors le circuit ; cette étape ne sera pas une fin définitive.",
     "timeline.event-04.title": "23e titre du Grand Chelem en simple",
@@ -41,6 +41,28 @@
     "timeline.event-10.title": "Premières qualifications professionnelles",
     "timeline.event-10.text": "À 14 ans, elle dispute les qualifications d'un tournoi professionnel à Québec et entre progressivement sur le circuit.",
     "timeline.event-11.title": "Naissance à Saginaw",
-    "timeline.event-11.text": "Elle déménage ensuite en Californie avec sa famille et pratique le tennis dès l'enfance aux côtés de sa sœur."
+    "timeline.event-11.text": "Elle déménage ensuite en Californie avec sa famille et pratique le tennis dès l'enfance aux côtés de sa sœur.",
+    "timeline.event-13.title": "Dispute le double mixte de l’US Open avec Alcaraz",
+    "timeline.event-13.text": "Gagne le premier tour avec Carlos Alcaraz, puis s’incline en quarts de finale face à Belinda Bencic et Flavio Cobolli.",
+    "timeline.event-12.title": "Revient en simple à Wimbledon",
+    "timeline.event-12.text": "Bénéficie d’une invitation à Wimbledon et s’incline en trois sets face à Maya Joint au premier tour, pour son premier match de simple depuis l’US Open 2022."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
+    "fields": [
+      "summary",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-02.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

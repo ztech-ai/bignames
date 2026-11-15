@@ -1,5 +1,5 @@
 {
-  "sourceHash": "8f9f47e1f46ccfa4337989648ccb4c3901153baefbf1e5eabcda505dfda4301a",
+  "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
   "strings": {
     "name": "Michael Jackson",
     "role": "Singer and dancer · A major figure in pop music and music videos",
@@ -41,6 +41,25 @@
     "timeline.event-10.title": "Begins a solo recording career",
     "timeline.event-10.text": "After success with his family group, began recording as a solo singer and later released works including Ben.",
     "timeline.event-11.title": "Born in Gary",
-    "timeline.event-11.text": "Born in Indiana, United States, and performed as a child with his brothers in the Jackson 5."
+    "timeline.event-11.text": "Born in Indiana, United States, and performed as a child with his brothers in the Jackson 5.",
+    "timeline.event-12.title": "Settles the civil lawsuit arising from the 1993 allegations",
+    "timeline.event-12.text": "He reaches an out-of-court settlement with the boy who alleged child sexual abuse and his representatives. Jackson continues to deny the allegations, and his lawyer states that the settlement is not an admission of guilt. This is a different case from the 2005 criminal trial.",
+    "timeline.event-13.title": "Releases Dangerous",
+    "timeline.event-13.text": "Releases the studio album Dangerous, including “Black or White,” “Remember the Time” and “Heal the World.”"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "Elon Musk",
     "role": "Empresario · Exploración espacial comercial y vehículos eléctricos",
     "country": "Sudáfrica / Canadá / Estados Unidos",
     "summary": "Desde los pagos por internet hasta los vehículos eléctricos y la actividad espacial comercial, Musk ha participado en la creación y expansión de varias empresas tecnológicas. Fundó SpaceX, invirtió en Tesla y la dirigió, impulsando la comercialización de cohetes reutilizables y automóviles eléctricos. Tras adquirir Twitter también intervino en la gestión de una plataforma social. Su estilo empresarial y sus declaraciones han generado controversias, y recibió sanciones regulatorias relacionadas con la divulgación de información bursátil.",
-    "coverageNote": "Esta edición selecciona hitos biográficos y profesionales de 1971 a 2023. La fecha de verificación no implica que la cronología cubra todas sus actividades posteriores.",
+    "coverageNote": "Hitos seleccionados de 1971 a 2026, con los ensayos de Starship, su etapa en la Casa Blanca, las integraciones de xAI y la salida a bolsa de SpaceX; verificados hasta el 13 de noviembre de 2026. Los logros de los ensayos no significan que los planes tripulados a la Luna o Marte estén completados. No se cubren todas las actividades empresariales.",
     "tags.电动汽车": "Vehículos eléctricos",
     "tags.商业航天": "Actividad espacial comercial",
     "tags.互联网": "Internet",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "Formación",
     "facts.fact-02.value": "Universidad de Pensilvania: títulos de grado en Economía y Física",
     "facts.fact-03.label": "Organizaciones vinculadas",
-    "facts.fact-03.value": "SpaceX, Tesla, X y Neuralink",
+    "facts.fact-03.value": "SpaceX, Tesla, X, xAI, Neuralink",
     "highlights.highlight-01.title": "Actividad espacial comercial",
     "highlights.highlight-01.text": "Fundó SpaceX, cuya Crew Dragon transportó por primera vez astronautas de la NASA a la Estación Espacial Internacional en 2020.",
     "highlights.highlight-02.title": "Comercialización de vehículos eléctricos",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "Cofunda Zip2",
     "timeline.event-09.text": "Desarrolló guías urbanas en línea con sus socios e inició su carrera empresarial en internet.",
     "timeline.event-10.title": "Nace en Pretoria",
-    "timeline.event-10.text": "Nació en Sudáfrica y posteriormente estudió en Canadá y Estados Unidos, cursando Economía y Física en la Universidad de Pensilvania."
+    "timeline.event-10.text": "Nació en Sudáfrica y posteriormente estudió en Canadá y Estados Unidos, cursando Economía y Física en la Universidad de Pensilvania.",
+    "timeline.event-2026-ipo.title": "SpaceX completa su salida a bolsa",
+    "timeline.event-2026-ipo.text": "Las acciones empezaron a cotizar el 12 de junio y la oferta pública inicial se cerró el 15 de junio. Esta ficha no utiliza clasificaciones de riqueza que varían con el mercado.",
+    "timeline.event-2026-xai.title": "SpaceX adquiere xAI",
+    "timeline.event-2026-xai.text": "SpaceX completó la adquisición de xAI, reuniendo inteligencia artificial, actividades espaciales y comunicaciones por satélite en un mismo grupo.",
+    "timeline.event-2025-government.title": "Termina su etapa como empleado gubernamental especial en la Casa Blanca",
+    "timeline.event-2025-government.text": "Como asesor principal del presidente, impulsó los recortes de gasto de DOGE. Salió en mayo; los despidos y la reorganización de agencias provocaron controversias.",
+    "timeline.event-2025-x-merger.title": "xAI adquiere X",
+    "timeline.event-2025-x-merger.text": "Una operación íntegramente en acciones integró la plataforma social X en xAI, antes de que SpaceX adquiriera xAI en 2026.",
+    "timeline.event-2024-booster.title": "Primera captura de Super Heavy por la torre",
+    "timeline.event-2024-booster.text": "En el quinto vuelo de prueba de Starship, SpaceX capturó por primera vez el propulsor de la primera etapa a su regreso con brazos mecánicos. No fue una misión tripulada a la Luna ni a Marte."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

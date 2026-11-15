@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d32fbbfb9105a1aa38cd9c5dabf0c06a7ca70582b2116c41e1ae084fe80184cc",
+  "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
   "strings": {
     "name": "ネルソン・マンデラ",
     "role": "南アフリカの民主化指導者 · ノーベル平和賞受賞者",
     "country": "南アフリカ",
     "summary": "マンデラは弁護士、アフリカ民族会議の活動家から反アパルトヘイト運動を代表する人物となった。武装抵抗と長期の投獄を経て、釈放後は白人少数支配を終わらせる交渉に参加した。1993年にデクラークとノーベル平和賞を共同受賞し、翌年、民主選挙後の南アフリカ大統領となった。1期を務めて退任し、その後も公益活動と社会の和解に取り組んだ。",
-    "coverageNote": "本版は1918〜2013年の主要な生涯の節目を、マンデラ財団の記録とノーベル賞資料の概要に基づいて整理した。",
+    "coverageNote": "1918〜2013年の反アパルトヘイト運動、民主化、在任期、公益活動の主な出来事を収録し、憲法署名と公的活動の縮小を追加した。確認の基準日は2026-11-13。死後の記念行事は本人の活動に含めない。家庭生活や政治的論争のすべてを網羅するものではない。",
     "tags.反种族隔离": "反アパルトヘイト",
     "tags.人权": "人権",
     "tags.诺贝尔和平奖": "ノーベル平和賞",
@@ -41,6 +41,30 @@
     "timeline.event-09.title": "アフリカ民族会議青年同盟の設立に参加",
     "timeline.event-09.text": "アフリカ民族会議に加入し、仲間と青年同盟を結成して反アパルトヘイトの政治活動に取り組んだ。",
     "timeline.event-10.title": "ムヴェゾに生まれる",
-    "timeline.event-10.text": "南アフリカの東ケープ地方に生まれ、後にフォートヘア大学や南アフリカ大学などで学び、法律家への道を進んだ。"
+    "timeline.event-10.text": "南アフリカの東ケープ地方に生まれ、後にフォートヘア大学や南アフリカ大学などで学び、法律家への道を進んだ。",
+    "timeline.event-12.title": "公的活動の縮小を表明",
+    "timeline.event-12.text": "多忙な公的生活から退き、家族、読書、執筆により多くの時間を充てると表明した。公益活動は関連する財団が引き継いだ。",
+    "timeline.event-11.title": "南アフリカの新憲法に署名",
+    "timeline.event-11.text": "シャープビルで憲法に署名し、民主的な制度と権利の保障を定めた。憲法は1997年2月4日に施行された。",
+    "timeline.event-13.title": "ネルソン・マンデラ児童基金を設立",
+    "timeline.event-13.text": "大統領在任中に児童基金を設立し、子どもたちの状況改善を支援して、公益活動を公的な仕事の一部とした。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
+    "fields": [
+      "coverageNote",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -84,6 +84,16 @@
       "id": "event-01"
     },
     {
+      "id": "event-12",
+      "date": "2004-06-01",
+      "title": "宣布减少公共活动",
+      "text": "宣布退出繁忙公共生活，把更多时间留给家人、阅读与写作，并由相关基金会延续公益工作。",
+      "sourceIds": [
+        "timeline",
+        "retirement"
+      ]
+    },
+    {
       "date": "1999",
       "title": "卸任总统，成立基金会",
       "text": "履行只任一届的承诺离任，并建立纳尔逊·曼德拉基金会，继续投入公共事业。",
@@ -91,6 +101,25 @@
         "timeline"
       ],
       "id": "event-02"
+    },
+    {
+      "id": "event-11",
+      "date": "1996-12-10",
+      "title": "签署南非新宪法",
+      "text": "在沙佩维尔签署宪法，确立民主制度与权利保障；宪法于1997年2月4日生效。",
+      "sourceIds": [
+        "constitution"
+      ]
+    },
+    {
+      "id": "event-13",
+      "date": "1995",
+      "title": "成立曼德拉儿童基金",
+      "text": "在总统任内成立儿童基金，支持改善儿童处境，将社会公益纳入其公共工作。",
+      "sourceIds": [
+        "bio",
+        "timeline"
+      ]
     },
     {
       "date": "1994-05-10",
@@ -184,8 +213,26 @@
       "title": "The Nobel Peace Prize 1993",
       "publisher": "挪威诺贝尔委员会",
       "url": "https://www.nobelpeaceprize.org/laureates/1993"
+    },
+    {
+      "id": "constitution",
+      "title": "25th Anniversary of the Constitution",
+      "publisher": "South African Department of Justice and Constitutional Development",
+      "url": "https://www.justice.gov.za/legislation/constitution/docs/25thAnniversary.html"
+    },
+    {
+      "id": "retirement",
+      "title": "Statement announcing retirement, Nelson Mandela, 1 June 2004",
+      "publisher": "South African History Online · archived statement",
+      "url": "https://sahistory.org.za/archive/statement-announcing-retirement-nelson-mandela-1-june-2004"
+    },
+    {
+      "id": "govbio",
+      "title": "Life and Times of Mandela",
+      "publisher": "South African Government",
+      "url": "https://www.gov.za/mandela100/biography"
     }
   ],
-  "coverageNote": "本版覆盖 1918—2013 年的主要生平节点，依据曼德拉基金会档案与诺贝尔奖资料摘要整理。",
+  "coverageNote": "选录1918—2013年的反种族隔离、民主转型、总统任期与公益节点，补入宪法签署及减少公共活动。复核截至2026-11-13，不将死后纪念列为本人活动；不穷尽家庭生活与全部政治争论。",
   "verifiedAt": "2026-11-13"
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "183fa60f298c2ee881db0cc022f451aac81dcb699bdf4b2c10d2a7745bc1e40b",
+  "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
   "strings": {
     "name": "マリ・キュリー",
     "role": "物理学者・化学者 · 放射能研究の先駆者",
     "country": "ポーランド / フランス",
     "summary": "マリ・キュリーはワルシャワに生まれ、パリで高等教育を受けて放射能研究に取り組んだ。ピエール・キュリーとポロニウム、ラジウムを発見し、放射性物質の分離と測定を進めた。1903年にノーベル物理学賞、1911年にノーベル化学賞を受賞。第一次世界大戦中には、移動式X線装置を使った負傷者の診療体制づくりにも参加した。",
-    "coverageNote": "生涯、研究、医学への応用に関する節目を収録。歴史上の国境と現在の国名は区別して説明する。",
+    "coverageNote": "1867〜1934年の主な生涯、研究、研究機関の整備、医学への応用を収録。1906年の講義の引き継ぎと1908年の正式な教授就任を区別する。確認の基準日は2026-11-13。死後の記念行事は本人の活動に含めない。",
     "tags.放射性": "放射能",
     "tags.物理学": "物理学",
     "tags.化学": "化学",
@@ -24,12 +24,12 @@
     "highlights.highlight-03.text": "移動式X線検査を推進し、放射線技術を負傷者の治療現場へ届けた。",
     "timeline.event-01.title": "フランスで死去",
     "timeline.event-01.text": "フランスのパシーで病死。研究と長年の放射線被ばくの経験も科学史の一部となった。",
-    "timeline.event-02.title": "移動式X線診療を組織",
-    "timeline.event-02.text": "第一次世界大戦初期に車両と装置を準備し、娘イレーヌとともに戦地での検査に参加した。",
+    "timeline.event-02.title": "ラジウム研究所と戦地のX線診療",
+    "timeline.event-02.text": "パリのラジウム研究所の建物が完成し、物理・化学研究を担当した。開戦後は移動式X線診療を組織し、娘イレーヌと検査に携わった。",
     "timeline.event-03.title": "ノーベル化学賞を受賞",
     "timeline.event-03.text": "ポロニウムとラジウムの発見、ラジウムの分離、その性質と化合物の研究によって受賞した。",
     "timeline.event-04.title": "パリ大学での教育を引き継ぐ",
-    "timeline.event-04.text": "ピエールが事故死した後、その講座を引き継ぎ、研究と教育を続けた。",
+    "timeline.event-04.text": "ピエールの事故死後、講義と研究室の仕事を引き継ぎ、1908年に正式に教授に就任した。",
     "timeline.event-05.title": "博士号取得とノーベル物理学賞受賞",
     "timeline.event-05.text": "物理学の博士研究を終え、ピエール・キュリー、ベクレルとノーベル物理学賞を共同受賞した。",
     "timeline.event-06.title": "ポロニウムとラジウムを発見",
@@ -39,6 +39,24 @@
     "timeline.event-08.title": "パリへ留学",
     "timeline.event-08.text": "ワルシャワを離れてパリに赴き、大学で物理学と数学を学んだ。",
     "timeline.event-09.title": "ワルシャワに生まれる",
-    "timeline.event-09.text": "本名はマリア・スクウォドフスカ。後にマリ・キュリーの名で研究を行った。"
+    "timeline.event-09.text": "本名はマリア・スクウォドフスカ。後にマリ・キュリーの名で研究を行った。",
+    "timeline.event-12.title": "ワルシャワのラジウム研究所の開所式に出席",
+    "timeline.event-12.text": "ワルシャワのラジウム研究所の開所式に参加し、研究資源の確保に向けた活動をポーランドにも広げた。",
+    "timeline.event-11.title": "研究用ラジウムを得るため米国へ渡航",
+    "timeline.event-11.text": "ジャーナリストのマリー・メロニーが進めた募金活動を受けて訪米し、ハーディング大統領から研究用のラジウム1グラムを受け取った。",
+    "timeline.event-10.title": "金属ラジウムを分離",
+    "timeline.event-10.text": "アンドレ・ドビエルヌと協力して金属ラジウムを分離した。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
+    "fields": [
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "sourceHash": "c4d31b1701621ae9059213c08882c7ac9b9eab70fad50a700a5c2a7ec1351f17",
+  "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
   "strings": {
     "name": "Frida Kahlo",
     "role": "Malerin · Körper und Identität im Selbstporträt",
@@ -39,6 +39,21 @@
     "timeline.event-09.title": "Schwerer Verkehrsunfall",
     "timeline.event-09.text": "Der Bus, in dem sie saß, kollidierte mit einer Straßenbahn. Sie wurde schwer verletzt und musste sich ihr Leben lang wiederholt behandeln lassen.",
     "timeline.event-10.title": "Geburt in Coyoacán",
-    "timeline.event-10.text": "Sie wurde im Haus ihrer Familie in Mexiko-Stadt geboren, das später als Blaues Haus bekannt wurde."
+    "timeline.event-10.text": "Sie wurde im Haus ihrer Familie in Mexiko-Stadt geboren, das später als Blaues Haus bekannt wurde.",
+    "timeline.event-11.title": "Erhält eine Ernennung zur Kunstlehrerin",
+    "timeline.event-11.text": "Das Archiv bewahrt ihre Ernennung zur Kunstlehrerin aus diesem Jahr auf. Sie unterrichtet an der La Esmeralda und verlegt ihre Kurse später aus gesundheitlichen Gründen nach Hause."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
+    "fields": [
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

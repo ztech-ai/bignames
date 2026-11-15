@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "Charles Chaplin",
     "role": "Actor y director · Figura esencial de la comedia muda",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "Viaja a Estados Unidos con su compañía",
     "timeline.event-10.text": "Llevó su experiencia de comedia teatral a Estados Unidos durante una gira con Fred Karno.",
     "timeline.event-11.title": "Nace en Londres",
-    "timeline.event-11.text": "Sus padres eran artistas de teatro. Creció en la pobreza y comenzó a actuar en una compañía infantil."
+    "timeline.event-11.text": "Sus padres eran artistas de teatro. Creció en la pobreza y comenzó a actuar en una compañía infantil.",
+    "timeline.event-12.title": "Recibe el título de caballero británico",
+    "timeline.event-12.text": "La reina Isabel II le concede el título de caballero.",
+    "timeline.event-13.title": "Estrena La quimera del oro",
+    "timeline.event-13.text": "Se estrena La quimera del oro, película muda que dirige y protagoniza y que se convierte en una de sus comedias de largometraje más representativas."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

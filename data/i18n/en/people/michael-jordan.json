@@ -1,11 +1,11 @@
 {
-  "sourceHash": "a4f800385868cc7e950e09df75059a9c089fcab53041654f415e3c1608708178",
+  "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
   "strings": {
     "name": "Michael Jordan",
     "role": "Basketball player · Six-time NBA champion",
     "country": "United States",
     "summary": "Michael Jordan is an American basketball player who won six NBA championships with the Chicago Bulls and five regular-season Most Valuable Player awards. Known for scoring, defense and performances in decisive games, he was also important to basketball’s global reach and the commercialization of athletes. His career included retirement, a move into baseball and two comebacks. He later entered team ownership and held a controlling interest in the Charlotte Hornets.",
-    "coverageNote": "Focuses on his playing career and his acquisition and sale of a controlling team interest in 2010 and 2023. Live business valuations are not tracked.",
+    "coverageNote": "Focuses on basketball and team ownership, with selected milestones through February 2026; life and racing-team status checked through November 2026. A Daytona 500 race victory is not a season championship; live business valuations are not tracked.",
     "tags.篮球": "Basketball",
     "tags.NBA": "NBA",
     "tags.奥运会": "Olympic Games",
@@ -41,6 +41,30 @@
     "timeline.event-10.title": "Wins the college national championship",
     "timeline.event-10.text": "As a North Carolina freshman, made a decisive basket in the NCAA final to help his team win the title.",
     "timeline.event-11.title": "Born in New York",
-    "timeline.event-11.text": "Born in Brooklyn and raised in Wilmington, North Carolina."
+    "timeline.event-11.text": "Born in Brooklyn and raised in Wilmington, North Carolina.",
+    "timeline.event-14.title": "23XI wins its first Daytona 500",
+    "timeline.event-14.text": "Driver Tyler Reddick won the Daytona 500 for 23XI, with Jordan celebrating as a team co-owner; this was a victory in an individual race.",
+    "timeline.event-13.title": "Team settles antitrust lawsuit with NASCAR",
+    "timeline.event-13.text": "His co-owned 23XI and Front Row Motorsports settled their antitrust suit against NASCAR. A joint statement provided for revised long-term charters; financial terms were confidential, and settlement was not a court finding of illegality.",
+    "timeline.event-12.title": "Co-founds 23XI Racing",
+    "timeline.event-12.text": "Co-founded the NASCAR team with Denny Hamlin and others; the team began competing in the Cup Series in 2021."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
+    "fields": [
+      "coverageNote",
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

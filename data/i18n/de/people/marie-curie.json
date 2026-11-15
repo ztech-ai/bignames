@@ -1,11 +1,11 @@
 {
-  "sourceHash": "183fa60f298c2ee881db0cc022f451aac81dcb699bdf4b2c10d2a7745bc1e40b",
+  "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
   "strings": {
     "name": "Marie Curie",
     "role": "Physikerin und Chemikerin · Pionierin der Radioaktivitätsforschung",
     "country": "Polen / Frankreich",
     "summary": "Marie Curie wurde in Warschau geboren, studierte in Paris und erforschte dort die Radioaktivität. Zusammen mit Pierre Curie entdeckte sie Polonium und Radium und entwickelte die Trennung und Messung radioaktiver Stoffe weiter. Sie erhielt den Physiknobelpreis 1903 und den Chemienobelpreis 1911. Im Ersten Weltkrieg wirkte sie außerdem am Aufbau mobiler Röntgendienste für Verwundete mit.",
-    "coverageNote": "Ausgewählte Stationen zu Leben, Forschung und medizinischen Anwendungen. Historische Grenzen und heutige Ländernamen werden unterschieden.",
+    "coverageNote": "Ausgewählte Lebensstationen, Forschungsarbeiten, Beiträge zum Aufbau von Forschungseinrichtungen und medizinische Anwendungen von 1867 bis 1934. Die Übernahme der Lehrveranstaltungen 1906 wird von der Ernennung zur ordentlichen Professorin 1908 unterschieden. Stand der Prüfung: 2026-11-13; posthume Gedenkveranstaltungen gelten nicht als persönliche Aktivitäten.",
     "tags.放射性": "Radioaktivität",
     "tags.物理学": "Physik",
     "tags.化学": "Chemie",
@@ -24,12 +24,12 @@
     "highlights.highlight-03.text": "Sie förderte mobile Röntgenuntersuchungen und brachte radiologische Technik unmittelbar zur Versorgung Verwundeter.",
     "timeline.event-01.title": "Tod in Frankreich",
     "timeline.event-01.text": "Sie starb nach Krankheit im französischen Passy. Ihre Forschung und die langjährige Strahlenbelastung gehören auch zur Wissenschaftsgeschichte.",
-    "timeline.event-02.title": "Aufbau mobiler Röntgendienste",
-    "timeline.event-02.text": "Zu Beginn des Ersten Weltkriegs organisierte sie Fahrzeuge und Geräte und führte mit ihrer Tochter Irène Untersuchungen im Kriegseinsatz durch.",
+    "timeline.event-02.title": "Radiuminstitut und Röntgendienste im Krieg",
+    "timeline.event-02.text": "Die Gebäude des Pariser Radiuminstituts wurden fertiggestellt; Curie leitete dort die physikalisch-chemische Forschung. Nach Kriegsbeginn organisierte sie mobile Röntgendienste und führte mit ihrer Tochter Irène Untersuchungen durch.",
     "timeline.event-03.title": "Chemienobelpreis",
     "timeline.event-03.text": "Sie wurde für die Entdeckung von Polonium und Radium, die Isolierung von Radium und die Erforschung seiner Eigenschaften und Verbindungen ausgezeichnet.",
     "timeline.event-04.title": "Übernahme der Lehre an der Universität Paris",
-    "timeline.event-04.text": "Nach Pierres Unfalltod übernahm sie seinen Lehrstuhl und setzte Forschung und Lehre fort.",
+    "timeline.event-04.text": "Übernahm nach Pierres Unfalltod seine Lehrveranstaltungen und die Laborarbeit; 1908 wurde sie zur ordentlichen Professorin ernannt.",
     "timeline.event-05.title": "Promotion und Physiknobelpreis",
     "timeline.event-05.text": "Sie schloss ihre Promotion in Physik ab und erhielt gemeinsam mit Pierre Curie und Henri Becquerel den Physiknobelpreis.",
     "timeline.event-06.title": "Entdeckung von Polonium und Radium",
@@ -39,6 +39,24 @@
     "timeline.event-08.title": "Studienbeginn in Paris",
     "timeline.event-08.text": "Sie verließ Warschau und ging nach Paris, um an der Universität Physik und Mathematik zu studieren.",
     "timeline.event-09.title": "Geburt in Warschau",
-    "timeline.event-09.text": "Sie wurde als Maria Skłodowska geboren und forschte später unter dem Namen Marie Curie."
+    "timeline.event-09.text": "Sie wurde als Maria Skłodowska geboren und forschte später unter dem Namen Marie Curie.",
+    "timeline.event-12.title": "Nimmt an der Eröffnung des Radiuminstituts in Warschau teil",
+    "timeline.event-12.text": "Nahm an der Einweihung des Radiuminstituts in Warschau teil und weitete ihre Bemühungen um Forschungsmittel auf Polen aus.",
+    "timeline.event-11.title": "Reist für Forschungsradium in die USA",
+    "timeline.event-11.text": "Reiste nach einer von der Journalistin Marie Meloney angestoßenen Spendenkampagne in die USA und erhielt von Präsident Harding ein Gramm Radium für die Forschung.",
+    "timeline.event-10.title": "Isoliert metallisches Radium",
+    "timeline.event-10.text": "Isolierte gemeinsam mit André Debierne metallisches Radium."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
+    "fields": [
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -28,7 +28,7 @@
     "计算机科学",
     "企业家"
   ],
-  "role": "Google 联合创始人 · 搜索技术",
+  "role": "Google 联合创始人 · Alphabet 董事",
   "summary": "佩奇与谢尔盖·布林在斯坦福开展网页链接分析研究，并由此创办 Google。以 PageRank 为代表的技术帮助改进网络信息检索，企业随后扩展到视频、移动操作系统和云服务。他两度参与 Google 的日常管理，并推动 Alphabet 架构形成；2019 年退出集团首席执行官岗位。",
   "highlights": [
     {
@@ -75,6 +75,45 @@
     }
   ],
   "timeline": [
+    {
+      "id": "event-2026-board",
+      "date": "2026-06-05",
+      "title": "再度当选 Alphabet 董事",
+      "text": "在年度股东大会上获选连任董事；其董事身份与2019年结束的CEO任期应分开理解。",
+      "sourceIds": [
+        "board-2026",
+        "proxy-2026"
+      ]
+    },
+    {
+      "id": "event-2025-remedies",
+      "date": "2025-09-02",
+      "title": "搜索案法院公布救济裁决",
+      "text": "法院要求Google分享部分搜索数据并限制排他性分发合同，但未强制出售Chrome；裁决要求不等同于已全面执行。",
+      "sourceIds": [
+        "search-remedies",
+        "remedies-independent"
+      ]
+    },
+    {
+      "id": "event-2025-dynatomics",
+      "date": "2025",
+      "title": "Dynatomics 创业项目获报道",
+      "text": "Business Insider据企业登记和知情人士报道其参与Dynatomics，探索AI与增材制造；本页不认定其产品已商业化。",
+      "sourceIds": [
+        "dynatomics"
+      ]
+    },
+    {
+      "id": "event-2024-antitrust",
+      "date": "2024-08-05",
+      "title": "Google 搜索业务被裁定违法垄断",
+      "text": "美国地区法院裁定Google违法维持搜索及搜索文字广告垄断；这是对公司的裁定，并非佩奇个人被判违法。",
+      "sourceIds": [
+        "search-ruling",
+        "ruling-independent"
+      ]
+    },
     {
       "date": "2019-12-03",
       "title": "卸任 Alphabet 首席执行官",
@@ -183,8 +222,50 @@
       "title": "A letter from Larry and Sergey",
       "publisher": "Google / Alphabet",
       "url": "https://blog.google/alphabet/letter-from-larry-and-sergey/"
+    },
+    {
+      "id": "board-2026",
+      "title": "2026 Annual Meeting of Shareholders: director election results",
+      "publisher": "Alphabet",
+      "url": "https://abc.xyz/investor/annual-meeting/"
+    },
+    {
+      "id": "proxy-2026",
+      "title": "Alphabet 2026 Proxy Statement",
+      "publisher": "Alphabet · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm"
+    },
+    {
+      "id": "dynatomics",
+      "title": "Inside Larry Page’s secret bet to 3D-print the future of air travel",
+      "publisher": "Business Insider",
+      "url": "https://www.businessinsider.com/larry-page-new-aviation-startup-dynatomics-2025-1"
+    },
+    {
+      "id": "search-ruling",
+      "title": "Google search antitrust ruling",
+      "publisher": "California Department of Justice",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-google-search-ruling-historic-antitrust-win"
+    },
+    {
+      "id": "ruling-independent",
+      "title": "Google violated antitrust laws to maintain dominance over online search, judge says",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/Business/google-violated-antitrust-laws-maintain-dominance-online-search/story?id=112591120"
+    },
+    {
+      "id": "search-remedies",
+      "title": "Department of Justice Wins Significant Remedies Against Google",
+      "publisher": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google"
+    },
+    {
+      "id": "remedies-independent",
+      "title": "Google keeps Chrome and Apple deal but must share data in big antitrust ruling",
+      "publisher": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-orders-google-to-share-search-data-with-competitors-4220187"
     }
   ],
-  "coverageNote": "本版选录 1973—2019 年的公开生平与企业管理节点；后续投资与私人活动未作持续追踪。",
+  "coverageNote": "选录1973—2026年事业节点，补入董事连任、创业报道与Google反垄断裁决；研究截至2026-11-13。创业报道不等于产品完成，未持续追踪私人投资或穷尽公司诉讼。",
   "verifiedAt": "2026-11-13"
 }

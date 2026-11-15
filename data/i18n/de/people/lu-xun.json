@@ -1,5 +1,5 @@
 {
-  "sourceHash": "37671914bdba1ba2a564e819a8956d51f81cfdb113300a0242957c761110b293",
+  "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
   "strings": {
     "name": "Lu Xun",
     "role": "Schriftsteller · Wegbereiter der modernen Literatur",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "Studienreise nach Japan",
     "timeline.event-10.text": "Zunächst besuchte er das Kōbun-Institut in Tokio, bevor er 1904 an die Medizinische Fachschule Sendai wechselte.",
     "timeline.event-11.title": "Geburt in Shaoxing",
-    "timeline.event-11.text": "Er wuchs in Shaoxing in Zhejiang auf und besuchte später moderne Schulen in Nanjing, wo er Naturwissenschaften und übersetzte Literatur kennenlernte."
+    "timeline.event-11.text": "Er wuchs in Shaoxing in Zhejiang auf und besuchte später moderne Schulen in Nanjing, wo er Naturwissenschaften und übersetzte Literatur kennenlernte.",
+    "timeline.event-13.title": "Beginnt nebenberuflich an Pekinger Hochschulen zu lehren",
+    "timeline.event-13.text": "Ab Herbst lehrt er nebenberuflich an der Peking-Universität und anderen Einrichtungen die Geschichte der chinesischen Erzählliteratur. Aus seinen Vorlesungsunterlagen entsteht später Eine kurze Geschichte der chinesischen Erzählliteratur.",
+    "timeline.event-12.title": "Tritt in das Bildungsministerium ein und zieht nach Peking",
+    "timeline.event-12.text": "Auf Einladung Cai Yuanpeis tritt er in Nanjing in das Bildungsministerium ein und zieht mit ihm im Mai nach Peking, wo er sich mit gesellschaftlicher Bildung und Kulturangelegenheiten befasst."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
+    "fields": [
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

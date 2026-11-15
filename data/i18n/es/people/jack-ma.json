@@ -1,11 +1,11 @@
 {
-  "sourceHash": "92c44e5b5439a0d1e8fb5f90ebbd65ccc99fd013f0707ef2f4ed8a3edf98daee",
+  "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
   "strings": {
     "name": "Jack Ma",
     "role": "Empresario · Cofundador de Alibaba",
     "country": "China",
     "summary": "Jack Ma es cofundador de Alibaba y fue su director ejecutivo y presidente del consejo. Pasó de la enseñanza del inglés al emprendimiento en internet y participó en el desarrollo del comercio electrónico y los pagos en línea. Tras dejar la presidencia en 2019, dedicó mayor atención a la filantropía educativa. Su trayectoria también se cruza con debates sobre la gestión de plataformas y la regulación financiera; la suspensión de la salida a bolsa de Ant Group en 2020 fue un punto de inflexión.",
-    "coverageNote": "Selección de hitos empresariales, de gobierno corporativo y filantrópicos, principalmente hasta 2023. Los cambios de una compañía no equivalen a logros realizados por una sola persona.",
+    "coverageNote": "Hitos seleccionados de fundación, gobierno corporativo y filantropía educativa entre 1964 y 2026, con el simposio empresarial de 2025 y el encuentro docente de 2026; fecha límite de investigación: 13 de noviembre de 2026. Ma es cofundador y socio de Alibaba, ya no su CEO ni presidente del consejo. Los logros de la empresa no son exclusivamente personales.",
     "tags.电子商务": "Comercio electrónico",
     "tags.阿里巴巴": "Alibaba",
     "tags.数字支付": "Pagos digitales",
@@ -23,7 +23,7 @@
     "highlights.highlight-03.title": "Filantropía educativa",
     "highlights.highlight-03.text": "Creó la Fundación Jack Ma en 2014 para desarrollar proyectos como la educación rural.",
     "timeline.event-01.title": "Ant Group modifica su estructura de control",
-    "timeline.event-01.text": "La compañía anunció cambios en los derechos de voto de sus accionistas; Ma dejó de controlar Ant Group.",
+    "timeline.event-01.text": "Ant anunció cambios propuestos en los derechos de voto de los accionistas que pondrían fin al control de Ma; entonces aún necesitaban aprobación regulatoria.",
     "timeline.event-02.title": "Se suspende la salida a bolsa de Ant Group",
     "timeline.event-02.text": "La Bolsa de Shanghái suspendió su cotización prevista en el mercado STAR, un giro importante en el desarrollo del negocio.",
     "timeline.event-03.title": "Deja la presidencia del consejo de Alibaba",
@@ -43,6 +43,27 @@
     "timeline.event-10.title": "Termina sus estudios de Inglés",
     "timeline.event-10.text": "Tras graduarse enseñó inglés y más tarde pasó a la traducción y al emprendimiento en internet.",
     "timeline.event-11.title": "Nace en Hangzhou",
-    "timeline.event-11.text": "Nació y creció en Hangzhou; el aprendizaje del inglés fue una parte importante de su juventud."
+    "timeline.event-11.text": "Nació y creció en Hangzhou; el aprendizaje del inglés fue una parte importante de su juventud.",
+    "timeline.event-2026-teachers.title": "Continúa el diálogo con docentes rurales",
+    "timeline.event-2026-teachers.text": "Participó en el undécimo encuentro anual de la festividad de Laba, conversando con docentes rurales sobre educación y curiosidad en la era de la IA.",
+    "timeline.event-2025-symposium.title": "Asiste al simposio de empresas privadas",
+    "timeline.event-2025-symposium.text": "Asistió en Pekín a la reunión de Xi Jinping con representantes de empresas privadas. Esta aparición pública no supuso que retomara la dirección ejecutiva o la presidencia de Alibaba."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "fields": [
+      "coverageNote",
+      "timeline.event-2026-teachers.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

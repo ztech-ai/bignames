@@ -1,0 +1,37 @@
+{
+  "id": "ada-lovelace",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "1852-11-27",
+  "sourceUrls": [
+    "https://www.computerhistory.org/babbage/adalovelace",
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/"
+  ],
+  "lifeStatusEvidence": "https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/",
+  "editorialNotes": [
+    "将event-07会面日期由1833细化至1833-06-05，依据MacTutor；同时保留差分机演示与分析机后续合作的区别。",
+    "CHM与MacTutor覆盖出生、私人教育、Somerville与De Morgan、婚姻、1843译注和死亡，现有主要节点无需新增人生事件。保留首位程序员的历史争议，不把通用计算远见等同于独自完成分析机。",
+    "MacTutor正文年龄误写37，与其顶部生卒日期不合；保留可由生卒日期计算的36岁，未传播此误差。",
+    "本次为已故人物历史履历复核，没有新增2026本人活动；未尝试穷尽家庭、每封书信或全部论文。",
+    "保留稳定条目ID与未变正文；七个目标语言仅对实际变更作AI逐字段审阅，并审阅日期、来源及排序等sharedFacts。未新增评级或英文参考provenance。",
+    "AI采编与多语审阅记录是实际工作声明，不是人工史学审校、母语认证或照片复审；肖像未变更。"
+  ],
+  "translationReview": {
+    "kind": "ai",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "method": "validated snapshots plus reviewed incremental export/import",
+    "humanOrNativeCertification": false
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "Tu Youyou",
     "role": "Científica farmacéutica · Pionera de la investigación de la artemisinina",
     "country": "China",
     "summary": "Tu Youyou es una científica farmacéutica china. En el proyecto antipalúdico 523 dirigió su grupo de investigación, que partió de textos tradicionales y del cribado de sustancias para mejorar la extracción de Artemisia annua y participar en el descubrimiento y la validación de la artemisinina. Investigaciones posteriores de varias instituciones impulsaron conjuntamente su desarrollo farmacéutico y uso clínico. Recibió el Premio Lasker de Investigación Médica Clínica de 2011 y el Nobel de Fisiología o Medicina de 2015.",
-    "coverageNote": "La página se centra en la investigación de la artemisinina y en premios relevantes hasta 2019. Destaca la colaboración entre instituciones y no ofrece un seguimiento científico en tiempo real.",
+    "coverageNote": "Se centra en la investigación colaborativa de la artemisinina y los principales honores hasta abril de 2025. En noviembre de 2026 se revisó la información institucional sobre su cargo actual; no es un seguimiento de la investigación en tiempo real.",
     "tags.药学": "Farmacia",
     "tags.青蒿素": "Artemisinina",
     "tags.抗疟疾": "Tratamiento de la malaria",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "Se gradúa e ingresa en una institución de medicina china",
     "timeline.event-11.text": "Después de estudiar Farmacia en la Facultad de Medicina de Pekín, comenzó a investigar medicamentos tradicionales chinos.",
     "timeline.event-12.title": "Nace en Ningbo",
-    "timeline.event-12.text": "Nació en Zhejiang y posteriormente eligió la farmacia como campo de estudio e investigación."
+    "timeline.event-12.text": "Nació en Zhejiang y posteriormente eligió la farmacia como campo de estudio e investigación.",
+    "timeline.event-13.title": "Elegida miembro internacional de la Academia Nacional de Ciencias de Estados Unidos",
+    "timeline.event-13.text": "La Academia Nacional de Ciencias de Estados Unidos anunció su elección como miembro internacional en reconocimiento a sus continuas aportaciones a la investigación original; esta condición es distinta de la pertenencia a la Academia China de Ciencias."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "daceb61eeee32d31b10a3efb3e0c72c93622e97736c8b222d622fc5f7061a912",
+  "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
   "strings": {
     "name": "Warren Buffett",
-    "role": "Investor · Long-time leader of Berkshire Hathaway",
+    "role": "Investor · Berkshire chairman emeritus and director",
     "country": "United States",
     "summary": "Warren Buffett is known for value investing and long-term capital allocation. After gaining control of Berkshire Hathaway in 1965, he gradually transformed a textile company into a diversified group. His investing approach emphasizes business fundamentals, management and a margin of safety. He has also supported philanthropy through stock donations and the Giving Pledge. Berkshire completed its CEO succession at the start of 2026.",
-    "coverageNote": "Selected milestones in entrepreneurship, investing and philanthropy, with the CEO transition verified through January 2026. Does not provide live job titles, wealth rankings or investment advice.",
+    "coverageNote": "Selected investment and philanthropy milestones from 1930–2026, adding the CEO and chairman handovers and that year’s stock gifts. His role was checked against the September 18, 2026 company announcement; research cutoff: November 13, 2026. Investment transactions are not covered exhaustively; this is not a live wealth ranking or investment advice.",
     "tags.价值投资": "Value investing",
     "tags.伯克希尔": "Berkshire Hathaway",
     "tags.资本配置": "Capital allocation",
@@ -39,6 +39,27 @@
     "timeline.event-08.title": "Completes his studies at Columbia",
     "timeline.event-08.text": "Earned a master’s degree after studying with Benjamin Graham.",
     "timeline.event-09.title": "Born in Omaha",
-    "timeline.event-09.text": "Grew up in the United States and gained early business experience delivering newspapers and running other small ventures."
+    "timeline.event-09.text": "Grew up in the United States and gained early business experience delivering newspapers and running other small ventures.",
+    "timeline.event-2026-chair.title": "Becomes chairman emeritus and remains a director",
+    "timeline.event-2026-chair.text": "Howard Buffett became board chairman; Buffett became chairman emeritus and retained his board seat. Greg Abel remained CEO after taking over in January.",
+    "timeline.event-2026-donation.title": "Donates stock to four family foundations",
+    "timeline.event-2026-donation.text": "Donated 12 million Berkshire Class B shares. He also stopped donations to the Gates Foundation that year, changing a longstanding philanthropic partnership."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-chair.title",
+      "timeline.event-2026-chair.text",
+      "timeline.event-2026-donation.title",
+      "timeline.event-2026-donation.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

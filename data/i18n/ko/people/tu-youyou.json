@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "투유유",
     "role": "약학자 · 아르테미시닌 연구의 선구자",
     "country": "중국",
     "summary": "투유유는 중국의 약학자다. ‘523’ 항말라리아 연구에서 자신의 연구팀을 이끌며 전통 문헌과 약물 선별을 바탕으로 개똥쑥 추출 공정을 개선하고 아르테미시닌의 발견과 검증에 참여했다. 여러 기관의 후속 연구가 함께 약물 개발과 임상 활용을 발전시켰다. 2011년 래스커 임상의학연구상과 2015년 노벨 생리의학상을 받았다.",
-    "coverageNote": "주로 아르테미시닌 연구와 2019년까지의 주요 수상 사건을 다룬다. 여러 기관의 협력을 강조하며 실시간 연구 동향을 제공하지 않는다.",
+    "coverageNote": "아르테미시닌 공동연구와 2025년 4월까지의 주요 영예를 중심으로 다룬다. 2026년 11월 기관의 현직 자료를 확인했으며 연구 동향을 실시간으로 정리하지는 않는다.",
     "tags.药学": "약학",
     "tags.青蒿素": "아르테미시닌",
     "tags.抗疟疾": "항말라리아",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "졸업 후 중의약 연구기관 합류",
     "timeline.event-11.text": "베이징 의학원에서 약학을 마친 뒤 중약 연구 업무에 들어갔다.",
     "timeline.event-12.title": "닝보에서 출생",
-    "timeline.event-12.text": "저장성 닝보에서 태어났으며 이후 약학을 학업과 연구의 방향으로 선택했다."
+    "timeline.event-12.text": "저장성 닝보에서 태어났으며 이후 약학을 학업과 연구의 방향으로 선택했다.",
+    "timeline.event-13.title": "미국 국립과학원 외국인 회원으로 선출",
+    "timeline.event-13.text": "미국 국립과학원은 지속적인 독창적 연구 공헌을 인정해 외국인 회원 선출을 발표했다. 이는 중국과학원 원사 자격과는 다르다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "794a754b473f43b4a1e2939b16e321970551aa926bfd686a5bc3ef56ca1652ee",
+  "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
   "strings": {
     "name": "Emmanuel Macron",
     "role": "French politician · President of the Fifth Republic",
     "country": "France",
     "summary": "Macron entered French politics after studying philosophy and public administration and working in public finance and investment banking. He served as deputy secretary-general of the presidency and economy minister, then founded En Marche! He was first elected president in 2017 and re-elected in 2022. Pension reform and the 2024 dissolution of the National Assembly were major policy and decision points that prompted political debate during his presidency.",
-    "coverageNote": "Selected milestones from 1977 to 2024. The pension entry describes the arrangements in the 2023 reform and is not a statement of current policy.",
+    "coverageNote": "Selected milestones through October 2025; life and presidential status checked on November 13, 2026. The pension entry describes the 2023 reform and is not a statement of current policy.",
     "tags.法国政治": "French politics",
     "tags.总统": "Presidents",
     "tags.公共政策": "Public policy",
@@ -22,7 +22,7 @@
     "highlights.highlight-03.title": "Pension reform",
     "highlights.highlight-03.text": "The 2023 reform provided for a gradual increase in the statutory retirement age from 62 to 64 amid widespread protests.",
     "timeline.event-01.title": "Announces dissolution of the National Assembly",
-    "timeline.event-01.text": "Dissolved the National Assembly under Article 12 of the constitution, initiating the process for early parliamentary elections.",
+    "timeline.event-01.text": "Dissolved the National Assembly under Article 12 of the Constitution; the ensuing snap election produced a hung parliament in which none of the three main blocs held an absolute majority.",
     "timeline.event-02.title": "Pension reform becomes a political focal point",
     "timeline.event-02.text": "The reform law was promulgated with provisions to raise the retirement age gradually, following multiple rounds of nationwide protests.",
     "timeline.event-03.title": "Re-elected president of France",
@@ -40,6 +40,23 @@
     "timeline.event-09.title": "Completes administrative training",
     "timeline.event-09.text": "Graduated from the École nationale d’administration and joined the General Inspectorate of Finance, beginning his public-administration career.",
     "timeline.event-10.title": "Born in Amiens",
-    "timeline.event-10.text": "Born in Amiens in northern France; later studied philosophy and trained in public administration."
+    "timeline.event-10.text": "Born in Amiens in northern France; later studied philosophy and trained in public administration.",
+    "timeline.event-11.title": "Reappoints Lecornu as prime minister",
+    "timeline.event-11.text": "Reappointed Sébastien Lecornu four days after his resignation, seeking support in a divided parliament and progress on the budget amid a major government crisis during his second term."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

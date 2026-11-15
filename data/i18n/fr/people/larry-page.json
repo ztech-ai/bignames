@@ -1,11 +1,11 @@
 {
-  "sourceHash": "2cf9e0b1bbc7a16429bb994cae027d0db0e79d3df5f9d6360baa3fa8b36602a7",
+  "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
   "strings": {
     "name": "Larry Page",
-    "role": "Cofondateur de Google · Technologies de recherche",
+    "role": "Cofondateur de Google · Administrateur d’Alphabet",
     "country": "États-Unis",
     "summary": "À Stanford, Larry Page et Sergey Brin étudient l'analyse des liens entre pages web, puis fondent Google. Des techniques comme PageRank améliorent la recherche d'information ; l'entreprise s'étend ensuite à la vidéo, aux systèmes d'exploitation mobiles et au cloud. Page participe à deux reprises à la gestion quotidienne de Google et contribue à la création de la structure Alphabet. Il quitte la direction générale du groupe en 2019.",
-    "coverageNote": "Sélection de repères biographiques publics et de responsabilités de gestion entre 1973 et 2019 ; ses investissements et activités privées ultérieurs ne font pas l'objet d'un suivi continu.",
+    "coverageNote": "Jalons professionnels choisis de 1973 à 2026, complétés par sa réélection au conseil, des informations sur une nouvelle entreprise et les décisions antitrust concernant Google ; recherches arrêtées au 13 novembre 2026. Un article sur une entreprise ne prouve pas l’achèvement d’un produit. Les investissements privés ne sont pas suivis en continu et les litiges ne sont pas couverts exhaustivement.",
     "tags.搜索引擎": "Moteurs de recherche",
     "tags.互联网": "Internet",
     "tags.计算机科学": "Informatique",
@@ -39,6 +39,35 @@
     "timeline.event-08.title": "Arrivée dans l'environnement de recherche de Stanford",
     "timeline.event-08.text": "Après son diplôme de l'université du Michigan, il rejoint Stanford, rencontre Brin et développe avec lui des recherches sur les moteurs de recherche.",
     "timeline.event-09.title": "Naissance dans le Michigan",
-    "timeline.event-09.text": "Né dans la région de Lansing, il étudie l'ingénierie à l'université du Michigan avant de poursuivre à Stanford."
+    "timeline.event-09.text": "Né dans la région de Lansing, il étudie l'ingénierie à l'université du Michigan avant de poursuivre à Stanford.",
+    "timeline.event-2026-board.title": "Réélection au conseil d’Alphabet",
+    "timeline.event-2026-board.text": "Il a été réélu lors de l’assemblée générale annuelle. Son mandat d’administrateur se distingue de celui de directeur général, terminé en 2019.",
+    "timeline.event-2025-remedies.title": "Décision sur les mesures correctives dans l’affaire de la recherche",
+    "timeline.event-2025-remedies.text": "Le tribunal a ordonné à Google de partager certaines données de recherche et restreint les accords de distribution exclusifs, sans imposer la vente de Chrome. Les mesures ordonnées ne prouvent pas leur exécution complète.",
+    "timeline.event-2025-dynatomics.title": "Des articles décrivent le projet Dynatomics",
+    "timeline.event-2025-dynatomics.text": "S’appuyant sur des documents d’entreprise et des sources informées, Business Insider a rapporté sa participation à Dynatomics, qui explore l’IA et la fabrication additive. Cette fiche n’atteste pas de commercialisation de produits.",
+    "timeline.event-2024-antitrust.title": "Monopoles illégaux constatés dans la recherche de Google",
+    "timeline.event-2024-antitrust.text": "Un tribunal fédéral américain a jugé que Google maintenait illégalement des monopoles sur la recherche et les annonces textuelles associées. Cette décision vise l’entreprise, et ne constate pas une infraction personnelle de Page."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-board.title",
+      "timeline.event-2026-board.text",
+      "timeline.event-2025-remedies.title",
+      "timeline.event-2025-remedies.text",
+      "timeline.event-2025-dynatomics.title",
+      "timeline.event-2025-dynatomics.text",
+      "timeline.event-2024-antitrust.title",
+      "timeline.event-2024-antitrust.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

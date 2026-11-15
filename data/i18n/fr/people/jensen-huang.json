@@ -1,11 +1,11 @@
 {
-  "sourceHash": "8c78772140c5cf7cd69b058c6dc49e59637aa081ba2ec32e96618ca5ab61e42d",
+  "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
   "strings": {
     "name": "Jensen Huang",
-    "role": "Cofondateur de NVIDIA · Calcul accéléré",
+    "role": "Cofondateur de NVIDIA · Ancien directeur général",
     "country": "États-Unis",
     "summary": "Jensen Huang, cofondateur de NVIDIA, quitte Taïwan pour les États-Unis dans sa jeunesse et se forme au génie électrique. Son équipe commence par les puces graphiques pour ordinateurs personnels, puis transforme progressivement les GPU en outils majeurs de la recherche scientifique et de l'intelligence artificielle. L'écosystème logiciel CUDA, le calcul pour l'apprentissage profond et les plateformes de centres de données structurent son influence industrielle.",
-    "coverageNote": "Cette édition porte sur ses études, son parcours entrepreneurial et les développements technologiques entre 1963 et 2024, sans présenter ses anciennes fonctions comme des postes actuels. Les sources divergent sur sa ville de naissance ; seule Taïwan est indiquée.",
+    "coverageNote": "Jalons choisis de 1963 à 2026 : formation, création d’entreprise et produits, avec son départ effectif le 11 novembre 2026. À la date limite du 13 novembre 2026, cette fiche ne conclut pas sur l’enquête indépendante. Les sources divergent sur sa ville natale ; seule Taïwan est indiquée. Les activités de l’entreprise ne sont pas couvertes exhaustivement.",
     "tags.半导体": "Semi-conducteurs",
     "tags.GPU": "GPU",
     "tags.人工智能": "Intelligence artificielle",
@@ -39,6 +39,31 @@
     "timeline.event-08.title": "Diplôme de génie électrique",
     "timeline.event-08.text": "Il termine ses études à l'université d'État de l'Oregon ; il travaille ensuite chez AMD et LSI Logic au début de sa carrière.",
     "timeline.event-09.title": "Naissance à Taïwan",
-    "timeline.event-09.text": "Il passe une partie de son enfance en Asie avant d'émigrer aux États-Unis ; sa formation et sa carrière relient l'Asie à l'Amérique du Nord."
+    "timeline.event-09.text": "Il passe une partie de son enfance en Asie avant d'émigrer aux États-Unis ; sa formation et sa carrière relient l'Asie à l'Amérique du Nord.",
+    "timeline.event-2026-resignation.title": "Démission de ses fonctions de direction et d’administrateur de NVIDIA",
+    "timeline.event-2026-resignation.text": "Il a quitté la présidence, la direction générale et le conseil ; Colette Kress est devenue directrice générale par intérim. Une enquête indépendante avait été ouverte ; les accusations rapportées ne constituent pas des conclusions établies.",
+    "timeline.event-2026-rubin.title": "Montée en cadence des systèmes Vera Rubin",
+    "timeline.event-2026-rubin.text": "NVIDIA a annoncé la production à grande échelle de systèmes Vera Rubin par ses partenaires. Cette étape industrielle ne signifie pas que tous les déploiements prévus sont achevés.",
+    "timeline.event-2025-ultra.title": "Présentation de Blackwell Ultra",
+    "timeline.event-2025-ultra.text": "NVIDIA a annoncé la plateforme Blackwell Ultra, élargissant sa gamme pour centres de données dédiée au raisonnement par IA."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-resignation.title",
+      "timeline.event-2026-resignation.text",
+      "timeline.event-2026-rubin.title",
+      "timeline.event-2026-rubin.text",
+      "timeline.event-2025-ultra.title",
+      "timeline.event-2025-ultra.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

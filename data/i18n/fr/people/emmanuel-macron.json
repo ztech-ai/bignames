@@ -1,11 +1,11 @@
 {
-  "sourceHash": "794a754b473f43b4a1e2939b16e321970551aa926bfd686a5bc3ef56ca1652ee",
+  "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
   "strings": {
     "name": "Emmanuel Macron",
     "role": "Personnalité politique française · Président de la Ve République",
     "country": "France",
     "summary": "Après une formation en philosophie et en administration, puis des postes dans les finances publiques et la banque d'affaires, Emmanuel Macron entre en politique. Il est secrétaire général adjoint de l'Élysée puis ministre de l'Économie. Fondateur du mouvement En Marche !, il est élu président en 2017 et réélu en 2022. La réforme des retraites et la dissolution de l'Assemblée nationale en 2024 sont des décisions majeures de ses mandats, accompagnées d'importants débats politiques.",
-    "coverageNote": "Sélection des principales étapes entre 1977 et 2024. L'entrée sur les retraites décrit les dispositions de la réforme de 2023, sans prétendre exposer le droit actuellement en vigueur.",
+    "coverageNote": "Jalons choisis jusqu’en octobre 2025 ; statut de personne en vie et de président vérifié le 13 novembre 2026. L’entrée sur les retraites décrit la réforme de 2023, sans présenter la politique actuellement en vigueur.",
     "tags.法国政治": "Politique française",
     "tags.总统": "Présidence",
     "tags.公共政策": "Politiques publiques",
@@ -22,7 +22,7 @@
     "highlights.highlight-03.title": "Réforme du système de retraite",
     "highlights.highlight-03.text": "La réforme de 2023 prévoit de relever progressivement l'âge légal de 62 à 64 ans et suscite de vastes manifestations.",
     "timeline.event-01.title": "Annonce de la dissolution de l'Assemblée nationale",
-    "timeline.event-01.text": "Il dissout l'Assemblée en application de l'article 12 de la Constitution et engage le processus d'élections législatives anticipées.",
+    "timeline.event-01.text": "Dissout l’Assemblée nationale en vertu de l’article 12 de la Constitution ; les élections anticipées qui suivent débouchent sur une assemblée où aucun des trois grands blocs ne détient la majorité absolue.",
     "timeline.event-02.title": "La réforme des retraites au centre du débat",
     "timeline.event-02.text": "La loi est promulguée et prévoit une hausse progressive de l'âge de départ, après plusieurs mobilisations nationales.",
     "timeline.event-03.title": "Réélection à la présidence",
@@ -40,6 +40,23 @@
     "timeline.event-09.title": "Sortie de l'ENA",
     "timeline.event-09.text": "Diplômé de l'École nationale d'administration, il rejoint l'Inspection générale des finances et commence sa carrière administrative.",
     "timeline.event-10.title": "Naissance à Amiens",
-    "timeline.event-10.text": "Il naît dans le nord de la France, puis étudie la philosophie et se forme à l'administration publique."
+    "timeline.event-10.text": "Il naît dans le nord de la France, puis étudie la philosophie et se forme à l'administration publique.",
+    "timeline.event-11.title": "Nomme de nouveau Lecornu Premier ministre",
+    "timeline.event-11.text": "Renomme Sébastien Lecornu quatre jours après sa démission, cherchant des soutiens dans un Parlement divisé pour faire avancer le budget, dans une crise gouvernementale marquante de son second mandat."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

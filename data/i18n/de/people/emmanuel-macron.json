@@ -1,11 +1,11 @@
 {
-  "sourceHash": "794a754b473f43b4a1e2939b16e321970551aa926bfd686a5bc3ef56ca1652ee",
+  "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
   "strings": {
     "name": "Emmanuel Macron",
     "role": "Französischer Politiker · Präsident der Fünften Republik",
     "country": "Frankreich",
     "summary": "Nach philosophischer und verwaltungswissenschaftlicher Ausbildung sowie Tätigkeiten in der Finanzverwaltung und im Investmentbanking ging Macron in die französische Politik. Er war stellvertretender Generalsekretär des Präsidialamts und Wirtschaftsminister. Er gründete die Bewegung En Marche!, wurde 2017 erstmals zum Präsidenten gewählt und 2022 wiedergewählt. Die Rentenreform und die Auflösung der Nationalversammlung 2024 waren Entscheidungen seiner Präsidentschaft, die intensive politische Debatten auslösten.",
-    "coverageNote": "Ausgewählte Stationen von 1977 bis 2024. Der Eintrag zur Rente beschreibt die Regelungen der Reform von 2023 und ist keine Darstellung der aktuell geltenden Politik.",
+    "coverageNote": "Ausgewählte Stationen bis Oktober 2025; Lebens- und Präsidentenstatus am 13. November 2026 geprüft. Der Renteneintrag beschreibt die Reform von 2023 und gibt nicht die aktuelle Rechtslage wieder.",
     "tags.法国政治": "Französische Politik",
     "tags.总统": "Präsidentschaft",
     "tags.公共政策": "Öffentliche Politik",
@@ -22,7 +22,7 @@
     "highlights.highlight-03.title": "Reform des Rentensystems",
     "highlights.highlight-03.text": "Die Reform von 2023 sah eine schrittweise Erhöhung des gesetzlichen Rentenalters von 62 auf 64 Jahre vor und wurde von massiven Protesten begleitet.",
     "timeline.event-01.title": "Auflösung der Nationalversammlung",
-    "timeline.event-01.text": "Auf Grundlage von Artikel 12 der Verfassung löste er die Nationalversammlung auf und leitete vorgezogene Parlamentswahlen ein.",
+    "timeline.event-01.text": "Löste die Nationalversammlung nach Artikel 12 der Verfassung auf; die anschließende vorgezogene Wahl ergab ein Parlament, in dem keiner der drei großen Blöcke eine absolute Mehrheit hatte.",
     "timeline.event-02.title": "Rentenreform im Mittelpunkt der Politik",
     "timeline.event-02.text": "Das Reformgesetz wurde verkündet und legte die schrittweise Anhebung des Rentenalters fest. Zuvor hatte es bereits mehrere landesweite Protestwellen gegeben.",
     "timeline.event-03.title": "Wiederwahl zum französischen Präsidenten",
@@ -40,6 +40,23 @@
     "timeline.event-09.title": "Abschluss an der Verwaltungshochschule",
     "timeline.event-09.text": "Nach dem Abschluss an der ENA trat er in die Inspection générale des finances ein und begann seine Laufbahn in der öffentlichen Verwaltung.",
     "timeline.event-10.title": "Geburt in Amiens",
-    "timeline.event-10.text": "Er wurde im nordfranzösischen Amiens geboren, studierte später Philosophie und absolvierte eine Ausbildung in öffentlicher Verwaltung."
+    "timeline.event-10.text": "Er wurde im nordfranzösischen Amiens geboren, studierte später Philosophie und absolvierte eine Ausbildung in öffentlicher Verwaltung.",
+    "timeline.event-11.title": "Ernennt Lecornu erneut zum Premierminister",
+    "timeline.event-11.text": "Ernannte Sébastien Lecornu vier Tage nach dessen Rücktritt erneut und suchte in einem gespaltenen Parlament Unterstützung für den Haushalt, inmitten einer prägenden Regierungskrise seiner zweiten Amtszeit."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

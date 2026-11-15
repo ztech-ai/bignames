@@ -1,11 +1,11 @@
 {
-  "sourceHash": "daceb61eeee32d31b10a3efb3e0c72c93622e97736c8b222d622fc5f7061a912",
+  "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
   "strings": {
     "name": "ウォーレン・バフェット",
-    "role": "投資家 · バークシャーの長年の経営者",
+    "role": "投資家 · バークシャー名誉会長兼取締役",
     "country": "アメリカ",
     "summary": "ウォーレン・バフェットはバリュー投資と長期的な資本配分で知られる。1965年にバークシャー・ハサウェイの支配権を取得し、繊維会社を多角的な企業グループへと徐々に転換した。投資では企業の基礎的価値、経営、安全余裕を重視する。株式の寄付や「ギビング・プレッジ」を通じて慈善活動にも関わった。2026年初め、バークシャーはCEOの引き継ぎを完了した。",
-    "coverageNote": "本ページは起業、投資、公益活動の節目を収録し、2026年1月のCEO交代まで確認している。現在の役職、資産ランキング、投資助言は提供しない。",
+    "coverageNote": "1930～2026年の投資と慈善活動の節目を選び、CEO・会長の交代と同年の株式寄付を追記。現職は2026年9月18日の会社発表で確認し、調査基準日は2026年11月13日とした。全投資取引は網羅せず、最新の資産順位や投資助言を提供するものではない。",
     "tags.价值投资": "バリュー投資",
     "tags.伯克希尔": "バークシャー",
     "tags.资本配置": "資本配分",
@@ -39,6 +39,27 @@
     "timeline.event-08.title": "コロンビア大学での学業を修了",
     "timeline.event-08.text": "修士号を取得。在学中はベンジャミン・グレアムに学んだ。",
     "timeline.event-09.title": "オマハに生まれる",
-    "timeline.event-09.text": "アメリカで育ち、少年期から新聞配達や小規模な商売を経験した。"
+    "timeline.event-09.text": "アメリカで育ち、少年期から新聞配達や小規模な商売を経験した。",
+    "timeline.event-2026-chair.title": "名誉会長に移り取締役は継続",
+    "timeline.event-2026-chair.text": "Howard Buffettが取締役会長に就任し、バフェットは名誉会長となって取締役にとどまった。CEOは1月に就任したGreg Abelが引き続き務める。",
+    "timeline.event-2026-donation.title": "家族の4財団に株式を寄付",
+    "timeline.event-2026-donation.text": "バークシャーB種株式1,200万株を寄付。同年にゲイツ財団への寄付も停止し、長年の慈善活動の協力関係を変更した。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-chair.title",
+      "timeline.event-2026-chair.text",
+      "timeline.event-2026-donation.title",
+      "timeline.event-2026-donation.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

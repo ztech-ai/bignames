@@ -73,11 +73,31 @@
   ],
   "timeline": [
     {
+      "id": "event-2026-teachers",
+      "date": "2026-01-26",
+      "title": "继续与乡村教师交流",
+      "text": "参加第11年“腊八之约”，与乡村教师讨论AI时代的教育与好奇心培养。",
+      "sourceIds": [
+        "teachers-2026",
+        "teachers-independent"
+      ]
+    },
+    {
+      "id": "event-2025-symposium",
+      "date": "2025-02-17",
+      "title": "出席民营企业座谈会",
+      "text": "在北京出席习近平与民营企业人士的座谈会；公开露面不等同于重新担任阿里巴巴CEO或主席。",
+      "sourceIds": [
+        "symposium"
+      ]
+    },
+    {
       "date": "2023-01",
       "title": "蚂蚁集团调整控制结构",
-      "text": "公司宣布股东投票权结构调整，马云不再控制蚂蚁集团。",
+      "text": "蚂蚁集团宣布拟调整股东投票权结构，使马云不再控制公司；当时有关调整仍须监管批准。",
       "sourceIds": [
-        "s4"
+        "s4",
+        "ant-completed"
       ],
       "id": "event-01"
     },
@@ -204,8 +224,38 @@
       "title": "关于暂缓蚂蚁科技集团股份有限公司科创板上市的决定",
       "publisher": "上海证券交易所",
       "url": "https://www.sse.com.cn/disclosure/announcement/general/c/c_20201103_5253315.shtml"
+    },
+    {
+      "id": "teachers-2026",
+      "title": "马老师与乡村老师的第11年“腊八之约”",
+      "publisher": "马云公益基金会",
+      "url": "https://www.mayun.xin/news/马老师与乡村老师的第11年腊八之约"
+    },
+    {
+      "id": "teachers-independent",
+      "title": "Jack Ma urges changes to China’s rural education in AI era",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3341543/teach-our-children-well-jack-ma-urges-changes-chinas-rural-education-ai-era"
+    },
+    {
+      "id": "symposium",
+      "title": "China’s Xi promises policy stability at meeting with business leaders, including Alibaba’s Jack Ma",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/7898eb671dc6f7cb817cc6238328ea1b"
+    },
+    {
+      "id": "partnership",
+      "title": "Alibaba Partnership — fiscal year 2026",
+      "publisher": "Alibaba Group",
+      "url": "https://www.alibabagroup.com/en-US/ir-corporate-governance-partnership"
+    },
+    {
+      "id": "ant-completed",
+      "title": "Alibaba Group fiscal year 2025 annual report: Ant Group voting structure",
+      "publisher": "Alibaba Group",
+      "url": "https://data.alibabagroup.com/ecms-files/1508664153/7eedde2c-c3da-4397-82a4-54b8abd781c7/Alibaba%20Group%20Holding%20Limited%20Fiscal%20Year%202025%20Annual%20Report.pdf"
     }
   ],
-  "coverageNote": "选录创业、公司治理和公益节点，主要年表截至2023年；公司变化不等同于个人独立完成的成果。",
+  "coverageNote": "选录1964—2026年创业、治理及教育公益节点，补入2025年座谈会与2026年教师交流；研究截至2026-11-13。马云是阿里巴巴联合创始人及合伙人，已非CEO或董事局主席；公司成果不等于个人独立完成。",
   "verifiedAt": "2026-11-13"
 }

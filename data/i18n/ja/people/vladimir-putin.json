@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "ウラジーミル・プーチン",
-    "role": "ロシアの政治家 · 国家運営と国際関係",
+    "role": "ロシア大統領・政治家",
     "country": "ロシア",
     "summary": "プーチンはソ連の情報機関から地方・中央の行政機関へ移り、1999年にロシア首相と大統領代行に就いた。その後も大統領と首相を繰り返し務め、現代ロシアを理解する上で重要な人物である。在任中、ロシアと西側諸国の関係は大きく変化した。2014年のクリミア併合と2022年のウクライナへの全面侵攻は国際的な非難を招き、ヨーロッパの安全保障情勢を変えた。",
-    "coverageNote": "本版は1952〜2023年の主要な経歴を収録。戦争と国際司法手続きは進行中であり、掲載項目は以後の状況を反映しない。地域はロシアの大陸をまたぐ関係に基づく。",
+    "coverageNote": "2026年11月12日までの主な経歴を選録し、11月13日まで存命と大統領在任を確認。戦争、交渉、国際司法手続きは進行中であり、逮捕状は有罪判決を意味しない。",
     "tags.俄罗斯政治": "ロシア政治",
     "tags.总统": "大統領",
     "tags.国际关系": "国際関係",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "大学卒業後に情報機関へ",
     "timeline.event-09.text": "レニングラード国立大学法学部を卒業後にKGBへ入り、その勤務中には東ドイツでも働いた。",
     "timeline.event-10.title": "レニングラードに生まれる",
-    "timeline.event-10.text": "ソ連のレニングラード、現在のロシア・サンクトペテルブルクに生まれた。"
+    "timeline.event-10.text": "ソ連のレニングラード、現在のロシア・サンクトペテルブルクに生まれた。",
+    "timeline.event-13.title": "米国特使とウクライナ問題を再協議",
+    "timeline.event-13.text": "交渉が続く中、クレムリンでスティーブ・ウィトコフとジャレッド・クシュナーに会った。この会談をもって戦争が終結したとはいえない。",
+    "timeline.event-12.title": "アラスカでトランプと会談",
+    "timeline.event-12.text": "アンカレジでウクライナ戦争について協議。停戦や戦争終結の合意には至らなかった。",
+    "timeline.event-11.title": "第5期大統領任期を開始",
+    "timeline.event-11.text": "3月の選挙を経て就任宣誓し、新たな6年の任期を開始。反対派への弾圧とウクライナ戦争が再任の重要な背景となった。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

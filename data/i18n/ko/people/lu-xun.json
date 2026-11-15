@@ -1,5 +1,5 @@
 {
-  "sourceHash": "37671914bdba1ba2a564e819a8956d51f81cfdb113300a0242957c761110b293",
+  "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
   "strings": {
     "name": "루쉰",
     "role": "작가 · 현대문학의 주요 개척자",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "일본 유학",
     "timeline.event-10.text": "도쿄의 고분학원에 들어갔으며 1904년 센다이 의학전문학교로 옮겨 의학을 공부했다.",
     "timeline.event-11.title": "사오싱에서 출생",
-    "timeline.event-11.text": "저장성 사오싱에서 성장했으며 이후 난징의 신식 학교에 들어가 자연과학과 번역 작품을 접했다."
+    "timeline.event-11.text": "저장성 사오싱에서 성장했으며 이후 난징의 신식 학교에 들어가 자연과학과 번역 작품을 접했다.",
+    "timeline.event-13.title": "베이징의 대학에서 강의를 시작하다",
+    "timeline.event-13.text": "가을부터 베이징대 등에서 시간 강사로 중국 소설사를 가르쳤다. 강의 자료는 훗날 《중국소설사략》으로 정리되었다.",
+    "timeline.event-12.title": "교육부에 들어가 베이징으로 옮기다",
+    "timeline.event-12.text": "차이위안페이의 초청으로 난징의 교육부에 들어갔고, 5월 교육부와 함께 베이징으로 옮겨 사회교육과 문화 업무를 맡았다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
+    "fields": [
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

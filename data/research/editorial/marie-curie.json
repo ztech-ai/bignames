@@ -1,0 +1,45 @@
+{
+  "id": "marie-curie",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "1934-07-04",
+  "sourceUrls": [
+    "https://www.mariecurie.org.uk/about-us/our-history/marie-curie-the-scientist",
+    "https://www.nobelprize.org/prizes/chemistry/1911/summary/",
+    "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/",
+    "https://curie-joliotcurie.fr/qui-sommes-nous/chronologie-de-la-famille-joliot-curie/",
+    "https://heritage.bnf.fr/france-pologne/maria-sklodowska-curie-1867-1934",
+    "https://lejournal.cnrs.fr/articles/marie-curie-portrait-intime",
+    "https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/1913-us-curie-standard",
+    "https://www.nist.gov/blogs/taking-measure/saving-marie-curies-last-radium-standard"
+  ],
+  "lifeStatusEvidence": "https://www.mariecurie.org.uk/about-us/our-history/marie-curie-the-scientist",
+  "editorialNotes": [
+    "新增1910金属镭event-10，明确与André Debierne合作，区别于1898发现新元素及1902分离镭盐。交叉审阅后删去原来误并入1910的国际镭标准制备：BnF压缩传记将两项相邻叙述，NIST专业历史明确1910委托、1911实际制备。只保留1910金属镭，避免把委托年写成制备年。",
+    "补1921美国一克镭募款及1932华沙研究所揭幕（event-11/12），扩充原1914—1934空档；将1914研究机构建设并入原event-02，保留稳定ID。",
+    "修订1906 event-04：接续课程/实验室不等于1908正式教授任命，依据ACJC家族档案年表。CNRS采访为馆长解释1921与研究所建设，BnF支持1910及1932。",
+    "Nobel直接读取403；原有引文保留，新增事实以本次可读ACJC、BnF、CNRS支撑。BnF把死因写白血病，常见其他资料为再生障碍性贫血；本次不增加病理诊断，保留原有因病逝世表述。",
+    "本次为已故人物历史履历复核，没有新增2026本人活动；覆盖主要人生、工作与贡献，不穷尽私人生活和全部作品。",
+    "七语复用未变文字；实际变更经AI逐字段翻译/语义审阅，日期、来源及排序通过sharedFacts审阅。未新增评级或英文参考provenance。",
+    "AI记录不是人工史学审校、母语认证或照片复审；肖像未变更。",
+    "定点纠错依据：NIST “1913: The U.S. Curie Standard”明确1911制备21.99 mg氯化镭标准；Bert Coursey的NIST文章“Saving Marie Curie’s Last Radium Standard”确认1910为受托年。两页本次实际读取。修正前已snapshot当前7语有效版本，修正后对event-10.text逐7语重新核义导入，并审阅新增来源sharedFacts。"
+  ],
+  "translationReview": {
+    "kind": "ai",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "method": "validated snapshots plus reviewed incremental export/import",
+    "humanOrNativeCertification": false
+  }
+}

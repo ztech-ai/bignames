@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "일론 머스크",
     "role": "기업가 · 상업 우주비행과 전기자동차",
     "country": "남아프리카공화국 / 캐나다 / 미국",
     "summary": "머스크는 인터넷 결제부터 전기자동차와 상업 우주비행까지 여러 기술 기업의 설립과 성장에 참여했다. 스페이스X를 창업하고 테슬라에 투자해 회사를 이끌며 재사용 로켓과 전기자동차의 상용화를 추진했다. 트위터 인수 후에는 소셜 플랫폼 운영에도 진출했다. 경영 방식과 공개 발언은 오랫동안 논란을 낳았으며 증권 정보 공개와 관련해 규제 제재를 받기도 했다.",
-    "coverageNote": "1971~2023년의 주요 생애와 경력 사건을 선정했다. 자료 확인일은 이후 모든 활동까지 연표에 반영했다는 뜻이 아니다.",
+    "coverageNote": "1971~2026년의 주요 사건을 선별하고 스타십 시험, 백악관 재직, xAI 기업 통합, SpaceX 상장을 보완했다. 조사 기준일은 2026년 11월 13일이다. 시험 성과가 유인 달·화성 탐사 계획의 완수를 뜻하지 않으며 각 기업의 모든 활동을 다루지는 않는다.",
     "tags.电动汽车": "전기자동차",
     "tags.商业航天": "상업 우주비행",
     "tags.互联网": "인터넷",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "교육",
     "facts.fact-02.value": "펜실베이니아 대학교 경제학·물리학 학사",
     "facts.fact-03.label": "관련 기관",
-    "facts.fact-03.value": "SpaceX, Tesla, X, Neuralink",
+    "facts.fact-03.value": "SpaceX, Tesla, X, xAI, Neuralink",
     "highlights.highlight-01.title": "상업 우주비행",
     "highlights.highlight-01.text": "스페이스X를 창업했다. 이 회사의 크루 드래건은 2020년 처음으로 NASA 우주비행사를 국제우주정거장에 보냈다.",
     "highlights.highlight-02.title": "전기자동차 상용화",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "Zip2 공동 설립",
     "timeline.event-09.text": "동업자들과 온라인 도시 안내 서비스를 개발하며 인터넷 창업 경력을 시작했다.",
     "timeline.event-10.title": "프리토리아에서 출생",
-    "timeline.event-10.text": "남아프리카공화국에서 태어난 뒤 캐나다와 미국에서 공부했으며 펜실베이니아 대학교에서 경제학과 물리학을 배웠다."
+    "timeline.event-10.text": "남아프리카공화국에서 태어난 뒤 캐나다와 미국에서 공부했으며 펜실베이니아 대학교에서 경제학과 물리학을 배웠다.",
+    "timeline.event-2026-ipo.title": "SpaceX 기업공개 완료",
+    "timeline.event-2026-ipo.text": "6월 12일 주식 거래를 시작하고 6월 15일 기업공개를 마쳤다. 이 페이지는 시장에 따라 변하는 자산 순위를 사용하지 않는다.",
+    "timeline.event-2026-xai.title": "SpaceX의 xAI 인수",
+    "timeline.event-2026-xai.text": "SpaceX가 xAI 인수를 완료해 AI, 우주, 위성통신 사업을 한 그룹으로 통합했다.",
+    "timeline.event-2025-government.title": "백악관 특별정부직원 임기 종료",
+    "timeline.event-2025-government.text": "대통령 선임고문으로 DOGE의 지출 삭감을 추진했다. 5월에 물러났으며, 감원과 정부기관 개편은 논란을 불러왔다.",
+    "timeline.event-2025-x-merger.title": "xAI의 X 인수",
+    "timeline.event-2025-x-merger.text": "전액 주식 거래로 소셜 플랫폼 X를 xAI에 통합했다. 이는 2026년 SpaceX의 xAI 인수에 앞선 통합이었다.",
+    "timeline.event-2024-booster.title": "발사탑으로 슈퍼헤비 첫 포획",
+    "timeline.event-2024-booster.text": "스타십의 다섯 번째 시험비행에서 SpaceX는 귀환하는 1단 부스터를 기계식 팔로 처음 포획했다. 유인 달·화성 임무는 아니었다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

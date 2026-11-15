@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "블라디미르 푸틴",
-    "role": "러시아 정치인 · 국가 운영과 국제관계",
+    "role": "러시아 대통령 · 정치인",
     "country": "러시아",
     "summary": "푸틴은 소련 정보기관에서 지방·중앙 행정기관으로 옮겨 1999년 러시아 총리와 대통령 권한대행이 되었다. 이후 여러 차례 대통령과 총리를 맡아 현대 러시아를 이해하는 핵심 인물이 되었다. 집권 중 러시아와 서방의 관계는 크게 변했다. 2014년 크림반도 병합과 2022년 우크라이나 전면 침공은 국제적 비판을 불러오고 유럽 안보 구도를 재편했다.",
-    "coverageNote": "1952~2023년의 주요 이력을 선정했다. 전쟁과 국제 사법 절차는 계속 진행 중이며 항목은 이후 상태를 나타내지 않는다. 지역 태그는 러시아의 대륙 간 연관성을 반영한다.",
+    "coverageNote": "2026년 11월 12일까지의 주요 이력을 선별하고 11월 13일까지 생존 및 대통령 재임 상태를 확인했다. 전쟁, 협상, 국제 사법절차는 계속 진행 중이며 체포영장은 유죄판결을 뜻하지 않는다.",
     "tags.俄罗斯政治": "러시아 정치",
     "tags.总统": "대통령",
     "tags.国际关系": "국제관계",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "대학 졸업과 정보기관 입사",
     "timeline.event-09.text": "레닌그라드 국립대학교 법학부를 졸업한 뒤 KGB에 들어갔으며 한동안 동독에서 근무했다.",
     "timeline.event-10.title": "레닌그라드에서 출생",
-    "timeline.event-10.text": "소련 레닌그라드에서 태어났다. 이 도시는 오늘날 러시아의 상트페테르부르크다."
+    "timeline.event-10.text": "소련 레닌그라드에서 태어났다. 이 도시는 오늘날 러시아의 상트페테르부르크다.",
+    "timeline.event-13.title": "미국 특사들과 우크라이나 문제 재논의",
+    "timeline.event-13.text": "협상이 이어지는 가운데 크렘린에서 스티브 위트코프와 재러드 쿠슈너를 만났다. 이 회담이 전쟁의 종결을 뜻하는 것은 아니었다.",
+    "timeline.event-12.title": "알래스카에서 트럼프와 회담",
+    "timeline.event-12.text": "앵커리지에서 우크라이나 전쟁을 논의했으나 휴전이나 종전 합의에 이르지 못했다.",
+    "timeline.event-11.title": "다섯 번째 대통령 임기 시작",
+    "timeline.event-11.text": "3월 선거 후 취임 선서를 하고 새로운 6년 임기를 시작했다. 야권 탄압과 우크라이나 전쟁이 재선의 주요 배경이었다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

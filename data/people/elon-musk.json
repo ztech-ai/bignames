@@ -70,11 +70,60 @@
     },
     {
       "label": "关联机构",
-      "value": "SpaceX、Tesla、X、Neuralink",
+      "value": "SpaceX、Tesla、X、xAI、Neuralink",
       "id": "fact-03"
     }
   ],
   "timeline": [
+    {
+      "id": "event-2026-ipo",
+      "date": "2026-06-15",
+      "title": "SpaceX 完成首次公开募股",
+      "text": "股票于6月12日开始交易，首次公开募股于6月15日完成；本页不采用随市场变化的财富排名。",
+      "sourceIds": [
+        "ipo-filing",
+        "ipo-independent"
+      ]
+    },
+    {
+      "id": "event-2026-xai",
+      "date": "2026-02-02",
+      "title": "SpaceX 收购 xAI",
+      "text": "SpaceX 完成收购 xAI；人工智能业务与航天、卫星通信业务纳入同一集团。",
+      "sourceIds": [
+        "xai-spacex",
+        "merger-filing"
+      ]
+    },
+    {
+      "id": "event-2025-government",
+      "date": "2025-05",
+      "title": "结束白宫特别政府雇员任期",
+      "text": "任内以总统高级顾问身份推动 DOGE 削减政府支出；5月离任，裁员及机构调整引发争议。",
+      "sourceIds": [
+        "doge-gao",
+        "doge-reuters"
+      ]
+    },
+    {
+      "id": "event-2025-x-merger",
+      "date": "2025-03-28",
+      "title": "xAI 收购 X",
+      "text": "以全股票交易将社交平台X并入xAI；这一整合先于2026年SpaceX收购xAI。",
+      "sourceIds": [
+        "x-merger",
+        "x-merger-independent"
+      ]
+    },
+    {
+      "id": "event-2024-booster",
+      "date": "2024-10-13",
+      "title": "首次用发射塔捕获 Super Heavy",
+      "text": "SpaceX 在第五次星舰试飞中首次用机械臂捕获返回的一级助推器；这不是载人登月或火星任务。",
+      "sourceIds": [
+        "catch"
+      ]
+    },
     {
       "date": "2023-07",
       "title": "成立 xAI，Twitter 更名为 X",
@@ -191,8 +240,68 @@
       "title": "Elon Musk Settles SEC Fraud Charges",
       "publisher": "美国证券交易委员会 SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2018-226"
+    },
+    {
+      "id": "xai-spacex",
+      "title": "xAI joins SpaceX",
+      "publisher": "xAI",
+      "url": "https://x.ai/news/xai-joins-spacex"
+    },
+    {
+      "id": "merger-filing",
+      "title": "SpaceX 2026 second-quarter Form 10-Q",
+      "publisher": "SpaceX · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052535/spcx-20260630.htm"
+    },
+    {
+      "id": "doge-gao",
+      "title": "DOGE: Information on Personnel and Ethics Activities",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/assets/gao-26-108403.pdf"
+    },
+    {
+      "id": "doge-reuters",
+      "title": "Elon Musk leaving Trump administration, capping turbulent tenure",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/us/elon-musk-leaving-trump-administration-white-house-official-confirms-2025-05-29/"
+    },
+    {
+      "id": "catch",
+      "title": "SpaceX catches giant Starship booster in fifth flight test",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/technology/space/spacex-launches-fifth-starship-test-eyes-novel-booster-catch-2024-10-13/"
+    },
+    {
+      "id": "current-filing",
+      "title": "Tesla 2026 proxy statement",
+      "publisher": "Tesla · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm"
+    },
+    {
+      "id": "ipo-filing",
+      "title": "SpaceX Form 8-K: completed initial public offering",
+      "publisher": "SpaceX · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026043288/spaceexplorationtechnologi.htm"
+    },
+    {
+      "id": "ipo-independent",
+      "title": "SpaceX surges past $2 trillion in Nasdaq debut",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/after-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12/"
+    },
+    {
+      "id": "x-merger",
+      "title": "SpaceX IPO prospectus: X Merger effective March 28, 2025",
+      "publisher": "SpaceX",
+      "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/Project%20Apex%20-%20Australian%20Wrap%20and%20S-1%20-%20Final%20%28Lodgement%204%20June%202026%29%20-%20Compressed%20vF.pdf"
+    },
+    {
+      "id": "x-merger-independent",
+      "title": "Musk’s social media firm X bought by his AI company",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/news/musks-xai-buys-social-media-212856452.html"
     }
   ],
-  "coverageNote": "本版选录 1971—2023 年的主要生平与事业节点；核对日期不代表年表已覆盖其后的全部活动。",
+  "coverageNote": "选录1971—2026年主要节点，补入星舰试验、白宫任期、xAI并购及SpaceX上市；截至2026-11-13核对。试验成果不等同于载人登月或火星计划完成，未穷尽各企业活动。",
   "verifiedAt": "2026-11-13"
 }

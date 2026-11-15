@@ -28,7 +28,7 @@
     "人工智能",
     "企业家"
   ],
-  "role": "NVIDIA 联合创始人 · 加速计算",
+  "role": "NVIDIA 联合创始人 · 前首席执行官",
   "summary": "黄仁勋是 NVIDIA 联合创始人，早年从台湾移居美国，接受电气工程训练。其带领的团队从个人电脑图形芯片起步，逐步将 GPU 扩展为科学计算和人工智能的重要工具。CUDA 软件生态、深度学习计算与数据中心平台，是理解其产业影响的几条主线。",
   "highlights": [
     {
@@ -75,6 +75,36 @@
     }
   ],
   "timeline": [
+    {
+      "id": "event-2026-resignation",
+      "date": "2026-11-11",
+      "title": "辞去 NVIDIA 管理及董事职务",
+      "text": "辞去总裁、CEO及董事职务，Colette Kress出任临时CEO；公司此前启动独立调查，不能将报道中的指控视为定论。",
+      "sourceIds": [
+        "transition-filing",
+        "transition",
+        "board-review",
+        "transition-reuters"
+      ]
+    },
+    {
+      "id": "event-2026-rubin",
+      "date": "2026-05-31",
+      "title": "Vera Rubin 系统进入量产扩张",
+      "text": "NVIDIA宣布供应链合作伙伴正规模生产Vera Rubin系统；这是产品进展，不代表未来部署计划均已完成。",
+      "sourceIds": [
+        "rubin"
+      ]
+    },
+    {
+      "id": "event-2025-ultra",
+      "date": "2025-03-18",
+      "title": "发布 Blackwell Ultra",
+      "text": "NVIDIA公布Blackwell Ultra平台，继续扩展面向AI推理的数据中心产品线。",
+      "sourceIds": [
+        "ultra"
+      ]
+    },
     {
       "date": "2024-03-18",
       "title": "发布 Blackwell 平台",
@@ -201,8 +231,44 @@
       "title": "Jensen Huang",
       "publisher": "Computer History Museum",
       "url": "https://computerhistory.org/profile/jensen-huang/"
+    },
+    {
+      "id": "ultra",
+      "title": "NVIDIA Blackwell Ultra AI Factory Platform Paves Way for Age of AI Reasoning",
+      "publisher": "NVIDIA",
+      "url": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Blackwell-Ultra-AI-Factory-Platform-Paves-Way-for-Age-of-AI-Reasoning/default.aspx"
+    },
+    {
+      "id": "rubin",
+      "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"
+    },
+    {
+      "id": "transition",
+      "title": "NVIDIA Announces CEO Transition",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+      "id": "transition-filing",
+      "title": "NVIDIA Form 8-K: leadership changes effective November 11, 2026",
+      "publisher": "NVIDIA · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+    },
+    {
+      "id": "board-review",
+      "title": "Statement From NVIDIA Board of Directors",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+    },
+    {
+      "id": "transition-reuters",
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+      "publisher": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980"
     }
   ],
-  "coverageNote": "本版聚焦 1963—2024 年的求学、创业及技术发展，不将其历史职务表述为实时任职状态。出生城市存在来源差异，故只标注台湾。",
+  "coverageNote": "选录1963—2026年求学、创业与产品节点，并核对2026-11-11生效的离任；截至2026-11-13，独立调查未在本页认定结论。出生城市有来源差异，只标台湾；不穷尽公司全部活动。",
   "verifiedAt": "2026-11-13"
 }

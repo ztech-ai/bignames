@@ -1,11 +1,11 @@
 {
-  "sourceHash": "8c78772140c5cf7cd69b058c6dc49e59637aa081ba2ec32e96618ca5ab61e42d",
+  "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
   "strings": {
     "name": "Jensen Huang",
-    "role": "Cofundador de NVIDIA · Computación acelerada",
+    "role": "Cofundador de NVIDIA · Exdirector ejecutivo",
     "country": "Estados Unidos",
     "summary": "Jensen Huang es cofundador de NVIDIA. Emigró de Taiwán a Estados Unidos en su juventud y se formó en ingeniería eléctrica. El equipo que dirigió comenzó con chips gráficos para ordenadores personales y amplió progresivamente el uso de las GPU a la ciencia y la inteligencia artificial. El ecosistema de software CUDA, la computación para aprendizaje profundo y las plataformas de centros de datos son claves para comprender su influencia industrial.",
-    "coverageNote": "Esta edición se centra en su formación, emprendimiento y desarrollo tecnológico entre 1963 y 2024, sin presentar cargos históricos como actuales. Las fuentes difieren sobre la ciudad de nacimiento, por lo que solo se indica Taiwán.",
+    "coverageNote": "Hitos seleccionados de formación, fundación y productos entre 1963 y 2026, incluida su salida efectiva el 11 de noviembre de 2026. A la fecha límite del 13 de noviembre de 2026, esta ficha no establece conclusiones de la investigación independiente. Las fuentes discrepan sobre su ciudad natal, por lo que solo se indica Taiwán. No se cubren todas las actividades de la empresa.",
     "tags.半导体": "Semiconductores",
     "tags.GPU": "GPU",
     "tags.人工智能": "Inteligencia artificial",
@@ -39,6 +39,31 @@
     "timeline.event-08.title": "Completa el grado en Ingeniería Eléctrica",
     "timeline.event-08.text": "Se graduó en la Universidad Estatal de Oregón y comenzó su carrera trabajando en AMD y LSI Logic.",
     "timeline.event-09.title": "Nace en Taiwán",
-    "timeline.event-09.text": "Pasó parte de su infancia en Asia antes de emigrar a Estados Unidos; su formación y trayectoria conectan Asia y Norteamérica."
+    "timeline.event-09.text": "Pasó parte de su infancia en Asia antes de emigrar a Estados Unidos; su formación y trayectoria conectan Asia y Norteamérica.",
+    "timeline.event-2026-resignation.title": "Dimite de sus cargos directivos y del consejo de NVIDIA",
+    "timeline.event-2026-resignation.text": "Dimitió como presidente, CEO y consejero; Colette Kress asumió como CEO interina. La empresa había abierto una investigación independiente; las acusaciones publicadas no deben tratarse como hechos probados.",
+    "timeline.event-2026-rubin.title": "Aumenta la producción de sistemas Vera Rubin",
+    "timeline.event-2026-rubin.text": "NVIDIA anunció que sus socios de la cadena de suministro fabricaban sistemas Vera Rubin a gran escala. Este avance de producto no significa que todos los despliegues previstos estén terminados.",
+    "timeline.event-2025-ultra.title": "Presenta Blackwell Ultra",
+    "timeline.event-2025-ultra.text": "NVIDIA anunció la plataforma Blackwell Ultra, ampliando su gama para centros de datos orientada al razonamiento de IA."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "e2fd4fb07b7159452f640ea4c119852e026bead34ee2e1066e0fb495dcfe28fd",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-resignation.title",
+      "timeline.event-2026-resignation.text",
+      "timeline.event-2026-rubin.title",
+      "timeline.event-2026-rubin.text",
+      "timeline.event-2025-ultra.title",
+      "timeline.event-2025-ultra.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

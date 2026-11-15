@@ -1,11 +1,11 @@
 {
-  "sourceHash": "b2c55e7ef400de23ed75e37888c5ea1a375503045087c73762c2e8a096b1bd96",
+  "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
   "strings": {
     "name": "Mark Zuckerberg",
-    "role": "Mitgründer von Facebook · Soziale Netzwerke",
+    "role": "Meta-Mitgründer und Vorstandschef",
     "country": "USA",
     "summary": "Zuckerberg gründete während seines Studiums in Harvard mit Partnern Facebook und entwickelte das Hochschulnetzwerk zu einer weltweiten Plattform. Er führte Instagram, WhatsApp und weitere Dienste in einer Unternehmensgruppe zusammen. 2021 kündigte er die Umbenennung in Meta und Investitionen in virtuelle und erweiterte Realität an. Datenschutz, Plattformmacht und der Umgang mit Inhalten bleiben wesentliche Streitpunkte seiner unternehmerischen Laufbahn.",
-    "coverageNote": "Ausgewählte Lebens- und Unternehmensstationen von 1984 bis 2021. Spätere Änderungen an Produkten, Gerichtsverfahren und Führungspositionen liegen außerhalb dieser Ausgabe.",
+    "coverageNote": "Ausgewählte Karrierestationen von 1984 bis 2026, ergänzt um US-Inhaltsregeln, KI-Neuordnung und Modellstart sowie ein Kartellberufungsverfahren und eine Datenschutzstrafe. Seine CEO-Funktion wurde anhand von Mitteilungen vom Oktober 2026 geprüft; Recherchestichtag: 13. November 2026. Ziele, Gerichtsentscheidungen und Umsetzung werden unterschieden. Produkte und Verfahren sind nicht vollständig erfasst.",
     "tags.社交网络": "Soziale Netzwerke",
     "tags.互联网": "Internet",
     "tags.虚拟现实": "Virtuelle Realität",
@@ -37,6 +37,39 @@
     "timeline.event-07.title": "Mitgründung von Facebook",
     "timeline.event-07.text": "Während seiner Harvard-Zeit startete er mit Partnern die soziale Website und verließ später die Universität, um sich dem Unternehmen zu widmen.",
     "timeline.event-08.title": "Geburt im Bundesstaat New York",
-    "timeline.event-08.text": "Er wurde in White Plains geboren, wuchs im Bundesstaat New York auf und studierte später an der Harvard University."
+    "timeline.event-08.text": "Er wurde in White Plains geboren, wuchs im Bundesstaat New York auf und studierte später an der Harvard University.",
+    "timeline.event-2026-privacy-order.title": "Zivilrechtliche Strafe gegen Meta im Datenschutzfall in New Mexico",
+    "timeline.event-2026-privacy-order.text": "Ein Gericht verpflichtete Meta zur Zahlung einer zivilrechtlichen Strafe von 25 Milliarden US-Dollar. Der Fall betrifft das Unternehmen; das Profil bestätigt weder Zahlung noch unanfechtbares Urteil oder eine persönliche strafrechtliche Verurteilung Zuckerbergs.",
+    "timeline.event-2026-spark.title": "Start von Muse Spark",
+    "timeline.event-2026-spark.text": "Meta Superintelligence Labs veröffentlichte nach der KI-Neuordnung das Modell Muse Spark. „Persönliche Superintelligenz“ bleibt ein Unternehmensziel.",
+    "timeline.event-2026-antitrust-appeal.title": "FTC legt Berufung gegen Meta-Kartellurteil ein",
+    "timeline.event-2026-antitrust-appeal.text": "Meta gewann am 18. November 2025 das Kartellverfahren zu Instagram und WhatsApp; die FTC legte anschließend Berufung ein. Damit sind nicht sämtliche Verfahren beendet.",
+    "timeline.event-2025-msl.title": "Neuordnung der KI-Aktivitäten",
+    "timeline.event-2025-msl.text": "Die KI-Arbeit wurde unter Alexandr Wang in Meta Superintelligence Labs gebündelt, nachdem Meta in Scale AI investiert hatte.",
+    "timeline.event-2025-notes.title": "US-Plattformen beenden externe Faktenprüfung",
+    "timeline.event-2025-notes.text": "Meta beendete in den USA die Faktenprüfung durch Dritte und begann, Community Notes anzuzeigen. Der umstrittene Kurswechsel war keine gleichzeitige weltweite Abschaffung."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-privacy-order.title",
+      "timeline.event-2026-privacy-order.text",
+      "timeline.event-2026-spark.title",
+      "timeline.event-2026-spark.text",
+      "timeline.event-2026-antitrust-appeal.title",
+      "timeline.event-2026-antitrust-appeal.text",
+      "timeline.event-2025-msl.title",
+      "timeline.event-2025-msl.text",
+      "timeline.event-2025-notes.title",
+      "timeline.event-2025-notes.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

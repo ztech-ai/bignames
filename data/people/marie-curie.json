@@ -81,11 +81,31 @@
       "id": "event-01"
     },
     {
-      "date": "1914",
-      "title": "组织移动X射线服务",
-      "text": "在第一次世界大战初期筹备车辆与设备，并与女儿伊雷娜参与战地检查。",
+      "id": "event-12",
+      "date": "1932",
+      "title": "出席华沙镭研究所落成",
+      "text": "参与华沙镭研究所揭幕，将筹集研究资源的工作延伸至波兰。",
       "sourceIds": [
-        "s1"
+        "s5"
+      ]
+    },
+    {
+      "id": "event-11",
+      "date": "1921",
+      "title": "赴美国争取研究用镭",
+      "text": "在记者玛丽·梅洛尼推动的募款后赴美，从哈丁总统手中接受供研究使用的一克镭。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "date": "1914",
+      "title": "镭研究所与战地X射线",
+      "text": "巴黎镭研究所建筑完工，她负责其中的物理化学研究；战争爆发后组织移动X射线服务，与女儿伊雷娜参与检查。",
+      "sourceIds": [
+        "s1",
+        "s5",
+        "s6"
       ],
       "id": "event-02"
     },
@@ -99,11 +119,21 @@
       "id": "event-03"
     },
     {
+      "id": "event-10",
+      "date": "1910",
+      "title": "分离金属镭",
+      "text": "与安德烈·德比埃尔合作分离金属镭。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
       "date": "1906",
       "title": "接续巴黎大学教学工作",
-      "text": "皮埃尔意外去世后，她接任其教席，继续研究和授课。",
+      "text": "皮埃尔意外去世后，她接续其课程与实验室工作；1908年正式出任教授。",
       "sourceIds": [
-        "s3"
+        "s3",
+        "s4"
       ],
       "id": "event-04"
     },
@@ -171,8 +201,32 @@
       "title": "Marie Curie — Biographical",
       "publisher": "Nobel Prize",
       "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/"
+    },
+    {
+      "id": "s4",
+      "title": "Chronologie de la famille Curie et Joliot-Curie",
+      "publisher": "Association Curie et Joliot-Curie",
+      "url": "https://curie-joliotcurie.fr/qui-sommes-nous/chronologie-de-la-famille-joliot-curie/"
+    },
+    {
+      "id": "s5",
+      "title": "Maria Skłodowska-Curie (1867-1934)",
+      "publisher": "Bibliothèque nationale de France · Patrimoines partagés",
+      "url": "https://heritage.bnf.fr/france-pologne/maria-sklodowska-curie-1867-1934"
+    },
+    {
+      "id": "s6",
+      "title": "Marie Curie, portrait intime",
+      "publisher": "CNRS Le journal · entretien avec le directeur du Musée Curie",
+      "url": "https://lejournal.cnrs.fr/articles/marie-curie-portrait-intime"
+    },
+    {
+      "id": "s7",
+      "title": "1913: The U.S. Curie Standard",
+      "publisher": "National Institute of Standards and Technology (NIST)",
+      "url": "https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/1913-us-curie-standard"
     }
   ],
-  "coverageNote": "选录生平、研究与医学应用节点；历史国界与今日国家名称分别说明。",
+  "coverageNote": "选录1867—1934年的生平、研究、研究机构建设与医学应用；区分1906年接续课程和1908年正式教授任命。复核截至2026-11-13，不将死后纪念列为本人活动。",
   "verifiedAt": "2026-11-13"
 }

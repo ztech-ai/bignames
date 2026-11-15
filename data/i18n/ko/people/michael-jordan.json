@@ -1,11 +1,11 @@
 {
-  "sourceHash": "a4f800385868cc7e950e09df75059a9c089fcab53041654f415e3c1608708178",
+  "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
   "strings": {
     "name": "마이클 조던",
     "role": "농구 선수 · NBA 6회 우승",
     "country": "미국",
     "summary": "마이클 조던은 시카고 불스에서 NBA 우승 6회와 정규시즌 최우수선수상 5회를 기록한 미국 농구 선수다. 득점력, 수비, 중요한 경기에서의 활약으로 유명하며 농구의 세계적 확산과 선수의 상업화에도 중요한 역할을 했다. 은퇴, 야구 전향, 두 차례 복귀를 거쳤고 이후 구단 경영에 진출해 샬럿 호니츠의 지배지분을 보유했다.",
-    "coverageNote": "선수 경력과 2010년 구단 지배지분 취득 및 2023년 매각을 중심으로 다룬다. 실시간 기업가치는 추적하지 않는다.",
+    "coverageNote": "농구 경력과 구단·팀 경영을 중심으로 2026년 2월까지의 주요 이력을 선별했다. 생존과 레이싱팀 내 지위는 2026년 11월까지 확인했다. 데이토나 500 단일 경주 우승은 시즌 종합우승과 다르며 실시간 사업 가치를 추적하지 않는다.",
     "tags.篮球": "농구",
     "tags.NBA": "NBA",
     "tags.奥运会": "올림픽",
@@ -41,6 +41,30 @@
     "timeline.event-10.title": "대학 전국대회 우승",
     "timeline.event-10.text": "노스캐롤라이나대 신입생으로 NCAA 결승에서 결정적인 슛을 넣어 우승에 기여했다.",
     "timeline.event-11.title": "뉴욕에서 출생",
-    "timeline.event-11.text": "브루클린에서 태어나 노스캐롤라이나주 윌밍턴에서 성장했다."
+    "timeline.event-11.text": "브루클린에서 태어나 노스캐롤라이나주 윌밍턴에서 성장했다.",
+    "timeline.event-14.title": "23XI, 데이토나 500 첫 우승",
+    "timeline.event-14.text": "드라이버 타일러 레딕이 23XI 소속으로 데이토나 500에서 우승했고 조던은 팀 공동 소유주로서 축하했다. 이는 개별 경주 우승이다.",
+    "timeline.event-13.title": "팀, NASCAR와 반독점 소송 합의",
+    "timeline.event-13.text": "공동 소유한 23XI와 프런트 로 모터스포츠가 NASCAR를 상대로 한 반독점 소송에 합의했다. 공동성명은 장기 출전권 계약 개정을 담았으며 금전 조건은 비공개였다. 합의는 법원의 위법 판결을 뜻하지 않는다.",
+    "timeline.event-12.title": "23XI 레이싱 공동 창립",
+    "timeline.event-12.text": "데니 햄린 등과 NASCAR 팀을 공동 창립했으며 팀은 2021년 컵 시리즈 출전을 시작했다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
+    "fields": [
+      "coverageNote",
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

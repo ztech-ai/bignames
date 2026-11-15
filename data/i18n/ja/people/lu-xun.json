@@ -1,5 +1,5 @@
 {
-  "sourceHash": "37671914bdba1ba2a564e819a8956d51f81cfdb113300a0242957c761110b293",
+  "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
   "strings": {
     "name": "魯迅",
     "role": "作家 · 中国近代文学の重要な開拓者",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "日本へ留学",
     "timeline.event-10.text": "まず東京の弘文学院に入り、1904年に仙台医学専門学校へ進んで医学を学んだ。",
     "timeline.event-11.title": "紹興に生まれる",
-    "timeline.event-11.text": "浙江省紹興で育ち、後に南京の新式学校で自然科学や翻訳作品に触れた。"
+    "timeline.event-11.text": "浙江省紹興で育ち、後に南京の新式学校で自然科学や翻訳作品に触れた。",
+    "timeline.event-13.title": "北京の大学で非常勤講師を始める",
+    "timeline.event-13.text": "秋から北京大学などで非常勤講師として中国小説史を講じる。講義録は後に『中国小説史略』としてまとめられる。",
+    "timeline.event-12.title": "教育部に勤務し、北京へ移る",
+    "timeline.event-12.text": "蔡元培の招きで南京の教育部に勤務し、5月に同部とともに北京へ移る。社会教育や文化行政に携わる。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "02635a1e2f299be8dca84f2ac4007f3f903350916741a7d34a60f166eafdd14e",
+    "fields": [
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

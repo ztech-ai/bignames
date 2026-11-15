@@ -1,11 +1,11 @@
 {
-  "sourceHash": "fea19dd77bee691de38f14d374300474dd4dc0919054a2847bb1838e8e03d27f",
+  "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
   "strings": {
     "name": "ユーリイ・ガガーリン",
     "role": "宇宙飛行士 · 人類初の宇宙飛行者",
     "country": "ソ連",
     "summary": "ユーリイ・ガガーリンはソ連の飛行士、宇宙飛行士である。1961年4月12日、ボストーク1号で地球を周回し、人類で初めて宇宙へ到達して有人宇宙飛行の時代を開いた。飛行後は国際訪問や宇宙飛行士の訓練を担い、航空工学の学習も続けた。1968年に複座練習機での訓練飛行中に事故死し、宇宙探査史の象徴的な成果を残した。",
-    "coverageNote": "「スポーツと探検」は本サイトの閲覧分類で、ガガーリンはそのうち宇宙探査に属する。地域タグは主要な生涯との関連を示し、現代の国籍と同義ではない。",
+    "coverageNote": "1934〜1968年の飛行、宇宙飛行、公的役割の主な出来事を収録。「スポーツと探検」はサイトの分類で、地域タグは現在の国籍を意味しない。確認の基準日は2026-11-13。死後の記念行事は本人の活動に含めず、墜落原因は断定しない。",
     "tags.太空探索": "宇宙探査",
     "tags.载人航天": "有人宇宙飛行",
     "tags.飞行员": "飛行士",
@@ -22,14 +22,14 @@
     "highlights.highlight-02.text": "飛行後は訓練センターの業務に参加し、後続の宇宙飛行士の任務準備を支えた。",
     "timeline.event-01.title": "訓練飛行中に事故死",
     "timeline.event-01.text": "教官ウラジーミル・セリョーギンと搭乗したMiG-15UTI練習機が墜落し、34歳で亡くなった。",
-    "timeline.event-02.title": "工学の学業を修了",
-    "timeline.event-02.text": "宇宙飛行士の訓練業務を続けながら、技術科学に関する課程と卒業研究を終えた。",
+    "timeline.event-02.title": "工学論文の審査に合格",
+    "timeline.event-02.text": "ジュコーフスキー空軍工学アカデミーで宇宙往還機の設計に関する論文審査に合格し、その後航空機の飛行訓練を再開した。",
     "timeline.event-03.title": "ソユーズ1号の予備宇宙飛行士を務める",
     "timeline.event-03.text": "ウラジーミル・コマロフの予備要員として任務に備え、再び宇宙へ行くことを望んでいた。",
     "timeline.event-04.title": "宇宙飛行士訓練の指導に参加",
     "timeline.event-04.text": "宇宙飛行士訓練センターの副職に就き、後続の飛行要員の訓練と育成を担った。",
     "timeline.event-05.title": "初の有人宇宙飛行",
-    "timeline.event-05.text": "ボストーク1号で打ち上げられ、地球を1周して無事帰還。人類の宇宙飛行史の節目となった。",
+    "timeline.event-05.text": "ボストーク1号で約108分間の地球周回飛行を行った。大気圏再突入後、計画どおり射出座席で船外へ出て、パラシュートで無事着地した。",
     "timeline.event-06.title": "最初の宇宙飛行士候補に選出",
     "timeline.event-06.text": "ソ連の飛行士から20人の隊員の一人に選ばれ、耐性試験と飛行任務の訓練を受けた。",
     "timeline.event-07.title": "軍事飛行訓練を修了",
@@ -37,6 +37,25 @@
     "timeline.event-08.title": "軍事飛行学校に入学",
     "timeline.event-08.text": "技術学校の課程を終え、オレンブルク軍事飛行学校で専門的な操縦訓練を受けた。",
     "timeline.event-09.title": "クルシノに生まれる",
-    "timeline.event-09.text": "ソ連の農村家庭に生まれ、後に金属加工と技術課程を学び、飛行に触れるようになった。"
+    "timeline.event-09.text": "ソ連の農村家庭に生まれ、後に金属加工と技術課程を学び、飛行に触れるようになった。",
+    "timeline.event-10.title": "最高会議の代議員に就任",
+    "timeline.event-10.text": "初の宇宙飛行後、公務や国際訪問を担い、宇宙飛行士の訓練や宇宙船研究にも引き続き携わった。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
+    "fields": [
+      "coverageNote",
+      "timeline.event-02.title",
+      "timeline.event-02.text",
+      "timeline.event-10.title",
+      "timeline.event-10.text",
+      "timeline.event-05.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

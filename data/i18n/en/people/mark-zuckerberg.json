@@ -1,11 +1,11 @@
 {
-  "sourceHash": "b2c55e7ef400de23ed75e37888c5ea1a375503045087c73762c2e8a096b1bd96",
+  "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
   "strings": {
     "name": "Mark Zuckerberg",
-    "role": "Facebook co-founder · Social networking",
+    "role": "Meta co-founder and chief executive",
     "country": "United States",
     "summary": "Zuckerberg created Facebook with partners while studying at Harvard, developing a campus social website into a global platform. He brought businesses including Instagram and WhatsApp into the same corporate group. In 2021, he announced the company’s renaming as Meta and investment in virtual and augmented reality. User privacy, platform power and content governance have also remained major sources of controversy throughout his career.",
-    "coverageNote": "Selected life events and corporate turning points from 1984 to 2021. Later changes to products, litigation and management roles are outside this edition’s coverage.",
+    "coverageNote": "Selected career milestones from 1984–2026, adding US content governance, AI restructuring and a model launch, plus an antitrust appeal and privacy-case penalty. His CEO role was checked against October 2026 disclosures; research cutoff: November 13, 2026. Aspirations, court orders and implementation are distinguished. Products and lawsuits are not covered exhaustively.",
     "tags.社交网络": "Social networking",
     "tags.互联网": "Internet",
     "tags.虚拟现实": "Virtual reality",
@@ -37,6 +37,39 @@
     "timeline.event-07.title": "Co-founds Facebook",
     "timeline.event-07.text": "Launched the social website with partners at Harvard, then left university to focus on developing the company.",
     "timeline.event-08.title": "Born in New York State",
-    "timeline.event-08.text": "Born in White Plains, grew up in New York State and later attended Harvard University."
+    "timeline.event-08.text": "Born in White Plains, grew up in New York State and later attended Harvard University.",
+    "timeline.event-2026-privacy-order.title": "Meta receives civil penalty in New Mexico privacy case",
+    "timeline.event-2026-privacy-order.text": "A court ordered Meta to pay a US$25 billion civil penalty. This is a company case; this profile does not establish payment, a final unappealable judgment or a personal conviction of Zuckerberg.",
+    "timeline.event-2026-spark.title": "Launches Muse Spark",
+    "timeline.event-2026-spark.text": "Meta Superintelligence Labs released the Muse Spark model following its AI reorganization. “Personal superintelligence” remains a company aspiration.",
+    "timeline.event-2026-antitrust-appeal.title": "FTC appeals Meta antitrust ruling",
+    "timeline.event-2026-antitrust-appeal.text": "Meta won the antitrust case concerning Instagram and WhatsApp on November 18, 2025; the FTC later filed an appeal. This does not mean all litigation has ended.",
+    "timeline.event-2025-msl.title": "Reorganizes AI operations",
+    "timeline.event-2025-msl.text": "AI efforts were consolidated into Meta Superintelligence Labs under Alexandr Wang, after Meta had invested in Scale AI.",
+    "timeline.event-2025-notes.title": "US platforms end third-party fact-checking",
+    "timeline.event-2025-notes.text": "Meta ended third-party fact-checking in the United States and began displaying Community Notes. The controversial governance shift was not a simultaneous worldwide cancellation."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-privacy-order.title",
+      "timeline.event-2026-privacy-order.text",
+      "timeline.event-2026-spark.title",
+      "timeline.event-2026-spark.text",
+      "timeline.event-2026-antitrust-appeal.title",
+      "timeline.event-2026-antitrust-appeal.text",
+      "timeline.event-2025-msl.title",
+      "timeline.event-2025-msl.text",
+      "timeline.event-2025-notes.title",
+      "timeline.event-2025-notes.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

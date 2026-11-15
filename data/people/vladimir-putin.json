@@ -25,7 +25,7 @@
     "总统",
     "国际关系"
   ],
-  "role": "俄罗斯政治人物 · 国家治理与国际关系",
+  "role": "俄罗斯总统 · 政治人物",
   "summary": "普京由苏联情报系统进入地方和中央行政机构，1999 年出任俄罗斯总理及代总统，随后多次担任总统和总理，是理解当代俄罗斯的重要人物。其任内俄罗斯与西方关系深刻变化。2014 年吞并克里米亚及 2022 年全面入侵乌克兰，引发国际谴责并重塑欧洲安全局势。",
   "highlights": [
     {
@@ -72,6 +72,35 @@
     }
   ],
   "timeline": [
+    {
+      "id": "event-13",
+      "date": "2026-11-12",
+      "title": "再与美国特使讨论乌克兰问题",
+      "text": "在克里姆林宫会见威特科夫与库什纳；谈判继续，未据此宣布战争已经结束。",
+      "sourceIds": [
+        "talks-2026",
+        "current"
+      ]
+    },
+    {
+      "id": "event-12",
+      "date": "2025-08-15",
+      "title": "在阿拉斯加与特朗普会晤",
+      "text": "在安克雷奇讨论乌克兰战争；会晤未达成停火或结束战争的协议。",
+      "sourceIds": [
+        "alaska"
+      ]
+    },
+    {
+      "id": "event-11",
+      "date": "2024-05-07",
+      "title": "开始第五届总统任期",
+      "text": "在3月选举后宣誓就职，开启新的六年任期；反对派遭压制与乌克兰战争构成此次连任的重要背景。",
+      "sourceIds": [
+        "fifth",
+        "fifth-ap"
+      ]
+    },
     {
       "date": "2023-03-17",
       "title": "国际刑事法院签发逮捕令",
@@ -207,8 +236,38 @@
       "title": "Briefing by the Secretary-General on Ukraine",
       "publisher": "Security Council Report",
       "url": "https://www.securitycouncilreport.org/whatsinblue/2014/03/briefing-by-the-secretary-general-on-ukraine.php"
+    },
+    {
+      "id": "fifth",
+      "title": "Vladimir Putin took office as President of Russia",
+      "publisher": "俄罗斯联邦民族事务署",
+      "url": "https://fadn.gov.ru/press-centr/news/vladimir-putin-vstupil-v-dolzhnost-prezidenta-rossii"
+    },
+    {
+      "id": "fifth-ap",
+      "title": "Putin begins his fifth term as president",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/355bd36a2e833800187af848dc24a7dc"
+    },
+    {
+      "id": "alaska",
+      "title": "Trump-Putin summit yields no deal on ending war in Ukraine",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/europe/trump-putin-summit-yields-no-deal-ending-war-ukraine-2025-08-16/"
+    },
+    {
+      "id": "talks-2026",
+      "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/683810203340077f33611fd1d1757b23"
+    },
+    {
+      "id": "current",
+      "title": "Opening remarks and meetings, November 12, 2026",
+      "publisher": "俄罗斯外交部",
+      "url": "https://t.me/s/MFARussia?before=33354"
     }
   ],
-  "coverageNote": "本版选录 1952—2023 年的主要经历；战争及国际司法程序持续发展，所列事件不代表后续状态。地区按俄罗斯的跨洲关联标注。",
+  "coverageNote": "选录至2026年11月12日的主要经历；在世及总统身份核对至11月13日。战争、谈判及国际司法程序仍在发展，逮捕令不等于定罪。",
   "verifiedAt": "2026-11-13"
 }

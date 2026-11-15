@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "チャールズ・チャップリン",
     "role": "俳優・映画監督 · サイレント喜劇の重要な創作者",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "一座とともにアメリカへ渡る",
     "timeline.event-10.text": "フレッド・カーノー一座の巡業に参加し、舞台喜劇の経験をアメリカへ持ち込んだ。",
     "timeline.event-11.title": "ロンドンに生まれる",
-    "timeline.event-11.text": "両親はいずれも舞台芸人。貧しい幼少期を過ごし、児童劇団を通じて舞台に立つようになった。"
+    "timeline.event-11.text": "両親はいずれも舞台芸人。貧しい幼少期を過ごし、児童劇団を通じて舞台に立つようになった。",
+    "timeline.event-12.title": "英国でナイトの称号を受ける",
+    "timeline.event-12.text": "エリザベス2世女王からナイトの称号を授けられる。",
+    "timeline.event-13.title": "『黄金狂時代』を公開",
+    "timeline.event-13.text": "監督と主演を務めたサイレント映画『黄金狂時代』が公開され、長編喜劇の代表作となる。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

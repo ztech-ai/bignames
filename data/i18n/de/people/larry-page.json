@@ -1,11 +1,11 @@
 {
-  "sourceHash": "2cf9e0b1bbc7a16429bb994cae027d0db0e79d3df5f9d6360baa3fa8b36602a7",
+  "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
   "strings": {
     "name": "Larry Page",
-    "role": "Mitgründer von Google · Suchtechnologie",
+    "role": "Google-Mitgründer · Alphabet-Verwaltungsrat",
     "country": "USA",
     "summary": "Page erforschte mit Sergey Brin in Stanford die Analyse von Webverweisen und gründete daraus Google. Technologien wie PageRank verbesserten die Informationssuche im Netz; das Unternehmen expandierte später in Video, mobile Betriebssysteme und Clouddienste. Page war in zwei Phasen an der operativen Leitung von Google beteiligt und trieb den Aufbau von Alphabet voran. 2019 trat er als Konzern-CEO zurück.",
-    "coverageNote": "Ausgewählte öffentliche Lebens- und Unternehmensstationen von 1973 bis 2019. Spätere Investitionen und private Aktivitäten werden nicht fortlaufend erfasst.",
+    "coverageNote": "Ausgewählte Karrierestationen von 1973 bis 2026, ergänzt um die Wiederwahl in den Verwaltungsrat, Berichte über ein Start-up und Google-Kartellentscheidungen; Recherchestichtag: 13. November 2026. Start-up-Berichte belegen kein fertiges Produkt. Private Investitionen werden nicht laufend verfolgt und Unternehmensverfahren nicht vollständig erfasst.",
     "tags.搜索引擎": "Suchmaschinen",
     "tags.互联网": "Internet",
     "tags.计算机科学": "Informatik",
@@ -39,6 +39,35 @@
     "timeline.event-08.title": "Weiterführendes Studium in Stanford",
     "timeline.event-08.text": "Nach seinem Bachelorabschluss an der University of Michigan ging er nach Stanford. Dort lernte er Brin kennen und begann mit ihm an Suchtechnologien zu arbeiten.",
     "timeline.event-09.title": "Geburt in Michigan",
-    "timeline.event-09.text": "Er wurde im Raum Lansing geboren, studierte später Ingenieurwissenschaften an der University of Michigan und setzte sein Studium in Stanford fort."
+    "timeline.event-09.text": "Er wurde im Raum Lansing geboren, studierte später Ingenieurwissenschaften an der University of Michigan und setzte sein Studium in Stanford fort.",
+    "timeline.event-2026-board.title": "Wiederwahl in Alphabets Verwaltungsrat",
+    "timeline.event-2026-board.text": "Er wurde auf der Hauptversammlung wiedergewählt. Sein Verwaltungsratsmandat ist von der 2019 beendeten CEO-Amtszeit zu unterscheiden.",
+    "timeline.event-2025-remedies.title": "Gericht entscheidet über Abhilfen im Suchverfahren",
+    "timeline.event-2025-remedies.text": "Das Gericht verpflichtete Google, bestimmte Suchdaten zu teilen, und beschränkte exklusive Vertriebsverträge, ohne den Verkauf von Chrome anzuordnen. Die Anordnung belegt noch keine vollständige Umsetzung.",
+    "timeline.event-2025-dynatomics.title": "Berichte über das Start-up Dynatomics",
+    "timeline.event-2025-dynatomics.text": "Business Insider berichtete auf Grundlage von Unternehmensunterlagen und informierten Personen über seine Beteiligung an Dynatomics, das KI und additive Fertigung erforscht. Eine Produktvermarktung wird hier nicht als erwiesen dargestellt.",
+    "timeline.event-2024-antitrust.title": "Googles Suche hält rechtswidrige Monopole aufrecht",
+    "timeline.event-2024-antitrust.text": "Ein US-Bundesbezirksgericht entschied, dass Google rechtswidrig Monopole bei der Suche und suchbezogenen Textanzeigen aufrechterhielt. Das Urteil betraf das Unternehmen, nicht persönliches Fehlverhalten Pages."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-board.title",
+      "timeline.event-2026-board.text",
+      "timeline.event-2025-remedies.title",
+      "timeline.event-2025-remedies.text",
+      "timeline.event-2025-dynatomics.title",
+      "timeline.event-2025-dynatomics.text",
+      "timeline.event-2024-antitrust.title",
+      "timeline.event-2024-antitrust.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

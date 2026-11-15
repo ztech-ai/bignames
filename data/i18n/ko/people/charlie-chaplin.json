@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "찰리 채플린",
     "role": "배우·감독 · 무성영화 코미디의 주요 창작자",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "극단과 함께 미국 순회",
     "timeline.event-10.text": "프레드 카노 극단의 순회공연에 참여해 무대 코미디 경험을 미국으로 가져갔다.",
     "timeline.event-11.title": "런던에서 출생",
-    "timeline.event-11.text": "부모 모두 무대 공연자였으며 어린 시절 가난을 겪었다. 이후 어린이 극단을 통해 무대에 올랐다."
+    "timeline.event-11.text": "부모 모두 무대 공연자였으며 어린 시절 가난을 겪었다. 이후 어린이 극단을 통해 무대에 올랐다.",
+    "timeline.event-12.title": "영국 기사 작위를 받다",
+    "timeline.event-12.text": "엘리자베스 2세 여왕에게 기사 작위를 받았다.",
+    "timeline.event-13.title": "《황금광 시대》를 개봉하다",
+    "timeline.event-13.text": "직접 감독하고 주연을 맡은 무성영화 《황금광 시대》가 개봉해 장편 코미디의 대표작이 되었다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

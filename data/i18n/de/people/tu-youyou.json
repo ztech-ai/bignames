@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "Tu Youyou",
     "role": "Pharmazeutin · Pionierin der Artemisininforschung",
     "country": "China",
     "summary": "Tu Youyou ist eine chinesische Pharmazeutin. Im Antimalariaprojekt 523 leitete sie ihre Forschungsgruppe und verband die Auswertung traditioneller Texte mit Wirkstoffscreening. Sie verbesserte die Extraktion aus Einjährigem Beifuß und wirkte an der Entdeckung und Überprüfung von Artemisinin mit. Weitere Forschungen mehrerer Einrichtungen ermöglichten gemeinsam die Arzneimittelentwicklung und klinische Anwendung. Sie erhielt 2011 den Lasker-Preis für klinisch-medizinische Forschung und 2015 den Nobelpreis für Physiologie oder Medizin.",
-    "coverageNote": "Diese Seite behandelt vor allem die Artemisininforschung und wichtige Auszeichnungen bis 2019. Sie betont die Zusammenarbeit mehrerer Einrichtungen und bietet keinen laufenden Forschungsbericht.",
+    "coverageNote": "Schwerpunkt sind die gemeinschaftliche Artemisinin-Forschung und bedeutende Ehrungen bis April 2025. Institutionelle Angaben zu ihrer aktuellen Funktion wurden im November 2026 geprüft; laufende Forschung wird nicht in Echtzeit verfolgt.",
     "tags.药学": "Pharmazie",
     "tags.青蒿素": "Artemisinin",
     "tags.抗疟疾": "Malariabekämpfung",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "Abschluss und Eintritt in eine Einrichtung für chinesische Medizin",
     "timeline.event-11.text": "Nach dem Pharmaziestudium am Medizinischen College Peking begann sie mit der Erforschung chinesischer Arzneimittel.",
     "timeline.event-12.title": "Geburt in Ningbo",
-    "timeline.event-12.text": "Sie wurde in Ningbo in Zhejiang geboren und entschied sich später für Pharmazie als Studien- und Forschungsgebiet."
+    "timeline.event-12.text": "Sie wurde in Ningbo in Zhejiang geboren und entschied sich später für Pharmazie als Studien- und Forschungsgebiet.",
+    "timeline.event-13.title": "Zum internationalen Mitglied der US-amerikanischen National Academy of Sciences gewählt",
+    "timeline.event-13.text": "Die US-amerikanische National Academy of Sciences gab ihre Wahl zum internationalen Mitglied für anhaltende Beiträge zur originären Forschung bekannt; dies ist von einer Mitgliedschaft in der Chinesischen Akademie der Wissenschaften zu unterscheiden."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

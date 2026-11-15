@@ -1,11 +1,11 @@
 {
-  "sourceHash": "6e220d4876ae76ed2020c432dafd4b1e96ab12d333bf026beda2bb6742b47fc9",
+  "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
   "strings": {
     "name": "Ada Lovelace",
     "role": "Mathematikerin · Pionierin des Computerdenkens",
     "country": "Großbritannien",
     "summary": "Ada Lovelace war eine britische Mathematikerin, die mit Charles Babbage an Ideen zur Analytical Engine arbeitete. Ihre Anmerkungen zu einer Übersetzung von 1843 beschreiben Rechenschritte und die Möglichkeit, mit Maschinen auch nichtnumerische Gegenstände wie Musik zu bearbeiten. Sie wird oft als erste Programmiererin bezeichnet; wie ihre Beiträge von Babbages Arbeit abzugrenzen sind, wird jedoch weiterhin historisch diskutiert. Ihre frühen Einsichten in universelles Rechnen wirken bis heute nach.",
-    "coverageNote": "Ausgewählte Lebensstationen. „Erste Programmiererin“ ist eine verbreitete Bezeichnung; ihre konkreten Beiträge sind Gegenstand historischer Forschung.",
+    "coverageNote": "Ausgewählte Lebensstationen und Ideen zum Rechnen von 1815 bis 1852; die wissenschaftliche Debatte um die Bezeichnung „erste Programmiererin“ bleibt berücksichtigt. Stand der Prüfung: 2026-11-13; posthume Gedenkveranstaltungen werden nicht als persönliche Aktivitäten aufgeführt.",
     "tags.计算机先驱": "Computerpioniere",
     "tags.数学": "Mathematik",
     "tags.分析机": "Analytical Engine",
@@ -36,5 +36,17 @@
     "timeline.event-07.text": "Eine Vorführung der Differenzmaschine weckte ihr Interesse und bereitete die spätere Zusammenarbeit zur Analytical Engine vor.",
     "timeline.event-08.title": "Geburt in London",
     "timeline.event-08.text": "Sie wurde als Augusta Ada Byron geboren und erhielt Privatunterricht, unter anderem in Mathematik."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
+    "fields": [
+      "coverageNote"
+    ],
+    "sharedFactsReviewed": true
   }
 }

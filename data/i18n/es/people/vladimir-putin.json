@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "Vladímir Putin",
-    "role": "Político ruso · Gobierno y relaciones internacionales",
+    "role": "Presidente de Rusia · Político",
     "country": "Rusia",
     "summary": "Putin pasó de los servicios de inteligencia soviéticos a la administración local y central. En 1999 fue nombrado primer ministro y presidente interino de Rusia, y posteriormente ocupó en varias etapas la presidencia y la jefatura de Gobierno. Es una figura central para comprender la Rusia contemporánea. Durante sus mandatos cambiaron profundamente las relaciones con Occidente. La anexión de Crimea en 2014 y la invasión a gran escala de Ucrania en 2022 suscitaron condenas internacionales y transformaron la seguridad europea.",
-    "coverageNote": "Esta edición selecciona los principales hechos entre 1952 y 2023. La guerra y los procedimientos judiciales internacionales siguen evolucionando; los hechos incluidos no reflejan necesariamente su estado posterior. Las regiones recogen los vínculos transcontinentales de Rusia.",
+    "coverageNote": "Hitos seleccionados hasta el 12 de noviembre de 2026; se verificaron su supervivencia y presidencia hasta el 13 de noviembre. La guerra, las negociaciones y los procesos judiciales internacionales siguen evolucionando; una orden de detención no equivale a una condena.",
     "tags.俄罗斯政治": "Política rusa",
     "tags.总统": "Presidencia",
     "tags.国际关系": "Relaciones internacionales",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "Se gradúa e ingresa en inteligencia",
     "timeline.event-09.text": "Terminó Derecho en la Universidad Estatal de Leningrado y se incorporó al KGB, para el que trabajó un tiempo en Alemania Oriental.",
     "timeline.event-10.title": "Nace en Leningrado",
-    "timeline.event-10.text": "Nació en Leningrado, Unión Soviética, la actual San Petersburgo de Rusia."
+    "timeline.event-10.text": "Nació en Leningrado, Unión Soviética, la actual San Petersburgo de Rusia.",
+    "timeline.event-13.title": "Mantiene nuevas conversaciones sobre Ucrania con enviados estadounidenses",
+    "timeline.event-13.text": "Recibió a Steve Witkoff y Jared Kushner en el Kremlin mientras continuaban las negociaciones; la reunión no suponía que la guerra hubiera terminado.",
+    "timeline.event-12.title": "Se reúne con Trump en Alaska",
+    "timeline.event-12.text": "Trató la guerra en Ucrania en Anchorage; la reunión no produjo un alto el fuego ni un acuerdo para poner fin a la guerra.",
+    "timeline.event-11.title": "Inicia su quinto mandato presidencial",
+    "timeline.event-11.text": "Juró el cargo tras las elecciones de marzo para un nuevo mandato de seis años, en un contexto de represión de la oposición y guerra en Ucrania."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

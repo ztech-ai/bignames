@@ -1,11 +1,11 @@
 {
-  "sourceHash": "b2c55e7ef400de23ed75e37888c5ea1a375503045087c73762c2e8a096b1bd96",
+  "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
   "strings": {
     "name": "마크 저커버그",
-    "role": "Facebook 공동 창업자 · 소셜 네트워크",
+    "role": "Meta 공동창업자 겸 최고경영자",
     "country": "미국",
     "summary": "저커버그는 하버드 재학 중 동료들과 Facebook을 만들어 대학 소셜 사이트를 세계적인 플랫폼으로 발전시켰다. Instagram과 WhatsApp 등을 같은 기업 체계에 편입했으며 2021년에는 회사 이름을 Meta로 바꾸고 가상·증강현실에 투자한다고 발표했다. 이용자 개인정보, 플랫폼 권력, 콘텐츠 관리도 그의 사업에서 지속적인 논쟁을 낳았다.",
-    "coverageNote": "1984~2021년의 주요 생애와 기업 전환점을 선정했다. 이후 플랫폼 제품, 소송, 경영 직위의 변화는 이 판의 범위에 포함되지 않는다.",
+    "coverageNote": "1984~2026년의 주요 경력에 미국 콘텐츠 관리 변화, AI 재편과 모델 공개, 반독점 소송 항소 및 개인정보 사건 제재금을 보완했다. CEO 재직은 2026년 10월 공시로 확인했고 조사 기준일은 2026년 11월 13일이다. 비전, 법원 명령, 실제 이행을 구분하며 모든 제품과 소송을 다루지는 않는다.",
     "tags.社交网络": "소셜 네트워크",
     "tags.互联网": "인터넷",
     "tags.虚拟现实": "가상현실",
@@ -37,6 +37,39 @@
     "timeline.event-07.title": "Facebook 공동 창업",
     "timeline.event-07.text": "하버드에서 동료들과 소셜 사이트를 만든 뒤 학교를 떠나 회사 성장에 집중했다.",
     "timeline.event-08.title": "뉴욕주에서 출생",
-    "timeline.event-08.text": "화이트플레인스에서 태어나 뉴욕주에서 성장했으며 이후 하버드 대학교에 진학했다."
+    "timeline.event-08.text": "화이트플레인스에서 태어나 뉴욕주에서 성장했으며 이후 하버드 대학교에 진학했다.",
+    "timeline.event-2026-privacy-order.title": "뉴멕시코 개인정보 소송에서 Meta에 민사 제재금 부과",
+    "timeline.event-2026-privacy-order.text": "법원은 Meta에 250억 달러의 민사 제재금 지급을 명령했다. 회사에 대한 사건으로, 이 페이지는 지급 완료나 확정판결 또는 저커버그 개인의 유죄판결로 단정하지 않는다.",
+    "timeline.event-2026-spark.title": "Muse Spark 공개",
+    "timeline.event-2026-spark.text": "AI 사업 재편에 이어 Meta Superintelligence Labs가 Muse Spark 모델을 공개했다. ‘개인용 초지능’은 여전히 회사의 비전이다.",
+    "timeline.event-2026-antitrust-appeal.title": "FTC, Meta 반독점 판결에 항소",
+    "timeline.event-2026-antitrust-appeal.text": "Meta는 2025년 11월 18일 Instagram과 WhatsApp 관련 반독점 소송에서 승소했으며 이후 FTC가 항소했다. 모든 소송이 끝났다는 뜻은 아니다.",
+    "timeline.event-2025-msl.title": "AI 사업 재편",
+    "timeline.event-2025-msl.text": "앞서 Scale AI에 투자한 Meta는 AI 업무를 Alexandr Wang이 이끄는 Meta Superintelligence Labs로 통합했다.",
+    "timeline.event-2025-notes.title": "미국에서 제3자 사실확인 종료",
+    "timeline.event-2025-notes.text": "Meta는 미국에서 제3자 사실확인을 종료하고 커뮤니티 노트 표시를 시작했다. 논란을 부른 이 정책 변화는 전 세계 동시 폐지를 뜻하지 않는다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-privacy-order.title",
+      "timeline.event-2026-privacy-order.text",
+      "timeline.event-2026-spark.title",
+      "timeline.event-2026-spark.text",
+      "timeline.event-2026-antitrust-appeal.title",
+      "timeline.event-2026-antitrust-appeal.text",
+      "timeline.event-2025-msl.title",
+      "timeline.event-2025-msl.text",
+      "timeline.event-2025-notes.title",
+      "timeline.event-2025-notes.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

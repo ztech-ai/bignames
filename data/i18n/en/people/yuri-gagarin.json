@@ -1,11 +1,11 @@
 {
-  "sourceHash": "fea19dd77bee691de38f14d374300474dd4dc0919054a2847bb1838e8e03d27f",
+  "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
   "strings": {
     "name": "Yuri Gagarin",
     "role": "Cosmonaut · First human in space",
     "country": "Soviet Union",
     "summary": "Yuri Gagarin was a Soviet pilot and cosmonaut. On 12 April 1961, he orbited Earth aboard Vostok 1, becoming the first human in space and opening the era of human spaceflight. He subsequently undertook international visits and cosmonaut training duties while continuing his studies in aeronautical engineering. He died in 1968 during a flight in a two-seat training aircraft, leaving a landmark achievement in the history of space exploration.",
-    "coverageNote": "“Sport & Exploration” is a navigation category on this website; Gagarin belongs to its space-exploration branch. Regional tags describe major associations in his life, not present-day nationality.",
+    "coverageNote": "Selected aviation, spaceflight and public roles from 1934–1968. “Sports and Exploration” is the site’s navigation category; regional tags do not mean modern nationality. Reviewed through 2026-11-13; posthumous commemorations are not personal activities. No definitive crash cause is asserted.",
     "tags.太空探索": "Space exploration",
     "tags.载人航天": "Human spaceflight",
     "tags.飞行员": "Pilots",
@@ -22,14 +22,14 @@
     "highlights.highlight-02.text": "Worked at the training center after his flight, helping prepare subsequent cosmonauts for missions.",
     "timeline.event-01.title": "Killed during a training flight",
     "timeline.event-01.text": "Crashed while flying a MiG-15UTI trainer with instructor Vladimir Seryogin; he was 34.",
-    "timeline.event-02.title": "Completes engineering studies",
-    "timeline.event-02.text": "Completed technical studies and graduation research while continuing his work in cosmonaut training.",
+    "timeline.event-02.title": "Passes engineering thesis defense",
+    "timeline.event-02.text": "Successfully defended a thesis on spaceplane design at the Zhukovsky Air Force Engineering Academy, then resumed aircraft flight training.",
     "timeline.event-03.title": "Serves as backup for Soyuz 1",
     "timeline.event-03.text": "Prepared as Vladimir Komarov’s backup crewmember, still hoping to return to space.",
     "timeline.event-04.title": "Helps lead cosmonaut training",
     "timeline.event-04.text": "Became a deputy at the Cosmonaut Training Center, taking responsibility for training later flight personnel.",
     "timeline.event-05.title": "First human spaceflight",
-    "timeline.event-05.text": "Launched aboard Vostok 1, orbited Earth once and returned safely, marking a milestone in human spaceflight.",
+    "timeline.event-05.text": "Completed an orbital flight of about 108 minutes aboard Vostok 1; after atmospheric re-entry, ejected as planned and landed safely by parachute.",
     "timeline.event-06.title": "Selected among the first cosmonauts",
     "timeline.event-06.text": "Chosen from Soviet pilots for a group of twenty, undergoing endurance tests and flight-mission training.",
     "timeline.event-07.title": "Completes military flight training",
@@ -37,6 +37,25 @@
     "timeline.event-08.title": "Enters military flying school",
     "timeline.event-08.text": "After technical school, entered the military flying school in Orenburg for professional flight training.",
     "timeline.event-09.title": "Born in Klushino",
-    "timeline.event-09.text": "Born into a rural Soviet family; later studied metalworking and technical subjects and became involved in flying."
+    "timeline.event-09.text": "Born into a rural Soviet family; later studied metalworking and technical subjects and became involved in flying.",
+    "timeline.event-10.title": "Begins serving in the Supreme Soviet",
+    "timeline.event-10.text": "After his first spaceflight, undertook public duties and international visits while continuing work in cosmonaut training and spacecraft research."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
+    "fields": [
+      "coverageNote",
+      "timeline.event-02.title",
+      "timeline.event-02.text",
+      "timeline.event-10.title",
+      "timeline.event-10.text",
+      "timeline.event-05.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

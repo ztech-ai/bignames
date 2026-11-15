@@ -1,5 +1,5 @@
 {
-  "sourceHash": "12af474acb19bd80720f235ce54b6778bf6c1cb77f5f4675b50c7f1cca81b648",
+  "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
   "strings": {
     "name": "Rabindranath Tagore",
     "role": "Poeta y educador · Figura de la literatura bengalí",
@@ -39,6 +39,25 @@
     "timeline.event-08.title": "Publica el poemario Manasi",
     "timeline.event-08.text": "La publicación coincidió con una etapa en la que la vida en las propiedades familiares le acercó a la sociedad rural.",
     "timeline.event-09.title": "Nace en Calcuta",
-    "timeline.event-09.text": "Creció en una familia interesada en la literatura y el pensamiento; recibió enseñanza privada y comenzó pronto a escribir."
+    "timeline.event-09.text": "Creció en una familia interesada en la literatura y el pensamiento; recibió enseñanza privada y comenzó pronto a escribir.",
+    "facts.fact-04.label": "Legado musical",
+    "facts.fact-04.value": "Canciones de su autoría son adoptadas posteriormente como himnos nacionales de la India y Bangladés.",
+    "timeline.event-10.title": "Funda Sriniketan para la reconstrucción rural",
+    "timeline.event-10.text": "Desarrolla la reconstrucción rural en Visva-Bharati, vinculando la educación con la agricultura, la artesanía y la mejora de la vida en las aldeas."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
+    "fields": [
+      "facts.fact-04.label",
+      "facts.fact-04.value",
+      "timeline.event-10.title",
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

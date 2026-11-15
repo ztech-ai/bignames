@@ -1,5 +1,5 @@
 {
-  "sourceHash": "c4d31b1701621ae9059213c08882c7ac9b9eab70fad50a700a5c2a7ec1351f17",
+  "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
   "strings": {
     "name": "Frida Kahlo",
     "role": "Pintora · Cuerpo e identidad a través del autorretrato",
@@ -39,6 +39,21 @@
     "timeline.event-09.title": "Sufre un grave accidente",
     "timeline.event-09.text": "El autobús en el que viajaba chocó con un tranvía. Las graves lesiones exigieron tratamientos repetidos durante el resto de su vida.",
     "timeline.event-10.title": "Nace en Coyoacán",
-    "timeline.event-10.text": "Nació en la casa familiar de Ciudad de México que después sería conocida como la Casa Azul."
+    "timeline.event-10.text": "Nació en la casa familiar de Ciudad de México que después sería conocida como la Casa Azul.",
+    "timeline.event-11.title": "Recibe un nombramiento como profesora de arte",
+    "timeline.event-11.text": "Los archivos conservan su nombramiento como profesora de arte de este año. Enseña en La Esmeralda y más tarde traslada las clases a su casa por motivos de salud."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
+    "fields": [
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "レオナルド・ダ・ヴィンチ",
     "role": "画家 · ルネサンス期の多分野の探究者",
     "country": "イタリア諸邦 / フランス",
     "summary": "ダ・ヴィンチはフィレンツェ、ミラノ、フランス宮廷で活動し、『最後の晩餐』『モナ・リザ』などでヨーロッパ絵画に影響を与えた。観察、素描、実験的な思考を人体、自然、機械の研究に用い、多くの手稿を残した。工学上の構想の多くは設計段階にとどまり、美術作品にも未完成のものが少なくない。その重要性は、現存する絵画と分野を横断する研究方法の双方にある。",
-    "coverageNote": "作品の制作時期には学術上の異説がある。『モナ・リザ』はルーヴル美術館による1503年ごろ着手の記録に従う。人物の歴史的肖像は美術作品であり、実写写真ではない。",
+    "coverageNote": "1452〜1519年の主な生涯、芸術、解剖学研究を収録。作品の制作年代には議論があり、《モナ・リザ》はルーヴル美術館の記録に従い1503年頃の着手とする。初期の肖像は美術作品である。確認の基準日は2026-11-13。死後の記念行事は本人の活動に含めない。",
     "tags.文艺复兴": "ルネサンス",
     "tags.绘画": "絵画",
     "tags.解剖学": "解剖学",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "画家組合に加入",
     "timeline.event-09.text": "ヴェロッキオ工房での修業を経て、フィレンツェの聖ルカ画家組合に加わった。",
     "timeline.event-10.title": "ヴィンチ近郊に生まれる",
-    "timeline.event-10.text": "トスカーナ地方に生まれ、幼少期を故郷で過ごした後、フィレンツェで美術を学んだ。"
+    "timeline.event-10.text": "トスカーナ地方に生まれ、幼少期を故郷で過ごした後、フィレンツェで美術を学んだ。",
+    "timeline.event-11.title": "人体解剖図を体系的に作成",
+    "timeline.event-11.text": "解剖によって骨格と筋肉を研究し、人体の構造を複数の視点から図に記録した。構想した論著は生前には出版されなかった。",
+    "timeline.event-11.dateLabel": "1510〜1511年の冬頃"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "2cf9e0b1bbc7a16429bb994cae027d0db0e79d3df5f9d6360baa3fa8b36602a7",
+  "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
   "strings": {
     "name": "래리 페이지",
-    "role": "Google 공동 창업자 · 검색 기술",
+    "role": "Google 공동창업자 · Alphabet 이사",
     "country": "미국",
     "summary": "페이지는 세르게이 브린과 스탠퍼드에서 웹페이지 링크 분석을 연구하고 이를 바탕으로 Google을 창업했다. 페이지랭크 등의 기술은 온라인 정보 검색을 개선했으며 회사는 이후 동영상, 모바일 운영체제, 클라우드 서비스로 확장했다. 그는 두 차례 Google의 일상 경영에 참여하고 Alphabet 구조의 형성을 추진했으며 2019년 그룹 CEO에서 물러났다.",
-    "coverageNote": "1973~2019년의 공개된 생애와 기업 경영 사건을 선정했다. 이후의 투자와 개인 활동은 지속적으로 추적하지 않는다.",
+    "coverageNote": "1973~2026년의 주요 경력에 이사 재선임, 창업 보도, Google 반독점 판결을 보완했다. 조사 기준일은 2026년 11월 13일이다. 창업 보도가 제품 완성을 뜻하지 않으며 개인 투자를 지속적으로 추적하거나 회사의 모든 소송을 다루지는 않는다.",
     "tags.搜索引擎": "검색엔진",
     "tags.互联网": "인터넷",
     "tags.计算机科学": "컴퓨터과학",
@@ -39,6 +39,35 @@
     "timeline.event-08.title": "스탠퍼드 연구 환경에 합류",
     "timeline.event-08.text": "미시간 대학교 학부를 마친 뒤 스탠퍼드로 진학했다. 브린을 만나 점차 검색 연구에 협력했다.",
     "timeline.event-09.title": "미시간주에서 출생",
-    "timeline.event-09.text": "랜싱 지역에서 태어났으며 미시간 대학교에서 공학을 공부한 뒤 스탠퍼드에서 학업을 이어갔다."
+    "timeline.event-09.text": "랜싱 지역에서 태어났으며 미시간 대학교에서 공학을 공부한 뒤 스탠퍼드에서 학업을 이어갔다.",
+    "timeline.event-2026-board.title": "Alphabet 이사로 재선임",
+    "timeline.event-2026-board.text": "정기 주주총회에서 이사로 재선임됐다. 이사 지위는 2019년 종료된 CEO 재직과 구분해야 한다.",
+    "timeline.event-2025-remedies.title": "검색 소송 시정조치 판결",
+    "timeline.event-2025-remedies.text": "법원은 Google에 일부 검색 데이터 공유를 명령하고 배타적 유통 계약을 제한했지만 Chrome 매각은 명령하지 않았다. 시정 명령이 전면적인 이행 완료를 뜻하지는 않는다.",
+    "timeline.event-2025-dynatomics.title": "Dynatomics 창업 프로젝트 보도",
+    "timeline.event-2025-dynatomics.text": "Business Insider는 기업 등록 자료와 관계자들을 근거로 AI와 적층 제조를 탐구하는 Dynatomics에 페이지가 참여했다고 보도했다. 이 페이지는 제품 상용화가 완료됐다고 단정하지 않는다.",
+    "timeline.event-2024-antitrust.title": "Google 검색 사업의 불법 독점 유지 판결",
+    "timeline.event-2024-antitrust.text": "미국 연방지방법원은 Google이 검색과 검색 텍스트 광고의 독점을 불법으로 유지했다고 판결했다. 회사에 대한 판결로, 페이지 개인의 위법행위 판결은 아니다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-board.title",
+      "timeline.event-2026-board.text",
+      "timeline.event-2025-remedies.title",
+      "timeline.event-2025-remedies.text",
+      "timeline.event-2025-dynatomics.title",
+      "timeline.event-2025-dynatomics.text",
+      "timeline.event-2024-antitrust.title",
+      "timeline.event-2024-antitrust.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

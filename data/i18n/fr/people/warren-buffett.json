@@ -1,11 +1,11 @@
 {
-  "sourceHash": "daceb61eeee32d31b10a3efb3e0c72c93622e97736c8b222d622fc5f7061a912",
+  "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
   "strings": {
     "name": "Warren Buffett",
-    "role": "Investisseur · Dirigeant de longue date de Berkshire Hathaway",
+    "role": "Investisseur · Président émérite et administrateur de Berkshire",
     "country": "États-Unis",
     "summary": "Warren Buffett est connu pour l'investissement dans la valeur et l'allocation de capitaux à long terme. Il prend le contrôle de Berkshire Hathaway en 1965 et transforme progressivement cette entreprise textile en groupe diversifié. Sa méthode privilégie les fondamentaux des entreprises, leur gestion et la marge de sécurité. Il s'engage aussi dans la philanthropie par des dons d'actions et le Giving Pledge. Début 2026, Berkshire procède à la succession de sa direction générale.",
-    "coverageNote": "Sélection d'étapes entrepreneuriales, financières et philanthropiques, avec vérification de la succession à la direction générale en janvier 2026. Le dossier ne fournit ni fonctions actualisées en temps réel, ni classement de fortunes, ni conseil d'investissement.",
+    "coverageNote": "Jalons choisis de 1930 à 2026 en investissement et philanthropie, complétés par les successions à la direction générale et à la présidence et les dons d’actions de l’année. Sa fonction a été vérifiée dans le communiqué du 18 septembre 2026 ; recherches arrêtées au 13 novembre 2026. Les transactions ne sont pas couvertes exhaustivement ; cette fiche n’est ni un classement de fortune en temps réel ni un conseil en investissement.",
     "tags.价值投资": "Investissement dans la valeur",
     "tags.伯克希尔": "Berkshire Hathaway",
     "tags.资本配置": "Allocation de capitaux",
@@ -39,6 +39,27 @@
     "timeline.event-08.title": "Fin des études à Columbia",
     "timeline.event-08.text": "Il obtient son master après avoir étudié auprès de Benjamin Graham.",
     "timeline.event-09.title": "Naissance à Omaha",
-    "timeline.event-09.text": "Il grandit aux États-Unis et exerce dès l'adolescence de petites activités commerciales, notamment la distribution de journaux."
+    "timeline.event-09.text": "Il grandit aux États-Unis et exerce dès l'adolescence de petites activités commerciales, notamment la distribution de journaux.",
+    "timeline.event-2026-chair.title": "Président émérite, il conserve son siège au conseil",
+    "timeline.event-2026-chair.text": "Howard Buffett est devenu président du conseil ; Buffett est devenu président émérite tout en restant administrateur. Greg Abel est resté directeur général après sa prise de fonction en janvier.",
+    "timeline.event-2026-donation.title": "Don d’actions à quatre fondations familiales",
+    "timeline.event-2026-donation.text": "Il a donné 12 millions d’actions de classe B de Berkshire. Il a aussi cessé cette année-là les dons à la Fondation Gates, modifiant un partenariat philanthropique de longue date."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-chair.title",
+      "timeline.event-2026-chair.text",
+      "timeline.event-2026-donation.title",
+      "timeline.event-2026-donation.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

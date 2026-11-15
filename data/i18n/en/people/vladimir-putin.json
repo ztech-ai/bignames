@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "Vladimir Putin",
-    "role": "Russian politician · Governance and international relations",
+    "role": "President of Russia · Politician",
     "country": "Russia",
     "summary": "Putin moved from Soviet intelligence into local and central administration, becoming Russian prime minister and acting president in 1999. He subsequently served multiple terms as president and prime minister and is a central figure in contemporary Russia. Relations between Russia and the West changed profoundly during his leadership. The annexation of Crimea in 2014 and the full-scale invasion of Ukraine in 2022 drew international condemnation and reshaped European security.",
-    "coverageNote": "Selected milestones from 1952 to 2023. The war and international legal proceedings continue to develop; these entries do not represent subsequent case status. Regional tags reflect Russia’s transcontinental associations.",
+    "coverageNote": "Selected milestones through November 12, 2026; life and presidential status checked through November 13. The war, negotiations and international legal proceedings continue to develop; an arrest warrant is not a conviction.",
     "tags.俄罗斯政治": "Russian politics",
     "tags.总统": "Presidents",
     "tags.国际关系": "International relations",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "Graduates and enters intelligence work",
     "timeline.event-09.text": "Graduated from Leningrad State University’s law faculty and joined the KGB, serving for a period in East Germany.",
     "timeline.event-10.title": "Born in Leningrad",
-    "timeline.event-10.text": "Born in Leningrad in the Soviet Union, now Saint Petersburg in Russia."
+    "timeline.event-10.text": "Born in Leningrad in the Soviet Union, now Saint Petersburg in Russia.",
+    "timeline.event-13.title": "Holds further Ukraine talks with US envoys",
+    "timeline.event-13.text": "Met Steve Witkoff and Jared Kushner at the Kremlin as negotiations continued; the meeting did not establish that the war had ended.",
+    "timeline.event-12.title": "Meets Trump in Alaska",
+    "timeline.event-12.text": "Discussed the war in Ukraine in Anchorage; the meeting produced no ceasefire or agreement to end the war.",
+    "timeline.event-11.title": "Begins fifth presidential term",
+    "timeline.event-11.text": "Took office after the March election for another six-year term, against the backdrop of repression of opposition and the war in Ukraine."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

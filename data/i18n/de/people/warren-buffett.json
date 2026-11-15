@@ -1,11 +1,11 @@
 {
-  "sourceHash": "daceb61eeee32d31b10a3efb3e0c72c93622e97736c8b222d622fc5f7061a912",
+  "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
   "strings": {
     "name": "Warren Buffett",
-    "role": "Investor · Langjähriger Leiter von Berkshire Hathaway",
+    "role": "Investor · Ehrenvorsitzender und Verwaltungsrat von Berkshire",
     "country": "USA",
     "summary": "Warren Buffett ist für Value Investing und langfristige Kapitalallokation bekannt. 1965 übernahm er die Kontrolle über Berkshire Hathaway und formte das Textilunternehmen schrittweise zu einem diversifizierten Konzern. Sein Ansatz betont Unternehmensfundamentaldaten, Führung und Sicherheitsmargen. Durch Aktienspenden und den Giving Pledge engagiert er sich auch gemeinnützig. Anfang 2026 vollzog Berkshire den Wechsel im CEO-Amt.",
-    "coverageNote": "Ausgewählte Stationen aus Unternehmensgründung, Investitionen und Philanthropie, einschließlich des geprüften CEO-Wechsels im Januar 2026. Keine Echtzeitangaben zu Ämtern oder Vermögensranglisten und keine Anlageberatung.",
+    "coverageNote": "Ausgewählte Investment- und Philanthropiestationen von 1930 bis 2026, ergänzt um die Übergaben von CEO- und Vorsitzendenamt sowie die Aktienspenden des Jahres. Seine Funktion wurde anhand der Mitteilung vom 18. September 2026 geprüft; Recherchestichtag: 13. November 2026. Nicht alle Transaktionen sind erfasst; das Profil bietet weder aktuelle Vermögensranglisten noch Anlageberatung.",
     "tags.价值投资": "Value Investing",
     "tags.伯克希尔": "Berkshire Hathaway",
     "tags.资本配置": "Kapitalallokation",
@@ -39,6 +39,27 @@
     "timeline.event-08.title": "Abschluss an der Columbia University",
     "timeline.event-08.text": "Er erwarb einen Masterabschluss und studierte unter anderem bei Benjamin Graham.",
     "timeline.event-09.title": "Geburt in Omaha",
-    "timeline.event-09.text": "Er wuchs in den USA auf und sammelte bereits als Jugendlicher Erfahrungen beim Zeitungsaustragen und mit weiteren kleinen Geschäften."
+    "timeline.event-09.text": "Er wuchs in den USA auf und sammelte bereits als Jugendlicher Erfahrungen beim Zeitungsaustragen und mit weiteren kleinen Geschäften.",
+    "timeline.event-2026-chair.title": "Ehrenvorsitzender bei fortbestehendem Verwaltungsratsmandat",
+    "timeline.event-2026-chair.text": "Howard Buffett wurde Verwaltungsratsvorsitzender; Buffett wurde Ehrenvorsitzender und blieb im Verwaltungsrat. Greg Abel blieb nach seinem Amtsantritt im Januar CEO.",
+    "timeline.event-2026-donation.title": "Aktienspenden an vier Familienstiftungen",
+    "timeline.event-2026-donation.text": "Er spendete zwölf Millionen Berkshire-Aktien der Klasse B. Im selben Jahr beendete er zudem seine Spenden an die Gates-Stiftung und änderte damit eine langjährige philanthropische Partnerschaft."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-chair.title",
+      "timeline.event-2026-chair.text",
+      "timeline.event-2026-donation.title",
+      "timeline.event-2026-donation.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

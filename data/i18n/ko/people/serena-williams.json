@@ -1,11 +1,11 @@
 {
-  "sourceHash": "0ecf0fb171cb572346e06a5bf322844ccb62a5a5fd3507bf4cb2125d7110576a",
+  "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
   "strings": {
     "name": "세리나 윌리엄스",
     "role": "테니스 선수 · 그랜드슬램 단식 23회 우승",
     "country": "미국",
-    "summary": "세리나 윌리엄스는 강력한 서브, 베이스라인 공격, 오랜 경쟁력으로 여자 테니스에 영향을 미쳤다. 콤프턴의 공공 코트에서 세계 무대로 진출해 그랜드슬램 단식 23회 우승을 기록하고 언니 비너스와 복식에서도 중요한 성과를 거뒀다. 부상 후 복귀, 출산 후 그랜드슬램 결승 진출, 2022년 투어를 떠난 뒤 2026년 프로 복식 복귀를 경험했다.",
-    "coverageNote": "2026년 9월까지의 주요 경력을 선정했다. 2022년 투어 이탈과 2026년 복식 복귀는 대회 기관 보도에 근거하며 실시간 순위는 제공하지 않는다.",
+    "summary": "세리나 윌리엄스는 강력한 서브와 공격적인 베이스라인 플레이, 오랜 경쟁력으로 여자 테니스에 영향을 주었다. 콤프턴의 공공 코트에서 세계 무대로 진출해 그랜드슬램 단식 23회 우승을 거뒀고 언니 비너스와 복식에서도 큰 성과를 냈다. 부상 후 복귀와 출산 후 그랜드슬램 결승 진출을 경험했으며 2022년 코트를 떠났다가 2026년 복식과 단식에 복귀했다.",
+    "coverageNote": "2026년 9월 4일까지의 주요 이력을 선별했다. 2026년 복귀와 경기 결과는 대회 기관과 독립 보도를 교차 확인했으며 우승 횟수와 순위를 구별한다. 실시간 순위나 전체 경기 일정은 제공하지 않는다.",
     "tags.网球": "테니스",
     "tags.大满贯": "그랜드슬램",
     "tags.奥运会": "올림픽",
@@ -23,7 +23,7 @@
     "timeline.event-01.title": "언니와 US오픈 복식 복귀",
     "timeline.event-01.text": "비너스와 다시 짝을 이뤄 US오픈 여자복식에 출전했으며 첫 경기에서 세 세트 끝에 패했다.",
     "timeline.event-02.title": "프로 복식 무대 복귀",
-    "timeline.event-02.text": "런던 퀸스클럽에서 빅토리아 음보코와 짝을 이루고 첫 경기에서 승리했다.",
+    "timeline.event-02.text": "런던 퀸스클럽에서 빅토리아 음보코와 첫 경기를 이겼으나 이후 음보코의 부상으로 기권해 대회 우승에는 이르지 못했다.",
     "timeline.event-03.title": "프로 투어를 잠시 떠남",
     "timeline.event-03.text": "US오픈 3회전 패배 후 그해 투어 생활을 마쳤다. 이 시기는 영구적인 끝이 아니었다.",
     "timeline.event-04.title": "그랜드슬램 단식 23번째 우승",
@@ -41,6 +41,28 @@
     "timeline.event-10.title": "첫 프로 예선 출전",
     "timeline.event-10.text": "14세에 퀘벡시티의 프로 대회 예선에 참가하며 점차 투어 체계에 진입했다.",
     "timeline.event-11.title": "새기노에서 출생",
-    "timeline.event-11.text": "태어난 뒤 가족과 캘리포니아로 이주했으며 어린 시절부터 언니와 테니스를 연습했다."
+    "timeline.event-11.text": "태어난 뒤 가족과 캘리포니아로 이주했으며 어린 시절부터 언니와 테니스를 연습했다.",
+    "timeline.event-13.title": "알카라스와 US오픈 혼합복식 출전",
+    "timeline.event-13.text": "카를로스 알카라스와 첫 경기를 이긴 뒤 8강에서 벨린다 벤치치와 플라비오 코볼리에게 패했다.",
+    "timeline.event-12.title": "윔블던에서 단식 복귀",
+    "timeline.event-12.text": "와일드카드로 윔블던에 출전해 1회전에서 마야 조인트에게 세 세트 만에 패했다. 2022년 US오픈 이후 첫 단식 경기였다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
+    "fields": [
+      "summary",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-02.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

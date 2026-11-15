@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d32fbbfb9105a1aa38cd9c5dabf0c06a7ca70582b2116c41e1ae084fe80184cc",
+  "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
   "strings": {
     "name": "Nelson Mandela",
     "role": "Líder de la transición democrática sudafricana · Premio Nobel de la Paz",
     "country": "Sudáfrica",
     "summary": "Mandela pasó de abogado y activista del Congreso Nacional Africano a referente de la lucha contra el apartheid. Participó en la resistencia armada, sufrió un largo encarcelamiento y, tras ser liberado, intervino en las negociaciones para terminar con el gobierno de la minoría blanca. Compartió el Nobel de la Paz de 1993 con De Klerk y al año siguiente fue presidente tras las elecciones democráticas. Dejó el cargo después de un mandato y continuó trabajando en causas sociales y reconciliación.",
-    "coverageNote": "Esta edición cubre los principales hitos entre 1918 y 2013, a partir de los archivos de la Fundación Nelson Mandela y la información del Premio Nobel.",
+    "coverageNote": "Selección de hitos de la lucha contra el apartheid, la transición democrática, la presidencia y la filantropía de 1918 a 2013, con la firma de la Constitución y la reducción de sus compromisos públicos. Revisión hasta el 2026-11-13; las conmemoraciones póstumas no se consideran actividades personales. No se cubren exhaustivamente la vida familiar ni todos los debates políticos.",
     "tags.反种族隔离": "Lucha contra el apartheid",
     "tags.人权": "Derechos humanos",
     "tags.诺贝尔和平奖": "Premio Nobel de la Paz",
@@ -41,6 +41,30 @@
     "timeline.event-09.title": "Participa en la fundación de la Liga Juvenil del CNA",
     "timeline.event-09.text": "Se incorporó al Congreso Nacional Africano y creó con sus compañeros su organización juvenil para luchar contra el apartheid.",
     "timeline.event-10.title": "Nace en Mvezo",
-    "timeline.event-10.text": "Nació en el Cabo Oriental. Posteriormente estudió en Fort Hare y la Universidad de Sudáfrica, entre otras instituciones, y se orientó al Derecho."
+    "timeline.event-10.text": "Nació en el Cabo Oriental. Posteriormente estudió en Fort Hare y la Universidad de Sudáfrica, entre otras instituciones, y se orientó al Derecho.",
+    "timeline.event-12.title": "Anuncia la reducción de sus compromisos públicos",
+    "timeline.event-12.text": "Anunció su retirada de una intensa agenda pública para dedicar más tiempo a la familia, la lectura y la escritura, mientras las fundaciones vinculadas continuaban la labor benéfica.",
+    "timeline.event-11.title": "Firma la nueva Constitución sudafricana",
+    "timeline.event-11.text": "Firmó en Sharpeville la Constitución, que establecía instituciones democráticas y garantías de derechos; entró en vigor el 4 de febrero de 1997.",
+    "timeline.event-13.title": "Crea el Fondo Nelson Mandela para la Infancia",
+    "timeline.event-13.text": "Fundó el Fondo para la Infancia durante su presidencia para mejorar la situación de los niños, incorporando la filantropía a su labor pública."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
+    "fields": [
+      "coverageNote",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "Charlie Chaplin",
     "role": "Acteur et réalisateur · Créateur majeur de la comédie muette",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "Tournée aux États-Unis",
     "timeline.event-10.text": "Avec la troupe de Fred Karno, il apporte aux États-Unis son expérience de la comédie de scène.",
     "timeline.event-11.title": "Naissance à Londres",
-    "timeline.event-11.text": "Ses parents sont artistes de scène ; après une enfance pauvre, il débute dans des troupes d'enfants."
+    "timeline.event-11.text": "Ses parents sont artistes de scène ; après une enfance pauvre, il débute dans des troupes d'enfants.",
+    "timeline.event-12.title": "Est anobli au Royaume-Uni",
+    "timeline.event-12.text": "La reine Élisabeth II lui confère le titre de chevalier.",
+    "timeline.event-13.title": "Sortie de La Ruée vers l’or",
+    "timeline.event-13.text": "La Ruée vers l’or, film muet qu’il réalise et dans lequel il tient le rôle principal, sort en salles et devient une œuvre majeure de ses longs métrages comiques."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "b2c55e7ef400de23ed75e37888c5ea1a375503045087c73762c2e8a096b1bd96",
+  "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
   "strings": {
     "name": "マーク・ザッカーバーグ",
-    "role": "Facebook共同創業者 · ソーシャルネットワーク",
+    "role": "Meta共同創業者兼最高経営責任者",
     "country": "アメリカ",
     "summary": "ザッカーバーグはハーバード大学在学中に仲間とFacebookを設立し、大学内の交流サイトを世界的なプラットフォームへ成長させた。InstagramやWhatsAppなどを同じ企業グループに組み込み、2021年には社名をMetaへ変更すると発表して仮想現実や拡張現実に投資した。利用者のプライバシー、プラットフォームの権力、コンテンツ管理は、その事業をめぐる重要な論点であり続けている。",
-    "coverageNote": "本版は1984〜2021年の主要な生涯と企業の転機を収録。以後の製品、訴訟、経営上の役職の変化は対象に含めない。",
+    "coverageNote": "1984～2026年の主な経歴を選び、米国でのコンテンツ管理、AI再編とモデル公開、反トラスト訴訟の控訴、プライバシー訴訟の民事制裁金を追記。CEOの地位は2026年10月の開示で確認し、調査基準日は2026年11月13日とした。構想、裁判所の命令、実際の履行を区別し、製品や訴訟を網羅していない。",
     "tags.社交网络": "ソーシャルネットワーク",
     "tags.互联网": "インターネット",
     "tags.虚拟现实": "仮想現実",
@@ -37,6 +37,39 @@
     "timeline.event-07.title": "Facebookを共同設立",
     "timeline.event-07.text": "ハーバード在学中に仲間と交流サイトを立ち上げ、その後大学を離れて会社の成長に専念した。",
     "timeline.event-08.title": "ニューヨーク州に生まれる",
-    "timeline.event-08.text": "ホワイトプレーンズに生まれ、ニューヨーク州で育ち、後にハーバード大学へ進学した。"
+    "timeline.event-08.text": "ホワイトプレーンズに生まれ、ニューヨーク州で育ち、後にハーバード大学へ進学した。",
+    "timeline.event-2026-privacy-order.title": "ニューメキシコ州のプライバシー訴訟でMetaに民事制裁金",
+    "timeline.event-2026-privacy-order.text": "裁判所はMetaに250億ドルの民事制裁金の支払いを命じた。会社に対する事件であり、本ページは支払い済み、確定判決、ザッカーバーグ個人の有罪判決とは認定しない。",
+    "timeline.event-2026-spark.title": "Muse Sparkを公開",
+    "timeline.event-2026-spark.text": "AI事業再編に続き、Meta Superintelligence LabsがMuse Sparkモデルを公開した。「個人向け超知能」は引き続き会社の構想である。",
+    "timeline.event-2026-antitrust-appeal.title": "FTCがMeta反トラスト訴訟の判決に控訴",
+    "timeline.event-2026-antitrust-appeal.text": "Metaは2025年11月18日にInstagramとWhatsAppに関する反トラスト訴訟で勝訴し、その後FTCが控訴した。すべての訴訟が終結したわけではない。",
+    "timeline.event-2025-msl.title": "人工知能事業を再編",
+    "timeline.event-2025-msl.text": "AIの取り組みをAlexandr Wang率いるMeta Superintelligence Labsに集約した。これに先立ちMetaはScale AIに出資していた。",
+    "timeline.event-2025-notes.title": "米国で第三者ファクトチェックを終了",
+    "timeline.event-2025-notes.text": "Metaは米国で第三者ファクトチェックを終了し、コミュニティノートの表示を開始した。この議論を呼んだ方針転換は、世界同時の廃止ではない。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dfd724888755d439feafeb7778bd9d3a0aa70ffd285f6f712c3d33c45b618250",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-privacy-order.title",
+      "timeline.event-2026-privacy-order.text",
+      "timeline.event-2026-spark.title",
+      "timeline.event-2026-spark.text",
+      "timeline.event-2026-antitrust-appeal.title",
+      "timeline.event-2026-antitrust-appeal.text",
+      "timeline.event-2025-msl.title",
+      "timeline.event-2025-msl.text",
+      "timeline.event-2025-notes.title",
+      "timeline.event-2025-notes.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

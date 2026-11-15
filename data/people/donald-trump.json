@@ -74,6 +74,36 @@
   ],
   "timeline": [
     {
+      "id": "event-12",
+      "date": "2026-02-20",
+      "title": "最高法院否定紧急权力关税依据",
+      "text": "最高法院以6比3裁定《国际紧急经济权力法》未授权总统征收关税，否定其相关关税的法律依据；并非取消一切法定关税权。",
+      "sourceIds": [
+        "tariff-ruling",
+        "ruling-reuters"
+      ]
+    },
+    {
+      "id": "event-14",
+      "date": "2025-07-04",
+      "title": "签署重大税收与支出法案",
+      "text": "签署被称为“大而美法案”的税收与支出立法，延续减税并削减医疗补助等项目支出，引发财政与社会保障争议。",
+      "sourceIds": [
+        "tax-law",
+        "tax-reuters"
+      ]
+    },
+    {
+      "id": "event-11",
+      "date": "2025-04-02",
+      "title": "宣布广泛的“对等关税”",
+      "text": "援引《国际紧急经济权力法》宣布对多国进口商品加征关税，成为第二任期贸易政策及诉讼的重要焦点。",
+      "sourceIds": [
+        "tariffs",
+        "ruling-reuters"
+      ]
+    },
+    {
       "date": "2025-01-20",
       "title": "第二次宣誓就任总统",
       "text": "在赢得 2024 年总统选举后，以第 47 任美国总统身份开始第二届不连续任期。",
@@ -84,11 +114,22 @@
       "id": "event-01"
     },
     {
-      "date": "2024-05",
+      "id": "event-13",
+      "date": "2024-07-13",
+      "title": "在竞选集会上遇刺受伤",
+      "text": "在宾夕法尼亚州巴特勒的竞选集会上遭枪击，耳部受伤；一名观众死亡，FBI将事件作为暗杀未遂调查。",
+      "sourceIds": [
+        "butler",
+        "butler-ap"
+      ]
+    },
+    {
+      "date": "2024-05-30",
       "title": "纽约刑事审判作出有罪裁决",
       "text": "陪审团认定其 34 项伪造商业记录重罪罪名成立；2025 年 1 月获无条件释放判决，无监禁或罚款。",
       "sourceIds": [
-        "brief"
+        "brief",
+        "appeal"
       ],
       "id": "event-02"
     },
@@ -190,8 +231,68 @@
       "title": "60th Inaugural Ceremonies",
       "publisher": "美国国会就职典礼联合委员会",
       "url": "https://www.inaugural.senate.gov/60th-inaugural-ceremonies/"
+    },
+    {
+      "id": "tariffs",
+      "title": "Executive Order 14257: Reciprocal Tariffs",
+      "publisher": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/"
+    },
+    {
+      "id": "tariff-ruling",
+      "title": "Learning Resources, Inc. v. Trump, decided February 20, 2026",
+      "publisher": "美国最高法院",
+      "url": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf"
+    },
+    {
+      "id": "ruling-reuters",
+      "title": "US Supreme Court rejects Trump’s global tariffs",
+      "publisher": "Reuters",
+      "url": "https://www.investing.com/news/economy-news/us-supreme-court-rejects-trumps-global-tariffs-4516593"
+    },
+    {
+      "id": "current",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
+      "publisher": "美国白宫",
+      "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/"
+    },
+    {
+      "id": "appeal",
+      "title": "Trump files formal notice of plan to appeal hush money conviction",
+      "publisher": "Reuters",
+      "url": "https://www.investing.com/news/world-news/trump-files-formal-notice-of-plan-to-appeal-hush-money-conviction-3837810"
+    },
+    {
+      "id": "butler",
+      "title": "FBI Statement on Incident in Butler, Pennsylvania",
+      "publisher": "FBI",
+      "url": "https://www.fbi.gov/news/press-releases/fbi-statement-on-incident-in-butler-pennsylvania"
+    },
+    {
+      "id": "butler-ap",
+      "title": "Secret Service report details communication failures preceding July assassination attempt on Trump",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/7dca5e30730287f46cceaa35437f0d47"
+    },
+    {
+      "id": "tax-law",
+      "title": "President Trump’s One Big Beautiful Bill Is Now the Law",
+      "publisher": "美国白宫",
+      "url": "https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/"
+    },
+    {
+      "id": "tax-reuters",
+      "title": "In July 4 ceremony, Trump signs tax and spending bill into law",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/legal/government/trump-sign-major-tax-cut-spending-bill-into-law-friday-2025-07-04/"
+    },
+    {
+      "id": "current-independent",
+      "title": "Trump administration moves to cut food stamps for 6.3 million people",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-administration-moves-cut-food-stamps-63-million-people-2026-11-10/"
     }
   ],
-  "coverageNote": "本版选录至 2025 年 1 月的主要经历；司法条目描述当时裁决，不代表后续上诉或案件状态的实时更新。",
+  "coverageNote": "选录至2026年2月的主要经历，并于2026年11月13日核对在世及总统身份；关税与司法条目记录所述决定，不穷尽后续政策、上诉及案件。",
   "verifiedAt": "2026-11-13"
 }

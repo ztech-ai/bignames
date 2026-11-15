@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d7198be7c22f26f17f558a8c3208acf1b9b1b4ed3cf4678ae2c731408f075db1",
+  "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
   "strings": {
     "name": "Albert Einstein",
     "role": "Theoretischer Physiker · Begründer der Relativitätstheorie",
     "country": "Deutschland / Schweiz / USA",
     "summary": "Einstein zählt zu den wichtigen Begründern der modernen Physik. Mit der speziellen und allgemeinen Relativitätstheorie veränderte er das Verständnis von Zeit, Raum und Gravitation. Er leistete auch Beiträge zu Lichtquanten und zur Brownschen Bewegung. Der Physiknobelpreis für 1921 würdigte insbesondere sein Gesetz des photoelektrischen Effekts. Seine wissenschaftliche Laufbahn führte durch Europa und die USA, wohin er nach der nationalsozialistischen Machtübernahme 1933 übersiedelte.",
-    "coverageNote": "Ausgewählte Lebensstationen und wissenschaftliche Beiträge. Das Nobelpreisjahr 1921 wird vom tatsächlichen Verleihungsjahr 1922 unterschieden.",
+    "coverageNote": "Ausgewählte Lebensstationen, wissenschaftliche Beiträge und öffentliches Engagement zur Kernforschung von 1879 bis 1955. Das Nobelpreisjahr (1921) wird vom Jahr der Verleihung (1922) unterschieden. Stand der Prüfung: 2026-11-13; posthume Gedenkveranstaltungen gelten nicht als persönliche Aktivitäten.",
     "tags.理论物理": "Theoretische Physik",
     "tags.相对论": "Relativitätstheorie",
     "tags.光电效应": "Photoelektrischer Effekt",
@@ -33,12 +33,29 @@
     "timeline.event-06.title": "Erste reguläre akademische Stelle",
     "timeline.event-06.text": "Er wurde außerordentlicher Professor für theoretische Physik an der Universität Zürich und beendete seine Tätigkeit beim Patentamt.",
     "timeline.event-07.title": "Forschungen des „Wunderjahres“",
-    "timeline.event-07.text": "Er veröffentlichte Arbeiten zu Lichtquanten, Brownscher Bewegung und spezieller Relativitätstheorie und reichte seine Dissertation ein.",
+    "timeline.event-07.text": "Veröffentlichte Arbeiten zu Lichtquanten, Brownscher Bewegung, spezieller Relativitätstheorie und der Masse-Energie-Beziehung und reichte seine Dissertation ein.",
     "timeline.event-08.title": "Eintritt ins Berner Patentamt",
     "timeline.event-08.text": "Neben der Prüfung von Patenten arbeitete er weiterhin selbstständig an physikalischen Problemen.",
     "timeline.event-09.title": "Studienbeginn in Zürich",
     "timeline.event-09.text": "Er begann am Eidgenössischen Polytechnikum ein Studium der Physik und Mathematik, das er 1900 abschloss.",
     "timeline.event-10.title": "Geburt in Ulm",
-    "timeline.event-10.text": "Er wurde im Deutschen Reich geboren und studierte und arbeitete später in mehreren europäischen Städten."
+    "timeline.event-10.text": "Er wurde im Deutschen Reich geboren und studierte und arbeitete später in mehreren europäischen Städten.",
+    "timeline.event-11.title": "Unterzeichnet Brief zur Kernforschung an Roosevelt",
+    "timeline.event-11.text": "Unterzeichnete einen von Wissenschaftlern verfassten Brief, der Roosevelt auf Uran-Kettenreaktionen und die Möglichkeit von Kernwaffen hinwies; am Manhattan-Projekt beteiligte er sich nicht."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-07.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

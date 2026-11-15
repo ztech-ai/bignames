@@ -1,11 +1,11 @@
 {
-  "sourceHash": "a4f800385868cc7e950e09df75059a9c089fcab53041654f415e3c1608708178",
+  "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
   "strings": {
     "name": "マイケル・ジョーダン",
     "role": "バスケットボール選手 · NBA優勝6回",
     "country": "アメリカ",
     "summary": "マイケル・ジョーダンはアメリカのバスケットボール選手で、シカゴ・ブルズでNBA優勝を6回、シーズンMVPを5回獲得した。得点力、守備、重要な試合での活躍で知られ、バスケットボールの世界的な普及と選手の商業活動においても重要な存在となった。引退、野球への転向、2度の復帰を経た後は球団経営に入り、シャーロット・ホーネッツの過半数持分を保有した。",
-    "coverageNote": "競技生活、および2010年の球団支配権取得と2023年の譲渡を中心に収録。事業価値のリアルタイムな変動は追跡していない。",
+    "coverageNote": "バスケットボール歴とチーム経営を中心に、2026年2月までの主な経歴を選録。存命とレーシングチームでの立場は2026年11月まで確認。デイトナ500の勝利はシーズン総合優勝とは異なり、事業価値の随時評価は行わない。",
     "tags.篮球": "バスケットボール",
     "tags.NBA": "NBA",
     "tags.奥运会": "オリンピック",
@@ -41,6 +41,30 @@
     "timeline.event-10.title": "大学全国選手権で優勝",
     "timeline.event-10.text": "ノースカロライナ大学1年生としてNCAA決勝で決定的なシュートを決め、チームの優勝に貢献した。",
     "timeline.event-11.title": "ニューヨークに生まれる",
-    "timeline.event-11.text": "ブルックリンに生まれ、ノースカロライナ州ウィルミントンで育った。"
+    "timeline.event-11.text": "ブルックリンに生まれ、ノースカロライナ州ウィルミントンで育った。",
+    "timeline.event-14.title": "23XIがデイトナ500で初勝利",
+    "timeline.event-14.text": "タイラー・レディックが23XIにデイトナ500初勝利をもたらし、ジョーダンは共同オーナーとして祝った。これは個別レースでの優勝である。",
+    "timeline.event-13.title": "チームがNASCARとの反トラスト訴訟で和解",
+    "timeline.event-13.text": "共同所有する23XIとフロント・ロウ・モータースポーツがNASCARとの反トラスト訴訟で和解。共同声明は長期参戦権の契約改定を定め、金銭条件は非公開とした。和解は裁判所による違法認定ではない。",
+    "timeline.event-12.title": "23XIレーシングを共同設立",
+    "timeline.event-12.text": "デニー・ハムリンらとNASCARのチームを共同設立。チームは2021年にカップ・シリーズへの参戦を開始した。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
+    "fields": [
+      "coverageNote",
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

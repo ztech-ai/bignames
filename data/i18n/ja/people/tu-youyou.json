@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "屠呦呦（トゥー・ヨウヨウ）",
     "role": "薬学者 · アルテミシニン研究の先駆者",
     "country": "中国",
     "summary": "屠呦呦は中国の薬学者である。「523」抗マラリア研究で所属研究班を率い、伝統文献と薬物のスクリーニングを出発点にクソニンジンの抽出法を改良し、アルテミシニンの発見と検証に関わった。その後、複数機関の研究が協力して医薬品開発と臨床応用を進めた。2011年にラスカー臨床医学研究賞、2015年にノーベル生理学・医学賞を受賞した。",
-    "coverageNote": "本ページはアルテミシニン研究と2019年までの主な受賞を中心に収録。複数機関の協力を重視し、最新の研究進展を随時まとめるものではない。",
+    "coverageNote": "青蒿素の共同研究と2025年4月までの主要な栄誉を中心に記載。2026年11月に機関の現職資料を確認しており、研究動向の随時更新ではない。",
     "tags.药学": "薬学",
     "tags.青蒿素": "アルテミシニン",
     "tags.抗疟疾": "マラリア対策",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "卒業して中医学研究機関に入る",
     "timeline.event-11.text": "北京医学院で薬学を学び終え、中薬の研究職に就いた。",
     "timeline.event-12.title": "寧波に生まれる",
-    "timeline.event-12.text": "浙江省寧波に生まれ、後に学習と研究の分野として薬学を選んだ。"
+    "timeline.event-12.text": "浙江省寧波に生まれ、後に学習と研究の分野として薬学を選んだ。",
+    "timeline.event-13.title": "米国科学アカデミーの外国人会員に選出",
+    "timeline.event-13.text": "米国科学アカデミーが、独創的研究への継続的な貢献を評価し外国人会員への選出を発表。中国科学院の院士とは異なる資格である。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

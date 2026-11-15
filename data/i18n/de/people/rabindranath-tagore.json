@@ -1,5 +1,5 @@
 {
-  "sourceHash": "12af474acb19bd80720f235ce54b6778bf6c1cb77f5f4675b50c7f1cca81b648",
+  "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
   "strings": {
     "name": "Rabindranath Tagore",
     "role": "Dichter und Pädagoge · Prägende Figur der bengalischen Literatur",
@@ -39,6 +39,25 @@
     "timeline.event-08.title": "Veröffentlichung von „Manasi“",
     "timeline.event-08.text": "Der Gedichtband „Manasi“ erschien. In dieser Zeit lernte er auch durch das Leben auf den Familiengütern die ländliche Gesellschaft kennen.",
     "timeline.event-09.title": "Geburt in Kalkutta",
-    "timeline.event-09.text": "Er wuchs in einer literarisch und geistig geprägten Familie auf, erhielt früh Privatunterricht und begann zu schreiben."
+    "timeline.event-09.text": "Er wuchs in einer literarisch und geistig geprägten Familie auf, erhielt früh Privatunterricht und begann zu schreiben.",
+    "facts.fact-04.label": "Musikalisches Erbe",
+    "facts.fact-04.value": "Von ihm komponierte Lieder werden später als Nationalhymnen Indiens und Bangladeschs angenommen.",
+    "timeline.event-10.title": "Gründet Sriniketan für die ländliche Entwicklung",
+    "timeline.event-10.text": "Entwickelt an Visva-Bharati ein Programm zur ländlichen Erneuerung, das Bildung mit Landwirtschaft, Handwerk und der Verbesserung des Dorflebens verbindet."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
+    "fields": [
+      "facts.fact-04.label",
+      "facts.fact-04.value",
+      "timeline.event-10.title",
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

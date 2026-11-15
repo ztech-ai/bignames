@@ -1,11 +1,11 @@
 {
-  "sourceHash": "92c44e5b5439a0d1e8fb5f90ebbd65ccc99fd013f0707ef2f4ed8a3edf98daee",
+  "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
   "strings": {
     "name": "Jack Ma",
     "role": "Unternehmer · Mitgründer von Alibaba",
     "country": "China",
     "summary": "Jack Ma ist Mitgründer von Alibaba und war CEO sowie Vorsitzender des Konzerns. Vom Englischunterricht wechselte er zu Internetgründungen und wirkte an der Entwicklung von Handelsplattformen und Onlinezahlungen mit. Nach seinem Rücktritt als Konzernvorsitzender 2019 engagierte er sich verstärkt für gemeinnützige Bildungsarbeit. Seine unternehmerische Laufbahn ist auch mit Fragen der Plattformregulierung und Finanzaufsicht verbunden. Die Aussetzung des Börsengangs der Ant Group 2020 war ein wichtiger Wendepunkt.",
-    "coverageNote": "Ausgewählte Stationen zu Gründung, Unternehmensführung und gemeinnütziger Arbeit, überwiegend bis 2023. Unternehmensentwicklungen sind nicht mit alleinigen persönlichen Leistungen gleichzusetzen.",
+    "coverageNote": "Ausgewählte Gründungs-, Governance- und Bildungsförderungsstationen von 1964 bis 2026, ergänzt um das Unternehmersymposium 2025 und das Lehrertreffen 2026; Recherchestichtag: 13. November 2026. Ma ist Alibaba-Mitgründer und Partner, nicht mehr CEO oder Verwaltungsratsvorsitzender. Unternehmenserfolge sind keine alleinigen persönlichen Leistungen.",
     "tags.电子商务": "E-Commerce",
     "tags.阿里巴巴": "Alibaba",
     "tags.数字支付": "Digitaler Zahlungsverkehr",
@@ -23,7 +23,7 @@
     "highlights.highlight-03.title": "Gemeinnützige Bildungsarbeit",
     "highlights.highlight-03.text": "2014 gründete er die Jack Ma Foundation, die unter anderem Bildungsprojekte im ländlichen Raum unterstützt.",
     "timeline.event-01.title": "Änderung der Kontrollstruktur der Ant Group",
-    "timeline.event-01.text": "Das Unternehmen kündigte eine Neuordnung der Stimmrechte an, durch die Ma die Kontrolle über die Ant Group verlor.",
+    "timeline.event-01.text": "Ant kündigte geplante Änderungen der Aktionärsstimmrechte an, die Mas Kontrolle beenden sollten. Damals war noch eine behördliche Genehmigung erforderlich.",
     "timeline.event-02.title": "Aussetzung des Börsengangs der Ant Group",
     "timeline.event-02.text": "Die Börse Shanghai setzte die geplante Notierung am STAR Market aus. Dies wurde zu einem wichtigen Wendepunkt für die betreffenden Geschäfte.",
     "timeline.event-03.title": "Rücktritt als Alibaba-Vorsitzender",
@@ -43,6 +43,27 @@
     "timeline.event-10.title": "Abschluss des Englischstudiums",
     "timeline.event-10.text": "Nach dem Studium unterrichtete er Englisch. Später wechselte er zu Übersetzungsdienstleistungen und Internetgründungen.",
     "timeline.event-11.title": "Geburt in Hangzhou",
-    "timeline.event-11.text": "Er wurde in Hangzhou geboren und wuchs dort auf. Das Erlernen der englischen Sprache prägte seine frühen Lebensjahre."
+    "timeline.event-11.text": "Er wurde in Hangzhou geboren und wuchs dort auf. Das Erlernen der englischen Sprache prägte seine frühen Lebensjahre.",
+    "timeline.event-2026-teachers.title": "Weiterer Austausch mit Lehrkräften auf dem Land",
+    "timeline.event-2026-teachers.text": "Er nahm am elften jährlichen Treffen zum Laba-Fest teil und sprach mit ländlichen Lehrkräften über Bildung und Neugier im KI-Zeitalter.",
+    "timeline.event-2025-symposium.title": "Teilnahme am Symposium für Privatunternehmen",
+    "timeline.event-2025-symposium.text": "Er nahm in Peking an Xi Jinpings Treffen mit Vertretern privater Unternehmen teil. Der öffentliche Auftritt bedeutete keine Rückkehr als Alibaba-CEO oder Verwaltungsratsvorsitzender."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "fields": [
+      "coverageNote",
+      "timeline.event-2026-teachers.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "2cf9e0b1bbc7a16429bb994cae027d0db0e79d3df5f9d6360baa3fa8b36602a7",
+  "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
   "strings": {
     "name": "ラリー・ペイジ",
-    "role": "Google共同創業者 · 検索技術",
+    "role": "Google共同創業者 · Alphabet取締役",
     "country": "アメリカ",
     "summary": "ペイジはセルゲイ・ブリンとスタンフォード大学でウェブのリンク分析を研究し、それを基にGoogleを設立した。PageRankに代表される技術はインターネット上の情報検索を改善し、会社は後に動画、モバイルOS、クラウドサービスへ展開した。Googleの日常的な経営を2度担い、Alphabetの組織構造の形成を進めた後、2019年にグループCEOを退いた。",
-    "coverageNote": "本版は1973〜2019年の公開された生涯と企業経営の節目を収録。その後の投資や私的活動は継続的に追跡していない。",
+    "coverageNote": "1973～2026年の経歴を選び、取締役再選、新事業の報道、Googleの反トラスト裁判を追記。調査基準日は2026年11月13日。新事業の報道は製品の完成を意味しない。私的投資は継続追跡せず、会社の訴訟も網羅していない。",
     "tags.搜索引擎": "検索エンジン",
     "tags.互联网": "インターネット",
     "tags.计算机科学": "コンピューター科学",
@@ -39,6 +39,35 @@
     "timeline.event-08.title": "スタンフォードで研究を始める",
     "timeline.event-08.text": "ミシガン大学の学部教育を終えてスタンフォードへ進み、ブリンと知り合って検索の共同研究を始めた。",
     "timeline.event-09.title": "ミシガン州に生まれる",
-    "timeline.event-09.text": "ランシング地域に生まれ、後にミシガン大学で工学を学び、スタンフォード大学で研究を続けた。"
+    "timeline.event-09.text": "ランシング地域に生まれ、後にミシガン大学で工学を学び、スタンフォード大学で研究を続けた。",
+    "timeline.event-2026-board.title": "Alphabet取締役に再選",
+    "timeline.event-2026-board.text": "定時株主総会で取締役に再選された。取締役としての地位は、2019年に終了したCEO任期とは区別される。",
+    "timeline.event-2025-remedies.title": "検索訴訟の是正措置を裁判所が決定",
+    "timeline.event-2025-remedies.text": "裁判所はGoogleに一部の検索データの共有を命じ、排他的な販売契約を制限したが、Chromeの売却は求めなかった。命令の発出は全面的な履行完了を意味しない。",
+    "timeline.event-2025-dynatomics.title": "Dynatomicsの新事業が報道される",
+    "timeline.event-2025-dynatomics.text": "Business Insiderは企業登記と関係者に基づき、AIと積層造形を探るDynatomicsへのペイジの関与を報じた。本ページは製品が商用化されたとは認定しない。",
+    "timeline.event-2024-antitrust.title": "Google検索の違法な独占維持を認定",
+    "timeline.event-2024-antitrust.text": "米連邦地裁はGoogleが検索と検索連動型テキスト広告の独占を違法に維持したと認定した。会社への判決であり、ペイジ個人の違法行為を認定したものではない。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "b84bdbc268ae69b47529fbe47368b869f445c13eafac01d2a8ab7e82a0c502fc",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-board.title",
+      "timeline.event-2026-board.text",
+      "timeline.event-2025-remedies.title",
+      "timeline.event-2025-remedies.text",
+      "timeline.event-2025-dynatomics.title",
+      "timeline.event-2025-dynatomics.text",
+      "timeline.event-2024-antitrust.title",
+      "timeline.event-2024-antitrust.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

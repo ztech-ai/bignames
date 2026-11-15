@@ -1,11 +1,11 @@
 {
-  "sourceHash": "6e220d4876ae76ed2020c432dafd4b1e96ab12d333bf026beda2bb6742b47fc9",
+  "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
   "strings": {
     "name": "에이다 러브레이스",
     "role": "수학자 · 컴퓨터 사고의 선구자",
     "country": "영국",
     "summary": "에이다 러브레이스는 영국의 수학 연구자로, 찰스 배비지와 해석기관을 연구했다. 1843년 번역문에 덧붙인 주석에서 계산 절차를 제시하고, 기계가 음악처럼 숫자가 아닌 대상도 다룰 수 있다고 구상했다. 흔히 최초의 프로그래머로 불리지만, 그의 기여와 배비지의 작업을 어떻게 구분할지는 여전히 학술적 논의의 대상이다. 범용 계산에 대한 초기 통찰은 오랫동안 영향을 미쳤다.",
-    "coverageNote": "주요 생애 사건을 선정했다. ‘최초의 프로그래머’는 널리 쓰이는 표현이며, 구체적인 기여에 대해서는 역사 연구에서 논의가 이어지고 있다.",
+    "coverageNote": "1815~1852년의 주요 생애와 컴퓨팅 사상을 선별했으며, ‘최초의 프로그래머’라는 호칭에 대한 학술적 논쟁을 유지했다. 검토 기준일은 2026-11-13이며, 사후 기념행사를 본인의 활동으로 추가하지 않았다.",
     "tags.计算机先驱": "컴퓨터 선구자",
     "tags.数学": "수학",
     "tags.分析机": "해석기관",
@@ -36,5 +36,17 @@
     "timeline.event-07.text": "차분기관 시연을 본 뒤 큰 관심을 갖게 되었고, 이후 해석기관을 둘러싼 협력으로 이어졌다.",
     "timeline.event-08.title": "런던에서 출생",
     "timeline.event-08.text": "본명은 오거스타 에이다 바이런으로, 성장하면서 수학을 포함한 개인 교육을 받았다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
+    "fields": [
+      "coverageNote"
+    ],
+    "sharedFactsReviewed": true
   }
 }

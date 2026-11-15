@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "イーロン・マスク",
     "role": "起業家 · 商業宇宙開発と電気自動車",
     "country": "南アフリカ / カナダ / アメリカ",
     "summary": "インターネット決済から電気自動車、商業宇宙開発まで、マスクは複数の技術企業の設立と成長に関わった。SpaceXを設立し、テスラに投資して経営を担い、再使用ロケットと電気自動車の商用化を進めた。Twitter買収後はソーシャルプラットフォームの運営にも進出した。経営手法と公の発言は長く論争を呼び、証券関連の情報開示で規制上の制裁を受けたこともある。",
-    "coverageNote": "本版は1971〜2023年の主要な生涯と事業の節目を収録。確認日は、それ以後の活動を年表がすべて網羅していることを意味しない。",
+    "coverageNote": "1971～2026年の主な節目を選び、スターシップの試験、ホワイトハウスでの任期、xAIの企業統合、SpaceXの株式上場を追記。調査の基準日は2026年11月13日。試験の成功は有人月・火星探査計画の完了を意味せず、各社の全活動を網羅していない。",
     "tags.电动汽车": "電気自動車",
     "tags.商业航天": "商業宇宙開発",
     "tags.互联网": "インターネット",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "教育",
     "facts.fact-02.value": "ペンシルベニア大学で経済学と物理学の学士号取得",
     "facts.fact-03.label": "関連組織",
-    "facts.fact-03.value": "SpaceX、Tesla、X、Neuralink",
+    "facts.fact-03.value": "SpaceX、Tesla、X、xAI、Neuralink",
     "highlights.highlight-01.title": "商業宇宙開発",
     "highlights.highlight-01.text": "SpaceXを創業。同社のクルードラゴンは2020年、NASAの宇宙飛行士を初めて国際宇宙ステーションへ運んだ。",
     "highlights.highlight-02.title": "電気自動車の商用化",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "Zip2を共同設立",
     "timeline.event-09.text": "共同創業者とオンライン都市ガイドを開発し、インターネット分野の起業家として歩み始めた。",
     "timeline.event-10.title": "プレトリアに生まれる",
-    "timeline.event-10.text": "南アフリカに生まれ、後にカナダとアメリカで学び、ペンシルベニア大学で経済学と物理学を専攻した。"
+    "timeline.event-10.text": "南アフリカに生まれ、後にカナダとアメリカで学び、ペンシルベニア大学で経済学と物理学を専攻した。",
+    "timeline.event-2026-ipo.title": "SpaceXが新規株式公開を完了",
+    "timeline.event-2026-ipo.text": "6月12日に株式取引が始まり、6月15日に新規株式公開が完了した。本ページでは市場に応じて変わる資産ランキングを用いない。",
+    "timeline.event-2026-xai.title": "SpaceXがxAIを買収",
+    "timeline.event-2026-xai.text": "SpaceXがxAIの買収を完了し、AI、宇宙、衛星通信の事業を同一グループにまとめた。",
+    "timeline.event-2025-government.title": "ホワイトハウスの特別政府職員としての任期を終了",
+    "timeline.event-2025-government.text": "大統領上級顧問としてDOGEによる歳出削減を推進。5月に退任し、人員削減や政府機関の再編は論争を招いた。",
+    "timeline.event-2025-x-merger.title": "xAIがXを買収",
+    "timeline.event-2025-x-merger.text": "全株式交換の取引でSNSのXをxAIに統合。これは2026年のSpaceXによるxAI買収に先立つものだった。",
+    "timeline.event-2024-booster.title": "発射塔によるスーパーヘビーの初捕獲",
+    "timeline.event-2024-booster.text": "スターシップの5回目の試験飛行で、SpaceXは帰還する第1段ブースターを機械アームで初めて捕獲した。有人月・火星ミッションではない。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

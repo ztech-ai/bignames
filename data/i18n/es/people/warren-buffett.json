@@ -1,11 +1,11 @@
 {
-  "sourceHash": "daceb61eeee32d31b10a3efb3e0c72c93622e97736c8b222d622fc5f7061a912",
+  "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
   "strings": {
     "name": "Warren Buffett",
-    "role": "Inversor · Responsable durante décadas de Berkshire Hathaway",
+    "role": "Inversor · Presidente emérito y consejero de Berkshire",
     "country": "Estados Unidos",
     "summary": "Warren Buffett es conocido por la inversión en valor y la asignación de capital a largo plazo. En 1965 tomó el control de Berkshire Hathaway y transformó gradualmente una empresa textil en un grupo diversificado. Su método atiende a los fundamentos de las compañías, la gestión y el margen de seguridad. También participa en la filantropía mediante donaciones de acciones y The Giving Pledge. A comienzos de 2026 Berkshire completó el relevo de su dirección ejecutiva.",
-    "coverageNote": "Selección de hitos empresariales, de inversión y filantrópicos, con verificación del relevo en la dirección ejecutiva de enero de 2026. No ofrece cargos actualizados, clasificaciones de patrimonio ni asesoramiento de inversión.",
+    "coverageNote": "Hitos seleccionados de inversión y filantropía de 1930 a 2026, con los relevos de CEO y presidente y las donaciones de acciones de ese año. Su cargo se verificó en el anuncio del 18 de septiembre de 2026; fecha límite de investigación: 13 de noviembre de 2026. No se cubren todas las operaciones ni se ofrecen clasificaciones actuales de riqueza o asesoramiento de inversión.",
     "tags.价值投资": "Inversión en valor",
     "tags.伯克希尔": "Berkshire Hathaway",
     "tags.资本配置": "Asignación de capital",
@@ -39,6 +39,27 @@
     "timeline.event-08.title": "Termina sus estudios en Columbia",
     "timeline.event-08.text": "Obtuvo un máster después de estudiar con Benjamin Graham.",
     "timeline.event-09.title": "Nace en Omaha",
-    "timeline.event-09.text": "Creció en Estados Unidos y durante su adolescencia repartió periódicos y desarrolló otros pequeños negocios."
+    "timeline.event-09.text": "Creció en Estados Unidos y durante su adolescencia repartió periódicos y desarrolló otros pequeños negocios.",
+    "timeline.event-2026-chair.title": "Pasa a presidente emérito y sigue como consejero",
+    "timeline.event-2026-chair.text": "Howard Buffett asumió la presidencia del consejo; Buffett pasó a presidente emérito y conservó su puesto de consejero. Greg Abel continuó como CEO tras asumir el cargo en enero.",
+    "timeline.event-2026-donation.title": "Dona acciones a cuatro fundaciones familiares",
+    "timeline.event-2026-donation.text": "Donó 12 millones de acciones de clase B de Berkshire. Ese año también dejó de donar a la Fundación Gates, modificando una colaboración filantrópica de larga duración."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f125b2db59f57a256c4fba6798dc97dad633ad9d82d285cbd92a3621b5dc259",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-2026-chair.title",
+      "timeline.event-2026-chair.text",
+      "timeline.event-2026-donation.title",
+      "timeline.event-2026-donation.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "sourceHash": "c4d31b1701621ae9059213c08882c7ac9b9eab70fad50a700a5c2a7ec1351f17",
+  "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
   "strings": {
     "name": "프리다 칼로",
     "role": "화가 · 자화상으로 표현한 몸과 정체성",
@@ -39,6 +39,21 @@
     "timeline.event-09.title": "심각한 교통사고",
     "timeline.event-09.text": "타고 있던 버스가 전차와 충돌해 중상을 입었고 남은 생애 동안 반복적으로 치료를 받았다.",
     "timeline.event-10.title": "코요아칸에서 출생",
-    "timeline.event-10.text": "멕시코시티의 가족 주택에서 태어났다. 이 집은 이후 파란 집으로 알려졌다."
+    "timeline.event-10.text": "멕시코시티의 가족 주택에서 태어났다. 이 집은 이후 파란 집으로 알려졌다.",
+    "timeline.event-11.title": "미술 교사로 임명되다",
+    "timeline.event-11.text": "이 해의 미술 교사 임명 문서가 기록 보관소에 남아 있다. 라 에스메랄다에서 가르쳤으며 이후 건강 문제로 수업을 집으로 옮겼다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
+    "fields": [
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

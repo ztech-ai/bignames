@@ -25,7 +25,7 @@
     "资本配置",
     "慈善"
   ],
-  "role": "投资者 · 伯克希尔长期经营者",
+  "role": "投资者 · 伯克希尔名誉主席及董事",
   "summary": "沃伦·巴菲特以价值投资与长期资本配置著称。他在1965年取得伯克希尔·哈撒韦控制权，将一家纺织企业逐步转型为多元业务集团。他的投资方法重视企业基本面、管理和安全边际；他也通过股票捐赠及“捐赠誓言”参与慈善。2026年初，伯克希尔完成CEO职务交接。",
   "highlights": [
     {
@@ -71,6 +71,26 @@
     }
   ],
   "timeline": [
+    {
+      "id": "event-2026-chair",
+      "date": "2026-09-18",
+      "title": "转任名誉主席并保留董事席位",
+      "text": "Howard Buffett接任董事长，巴菲特任名誉主席并继续担任董事；CEO仍由1月接任的Greg Abel担任。",
+      "sourceIds": [
+        "chair-transition",
+        "chair-independent"
+      ]
+    },
+    {
+      "id": "event-2026-donation",
+      "date": "2026-07-14",
+      "title": "向四家家族基金会捐赠股票",
+      "text": "捐赠1200万股伯克希尔B类股；同年停止向盖茨基金会捐赠，改变了长期慈善合作安排。",
+      "sourceIds": [
+        "donation-filing",
+        "donation-independent"
+      ]
+    },
     {
       "date": "2026-01-01",
       "title": "完成CEO交接",
@@ -171,8 +191,32 @@
       "title": "Berkshire Hathaway 2025 Annual Report / Form 10-K",
       "publisher": "Berkshire Hathaway · SEC",
       "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "id": "chair-transition",
+      "title": "Warren E. Buffett Becomes Chairman Emeritus, Remains Director; Howard G. Buffett Elected Chairman",
+      "publisher": "Berkshire Hathaway",
+      "url": "https://www.berkshirehathaway.com/news/sep1826.pdf"
+    },
+    {
+      "id": "chair-independent",
+      "title": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/berkshire-hathaway-names-warren-buffett-chairman-emeritus-2026-09-18/"
+    },
+    {
+      "id": "donation-filing",
+      "title": "Warren Buffett Schedule 13D/A: July 14, 2026 donations",
+      "publisher": "Warren Buffett · SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526304838/primary_doc.xml"
+    },
+    {
+      "id": "donation-independent",
+      "title": "Warren Buffett cuts off donations to Gates Foundation",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/us/warren-buffett-stops-gates-foundation-donations-following-epstein-revelations-2026-07-14/"
     }
   ],
-  "coverageNote": "本页选录创业、投资与公益节点，并核对至2026年1月的CEO交接；不提供实时职位、资产排名或投资建议。",
+  "coverageNote": "选录1930—2026年投资与公益节点，补入CEO及董事长交接、当年股票捐赠；现职以2026-09-18公司公告核对，研究截至2026-11-13。未穷尽投资交易，不提供实时资产排名或投资建议。",
   "verifiedAt": "2026-11-13"
 }

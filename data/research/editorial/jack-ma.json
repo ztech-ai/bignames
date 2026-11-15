@@ -1,0 +1,109 @@
+{
+  "id": "jack-ma",
+  "reviewedAt": "2026-11-15",
+  "status": "ai-editorial-update-complete",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "sourceScope": "针对既有履历缺口进行在线来源核对，优先官方文件并交叉检查独立报道；未将既有全部历史资料重新审计。",
+  "lifeStatusReview": {
+    "death": null,
+    "basis": "查阅列明的2026年任职、离任或本人活动资料；本轮未见死亡证据，保留death:null。不是以数据库缺项推定在世。",
+    "sourceIds": [
+      "teachers-2026",
+      "partnership",
+      "teachers-independent"
+    ]
+  },
+  "chronologyCoverage": {
+    "previousFrom": "1964-09-10",
+    "previousThrough": "2023-01",
+    "through": "2026-01-26",
+    "from": "1964-09-10"
+  },
+  "changes": {
+    "addedEventIds": [
+      "event-2026-teachers",
+      "event-2025-symposium"
+    ],
+    "modifiedTextFields": [
+      "coverageNote",
+      "timeline.event-01.text",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2026-teachers.title"
+    ],
+    "stableIdsPreserved": true,
+    "influence": "未新增；保持不存在",
+    "images": "保留原肖像及元数据；本轮未重新进行图片目视或许可审计",
+    "correctedExistingEventIds": [
+      "event-01"
+    ],
+    "note": "修正2023年宣布调整与已完成的时态；后续年报核实控制权现状。"
+  },
+  "sourceReview": [
+    {
+      "id": "teachers-2026",
+      "url": "https://www.mayun.xin/news/马老师与乡村老师的第11年腊八之约",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "teachers-independent",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3341543/teach-our-children-well-jack-ma-urges-changes-chinas-rural-education-ai-era",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "symposium",
+      "url": "https://apnews.com/article/7898eb671dc6f7cb817cc6238328ea1b",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "partnership",
+      "url": "https://www.alibabagroup.com/en-US/ir-corporate-governance-partnership",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    },
+    {
+      "id": "ant-completed",
+      "url": "https://data.alibabagroup.com/ecms-files/1508664153/7eedde2c-c3da-4397-82a4-54b8abd781c7/Alibaba%20Group%20Holding%20Limited%20Fiscal%20Year%202025%20Annual%20Report.pdf",
+      "checkedAt": "2026-11-15",
+      "method": "在线搜索结果或打开来源正文，核对事件日期、主体与完成状态"
+    }
+  ],
+  "translationReview": {
+    "method": "编辑前验证旧7语哈希并保存快照；逐语导出增量，由OpenAI Codex审阅翻译改动字段与共享事实后导入，保留未变译文。",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "reviewerKind": "ai",
+    "humanReview": false,
+    "nativeSpeakerCertification": false
+  },
+  "limitations": "选录1964—2026年创业、治理及教育公益节点，补入2025年座谈会与2026年教师交流；研究截至2026-11-13。马云是阿里巴巴联合创始人及合伙人，已非CEO或董事局主席；公司成果不等于个人独立完成。 AI采编及翻译自报记录，不代表人工审校或母语认证；浏览器视觉验收未在本子任务执行。",
+  "researchCutoff": "2026-11-13",
+  "datePolicy": "本轮在线访问和AI复核实际发生于2026-11-15，仅纳入事件日期不晚于2026-11-13的证据；正式档案verifiedAt沿用网站研究截点，不将访问日期等同于年表终点。",
+  "verification": {
+    "canonicalSourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "translationVersionsValidated": 7,
+    "exactKeysValidated": true,
+    "unchangedTranslationsPreserved": true,
+    "oldStableIdsPreserved": true,
+    "reverseChronologyValidated": true,
+    "sourceReferencesValidated": true,
+    "changedFieldsPerLocale": 6,
+    "reviewKind": "ai",
+    "humanOrNativeSpeakerCertified": false,
+    "scope": "本6人结构、引用、哈希、键与增量保留验证；非全站构建或浏览器目视验收。"
+  }
+}

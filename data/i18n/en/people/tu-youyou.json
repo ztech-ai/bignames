@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "Tu Youyou",
     "role": "Pharmaceutical researcher · Pioneer of artemisinin research",
     "country": "China",
     "summary": "Tu Youyou is a Chinese pharmaceutical researcher. Leading her research group in Project 523’s antimalarial work, she drew on traditional texts and drug screening to improve extraction from sweet wormwood, contributing to the discovery and validation of artemisinin. Subsequent research by several institutions jointly advanced drug development and clinical use. She received the Lasker–DeBakey Clinical Medical Research Award in 2011 and the Nobel Prize in Physiology or Medicine in 2015.",
-    "coverageNote": "Mainly covers artemisinin research and key honors through 2019. Emphasizes collaboration between institutions and does not provide live research updates.",
+    "coverageNote": "Focuses on collaborative artemisinin research and major honors through April 2025. Institutional records of her current position were checked in November 2026; this is not a live research update.",
     "tags.药学": "Pharmaceutical science",
     "tags.青蒿素": "Artemisinin",
     "tags.抗疟疾": "Antimalarial research",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "Graduates and joins a Chinese medicine research institute",
     "timeline.event-11.text": "After completing pharmaceutical studies at Beijing Medical College, entered research into Chinese medicinal substances.",
     "timeline.event-12.title": "Born in Ningbo",
-    "timeline.event-12.text": "Born in Ningbo, Zhejiang, and later chose pharmaceutical science for her studies and research."
+    "timeline.event-12.text": "Born in Ningbo, Zhejiang, and later chose pharmaceutical science for her studies and research.",
+    "timeline.event-13.title": "Elected an international member of the US National Academy of Sciences",
+    "timeline.event-13.text": "The US National Academy of Sciences announced her election as an international member in recognition of continuing original research contributions; this is distinct from membership of the Chinese Academy of Sciences."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

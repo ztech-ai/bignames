@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "Leonardo da Vinci",
     "role": "Painter · Renaissance explorer across disciplines",
     "country": "Italian states / France",
     "summary": "Leonardo worked in Florence, Milan and at the French court, influencing European painting through works such as The Last Supper and the Mona Lisa. He applied observation, drawing and experimental thinking to the human body, nature and machinery, leaving extensive manuscripts. Many engineering ideas remained designs, and numerous artworks were unfinished. His importance lies both in his surviving paintings and in his approach to research across disciplines.",
-    "coverageNote": "Scholars differ over the dates of some works. The Mona Lisa follows the Louvre’s dating of its beginning to around 1503. The historical portrait is an artwork, not a photograph.",
+    "coverageNote": "Selected life events, art and anatomical research from 1452–1519. Dates of works are debated; the Mona Lisa follows the Louvre’s record of a start around 1503. Early portraits are artworks. Reviewed through 2026-11-13; posthumous commemorations are not personal activities.",
     "tags.文艺复兴": "Renaissance",
     "tags.绘画": "Painting",
     "tags.解剖学": "Anatomy",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "Joins the painters’ guild",
     "timeline.event-09.text": "After training in Verrocchio’s workshop, joined the painters’ company of Saint Luke in Florence.",
     "timeline.event-10.title": "Born near Vinci",
-    "timeline.event-10.text": "Born in Tuscany, spent his early years near home and later went to Florence to study art."
+    "timeline.event-10.text": "Born in Tuscany, spent his early years near home and later went to Florence to study art.",
+    "timeline.event-11.title": "Systematically draws human anatomy",
+    "timeline.event-11.text": "Studied bones and muscles through dissection and recorded human anatomy in drawings from multiple viewpoints; his intended treatise was not published during his lifetime.",
+    "timeline.event-11.dateLabel": "Around winter 1510–1511"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

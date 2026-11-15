@@ -1,11 +1,11 @@
 {
-  "sourceHash": "6e220d4876ae76ed2020c432dafd4b1e96ab12d333bf026beda2bb6742b47fc9",
+  "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
   "strings": {
     "name": "Ada Lovelace",
     "role": "Mathematician · Pioneer of computing ideas",
     "country": "United Kingdom",
     "summary": "Ada Lovelace was a British mathematical researcher who worked with Charles Babbage on the Analytical Engine. Her notes accompanying an 1843 translation set out computational procedures and imagined machines handling non-numerical subjects such as music. Often called the first programmer, she remains the subject of historical debate over the boundaries between her contributions and Babbage’s work. Her early understanding of general-purpose computing has had a lasting influence.",
-    "coverageNote": "Selected milestones. “The first programmer” is a common description; historians continue to debate the precise nature of her contributions.",
+    "coverageNote": "Selected life events and computing ideas from 1815–1852; the scholarly debate over “the first programmer” is retained. Reviewed through 2026-11-13; posthumous commemorations are not added as personal activities.",
     "tags.计算机先驱": "Computing pioneers",
     "tags.数学": "Mathematics",
     "tags.分析机": "Analytical Engine",
@@ -36,5 +36,17 @@
     "timeline.event-07.text": "A demonstration of the Difference Engine sparked her interest and began the relationship that led to their work on the Analytical Engine.",
     "timeline.event-08.title": "Born in London",
     "timeline.event-08.text": "Born Augusta Ada Byron; received a private education that included mathematics."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
+    "fields": [
+      "coverageNote"
+    ],
+    "sharedFactsReviewed": true
   }
 }

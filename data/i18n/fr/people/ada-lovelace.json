@@ -1,11 +1,11 @@
 {
-  "sourceHash": "6e220d4876ae76ed2020c432dafd4b1e96ab12d333bf026beda2bb6742b47fc9",
+  "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
   "strings": {
     "name": "Ada Lovelace",
     "role": "Mathématicienne · Pionnière de la pensée informatique",
     "country": "Royaume-Uni",
     "summary": "Mathématicienne britannique, Ada Lovelace collabore avec Charles Babbage autour de la machine analytique. Dans les notes accompagnant sa traduction de 1843, elle décrit des étapes de calcul et envisage le traitement d'objets non numériques, notamment musicaux. Souvent présentée comme la première programmeuse, elle fait encore l'objet de débats sur la part exacte de ses contributions et de celles de Babbage. Sa conception précoce du calcul général conserve une influence durable.",
-    "coverageNote": "Sélection de repères biographiques. L'appellation « première programmeuse » est courante, mais la nature précise de ses contributions reste discutée par les historiens.",
+    "coverageNote": "Sélection de repères biographiques et d’idées sur le calcul de 1815 à 1852 ; le débat historique sur la « première programmeuse » est conservé. Vérification arrêtée au 2026-11-13 ; les commémorations posthumes ne sont pas présentées comme ses activités.",
     "tags.计算机先驱": "Pionniers de l'informatique",
     "tags.数学": "Mathématiques",
     "tags.分析机": "Machine analytique",
@@ -36,5 +36,17 @@
     "timeline.event-07.text": "Une démonstration de la machine à différences suscite son intérêt et ouvre la voie à leur collaboration autour de la machine analytique.",
     "timeline.event-08.title": "Naissance à Londres",
     "timeline.event-08.text": "Née Augusta Ada Byron, elle reçoit une instruction privée comprenant les mathématiques."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
+    "fields": [
+      "coverageNote"
+    ],
+    "sharedFactsReviewed": true
   }
 }

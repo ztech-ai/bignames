@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d7198be7c22f26f17f558a8c3208acf1b9b1b4ed3cf4678ae2c731408f075db1",
+  "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
   "strings": {
     "name": "アルベルト・アインシュタイン",
     "role": "理論物理学者 · 相対性理論の創始者",
     "country": "ドイツ / スイス / アメリカ",
     "summary": "アインシュタインは現代物理学の重要な礎を築いた。特殊相対性理論と一般相対性理論によって、時間・空間・重力の理解を変え、光量子やブラウン運動などの研究にも貢献した。1921年のノーベル物理学賞では、とりわけ光電効果の法則が評価された。研究生活はヨーロッパとアメリカにまたがり、1933年にナチスが政権を握った後、アメリカへ移住した。",
-    "coverageNote": "生涯と主要な科学的貢献を収録。ノーベル賞の対象年（1921年）と実際の授与年（1922年）を区別している。",
+    "coverageNote": "1879〜1955年の主な生涯、科学的貢献、核研究に関する社会的働きかけを収録。ノーベル賞の対象年（1921年）と授与年（1922年）を区別する。確認の基準日は2026-11-13。死後の記念行事は本人の活動に含めない。",
     "tags.理论物理": "理論物理学",
     "tags.相对论": "相対性理論",
     "tags.光电效应": "光電効果",
@@ -33,12 +33,29 @@
     "timeline.event-06.title": "初の正式な大学教員職を得る",
     "timeline.event-06.text": "チューリヒ大学の理論物理学の准教授となり、特許局での勤務を終えた。",
     "timeline.event-07.title": "「奇跡の年」の研究",
-    "timeline.event-07.text": "光量子、ブラウン運動、特殊相対性理論などの研究を発表し、博士論文を提出した。",
+    "timeline.event-07.text": "光量子、ブラウン運動、特殊相対性理論、質量とエネルギーの関係に関する研究を発表し、博士論文を提出した。",
     "timeline.event-08.title": "ベルンの特許局に就職",
     "timeline.event-08.text": "特許審査の仕事をしながら、独自に物理学の問題を研究し続けた。",
     "timeline.event-09.title": "チューリヒで学び始める",
     "timeline.event-09.text": "連邦工科大学で物理学と数学を学び始め、1900年に課程を修了した。",
     "timeline.event-10.title": "ウルムに生まれる",
-    "timeline.event-10.text": "ドイツ帝国内で生まれ、後にヨーロッパの複数の都市で学び、働いた。"
+    "timeline.event-10.text": "ドイツ帝国内で生まれ、後にヨーロッパの複数の都市で学び、働いた。",
+    "timeline.event-11.title": "核研究についてルーズベルト宛ての書簡に署名",
+    "timeline.event-11.text": "科学者たちが起草した書簡に署名し、ウランの連鎖反応と核兵器の可能性をルーズベルトに伝えた。本人はマンハッタン計画には参加していない。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-07.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

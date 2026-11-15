@@ -1,11 +1,11 @@
 {
-  "sourceHash": "183fa60f298c2ee881db0cc022f451aac81dcb699bdf4b2c10d2a7745bc1e40b",
+  "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
   "strings": {
     "name": "Marie Curie",
     "role": "Physicienne et chimiste · Pionnière de la radioactivité",
     "country": "Pologne / France",
     "summary": "Née à Varsovie, Marie Curie poursuit ses études supérieures à Paris et y mène ses recherches sur la radioactivité. Avec Pierre Curie, elle découvre le polonium et le radium et développe la séparation et la mesure des substances radioactives. Elle reçoit le prix Nobel de physique en 1903 et celui de chimie en 1911. Pendant la Première Guerre mondiale, elle contribue aussi à organiser des équipements mobiles de radiologie pour soigner les blessés.",
-    "coverageNote": "Sélection d'étapes biographiques, scientifiques et médicales ; les frontières historiques sont distinguées des noms actuels des pays.",
+    "coverageNote": "Sélection de repères biographiques, de recherches, de création d’institutions et d’applications médicales de 1867 à 1934. La reprise des cours en 1906 est distinguée de sa nomination comme professeure titulaire en 1908. Vérification arrêtée au 2026-11-13 ; les commémorations posthumes ne sont pas des activités personnelles.",
     "tags.放射性": "Radioactivité",
     "tags.物理学": "Physique",
     "tags.化学": "Chimie",
@@ -24,12 +24,12 @@
     "highlights.highlight-03.text": "Elle développe les examens radiologiques mobiles pour apporter la radiologie au plus près des blessés.",
     "timeline.event-01.title": "Mort en France",
     "timeline.event-01.text": "Elle meurt de maladie à Passy. Ses recherches et son exposition prolongée aux rayonnements font aussi partie de l'histoire des sciences.",
-    "timeline.event-02.title": "Organisation de services de radiologie mobiles",
-    "timeline.event-02.text": "Au début de la Première Guerre mondiale, elle prépare véhicules et appareils, puis participe aux examens avec sa fille Irène.",
+    "timeline.event-02.title": "Institut du radium et radiologie de guerre",
+    "timeline.event-02.text": "Les bâtiments de l’Institut du radium de Paris sont achevés ; elle y dirige les recherches en physique et chimie. Après le début de la guerre, elle organise des services mobiles de radiologie et participe aux examens avec sa fille Irène.",
     "timeline.event-03.title": "Prix Nobel de chimie",
     "timeline.event-03.text": "Elle est récompensée pour la découverte du polonium et du radium, l'isolement du radium et l'étude de ses propriétés et composés.",
     "timeline.event-04.title": "Reprise de l'enseignement à l'université de Paris",
-    "timeline.event-04.text": "Après la mort accidentelle de Pierre, elle reprend sa chaire et poursuit recherches et enseignement.",
+    "timeline.event-04.text": "Après la mort accidentelle de Pierre, reprend ses cours et son laboratoire ; elle est nommée professeure titulaire en 1908.",
     "timeline.event-05.title": "Doctorat et prix Nobel de physique",
     "timeline.event-05.text": "Elle achève son doctorat en physique et partage le prix Nobel avec Pierre Curie et Henri Becquerel.",
     "timeline.event-06.title": "Découverte du polonium et du radium",
@@ -39,6 +39,24 @@
     "timeline.event-08.title": "Départ pour Paris",
     "timeline.event-08.text": "Elle quitte Varsovie pour étudier la physique et les mathématiques à l'université.",
     "timeline.event-09.title": "Naissance à Varsovie",
-    "timeline.event-09.text": "Née Maria Skłodowska, elle mène ensuite ses recherches sous le nom de Marie Curie."
+    "timeline.event-09.text": "Née Maria Skłodowska, elle mène ensuite ses recherches sous le nom de Marie Curie.",
+    "timeline.event-12.title": "Assiste à l’inauguration de l’Institut du radium de Varsovie",
+    "timeline.event-12.text": "Participe à l’inauguration de l’Institut du radium de Varsovie, étendant à la Pologne ses efforts pour réunir des ressources pour la recherche.",
+    "timeline.event-11.title": "Se rend aux États-Unis pour obtenir du radium destiné à la recherche",
+    "timeline.event-11.text": "Après une collecte de fonds menée par la journaliste Marie Meloney, se rend aux États-Unis et reçoit du président Harding un gramme de radium destiné à la recherche.",
+    "timeline.event-10.title": "Isole le radium métallique",
+    "timeline.event-10.text": "Collabore avec André Debierne pour isoler le radium métallique."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
+    "fields": [
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

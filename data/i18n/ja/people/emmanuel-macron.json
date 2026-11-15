@@ -1,11 +1,11 @@
 {
-  "sourceHash": "794a754b473f43b4a1e2939b16e321970551aa926bfd686a5bc3ef56ca1652ee",
+  "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
   "strings": {
     "name": "エマニュエル・マクロン",
     "role": "フランスの政治家 · 第五共和政大統領",
     "country": "フランス",
     "summary": "マクロンは哲学と行政を学び、公共財政や投資銀行での仕事を経てフランス政界に入った。大統領府副事務総長、経済相を歴任し、「アン・マルシュ！」運動を設立。2017年に初めて大統領に当選し、2022年に再選された。年金改革と2024年の国民議会解散は、その在任中に大きな政治的議論を呼んだ政策・判断の節目である。",
-    "coverageNote": "本版は1977〜2024年の主要な経歴を収録。年金の項目は2023年改革当時の内容を示しており、現在の制度の説明ではない。",
+    "coverageNote": "2025年10月までの主な経歴を選録し、2026年11月13日に存命と大統領在任を確認。年金の項目は2023年の改革を記述し、現行政策の説明ではない。",
     "tags.法国政治": "フランス政治",
     "tags.总统": "大統領",
     "tags.公共政策": "公共政策",
@@ -22,7 +22,7 @@
     "highlights.highlight-03.title": "年金制度改革を推進",
     "highlights.highlight-03.text": "2023年の改革は法定退職年齢を62歳から64歳へ段階的に引き上げるもので、大規模な社会的抗議を伴った。",
     "timeline.event-01.title": "国民議会の解散を発表",
-    "timeline.event-01.text": "憲法第12条に基づいて国民議会を解散し、前倒しの議会選挙に向けた手続きを開始した。",
+    "timeline.event-01.text": "憲法第12条に基づき国民議会を解散。その後の繰り上げ選挙では主要3陣営のいずれも絶対多数を得られなかった。",
     "timeline.event-02.title": "年金改革が政治の焦点に",
     "timeline.event-02.text": "段階的な退職年齢引き上げを定める改革法が公布された。それまでに全国規模の抗議が繰り返されていた。",
     "timeline.event-03.title": "フランス大統領に再選",
@@ -40,6 +40,23 @@
     "timeline.event-09.title": "国立行政学院を卒業",
     "timeline.event-09.text": "フランス国立行政学院の卒業後、財務監察総局に入り、公務員としてのキャリアを始めた。",
     "timeline.event-10.title": "アミアンに生まれる",
-    "timeline.event-10.text": "フランス北部のアミアンに生まれ、後に哲学を学んで公共行政の訓練を受けた。"
+    "timeline.event-10.text": "フランス北部のアミアンに生まれ、後に哲学を学んで公共行政の訓練を受けた。",
+    "timeline.event-11.title": "ルコルニュを首相に再任",
+    "timeline.event-11.text": "辞任から4日後にセバスティアン・ルコルニュを首相に再任。第2期の重要な政府危機の中、分裂した議会で支持を集め予算を前進させることを目指した。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "7de6c326927c8d5171a06c444137472528d0f8dc1fd7b244064089ba5b4ccb00",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

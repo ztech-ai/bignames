@@ -1,11 +1,11 @@
 {
-  "sourceHash": "1bb1954a681b17b6034c73293444dd527d621feaafd1267c18f774502c364855",
+  "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
   "strings": {
     "name": "Tu Youyou",
     "role": "Pharmacologue · Pionnière de l'étude de l'artémisinine",
     "country": "Chine",
     "summary": "La pharmacologue chinoise Tu Youyou dirige l'équipe de son institut dans le projet antipaludique « 523 ». À partir de textes traditionnels et du criblage de substances, elle améliore l'extraction de l'armoise et participe à la découverte et à la validation de l'artémisinine. Les recherches ultérieures de plusieurs institutions contribuent ensemble au développement des médicaments et à leur usage clinique. Elle reçoit le prix Lasker de recherche médicale clinique en 2011 et le prix Nobel de physiologie ou médecine en 2015.",
-    "coverageNote": "Ce dossier couvre surtout les recherches sur l'artémisinine et les principales distinctions jusqu'en 2019. Il souligne la coopération entre institutions et ne constitue pas un suivi scientifique en temps réel.",
+    "coverageNote": "Met l’accent sur la recherche collective sur l’artémisinine et les grandes distinctions jusqu’en avril 2025. Les informations institutionnelles sur ses fonctions actuelles ont été vérifiées en novembre 2026 ; il ne s’agit pas d’un suivi de la recherche en temps réel.",
     "tags.药学": "Pharmacologie",
     "tags.青蒿素": "Artémisinine",
     "tags.抗疟疾": "Lutte contre le paludisme",
@@ -43,6 +43,22 @@
     "timeline.event-11.title": "Diplôme et entrée dans un institut de médecine traditionnelle",
     "timeline.event-11.text": "Après ses études de pharmacie à Pékin, elle prend un poste de recherche sur les médicaments traditionnels chinois.",
     "timeline.event-12.title": "Naissance à Ningbo",
-    "timeline.event-12.text": "Née dans le Zhejiang, elle choisit ensuite la pharmacie comme domaine d'étude et de recherche."
+    "timeline.event-12.text": "Née dans le Zhejiang, elle choisit ensuite la pharmacie comme domaine d'étude et de recherche.",
+    "timeline.event-13.title": "Élue membre internationale de l’Académie nationale des sciences des États-Unis",
+    "timeline.event-13.text": "L’Académie nationale des sciences des États-Unis annonce son élection comme membre internationale, saluant ses contributions durables à la recherche originale ; cette qualité est distincte de celle de membre de l’Académie chinoise des sciences."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "86325f8e468cdec87dc67afa8fca6904dd2039d2c2d666b8244dd6784b31e57c",
+    "fields": [
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

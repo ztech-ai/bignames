@@ -1,5 +1,5 @@
 {
-  "sourceHash": "8f9f47e1f46ccfa4337989648ccb4c3901153baefbf1e5eabcda505dfda4301a",
+  "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
   "strings": {
     "name": "マイケル・ジャクソン",
     "role": "歌手・ダンサー · ポップ音楽とミュージックビデオの代表的存在",
@@ -41,6 +41,25 @@
     "timeline.event-10.title": "ソロでの録音活動を開始",
     "timeline.event-10.text": "家族グループの成功後、ソロ歌手としての活動を始め、その後『ベン』などを発表した。",
     "timeline.event-11.title": "ゲーリーに生まれる",
-    "timeline.event-11.text": "インディアナ州に生まれ、幼少期から兄弟で組んだジャクソン5で舞台に立った。"
+    "timeline.event-11.text": "インディアナ州に生まれ、幼少期から兄弟で組んだジャクソン5で舞台に立った。",
+    "timeline.event-12.title": "1993年の疑惑に関する民事訴訟で和解する",
+    "timeline.event-12.text": "児童への性的虐待を訴えた少年側と法廷外で和解する。本人は疑惑を否定し続け、弁護士は和解が罪を認めるものではないと声明を出した。2005年の刑事裁判とは別の事件である。",
+    "timeline.event-13.title": "『Dangerous』を発表",
+    "timeline.event-13.text": "スタジオアルバム『Dangerous』を発表。「Black or White」「Remember the Time」「Heal the World」などを収録する。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "c0ed0f068b9f490d7297f9b4b2ca4255d065e4ddb59ee6fb58d7a76b73e4ff52",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

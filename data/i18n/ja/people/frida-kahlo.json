@@ -1,5 +1,5 @@
 {
-  "sourceHash": "c4d31b1701621ae9059213c08882c7ac9b9eab70fad50a700a5c2a7ec1351f17",
+  "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
   "strings": {
     "name": "フリーダ・カーロ",
     "role": "画家 · 自画像を通じて身体とアイデンティティーを表現",
@@ -39,6 +39,21 @@
     "timeline.event-09.title": "重大な交通事故に遭う",
     "timeline.event-09.text": "乗っていたバスが路面電車と衝突して重傷を負い、その後も生涯にわたって治療を繰り返した。",
     "timeline.event-10.title": "コヨアカンに生まれる",
-    "timeline.event-10.text": "メキシコシティの家族の住居に生まれた。この家は後に「青い家」と呼ばれるようになった。"
+    "timeline.event-10.text": "メキシコシティの家族の住居に生まれた。この家は後に「青い家」と呼ばれるようになった。",
+    "timeline.event-11.title": "美術教師としての任命を受ける",
+    "timeline.event-11.text": "この年の美術教師任命の記録が公文書館に残る。ラ・エスメラルダで教え、後に健康上の理由から授業を自宅に移す。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
+    "fields": [
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

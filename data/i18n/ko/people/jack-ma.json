@@ -1,11 +1,11 @@
 {
-  "sourceHash": "92c44e5b5439a0d1e8fb5f90ebbd65ccc99fd013f0707ef2f4ed8a3edf98daee",
+  "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
   "strings": {
     "name": "마윈",
     "role": "기업가 · 알리바바 공동 창업자",
     "country": "중국",
     "summary": "마윈은 알리바바의 공동 창업자로 그룹 CEO와 이사회 의장을 지냈다. 영어 교사에서 인터넷 창업으로 전환해 전자상거래 플랫폼과 온라인 결제 등의 사업 발전에 참여했다. 2019년 의장직에서 물러난 뒤 교육 공익활동에 더 많이 참여했다. 사업 경력에는 플랫폼 관리와 금융 규제 문제도 뒤따랐으며 2020년 앤트그룹의 상장 중단은 중요한 전환점이었다.",
-    "coverageNote": "창업, 기업 지배구조, 공익활동의 주요 사건을 선정했으며 주요 연표는 2023년까지다. 기업의 변화를 개인 혼자 이룬 성과와 동일시하지 않는다.",
+    "coverageNote": "1964~2026년의 창업·기업 지배구조·교육 기부 관련 사건에 2025년 기업인 좌담회와 2026년 교사 교류를 보완했다. 조사 기준일은 2026년 11월 13일이다. 마윈은 Alibaba 공동창업자이자 파트너이며 더 이상 CEO나 이사회 의장이 아니다. 기업 성과가 개인 혼자 이룬 업적은 아니다.",
     "tags.电子商务": "전자상거래",
     "tags.阿里巴巴": "알리바바",
     "tags.数字支付": "디지털 결제",
@@ -23,7 +23,7 @@
     "highlights.highlight-03.title": "교육 공익활동",
     "highlights.highlight-03.text": "2014년 마윈공익기금회를 설립해 농촌 교육 등의 공익사업을 진행했다.",
     "timeline.event-01.title": "앤트그룹 지배구조 변경",
-    "timeline.event-01.text": "회사가 주주 의결권 구조 변경을 발표하면서 마윈은 더 이상 앤트그룹을 지배하지 않게 되었다.",
+    "timeline.event-01.text": "Ant는 마윈의 지배권을 끝내기 위한 주주 의결권 구조 변경 계획을 발표했다. 당시에는 아직 규제 당국의 승인이 필요했다.",
     "timeline.event-02.title": "앤트그룹 상장 중단",
     "timeline.event-02.text": "상하이증권거래소가 앤트그룹의 커촹반 상장을 중단하면서 관련 사업의 중요한 전환점이 되었다.",
     "timeline.event-03.title": "알리바바 이사회 의장 사임",
@@ -43,6 +43,27 @@
     "timeline.event-10.title": "영어 전공 학업 완료",
     "timeline.event-10.text": "졸업 후 영어를 가르쳤으며 이후 번역 서비스와 인터넷 창업으로 전환했다.",
     "timeline.event-11.title": "항저우에서 출생",
-    "timeline.event-11.text": "항저우에서 태어나 성장했으며 영어 공부는 초기 생애의 중요한 부분이었다."
+    "timeline.event-11.text": "항저우에서 태어나 성장했으며 영어 공부는 초기 생애의 중요한 부분이었다.",
+    "timeline.event-2026-teachers.title": "농촌 교사와 교류 지속",
+    "timeline.event-2026-teachers.text": "열한 번째 연례 라바절 모임에 참여해 농촌 교사들과 AI 시대의 교육 및 호기심 계발을 논의했다.",
+    "timeline.event-2025-symposium.title": "민영기업 좌담회 참석",
+    "timeline.event-2025-symposium.text": "베이징에서 시진핑과 민영기업 관계자들의 좌담회에 참석했다. 공개석상 등장이 Alibaba CEO나 의장으로의 복귀를 뜻하지는 않는다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "fields": [
+      "coverageNote",
+      "timeline.event-2026-teachers.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

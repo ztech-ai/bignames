@@ -1,11 +1,11 @@
 {
-  "sourceHash": "183fa60f298c2ee881db0cc022f451aac81dcb699bdf4b2c10d2a7745bc1e40b",
+  "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
   "strings": {
     "name": "마리 퀴리",
     "role": "물리학자·화학자 · 방사능 연구의 선구자",
     "country": "폴란드 / 프랑스",
     "summary": "마리 퀴리는 바르샤바에서 태어나 파리에서 고등교육을 받고 방사능 연구를 수행했다. 피에르 퀴리와 폴로늄 및 라듐을 발견했으며 방사성 물질의 분리와 측정을 발전시켰다. 1903년 노벨 물리학상과 1911년 노벨 화학상을 받았다. 제1차 세계대전 중에는 부상자를 위한 이동식 X선 장비 운영에도 참여했다.",
-    "coverageNote": "생애, 연구, 의학적 활용의 주요 사건을 선정했다. 역사적 국경과 오늘날 국가 명칭을 구분한다.",
+    "coverageNote": "1867~1934년의 주요 생애, 연구, 연구기관 설립과 의료 응용을 선별했다. 1906년 강의 인계와 1908년 정식 교수 임명을 구분한다. 검토 기준일은 2026-11-13이며, 사후 기념행사는 본인의 활동에 포함하지 않는다.",
     "tags.放射性": "방사능",
     "tags.物理学": "물리학",
     "tags.化学": "화학",
@@ -24,12 +24,12 @@
     "highlights.highlight-03.text": "이동식 X선 검사를 추진해 부상자 치료 현장에 방사선 기술을 도입했다.",
     "timeline.event-01.title": "프랑스에서 사망",
     "timeline.event-01.text": "프랑스 파시에서 병으로 사망했다. 연구와 장기간의 방사선 노출 경험도 과학사의 일부가 되었다.",
-    "timeline.event-02.title": "이동식 X선 서비스 조직",
-    "timeline.event-02.text": "제1차 세계대전 초기에 차량과 장비를 준비했으며 딸 이렌과 전장 검사에 참여했다.",
+    "timeline.event-02.title": "라듐 연구소와 전시 X선 진료",
+    "timeline.event-02.text": "파리 라듐 연구소 건물이 완공되었고, 물리·화학 연구를 이끌었다. 전쟁이 발발하자 이동식 X선 진료를 조직하고 딸 이렌과 함께 검사에 참여했다.",
     "timeline.event-03.title": "노벨 화학상 수상",
     "timeline.event-03.text": "폴로늄과 라듐의 발견, 라듐 분리, 그 성질과 화합물 연구로 상을 받았다.",
     "timeline.event-04.title": "파리 대학교 강의 계승",
-    "timeline.event-04.text": "피에르의 사고사 이후 그의 교수직을 이어받아 연구와 강의를 계속했다.",
+    "timeline.event-04.text": "피에르가 사고로 사망한 뒤 강의와 연구실 업무를 이어받았으며, 1908년 정식 교수로 임명되었다.",
     "timeline.event-05.title": "박사학위와 노벨 물리학상 취득",
     "timeline.event-05.text": "물리학 박사 연구를 마치고 피에르 퀴리, 베크렐과 노벨 물리학상을 공동 수상했다.",
     "timeline.event-06.title": "폴로늄과 라듐 발견",
@@ -39,6 +39,24 @@
     "timeline.event-08.title": "파리로 유학",
     "timeline.event-08.text": "바르샤바를 떠나 파리의 대학에서 물리학과 수학을 공부했다.",
     "timeline.event-09.title": "바르샤바에서 출생",
-    "timeline.event-09.text": "본명은 마리아 스크워도프스카이며 이후 마리 퀴리라는 이름으로 연구했다."
+    "timeline.event-09.text": "본명은 마리아 스크워도프스카이며 이후 마리 퀴리라는 이름으로 연구했다.",
+    "timeline.event-12.title": "바르샤바 라듐 연구소 개소식에 참석",
+    "timeline.event-12.text": "바르샤바 라듐 연구소 개소식에 참여하며 연구 자원 확보 활동을 폴란드로 넓혔다.",
+    "timeline.event-11.title": "연구용 라듐 확보를 위해 미국 방문",
+    "timeline.event-11.text": "언론인 마리 멀로니가 주도한 모금 활동 이후 미국을 방문해 하딩 대통령에게서 연구용 라듐 1그램을 받았다.",
+    "timeline.event-10.title": "금속 라듐 분리",
+    "timeline.event-10.text": "앙드레 드비에른과 협력해 금속 라듐을 분리했다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "ffd670f35402175115c8c45b6b2eac71536d763bc6217dc25f94ece19830c75a",
+    "fields": [
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

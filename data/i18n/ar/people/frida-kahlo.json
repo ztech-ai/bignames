@@ -1,5 +1,5 @@
 {
-  "sourceHash": "c4d31b1701621ae9059213c08882c7ac9b9eab70fad50a700a5c2a7ec1351f17",
+  "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
   "strings": {
     "name": "فريدا كاهلو",
     "role": "رسامة · الجسد والهوية في البورتريه الذاتي",
@@ -39,6 +39,21 @@
     "timeline.event-09.title": "حادث سير خطير",
     "timeline.event-09.text": "اصطدمت الحافلة التي كانت تستقلها بترام، فأُصيبت بجروح خطيرة واستمرت علاجاتها طوال حياتها.",
     "timeline.event-10.title": "الميلاد في كويوآكان",
-    "timeline.event-10.text": "وُلدت في منزل العائلة بمدينة مكسيكو، الذي عُرف لاحقًا بالبيت الأزرق."
+    "timeline.event-10.text": "وُلدت في منزل العائلة بمدينة مكسيكو، الذي عُرف لاحقًا بالبيت الأزرق.",
+    "timeline.event-11.title": "تتلقى تعيينًا لتدريس الفن",
+    "timeline.event-11.text": "تحتفظ الأرشيفات بوثيقة تعيينها لتدريس الفن في هذا العام. تدرّس في لا إسميرالدا، ثم تنقل دروسها إلى منزلها بسبب حالتها الصحية."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8ed335ed448987e4ec26fd9b6d9d958bdddb2fb0095524cfa03cd6aa1cd652cf",
+    "fields": [
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

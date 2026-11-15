@@ -1,5 +1,5 @@
 {
-  "sourceHash": "12af474acb19bd80720f235ce54b6778bf6c1cb77f5f4675b50c7f1cca81b648",
+  "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
   "strings": {
     "name": "ラビンドラナート・タゴール",
     "role": "詩人・教育者 · ベンガル文学の代表的人物",
@@ -39,6 +39,25 @@
     "timeline.event-08.title": "詩集『Manasi』を刊行",
     "timeline.event-08.text": "詩集Manasiを出版。この時期には家族の所領での生活を通じて農村社会にも触れた。",
     "timeline.event-09.title": "カルカッタに生まれる",
-    "timeline.event-09.text": "文学と思想を重視する家庭で育ち、早くから家庭教師の指導を受けて創作を始めた。"
+    "timeline.event-09.text": "文学と思想を重視する家庭で育ち、早くから家庭教師の指導を受けて創作を始めた。",
+    "facts.fact-04.label": "歌曲の継承",
+    "facts.fact-04.value": "自ら作った歌曲が、後にインドとバングラデシュでそれぞれ国歌に採用される。",
+    "timeline.event-10.title": "農村再建のためスリニケタンを設立",
+    "timeline.event-10.text": "ヴィシュヴァ・バーラティで農村再建に取り組み、教育を農業や手工業、村民の暮らしの改善と結びつける。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
+    "fields": [
+      "facts.fact-04.label",
+      "facts.fact-04.value",
+      "timeline.event-10.title",
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "albert-einstein",
+  "reviewedAt": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex（AI助手）"
+  },
+  "cutoffDate": "2026-11-13",
+  "coverageEnd": "1955-04-18",
+  "sourceUrls": [
+    "https://www.uzh.ch/en/researchinnovation/excellence/nobelprize/einstein.html",
+    "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+    "https://www.nobel.mpg.de/en/albert-einstein",
+    "https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm",
+    "https://fdr.blogs.archives.gov/2011/10/13/found-in-the-archives-15/"
+  ],
+  "lifeStatusEvidence": "https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm",
+  "editorialNotes": [
+    "新增event-11：1939-08-02署名致罗斯福信；FDR档案馆区分信件日期与1939-10-11送达日。NPS支持铀研究背景及本人未参与曼哈顿计划，未归功为原子弹制造者。",
+    "在既有1905 event-07中补质能关系，保留旧ID；主要教育、专利局、相对论、诺贝尔奖、移民与死亡节点继续保留。",
+    "诺贝尔网页直接读取403，检索结果可读取奖项年/授予年；UZH、NPS与FDR档案为本次可读取依据。Max Planck网页正文当前仅图像，未用其空白读取支撑新增事实。",
+    "本次为已故人物历史履历复核，没有新增2026本人活动；未尝试穷尽家庭、每封书信或全部论文。",
+    "保留稳定条目ID与未变正文；七个目标语言仅对实际变更作AI逐字段审阅，并审阅日期、来源及排序等sharedFacts。未新增评级或英文参考provenance。",
+    "AI采编与多语审阅记录是实际工作声明，不是人工史学审校、母语认证或照片复审；肖像未变更。"
+  ],
+  "translationReview": {
+    "kind": "ai",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "method": "validated snapshots plus reviewed incremental export/import",
+    "humanOrNativeCertification": false
+  }
+}

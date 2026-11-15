@@ -1,11 +1,11 @@
 {
-  "sourceHash": "71587d3440fedb34c4d78ae2eb31491193e13766c8eabdd119cf2f9f4024beb9",
+  "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
   "strings": {
     "name": "Donald Trump",
     "role": "45. und 47. Präsident der USA · Unternehmer",
     "country": "USA",
     "summary": "Trump wechselte vom New Yorker Immobiliengeschäft seiner Familie in das Marken- und Fernsehgeschäft und gewann anschließend als republikanischer Kandidat die Präsidentschaftswahl. 2017 und 2025 begann er zwei nicht aufeinanderfolgende Amtszeiten. Sein politischer Einfluss geht mit stark polarisierten öffentlichen Bewertungen einher. Zwei Anklagen durch das Repräsentantenhaus in Amtsenthebungsverfahren, der Streit um die Wahl 2020 und Strafprozesse gehören zu den wichtigen Stationen seiner Laufbahn.",
-    "coverageNote": "Ausgewählte Stationen bis Januar 2025. Die juristischen Einträge beschreiben die damaligen Entscheidungen und geben spätere Berufungen oder Verfahrensstände nicht in Echtzeit wieder.",
+    "coverageNote": "Ausgewählte Stationen bis Februar 2026; Lebens- und Präsidentenstatus am 13. November 2026 geprüft. Die Einträge zu Zöllen und Justiz halten die genannten Entscheidungen fest, ohne sämtliche späteren Maßnahmen, Berufungen oder Verfahren abzudecken.",
     "tags.美国政治": "US-Politik",
     "tags.总统": "Präsidentschaft",
     "tags.房地产": "Immobilien",
@@ -41,6 +41,29 @@
     "timeline.event-09.title": "Universitätsabschluss",
     "timeline.event-09.text": "Er erwarb einen Bachelor in Wirtschaftswissenschaften an der University of Pennsylvania und trat anschließend in Vollzeit in das Immobilienunternehmen seines Vaters ein.",
     "timeline.event-10.title": "Geburt in New York City",
-    "timeline.event-10.text": "Er wurde in Queens in eine Immobilienunternehmerfamilie geboren und wuchs dort auf. In jungen Jahren besuchte er die New York Military Academy."
+    "timeline.event-10.text": "Er wurde in Queens in eine Immobilienunternehmerfamilie geboren und wuchs dort auf. In jungen Jahren besuchte er die New York Military Academy.",
+    "timeline.event-12.title": "Oberster Gerichtshof verwirft Notstandsgrundlage für Zölle",
+    "timeline.event-12.text": "Der Oberste Gerichtshof entschied mit 6 zu 3 Stimmen, dass der International Emergency Economic Powers Act den Präsidenten nicht zu Zöllen ermächtigt. Damit entfiel diese Rechtsgrundlage, nicht jedoch jede gesetzliche Zollbefugnis.",
+    "timeline.event-11.title": "Kündigt umfassende „reziproke Zölle“ an",
+    "timeline.event-11.text": "Berief sich auf den International Emergency Economic Powers Act, um zusätzliche Zölle auf Importe aus zahlreichen Ländern anzukündigen; sie wurden zu einem Schwerpunkt der Handelspolitik und der Gerichtsverfahren seiner zweiten Amtszeit.",
+    "timeline.event-14.title": "Unterzeichnet umfassendes Steuer- und Ausgabengesetz",
+    "timeline.event-14.text": "Unterzeichnete das als „One Big Beautiful Bill“ bekannte Steuer- und Ausgabengesetz, das Steuersenkungen verlängerte und Ausgaben unter anderem für Medicaid kürzte; es löste Kontroversen über Staatsfinanzen und soziale Absicherung aus.",
+    "timeline.event-13.title": "Bei Attentatsversuch auf Wahlkampfveranstaltung verletzt",
+    "timeline.event-13.text": "Wurde bei einer Wahlkampfveranstaltung in Butler, Pennsylvania, durch einen Schuss am Ohr verletzt. Ein Zuschauer starb; das FBI untersuchte den Angriff als Attentatsversuch."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
+    "fields": [
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

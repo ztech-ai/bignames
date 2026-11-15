@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d32fbbfb9105a1aa38cd9c5dabf0c06a7ca70582b2116c41e1ae084fe80184cc",
+  "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
   "strings": {
     "name": "넬슨 만델라",
     "role": "남아공 민주화 지도자 · 노벨 평화상 수상자",
     "country": "남아프리카공화국",
     "summary": "만델라는 변호사와 아프리카민족회의 활동가에서 남아공 반아파르트헤이트 운동의 대표 인물로 성장했다. 무장 저항과 장기 수감 생활을 거친 뒤 석방되어 백인 소수 통치를 끝내기 위한 협상에 참여했다. 1993년 데클레르크와 노벨 평화상을 공동 수상했고 이듬해 민주 선거 후 대통령이 되었다. 한 임기를 마치고 물러난 뒤 공익활동과 사회적 화해에 계속 힘썼다.",
-    "coverageNote": "1918~2013년의 주요 생애 사건을 만델라 재단 기록과 노벨상 자료 요약에 근거해 정리했다.",
+    "coverageNote": "1918~2013년의 반아파르트헤이트 운동, 민주화, 대통령 재임과 공익 활동의 주요 사건을 선별하고 헌법 서명과 공적 활동 축소를 추가했다. 검토 기준일은 2026-11-13이며, 사후 기념행사는 본인의 활동에 포함하지 않는다. 가족생활과 모든 정치적 논쟁을 망라하지는 않는다.",
     "tags.反种族隔离": "반아파르트헤이트",
     "tags.人权": "인권",
     "tags.诺贝尔和平奖": "노벨 평화상",
@@ -41,6 +41,30 @@
     "timeline.event-09.title": "ANC 청년동맹 창설 참여",
     "timeline.event-09.text": "아프리카민족회의에 가입하고 동료들과 청년동맹을 세워 반아파르트헤이트 정치 활동에 나섰다.",
     "timeline.event-10.title": "음베조에서 출생",
-    "timeline.event-10.text": "이스턴케이프 지역에서 태어났으며 이후 포트헤어와 남아프리카 대학교 등에서 공부하고 법률가의 길에 들어섰다."
+    "timeline.event-10.text": "이스턴케이프 지역에서 태어났으며 이후 포트헤어와 남아프리카 대학교 등에서 공부하고 법률가의 길에 들어섰다.",
+    "timeline.event-12.title": "공적 활동 축소 발표",
+    "timeline.event-12.text": "바쁜 공적 일정에서 물러나 가족, 독서와 집필에 더 많은 시간을 쓰겠다고 발표했으며, 관련 재단들이 공익 활동을 이어가도록 했다.",
+    "timeline.event-11.title": "남아프리카공화국 새 헌법에 서명",
+    "timeline.event-11.text": "샤프빌에서 헌법에 서명해 민주적 제도와 권리 보장을 확립했다. 헌법은 1997년 2월 4일 발효되었다.",
+    "timeline.event-13.title": "넬슨 만델라 아동 기금 설립",
+    "timeline.event-13.text": "대통령 재임 중 아동 기금을 설립해 어린이들의 삶을 개선하도록 지원하고 공익 활동을 공적 업무에 포함했다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
+    "fields": [
+      "coverageNote",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d32fbbfb9105a1aa38cd9c5dabf0c06a7ca70582b2116c41e1ae084fe80184cc",
+  "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
   "strings": {
     "name": "Nelson Mandela",
     "role": "Leader in South Africa’s democratic transition · Nobel Peace Prize laureate",
     "country": "South Africa",
     "summary": "Mandela developed from a lawyer and African National Congress activist into a leading figure in South Africa’s anti-apartheid movement. After armed resistance and a long imprisonment, he joined negotiations to end white-minority rule. He shared the 1993 Nobel Peace Prize with F. W. de Klerk and became president after democratic elections the following year. After one term, he stepped down and continued work in philanthropy and social reconciliation.",
-    "coverageNote": "Selected milestones from 1918 to 2013, compiled from Nelson Mandela Foundation archival material and Nobel Prize summaries.",
+    "coverageNote": "Selected milestones in the struggle against apartheid, democratic transition, presidency and philanthropy from 1918–2013, including the Constitution’s signing and his reduction of public engagements. Reviewed through 2026-11-13; posthumous commemorations are not personal activities. Family life and political debates are not covered exhaustively.",
     "tags.反种族隔离": "Anti-apartheid",
     "tags.人权": "Human rights",
     "tags.诺贝尔和平奖": "Nobel Peace Prize",
@@ -41,6 +41,30 @@
     "timeline.event-09.title": "Helps found the ANC Youth League",
     "timeline.event-09.text": "Joined the African National Congress and established its Youth League with fellow activists, entering anti-apartheid politics.",
     "timeline.event-10.title": "Born in Mvezo",
-    "timeline.event-10.text": "Born in the Eastern Cape region; later studied at Fort Hare and the University of South Africa, among other institutions, and entered law."
+    "timeline.event-10.text": "Born in the Eastern Cape region; later studied at Fort Hare and the University of South Africa, among other institutions, and entered law.",
+    "timeline.event-12.title": "Announces reduction of public engagements",
+    "timeline.event-12.text": "Announced his withdrawal from a busy public schedule to spend more time with family, reading and writing, while associated foundations continued the charitable work.",
+    "timeline.event-11.title": "Signs South Africa’s new Constitution",
+    "timeline.event-11.text": "Signed the Constitution at Sharpeville, establishing democratic institutions and rights protections; it came into effect on 4 February 1997.",
+    "timeline.event-13.title": "Establishes Nelson Mandela Children’s Fund",
+    "timeline.event-13.text": "Founded the Children’s Fund during his presidency to help improve children’s lives, making philanthropy part of his public work."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "85c5b99e1393869a30a1de7554df223d9d2856c22db65dd63a17a8160c5e62d5",
+    "fields": [
+      "coverageNote",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

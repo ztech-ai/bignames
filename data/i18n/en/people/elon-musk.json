@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "Elon Musk",
     "role": "Entrepreneur · Commercial spaceflight and electric vehicles",
     "country": "South Africa / Canada / United States",
     "summary": "From online payments to electric vehicles and commercial spaceflight, Musk has helped establish and develop several technology companies. He founded SpaceX, invested in and led Tesla, and advanced the commercialization of reusable rockets and electric cars. Acquiring Twitter brought him into social-platform governance. His management methods and public statements have long attracted controversy, and his securities disclosures have also led to regulatory penalties.",
-    "coverageNote": "Selected life and career milestones from 1971 to 2023. The verification date does not mean that the chronology covers all subsequent activities.",
+    "coverageNote": "Selected milestones from 1971–2026, adding Starship tests, his White House tenure, xAI mergers and SpaceX’s IPO; checked through November 13, 2026. Test achievements do not mean crewed Moon or Mars plans are complete. Company activities are not covered exhaustively.",
     "tags.电动汽车": "Electric vehicles",
     "tags.商业航天": "Commercial spaceflight",
     "tags.互联网": "Internet",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "Education",
     "facts.fact-02.value": "University of Pennsylvania: bachelor’s degrees in economics and physics",
     "facts.fact-03.label": "Associated organizations",
-    "facts.fact-03.value": "SpaceX, Tesla, X, Neuralink",
+    "facts.fact-03.value": "SpaceX, Tesla, X, xAI, Neuralink",
     "highlights.highlight-01.title": "Commercial spaceflight",
     "highlights.highlight-01.text": "Founded SpaceX, whose Crew Dragon spacecraft first carried NASA astronauts to the International Space Station in 2020.",
     "highlights.highlight-02.title": "Commercializing electric vehicles",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "Co-founds Zip2",
     "timeline.event-09.text": "Developed online city guides with his partners, beginning his internet entrepreneurship career.",
     "timeline.event-10.title": "Born in Pretoria",
-    "timeline.event-10.text": "Born in South Africa; later studied in Canada and the United States, including economics and physics at the University of Pennsylvania."
+    "timeline.event-10.text": "Born in South Africa; later studied in Canada and the United States, including economics and physics at the University of Pennsylvania.",
+    "timeline.event-2026-ipo.title": "SpaceX completes its IPO",
+    "timeline.event-2026-ipo.text": "Shares began trading on June 12, and the initial public offering closed on June 15. This profile does not use fluctuating wealth rankings.",
+    "timeline.event-2026-xai.title": "SpaceX acquires xAI",
+    "timeline.event-2026-xai.text": "SpaceX completed its acquisition of xAI, bringing AI, spaceflight and satellite communications businesses into one group.",
+    "timeline.event-2025-government.title": "Ends White House special government employee tenure",
+    "timeline.event-2025-government.text": "As a senior adviser to the president, he promoted DOGE spending cuts. He left in May; layoffs and agency restructuring sparked controversy.",
+    "timeline.event-2025-x-merger.title": "xAI acquires X",
+    "timeline.event-2025-x-merger.text": "An all-stock transaction brought the social platform X into xAI, preceding SpaceX’s 2026 acquisition of xAI.",
+    "timeline.event-2024-booster.title": "First tower catch of Super Heavy",
+    "timeline.event-2024-booster.text": "During Starship’s fifth test flight, SpaceX first caught the returning first-stage booster with mechanical arms. This was not a crewed Moon or Mars mission."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

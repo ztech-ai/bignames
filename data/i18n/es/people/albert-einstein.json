@@ -1,11 +1,11 @@
 {
-  "sourceHash": "d7198be7c22f26f17f558a8c3208acf1b9b1b4ed3cf4678ae2c731408f075db1",
+  "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
   "strings": {
     "name": "Albert Einstein",
     "role": "Físico teórico · Creador de la teoría de la relatividad",
     "country": "Alemania / Suiza / Estados Unidos",
     "summary": "Einstein fue uno de los grandes fundadores de la física moderna. La relatividad especial y general transformaron la comprensión del tiempo, el espacio y la gravedad; también contribuyó al estudio de los cuantos de luz y el movimiento browniano. El Premio Nobel de Física de 1921 destacó especialmente su ley del efecto fotoeléctrico. Su carrera transcurrió en Europa y Estados Unidos, adonde emigró tras la llegada de los nazis al poder en 1933.",
-    "coverageNote": "Selección de su biografía y principales aportaciones científicas. Se distingue el año al que corresponde el Nobel (1921) del año de su concesión efectiva (1922).",
+    "coverageNote": "Selección de hitos vitales, aportaciones científicas e intervención pública sobre la investigación nuclear de 1879 a 1955. Se distingue el año del Nobel (1921) del de su entrega (1922). Revisión hasta el 2026-11-13; las conmemoraciones póstumas no se consideran actividades personales.",
     "tags.理论物理": "Física teórica",
     "tags.相对论": "Relatividad",
     "tags.光电效应": "Efecto fotoeléctrico",
@@ -33,12 +33,29 @@
     "timeline.event-06.title": "Obtiene su primer puesto académico formal",
     "timeline.event-06.text": "Fue nombrado profesor asociado de física teórica en la Universidad de Zúrich, poniendo fin a su etapa en la oficina de patentes.",
     "timeline.event-07.title": "Investigaciones del «año milagroso»",
-    "timeline.event-07.text": "Publicó trabajos sobre cuantos de luz, movimiento browniano y relatividad especial, y presentó su tesis doctoral.",
+    "timeline.event-07.text": "Publicó investigaciones sobre cuantos de luz, movimiento browniano, relatividad especial y la relación masa-energía, y presentó su tesis doctoral.",
     "timeline.event-08.title": "Ingresa en la oficina de patentes de Berna",
     "timeline.event-08.text": "Continuó investigando física de forma independiente mientras examinaba patentes.",
     "timeline.event-09.title": "Comienza sus estudios en Zúrich",
     "timeline.event-09.text": "Estudió física y matemáticas en la Escuela Politécnica Federal, donde terminó su formación en 1900.",
     "timeline.event-10.title": "Nace en Ulm",
-    "timeline.event-10.text": "Nació en el Imperio alemán; posteriormente estudió y trabajó en diversas ciudades europeas."
+    "timeline.event-10.text": "Nació en el Imperio alemán; posteriormente estudió y trabajó en diversas ciudades europeas.",
+    "timeline.event-11.title": "Firma una carta a Roosevelt sobre investigación nuclear",
+    "timeline.event-11.text": "Firmó una carta redactada por científicos que advertía a Roosevelt sobre las reacciones en cadena del uranio y la posibilidad de armas nucleares; no participó en el Proyecto Manhattan."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dacb14f66a4b9a9adee49dd5bc10e9c5704429739fec6d3bd1663c9c81e94b56",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-07.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

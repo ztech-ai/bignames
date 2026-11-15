@@ -1,11 +1,11 @@
 {
-  "sourceHash": "92c44e5b5439a0d1e8fb5f90ebbd65ccc99fd013f0707ef2f4ed8a3edf98daee",
+  "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
   "strings": {
     "name": "ジャック・マー（馬雲）",
     "role": "起業家 · アリババ共同創業者",
     "country": "中国",
     "summary": "馬雲はアリババの共同創業者で、グループのCEOと取締役会会長を務めた。英語教育からインターネット起業へ転じ、電子商取引やオンライン決済の発展に関わった。2019年に会長を退いた後は、教育を中心とする公益活動への関与を深めた。事業の歩みにはプラットフォーム運営と金融規制の問題も伴い、2020年のアント・グループ上場延期は重要な転機となった。",
-    "coverageNote": "起業、企業統治、公益活動の節目を収録し、主な年表は2023年まで。企業の変化を個人だけで成し遂げた成果とみなすものではない。",
+    "coverageNote": "1964～2026年の創業、企業統治、教育支援の節目を選び、2025年の座談会と2026年の教員交流を追記。調査基準日は2026年11月13日。馬はアリババ共同創業者かつパートナーであり、CEOや取締役会長ではない。会社の成果は個人単独の功績ではない。",
     "tags.电子商务": "電子商取引",
     "tags.阿里巴巴": "アリババ",
     "tags.数字支付": "デジタル決済",
@@ -23,7 +23,7 @@
     "highlights.highlight-03.title": "教育分野の公益活動",
     "highlights.highlight-03.text": "2014年に馬雲公益基金会を設立し、農村教育などの公益事業を行った。",
     "timeline.event-01.title": "アント・グループが支配構造を変更",
-    "timeline.event-01.text": "同社は株主の議決権構造の変更を発表し、馬雲はアント・グループを支配する立場ではなくなった。",
+    "timeline.event-01.text": "アントは馬の支配権を終わらせる株主議決権構成の変更計画を発表した。当時はなお規制当局の承認が必要だった。",
     "timeline.event-02.title": "アント・グループの上場延期",
     "timeline.event-02.text": "上海証券取引所が同社の科創板への上場延期を決定し、関連事業の発展にとって大きな転機となった。",
     "timeline.event-03.title": "アリババ取締役会会長を退任",
@@ -43,6 +43,27 @@
     "timeline.event-10.title": "英語専攻の課程を修了",
     "timeline.event-10.text": "卒業後は英語教師として働き、後に翻訳サービスとインターネット起業へ転じた。",
     "timeline.event-11.title": "杭州に生まれる",
-    "timeline.event-11.text": "杭州で生まれ育ち、英語の学習は初期の人生の重要な部分となった。"
+    "timeline.event-11.text": "杭州で生まれ育ち、英語の学習は初期の人生の重要な部分となった。",
+    "timeline.event-2026-teachers.title": "農村教員との交流を継続",
+    "timeline.event-2026-teachers.text": "11年目の臘八節の交流会に参加し、農村教員とAI時代の教育や好奇心の育成について意見を交わした。",
+    "timeline.event-2025-symposium.title": "民営企業座談会に出席",
+    "timeline.event-2025-symposium.text": "北京で習近平と民営企業関係者の座談会に出席した。公の場への登場はアリババのCEOや会長への復帰を意味しない。"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "dee2435d4c3352bf730bc7724355b826d85cccebe68ffc7fdf6a0fa7fc056e35",
+    "fields": [
+      "coverageNote",
+      "timeline.event-2026-teachers.title",
+      "timeline.event-2026-teachers.text",
+      "timeline.event-2025-symposium.title",
+      "timeline.event-2025-symposium.text",
+      "timeline.event-01.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

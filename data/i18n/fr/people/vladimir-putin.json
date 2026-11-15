@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "Vladimir Poutine",
-    "role": "Personnalité politique russe · Gouvernance et relations internationales",
+    "role": "Président de la Russie · Homme politique",
     "country": "Russie",
     "summary": "Issu du renseignement soviétique, Vladimir Poutine rejoint les administrations locale puis centrale. Nommé Premier ministre puis président par intérim en 1999, il exerce ensuite à plusieurs reprises la présidence et la fonction de Premier ministre, occupant une place majeure dans la Russie contemporaine. Sous sa direction, les relations avec l'Occident évoluent profondément. L'annexion de la Crimée en 2014 et l'invasion à grande échelle de l'Ukraine en 2022 suscitent une condamnation internationale et bouleversent la sécurité européenne.",
-    "coverageNote": "Sélection des principales étapes entre 1952 et 2023. La guerre et les procédures judiciaires internationales évoluent ; les événements cités ne décrivent pas leur état ultérieur. Les régions reflètent le caractère transcontinental de la Russie.",
+    "coverageNote": "Jalons choisis jusqu’au 12 novembre 2026 ; statut de personne en vie et de président vérifié jusqu’au 13 novembre. La guerre, les négociations et les procédures judiciaires internationales évoluent encore ; un mandat d’arrêt ne vaut pas condamnation.",
     "tags.俄罗斯政治": "Politique russe",
     "tags.总统": "Présidence",
     "tags.国际关系": "Relations internationales",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "Diplôme et entrée dans le renseignement",
     "timeline.event-09.text": "Diplômé de droit de l'université de Leningrad, il rejoint le KGB et travaille notamment en Allemagne de l'Est.",
     "timeline.event-10.title": "Naissance à Leningrad",
-    "timeline.event-10.text": "Il naît à Leningrad en URSS, ville aujourd'hui appelée Saint-Pétersbourg, en Russie."
+    "timeline.event-10.text": "Il naît à Leningrad en URSS, ville aujourd'hui appelée Saint-Pétersbourg, en Russie.",
+    "timeline.event-13.title": "Nouveaux entretiens sur l’Ukraine avec des émissaires américains",
+    "timeline.event-13.text": "Reçoit Steve Witkoff et Jared Kushner au Kremlin alors que les négociations se poursuivent ; cette rencontre ne permet pas de considérer la guerre comme terminée.",
+    "timeline.event-12.title": "Rencontre Trump en Alaska",
+    "timeline.event-12.text": "Discute de la guerre en Ukraine à Anchorage ; la rencontre n’aboutit ni à un cessez-le-feu ni à un accord pour mettre fin à la guerre.",
+    "timeline.event-11.title": "Entame un cinquième mandat présidentiel",
+    "timeline.event-11.text": "Prête serment après l’élection de mars pour un nouveau mandat de six ans, dans un contexte de répression de l’opposition et de guerre en Ukraine."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "sourceHash": "12af474acb19bd80720f235ce54b6778bf6c1cb77f5f4675b50c7f1cca81b648",
+  "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
   "strings": {
     "name": "라빈드라나트 타고르",
     "role": "시인·교육자 · 벵골 문학의 대표 인물",
@@ -39,6 +39,25 @@
     "timeline.event-08.title": "시집 《마나시》 출판",
     "timeline.event-08.text": "시집 《마나시》가 나왔다. 이 시기 가문의 영지에서 생활하며 농촌 사회를 접하기도 했다.",
     "timeline.event-09.title": "캘커타에서 출생",
-    "timeline.event-09.text": "문학과 사상을 중시하는 가정에서 성장했다. 어린 시절 개인 교사의 지도를 받으며 글쓰기를 시작했다."
+    "timeline.event-09.text": "문학과 사상을 중시하는 가정에서 성장했다. 어린 시절 개인 교사의 지도를 받으며 글쓰기를 시작했다.",
+    "facts.fact-04.label": "음악적 유산",
+    "facts.fact-04.value": "그가 만든 노래가 훗날 인도와 방글라데시에서 각각 국가로 채택되었다.",
+    "timeline.event-10.title": "농촌 재건을 위한 스리니케탄을 설립하다",
+    "timeline.event-10.text": "비스바바라티에서 교육을 농업·수공업 및 주민 생활 개선과 연결하는 농촌 재건 사업을 펼쳤다."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3427cd2fe258615c78ab9db6d9b72b836ed7b904a5a8aaf1e451a570afe57546",
+    "fields": [
+      "facts.fact-04.label",
+      "facts.fact-04.value",
+      "timeline.event-10.title",
+      "timeline.event-10.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

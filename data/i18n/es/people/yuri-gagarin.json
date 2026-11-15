@@ -1,11 +1,11 @@
 {
-  "sourceHash": "fea19dd77bee691de38f14d374300474dd4dc0919054a2847bb1838e8e03d27f",
+  "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
   "strings": {
     "name": "Yuri Gagarin",
     "role": "Cosmonauta · Primer ser humano en el espacio",
     "country": "Unión Soviética",
     "summary": "Yuri Gagarin fue un piloto y cosmonauta soviético. El 12 de abril de 1961 completó una órbita terrestre a bordo de Vostok 1 y se convirtió en el primer ser humano en llegar al espacio, inaugurando la era de los vuelos tripulados. Después realizó visitas internacionales, trabajó en la formación de cosmonautas y continuó estudiando ingeniería aeronáutica. En 1968 murió durante un vuelo de entrenamiento en un avión biplaza, dejando un hito fundamental de la exploración espacial.",
-    "coverageNote": "«Deporte y exploración» es una categoría de navegación del sitio; Gagarin pertenece a su vertiente de exploración espacial. Las regiones indican los principales vínculos de su trayectoria, no una nacionalidad actual.",
+    "coverageNote": "Selección de hitos de aviación, vuelos espaciales y funciones públicas de 1934 a 1968. «Deportes y exploración» es una categoría de navegación del sitio; las etiquetas regionales no indican nacionalidad actual. Revisión hasta el 2026-11-13; las conmemoraciones póstumas no se consideran actividades personales. No se afirma una causa definitiva del accidente.",
     "tags.太空探索": "Exploración espacial",
     "tags.载人航天": "Vuelos espaciales tripulados",
     "tags.飞行员": "Aviación",
@@ -22,14 +22,14 @@
     "highlights.highlight-02.text": "Después de su vuelo trabajó en el centro de entrenamiento y ayudó a preparar a nuevos cosmonautas para sus misiones.",
     "timeline.event-01.title": "Muere durante un vuelo de entrenamiento",
     "timeline.event-01.text": "El MiG-15UTI que pilotaba con el instructor Vladímir Serioguin se estrelló. Tenía 34 años.",
-    "timeline.event-02.title": "Termina sus estudios de ingeniería",
-    "timeline.event-02.text": "Completó sus estudios técnicos y su trabajo de graduación mientras continuaba con la formación espacial.",
+    "timeline.event-02.title": "Supera la defensa de su trabajo de ingeniería",
+    "timeline.event-02.text": "Defendió con éxito un trabajo sobre el diseño de un avión espacial en la Academia de Ingeniería de la Fuerza Aérea Zhukovski y después retomó el entrenamiento de vuelo.",
     "timeline.event-03.title": "Es cosmonauta de reserva para Soyuz 1",
     "timeline.event-03.text": "Se preparó como suplente de Vladímir Komarov, manteniendo su aspiración de volver al espacio.",
     "timeline.event-04.title": "Participa en la dirección del entrenamiento de cosmonautas",
     "timeline.event-04.text": "Fue nombrado subdirector del centro de entrenamiento y asumió tareas de preparación de futuras tripulaciones.",
     "timeline.event-05.title": "Primer vuelo espacial tripulado",
-    "timeline.event-05.text": "Despegó a bordo de Vostok 1, completó una órbita terrestre y regresó con seguridad, marcando un hito de la astronáutica.",
+    "timeline.event-05.text": "Completó un vuelo orbital de unos 108 minutos a bordo de Vostok 1; tras la reentrada atmosférica, se eyectó según lo previsto y aterrizó a salvo en paracaídas.",
     "timeline.event-06.title": "Es seleccionado para el primer grupo de cosmonautas",
     "timeline.event-06.text": "Fue uno de veinte pilotos soviéticos elegidos para pruebas de resistencia y entrenamiento para misiones espaciales.",
     "timeline.event-07.title": "Completa su formación militar de vuelo",
@@ -37,6 +37,25 @@
     "timeline.event-08.title": "Ingresa en la escuela militar de aviación",
     "timeline.event-08.text": "Después de sus estudios técnicos, pasó a Oremburgo para recibir formación profesional de piloto.",
     "timeline.event-09.title": "Nace en Klúshino",
-    "timeline.event-09.text": "Nació en una familia rural soviética; después estudió trabajo del metal y materias técnicas y conoció la aviación."
+    "timeline.event-09.text": "Nació en una familia rural soviética; después estudió trabajo del metal y materias técnicas y conoció la aviación.",
+    "timeline.event-10.title": "Comienza a ejercer como diputado del Sóviet Supremo",
+    "timeline.event-10.text": "Tras su primer vuelo espacial, asumió funciones públicas y realizó visitas internacionales, al tiempo que continuaba participando en la formación de cosmonautas y la investigación de naves espaciales."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "3567772a51d0f85ecb09775b38a5fb35d8606d76f71bf14e66afde62afbc2c77",
+    "fields": [
+      "coverageNote",
+      "timeline.event-02.title",
+      "timeline.event-02.text",
+      "timeline.event-10.title",
+      "timeline.event-10.text",
+      "timeline.event-05.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

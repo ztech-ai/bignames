@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "Elon Musk",
     "role": "Unternehmer · Kommerzielle Raumfahrt und Elektroautos",
     "country": "Südafrika / Kanada / USA",
     "summary": "Von Onlinezahlungen über Elektroautos bis zur kommerziellen Raumfahrt war Musk am Aufbau mehrerer Technologieunternehmen beteiligt. Er gründete SpaceX, investierte in Tesla und leitete das Unternehmen. Dabei trieb er die kommerzielle Nutzung wiederverwendbarer Raketen und von Elektroautos voran. Durch den Kauf von Twitter kam die Leitung einer sozialen Plattform hinzu. Seine Unternehmensführung und öffentlichen Äußerungen sind seit Langem umstritten; wegen Angaben gegenüber Anlegern kam es auch zu aufsichtsrechtlichen Sanktionen.",
-    "coverageNote": "Diese Ausgabe umfasst ausgewählte Lebens- und Unternehmensstationen von 1971 bis 2023. Das Prüfdatum bedeutet nicht, dass sämtliche späteren Aktivitäten erfasst sind.",
+    "coverageNote": "Ausgewählte Stationen von 1971 bis 2026, ergänzt um Starship-Tests, seine Zeit im Weißen Haus, xAI-Zusammenschlüsse und den Börsengang von SpaceX; geprüft bis zum 13. November 2026. Testerfolge bedeuten keinen Abschluss bemannter Mond- oder Marspläne. Die Unternehmensaktivitäten werden nicht vollständig erfasst.",
     "tags.电动汽车": "Elektroautos",
     "tags.商业航天": "Kommerzielle Raumfahrt",
     "tags.互联网": "Internet",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "Ausbildung",
     "facts.fact-02.value": "University of Pennsylvania: Bachelorabschlüsse in Wirtschaftswissenschaften und Physik",
     "facts.fact-03.label": "Verbundene Unternehmen",
-    "facts.fact-03.value": "SpaceX, Tesla, X, Neuralink",
+    "facts.fact-03.value": "SpaceX, Tesla, X, xAI, Neuralink",
     "highlights.highlight-01.title": "Kommerzielle Raumfahrt",
     "highlights.highlight-01.text": "Er gründete SpaceX. Dessen Crew Dragon brachte 2020 erstmals NASA-Astronauten zur Internationalen Raumstation.",
     "highlights.highlight-02.title": "Vermarktung von Elektroautos",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "Mitgründung von Zip2",
     "timeline.event-09.text": "Mit Geschäftspartnern entwickelte er Online-Stadtführer und begann seine Laufbahn als Internetunternehmer.",
     "timeline.event-10.title": "Geburt in Pretoria",
-    "timeline.event-10.text": "Er wurde in Südafrika geboren und ging später zum Studium nach Kanada und in die USA. An der University of Pennsylvania studierte er Wirtschaftswissenschaften und Physik."
+    "timeline.event-10.text": "Er wurde in Südafrika geboren und ging später zum Studium nach Kanada und in die USA. An der University of Pennsylvania studierte er Wirtschaftswissenschaften und Physik.",
+    "timeline.event-2026-ipo.title": "SpaceX schließt Börsengang ab",
+    "timeline.event-2026-ipo.text": "Der Aktienhandel begann am 12. Juni; der Börsengang wurde am 15. Juni abgeschlossen. Dieses Profil verwendet keine schwankenden Vermögensranglisten.",
+    "timeline.event-2026-xai.title": "SpaceX übernimmt xAI",
+    "timeline.event-2026-xai.text": "SpaceX schloss die Übernahme von xAI ab und vereinte KI, Raumfahrt und Satellitenkommunikation unter einem Konzerndach.",
+    "timeline.event-2025-government.title": "Ende seiner Zeit als Sondermitarbeiter im Weißen Haus",
+    "timeline.event-2025-government.text": "Als leitender Berater des Präsidenten trieb er DOGE-Ausgabenkürzungen voran. Er schied im Mai aus; Entlassungen und Behördenumbauten lösten Kontroversen aus.",
+    "timeline.event-2025-x-merger.title": "xAI übernimmt X",
+    "timeline.event-2025-x-merger.text": "Durch eine reine Aktientransaktion wurde die soziale Plattform X in xAI eingegliedert, bevor SpaceX 2026 xAI übernahm.",
+    "timeline.event-2024-booster.title": "Erster Turmfang von Super Heavy",
+    "timeline.event-2024-booster.text": "Beim fünften Starship-Testflug fing SpaceX erstmals die zurückkehrende Erststufe mit mechanischen Armen auf. Dies war keine bemannte Mond- oder Marsmission."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

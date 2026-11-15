@@ -1,11 +1,11 @@
 {
-  "sourceHash": "a4f800385868cc7e950e09df75059a9c089fcab53041654f415e3c1608708178",
+  "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
   "strings": {
     "name": "Michael Jordan",
     "role": "Jugador de baloncesto · Seis veces campeón de la NBA",
     "country": "Estados Unidos",
     "summary": "Michael Jordan es un jugador estadounidense de baloncesto que ganó seis campeonatos de la NBA con los Chicago Bulls y cinco premios al jugador más valioso de la temporada regular. Destacó por su capacidad anotadora, defensa y rendimiento decisivo. Fue además una figura importante en la difusión mundial del baloncesto y la comercialización de la imagen de los deportistas. Su carrera incluyó retiradas, una etapa en el béisbol y dos regresos; después participó en la gestión de equipos y controló los Charlotte Hornets.",
-    "coverageNote": "Se centra en su carrera deportiva y en la adquisición del control de un equipo en 2010 y su venta en 2023. No sigue valoraciones comerciales en tiempo real.",
+    "coverageNote": "Se centra en el baloncesto y la propiedad de equipos, con hitos seleccionados hasta febrero de 2026; se verificaron su supervivencia y su papel en la escudería hasta noviembre de 2026. Ganar las 500 Millas de Daytona no equivale al campeonato de la temporada; no se siguen valoraciones empresariales en tiempo real.",
     "tags.篮球": "Baloncesto",
     "tags.NBA": "NBA",
     "tags.奥运会": "Juegos Olímpicos",
@@ -41,6 +41,30 @@
     "timeline.event-10.title": "Gana el campeonato nacional universitario",
     "timeline.event-10.text": "Como estudiante de primer año de Carolina del Norte, anotó una canasta decisiva en la final de la NCAA.",
     "timeline.event-11.title": "Nace en Nueva York",
-    "timeline.event-11.text": "Nació en Brooklyn y creció en Wilmington, Carolina del Norte."
+    "timeline.event-11.text": "Nació en Brooklyn y creció en Wilmington, Carolina del Norte.",
+    "timeline.event-14.title": "23XI gana por primera vez las 500 Millas de Daytona",
+    "timeline.event-14.text": "El piloto Tyler Reddick ganó las 500 Millas de Daytona para 23XI, y Jordan lo celebró como copropietario del equipo; fue una victoria en una carrera individual.",
+    "timeline.event-13.title": "Su equipo alcanza un acuerdo en la demanda antimonopolio contra NASCAR",
+    "timeline.event-13.text": "23XI, del que es copropietario, y Front Row Motorsports acordaron resolver su demanda antimonopolio contra NASCAR. Un comunicado conjunto previó revisar las licencias de participación a largo plazo; los términos económicos fueron confidenciales y el acuerdo no fue una declaración judicial de ilegalidad.",
+    "timeline.event-12.title": "Cofunda 23XI Racing",
+    "timeline.event-12.text": "Cofundó con Denny Hamlin y otros socios el equipo de NASCAR, que comenzó a competir en la Cup Series en 2021."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6f8670c2bc6fde286ccede1a86ecf52f322f9e97a1b5a6a6e2e761164f3bfc18",
+    "fields": [
+      "coverageNote",
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

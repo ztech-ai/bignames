@@ -1,11 +1,11 @@
 {
-  "sourceHash": "6e220d4876ae76ed2020c432dafd4b1e96ab12d333bf026beda2bb6742b47fc9",
+  "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
   "strings": {
     "name": "Ada Lovelace",
     "role": "Matemática · Pionera del pensamiento informático",
     "country": "Reino Unido",
     "summary": "Ada Lovelace fue una investigadora británica de las matemáticas que colaboró con Charles Babbage en torno a la máquina analítica. Sus notas a una traducción de 1843 presentaban pasos de cálculo y planteaban que una máquina podía trabajar con objetos no numéricos, como la música. A menudo se la considera la primera programadora, aunque la delimitación de sus aportaciones respecto a las de Babbage sigue siendo objeto de debate académico. Su temprana visión de la computación general ha dejado una huella duradera.",
-    "coverageNote": "Selección de los principales hitos de su vida. «Primera programadora» es una denominación habitual; el alcance concreto de sus aportaciones sigue siendo objeto de investigación histórica.",
+    "coverageNote": "Selección de hitos vitales e ideas sobre computación de 1815 a 1852; se mantiene el debate histórico sobre la denominación «primera programadora». Revisión hasta el 2026-11-13; las conmemoraciones póstumas no se añaden como actividades personales.",
     "tags.计算机先驱": "Pioneros de la informática",
     "tags.数学": "Matemáticas",
     "tags.分析机": "Máquina analítica",
@@ -36,5 +36,17 @@
     "timeline.event-07.text": "Una demostración de la máquina diferencial despertó su interés y dio paso a su futura colaboración en torno a la máquina analítica.",
     "timeline.event-08.title": "Nace en Londres",
     "timeline.event-08.text": "Nacida Augusta Ada Byron, recibió una educación privada que incluía matemáticas."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "6850efb6a1b6dc35ccb28e32b5abd03054659e0173faa3a87c86b10fd5362996",
+    "fields": [
+      "coverageNote"
+    ],
+    "sharedFactsReviewed": true
   }
 }

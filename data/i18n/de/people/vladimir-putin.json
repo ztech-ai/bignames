@@ -1,11 +1,11 @@
 {
-  "sourceHash": "f337b9cd4b97a5e961955aa41b659c8126ef4b067badf857cd5309e4f51ebc97",
+  "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
   "strings": {
     "name": "Wladimir Putin",
-    "role": "Russischer Politiker · Staatsführung und internationale Beziehungen",
+    "role": "Präsident Russlands · Politiker",
     "country": "Russland",
     "summary": "Putin wechselte vom sowjetischen Geheimdienst in die kommunale und zentrale Verwaltung. 1999 wurde er russischer Ministerpräsident und amtierender Präsident; später bekleidete er mehrfach beide Ämter. Er ist eine Schlüsselfigur zum Verständnis des heutigen Russland. Unter seiner Führung veränderten sich die Beziehungen zum Westen grundlegend. Die Annexion der Krim 2014 und die großangelegte Invasion der Ukraine 2022 stießen auf internationale Verurteilung und veränderten die europäische Sicherheitsordnung.",
-    "coverageNote": "Ausgewählte Stationen von 1952 bis 2023. Krieg und internationale Gerichtsverfahren entwickeln sich weiter; die Einträge bilden spätere Verfahrensstände nicht ab. Die Regionsangaben berücksichtigen Russlands Lage auf zwei Kontinenten.",
+    "coverageNote": "Ausgewählte Stationen bis zum 12. November 2026; Lebens- und Präsidentenstatus bis zum 13. November geprüft. Krieg, Verhandlungen und internationale Justizverfahren entwickeln sich weiter; ein Haftbefehl ist keine Verurteilung.",
     "tags.俄罗斯政治": "Russische Politik",
     "tags.总统": "Präsidentschaft",
     "tags.国际关系": "Internationale Beziehungen",
@@ -40,6 +40,31 @@
     "timeline.event-09.title": "Universitätsabschluss und Eintritt in den Geheimdienst",
     "timeline.event-09.text": "Nach dem Jurastudium an der Staatlichen Universität Leningrad trat er dem KGB bei und arbeitete zeitweise in der DDR.",
     "timeline.event-10.title": "Geburt in Leningrad",
-    "timeline.event-10.text": "Er wurde im sowjetischen Leningrad geboren, dem heutigen Sankt Petersburg in Russland."
+    "timeline.event-10.text": "Er wurde im sowjetischen Leningrad geboren, dem heutigen Sankt Petersburg in Russland.",
+    "timeline.event-13.title": "Führt weitere Ukraine-Gespräche mit US-Gesandten",
+    "timeline.event-13.text": "Empfing Steve Witkoff und Jared Kushner im Kreml bei fortgesetzten Verhandlungen; aus dem Treffen ließ sich kein Ende des Krieges ableiten.",
+    "timeline.event-12.title": "Trifft Trump in Alaska",
+    "timeline.event-12.text": "Erörterte in Anchorage den Krieg in der Ukraine; das Treffen brachte weder einen Waffenstillstand noch eine Vereinbarung zur Beendigung des Krieges.",
+    "timeline.event-11.title": "Beginnt fünfte Amtszeit als Präsident",
+    "timeline.event-11.text": "Trat nach der Wahl im März eine weitere sechsjährige Amtszeit an, vor dem Hintergrund der Unterdrückung der Opposition und des Krieges in der Ukraine."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "309931c51b20f52255666b19a202628715e5f1fb9e621c6567f6e6dbbe6d5837",
+    "fields": [
+      "role",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-11.title",
+      "timeline.event-11.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

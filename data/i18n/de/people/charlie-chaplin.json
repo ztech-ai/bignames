@@ -1,5 +1,5 @@
 {
-  "sourceHash": "61544d2557ed9d365d5a5ca7023a77dd86a26690d001145aada18092c3ff29e4",
+  "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
   "strings": {
     "name": "Charlie Chaplin",
     "role": "Schauspieler und Regisseur · Prägende Figur der Stummfilmkomödie",
@@ -42,6 +42,25 @@
     "timeline.event-10.title": "Tournee in die USA",
     "timeline.event-10.text": "Mit Fred Karnos Ensemble brachte er seine Erfahrungen in der Bühnenkomödie nach Amerika.",
     "timeline.event-11.title": "Geburt in London",
-    "timeline.event-11.text": "Beide Eltern waren Bühnenkünstler. Er wuchs in Armut auf und gelangte später über Kinderensembles auf die Bühne."
+    "timeline.event-11.text": "Beide Eltern waren Bühnenkünstler. Er wuchs in Armut auf und gelangte später über Kinderensembles auf die Bühne.",
+    "timeline.event-12.title": "Wird zum Ritter geschlagen",
+    "timeline.event-12.text": "Königin Elisabeth II. schlägt ihn zum Ritter.",
+    "timeline.event-13.title": "Veröffentlicht Goldrausch",
+    "timeline.event-13.text": "Der von ihm inszenierte Stummfilm Goldrausch mit ihm in der Hauptrolle kommt ins Kino und wird zu einem seiner bedeutendsten abendfüllenden Komödienfilme."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "2f39eb17b3fc771fd5f2d2d1e17a75c55e49fd395ad8d818aaf908c100dc2a1a",
+    "fields": [
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

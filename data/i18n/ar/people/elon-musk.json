@@ -1,11 +1,11 @@
 {
-  "sourceHash": "189f38eecf13040fdf50fa564642201ab7eddc9c6453ad8d503b43d737b7844b",
+  "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
   "strings": {
     "name": "إيلون ماسك",
     "role": "رائد أعمال · الفضاء التجاري والسيارات الكهربائية",
     "country": "جنوب أفريقيا / كندا / الولايات المتحدة",
     "summary": "شارك ماسك في تأسيس وتنمية شركات تقنية تمتد من المدفوعات عبر الإنترنت إلى السيارات الكهربائية والفضاء التجاري. أسس سبيس إكس، واستثمر في تسلا وقادها، ودفع نحو التسويق التجاري للصواريخ القابلة لإعادة الاستخدام والسيارات الكهربائية. وبعد شراء تويتر دخل مجال إدارة منصات التواصل. أثارت أساليبه الإدارية وتصريحاته العامة جدلًا مستمرًا، كما تعرض لعقوبات تنظيمية تتعلق بالإفصاح في أسواق الأوراق المالية.",
-    "coverageNote": "تختار هذه النسخة محطات رئيسية من حياته وأعماله بين 1971 و2023؛ ولا يعني تاريخ التحقق تغطية جميع أنشطته اللاحقة.",
+    "coverageNote": "محطات مختارة من 1971 إلى 2026، مع إضافة اختبارات ستارشيب وفترته في البيت الأبيض واندماجات xAI وطرح SpaceX العام؛ جرى التحقق حتى 13 نوفمبر 2026. نجاح الاختبارات لا يعني اكتمال خطط الرحلات المأهولة إلى القمر أو المريخ. لا تغطي الصفحة جميع أنشطة الشركات.",
     "tags.电动汽车": "السيارات الكهربائية",
     "tags.商业航天": "الفضاء التجاري",
     "tags.互联网": "الإنترنت",
@@ -15,7 +15,7 @@
     "facts.fact-02.label": "التعليم",
     "facts.fact-02.value": "جامعة بنسلفانيا: بكالوريوس في الاقتصاد والفيزياء",
     "facts.fact-03.label": "مؤسسات مرتبطة",
-    "facts.fact-03.value": "SpaceX، Tesla، X، Neuralink",
+    "facts.fact-03.value": "SpaceX، Tesla، X، xAI، Neuralink",
     "highlights.highlight-01.title": "الفضاء التجاري",
     "highlights.highlight-01.text": "أسس سبيس إكس؛ ونقلت مركبتها كرو دراغون رواد ناسا إلى محطة الفضاء الدولية للمرة الأولى عام 2020.",
     "highlights.highlight-02.title": "تسويق السيارات الكهربائية",
@@ -41,6 +41,39 @@
     "timeline.event-09.title": "المشاركة في تأسيس Zip2",
     "timeline.event-09.text": "طوّر مع شركائه دليل مدن على الإنترنت، مستهلًا مسيرته في ريادة الأعمال الرقمية.",
     "timeline.event-10.title": "الميلاد في بريتوريا",
-    "timeline.event-10.text": "وُلد في جنوب أفريقيا، ثم درس في كندا والولايات المتحدة، ودرس الاقتصاد والفيزياء بجامعة بنسلفانيا."
+    "timeline.event-10.text": "وُلد في جنوب أفريقيا، ثم درس في كندا والولايات المتحدة، ودرس الاقتصاد والفيزياء بجامعة بنسلفانيا.",
+    "timeline.event-2026-ipo.title": "SpaceX تكمل طرحها العام الأولي",
+    "timeline.event-2026-ipo.text": "بدأ تداول الأسهم في 12 يونيو وأُغلق الطرح العام الأولي في 15 يونيو. لا تعتمد هذه الصفحة تصنيفات الثروة المتغيرة مع السوق.",
+    "timeline.event-2026-xai.title": "SpaceX تستحوذ على xAI",
+    "timeline.event-2026-xai.text": "أكملت SpaceX الاستحواذ على xAI، فجمعت أعمال الذكاء الاصطناعي والفضاء والاتصالات عبر الأقمار الصناعية ضمن مجموعة واحدة.",
+    "timeline.event-2025-government.title": "انتهاء فترته موظفًا حكوميًا خاصًا في البيت الأبيض",
+    "timeline.event-2025-government.text": "دفع بصفته مستشارًا أول للرئيس نحو خفض الإنفاق عبر DOGE. غادر في مايو، وأثارت عمليات التسريح وإعادة هيكلة الوكالات جدلًا.",
+    "timeline.event-2025-x-merger.title": "xAI تستحوذ على X",
+    "timeline.event-2025-x-merger.text": "ضمت صفقة تمت بالكامل بالأسهم منصة التواصل X إلى xAI، قبل استحواذ SpaceX على xAI في 2026.",
+    "timeline.event-2024-booster.title": "أول التقاط لسوبر هيفي بواسطة برج الإطلاق",
+    "timeline.event-2024-booster.text": "في خامس اختبار لستارشيب، التقطت SpaceX للمرة الأولى معزز المرحلة الأولى العائد بأذرع ميكانيكية. لم تكن هذه رحلة مأهولة إلى القمر أو المريخ."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "0869a1508b08dfcde2091f7a8866d6231032a061015efe3f74e5363fdb939cfb",
+    "fields": [
+      "coverageNote",
+      "facts.fact-03.value",
+      "timeline.event-2026-ipo.title",
+      "timeline.event-2026-ipo.text",
+      "timeline.event-2026-xai.title",
+      "timeline.event-2026-xai.text",
+      "timeline.event-2025-government.title",
+      "timeline.event-2025-government.text",
+      "timeline.event-2025-x-merger.title",
+      "timeline.event-2025-x-merger.text",
+      "timeline.event-2024-booster.title",
+      "timeline.event-2024-booster.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

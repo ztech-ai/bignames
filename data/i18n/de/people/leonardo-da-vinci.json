@@ -1,11 +1,11 @@
 {
-  "sourceHash": "45e5751309256f430ece2db1a04a89dcb6b87075a9c4ff3413ee4b4e0c3d141a",
+  "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
   "strings": {
     "name": "Leonardo da Vinci",
     "role": "Maler · Vielseitiger Forscher der Renaissance",
     "country": "Italienische Staaten / Frankreich",
     "summary": "Leonardo wirkte in Florenz, Mailand und am französischen Hof. Mit Werken wie „Das letzte Abendmahl“ und der „Mona Lisa“ prägte er die europäische Malerei. Er nutzte Beobachtung, Zeichnung und experimentelles Denken zur Erforschung von Körper, Natur und Maschinen und hinterließ zahlreiche Manuskripte. Viele technische Entwürfe blieben auf dem Papier, manche Kunstwerke unvollendet. Seine Bedeutung liegt sowohl in den erhaltenen Gemälden als auch in seiner fachübergreifenden Arbeitsweise.",
-    "coverageNote": "Für Werke bestehen unterschiedliche wissenschaftliche Datierungen. Für den Beginn der „Mona Lisa“ wird die Angabe des Louvre, etwa 1503, verwendet. Das historische Porträt ist ein Kunstwerk, keine Fotografie.",
+    "coverageNote": "Wichtige Lebensstationen, Kunstwerke und anatomische Forschungen von 1452 bis 1519. Die Datierung von Werken ist umstritten; für die Mona Lisa wird der vom Louvre angegebene Beginn um 1503 übernommen. Frühe Porträts sind Kunstwerke. Stand der Prüfung: 2026-11-13; posthume Gedenkveranstaltungen gelten nicht als persönliche Aktivitäten.",
     "tags.文艺复兴": "Renaissance",
     "tags.绘画": "Malerei",
     "tags.解剖学": "Anatomie",
@@ -40,6 +40,24 @@
     "timeline.event-09.title": "Aufnahme in die Malergilde",
     "timeline.event-09.text": "Nach seiner Ausbildung in Verrocchios Werkstatt wurde er Mitglied der Florentiner Lukasgilde.",
     "timeline.event-10.title": "Geburt bei Vinci",
-    "timeline.event-10.text": "Er wurde in der Toskana geboren, verbrachte seine frühen Jahre in der Heimatregion und ging später zum Kunststudium nach Florenz."
+    "timeline.event-10.text": "Er wurde in der Toskana geboren, verbrachte seine frühen Jahre in der Heimatregion und ging später zum Kunststudium nach Florenz.",
+    "timeline.event-11.title": "Zeichnet systematisch die menschliche Anatomie",
+    "timeline.event-11.text": "Untersuchte durch Sektionen Knochen und Muskeln und hielt den Körperbau in Zeichnungen aus mehreren Blickwinkeln fest; die geplante Abhandlung erschien zu seinen Lebzeiten nicht.",
+    "timeline.event-11.dateLabel": "Etwa im Winter 1510–1511"
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "56a0e303fe521c06072a66bd1ed75ef4cb3afb843849f2c0683545b392493c71",
+    "fields": [
+      "coverageNote",
+      "timeline.event-11.title",
+      "timeline.event-11.text",
+      "timeline.event-11.dateLabel"
+    ],
+    "sharedFactsReviewed": true
   }
 }

@@ -1,11 +1,11 @@
 {
-  "sourceHash": "0ecf0fb171cb572346e06a5bf322844ccb62a5a5fd3507bf4cb2125d7110576a",
+  "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
   "strings": {
     "name": "Serena Williams",
     "role": "Tennis player · Winner of 23 Grand Slam singles titles",
     "country": "United States",
-    "summary": "Serena Williams has shaped women’s tennis with her powerful serve, aggressive baseline play and sustained competitiveness. From public courts in Compton, she reached the world stage, winning 23 Grand Slam singles titles and major doubles honors with her sister Venus. Her career includes returns from injury, Grand Slam finals after childbirth, and a return to professional doubles in 2026 after stepping away in 2022.",
-    "coverageNote": "Selected career milestones through September 2026. Her 2022 departure and 2026 doubles return follow reports from tournament organizations; live rankings are not provided.",
+    "summary": "Serena Williams has shaped women’s tennis with her powerful serve, aggressive baseline play and sustained competitiveness. From public courts in Compton, she reached the world stage, winning 23 Grand Slam singles titles and major doubles honors with her sister Venus. Her career includes returns from injury, Grand Slam finals after childbirth, and a return to doubles and singles in 2026 after stepping away in 2022.",
+    "coverageNote": "Selected career milestones through September 4, 2026. Her 2026 return and results were cross-checked against tournament organizations and independent reporting; title counts are distinct from rankings, and live rankings or a complete schedule are not provided.",
     "tags.网球": "Tennis",
     "tags.大满贯": "Grand Slams",
     "tags.奥运会": "Olympic Games",
@@ -23,7 +23,7 @@
     "timeline.event-01.title": "Returns to US Open doubles with her sister",
     "timeline.event-01.text": "Teamed up again with Venus in women’s doubles at the US Open, losing in three sets in the opening round.",
     "timeline.event-02.title": "Returns to professional doubles",
-    "timeline.event-02.text": "Partnered with Victoria Mboko at Queen’s Club in London and won their first-round match.",
+    "timeline.event-02.text": "Won the opening round with Victoria Mboko at Queen’s Club in London; they then withdrew after Mboko was injured and did not win the tournament.",
     "timeline.event-03.title": "Steps away from the professional tour",
     "timeline.event-03.text": "Left the tour after a third-round US Open defeat; this period did not prove to be a permanent endpoint.",
     "timeline.event-04.title": "Wins her 23rd Grand Slam singles title",
@@ -41,6 +41,28 @@
     "timeline.event-10.title": "Enters her first professional qualifying event",
     "timeline.event-10.text": "Entered qualifying for a professional tournament in Quebec City at 14, gradually moving into the tour system.",
     "timeline.event-11.title": "Born in Saginaw",
-    "timeline.event-11.text": "Moved with her family to California after her birth and began practicing tennis with her sister as a young child."
+    "timeline.event-11.text": "Moved with her family to California after her birth and began practicing tennis with her sister as a young child.",
+    "timeline.event-13.title": "Plays US Open mixed doubles with Alcaraz",
+    "timeline.event-13.text": "Won the opening round with Carlos Alcaraz before losing to Belinda Bencic and Flavio Cobolli in the quarterfinals.",
+    "timeline.event-12.title": "Returns to singles at Wimbledon",
+    "timeline.event-12.text": "Entered Wimbledon on a wild card and lost in three sets to Maya Joint in the first round, her first singles match since the 2022 US Open."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "8997484f7372fcca8c22a6bb00bde7721f36b7782ba0eff6cb02467e567721bc",
+    "fields": [
+      "summary",
+      "coverageNote",
+      "timeline.event-13.title",
+      "timeline.event-13.text",
+      "timeline.event-12.title",
+      "timeline.event-12.text",
+      "timeline.event-02.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }

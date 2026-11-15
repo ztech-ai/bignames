@@ -1,11 +1,11 @@
 {
-  "sourceHash": "71587d3440fedb34c4d78ae2eb31491193e13766c8eabdd119cf2f9f4024beb9",
+  "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
   "strings": {
     "name": "Donald Trump",
     "role": "45e et 47e président des États-Unis · Homme d'affaires",
     "country": "États-Unis",
     "summary": "Issu de l'immobilier familial new-yorkais, Donald Trump développe une marque commerciale et une carrière télévisuelle, puis remporte l'élection présidentielle comme candidat républicain. Il entame deux mandats non consécutifs en 2017 et 2025. Son influence politique s'accompagne de jugements publics très polarisés. Ses deux mises en accusation par la Chambre des représentants, les controverses sur l'élection de 2020 et son procès pénal sont essentiels à la compréhension de son parcours.",
-    "coverageNote": "Sélection des principaux événements jusqu'en janvier 2025. Les éléments judiciaires décrivent les décisions à cette date, sans suivi en temps réel des recours ou des procédures.",
+    "coverageNote": "Jalons choisis jusqu’en février 2026 ; statut de personne en vie et de président vérifié le 13 novembre 2026. Les entrées douanières et judiciaires relatent les décisions indiquées sans couvrir toutes les politiques, procédures d’appel ou affaires ultérieures.",
     "tags.美国政治": "Politique américaine",
     "tags.总统": "Présidence",
     "tags.房地产": "Immobilier",
@@ -41,6 +41,29 @@
     "timeline.event-09.title": "Fin des études universitaires",
     "timeline.event-09.text": "Diplômé en économie de l'université de Pennsylvanie, il rejoint à plein temps l'entreprise immobilière de son père.",
     "timeline.event-10.title": "Naissance à New York",
-    "timeline.event-10.text": "Il grandit dans une famille de promoteurs immobiliers du Queens et fréquente dans sa jeunesse la New York Military Academy."
+    "timeline.event-10.text": "Il grandit dans une famille de promoteurs immobiliers du Queens et fréquente dans sa jeunesse la New York Military Academy.",
+    "timeline.event-12.title": "La Cour suprême rejette le fondement des droits d’urgence",
+    "timeline.event-12.text": "La Cour suprême juge, par six voix contre trois, que l’International Emergency Economic Powers Act n’autorise pas le président à imposer des droits de douane, rejetant ce fondement sans supprimer tous les pouvoirs tarifaires prévus par la loi.",
+    "timeline.event-11.title": "Annonce de vastes « droits de douane réciproques »",
+    "timeline.event-11.text": "Invoque l’International Emergency Economic Powers Act pour annoncer des droits supplémentaires sur les importations de nombreux pays, au cœur de la politique commerciale et des contentieux de son second mandat.",
+    "timeline.event-14.title": "Signe une grande loi fiscale et budgétaire",
+    "timeline.event-14.text": "Signe la loi fiscale et budgétaire dite « One Big Beautiful Bill », prolongeant des baisses d’impôts et réduisant les dépenses de programmes dont Medicaid, sur fond de controverses sur les finances publiques et la protection sociale.",
+    "timeline.event-13.title": "Blessé lors d’une tentative d’assassinat en meeting",
+    "timeline.event-13.text": "Est blessé par balle à l’oreille lors d’un meeting à Butler, en Pennsylvanie. Un spectateur est tué et le FBI enquête sur une tentative d’assassinat."
+  },
+  "deltaReview": {
+    "basis": "explicit-delta-review",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex（AI助手）"
+    },
+    "sourceHash": "171c58f17f222a36bc3b79a166716162c480f07eaf43dbb6b6e0b8e685ca7c13",
+    "fields": [
+      "timeline.event-14.title",
+      "timeline.event-14.text",
+      "timeline.event-13.title",
+      "timeline.event-13.text"
+    ],
+    "sharedFactsReviewed": true
   }
 }
