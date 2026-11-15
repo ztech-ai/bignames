@@ -1,0 +1,117 @@
+{
+  "id": "evo-morales",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "EFE’s August 9, 2026 report describes him in his Cochabamba stronghold and distinguishes outstanding warrants from arrest or conviction.",
+  "lifeStatusEvidenceURL": "https://efe.com/mundo/2026-08-09/ordenes-captura-evo-morales-por-que-sigue-libre/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "EFE’s August 9, 2026 report describes him in his Cochabamba stronghold and distinguishes outstanding warrants from arrest or conviction.",
+    "url": "https://efe.com/mundo/2026-08-09/ordenes-captura-evo-morales-por-que-sigue-libre/"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Evo_Morales",
+    "https://www.britannica.com/biography/Evo-Morales",
+    "https://efe.com/english/latest-news/2026-07-29/bolivian-prosecutors-office-orders-evo-morales-arrest/",
+    "https://efe.com/english/latest-news/2026-05-11/trial-against-former-bolivian-president-evo-morales-suspended-arrest-ordered/",
+    "https://efe.com/mundo/2026-08-09/ordenes-captura-evo-morales-por-que-sigue-libre/",
+    "https://www.pbs.org/newshour/world/former-president-evo-morales-returns-to-bolivia-ending-year-in-exile"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "The biographical designation “first indigenous president” is commonly used and is presented as widely regarded rather than an uncontested genealogical first. Charges and warrants are not convictions; Morales disputes the cases. November14 reports are beyond cutoff and excluded. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Evo_Morales",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 135238
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.britannica.com/biography/Evo-Morales",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 17914
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://efe.com/english/latest-news/2026-07-29/bolivian-prosecutors-office-orders-evo-morales-arrest/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4767
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://efe.com/english/latest-news/2026-05-11/trial-against-former-bolivian-president-evo-morales-suspended-arrest-ordered/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4934
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://efe.com/mundo/2026-08-09/ordenes-captura-evo-morales-por-que-sigue-libre/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 9264
+      },
+      {
+        "sourceId": "s6",
+        "url": "https://www.pbs.org/newshour/world/former-president-evo-morales-returns-to-bolivia-ending-year-in-exile",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 6108
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Evo_Morales_Ayma_(cropped).jpg",
+    "sha256": "6d9c8f314c646220aacb4caaff21de45ea424a366a844a1f00d7debe9714c2c6",
+    "author": "EneasMx",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "President of Bolivia since 2006 to 2019",
+    "assetPath": "public/assets/portraits/evo-morales.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "ee5cfdd25c2ea57774628a0e0134d873256c0613e86bf30e5ceeb6aafb764bb1",
+    "englishTextSha256": "5fa18796075118e42daf4a3acac3b5a6a8075d2bd1a15af12e91b7bfe5fea265",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "f1a5ddcbccd1a292c107c5bc4b00b2c28b7f1ca68d7c4163ad26085ad547a819",
+      "fr": "c14c2458953a4b3f63e2b15d2c8c7052d3de4ddb16f59d0b49d230468093a34d",
+      "ar": "b2540d4542dbf86175f2bc7e9facb5897198e75e06fbcd2ece12013ff2ca7ead",
+      "de": "35fbff70612653e898f83b5bef9b07a4932e70704b8b0b8fe5b889e641d8d43a",
+      "ja": "c4d751d7a0dcd3989fbe411864ce8779d617cbc0092844c0939fbf92c98739c4",
+      "es": "fc6ea95065fee1e9cf76d475d15855ed184277f3ba902c68071bda2bb86cf986",
+      "ko": "6e18d931388b0bef0c362489a89ab81c7961eff02b4ca4f4925e6db6873adfb4"
+    }
+  }
+}

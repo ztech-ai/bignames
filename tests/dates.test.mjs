@@ -28,3 +28,10 @@ test('untrusted editorial text is escaped and unsafe source protocols are reject
   assert.equal(safeUrl('https://example.com/a'),'https://example.com/a');
   assert.equal(escapeHtml('<img src="x" onerror=\'bad()\'> &'), '&lt;img src=&quot;x&quot; onerror=&#39;bad()&#39;&gt; &amp;');
 });
+test('explicitly unknown birth stays unknown independently of life status',()=>{
+  const person={birth:null,birthUnknown:true,death:null};
+  assert.deepEqual(birthYearValues(person),[]);
+  assert.equal(lifeLabel(person),'未详 — 今');
+  assert.equal(lifeLabel({...person,death:'2020'}),'未详 — 2020');
+  for(const invalid of [{birth:null},{birth:null,birthUnknown:false},{birth:'1963',birthUnknown:true},{birth:null,birthUnknown:true,birthYears:[1963,1964]}])assert.throws(()=>birthYearValues(invalid),/birth must/);
+});

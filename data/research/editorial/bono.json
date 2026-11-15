@@ -1,0 +1,109 @@
+{
+  "id": "bono",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "U2’s current official history records the February18,2026 Days of Ash release and his continued role as vocalist, alongside the2025 film and stage project.",
+  "lifeStatusEvidenceURL": "https://www.u2.com/pages/band",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "U2’s current official history records the February18,2026 Days of Ash release and his continued role as vocalist, alongside the2025 film and stage project.",
+    "url": "https://www.u2.com/pages/band"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Bono",
+    "https://www.u2.com/pages/band",
+    "https://www.u2.com/blogs/news/bono-stories-of-surrender-from-may-30-on-apple-tv",
+    "https://www.penguinrandomhouse.com/authors/2009752/bono/",
+    "https://www.abc.net.au/news/2025-06-02/bono-stories-of-surrender/105347462"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Bono",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 122831
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.u2.com/pages/band",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 36731
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.u2.com/blogs/news/bono-stories-of-surrender-from-may-30-on-apple-tv",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 19254
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.penguinrandomhouse.com/authors/2009752/bono/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 9344
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://www.abc.net.au/news/2025-06-02/bono-stories-of-surrender/105347462",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 11190
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bono_singing_in_Indianapolis_on_Joshua_Tree_Tour_2017_9-10-17.jpg",
+    "sha256": "a2a32effe09883238ae8860c3fb634e08346b1e61ad385b36b21ad868eed09fa",
+    "author": "Daniel Hazard",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Bono singing during U2's performance at Lucas Oil Stadium in Indianapolis, Indiana on September 10, 2017",
+    "assetPath": "public/assets/portraits/bono.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "a47de25adc386276a0aa18f5dabeb2fc3c6e27ef2e1e571710ec7d610d1b2da5",
+    "englishTextSha256": "ea5ef21eea0df201753787eaea885aab7261569fed064faa16a832aa843beb03",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "551f1dd9d3512226020d62ba93b56ac38c0f848d29393d101c4defd348926099",
+      "fr": "8b8f40f3e075fef7606468d5a9533ecaa91db0f8e963cd3cd4aa0ff529a0673e",
+      "ar": "665ab57895cce4c4899bec9d8ea77e3522fcc0e7a8beb2141da418989d62d635",
+      "de": "4f0ac2fbde4c25c9e94af6646fd638498990fe9b190c4b4f3dcf7081c78acdd3",
+      "ja": "3f960b029dd7aef7caec2dd4a15bc45a8aff766be59d29b00162b93b730c66f6",
+      "es": "5dd6e55100c0d2091e1e1ebb3b47c5a7983e9b47841eaa6ea3c0ecdaa7276680",
+      "ko": "2b3413de6649c8978c0c9d9387a178da268a1e3be60ad543d6c07b85b32ded59"
+    }
+  }
+}

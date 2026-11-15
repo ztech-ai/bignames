@@ -1,0 +1,101 @@
+{
+  "id": "nicolas-maduro",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Reuters describes his October15,2026 courtroom appearance and not-guilty plea. Custody, charges, future trial scheduling and conviction are distinguished.",
+  "lifeStatusEvidenceURL": "https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Reuters describes his October15,2026 courtroom appearance and not-guilty plea. Custody, charges, future trial scheduling and conviction are distinguished.",
+    "url": "https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+    "https://commonslibrary.parliament.uk/research-briefings/CBP-12211/",
+    "https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026",
+    "https://www.justice.gov/opa/pr/nicolas-maduro-moros-and-cilia-adela-flores-de-maduro-charged-torture"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "The DOJ indictment states prosecution allegations, not proven criminal guilt. Reuters October15 supersedes July’s June1,2027 trial schedule with June14. UK parliamentary briefing independently describes the seizure and transfer of power. No later hearing is represented as completed. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 208360
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/CBP-12211/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 29720
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 15717
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.justice.gov/opa/pr/nicolas-maduro-moros-and-cilia-adela-flores-de-maduro-charged-torture",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 15233
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Maduro_in_2023_(cropped).jpg",
+    "sha256": "91af1c3684df428450b8a28e74b3540df84440de7dde390acfbf96c90b959872",
+    "author": "Ricardo Stuckert",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Venezuelan president Nicolás Maduro during a meeting on May 29, 2023.",
+    "assetPath": "public/assets/portraits/nicolas-maduro.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "68a85d684320a8591531a49bfb5c01d9b5059edd4461f515ebc4504c2fbe2f67",
+    "englishTextSha256": "6b74eb194df2f5674630af91ee87d91bc79b9d924d7fe7d1210aee4dc53562ed",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "684b1f1bf77e5acca9faa855fc29eaf19bf8c7d50a280a7e88e548b054d3cc1c",
+      "fr": "35a935034a0a1da37f473d523b5838fc9e7b57a832e49413f218100ebb7aa2f0",
+      "ar": "7338433a24c61fa5d8679ed2e156a78299459599c69779f2d69369b1324718d5",
+      "de": "69cd1f34bb35aa2681fe9830e75ec67d3cff4bf45768c189a4ee9356fd5db040",
+      "ja": "c03f623406849c27dfe2075ab529245d8d89101b1527b84c5bbefad895337c2a",
+      "es": "33f264c6b9604b28c66c2bed5ec5cedc56d57a063ba5bd64e121a33330db01c8",
+      "ko": "1b7f84597a065dee1286d9b3c466ab75c6bc28c15f84f251da0801cf9ae188fa"
+    }
+  }
+}

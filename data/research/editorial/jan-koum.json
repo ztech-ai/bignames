@@ -1,0 +1,81 @@
+{
+  "id": "jan-koum",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "A hospital announcement dated 8 May 2026 quotes Koum welcoming the family foundation donation agreement.",
+  "lifeStatusEvidenceURL": "https://acsz.org/historic-gift-from-the-koum-family-foundation/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Jan_Koum",
+      "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
+      "https://www.theguardian.com/technology/2018/apr/30/jan-koum-whatsapp-co-founder-quits-facebook",
+      "https://acsz.org/historic-gift-from-the-koum-family-foundation/"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Donated funds for a planned tower are not represented as completed construction. Departure described as announced; shareholder vesting/employment details differ from public CEO/board exit. The brief selects professional milestones and is not exhaustive personal history.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": []
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named jan-koum panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jan_Koum_-_Whatsapp_-_4_Years_from_Now_(12791847664).jpg",
+    "sha256": "56f924ed4c8082cf0786d1ec925caee426807e18e42dd6d5522403db9cda9b27",
+    "author": "Tech.eu Photostream",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Barcelona, Spain, February 25, 2014. 4 Years from Now. Image by Dan Taylor for tech.eu. <a href=\"http://www.tech.eu\" rel=\"noreferrer nofollow\">www.tech.eu</a>",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/jan-koum.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "14e39ad2714bfcb9508767c3a107036955b07f184d475ec3bf2ebb3a5d6fedbd",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "14e39ad2714bfcb9508767c3a107036955b07f184d475ec3bf2ebb3a5d6fedbd"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "120446c6bc683a571ba1dc7dd2bf2c0c898f1f71d17a7941e6297e336d484f7a"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "412c3cd8475cdd610011ceca19ba1934ed53af132151f6c60457c3c5fa38c3a0"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "9d0f965524eb86cc117f431a3bb01c22d0eca915765476551eefbfc712b7a7c1"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "10d79987ad5c0add6d89b2527d9ae6b82fc1a32edb5923ac088d5b20628e1411"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "e56e183775952bd352d0d4c4f15fd75b349e238d0175b791867ceee814c6909a"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "61c18d21cc8121c3ed6c12a4f457a8aade03cf2493c3728ca9523ea7bdf5169b"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Donated funds for a planned tower are not represented as completed construction. Departure described as announced; shareholder vesting/employment details differ from public CEO/board exit. The brief selects professional milestones and is not exhaustive personal history.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "Read back Chinese/English and all six targets. Removed process commentary from Goodfellow’s birth field where applicable; reviewed specified numeric-spacing changes as typography only, then re-saved targets against the final source versions.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

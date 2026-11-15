@@ -1,0 +1,101 @@
+{
+  "id": "inger-andersen",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "UNEP identifies her current office; UNU’s dated May 21, 2026 conversation listing identifies her in the same role. Her confirmed term runs through June 14, 2027.",
+  "lifeStatusEvidenceURL": "https://unu.edu/conversation-series/addressing-triple-planetary-crisis",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "UNEP identifies her current office; UNU’s dated May 21, 2026 conversation listing identifies her in the same role. Her confirmed term runs through June 14, 2027.",
+    "url": "https://unu.edu/conversation-series/addressing-triple-planetary-crisis"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Inger_Andersen_(environmentalist)",
+    "https://www.unep.org/en/people/inger-andersen",
+    "https://www.un.org/sg/en/content/sg/personnel-appointments/2023-01-18/ms-inger-andersen-of-denmark-executive-director-of-the-united-nations-environment-programme",
+    "https://unu.edu/conversation-series/addressing-triple-planetary-crisis"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. UN appointment page returned202 with an empty body; current UNEP and dated UNU sources supply role evidence. The generic Wikipedia name page was found to be disambiguation and replaced with the environmentalist entity.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Inger_Andersen_(environmentalist)",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 16164
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.unep.org/en/people/inger-andersen",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4744
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.un.org/sg/en/content/sg/personnel-appointments/2023-01-18/ms-inger-andersen-of-denmark-executive-director-of-the-united-nations-environment-programme",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP202",
+        "extractedCharacters": 0
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://unu.edu/conversation-series/addressing-triple-planetary-crisis",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 5022
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Inger_Andersen_-_2022_(52546882286)_(cropped).jpg",
+    "sha256": "e45742f0b6274edb8f19e3aabb6bd971d40c176aab08f7b9c4b5baba9bd1bf92",
+    "author": "UN Biodiversity",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Inger Andersen at the 2022 United Nations Biodiversity Conference",
+    "assetPath": "public/assets/portraits/inger-andersen.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "33e62993b763407810943256cb8a1e7a435530033189deddf9c2045d3f26a522",
+    "englishTextSha256": "9722e136710a1989b558e294f2f59cc7a59b5c960008f3b8e337507edc65fd68",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "bb30011c7d11f0301c336eb6219c638a87555b855c06defb2a5a1d491e46349c",
+      "fr": "6a026d1dc860727e2d74a9cc0eb7610ee34d44b96feaa793a8254c5ba83afe1f",
+      "ar": "fc9b2673af7a55d00864797b5566bab77834023f9376d4cca3c254cbbf0d885b",
+      "de": "5eab247abaa3c67a82341ee2ced9ca69dc3cffde8f58d45012a8c7dea89a34fe",
+      "ja": "6dd92ba29cde86e1d440230599bcd34f58fdc4c34e749ae9c7c578a66a1660d4",
+      "es": "3fa77981db8c711b009f7f583e50826a0d515b12fbefb628ed43fd8af93643c0",
+      "ko": "6146eb930bc11badc7e0a11a3a80bac89588b2736093f108af49c34e8d649f6e"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "mahmoud-abbas",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "An October10,2026 presidential decree and independent reporting identify him as the active Palestinian leader issuing the revised election timetable.",
+  "lifeStatusEvidenceURL": "https://www.president.ps/Eng/NewsPage/493202",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "An October10,2026 presidential decree and independent reporting identify him as the active Palestinian leader issuing the revised election timetable.",
+    "url": "https://www.president.ps/Eng/NewsPage/493202"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+    "https://www.president.ps/Eng/OfficialResume",
+    "https://www.president.ps/Eng/NewsPage/493202",
+    "https://www.thenationalnews.com/news/mena/2026/10/10/palestinian-president-mahmoud-abbas-postpones-elections-to-september-2027/"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Official biography contains inaccurate or outdated details on office dates and education; it is not copied wholesale. Basic schooling is described conservatively. The2027 election is a scheduled future event, not a completed vote. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 76931
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.president.ps/Eng/OfficialResume",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4351
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.president.ps/Eng/NewsPage/493202",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4230
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.thenationalnews.com/news/mena/2026/10/10/palestinian-president-mahmoud-abbas-postpones-elections-to-september-2027/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 6631
+      }
+    ],
+    "typographyReview": "Source-title spaces around dates and numerals reviewed separately; no event, attribution or translation meaning changed."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Mahmoud_Abbas_May_2018.jpg",
+    "sha256": "26b7b83de40667e0b6449458f3a53b3fa109f6359dff406afd64ed272f919f9b",
+    "author": "Gobierno de Chile",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/cl/deed.en",
+    "caption": "Mahmoud Abbas in May 2018",
+    "assetPath": "public/assets/portraits/mahmoud-abbas.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "43b04e0e32eafbb84c7bac273df1ec03b66f247e0298f9021978a12b83770bf2",
+    "englishTextSha256": "aed27f232bd3e4ec7118040d3f180cdc803ff05b31bde72bd8a4bf0aa3b6fc07",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "aa89356a0fd0c29441a7ab614bb6c925180047232a6c643b0f9dd950dfa45dd7",
+      "fr": "4591eace35195a89b1bf6a94222a069758442607b8b9536e28267a72a272a403",
+      "ar": "96c200afff100151570d83bdaf6e41ba2d7870201c0b88d6203e26e805484a59",
+      "de": "81f8d15a000f5656df2cdf61ba8f40d644f460a3415bcfc097e6490472e1c9d3",
+      "ja": "97546aa96a78fb7760e157a83d9315e43242c246f1e2aabb21ffce2dd2430392",
+      "es": "4419003572882ea1ece386dda74400500bf99c66b644fcf5d2782fd5241c3431",
+      "ko": "bf29f422e2b2c0c458242f96f42c20c8bcb465a4c68d6c721b7938852078a162"
+    }
+  }
+}

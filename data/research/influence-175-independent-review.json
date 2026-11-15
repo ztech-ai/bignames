@@ -1,0 +1,2761 @@
+{
+  "status": "completed-with-scoped-corrections",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex integrator and separate bounded AI reader"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "scope": {
+    "languagePeople": 13,
+    "allDisplayedFieldsInSpecifiedLocalesPeople": 9,
+    "partialFieldReviewPeople": 4,
+    "filesActuallyRead": 36,
+    "displayedFieldValuesRead": 889,
+    "locales": [
+      "zh",
+      "en",
+      "fr"
+    ],
+    "allEightLanguagesIndependentlyReviewed": false,
+    "all175PeopleIndependentlyReviewed": false,
+    "humanReview": false,
+    "nativeLanguageCertification": false
+  },
+  "integratorReview": {
+    "method": "Actually read all displayed strings for six people in the specified two/three locales, and explicitly selected summary/fact/title fields for four others. After original-author corrections, emitted changed values were actually read again. Hashes identify those final files; the program does not perform semantic review.",
+    "files": [
+      {
+        "id": "anthony-tan",
+        "locale": "zh",
+        "file": "data/people/anthony-tan.json",
+        "initialSha256": "8c30663dcaa09bbddf5b01988914d51407fdcee3d300e9e0ec085d9c3bdcde6e",
+        "sha256": "8c30663dcaa09bbddf5b01988914d51407fdcee3d300e9e0ec085d9c3bdcde6e",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.出行平台",
+          "tags.数字金融",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "anthony-tan",
+        "locale": "en",
+        "file": "data/i18n/en/people/anthony-tan.json",
+        "initialSha256": "32ba2f9ac3e25afa78763cc8f0503d6925c323a121278c2e5508911b45479032",
+        "sha256": "32ba2f9ac3e25afa78763cc8f0503d6925c323a121278c2e5508911b45479032",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.出行平台",
+          "tags.数字金融",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "anthony-tan",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/anthony-tan.json",
+        "initialSha256": "87a4f99bb08dcd9ce3af45ade1c091c0905c01b4e382c878d0e7e2012f36a766",
+        "sha256": "7e3300e731a6257aee78ce2c6c389e809830a9f45479cf2f505748c45a69a3ac",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.出行平台",
+          "tags.数字金融",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": [
+          {
+            "key": "timeline.t5.text",
+            "before": "Selon Harvard Business School, GrabTaxi avait levé 340 millions de dollars à décembre de cette année.",
+            "after": "Selon Harvard Business School, en décembre de cette année, GrabTaxi avait déjà levé 340 millions de dollars."
+          }
+        ]
+      },
+      {
+        "id": "gong-li",
+        "locale": "zh",
+        "file": "data/people/gong-li.json",
+        "initialSha256": "0723a6039c9f95ea04b5f352f0df53a431dfb591d73836f3cc9a68ac1f8e3de7",
+        "sha256": "0723a6039c9f95ea04b5f352f0df53a431dfb591d73836f3cc9a68ac1f8e3de7",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.电影表演",
+          "tags.跨国电影",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "gong-li",
+        "locale": "en",
+        "file": "data/i18n/en/people/gong-li.json",
+        "initialSha256": "ff5c79e64271cc409ff6b7411ec24038c932b30e7f616c917b4b2fea39556347",
+        "sha256": "897a0d6f24ab2c4c49303dd65c93d2fdd557cba522716e29203dc7a703d8a065",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.电影表演",
+          "tags.跨国电影",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": [
+          {
+            "key": "summary",
+            "before": "Gong Li starred in Red Sorghum while studying at the Central Academy of Drama. The Story of Qiu Ju, Farewell My Concubine and To Live established her portrayals of women in contrasting social circumstances. A Venice acting prize followed, alongside international productions including Memoirs of a Geisha. Her career connects Chinese auteur cinema with international commercial filmmaking and festival activity.",
+            "after": "Gong Li starred in Red Sorghum while studying at the Central Academy of Drama. The Story of Qiu Ju, Farewell My Concubine and To Live established her portrayals of women in contrasting social circumstances. A Venice acting-prize winner, she also appeared in international productions including Memoirs of a Geisha. Her career connects Chinese auteur cinema with international commercial filmmaking and festival activity."
+          }
+        ]
+      },
+      {
+        "id": "gong-li",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/gong-li.json",
+        "initialSha256": "409f81851c14d872721c895544d6594f981f4eb957e017c8e45a499665a0dfc9",
+        "sha256": "1f9fb21878d819b0eca62c5c4968b356f7f440ad21ea9f3c075a32d6d1c1b679",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.电影表演",
+          "tags.跨国电影",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "evo-morales",
+        "locale": "zh",
+        "file": "data/people/evo-morales.json",
+        "initialSha256": "635795c0bebf0f72981068be4c194ab16fe2e1f7d55ed3dc5f48a6d826670421",
+        "sha256": "635795c0bebf0f72981068be4c194ab16fe2e1f7d55ed3dc5f48a6d826670421",
+        "displayedFieldCount": 34,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.原住民政治",
+          "tags.资源政策",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t9.title",
+          "timeline.t9.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "evo-morales",
+        "locale": "en",
+        "file": "data/i18n/en/people/evo-morales.json",
+        "initialSha256": "f1a5ddcbccd1a292c107c5bc4b00b2c28b7f1ca68d7c4163ad26085ad547a819",
+        "sha256": "f1a5ddcbccd1a292c107c5bc4b00b2c28b7f1ca68d7c4163ad26085ad547a819",
+        "displayedFieldCount": 34,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.原住民政治",
+          "tags.资源政策",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text",
+          "timeline.t9.title",
+          "timeline.t9.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "evo-morales",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/evo-morales.json",
+        "initialSha256": "c14c2458953a4b3f63e2b15d2c8c7052d3de4ddb16f59d0b49d230468093a34d",
+        "sha256": "c14c2458953a4b3f63e2b15d2c8c7052d3de4ddb16f59d0b49d230468093a34d",
+        "displayedFieldCount": 34,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.原住民政治",
+          "tags.资源政策",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t9.title",
+          "timeline.t9.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "nicolas-maduro",
+        "locale": "zh",
+        "file": "data/people/nicolas-maduro.json",
+        "initialSha256": "39eb66d66e7c8e3b4b777c9fc7cb359ad605e27132ef8d78b2dff088bf223bfb",
+        "sha256": "39eb66d66e7c8e3b4b777c9fc7cb359ad605e27132ef8d78b2dff088bf223bfb",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.委内瑞拉政治",
+          "tags.选举与治理",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "nicolas-maduro",
+        "locale": "en",
+        "file": "data/i18n/en/people/nicolas-maduro.json",
+        "initialSha256": "684b1f1bf77e5acca9faa855fc29eaf19bf8c7d50a280a7e88e548b054d3cc1c",
+        "sha256": "684b1f1bf77e5acca9faa855fc29eaf19bf8c7d50a280a7e88e548b054d3cc1c",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.委内瑞拉政治",
+          "tags.选举与治理",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "jair-bolsonaro",
+        "locale": "zh",
+        "file": "data/people/jair-bolsonaro.json",
+        "initialSha256": "f481f636f352f04ac6b30dbd5fecd0d591a37684b1992570f78ed03f6fbc905f",
+        "sha256": "f481f636f352f04ac6b30dbd5fecd0d591a37684b1992570f78ed03f6fbc905f",
+        "displayedFieldCount": 34,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.巴西政治",
+          "tags.右翼动员",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text",
+          "timeline.t9.title",
+          "timeline.t9.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "jair-bolsonaro",
+        "locale": "en",
+        "file": "data/i18n/en/people/jair-bolsonaro.json",
+        "initialSha256": "10dbea43f81f4b0484d8172ef7bbd2f76b5969527111ef5d910c1a3eb0ce9550",
+        "sha256": "10dbea43f81f4b0484d8172ef7bbd2f76b5969527111ef5d910c1a3eb0ce9550",
+        "displayedFieldCount": 34,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.巴西政治",
+          "tags.右翼动员",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text",
+          "timeline.t9.title",
+          "timeline.t9.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "greg-brockman",
+        "locale": "zh",
+        "file": "data/people/greg-brockman.json",
+        "initialSha256": "d57534a84335391e03a8a823bd0b8a5e2e14e6980af0614bb18a48627e9bd016",
+        "sha256": "d57534a84335391e03a8a823bd0b8a5e2e14e6980af0614bb18a48627e9bd016",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.生成式人工智能",
+          "tags.软件工程",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "greg-brockman",
+        "locale": "en",
+        "file": "data/i18n/en/people/greg-brockman.json",
+        "initialSha256": "77a00b7bdb3339e9488db9c560ee161d2358b871aac1abd6e7827f38e0fd1539",
+        "sha256": "77a00b7bdb3339e9488db9c560ee161d2358b871aac1abd6e7827f38e0fd1539",
+        "displayedFieldCount": 32,
+        "scope": "all displayed strings",
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.生成式人工智能",
+          "tags.软件工程",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "francois-henri-pinault",
+        "locale": "zh",
+        "file": "data/people/francois-henri-pinault.json",
+        "initialSha256": "6c199d24b34fd17fa2ac9cc2413539e0f188747e35aaed245228baa9b41656e5",
+        "sha256": "6c199d24b34fd17fa2ac9cc2413539e0f188747e35aaed245228baa9b41656e5",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "francois-henri-pinault",
+        "locale": "en",
+        "file": "data/i18n/en/people/francois-henri-pinault.json",
+        "initialSha256": "cebc1ecbc5fd4b2124e0181abb0f0b994c8583b6032b7ef5d13af7fac2b68370",
+        "sha256": "cebc1ecbc5fd4b2124e0181abb0f0b994c8583b6032b7ef5d13af7fac2b68370",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "francois-henri-pinault",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/francois-henri-pinault.json",
+        "initialSha256": "ebf76425c77e07c5fcab97847f758aac1d37741b06763618583da33f3b34bac1",
+        "sha256": "ebf76425c77e07c5fcab97847f758aac1d37741b06763618583da33f3b34bac1",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "gianluigi-aponte",
+        "locale": "zh",
+        "file": "data/people/gianluigi-aponte.json",
+        "initialSha256": "1d03e76660503fd9c66fcf2ccd49aba9bf19dca4c1b55a83fc7e49c3f8b90ab8",
+        "sha256": "b44c7648eddcedfd04471b86a26a22b65100b76d46d12ce03e0156832ac61dbd",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": [
+          {
+            "key": "timeline.t1.title",
+            "before": "所有权交接",
+            "after": "移交MSC所有权"
+          },
+          {
+            "key": "timeline.t2.title",
+            "before": "集装箱运力",
+            "after": "MSC运力升至首位"
+          },
+          {
+            "key": "timeline.t3.title",
+            "before": "代际管理",
+            "after": "交出MSC执行管理"
+          },
+          {
+            "key": "timeline.t4.title",
+            "before": "GNV",
+            "after": "集团投资GNV"
+          },
+          {
+            "key": "timeline.t5.title",
+            "before": "SNAV",
+            "after": "收购SNAV"
+          },
+          {
+            "key": "timeline.t6.title",
+            "before": "StarLauro",
+            "after": "收购StarLauro邮轮业务"
+          },
+          {
+            "key": "timeline.t7.title",
+            "before": "MSC",
+            "after": "共同创办MSC"
+          },
+          {
+            "key": "timeline.t8.title",
+            "before": "出生",
+            "after": "出生于索伦托地区"
+          }
+        ]
+      },
+      {
+        "id": "gianluigi-aponte",
+        "locale": "en",
+        "file": "data/i18n/en/people/gianluigi-aponte.json",
+        "initialSha256": "2a6cd230b8db9e083942f74255766e74dad6362f87be815ce82bc1b7cf6cd222",
+        "sha256": "4c71bf5ecc8914db910e109f2db4883a3dfef85c9d7032b429fc62de95ae9063",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": [
+          {
+            "key": "timeline.t1.title",
+            "before": "Ownership handover",
+            "after": "Transferred MSC ownership"
+          },
+          {
+            "key": "timeline.t2.title",
+            "before": "Container capacity",
+            "after": "MSC fleet capacity ranked first"
+          },
+          {
+            "key": "timeline.t3.title",
+            "before": "Management succession",
+            "after": "Handed over MSC executive management"
+          },
+          {
+            "key": "timeline.t4.title",
+            "before": "GNV",
+            "after": "Group invested in GNV"
+          },
+          {
+            "key": "timeline.t5.title",
+            "before": "SNAV",
+            "after": "Acquired SNAV"
+          },
+          {
+            "key": "timeline.t6.title",
+            "before": "StarLauro",
+            "after": "Acquired StarLauro cruise business"
+          },
+          {
+            "key": "timeline.t7.title",
+            "before": "MSC",
+            "after": "Co-founded MSC"
+          },
+          {
+            "key": "timeline.t8.title",
+            "before": "Birth",
+            "after": "Born near Sorrento"
+          }
+        ]
+      },
+      {
+        "id": "gianluigi-aponte",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/gianluigi-aponte.json",
+        "initialSha256": "1ed85b74223f7feed7efe0f26bb850b34911272716104fa4f90702785fe6ad53",
+        "sha256": "e7f66e978d107e5ec34b1d762d922287d65d7979defb762bfe78fd21df958d3d",
+        "displayedFieldCount": 9,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title"
+        ],
+        "changedFields": [
+          {
+            "key": "timeline.t1.title",
+            "before": "Transfert de propriété",
+            "after": "Transmet la propriété de MSC"
+          },
+          {
+            "key": "timeline.t2.title",
+            "before": "Capacité de conteneurs",
+            "after": "MSC atteint la première capacité"
+          },
+          {
+            "key": "timeline.t3.title",
+            "before": "Succession de direction",
+            "after": "Transmet la direction exécutive"
+          },
+          {
+            "key": "timeline.t4.title",
+            "before": "GNV",
+            "after": "Le groupe investit dans GNV"
+          },
+          {
+            "key": "timeline.t5.title",
+            "before": "SNAV",
+            "after": "Acquiert SNAV"
+          },
+          {
+            "key": "timeline.t6.title",
+            "before": "StarLauro",
+            "after": "Acquiert les croisières StarLauro"
+          },
+          {
+            "key": "timeline.t7.title",
+            "before": "MSC",
+            "after": "Cofonde MSC"
+          },
+          {
+            "key": "timeline.t8.title",
+            "before": "Naissance",
+            "after": "Naît près de Sorrente"
+          }
+        ]
+      },
+      {
+        "id": "jens-stoltenberg",
+        "locale": "zh",
+        "file": "data/people/jens-stoltenberg.json",
+        "initialSha256": "f01479507150fd976521ae485cf00b19722b03467b6c2a1a39dd9a7cb01fb053",
+        "sha256": "f01479507150fd976521ae485cf00b19722b03467b6c2a1a39dd9a7cb01fb053",
+        "displayedFieldCount": 10,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title",
+          "timeline.t9.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "jens-stoltenberg",
+        "locale": "en",
+        "file": "data/i18n/en/people/jens-stoltenberg.json",
+        "initialSha256": "88c1f5bce5ae56a3ba65b2140bc3019de790e24120bf871367998346540666bf",
+        "sha256": "88c1f5bce5ae56a3ba65b2140bc3019de790e24120bf871367998346540666bf",
+        "displayedFieldCount": 10,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title",
+          "timeline.t9.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "jens-stoltenberg",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/jens-stoltenberg.json",
+        "initialSha256": "ff135b953b231c6620a7285cce55b267d43004ddc884f2b25aad66ac4e86986b",
+        "sha256": "ff135b953b231c6620a7285cce55b267d43004ddc884f2b25aad66ac4e86986b",
+        "displayedFieldCount": 10,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "timeline.t1.title",
+          "timeline.t2.title",
+          "timeline.t3.title",
+          "timeline.t4.title",
+          "timeline.t5.title",
+          "timeline.t6.title",
+          "timeline.t7.title",
+          "timeline.t8.title",
+          "timeline.t9.title"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "ian-goodfellow",
+        "locale": "zh",
+        "file": "data/people/ian-goodfellow.json",
+        "initialSha256": "33c381f6e110938c2941f632bd6acdb183dbc8cef959353ca41c86d2520efb83",
+        "sha256": "33c381f6e110938c2941f632bd6acdb183dbc8cef959353ca41c86d2520efb83",
+        "displayedFieldCount": 5,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "ian-goodfellow",
+        "locale": "en",
+        "file": "data/i18n/en/people/ian-goodfellow.json",
+        "initialSha256": "931f4297d98f4381f3d01534ff65190e9fd603533fbece97337f91ab0ec5e6b7",
+        "sha256": "931f4297d98f4381f3d01534ff65190e9fd603533fbece97337f91ab0ec5e6b7",
+        "displayedFieldCount": 5,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value"
+        ],
+        "changedFields": []
+      },
+      {
+        "id": "ian-goodfellow",
+        "locale": "fr",
+        "file": "data/i18n/fr/people/ian-goodfellow.json",
+        "initialSha256": "14458b7eb6ab1ba6df896553953bc854573407cf1cbf6957f09d483c448c2f6e",
+        "sha256": "14458b7eb6ab1ba6df896553953bc854573407cf1cbf6957f09d483c448c2f6e",
+        "displayedFieldCount": 5,
+        "scope": "selected summary and fact/title fields",
+        "reviewedKeys": [
+          "summary",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value"
+        ],
+        "changedFields": []
+      }
+    ],
+    "findings": [
+      {
+        "id": "R1",
+        "person": "anthony-tan",
+        "severity": "material-coverage",
+        "finding": "Initial latest row and highlight stopped at reported2024 adjusted EBITDA, omitting the first full-year net-profit announcement of February2026.",
+        "requested": "Add the first2025 full-year net-profit milestone and preserve distinction from adjusted EBITDA in all8 languages.",
+        "ownerResponse": "Integrator reread final Chinese, English and French summary, highlight and event fields: the February2026 announcement of2025 first net profit is included and $200m net profit is distinct from $500m adjusted EBITDA. Other target languages remain within original-author AI review, not this independent scope.",
+        "status": "resolved-within-declared-scope"
+      },
+      {
+        "id": "R2",
+        "people": [
+          "anthony-tan",
+          "gong-li",
+          "ian-goodfellow",
+          "jack-dongarra",
+          "james-dyson",
+          "jan-koum",
+          "filippo-grandi",
+          "fumio-kishida"
+        ],
+        "severity": "presentation",
+        "finding": "Some Latin-language words/numbers run together, such as in1989, en1987 or de313millions.",
+        "requested": "Review natural numeral boundaries in authored strings; if Chinese/English changes, resave dependent targets after review.",
+        "ownerResponse": "Original authors reviewed the reported typography cases. A final lexical scan of all175 profiles reports zero flagged Latin word/numeral boundary cases; this heuristic and bounded manual readings do not establish grammatical quality of every language.",
+        "status": "resolved-within-declared-scope"
+      },
+      {
+        "id": "R3",
+        "person": "ian-goodfellow",
+        "severity": "low-product-copy",
+        "finding": "Birth fact displayed an editorial sentence explaining why an unverified birthplace was omitted.",
+        "requested": "Show the useful known birth-year fact and keep source/review process limitations in editorial audit.",
+        "ownerResponse": "Integrator reread Chinese, English and French birth fact and summary: the fact now states the known1987 birth year, without production-process explanation. No assumed current DeepMind role is introduced.",
+        "status": "resolved-within-declared-scope"
+      },
+      {
+        "id": "R4",
+        "people": [
+          "francois-henri-pinault",
+          "gianluigi-aponte",
+          "jens-stoltenberg"
+        ],
+        "severity": "low-product-copy",
+        "finding": "Some summaries ended with generic editorial interpretation instructions rather than concrete biographical facts; Pinault timeline titles were vague institution names.",
+        "requested": "Use concrete career clauses/action titles; retain genuine uncertainty and legal/financial distinctions.",
+        "ownerResponse": "Integrator reread the selected summaries and event titles in Chinese, English and French: generic interpretation instructions removed; reviewed titles now describe career actions rather than bare institution names. This is partial field scope for these profiles.",
+        "status": "resolved-within-declared-scope"
+      },
+      {
+        "id": "R5",
+        "person": "evo-morales",
+        "severity": "coverage",
+        "finding": "FullZH/EN initial timeline jumped from2019exile to2026litigation, while summary mentionedreturn.",
+        "requested": "Include documented2020return and check1980relocationversuslaterunionleadershipdate.",
+        "ownerResponse": "Integrator reread the complete Chinese, English and French display strings and shared dates: November9,2020 return added and the early union event uses1985. Source attribution remains visible; these readings do not independently certify every historical claim.",
+        "status": "resolved-within-declared-scope"
+      },
+      {
+        "id": "R6",
+        "person": "gong-li",
+        "severity": "low-chronology-wording",
+        "finding": "English summary implied the1992 Venice acting prize followed a film list ending with1994 To Live.",
+        "status": "resolved",
+        "resolution": "Original author changed the clause to a nonsequential Venice-prize credential, reviewed/resaved all dependent targets, and integrator actually reread the final English summary."
+      },
+      {
+        "id": "R7",
+        "person": "anthony-tan",
+        "severity": "low-language-precision",
+        "finding": "French by-December financing wording used an unnatural preposition.",
+        "status": "resolved",
+        "resolution": "Original author rewrote the sentence to en décembre de cette année ... avait déjà levé; integrator actually read the final French field."
+      },
+      {
+        "id": "R8",
+        "person": "reed-hastings",
+        "severity": "portrait-attribution",
+        "finding": "Current Commons prose conflicts with historical photographer credit and has incomplete structured author metadata.",
+        "status": "resolved-with-historical-provenance",
+        "resolution": "Integrator read original2005 upload/revisions and2006 Flickr-license review, matched the delivered original bytes, then actually viewed the local color portrait. Credit preserves James Duncan Davidson / O’Reilly Media, Inc.; source link points to the historical reviewed revision. No allegation about the intent of later editors or biometric identification is made.",
+        "source": "https://commons.wikimedia.org/w/index.php?title=File:Reed_Hastings,_Web_2.0_Conference.jpg&oldid=3647411",
+        "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+        "deliveredSha256": "da1ef5db2c9cc07e565acb655a0c6da2ff7bece5a21517af7a18ff4f2f3f8225"
+      }
+    ],
+    "sourceChecks": [
+      {
+        "person": "navi-pillay",
+        "url": "https://www.nobelpeaceprize.org/press/press-releases/nobel-peace-prize-for-2026",
+        "access": "Primary full text opened",
+        "checked": "October9 announcement of2026 Peace Prize; futureDecember ceremony must not be marked completed."
+      },
+      {
+        "person": "navi-pillay",
+        "url": "https://www.un.org/en/about-us/nobel-peace-prize/navi-pillay-2026",
+        "access": "Search indexed result; direct open403",
+        "checked": "Corroborating indexed headline only, not read full body."
+      },
+      {
+        "person": "nicolas-maduro",
+        "url": "https://www.investing.com/news/world-news/venezuelas-maduro-due-in-court-over-new-us-torture-charge-4951026",
+        "access": "Reuters syndication full article opened",
+        "checked": "October15 not-guilty pleas and new indictment; future trial date supersedes earlier June1 schedule with June14,2027. No conviction or personal torture act inferred."
+      },
+      {
+        "person": "anthony-tan",
+        "url": "https://www.grab.com/sg/press/others/grab-reports-fourth-quarter-and-2025-results-with-first-full-year-net-profit/",
+        "access": "Primary full announcement opened",
+        "checked": "February12,2026 reports2025 first full-year netprofit$200m, adjustedEBITDA$500m; corporate report, not personalwealth or adjustedprofit equivalent."
+      },
+      {
+        "person": "gong-li",
+        "url": "https://worldaifilmfestival.com/48-hours-that-brought-ai-cinema-into-cannes/",
+        "access": "Primary event retrospective opened",
+        "checked": "April21–22 event completed; festival president Gong Li, jury leader Agnès Jaoui. Separate from Cannes Film Festival."
+      },
+      {
+        "person": "dan-carter",
+        "url": "https://www.iheart.com/podcast/211-the-mike-hosking-breakfast-24837692/episode/dan-carter-former-all-black-talks-349808364/",
+        "access": "Primary dated podcast page, description and available auto transcript opened",
+        "checked": "Nov11,2026 interview/publicactivity; no claim of personally listening to audio or certifying automatic transcript."
+      },
+      {
+        "person": "lang-ping",
+        "url": "https://tyj.jl.gov.cn/mobile/xwzx_143337/tpxw_143349/202608/t20260810_9679057.html",
+        "access": "Primary Jilin provincial sports bureau full article opened",
+        "checked": "Aug10,2026 report of her personal attendance at Aug8–12 massvolleyball event; no inference of current national-team coaching appointment."
+      },
+      {
+        "person": "kohei-uchimura",
+        "url": "https://news.livedoor.com/article/detail/32776065/",
+        "access": "NTVNNN syndicated article full relevant text opened",
+        "checked": "Nov10,2026 article quotes his October2026 World Gymnastics commentary; retiredcommentator not competitor. Official personal site open timedout; futureNov28event not treated as completed."
+      },
+      {
+        "person": "jair-bolsonaro",
+        "url": "https://www.investing.com/news/economy-news/brazil-court-places-bolsonaro-under-house-arrest-on-health-grounds-4578271",
+        "access": "Reuters syndication main body opened",
+        "checked": "March24,2026 humanitarian house-arrest permission after hospital discharge while conviction/sentence remained;90-day reassessment is not treated as permanent release or acquittal."
+      },
+      {
+        "person": "greg-brockman",
+        "url": "https://www.investing.com/news/stock-market-news/key-moments-in-the-musk-vs-openai-trial-4696747",
+        "access": "Reuters syndication main body opened",
+        "checked": "May18,2026 jury decision concerned limitations/untimeliness; no blanket factual or ethical exoneration inferred."
+      },
+      {
+        "person": "jeff-dean",
+        "url": "https://www.discoveryloop.com/blog/announcing-discovery-loop/",
+        "access": "Original company announcement full body opened",
+        "checked": "August5,2026 Dean-signed announcement identifies cofounder/CEO and cofounders Ghemawat, Le, Vinyals. Automating experiments is a stated objective; no unsupported valuation or realized scientific breakthrough inferred."
+      },
+      {
+        "person": "larry-bird",
+        "url": "https://anchor.fm/s/27fc7854/podcast/rss",
+        "access": "Original publisher RSS fetched HTTP200 and dated episode entry read; no audio listening",
+        "checked": "March5,2026 episode guest is author Keith O’Brien, not Bird. Current consultant statement was available only in indexed transcript; the feed independently supports episode provenance/date, not every spoken claim.",
+        "episode": "https://podcasters.spotify.com/pod/show/scott-agness/episodes/Author-Keith-OBrien-on-Heartland--the-origin-story-of-Larry-Bird-e3fv57l"
+      },
+      {
+        "person": "david-card",
+        "url": "https://www.ansa.it/ansacom/notizie/economia/intesa-sanpaolo-4/2026/10/24/card-i-sussidi-per-i-lavoratori-poveri-non-bastano-vanno-ripensati_e1550066-e537-4fab-b679-29c277f8a578.html",
+        "access": "Dated article body opened",
+        "checked": "October24,2026 Turin festival participation and attributed comments; used as positive recent-activity evidence rather than a future event listing."
+      },
+      {
+        "person": "david-card",
+        "url": "https://www.festivalinternazionaledelleconomia.com/en/",
+        "access": "Official festival retrospective opened",
+        "checked": "Corroborates the completed2026 festival, with named participants. Does not imply personal listening to every recorded session."
+      },
+      {
+        "person": "evo-morales",
+        "url": "https://www.pbs.org/newshour/world/former-president-evo-morales-returns-to-bolivia-ending-year-in-exile",
+        "access": "Integrator direct open returned403",
+        "checked": "No independent full-text verification claimed from this failed request; original author source assessment and the scoped final-language reading remain separately identified."
+      },
+      {
+        "person": "evo-morales",
+        "url": "https://www.britannica.com/biography/Evo-Morales",
+        "access": "Integrator direct open failed non-retryable",
+        "checked": "No independent full-body reading claimed from this failed request."
+      }
+    ]
+  },
+  "separateReaderReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex",
+      "agent": "owner f, independently reviewing three other owners’ profiles"
+    },
+    "scope": {
+      "ids": [
+        "emma-walmsley",
+        "mariah-carey",
+        "navi-pillay"
+      ],
+      "locales": [
+        "zh",
+        "en",
+        "fr"
+      ],
+      "actualFilesRead": 9,
+      "displayedFieldsRead": 300,
+      "alignedFieldGroups": 100,
+      "sourceBodiesOpened": 6,
+      "method": "Read every displayed key and value in all nine final JSONs, compared each ZH/EN/FR field and shared timeline metadata, then opened two selected source bodies per person for the requested current-role, uncertainty and award-timing checks.",
+      "finalisation": "Original 9-file/300-field scope retained. Only changed summary/credential fields in Walmsley and Carey were reread after author repair; original and final SHA256 values retained for all files."
+    },
+    "status": "passed-bounded-review-with-independently-verified-fixes",
+    "summary": {
+      "majorErrorsFound": 0,
+      "blockingIssues": 0,
+      "initialLowPriorityClarifications": 2,
+      "independentlyVerifiedResolutions": 2,
+      "unresolvedIssues": 0,
+      "majorTenseChecks": "All three requested current/future distinctions passed."
+    },
+    "profiles": [
+      {
+        "id": "emma-walmsley",
+        "status": "passed-bounded-review-with-independently-verified-fixes",
+        "files": [
+          {
+            "locale": "zh",
+            "path": "data/people/emma-walmsley.json",
+            "sha256": "8e767d7395f3c5e770f92fcd578f69267a95e25e4d6f9b596016f4ae59c8734b",
+            "displayedFieldCount": 34,
+            "initialSha256": "8e767d7395f3c5e770f92fcd578f69267a95e25e4d6f9b596016f4ae59c8734b",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [],
+              "checkedCriticalField": {
+                "key": "facts.f2.value",
+                "value": "牛津大学古典学与现代语言专业MA；此前就读圣斯威辛学校。"
+              }
+            }
+          },
+          {
+            "locale": "en",
+            "path": "data/i18n/en/people/emma-walmsley.json",
+            "sha256": "c3e79de9a6e484188f5668ac811985125681dc86a58072ebd0f2633395dcb14c",
+            "displayedFieldCount": 34,
+            "initialSha256": "c3e79de9a6e484188f5668ac811985125681dc86a58072ebd0f2633395dcb14c",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [],
+              "checkedCriticalField": {
+                "key": "facts.f2.value",
+                "value": "MA in classics and modern languages, Oxford; previously attended St Swithun’s School."
+              }
+            }
+          },
+          {
+            "locale": "fr",
+            "path": "data/i18n/fr/people/emma-walmsley.json",
+            "sha256": "375f0fb2a72b027f8c60aafb21bd2744ba11e1ec219625244369f557d23e3e16",
+            "displayedFieldCount": 34,
+            "initialSha256": "60bebe3bcc4911843ca7f866ddababa5bdd97971a8b3307699fea07fedbc0a34",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": false,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [
+                {
+                  "key": "facts.f2.value",
+                  "before": "Master en lettres classiques et langues modernes à Oxford ; scolarité antérieure à St Swithun’s School.",
+                  "after": "MA en lettres classiques et langues modernes à Oxford ; scolarité antérieure à St Swithun’s School."
+                }
+              ],
+              "checkedCriticalField": {
+                "key": "facts.f2.value",
+                "value": "MA en lettres classiques et langues modernes à Oxford ; scolarité antérieure à St Swithun’s School."
+              }
+            }
+          }
+        ],
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.医药产业",
+          "tags.企业战略",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text",
+          "timeline.t9.title",
+          "timeline.t9.text"
+        ],
+        "fieldReviews": [
+          {
+            "key": "name",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "role",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "country",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "summary",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "coverageNote",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "influence.rationale",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.医药产业",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.企业战略",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-after-independently-verified-author-fix",
+            "issueId": "f-ew-01"
+          },
+          {
+            "key": "highlights.h1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t9.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t9.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          }
+        ],
+        "criticalChecks": [
+          "role: former GSK CEO in all three languages.",
+          "summary and timeline.t1: HP start remains scheduled for January 4, 2027.",
+          "timeline.t2 with shared date 2025-12-31: CEO/board departure is separated from employment transition through September 2026.",
+          "influence rationale, both tags, two facts, two highlights and all nine events compared; no substantive chronology reversal."
+        ],
+        "sourceChecks": [
+          {
+            "url": "https://www.gsk.com/en-gb/media/press-releases/luke-miels-appointed-ceo-designate-for-gsk/",
+            "publisher": "GSK",
+            "sourceDate": "2025-09-29",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 58, 91–96: successor starts January 1, 2026; Walmsley leaves board December 31, 2025; transition employment ends September 30, 2026.",
+            "supports": "Canonical 2025-12-31 departure and separation of executive tenure from later employment transition.",
+            "limits": "Corporate announcement expresses a planned transition at publication. Completion is corroborated by the later HP release calling her former GSK CEO."
+          },
+          {
+            "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-appoints-emma-walmsley-chief-executive-officer.html",
+            "publisher": "HP",
+            "sourceDate": "2026-11-04",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 37–49: appointment announced November 4, effective January 4, 2027; former GSK CEO April 2017–December 2025; current Microsoft board membership.",
+            "supports": "Former GSK role and announced future HP start; all three displayed languages correctly avoid treating her as already serving HP by cutoff.",
+            "limits": "Primary employer announcement, not independent assessment of strategic outcomes."
+          }
+        ],
+        "issues": [
+          {
+            "id": "f-ew-01",
+            "severity": "low",
+            "type": "credential-terminology",
+            "field": "facts.f2.value",
+            "locales": [
+              "fr"
+            ],
+            "finding": "ZH and EN preserve the Oxford degree label MA; FR expands it to Master. Oxford MA terminology can be misunderstood as a taught postgraduate master when expanded this way.",
+            "recommendation": "Retain the source label MA in French, for example « MA en lettres classiques et langues modernes, université d’Oxford ».",
+            "factualStatus": "Terminology clarification, not an independently established error about her qualifications. Education classification was outside the two selected role-change sources.",
+            "blocking": false,
+            "resolution": {
+              "status": "verified-fixed",
+              "repairedBy": "original profile author",
+              "independentlyRereadBy": "OpenAI Codex, owner f",
+              "reviewedAt": "2026-11-15",
+              "verifiedLocales": [
+                "fr"
+              ],
+              "finalValues": [
+                {
+                  "locale": "fr",
+                  "field": "facts.f2.value",
+                  "value": "MA en lettres classiques et langues modernes à Oxford ; scolarité antérieure à St Swithun’s School.",
+                  "sha256": "375f0fb2a72b027f8c60aafb21bd2744ba11e1ec219625244369f557d23e3e16"
+                }
+              ],
+              "note": "Resolution is based on actual final file reads, not only the original author’s completion message."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mariah-carey",
+        "status": "passed-bounded-review-with-independently-verified-fixes",
+        "files": [
+          {
+            "locale": "zh",
+            "path": "data/people/mariah-carey.json",
+            "sha256": "6434a11fd8b0b01a20b454e38b81f3a754496f036ba3d018bed9b9be65c61c5e",
+            "displayedFieldCount": 32,
+            "initialSha256": "6434a11fd8b0b01a20b454e38b81f3a754496f036ba3d018bed9b9be65c61c5e",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [],
+              "checkedCriticalField": {
+                "key": "summary",
+                "value": "凯莉以1990年首张专辑进入乐坛，兼具旋律创作、宽广音域与多层人声编配能力。她由流行抒情歌逐步融入节奏布鲁斯和嘻哈合作，《Butterfly》《The Emancipation of Mimi》等呈现不同阶段的声音转变。其圣诞歌曲形成长期文化影响，后获词曲作者名人堂与MusiCares荣誉，并继续录制新作品。"
+              }
+            }
+          },
+          {
+            "locale": "en",
+            "path": "data/i18n/en/people/mariah-carey.json",
+            "sha256": "16f31349bc7f593c2b072494e1bc73af262e00f92e49336d3985133f507a52b8",
+            "displayedFieldCount": 32,
+            "initialSha256": "4dc1e50d91cf3a6fb0aaf1398fc1f6da7eedd32e1947fc3b9709905f29961dbb",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": false,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [
+                {
+                  "key": "summary",
+                  "before": "Carey emerged with her 1990 debut, combining melody writing, broad vocal range and layered arrangements. Moving from pop ballads toward R&B and hip-hop collaboration, Butterfly and The Emancipation of Mimi marked changes in sound. Her Christmas music gained lasting cultural reach. Songwriters Hall and MusiCares honors followed as she continued recording.",
+                  "after": "Carey emerged with her 1990 debut, combining melody writing, broad vocal range and layered vocal arrangements. Moving from pop ballads toward R&B and hip-hop collaboration, Butterfly and The Emancipation of Mimi marked changes in sound. Her Christmas music gained lasting cultural reach. Songwriters Hall and MusiCares honors followed as she continued recording."
+                }
+              ],
+              "checkedCriticalField": {
+                "key": "summary",
+                "value": "Carey emerged with her 1990 debut, combining melody writing, broad vocal range and layered vocal arrangements. Moving from pop ballads toward R&B and hip-hop collaboration, Butterfly and The Emancipation of Mimi marked changes in sound. Her Christmas music gained lasting cultural reach. Songwriters Hall and MusiCares honors followed as she continued recording."
+              }
+            }
+          },
+          {
+            "locale": "fr",
+            "path": "data/i18n/fr/people/mariah-carey.json",
+            "sha256": "f9bc01d6969254942abd8f643b7576d146a0a5095b8cd8141fa26f424a75f34b",
+            "displayedFieldCount": 32,
+            "initialSha256": "c271569fc5a24e5347f2fd2509abda42e6376d290d1ee9cf29403dfa788d3e14",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": false,
+            "targetedReread": {
+              "reviewedAt": "2026-11-15",
+              "method": "Read the actual final changed field values and compared all displayed keys against the initial snapshot to establish the change set; unchanged text remains covered by the original full reading.",
+              "changedFields": [
+                {
+                  "key": "summary",
+                  "before": "Carey débute en 1990 en associant mélodies, grande étendue vocale et arrangements superposés. Des ballades pop au R&B et au hip-hop, Butterfly et The Emancipation of Mimi marquent ses évolutions. Sa musique de Noël garde une présence culturelle durable. Honorée par le Songwriters Hall et MusiCares, elle continue d’enregistrer.",
+                  "after": "Carey débute en 1990 en associant mélodies, grande étendue vocale et arrangements vocaux superposés. Des ballades pop au R&B et au hip-hop, Butterfly et The Emancipation of Mimi marquent ses évolutions. Sa musique de Noël garde une présence culturelle durable. Honorée par le Songwriters Hall et MusiCares, elle continue d’enregistrer."
+                }
+              ],
+              "checkedCriticalField": {
+                "key": "summary",
+                "value": "Carey débute en 1990 en associant mélodies, grande étendue vocale et arrangements vocaux superposés. Des ballades pop au R&B et au hip-hop, Butterfly et The Emancipation of Mimi marquent ses évolutions. Sa musique de Noël garde une présence culturelle durable. Honorée par le Songwriters Hall et MusiCares, elle continue d’enregistrer."
+              }
+            }
+          }
+        ],
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.流行与节奏布鲁斯",
+          "tags.词曲创作",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text"
+        ],
+        "fieldReviews": [
+          {
+            "key": "name",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "role",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "country",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "summary",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-after-independently-verified-author-fix",
+            "issueId": "f-mc-01"
+          },
+          {
+            "key": "coverageNote",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "influence.rationale",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.流行与节奏布鲁斯",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.词曲创作",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          }
+        ],
+        "criticalChecks": [
+          "birth metadata deliberately null with alternatives 1969 and 1970; visible fact preserves uncertainty in all three languages and invents no exact age.",
+          "timeline.t1 shared date 2026-01-30 agrees with report published January 31 and dated gala photographs.",
+          "Role, influence rationale, both tags, both facts, both highlights and all eight events compared.",
+          "FR historical present for albums and events is compatible with shared past dates; it does not turn an event into a future promise."
+        ],
+        "sourceChecks": [
+          {
+            "url": "https://stereogum.com/2036922/mariah-carey-49th-or-50th-birthday/news",
+            "publisher": "Stereogum",
+            "sourceDate": "2019-03-27; updated 2020-03-27",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 95–102 discuss 1969 versus 1970 and explain the mixed evidence; the purported passport and secondhand license claims are not authenticated by the article.",
+            "supports": "Preserving two alternative birth years, no definitive birth date or exact age. Canonical birth:null and birthYears:[1969,1970] match all three visible explanations.",
+            "limits": "Secondary historical discussion documents disagreement rather than proving either year; no primary birth certificate was obtained."
+          },
+          {
+            "url": "https://abcnews.com/GMA/Culture/mariah-carey-honored-musicares-person-year/story?id=129732678",
+            "publisher": "ABC News",
+            "sourceDate": "2026-01-31",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 13–21, 35–36: completed Friday charity gala, with dated photographs identifying January 30, 2026.",
+            "supports": "2026-01-30 MusiCares Person of the Year is a completed honor, distinct from a future announcement or a competitive Grammy award.",
+            "limits": "This fact probe does not independently revalidate every album, educational detail or influence claim."
+          }
+        ],
+        "issues": [
+          {
+            "id": "f-mc-01",
+            "severity": "low",
+            "type": "semantic-specificity",
+            "field": "summary",
+            "locales": [
+              "en",
+              "fr"
+            ],
+            "finding": "ZH specifies 多层人声编配. EN layered arrangements and FR arrangements superposés retain layering but omit that the arrangements are vocal.",
+            "recommendation": "Preserve the original specificity with layered vocal arrangements / arrangements vocaux superposés.",
+            "factualStatus": "Minor loss of specificity; does not change birth uncertainty, current life state or the 2026 honor.",
+            "blocking": false,
+            "resolution": {
+              "status": "verified-fixed",
+              "repairedBy": "original profile author",
+              "independentlyRereadBy": "OpenAI Codex, owner f",
+              "reviewedAt": "2026-11-15",
+              "verifiedLocales": [
+                "en",
+                "fr"
+              ],
+              "finalValues": [
+                {
+                  "locale": "en",
+                  "field": "summary",
+                  "value": "Carey emerged with her 1990 debut, combining melody writing, broad vocal range and layered vocal arrangements. Moving from pop ballads toward R&B and hip-hop collaboration, Butterfly and The Emancipation of Mimi marked changes in sound. Her Christmas music gained lasting cultural reach. Songwriters Hall and MusiCares honors followed as she continued recording.",
+                  "sha256": "16f31349bc7f593c2b072494e1bc73af262e00f92e49336d3985133f507a52b8"
+                },
+                {
+                  "locale": "fr",
+                  "field": "summary",
+                  "value": "Carey débute en 1990 en associant mélodies, grande étendue vocale et arrangements vocaux superposés. Des ballades pop au R&B et au hip-hop, Butterfly et The Emancipation of Mimi marquent ses évolutions. Sa musique de Noël garde une présence culturelle durable. Honorée par le Songwriters Hall et MusiCares, elle continue d’enregistrer.",
+                  "sha256": "f9bc01d6969254942abd8f643b7576d146a0a5095b8cd8141fa26f424a75f34b"
+                }
+              ],
+              "note": "Resolution is based on actual final file reads, not only the original author’s completion message."
+            }
+          }
+        ]
+      },
+      {
+        "id": "navi-pillay",
+        "status": "passed-bounded-review",
+        "files": [
+          {
+            "locale": "zh",
+            "path": "data/people/navi-pillay.json",
+            "sha256": "738c7be98082244e3f90f561e047e40d297544eb7c0126be291b0705d54a0308",
+            "displayedFieldCount": 34,
+            "initialSha256": "738c7be98082244e3f90f561e047e40d297544eb7c0126be291b0705d54a0308",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true
+          },
+          {
+            "locale": "en",
+            "path": "data/i18n/en/people/navi-pillay.json",
+            "sha256": "3eecb48dd1cff1b0fe818f49c246dcc0bc1cca82131ee52d45fe0d88bc458dd2",
+            "displayedFieldCount": 34,
+            "initialSha256": "3eecb48dd1cff1b0fe818f49c246dcc0bc1cca82131ee52d45fe0d88bc458dd2",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true
+          },
+          {
+            "locale": "fr",
+            "path": "data/i18n/fr/people/navi-pillay.json",
+            "sha256": "aa3e66dc3727ff7e8e6124483127f495bcdfe8c6ca346dd67c11a2f49006076d",
+            "displayedFieldCount": 34,
+            "initialSha256": "aa3e66dc3727ff7e8e6124483127f495bcdfe8c6ca346dd67c11a2f49006076d",
+            "finalVersionSemanticallyReviewed": true,
+            "unchangedSinceInitialRead": true
+          }
+        ],
+        "reviewedKeys": [
+          "name",
+          "role",
+          "country",
+          "summary",
+          "coverageNote",
+          "influence.rationale",
+          "tags.国际刑事司法",
+          "tags.反歧视",
+          "facts.f1.label",
+          "facts.f1.value",
+          "facts.f2.label",
+          "facts.f2.value",
+          "highlights.h1.title",
+          "highlights.h1.text",
+          "highlights.h2.title",
+          "highlights.h2.text",
+          "timeline.t1.title",
+          "timeline.t1.text",
+          "timeline.t2.title",
+          "timeline.t2.text",
+          "timeline.t3.title",
+          "timeline.t3.text",
+          "timeline.t4.title",
+          "timeline.t4.text",
+          "timeline.t5.title",
+          "timeline.t5.text",
+          "timeline.t6.title",
+          "timeline.t6.text",
+          "timeline.t7.title",
+          "timeline.t7.text",
+          "timeline.t8.title",
+          "timeline.t8.text",
+          "timeline.t9.title",
+          "timeline.t9.text"
+        ],
+        "fieldReviews": [
+          {
+            "key": "name",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "role",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "country",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "summary",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "coverageNote",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "influence.rationale",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.国际刑事司法",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "tags.反歧视",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f1.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.label",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "facts.f2.value",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "highlights.h2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t1.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t2.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t3.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t4.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t5.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t6.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t7.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t8.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t9.title",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          },
+          {
+            "key": "timeline.t9.text",
+            "locales": [
+              "zh",
+              "en",
+              "fr"
+            ],
+            "status": "meaning-consistent-within-scope",
+            "issueId": null
+          }
+        ],
+        "criticalChecks": [
+          "summary, highlights.h2 and timeline.t1 all say announced/named laureate; none claims the December ceremony has already occurred.",
+          "timeline.t1 shared date 2026-10-09 agrees with the committee announcement.",
+          "Inquiry chair role is past and ends in 2025 in ZH/EN/FR.",
+          "Role, influence rationale, both tags, both facts, both highlights and all nine events compared.",
+          "FR historical present in the reverse timeline does not override the shared past dates or explicit future-ceremony statement."
+        ],
+        "sourceChecks": [
+          {
+            "url": "https://www.nobelpeaceprize.org/press/press-releases/nobel-peace-prize-for-2026",
+            "publisher": "Norwegian Nobel Committee",
+            "sourceDate": "2026-10-09",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 3–10 explicitly identify the committee decision and October 9, 2026 announcement; lines 12–13 identify former institutional roles and current ICJ case participation.",
+            "supports": "The laureate announcement is complete before cutoff. ZH/EN/FR consistently distinguish announcement from the still-future December ceremony.",
+            "limits": "Page displays a JavaScript-disabled notice, but the substantive announcement body was readable. This selected page does not itself establish the December ceremony schedule; no claim of witnessing or verifying a completed award ceremony."
+          },
+          {
+            "url": "https://www.nobelpeaceprize.org/laureates/2026",
+            "publisher": "Norwegian Nobel Committee",
+            "sourceDate": "2026 laureate page; no explicit publication date in extracted body",
+            "access": "opened-main-body",
+            "reviewedPassages": "Lines 6–19 identify Pillay, award motivation, Harvard doctorate, inquiry chair term 2021–2025 and ICJ ad hoc appointment in 2019.",
+            "supports": "Laureate identity, former UN role, former inquiry chair tenure and present judicial context align across three languages.",
+            "limits": "JavaScript-disabled notice does not prevent reading the biography. Its compressed sentence about the ICTR around 1999 is not used here to adjudicate the exact 1995 judgeship chronology; this is a bounded semantic review, not a new source audit of every career date."
+          }
+        ],
+        "issues": []
+      }
+    ],
+    "notCertified": [
+      "No claim of reviewing all 175 people.",
+      "No claim of reviewing Arabic, German, Japanese, Spanish or Korean.",
+      "No human or native-speaker certification.",
+      "No exhaustive external fact verification of every historical statement.",
+      "No portrait, HTML rendering, build, Git or deployment review in this follow-up."
+    ]
+  },
+  "editorialReadinessGuard": {
+    "status": "passed",
+    "method": "Isolated one-person copy with all seven valid translations and original image. Same CLI first accepts a ready audit, then rejects publicationReady:false without emitting a batch report. Production dossiers untouched.",
+    "checks": [
+      "ready-audit-accepted",
+      "pending-audit-rejected",
+      "failed-check-writes-no-report"
+    ],
+    "modelCalls": 0,
+    "networkActions": 0
+  },
+  "limits": [
+    "Bounded AI editorial cross-checking; no claim of independent verification of all175 biographies or every source sentence.",
+    "Source access failures and indexed-only evidence are stated per URL, and no audio listening is implied by reading episode metadata.",
+    "File/version/lexical/HTTP checks do not certify portrait identity, factual completeness, rights ownership, native-language quality or actual browser/print appearance.",
+    "Newly available sources or later outcomes may require future maintenance."
+  ]
+}

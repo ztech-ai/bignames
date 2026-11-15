@@ -1,0 +1,199 @@
+{
+  "id": "doug-cutting",
+  "name": "道格·卡廷",
+  "enName": "Doug Cutting",
+  "aliases": [],
+  "birth": null,
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "开源软件",
+    "大数据"
+  ],
+  "role": "开源软件开发者、Hadoop共同创建者",
+  "summary": "道格·卡廷长期从事信息检索与分布式数据软件开发。他开发Lucene，参与Nutch与Avro，并与迈克·卡法雷拉共同创建Hadoop，将大规模存储和计算带入开放软件生态。他曾在施乐PARC、苹果、Excite、雅虎工作，后加入Cloudera；其影响也来自社区协作和Apache的开放治理。",
+  "highlights": [
+    {
+      "id": "h1",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ],
+      "title": "共同创建Hadoop",
+      "text": "与卡法雷拉及社区发展分布式存储和处理框架，受到谷歌系统论文启发。"
+    },
+    {
+      "id": "h2",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ],
+      "title": "开发Lucene",
+      "text": "把Java全文检索库开放给开发者，后由Apache社区维护，支撑多个搜索平台。"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生地",
+      "value": "尚无可靠公开资料核实具体出生地"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "斯坦福大学学士；毕业年份资料存在差异"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2012-08-28",
+      "sourceIds": [
+        "s1"
+      ],
+      "title": "继续担任Apache主席",
+      "text": "基金会董事会再次任命他为主席，参与开放软件社区治理。"
+    },
+    {
+      "id": "t2",
+      "date": "2009",
+      "sourceIds": [
+        "s2",
+        "s7"
+      ],
+      "title": "加入Cloudera",
+      "text": "离开雅虎加入企业数据平台公司，担任首席架构师。"
+    },
+    {
+      "id": "t3",
+      "date": "2006-04-02",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ],
+      "title": "Hadoop首次发布",
+      "text": "从Nutch分离的分布式计算项目发布0.1.0版本。"
+    },
+    {
+      "id": "t4",
+      "date": "2005",
+      "sourceIds": [
+        "s8"
+      ],
+      "title": "Nutch进入Apache",
+      "text": "他与卡法雷拉创建的网页搜索项目进入Apache社区体系。"
+    },
+    {
+      "id": "t5",
+      "date": "2001",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "Lucene加入Apache",
+      "text": "项目加入Jakarta，由志愿开发者共同维护。"
+    },
+    {
+      "id": "t6",
+      "date": "2000",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "开源Lucene",
+      "text": "将此前业余开发的Java检索软件公开，建立可复用的搜索组件。"
+    },
+    {
+      "id": "t7",
+      "date": "1993",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "加入苹果研究部门",
+      "text": "开发V-Twin检索引擎，后用于苹果产品。"
+    },
+    {
+      "id": "t8",
+      "date": "1988",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "在施乐PARC研究检索",
+      "text": "开始研究搜索、语言分析、文本摘要和信息访问方法。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Board history: Board Chair",
+      "publisher": "Apache Software Foundation",
+      "url": "https://www.apache.org/foundation/board/minutes/Board_Chair.html"
+    },
+    {
+      "id": "s2",
+      "title": "Doug Cutting speaker biography",
+      "publisher": "AI & Big Data Expo",
+      "url": "https://www.ai-expo.net/global/speaker/doug-cutting/"
+    },
+    {
+      "id": "s3",
+      "title": "Hadoop 0.1.0 changelog",
+      "publisher": "Apache Hadoop",
+      "url": "https://hadoop.apache.org/docs/r3.1.0/hadoop-project-dist/hadoop-common/release/0.1.0/CHANGES.0.1.0.html"
+    },
+    {
+      "id": "s4",
+      "title": "How Lucene came to be",
+      "publisher": "Apache Lucene",
+      "url": "https://svn.apache.org/repos/asf/lucene/java/branches/lucene/docs/background.html"
+    },
+    {
+      "id": "s5",
+      "title": "Twenty years of Apache Lucene",
+      "publisher": "Elastic",
+      "url": "https://www.elastic.co/celebrating-lucene/"
+    },
+    {
+      "id": "s6",
+      "title": "Past members: Doug Cutting",
+      "publisher": "Stanford Linguistics",
+      "url": "https://web.stanford.edu/dept/linguistics/deadtongues/members/past.html"
+    },
+    {
+      "id": "s7",
+      "title": "Data sovereignty at Cloudera BDL 2026",
+      "publisher": "EM360Tech",
+      "url": "https://em360tech.com/video-resources/data-digital-sovereignty-top-agenda-cloudera-bdl-2026"
+    },
+    {
+      "id": "s8",
+      "title": "How Yahoo spawned Hadoop",
+      "publisher": "WIRED",
+      "url": "https://www.wired.com/2011/10/how-yahoo-spawned-hadoop/"
+    },
+    {
+      "id": "s9",
+      "title": "Doug Cutting biography and linked Nutch history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doug_Cutting"
+    }
+  ],
+  "verifiedAt": "2026-11-15",
+  "coverageNote": "选录截至2026年11月13日可核对的重要履历；非实时新闻档案。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "共同创建Hadoop并开发Lucene，推动开放大数据处理与全文搜索软件生态。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "birthUnknown": true
+}

@@ -16,3 +16,11 @@ test('bundled image licenses allow only a local plain-text license asset',()=>{
   validateImageMetadata({...photo,licenseText:'assets/licenses/GFDL-1.2.txt'},'example');
   for(const licenseText of ['../license.txt','assets/licenses/../secret.txt','https://example.com/license.txt','assets/licenses/license.html'])assert.throws(()=>validateImageMetadata({...photo,licenseText},'example'),/unsafe bundled license path/);
 });
+
+test('required photographer links accept HTTP(S) and reject unsafe URLs or placeholder claims',()=>{
+  const photo={kind:'photo',src:'assets/portraits/example.jpg',alt:'Example',credit:'Author',license:'CC BY-SA 3.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/3.0/',sourceUrl:'https://commons.wikimedia.org/wiki/File:Example.jpg'};
+  validateImageMetadata({...photo,creditUrl:'https://photographer.example/'},'example');
+  for(const creditUrl of ['javascript:alert(1)','data:text/html,test','/author','',null])assert.throws(()=>validateImageMetadata({...photo,creditUrl},'example'),/invalid image credit URL/);
+  const placeholder={kind:'placeholder',status:'awaiting-permission',approvedBy:'user',reason:'Awaiting licensed portrait',verifiedAt:'2026-11-13',creditUrl:'https://photographer.example/'};
+  assert.throws(()=>validateImageMetadata(placeholder,'example'),/must not claim/);
+});

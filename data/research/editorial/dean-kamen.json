@@ -1,0 +1,50 @@
+{
+  "id": "dean-kamen",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biographies, linked reporting and source captions; no biometric identity assertion.",
+  "lifeStatusEvidence": "FIRST March 11, 2026 statement records Kamen personally acknowledging errors in judgment and voluntarily resigning; NHPR March 12 reports his statement and resumed ARMI participation.",
+  "lifeStatusEvidenceURL": "https://www.firstinspires.org/about/press-room/an-update-from-first-board-chair-laurie-leshin",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.firstinspires.org/about/press-room/an-update-from-first-board-chair-laurie-leshin",
+      "https://www.vermontpublic.org/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire",
+      "https://lemelson.mit.edu/resources/dean-kamen",
+      "https://dekaresearch.com/founder/",
+      "https://www.dodmantech.mil/News/News-Display/Article/2704222/dod-funds-new-tissue-biofabrication-manufacturing-consortium/",
+      "https://www.darpa.mil/about/innovation-timeline/revolutionizing-prosthetics",
+      "https://www.judiciary.senate.gov/imo/media/doc/Kamen%20Testimony%20042505.pdf",
+      "https://lemelson.mit.edu/award-winners/dean-kamen"
+    ],
+    "scope": "AI compared primary institutional material, original work/announcements and linked independent reporting; cached claims were leads, not accepted without review.",
+    "limits": "Opened FIRST, NHPR, DEKA and MIT biographies; government prosthetics, ARMI and testimony details checked against indexed primary material. DEKA founding year differs across institutional sources (1981/1982), so omitted. Birthplace shown at state level due locality discrepancies. Independent organizational review is not a court verdict; no criminal guilt inferred."
+  },
+  "portraitReview": {
+    "sourceLicenseReview": {
+      "reviewedAt": "2026-11-15",
+      "method": "Fetched actual Commons source description and reviewed named caption, author, license and permission notices; relevant photographer/attribution details retained.",
+      "limits": "Rights review relies on published source permission; no private copyright contracts or human legal certification."
+    },
+    "visualReview": "Inspected .qa/add175/a/portraits.jpg: real color photograph, identity and appearance consistent with named institutional/source caption. Original color bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Dean_Kamen_visits_Team_Whiteman_160426-F-TQ704-039_(cropped).jpg",
+    "sha256": "39fda957308f956ada118ddc2563c6d2da84b9764621ff0ba50dea6469e9f09f",
+    "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+    "author": "Airman 1st Class Keenan Berry / U.S. Air Force",
+    "color": "color-preserved",
+    "caption": "Dean Kamen, the FIRST Robotics founder, left, speaks with U.S. Air Force Capt. Ryan Magner, a 509th Operations Support Squadron B-2 Spirit pilot, about B-2 egress procedures at Whiteman Air Force Base, Mo., April 26, 2016. Kamen met Airmen and FIRST Robotics alumni during his visit and received an incentive flight in a B-2 Spirit. The U.S. Air Force and FIRST Robotics share an interest in developing youth into future leaders through exposure to education in science, technology, engineering and mathematics. (U.S. Air Force photo by Airman 1st Class Keenan Berry)\nUnit: 509th Bomb Wing Public Affairs Whiteman Air Force Base"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and complete English intermediary frozen before six independently composed AI translations; all displayed fields reviewed for semantic alignment.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact contemporary-1000 influence object retained.",
+  "coverageEnd": "2026-03-11"
+}

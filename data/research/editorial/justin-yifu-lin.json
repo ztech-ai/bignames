@@ -1,0 +1,91 @@
+{
+  "id": "justin-yifu-lin",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Shenzhen University’s report dated 12 October 2026 describes his keynote on 10 October; the September 2026 SOAS honorary degree and current Peking biography corroborate activity.",
+  "lifeStatusEvidenceURL": "https://en.szu.edu.cn/info/1014/1983.htm",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Justin_Yifu_Lin",
+      "https://en.nsd.pku.edu.cn/faculty/fulltime/l/32nsd239509.htm",
+      "https://www.nse.pku.edu.cn/en/Research/NewStructuralEconomics/index.htm",
+      "https://live.worldbank.org/en/experts/j/justin-yifu-lin",
+      "https://www.nse.pku.edu.cn/en/FeaturedNews/9388a438a4504bbba11ad5bcffbd31d5.htm"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "1979militarydeparturedescribedasdocumentedcareertransition,notadjudicationofcross-straitlegalclaims. Country/regionnavigationdoesnotdecidesovereignty. Policyproposalsnotprovenuniversalcausalrules. PhDnotconfusedwithSOAShonorarydoctorate.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://www.nse.pku.edu.cn/en/Research/NewStructuralEconomics/index.htm",
+        "status": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "url": "https://www.nse.pku.edu.cn/en/FeaturedNews/9388a438a4504bbba11ad5bcffbd31d5.htm",
+        "status": "HTTP Error 503: Service Unavailable"
+      }
+    ],
+    "accessNotes": "Two INSE pages returned HTTP 503 on final CLI refresh. The relevant indexed university material, current NSD biography, World Bank profile and opened Shenzhen University report were cross-checked; no claim of unrestricted access to every INSE page is made."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named justin-yifu-lin panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:JustinYifuLin_Portrait.jpg",
+    "sha256": "d2206de8b5e7e4283a3c77339f76a68d11a99f511c04e1f5636ae5e0ca2aaf26",
+    "author": "Bdwgast",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Portrait of Justin Yifu Lin at thhe Frankfurt Bookfair",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/justin-yifu-lin.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "5c009bf6f0b79d8d0de55fdd6ebec796c7501f4278e34d60422a7443c2766e2a",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "5c009bf6f0b79d8d0de55fdd6ebec796c7501f4278e34d60422a7443c2766e2a"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "72cd7ebccc9d701810059118ca30b895af2eda462022b10fb3d1d57c57fcbb9e"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "a42a53e7fa48d923a2c02a7a2c4b97f92cacd10663f2e80fc6af29286a4a2d7b"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "243955d7906b0eda483f61bfd2f00c5d3c329a602e9f04b8f62732b6033e9300"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "476fb358ab3fb2cfbdf1d76b757a55f32ebd29024a0f15de58b625fcbb1fe8e0"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "f9047b27117785d5487e914b27781c0882cd7843f00a3ed397d46d1844fed4ce"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "44332333f28869b83879823bad9d1ab860ade092c747348687d2c14b37f3ea53"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "1979militarydeparturedescribedasdocumentedcareertransition,notadjudicationofcross-straitlegalclaims. Country/regionnavigationdoesnotdecidesovereignty. Policyproposalsnotprovenuniversalcausalrules. PhDnotconfusedwithSOAShonorarydoctorate.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

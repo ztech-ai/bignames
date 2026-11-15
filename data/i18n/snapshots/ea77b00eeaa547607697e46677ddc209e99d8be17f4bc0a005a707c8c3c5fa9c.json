@@ -1,0 +1,178 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "ea77b00eeaa547607697e46677ddc209e99d8be17f4bc0a005a707c8c3c5fa9c",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "jack-dongarra",
+    "name": "杰克·唐加拉",
+    "enName": "Jack Dongarra",
+    "aliases": [],
+    "birth": "1950-07-18",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology",
+      "science"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "高性能计算",
+      "数值线性代数"
+    ],
+    "role": "计算机科学家 · 数值计算软件研究者",
+    "summary": "东加拉研究数值线性代数与高性能计算，参与LINPACK、LAPACK、BLAS等开放软件及标准的发展，并共同创立TOP500榜单。他长期在田纳西大学和国家实验室开展研究，使数学算法适应并行计算与硬件演进。其2021年度图灵奖于2022年公布；这些成果来自长期团队合作。",
+    "highlights": [
+      {
+        "id": "h1",
+        "title": "开放数值软件",
+        "text": "参与LINPACK、LAPACK和BLAS等算法、库与标准，服务科学计算。",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ]
+      },
+      {
+        "id": "h2",
+        "title": "超级计算机评测",
+        "text": "共同建立TOP500，以统一基准促进超级计算机性能比较。",
+        "sourceIds": [
+          "s4"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生",
+        "value": "1950年7月18日生于美国芝加哥。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "芝加哥州立大学学士（1972）、伊利诺伊理工学院硕士（1973）、新墨西哥大学博士（1980）。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2022-03-30",
+        "title": "2021年度图灵奖",
+        "text": "ACM于2022年公布获奖，表彰其数值算法与软件库贡献。",
+        "sourceIds": [
+          "s3"
+        ]
+      },
+      {
+        "id": "t2",
+        "date": "1993",
+        "title": "共同创立TOP500",
+        "text": "与合作者建立全球超级计算机性能榜单。",
+        "sourceIds": [
+          "s4"
+        ]
+      },
+      {
+        "id": "t3",
+        "date": "1992",
+        "title": "LAPACK",
+        "text": "参与开发用于现代计算机的线性代数程序库。",
+        "sourceIds": [
+          "s3"
+        ]
+      },
+      {
+        "id": "t4",
+        "date": "1989",
+        "title": "田纳西大学实验室",
+        "text": "进入田纳西大学，建立创新计算实验室。",
+        "sourceIds": [
+          "s2"
+        ]
+      },
+      {
+        "id": "t5",
+        "date": "1980",
+        "title": "取得博士学位",
+        "text": "在新墨西哥大学完成应用数学博士学位。",
+        "sourceIds": [
+          "s2"
+        ]
+      },
+      {
+        "id": "t6",
+        "date": "1979",
+        "title": "LINPACK",
+        "text": "参与发布求解线性方程等问题的数值软件包。",
+        "sourceIds": [
+          "s3"
+        ]
+      },
+      {
+        "id": "t7",
+        "date": "1973",
+        "title": "硕士训练",
+        "text": "完成伊利诺伊理工学院计算机科学硕士学位。",
+        "sourceIds": [
+          "s2"
+        ]
+      },
+      {
+        "id": "t8",
+        "date": "1972",
+        "title": "数学学士",
+        "text": "完成芝加哥州立大学数学学士学位。",
+        "sourceIds": [
+          "s2"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jack Dongarra",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jack_Dongarra"
+      },
+      {
+        "id": "s2",
+        "title": "Jack Dongarra biography",
+        "publisher": "University of Tennessee",
+        "url": "https://eecs.utk.edu/people/jack-dongarra/"
+      },
+      {
+        "id": "s3",
+        "title": "2021 ACM A.M. Turing Award",
+        "publisher": "ACM",
+        "url": "https://awards.acm.org/about/2021-turing"
+      },
+      {
+        "id": "s4",
+        "title": "Jack Dongarra",
+        "publisher": "TOP500",
+        "url": "https://www.top500.org/project/authors/jack-dongarra/"
+      },
+      {
+        "id": "s5",
+        "title": "Jack Dongarra atGYSS2026",
+        "publisher": "National Research Foundation Singapore",
+        "url": "https://gyss.nrf.gov.sg/gyss-2026/laureates/jack-dongarra/"
+      }
+    ],
+    "verifiedAt": "2026-11-15",
+    "coverageNote": "选录截至2026年11月13日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "发展高性能数值计算算法与软件库，推动科学计算、超级计算机评测和并行计算应用。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

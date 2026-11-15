@@ -1,0 +1,110 @@
+{
+  "id": "david-card",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "ANSA’s 24 October 2026 report describes his actual participation at the Turin economics festival; the official festival retrospective and current Berkeley emeritus faculty profile corroborate identity and role.",
+  "lifeStatusEvidenceURL": "https://www.ansa.it/ansacom/notizie/economia/intesa-sanpaolo-4/2026/10/24/card-i-sussidi-per-i-lavoratori-poveri-non-bastano-vanno-ripensati_e1550066-e537-4fab-b679-29c277f8a578.html",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/David_Card",
+      "https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/",
+      "https://econ.berkeley.edu/profile/david-card",
+      "https://davidcard.berkeley.edu/",
+      "https://www.olab.berkeley.edu/faculty/david-card"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Nobelhalfshare vsAngrist/Imbensotherhalfexplicit. Minimum-wagefindingsfromspecificcontexts,notuniversallawthatwageincreasesneverreducejobs. Birthyearonly; avoidinventedexactdate. Berkeleyprofileemerituspreferredoveroldernonemeritusbio.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": []
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named david-card panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:David_Card_-_Nobel_prize_interview_screenshot_(cropped).png",
+    "sha256": "fda799e7d3c056aace4569f6bf1768df83c05bf7f6c7ca4cb9c8985444f83fc8",
+    "author": "Roxanne Makasdjian and Alan Toth for the University of California, Berkeley",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "caption": "David Card, from his interview with U.C. Berkeley about his reception of half of the 2021 Nobel prize in economics",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/david-card.png"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "453b3517ab9253861ed121e09388496bf0bd85f839b0a1731255fbfde5d15a46",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "453b3517ab9253861ed121e09388496bf0bd85f839b0a1731255fbfde5d15a46"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "2fff14dbb37a9777851d76ffe68ca3fb1d152e25e4ff44b29db5730a82b7c75d"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "6c07354d87bd1213683867ec3ebe5b08f2d25aca9a8ff7f04d036d4d9fb7209e"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "8b9270205240c8228c67e5bb3d0f521fe4b29a7d4a333a604763c25045d03a74"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "d89430a2ecaf0f385b7010c82d830a34a0b179f65712d969038ecc74cc5f1670"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "13e44e22b76cb2e2f4deb7bc9f5ec566f0dbb6fdc96ecd519b1e36e888f86b21"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "5960e6b135f2b914a3ddbfb0fa38421654a80a48ee9f3e729c098a651d499c28"
+      }
+    },
+    "delegatedReview": {
+      "reviewer": {
+        "kind": "ai",
+        "name": "OpenAI Codex integrator"
+      },
+      "reviewedAt": "2026-11-15",
+      "locales": [
+        "fr",
+        "ar",
+        "de",
+        "ja",
+        "es",
+        "ko"
+      ],
+      "scope": "Root integrator directly authored and semantically reviewed these six targets after exact Chinese/English hashes were frozen. Owner b authored Chinese/English, researched sources, inspected portraits and finalized this audit.",
+      "outputTextSha256ByLocale": {
+        "fr": "2fff14dbb37a9777851d76ffe68ca3fb1d152e25e4ff44b29db5730a82b7c75d",
+        "ar": "6c07354d87bd1213683867ec3ebe5b08f2d25aca9a8ff7f04d036d4d9fb7209e",
+        "de": "8b9270205240c8228c67e5bb3d0f521fe4b29a7d4a333a604763c25045d03a74",
+        "ja": "d89430a2ecaf0f385b7010c82d830a34a0b179f65712d969038ecc74cc5f1670",
+        "es": "13e44e22b76cb2e2f4deb7bc9f5ec566f0dbb6fdc96ecd519b1e36e888f86b21",
+        "ko": "5960e6b135f2b914a3ddbfb0fa38421654a80a48ee9f3e729c098a651d499c28"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Nobelhalfshare vsAngrist/Imbensotherhalfexplicit. Minimum-wagefindingsfromspecificcontexts,notuniversallawthatwageincreasesneverreducejobs. Birthyearonly; avoidinventedexactdate. Berkeleyprofileemerituspreferredoveroldernonemeritusbio.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ],
+  "lifeStatusEvidenceURLs": [
+    "https://www.ansa.it/ansacom/notizie/economia/intesa-sanpaolo-4/2026/10/24/card-i-sussidi-per-i-lavoratori-poveri-non-bastano-vanno-ripensati_e1550066-e537-4fab-b679-29c277f8a578.html",
+    "https://www.festivalinternazionaledelleconomia.com/en/",
+    "https://econ.berkeley.edu/profile/david-card"
+  ]
+}

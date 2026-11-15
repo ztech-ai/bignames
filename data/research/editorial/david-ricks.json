@@ -1,0 +1,83 @@
+{
+  "id": "david-ricks",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Lilly’s current leadership biography and 2026 corporate records identify Ricks as chair and CEO; FDA’s April 2026 approval record corroborates the latest selected company milestone, rather than proving personal invention.",
+  "lifeStatusEvidenceURL": "https://www.lilly.com/about/leadership/david-ricks",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/David_Ricks",
+      "https://www.lilly.com/about/leadership/david-ricks",
+      "https://investor.lilly.com/node/21101",
+      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program",
+      "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management",
+      "https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-mounjaro"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "RegulatoryapprovalsareUSspecificandlimitedtoapprovedindications,notuniversalaccessorsafetyguarantees. CEOisnotdescribedasindividualinventoroftirzepatide/orforglipron. VirginiaGovernorphotoattributionCCBY4retained.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [],
+    "accessNotes": "The earlier FDA 2022 press-release URL was unavailable (404) and was replaced before six-language authoring with the opened FDA Mounjaro Drug Trials Snapshot, which confirms original approval on 13 May 2022."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named david-ricks panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:David_A._Ricks_2025.jpg",
+    "sha256": "465b01e7d3f89834d1792ae8bf5a76feedabf3ccf9e9d3187bb35a32eade1175",
+    "author": "Virginia Office of the Governor",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "David A. Ricks CEO of Eli Lilly makes an announcement in Richmond, Virginia, September 2025",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/david-ricks.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "89c3437c01979be4e9f3cc92a653b8bfd4cf0b78f794e8f30a41fec9ad3799be",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "89c3437c01979be4e9f3cc92a653b8bfd4cf0b78f794e8f30a41fec9ad3799be"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "fa1d417528cf2fe4975243e4f1886aed8654b61b0e9f1e8a612d633e63051113"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "14f7257fcddc5cb8521fbc3baab93de8cb26c8e5fbf3b8a07b3eaa533c576eb1"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "efad8638825cecd233a343108ac84aceb24254fdf2fde20a8b8410cdc2f49aa6"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "91387e873b75a32f1cc59177288591e9c2e5d98180a553f4515daeb945d8f0c0"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "4537a310ae3c51e02be1d201cf9a670735c86ec6d79631fbe1c3088e9a294f79"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "f769fd2f77bcc689bf975988899238908e760f7ec2d4f79955cb2f9dfb1672b3"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "RegulatoryapprovalsareUSspecificandlimitedtoapprovedindications,notuniversalaccessorsafetyguarantees. CEOisnotdescribedasindividualinventoroftirzepatide/orforglipron. VirginiaGovernorphotoattributionCCBY4retained.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

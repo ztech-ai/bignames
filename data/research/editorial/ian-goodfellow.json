@@ -1,0 +1,83 @@
+{
+  "id": "ian-goodfellow",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Mila published a named first-person interview on 23 April 2025 about his ongoing research; his personal research page remains accessible. This supports recent activity and identity without asserting continuous monitoring or an unverified current employer.",
+  "lifeStatusEvidenceURL": "https://mila.quebec/en/news/spotlight-on-our-alumni-ian-goodfellow",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Ian_Goodfellow",
+      "https://mila.quebec/en/news/spotlight-on-our-alumni-ian-goodfellow",
+      "https://arxiv.org/abs/1406.2661",
+      "https://www.deeplearningbook.org/",
+      "https://www.iangoodfellow.com/"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Current employer not asserted: 2025 interview names DeepMind but later self-profile/search results suggest departure and a stealth startup without independently verified dates. PhD2015 differs from thesis2014; dates distinguished. Birthplace not established. GAN credited to all eight authors.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": []
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named ian-goodfellow panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Ian_Goodfellow.jpg",
+    "sha256": "7e5262b2c73e5b7a94f46e789f2543677297257f9d77b6e205e66e4030e962f8",
+    "author": "Ian Goodfellow",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "A photo of American computer scientist Ian Goodfellow in Mountain View, California.",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/ian-goodfellow.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "87ecfc44a815ef7722910e59e4e47578e7929adbaa6f42f17c42c7dd8c7463d4",
+    "locales": {
+      "en": {
+        "fields": 34,
+        "textSha256": "87ecfc44a815ef7722910e59e4e47578e7929adbaa6f42f17c42c7dd8c7463d4"
+      },
+      "fr": {
+        "fields": 34,
+        "textSha256": "84c4dbae5452bde506d1da17f83c2af01346a175d162c422798e656c9358cd5a"
+      },
+      "ar": {
+        "fields": 34,
+        "textSha256": "79d1d571e3e9ff96bd23b573f19b2c196a6ea80f1e1b2445795cc3941df8b58a"
+      },
+      "de": {
+        "fields": 34,
+        "textSha256": "7499c5eff6e72e947016585044e9a03e0878d5625e7b54a178cb253fa2ed86db"
+      },
+      "ja": {
+        "fields": 34,
+        "textSha256": "eb7d2cc6ba3b6982bb064f03c17db9f3f4def73df5d1af8b5da13d0edc1cc807"
+      },
+      "es": {
+        "fields": 34,
+        "textSha256": "584ce8d70d4e6244473337eaa191b1efb651221df6530de187fe82635592f63c"
+      },
+      "ko": {
+        "fields": 34,
+        "textSha256": "6ac7fdfd8ec50cd873711c614e4f84d4225bc67b52dc2490c8ec977ef9094e48"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Current employer not asserted: 2025 interview names DeepMind but later self-profile/search results suggest departure and a stealth startup without independently verified dates. PhD2015 differs from thesis2014; dates distinguished. Birthplace not established. GAN credited to all eight authors.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "Read back Chinese/English and all six targets. Removed process commentary from Goodfellow’s birth field where applicable; reviewed specified numeric-spacing changes as typography only, then re-saved targets against the final source versions.",
+    "Final chronology review ordered existing date strings with repository timelineOrder. Stable event IDs, exact date precision, and all translated claims remain unchanged; no exact intra-month/year date was inferred. Six locales re-saved after confirming unchanged event semantics.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

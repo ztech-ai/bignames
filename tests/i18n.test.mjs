@@ -15,6 +15,7 @@ const locales = config.locales.filter(locale => locale.enabled);
 const sourceLocale = config.source ?? config.default;
 const profiles = await Promise.all((await readdir(new URL('data/people/', root)))
   .filter(file => file.endsWith('.json')).map(file => json(`data/people/${file}`)));
+const imageMetadata = new Map(await Promise.all(profiles.map(async p=>[p.id,await json(`data/images/${p.id}.json`)])));
 const baseUI = await json(`data/i18n/${sourceLocale}/ui.json`);
 const prefix = id => id === config.default ? '' : `${id}/`;
 const route = (id, page = 'index.html') => `${prefix(id)}${page}`;
@@ -92,10 +93,10 @@ for (const locale of locales) {
           const n = Number(value.match(/^-?\d+/)[0]);
           return n < 0 ? formatMessage(ui['date.bce'], { year: numbers.format(-n) }) : numbers.format(n);
         };
-        assert.equal(details[0], `${birthYearValues(person).map(n=>year(String(n))).join(' / ')} — ${person.death === null ? ui['date.present'] : year(person.death)}`);
-        if(person.birth===null)assert.equal(Object.hasOwn(JSON.parse(document.querySelector('script[type="application/ld+json"]').textContent),'birthDate'),false,'Disputed birth years must not become an exact structured birth date');
+        assert.equal(details[0], `${birthYearValues(person).map(n=>year(String(n))).join(' / ')||ui['date.unknown']} — ${person.death === null ? ui['date.present'] : year(person.death)}`);
+        if(person.birth===null)assert.equal(Object.hasOwn(JSON.parse(document.querySelector('script[type="application/ld+json"]').textContent),'birthDate'),false,'Unknown or disputed birth years must not become an exact structured birth date');
         const image = document.querySelector('.profile-photo .person-portrait');
-        const metadata = await json(`data/images/${person.id}.json`);
+        const metadata = imageMetadata.get(person.id);
         if(metadata.kind==='placeholder') {
           assert.equal(image.tagName,'DIV');
           assert.equal(image.getAttribute('role'),'img');
@@ -107,7 +108,13 @@ for (const locale of locales) {
         } else {
           assert.equal(image.src, `${baseURL}${metadata.src}`);
           assert.equal(image.alt, formatMessage(ui[metadata.kind === 'photo' ? 'image.altPhoto' : 'image.altArtwork'], { name: p.name }));
-          if(metadata.licenseText)assert.equal(document.querySelector('.photo-credit a').href,`${baseURL}${metadata.licenseText}`,'The full bundled image license must resolve correctly in every language');
+          if(metadata.licenseText)assert.ok([...document.querySelectorAll('.photo-credit a')].some(a=>a.href===`${baseURL}${metadata.licenseText}`),'The full bundled image license must resolve correctly in every language');
+          if(metadata.creditUrl){
+            const author=document.querySelector('.photo-credit .image-author-credit');
+            assert.ok(author,'Required photographer attribution link is missing');
+            assert.equal(author.href,new URL(metadata.creditUrl).href);
+            assert.equal(author.textContent,metadata.credit);
+          }
           if(metadata.permissionNotice)assert.equal(document.querySelector('.image-permission-notice').textContent,metadata.permissionNotice,'The original image permission notice must accompany every language page');
         }
         assert.equal(image.dataset.lifeStatus, person.death === null ? 'living' : 'deceased');
@@ -126,6 +133,18 @@ for (const locale of locales) {
         else if (!person.death.startsWith('-')) assert.equal(structured.deathDate, person.death);
       } finally { dom.window.close(); }
     }
+  });
+  test(`${locale.id}: the image credits page retains required photographer links`,async()=>{
+    const dom=new JSDOM(await read(`dist/${route(locale.id,'credits.html')}`),{url:`${baseURL}${route(locale.id,'credits.html')}`});
+    try{
+      for(const [id,image]of imageMetadata)if(image.creditUrl){
+        const row=dom.window.document.querySelector(`.credits-table a[href="people/${id}/index.html"]`).closest('tr');
+        const author=row.querySelector('.image-author-credit');
+        assert.ok(author,`${locale.id}/${id}: missing required author link`);
+        assert.equal(author.href,new URL(image.creditUrl).href);
+        assert.equal(author.textContent,image.credit);
+      }
+    }finally{dom.window.close();}
   });
 }
 

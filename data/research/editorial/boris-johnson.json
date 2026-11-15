@@ -1,0 +1,109 @@
+{
+  "id": "boris-johnson",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Interfax-Ukraine reported his September 11, 2026 visit to Lviv to present his memoir; government biography distinguishes past offices.",
+  "lifeStatusEvidenceURL": "https://en.interfax.com.ua/news/general/1202961-amp.html",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Interfax-Ukraine reported his September 11, 2026 visit to Lviv to present his memoir; government biography distinguishes past offices.",
+    "url": "https://en.interfax.com.ua/news/general/1202961-amp.html"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Boris_Johnson",
+    "https://www.gov.uk/government/people/boris-johnson",
+    "https://publications.parliament.uk/pa/cm5803/cmselect/cmprivi/564/report.html",
+    "https://www.instituteforgovernment.org.uk/explainer/privileges-committee-investigation-boris-johnson",
+    "https://en.interfax.com.ua/news/general/1202961-amp.html"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Boris_Johnson",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 270029
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.gov.uk/government/people/boris-johnson",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4223
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://publications.parliament.uk/pa/cm5803/cmselect/cmprivi/564/report.html",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 269872
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.instituteforgovernment.org.uk/explainer/privileges-committee-investigation-boris-johnson",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 15953
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://en.interfax.com.ua/news/general/1202961-amp.html",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 2169
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg",
+    "sha256": "d533d7b5689493e820174438d82c229ebce09b2e37544e2a434ac574330e6533",
+    "author": "Ben Shread",
+    "licenseURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+    "caption": "Depicted person:  Boris Johnson – Prime Minister of the United Kingdom from 2019 to 2022",
+    "assetPath": "public/assets/portraits/boris-johnson.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "6395ac78fee3dc2e16daf3b254e5792b27593c66a068084ef10eb014d0e87d81",
+    "englishTextSha256": "f011ee63f4b218cb4d6460eae517b1bcfbf7849e6caab411a6c2af588062a31d",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "facaaa54f499b00cf1316abd5d8803d4434fecc86f6cbbe295bfceaced46e1db",
+      "fr": "c2316f647d64dfce763eefe2e2c328499e6e2d964c51d681c47220a48ca51513",
+      "ar": "e73628df62eb05edf57ebfece8f19b232ab3788b8beb0810a666ce8eca11d9d3",
+      "de": "187da993374eef6112551cc18675c43fc629bdca78192cdf62cba2c5c1cf5ac6",
+      "ja": "2fc843a59ff049cc98401db4e04d59108661b890422e239e141ac371027b616a",
+      "es": "b0d66937946cad0c14115e707c303ae0377f8dff2858a3a30eedef9b907a77dc",
+      "ko": "79f7413329ae28d7f04a85ff4a64e094b3362137b40f52361b4c520c43622793"
+    }
+  }
+}

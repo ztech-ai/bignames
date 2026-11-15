@@ -1,0 +1,112 @@
+{
+  "id": "angus-deaton",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Princeton’s current named emeritus/Senior Scholar profiles positively identify his role. The AEA’s current laureate roster explicitly lists Angus S. Deaton as 1945– while recording other 2026 deaths, and Russell Sage’s publisher page names him with Anne Case and Andrew Cherlin for a November 2026 volume. These are corroborating institutional records, not a claimed dated personal appearance. No newly verified 2026 interview was found; republished older interviews and crawl-date artifacts were excluded.",
+  "lifeStatusEvidenceURL": "https://deaton.scholar.princeton.edu/bio",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Angus_Deaton",
+      "https://www.nobelprize.org/prizes/economic-sciences/2015/deaton/facts/",
+      "https://www.nobelprize.org/prizes/economic-sciences/2015/deaton/biographical/",
+      "https://deaton.scholar.princeton.edu/bio",
+      "https://faculty.princeton.edu/people/angus-stewart-deaton"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "PrimaryPrincetonbio/CV/NobelfactsagreePhD1974,Bristol1975; Wikipedia1975thesisand1976Bristolnotadopted. DeathsofDespairresearch ispopulation-levelandnotmedicaladvice; sharedauthorshipCaseexplicit.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [],
+    "accessNotes": "The Russell Sage publisher gives November 2026 without a day. It is used only as contemporary author/identity corroboration, not as proof of a completed publication before 13 November. No invented 2026 timeline event was added."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named angus-deaton panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Angus_Deaton_0244.jpg",
+    "sha256": "f794a1aaaafc4a2d23fc0c66a70ba76935578cf839f9056b8fb5fa4826a626f0",
+    "author": "Holger Motzkau",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Angus Deaton at a press conference at the Royal Swedish Academy of Sciences",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/angus-deaton.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "994199e94f322e4cda549b49ea393b297079704faac0b1aa23c6f8afa05a88f6",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "994199e94f322e4cda549b49ea393b297079704faac0b1aa23c6f8afa05a88f6"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "560a420596982872e0d6868a265c4f6e7fc0529efab90fe4b71dc6da1f55b674"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "dc537c05ea5354f554ac8fa46c4c548c7a8da4a5abe4aeac6ccd52e7f3f0f91b"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "210cb8467725bfede469d02bc002ffdab2af99ec997642a16037f733803a677d"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "8362454d2e34f4dbcfbdcd847921c4ff1dff9590cc432c9b9ef652b718f5b338"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "ebd1925ba4ffd5c059518af15ebbf72adf2a10182c05cdba61ebf5555588cce7"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "f7fa78cbb2f9f210fd83a6e7e7144ff12015b354b942c1f66491896263d99819"
+      }
+    },
+    "delegatedReview": {
+      "reviewer": {
+        "kind": "ai",
+        "name": "OpenAI Codex integrator"
+      },
+      "reviewedAt": "2026-11-15",
+      "locales": [
+        "fr",
+        "ar",
+        "de",
+        "ja",
+        "es",
+        "ko"
+      ],
+      "scope": "Root integrator directly authored and semantically reviewed these six targets after exact Chinese/English hashes were frozen. Owner b authored Chinese/English, researched sources, inspected portraits and finalized this audit.",
+      "outputTextSha256ByLocale": {
+        "fr": "560a420596982872e0d6868a265c4f6e7fc0529efab90fe4b71dc6da1f55b674",
+        "ar": "dc537c05ea5354f554ac8fa46c4c548c7a8da4a5abe4aeac6ccd52e7f3f0f91b",
+        "de": "210cb8467725bfede469d02bc002ffdab2af99ec997642a16037f733803a677d",
+        "ja": "8362454d2e34f4dbcfbdcd847921c4ff1dff9590cc432c9b9ef652b718f5b338",
+        "es": "ebd1925ba4ffd5c059518af15ebbf72adf2a10182c05cdba61ebf5555588cce7",
+        "ko": "f7fa78cbb2f9f210fd83a6e7e7144ff12015b354b942c1f66491896263d99819"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "PrimaryPrincetonbio/CV/NobelfactsagreePhD1974,Bristol1975; Wikipedia1975thesisand1976Bristolnotadopted. DeathsofDespairresearch ispopulation-levelandnotmedicaladvice; sharedauthorshipCaseexplicit.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ],
+  "lifeStatusEvidenceURLs": [
+    "https://deaton.scholar.princeton.edu/bio",
+    "https://faculty.princeton.edu/people/angus-stewart-deaton",
+    "https://www.aeaweb.org/about-aea/honors-awards/nobel-laureates",
+    "https://www.russellsage.org/publications/book/rsf-beyond-deaths-despair"
+  ]
+}

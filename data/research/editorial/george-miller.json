@@ -1,0 +1,101 @@
+{
+  "id": "george-miller",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Variety’s October9,2026 interview documents his current public discussion of filmmaking and AI; no unannounced Mad Max sequel is treated as completed.",
+  "lifeStatusEvidenceURL": "https://au.variety.com/2026/film/news/george-miller-mad-max-artificial-intelligence-in-filmmaking-41137",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Variety’s October9,2026 interview documents his current public discussion of filmmaking and AI; no unannounced Mad Max sequel is treated as completed.",
+    "url": "https://au.variety.com/2026/film/news/george-miller-mad-max-artificial-intelligence-in-filmmaking-41137"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/George_Miller_(filmmaker)",
+    "https://www.festival-cannes.com/en/p/george-miller/",
+    "https://www.bfi.org.uk/features/where-begin-with-george-miller",
+    "https://au.variety.com/2026/film/news/george-miller-mad-max-artificial-intelligence-in-filmmaking-41137"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/George_Miller_(filmmaker)",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 55479
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.festival-cannes.com/en/p/george-miller/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 3783
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.bfi.org.uk/features/where-begin-with-george-miller",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 9341
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://au.variety.com/2026/film/news/george-miller-mad-max-artificial-intelligence-in-filmmaking-41137",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 6969
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:George_Miller_(35706244922).jpg",
+    "sha256": "eaa6b4bea54e59e9bfa9e0c3e177842cc132475e8ffe068f07c2585ee1e93af7",
+    "author": "Eva Rinaldi from Sydney Australia",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "George Miller",
+    "assetPath": "public/assets/portraits/george-miller.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "7c736558842ae1f230acd71eeb1f30d70eed1add8b3cb13d4ebd9620a9700ec5",
+    "englishTextSha256": "41cb1af863bb865dba2e51fc0b639ae1823983b868f439bf4cdb9f26a1fd561b",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "0f91f4050b1843cc26da608df6df1c4e39e6d7cbc8b60ab4bae4d27142a7ce25",
+      "fr": "6d7cb5be0de1b54afd1c73098ff228d8fc7286168cbc13218eacc5332531fe83",
+      "ar": "4a1a194678ceaf43ce360f1b06d01369cc4d41a5e725a6ff56dd693d7d2517af",
+      "de": "a765520be6efe39d7ed72955d37a8291a2ae94be658aa097fd49cf688d2a1f03",
+      "ja": "fe2e422cdcdb97b0e33031f24e31f84b8a361f7c475253841b36ea6bbcbf86e3",
+      "es": "dff71b832ba23692d3b6934119afde2cf38308e970fb0ed572514aa630ba3686",
+      "ko": "45070a3723971016175adaed80781bd0147320c1260f818aa3a1bbf4fe461a4b"
+    }
+  }
+}

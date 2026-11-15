@@ -1,0 +1,47 @@
+{
+  "id": "tsai-ing-wen",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched source biographies, career details and named color photo caption.",
+  "lifeStatusEvidence": "Reuters 8 October 2026 report describes her 7 October address as former president.",
+  "lifeStatusEvidenceURL": "https://www.reuters.com/world/china/former-taiwan-president-tsai-tells-us-audience-sustained-chinese-pressure-2026-10-08/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Reuters 8 October 2026 report describes her 7 October address as former president."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://english.president.gov.tw/Page/646",
+      "https://en.wikipedia.org/wiki/Tsai_Ing-wen",
+      "https://www.reuters.com/world/china/former-taiwan-president-tsai-tells-us-audience-sustained-chinese-pressure-2026-10-08/",
+      "https://focustaiwan.tw/politics/202606270009"
+    ],
+    "limits": "Search excerpts and available source text reviewed. Some pages may restrict full access; no claim of exhaustive coverage or human certification."
+  },
+  "portraitReview": {
+    "visualReview": "Inspected local .qa/add175/c/portraits.jpg contact sheet (or downloaded individual image for Lai/Abdullah): real color photograph consistent with named source caption; no biometric claim.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Photo_by_Tsai_Ing-wen.jpg",
+    "sha256": "11afcfdfcf5673bf623365145697792bd0aad34abfcace00ea1823fd55b5097b",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "總統府",
+    "caption": "The President received the \"Japan-Taiwan Exchange Association Chairman Mitsuo Ohashi\"",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/tsai-ing-wen.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and complete faithful English frozen first; six target languages authored and semantically reviewed field by field.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained without star inflation.",
+  "coverageEnd": "2026-10-07",
+  "editorialNotes": [],
+  "checkedAt": "2026-11-15"
+}

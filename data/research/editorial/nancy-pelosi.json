@@ -1,0 +1,102 @@
+{
+  "id": "nancy-pelosi",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Her official November2026 statements and current congressional biography identify her as a serving representative;2025 retirement announcement concerns the term ending January2027, not completed retirement.",
+  "lifeStatusEvidenceURL": "https://pelosi.house.gov/news/press-releases",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Her official November2026 statements and current congressional biography identify her as a serving representative;2025 retirement announcement concerns the term ending January2027, not completed retirement.",
+    "url": "https://pelosi.house.gov/news/press-releases"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Nancy_Pelosi",
+    "https://pelosi.house.gov/biography",
+    "https://abcnews.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story?id=116779249",
+    "https://pelosi.house.gov/news/press-releases"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Nancy_Pelosi",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 165799
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://pelosi.house.gov/biography",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 12466
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://abcnews.com/Politics/nancy-pelosi-woman-house-speaker-announces-retirement/story?id=116779249",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 9560
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://pelosi.house.gov/news/press-releases",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 6754
+      }
+    ],
+    "typographyReview": "Source-title spaces around dates and numerals reviewed separately; no event, attribution or translation meaning changed."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
+    "sha256": "dcee2fb9a9e90720fd6481188f68653621fb81d751f241008eccd4d514cda28e",
+    "author": "John Harrington",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "52nd speaker of the United States House of Representatives",
+    "assetPath": "public/assets/portraits/nancy-pelosi.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "30da72f0f3672cf46f312c31e8c35bdf804c6707e1118c275bf3ae0078f22460",
+    "englishTextSha256": "b79d132eba46841bea89acd32699ce7d432c66f11bd17a1e7a2186d408e4cfa2",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "8f015eb0394001ab33e4f0afaccd64f805a6b1271d6fb5b11994f81128e1289b",
+      "fr": "7a7f95aef8f855df9a3c6a7b3443db27c63860083f43f93b019703e019fec7ab",
+      "ar": "42d3599c42b89d1b7f6a67ace16d8cb7ffba8d9270d9c3b9e2ce13db89d4176f",
+      "de": "393a171b69cd7336f836ab3c0faf58b5043185fd5f0a653fd0d39b214fe9b599",
+      "ja": "5c9ada4a60d7e88a023e09d7bd51ceb70e9f04d968cd6c4d7c6aabcf83165e14",
+      "es": "bdbad40ffe20c891ad2959cad887562ad59b1acfff87ea09bb0bb55468d1a54b",
+      "ko": "5f5406904621884ca7aa620006af7fd18f0491b41066b260c2221e33ab31cbec"
+    }
+  }
+}

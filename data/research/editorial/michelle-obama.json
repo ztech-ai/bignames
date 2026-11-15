@@ -1,0 +1,101 @@
+{
+  "id": "michelle-obama",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "The opened official IMO podcast site lists her as co-host and records the November4,2026 Questlove episode and October2026 episodes, positive evidence of continuing public work through the cutoff; no continuous monitoring implied.",
+  "lifeStatusEvidenceURL": "https://www.imopod.com/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "The opened official IMO podcast site lists her as co-host and records the November4,2026 Questlove episode and October2026 episodes, positive evidence of continuing public work through the cutoff; no continuous monitoring implied.",
+    "url": "https://www.imopod.com/"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Michelle_Obama",
+    "https://www.whitehousehistory.org/bios/michelle-obama",
+    "https://www.penguinrandomhouse.com/books/775527/the-look-by-michelle-obama-with-meredith-koop-foreword-by-farah-jasmine-griffin/9780593800706/",
+    "https://www.history.com/articles/michelle-obama"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Michelle_Obama",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 146290
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.whitehousehistory.org/bios/michelle-obama",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 11498
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.penguinrandomhouse.com/books/775527/the-look-by-michelle-obama-with-meredith-koop-foreword-by-farah-jasmine-griffin/9780593800706/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 12333
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.history.com/articles/michelle-obama",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 10165
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Michelle_Obama_2013_official_portrait_(2).jpg",
+    "sha256": "960780f11030723df54217b918e5502819fb5fbf6599c7f1f3e92c779dfa2ba6",
+    "author": "Official White House Photo by Chuck Kennedy",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Official portrait of First Lady Michelle Obama in the Green Room of the White House",
+    "assetPath": "public/assets/portraits/michelle-obama.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "4a8beb1c338d05b40a6504ee331289796f39e2417f75eadf652e6dbc26dc13f5",
+    "englishTextSha256": "1aa97ffae5b76cd11916f611c877f4a7724d02e086d38f7b6b29f0de089b3767",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "20cf427501776aea5e47794d81ea524fbe7dcf666c9f03500c72648f5fe8230e",
+      "fr": "a15931a3950b5632948cd024305491674a7c508f4fd377ac2840d67eb5009783",
+      "ar": "684b8f1a6489aa583d18ca30160b77d8884abb4445df7b4e851b5d8ca0f1b1d4",
+      "de": "0772e9d93c62170a153c772de74167d769514f55929b3bdf117ea1e4ec10e59b",
+      "ja": "e53e070d5bec668342f531037d4cb7bb9c635d6d02c4e3638a70dcf7c66ad534",
+      "es": "d3565a8d8f138a5587ffede1a8f2f285a1a27d6a1d9a9915dc2a788d10b878de",
+      "ko": "9793e98651b99dcdf384613aed5f6bb9d2346f831821f23db13c6c8c23520ebf"
+    }
+  }
+}

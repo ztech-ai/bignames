@@ -1,0 +1,109 @@
+{
+  "id": "david-miliband",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Current IRC leadership biography and 2026 SID-US conference biography identify him as president and CEO, providing positive institutional evidence of continuing public work.",
+  "lifeStatusEvidenceURL": "https://www.sidusconference.org/david-miliband.html",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Current IRC leadership biography and 2026 SID-US conference biography identify him as president and CEO, providing positive institutional evidence of continuing public work.",
+    "url": "https://www.sidusconference.org/david-miliband.html"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/David_Miliband",
+    "https://www.rescue.org/uk/page/bio-irc-president-and-ceo-david-miliband",
+    "https://www.weforum.org/people/david-miliband/",
+    "https://www.belfercenter.org/person/david-miliband",
+    "https://www.sidusconference.org/david-miliband.html"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/David_Miliband",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 67877
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.rescue.org/uk/page/bio-irc-president-and-ceo-david-miliband",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 5082
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.weforum.org/people/david-miliband/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 1578
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.belfercenter.org/person/david-miliband",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 8828
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://www.sidusconference.org/david-miliband.html",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 2009
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:David_Miliband_in_2016.jpg",
+    "sha256": "9dbbc087db5b94daa85219039f7a9a074a36c4fd1028bd4aac1c0a6bfa28b7d5",
+    "author": "Dimitris Avramopoulos",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "David Miliband , to the left,  & Dimitris Avramopoulos",
+    "assetPath": "public/assets/portraits/david-miliband.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "a030a862687453ba931f831b6c4bc383f3a48c3890ca1ab74d86a4ec8de28ce5",
+    "englishTextSha256": "30a401c03820fa4f0b230c262c4be5d50e1a496a1fa7a2ff14921232ebef9f55",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "81cd935f234d0c1b3b4ebca698067ea92ae999845529182b01f38a1ff85a6dbb",
+      "fr": "cad3de95422636929caa188c1a64664f08941fde749e24695d278e6361172849",
+      "ar": "6345644a042c0cca04df6ba0aa2fcdbedf145a2bb46cd7bac2614814eb130ee7",
+      "de": "40f9faf651f8b61cecb7adc1fca057a38464e7bd2b04132a9bca884481ab008f",
+      "ja": "2bb23649b609d5f670e61dcb24eacf0068cb73342fb240ad00bc8bf62464b820",
+      "es": "d99ff7fd89786cc631eaed3cb885ee818b95df07bb25393f89d58856ab1e9c74",
+      "ko": "aab70f36889c6c406f18267c875187b023cac665c5ad81df069139f8b4031001"
+    }
+  }
+}

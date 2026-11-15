@@ -1,0 +1,102 @@
+{
+  "id": "marco-rubio",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Official June2026 congressional testimony and September22 independent reporting identify him as secretary of state, additionally appointed permanent national security adviser after acting service.",
+  "lifeStatusEvidenceURL": "https://docs.house.gov/meetings/AP/AP04/20260602/119335/HHRG-119-AP04-Wstate-RubioM-20260602.pdf",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Official June2026 congressional testimony and September22 independent reporting identify him as secretary of state, additionally appointed permanent national security adviser after acting service.",
+    "url": "https://docs.house.gov/meetings/AP/AP04/20260602/119335/HHRG-119-AP04-Wstate-RubioM-20260602.pdf"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Marco_Rubio",
+    "https://www.mcc.gov/about/profile/bio-rubio-marco/",
+    "https://www.washingtonexaminer.com/news/white-house/4737811/marco-rubio-named-national-security-adviser-16-months-acting/",
+    "https://docs.house.gov/meetings/AP/AP04/20260602/119335/HHRG-119-AP04-Wstate-RubioM-20260602.pdf"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Congressional testimony is a source PDF; automatic HTML text extraction is not a full PDF review. The readable MCC institutional biography and dated September2026 reporting establish current roles; no claim that all PDF pages were reviewed.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Marco_Rubio",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 194509
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.mcc.gov/about/profile/bio-rubio-marco/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 3379
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.washingtonexaminer.com/news/white-house/4737811/marco-rubio-named-national-security-adviser-16-months-acting/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4055
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://docs.house.gov/meetings/AP/AP04/20260602/119335/HHRG-119-AP04-Wstate-RubioM-20260602.pdf",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 84112
+      }
+    ],
+    "typographyReview": "Source-title spaces around dates and numerals reviewed separately; no event, attribution or translation meaning changed."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg",
+    "sha256": "e6bc68fac3e6bcd54b47eb6db0ad3542f888dcbb4e022bf7227739aca541af88",
+    "author": "U.S. Department of State",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Official portrait of US Secretary of State Marco Rubio",
+    "assetPath": "public/assets/portraits/marco-rubio.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "4845a6863f0039606e8bff0ea7492c6691f36a87979acbb9554f37efd5c4f483",
+    "englishTextSha256": "8112bbc06159e04a1711cfe2051f9294e0ff5e9ed518bbdbf3b5006a82ca4c62",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "0467fc351091f5bc6ec7ea6da0df12d3425507b0a285ca8dce656f0edcff60b1",
+      "fr": "fad74736cc8dfcfc0869d486479974d0615cfc73e08e536674c0a13740ae2b69",
+      "ar": "e5d02fc15c0cbc8d2816a9a461bf7829641dc856cc4d13e3fcf83d271366343c",
+      "de": "9b732828733f6eda8417945d23a584799ce6bc9503eeae72dce41e1bb68c098e",
+      "ja": "70c3e5c245de9556ae51d9f695f4e97745b7eea4db5317728e0828be98a52c36",
+      "es": "2c6f601dbc6cf8e496726cdecebdb36aff09f5094102b17052146057eecb030f",
+      "ko": "f069866536979e32c90b360410db050059625373ff3b2ba6fbb269ba2a2bb4eb"
+    }
+  }
+}

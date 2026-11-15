@@ -52,7 +52,7 @@ const assets=prefix=>`${prefix}${locale.id===localeConfig.default?'':'../'}`;
 const number=new Intl.NumberFormat(locale.lang,{useGrouping:false});
 const yearNumberLabel=year=>year<0?formatMessage(ui['date.bce'],{year:number.format(Math.abs(year))}):number.format(year);
 const yearLabel=value=>yearNumberLabel(yearOf(value));
-const lifeLabel=person=>`${birthYearValues(person).map(yearNumberLabel).join(' / ')} — ${person.death?yearLabel(person.death):ui['date.present']}`;
+const lifeLabel=person=>`${birthYearValues(person).map(yearNumberLabel).join(' / ')||ui['date.unknown']} — ${person.death?yearLabel(person.death):ui['date.present']}`;
 const dateLabel=value=>{
   if(value.startsWith('-'))return yearLabel(value);
   const parts=value.split('-').map(Number);
@@ -157,13 +157,16 @@ function imageLicenseLink(p,prefix='') {
   const link=p.image.licenseText?`<a href="${e(assets(prefix)+p.image.licenseText)}" target="_blank" rel="noopener noreferrer">${e(p.image.license)}</a>`:external(p.image.licenseUrl,p.image.license);
   return link+(p.image.permissionNotice?`<br><span class="image-permission-notice">${e(p.image.permissionNotice)}</span>`:'');
 }
+function imageAuthorCredit(image) {
+  return image.creditUrl?external(image.creditUrl,image.credit,'image-author-credit'):e(image.credit);
+}
 function portraitCredit(p,prefix='') {
   if(!hasPortrait(p.image))return `<p class="photo-credit portrait-pending-note">${t('image.pendingNote')}</p>`;
-  return `<p class="photo-credit">${e(p.image.credit)}<br>${imageLicenseLink(p,prefix)} · ${external(p.image.sourceUrl,`${ui['image.source']} ↗`)}<br><span>${t(lifeStatus(p) === 'deceased' ? 'image.deceasedTreatment' : 'image.livingTreatment')}</span></p>`;
+  return `<p class="photo-credit">${imageAuthorCredit(p.image)}<br>${imageLicenseLink(p,prefix)} · ${external(p.image.sourceUrl,`${ui['image.source']} ↗`)}<br><span>${t(lifeStatus(p) === 'deceased' ? 'image.deceasedTreatment' : 'image.livingTreatment')}</span></p>`;
 }
 function creditRow(p) {
   const name=`<td><a href="people/${p.id}/index.html">${e(p.name)}</a><small>${t(!hasPortrait(p.image)?'image.pending':p.image.kind==='photo'?'image.photo':'image.historical')}</small></td>`;
-  return `<tr>${name}${hasPortrait(p.image)?`<td>${e(p.image.credit)}</td><td>${imageLicenseLink(p)}</td><td>${external(p.image.sourceUrl,`${ui['credits.view']} ↗`)}</td>`:`<td colspan="3">${t('image.pendingNote')}</td>`}</tr>`;
+  return `<tr>${name}${hasPortrait(p.image)?`<td>${imageAuthorCredit(p.image)}</td><td>${imageLicenseLink(p)}</td><td>${external(p.image.sourceUrl,`${ui['credits.view']} ↗`)}</td>`:`<td colspan="3">${t('image.pendingNote')}</td>`}</tr>`;
 }
 function creditsPage() {
   const body=`<div class="container"><header class="page-intro"><p class="eyebrow">${t('credits.eyebrow')}</p><h1>${t('credits.heading')}</h1><p>${t('credits.description1')}<br>${t('credits.description2')}</p></header><div class="table-wrap"><table class="candidate-table credits-table"><caption class="sr-only">${t('credits.tableCaption',{count:profiles.length})}</caption><thead><tr><th scope="col">${t('candidates.name')}</th><th scope="col">${t('credits.author')}</th><th scope="col">${t('credits.license')}</th><th scope="col">${t('credits.source')}</th></tr></thead><tbody>${profiles.map(creditRow).join('')}</tbody></table></div><div class="prose"><p>${t('credits.note1',{date:'2026-11-13'})}</p><p>${t('credits.note2')}</p></div><a class="back-link" href="index.html">← ${t('credits.back')}</a></div>`;
@@ -233,7 +236,7 @@ for(const bundle of prepared) {
   for(const [index,person] of profiles.entries())await write(`people/${person.id}/index.html`,views.profilePage(person,index));
   const localeScript=`window.SITE_LOCALE = ${js(locale.lang)};\nwindow.SITE_MESSAGES = ${js(ui)};\n`;
   await writeFile(path.join(output,`assets/locales/${locale.id}.js`),localeScript);
-  const indexData=profiles.map(p=>Object.fromEntries(['id','name','enName','aliases','birth','birthYears','death','country','domains','eras','regions','tags','tagIds','role','summary'].map(key=>[key,p[key]])));
+  const indexData=profiles.map(p=>Object.fromEntries(['id','name','enName','aliases','birth','birthYears','birthUnknown','death','country','domains','eras','regions','tags','tagIds','role','summary'].map(key=>[key,p[key]])));
   const indexName=locale.id===localeConfig.default?'people-index.js':`indexes/${locale.id}.js`;
   await writeFile(path.join(output,`assets/${indexName}`),`window.PEOPLE_INDEX = ${js(indexData)};\nwindow.TAXONOMY = ${js(taxonomy)};\n`);
   const homeFor404=siteBase?new URL(`${folder}index.html`,siteBase).pathname:`/${folder}index.html`;

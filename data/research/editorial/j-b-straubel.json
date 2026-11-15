@@ -1,0 +1,88 @@
+{
+  "id": "j-b-straubel",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Named speaker at the Milken Global Conference on 4 May 2026; current Redwood and Tesla biographies identify his founder/CEO and director roles.",
+  "lifeStatusEvidenceURL": "https://milkeninstitute.org/events/global-conference-2026/speakers/jb-straubel",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/J._B._Straubel",
+      "https://ir.tesla.com/corporate/jb-straubel",
+      "https://www.redwoodmaterials.com/about/",
+      "https://milkeninstitute.org/events/global-conference-2026/speakers/jb-straubel",
+      "https://sustainability.stanford.edu/news/battery-pioneer-jb-straubel-encourages-innovators-reinvent-everything/"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Tesla CTO tenure follows exact official May2005–July2019 dates;2004 joining is distinct. Redwood March2026 cooperation is a company outcome, not sole personal invention.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://ir.tesla.com/corporate/jb-straubel",
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "accessNotes": "The direct Tesla corporate page returned HTTP 403; indexed institutional biography text was triangulated with Redwood, Milken and Stanford sources."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named j-b-straubel panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jeffrey_B._Straubel_3.JPG",
+    "sha256": "6daa17bd04584a6f3b915595b8dec539d6510f085a06d52749cbce5add74878e",
+    "author": "RudolfSimon",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Jeffrey B. Straubel, member of the founding team and Chief Technical Officer of Tesla Motors",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/j-b-straubel.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "68a753f67da6b7589b86d85b75fc6c21e05adf3f52083196c71461aa007b49e6",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "68a753f67da6b7589b86d85b75fc6c21e05adf3f52083196c71461aa007b49e6"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "22d9ae218a3316bd44d4cc343de77fc766d3adc511a5108ccfe0ee68ea55a4a8"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "abbce3d3a5c435a052775d301e37b5432c0f284a10212745a5ffcc8f6dc1c06d"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "f17be452beb6ecdb9cfd2ed9744532fbce29f8215efe9b0c3941ab8fd983eab6"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "e26bebbb730a16251f5598e173907b5a2cc6c8b89b50d692b0bb1146e2c5576d"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "29360c42bf9a78ebc738de007da1812707d5e50a84a0c55c01ef17acc0997843"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "448f70c00191416a2761a0ec28f1237b89faf9235b4e03dfab63da211f07603f"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Tesla CTO tenure follows exact official May2005–July2019 dates;2004 joining is distinct. Redwood March2026 cooperation is a company outcome, not sole personal invention.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "Read back Chinese/English and all six targets. Removed process commentary from Goodfellow’s birth field where applicable; reviewed specified numeric-spacing changes as typography only, then re-saved targets against the final source versions.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

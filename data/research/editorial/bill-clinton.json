@@ -1,0 +1,48 @@
+{
+  "id": "bill-clinton",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched source biographies, career details and named color photo caption.",
+  "lifeStatusEvidence": "AP 27 February 2026 report records his congressional testimony and public statements.",
+  "lifeStatusEvidenceURL": "https://www.boston.com/news/politics/2026/02/27/bill-clinton-says-he-did-nothing-wrong-with-epstein/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "AP 27 February 2026 report records his congressional testimony and public statements."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.boston.com/news/politics/2026/02/27/bill-clinton-says-he-did-nothing-wrong-with-epstein/",
+      "https://www.clintonlibrary.gov/research/clinton-biographies",
+      "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "https://guides.loc.gov/federal-impeachment/bill-clinton",
+      "https://www.clintonlibrary.gov/museum/online-exhibits/constitution-and-clinton-presidency"
+    ],
+    "limits": "Full AP syndicated February2026testimony report, National Archives biography/exhibit, Library of Congress impeachment guide and Wikipedia reviewed. Oxford attendance is not a degree. Impeachment acquittal concerns Senate articles; Epstein testimony/denials are not a criminal adjudication."
+  },
+  "portraitReview": {
+    "visualReview": "Inspected local .qa/add175/c/portraits.jpg contact sheet (or downloaded individual image for Lai/Abdullah): real color photograph consistent with named source caption; no biometric claim.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg",
+    "sha256": "9729f06a245e037ce82cb5164136e71779a5b981c20d758084b0b3a6690d17cf",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Bob McNeely, The White House[1]",
+    "caption": "Official White House photo of President Bill Clinton, President of the United States.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/bill-clinton.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and complete faithful English frozen first; six target languages authored and semantically reviewed field by field.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained without star inflation.",
+  "coverageEnd": "2026-02-27",
+  "editorialNotes": [],
+  "checkedAt": "2026-11-15"
+}

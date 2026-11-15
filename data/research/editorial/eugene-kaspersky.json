@@ -1,0 +1,50 @@
+{
+  "id": "eugene-kaspersky",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biographies, linked reporting and source captions; no biometric identity assertion.",
+  "lifeStatusEvidence": "Official blog has first-person travel entries dated November 9–12, 2026, and current corporate biography explicitly lists him as CEO; RBC updated biography describes his current business activities.",
+  "lifeStatusEvidenceURL": "https://eugene.kaspersky.com/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.kaspersky.com/about/team/eugene-kaspersky",
+      "https://www.bis.gov/kaspersky",
+      "https://www.investing.com/news/world-news/exclusivebiden-to-ban-us-sales-of-kaspersky-software-over-ties-to-russia-source-says-3490279",
+      "https://gti.kaspersky.com/en/kaspersky-relocates-cyberthreat-data-storage-and-processing-to-switzerland",
+      "https://www.europol.europa.eu/media-press/newsroom/news/no-more-ransom-law-enforcement-and-it-security-companies-join-forces-to-fight-ransomware",
+      "https://www.rsaconference.com/experts/eugene-kaspersky",
+      "https://www.rbc.ru/person/64f329a49a79476fdb659379",
+      "https://eugene.kaspersky.com/"
+    ],
+    "scope": "AI compared primary institutional material, original work/announcements and linked independent reporting; cached claims were leads, not accepted without review.",
+    "limits": "Opened corporate, BIS, RBC, personal blog and RSA biographies. Europol, Swiss relocation and Reuters coverage additionally checked through indexed extracts. US national-security determination reported as regulatory finding, not a criminal conviction; company denial retained. Team malware research not credited as sole discovery by Kaspersky. Earned 1987 qualification distinguished from honorary doctorates."
+  },
+  "portraitReview": {
+    "sourceLicenseReview": {
+      "reviewedAt": "2026-11-15",
+      "method": "Fetched actual Commons source description and reviewed named caption, author, license and permission notices; relevant photographer/attribution details retained.",
+      "limits": "Rights review relies on published source permission; no private copyright contracts or human legal certification."
+    },
+    "visualReview": "Inspected .qa/add175/a/portraits.jpg: real color photograph, identity and appearance consistent with named institutional/source caption. Original color bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Eugene_Kaspersky_Headshot.jpg",
+    "sha256": "71ee8beb68cb7281dcf178ff748f45d6a3d163737ea536ee9a5e420ec78bea52",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kaspersky",
+    "color": "color-preserved",
+    "caption": "Eugene Kaspersky Headshot"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and complete English intermediary frozen before six independently composed AI translations; all displayed fields reviewed for semantic alignment.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact contemporary-1000 influence object retained.",
+  "coverageEnd": "2024-06-20"
+}

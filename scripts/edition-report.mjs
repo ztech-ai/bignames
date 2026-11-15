@@ -52,7 +52,8 @@ const lines=[
 for(const [i,p] of people.entries()){
   const image=metadata[i];if(!hasPortrait(image))continue;
   const licenseURL=image.licenseText?`../public/${image.licenseText}`:image.licenseUrl;
-  lines.push(`| ${escape(p.name)} | ${escape(image.credit)} | [${escape(image.license)}](${licenseURL})${image.permissionNotice?`<br>${escape(image.permissionNotice)}`:''} | [来源说明](${image.sourceUrl}) |`);
+  const credit=image.creditUrl?`[${escape(image.credit)}](${image.creditUrl})`:escape(image.credit);
+  lines.push(`| ${escape(p.name)} | ${credit} | [${escape(image.license)}](${licenseURL})${image.permissionNotice?`<br>${escape(image.permissionNotice)}`:''} | [来源说明](${image.sourceUrl}) |`);
 }
 lines.push('','## 已确认的缺失肖像例外','');
 for(const [i,p] of people.entries())if(!hasPortrait(metadata[i]))lines.push(`${p.name}：${metadata[i].reason} 详见\`data/images/${p.id}.json\`。`,'');

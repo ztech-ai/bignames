@@ -1,0 +1,109 @@
+{
+  "id": "gordon-brown",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "The UK government announced his appointment as special reviewer on May 9, 2026, while his current office biography documents global education and health-financing work.",
+  "lifeStatusEvidenceURL": "https://www.gov.uk/government/news/appointment-of-gordon-brown-as-the-prime-ministers-special-reviewer-on-global-finance-and-cooperation",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "The UK government announced his appointment as special reviewer on May 9, 2026, while his current office biography documents global education and health-financing work.",
+    "url": "https://www.gov.uk/government/news/appointment-of-gordon-brown-as-the-prime-ministers-special-reviewer-on-global-finance-and-cooperation"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Gordon_Brown",
+    "https://www.gov.uk/government/history/past-prime-ministers/gordon-brown",
+    "https://www.who.int/news/item/20-09-2021-former-u.k.-prime-minister-gordon-brown-appointed-world-health-organization-ambassador-for-global-health-financing",
+    "https://www.gov.uk/government/news/appointment-of-gordon-brown-as-the-prime-ministers-special-reviewer-on-global-finance-and-cooperation",
+    "https://gordonandsarahbrown.com/gordon-brown/"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. His personal-office page returned202 with an empty body in direct retrieval; UK government, WHO and biographical sources supply the substantive career chronology.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Gordon_Brown",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 118059
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/gordon-brown",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 7062
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.who.int/news/item/20-09-2021-former-u.k.-prime-minister-gordon-brown-appointed-world-health-organization-ambassador-for-global-health-financing",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4853
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.gov.uk/government/news/appointment-of-gordon-brown-as-the-prime-ministers-special-reviewer-on-global-finance-and-cooperation",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4720
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://gordonandsarahbrown.com/gordon-brown/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP202",
+        "extractedCharacters": 0
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Gordon_Brown_(2008).jpg",
+    "sha256": "9700dc0c164eac0a44a4ec8c82fc61f0dc6c4a348d09b50d7b1cc24bdbb4c6df",
+    "author": "Unknown photographer",
+    "licenseURL": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+    "caption": "Official portrait of Prime Minister Gordon Brown (high resolution); Crown copyright",
+    "assetPath": "public/assets/portraits/gordon-brown.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "3eb7e4be49666c4b7b71274a20bc8f8d3620c7409ebaea5f24723b9a996d9706",
+    "englishTextSha256": "ae1688593694470b415a7c9e238a3ab5f84b247dac1d7cec3179cf7066bf9a05",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "2735112171614b29ccc0687d76b2964953a736e5518315158e6643831bd3fe15",
+      "fr": "e9e728038e930f23c3397b99efc0e36de86ee87996ab9a496abbf521dcf033ea",
+      "ar": "f3e19ab95996449e9a0a3f960b9eadac7b79363d7eb72ba7e19bfcadca99423f",
+      "de": "632d67b315d25aea2aec77defa08fdc9a7671fcf64f6ccd72c67f0e774c53f7c",
+      "ja": "ecdd01562dfdc9a8fd624f82594cf34ed3d3e3a8a79c7fc0b67f25c72f2d3ab0",
+      "es": "c629e1cc7e0356e4b6cb37751ce4a2f95a3b8a090b81de0271253004e7e400d5",
+      "ko": "b312b6a99541b3777f10a617cde0b6482c12b225e8283e9a5ea60c8d23ec8265"
+    }
+  }
+}

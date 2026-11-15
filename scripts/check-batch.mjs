@@ -35,6 +35,7 @@ for(const c of batch.people){
   assert.equal(person.verifiedAt,batch.reviewedAt??batch.cutoffDate);
   assert(person.timeline.length>=8&&person.facts.length>=2&&person.highlights.length>=2&&person.sources.length>=3,`${c.id}: insufficient dossier coverage`);
   const audit=await json(`data/research/editorial/${c.id}.json`);assert.equal(audit.reviewer.kind,'ai');assert(audit.lifeStatusEvidence&&audit.portraitReview?.visualReview);
+  if(Object.hasOwn(audit,'publicationReady'))assert.equal(audit.publicationReady,true,`${c.id}: editorial audit is not ready for publication`);
   if(batch.reviewedAt)assert.equal(audit.reviewedAt,batch.reviewedAt,`${c.id}: actual editorial review date differs from batch`);
   const english=await json(`data/i18n/en/people/${c.id}.json`);
   for(const locale of locales){

@@ -1,0 +1,117 @@
+{
+  "id": "cher",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "AP reports the completed January31,2026 Lifetime Achievement ceremony; CNN’s May2026 profile independently describes her life and career.",
+  "lifeStatusEvidenceURL": "https://apnews.com/article/43c16a7eaa14a17b2f29c7bddf4a902e",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "AP reports the completed January31,2026 Lifetime Achievement ceremony; CNN’s May2026 profile independently describes her life and career.",
+    "url": "https://apnews.com/article/43c16a7eaa14a17b2f29c7bddf4a902e"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Cher",
+    "https://library.rockhall.com/cher",
+    "https://www.televisionacademy.com/bios/cher",
+    "https://www.grammy.com/news/special-merit-awards-2026-grammys-honorees-recording-academy/",
+    "https://apnews.com/article/43c16a7eaa14a17b2f29c7bddf4a902e",
+    "https://kesq.com/news/national-world/cnn-national/2026/05/04/cher-fast-facts-5/"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Cher",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 197362
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://library.rockhall.com/cher",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 3769
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.televisionacademy.com/bios/cher",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 13492
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.grammy.com/news/special-merit-awards-2026-grammys-honorees-recording-academy/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 19159
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://apnews.com/article/43c16a7eaa14a17b2f29c7bddf4a902e",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 47710
+      },
+      {
+        "sourceId": "s6",
+        "url": "https://kesq.com/news/national-world/cnn-national/2026/05/04/cher-fast-facts-5/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 44291
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Cher_in_2019_cropped.jpg",
+    "sha256": "e6f84b78f2ab125957f74ce5f25992389752552689a98f7afd97dfa48dc3e47a",
+    "author": "Raph_PH",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Cher performing in London during her Here We Go Again Tour in October 2019.",
+    "assetPath": "public/assets/portraits/cher.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "3f92226793955cd52bd5321feb200d3f069acf500f502bf587359666c8695856",
+    "englishTextSha256": "7c0fb01e6c1d54e03e01426adba133b49c79ed5f65762103cc71fdde49be5fb5",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "5a288652dd3af5c337f00cfde2b90fc44553f61755608cb987a3a4e0a820f98b",
+      "fr": "8b23b771da51ae63f799421f6ac82c2b1db167f87d6638c5de25550f5b16f76a",
+      "ar": "89e2dafe004beeecb5c90630f2ae723ac511a7d6753441467d6eccbe2d8c7620",
+      "de": "8d9ff4021759354415a8722dd6d35119dddde7a6f5ad1bc8139b2ee5d17b1cd5",
+      "ja": "e3acdcc5c8763f5fcdbb0d2fad2a5ce2a6937838900f7727815eadaaa910a545",
+      "es": "efa302d0fb32c53f71954aaa85c69fd21ca138ba9fad3826c8f3a7d04ff94036",
+      "ko": "6fb7deb0b673df17db46ef48ea6626271c33f62448a5cc4eb8945aff8849b2dc"
+    }
+  }
+}

@@ -35,7 +35,7 @@ for(const file of files) {
   // Rating reasons use the same strict translation contract as biography prose.
   for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt']) assert.equal(typeof p[key],'string',`${p.id}: missing ${key}`);
   assert.match(p.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
-  const earliestBirthYear=birthYearValues(p)[0];
+  const earliestBirthYear=birthYearValues(p)[0]??Number.NEGATIVE_INFINITY;
   if(lifeStatus(p)==='deceased') { assert.match(p.death,datePattern); assert(yearOf(p.death)>=earliestBirthYear); }
   for(const group of ['domains','eras','regions']) {
     assert(Array.isArray(p[group])&&p[group].length>0,`${p.id}: empty ${group}`);

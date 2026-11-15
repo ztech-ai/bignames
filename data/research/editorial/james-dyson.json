@@ -1,0 +1,88 @@
+{
+  "id": "james-dyson",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "The dated September 2026 interview and Paris product presentation describe his personal participation.",
+  "lifeStatusEvidenceURL": "https://www.20minutes.fr/high-tech/4242587-20260906-james-dyson-crois-ingenieurs-scientifiques-peuvent-resoudre-tous-problemes-monde",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/James_Dyson",
+      "https://www.dyson.com/james-dyson",
+      "https://www.rte.ie/news/business/2019/1011/1082512-dyson-electric-car/",
+      "https://www.20minutes.fr/high-tech/4242587-20260906-james-dyson-crois-ingenieurs-scientifiques-peuvent-resoudre-tous-problemes-monde"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Product/team innovations not attributed solely to founder. Cancelled electric car retained; quoted commercial rationale does not imply technical completion or market launch. Design attendance not recast as an invented degree.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://www.rte.ie/news/business/2019/1011/1082512-dyson-electric-car/",
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "accessNotes": "RTÉ’s Reuters-republished car-cancellation report returned HTTP 403 on the CLI refresh; the cancellation and commercial rationale are also documented by Dyson’s own biography and independent reporting already reviewed."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named james-dyson panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sir_James_Dyson_CBE_FREng_FRS.jpg",
+    "sha256": "873f951b4b7f9d5e1ab01753166302bd23ee992dc943ba1729fa180d27ca03ca",
+    "author": "The Royal Society",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "caption": "Dyson is a renowned inventor, entrepreneur, philanthropist and supporter of science and engineering. He has espoused developments in science and engineering to improve capital goods and everyday products. He holds 1,138 patents, funds 50 scientific research projects at UK universities and conducts further significant R&D at his own facility which he plans to double over the next two years. He has been an outspoken advocate of science and engineering.\nThe James Dyson Foundation is dedicated to inspiring young people in science and engineering by offering resources and bursaries to schools, to university students and to post graduate researchers. \n This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.Attribution: The Royal Society\nYou are free:\nto share – to copy, distribute and transmit the work\nto remix – to adapt the work\nUnder the following conditions:\nattribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nshare alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/3.0CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue\n \n\n.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/james-dyson.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "79daf98f2a27b53988f5fda1147d54e950a778c1212b86a638b6a1029bfd96e9",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "79daf98f2a27b53988f5fda1147d54e950a778c1212b86a638b6a1029bfd96e9"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "7bda024fae5d570bbfc26881d4232cb75049572d0631d3090c37dac8fb3a1669"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "294e6cb1ec2aefd2a03c5d2fb0cc754567aed1de8c20cc6cf61c1c31ae0baa61"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "98ff62f69df56f833ff6800a1b4b610d514eaf3775691ba1fcd5b15286dd17f6"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "9c072f1b359746a8a1af937f565f81dde36494cf9e98e10fc87889494321a7f1"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "78c7439c6fbccfaaa75eb0532148c45fb9a14b2b31a35bf2befc11dac901d400"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "53606915b6ab70e6d08275a535ec5943fb3737895a62117bce388cd01a6075ec"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Product/team innovations not attributed solely to founder. Cancelled electric car retained; quoted commercial rationale does not imply technical completion or market launch. Design attendance not recast as an invented degree.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "Read back Chinese/English and all six targets. Removed process commentary from Goodfellow’s birth field where applicable; reviewed specified numeric-spacing changes as typography only, then re-saved targets against the final source versions.",
+    "Commons file body explicitly credits The Royal Society under CC BY-SA 3.0; corrected the unreviewed cache’s mistaken 4.0 license and uploader credit. Original bytes unchanged.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

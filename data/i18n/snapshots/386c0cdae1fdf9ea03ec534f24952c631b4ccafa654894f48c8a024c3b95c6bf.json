@@ -1,0 +1,198 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "386c0cdae1fdf9ea03ec534f24952c631b4ccafa654894f48c8a024c3b95c6bf",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "bruce-schneier",
+    "name": "布鲁斯·施奈尔",
+    "enName": "Bruce Schneier",
+    "aliases": [],
+    "birth": "1963-01-15",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology",
+      "politics"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "密码学",
+      "数字安全"
+    ],
+    "role": "密码学研究者 · 公共利益技术评论者",
+    "summary": "施奈尔以Blowfish密码算法、共同设计的Twofish及密码学著作进入公众视野，此后把研究扩展到组织安全、隐私、监控和技术权力。他的工作同时涉及算法设计、企业安全与公共政策，通过书籍、通信及公开演讲解释数字风险。近年与内森·桑德斯共同讨论人工智能如何改变民主与治理。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s4",
+          "s5"
+        ],
+        "title": "密码算法与工程传播",
+        "text": "设计Blowfish，并与合作者设计Twofish；Twofish进入AES竞赛决赛。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "title": "数字风险的公共讨论",
+        "text": "通过著作与评论分析隐私、监控、安全制度和人工智能治理。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生地",
+        "value": "美国纽约市。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "罗切斯特大学物理学本科；美利坚大学计算机科学硕士。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2026-08-07",
+        "sourceIds": [
+          "s6"
+        ],
+        "title": "发表DEF CON 34演讲",
+        "text": "在拉斯维加斯大会演讲，相关安全分析随后于11月发表。"
+      },
+      {
+        "id": "t2",
+        "date": "2025-10-21",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "合著Rewiring Democracy",
+        "text": "与内森·桑德斯出版新书，分析人工智能对政治、政府和公民参与的影响。"
+      },
+      {
+        "id": "t3",
+        "date": "2023",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "出版A Hacker’s Mind",
+        "text": "将破解规则的思路扩展到社会制度与权力运作。"
+      },
+      {
+        "id": "t4",
+        "date": "2015",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "出版Data and Goliath",
+        "text": "讨论政府及企业的数据收集、监控和隐私问题。"
+      },
+      {
+        "id": "t5",
+        "date": "1998",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "共同提出Twofish",
+        "text": "与研究团队发表分组密码Twofish，并提交AES遴选。"
+      },
+      {
+        "id": "t6",
+        "date": "1996",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "出版密码学著作第二版",
+        "text": "Applied Cryptography第二版系统介绍算法、协议和实现。"
+      },
+      {
+        "id": "t7",
+        "date": "1993",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "设计Blowfish",
+        "text": "提出Blowfish分组密码，供开放使用和研究。"
+      },
+      {
+        "id": "t8",
+        "date": "1984",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "完成物理本科学习",
+        "text": "取得罗切斯特大学物理学学位，之后转向计算机科学。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bruce Schneier",
+        "publisher": "Harvard Berkman Klein Center",
+        "url": "https://cyber.harvard.edu/people/bschneier"
+      },
+      {
+        "id": "s2",
+        "title": "Books by Bruce Schneier",
+        "publisher": "Schneier on Security",
+        "url": "https://www.schneier.com/books/"
+      },
+      {
+        "id": "s3",
+        "title": "Rewiring Democracy",
+        "publisher": "MIT Press",
+        "url": "https://mitpress.mit.edu/9780262049948/rewiring-democracy/"
+      },
+      {
+        "id": "s4",
+        "title": "The Blowfish Encryption Algorithm",
+        "publisher": "Schneier on Security",
+        "url": "https://www.schneier.com/academic/blowfish/"
+      },
+      {
+        "id": "s5",
+        "title": "Twofish",
+        "publisher": "Schneier on Security",
+        "url": "https://www.schneier.com/academic/twofish/"
+      },
+      {
+        "id": "s6",
+        "title": "Essays archive:2026 DEF CON 34 address",
+        "publisher": "Schneier on Security",
+        "url": "https://www.schneier.com/essays/"
+      },
+      {
+        "id": "s7",
+        "title": "Bruce Schneier",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Schneier"
+      },
+      {
+        "id": "s8",
+        "title": "Twofish Heads to Washington",
+        "publisher": "Wired",
+        "url": "https://www.wired.com/1998/06/twofish-heads-to-washington"
+      }
+    ],
+    "verifiedAt": "2026-11-15",
+    "coverageNote": "选录截至2026年11月13日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "从事密码学和安全技术研究，通过著作与公共讨论推动信息安全和数字社会风险认知。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

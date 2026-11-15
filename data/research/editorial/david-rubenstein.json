@@ -1,0 +1,88 @@
+{
+  "id": "david-rubenstein",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Stanford’s interview published on 13 August 2026 and the 2026 Library of Congress festival author record identify current personal activity.",
+  "lifeStatusEvidenceURL": "https://www.gsb.stanford.edu/insights/david-rubenstein-leading-parade",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/David_Rubenstein",
+      "https://www.carlyle.com/about-carlyle/team/david-m-rubenstein",
+      "https://www.davidrubenstein.com/about/",
+      "https://blogs.loc.gov/loc/2025/01/david-rubenstein-chair-of-the-librarys-madison-council-awarded-presidential-medal-of-honor/",
+      "https://www.loc.gov/events/2026-national-book-festival/authors-and-speakers/item/no2009083600/david-rubenstein/",
+      "https://www.gsb.stanford.edu/insights/david-rubenstein-leading-parade"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Carlylecofounder/cochairnotcurrentsoleCEO; Oriolesprincipalownershipnotsole100%ownership. MagnaCarta1297copyisnotthe1215original. LibraryblogURLmislabelsmedalofhonor,butpagebodyproperlyMedalofFreedom.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://www.loc.gov/events/2026-national-book-festival/authors-and-speakers/item/no2009083600/david-rubenstein/",
+        "status": "HTTP Error 503: Service Unavailable"
+      }
+    ],
+    "accessNotes": "The direct 2026 Library of Congress festival page returned HTTP 503 on final CLI refresh; its indexed author listing was checked alongside the opened dated Stanford interview. The 2025 Library blog URL says medal-of-honor, but its body correctly describes the Presidential Medal of Freedom."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named david-rubenstein panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:David_Rubenstein_Opening_Day_Press_Conference_(53617344639).jpg",
+    "sha256": "f0120dbeab5e69a5cabc1511a7bebd64ee39b78d69dba5b4f021e6a87297b43b",
+    "author": "Maryland GovPics",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Governor Moore, and Lt. Governor Aruna Miller update the public regarding the Francis Scott Key Bridge Tragedy by Joe Andrucyk at 333 W Camden St, Baltimore MD",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/david-rubenstein.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "50ca689626f7731a795d0742d0ec5d5d6fe348cfb94da8ba3d62af04d5e4162c",
+    "locales": {
+      "en": {
+        "fields": 34,
+        "textSha256": "50ca689626f7731a795d0742d0ec5d5d6fe348cfb94da8ba3d62af04d5e4162c"
+      },
+      "fr": {
+        "fields": 34,
+        "textSha256": "1497f0b725896da4c3affbf9e8800bc4ed8a7a2debe45821f38bf497d3f65649"
+      },
+      "ar": {
+        "fields": 34,
+        "textSha256": "d6f8813e32ee5bd5a6327fc87054c0edca25c341df31db711e0302f395948f57"
+      },
+      "de": {
+        "fields": 34,
+        "textSha256": "eb26f19a72cd8d7e1653fdfda7b0fb904efd59db2b2c51d8fcb88865aa4c438f"
+      },
+      "ja": {
+        "fields": 34,
+        "textSha256": "3de4091ca917ea780140271a3a0d173e9a78b0354259d897d48f9773dc91d6cb"
+      },
+      "es": {
+        "fields": 34,
+        "textSha256": "b0060f2fc045bb98f2d41c7381941afe93f11271ac8b3efff54117838552f703"
+      },
+      "ko": {
+        "fields": 34,
+        "textSha256": "abb46dd3d06e30da83e5fd2a5d72273b8448530e1dd8202a276f6f6a5ef2197f"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Carlylecofounder/cochairnotcurrentsoleCEO; Oriolesprincipalownershipnotsole100%ownership. MagnaCarta1297copyisnotthe1215original. LibraryblogURLmislabelsmedalofhonor,butpagebodyproperlyMedalofFreedom.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

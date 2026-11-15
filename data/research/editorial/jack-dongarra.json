@@ -1,0 +1,88 @@
+{
+  "id": "jack-dongarra",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "Named laureate speaker at the 2026 Global Young Scientists Summit; the current Tennessee faculty page identifies him as emeritus.",
+  "lifeStatusEvidenceURL": "https://gyss.nrf.gov.sg/gyss-2026/laureates/jack-dongarra/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Jack_Dongarra",
+      "https://eecs.utk.edu/people/jack-dongarra/",
+      "https://awards.acm.org/about/2021-turing",
+      "https://www.top500.org/project/authors/jack-dongarra/",
+      "https://gyss.nrf.gov.sg/gyss-2026/laureates/jack-dongarra/"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Turing award year2021 and announcement2022 distinguished. Tennessee page contains contradictory1972/1973 master’s rows; narrative corroborated by Illinois Tech and UNM favors1973. Research/software and TOP500 contributions attributed collaboratively.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://awards.acm.org/about/2021-turing",
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "accessNotes": "ACM’s direct Turing page returned HTTP 403; its indexed award announcement and Tennessee, TOP500 and Singapore institutional biographies were used together. This audit does not claim full direct ACM page access."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named jack-dongarra panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jack-dongarra-2022.jpg",
+    "sha256": "28bce47079321be172b9c642c47bdb318ccc72b6135ec11ba2896c43008417d1",
+    "author": "ICLTSG",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Jack Dongarra in 2022",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/jack-dongarra.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "cbfbb26a98a9959feaa91b6633c827a8a141c0a8f51ef119a8b04c6ec71aa2ee",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "cbfbb26a98a9959feaa91b6633c827a8a141c0a8f51ef119a8b04c6ec71aa2ee"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "6a4f05938dffdcc8f1f30439bb2a90abcd892bd736927681d6f79ee23d49ed4f"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "0db5b1df2f15ea5da5bad07f2e220f538e016a1ad5696e205b5b7c07eae82a8f"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "b8423844f27154ffa8969688c278c782124d5afd525fe0b59b58aa6498b79af6"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "ff17f4499293355346850b91729fa582945350481b35d9027e420dd9343a86e7"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "70f0df78f1adb33895b062eb61757c866a576d7f71e0b78db99a8b56ea84200d"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "b06dbaa9c02f8bee5717adf72cb85c61a671407391e9266dc51fb616209176b5"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Turing award year2021 and announcement2022 distinguished. Tennessee page contains contradictory1972/1973 master’s rows; narrative corroborated by Illinois Tech and UNM favors1973. Research/software and TOP500 contributions attributed collaboratively.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "Read back Chinese/English and all six targets. Removed process commentary from Goodfellow’s birth field where applicable; reviewed specified numeric-spacing changes as typography only, then re-saved targets against the final source versions.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

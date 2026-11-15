@@ -1,0 +1,109 @@
+{
+  "id": "bruno-mars",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Atlantic’s March8,2026 release statement and contemporary album records confirm active2026 recording and promotion.",
+  "lifeStatusEvidenceURL": "https://music.apple.com/us/album/the-romantic/1866732792",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Atlantic’s March8,2026 release statement and contemporary album records confirm active2026 recording and promotion.",
+    "url": "https://music.apple.com/us/album/the-romantic/1866732792"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Bruno_Mars",
+    "https://www.grammy.com/artists/bruno-mars/5082/",
+    "https://www.biography.com/musicians/bruno-mars",
+    "https://music.apple.com/us/album/the-romantic/1866732792",
+    "https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2026-03/Bruno%20Mars%20-%20The%20Romantic%20Album%20%231%20PR%20-%203.8.26.pdf"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Mars",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 212332
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.grammy.com/artists/bruno-mars/5082/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 9072
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.biography.com/musicians/bruno-mars",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 16687
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://music.apple.com/us/album/the-romantic/1866732792",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 8025
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2026-03/Bruno%20Mars%20-%20The%20Romantic%20Album%20%231%20PR%20-%203.8.26.pdf",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 861279
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:BrunoMars24KMagicWorldTourLive_(cropped).jpg",
+    "sha256": "ff800296cf6cf2011999ea34107654dacb85609f4c617b8040beba52a8f55b0b",
+    "author": "slgckgc",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "This is a photo of American entertainer Bruno Mars performing live during his 24K Magic World Tour",
+    "assetPath": "public/assets/portraits/bruno-mars.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "7404bc92d85009ceca3367575bff6190d1b98de3e65032e502410c5a431dc335",
+    "englishTextSha256": "d8d3e6b583d1c6484e631e64ffda6867e8dc18473b9e312cb988f0a97ca1f051",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "2c9c453212cff67ba33b74e125dc5495a8bded0f6cd067cd48df4aab54c62dcb",
+      "fr": "c9b980bed7ff5cdf44480db877b95f4d3ddeb56fc6d8a90d12073cd658b910e7",
+      "ar": "f0c53f40a2282154be36dc3c60d822f031d27b089d7fb3fdbf79d9e4f1f014c7",
+      "de": "ea0ea459949b801f2d089e6f2e367c0295e4043a338403b2363c1e80e9c1ff63",
+      "ja": "b8b90d354292d9a69e0bb3700075520e4d5f8afacc4e07ebeb12a227a5092bac",
+      "es": "1eec73be101b0c27613747ae934cfbd92abc19425c7bbcb40897bc4a82c26f03",
+      "ko": "33b05c1a45f3271250d1f965b893033e412d8f078ed25f952a47625b753d9544"
+    }
+  }
+}

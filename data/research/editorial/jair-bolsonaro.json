@@ -1,0 +1,117 @@
+{
+  "id": "jair-bolsonaro",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Reuters October 6, 2026 describes his continuing house arrest while serving the coup-plot sentence; this concerns Jair, not his son Flavio.",
+  "lifeStatusEvidenceURL": "https://www.investing.com/news/world-news/brazil-expresident-bolsonaro-wins-big-without-his-name-on-the-ballot-4933482",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Reuters October 6, 2026 describes his continuing house arrest while serving the coup-plot sentence; this concerns Jair, not his son Flavio.",
+    "url": "https://www.investing.com/news/world-news/brazil-expresident-bolsonaro-wins-big-without-his-name-on-the-ballot-4933482"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+    "https://www.camara.leg.br/deputados/74847/biografia",
+    "https://presidentes.an.gov.br/index.php/centro-de-referencia-de-acervos-presidenciais/assuntos/biografias/199-jair-messias-bolsonaro",
+    "https://www.investing.com/news/economy-news/brazil-supreme-court-justice-carmen-lucia-votes-in-bolsonaro-trial-could-secure-majority-4235881",
+    "https://www.investing.com/news/economy-news/brazil-court-places-bolsonaro-under-house-arrest-on-health-grounds-4578271",
+    "https://www.investing.com/news/world-news/brazil-expresident-bolsonaro-wins-big-without-his-name-on-the-ballot-4933482"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. National Archive source returned only a short page shell; parliamentary biography and readable Reuters reporting support chronology and the conviction/health-related house-arrest distinction.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 185811
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.camara.leg.br/deputados/74847/biografia",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 10541
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://presidentes.an.gov.br/index.php/centro-de-referencia-de-acervos-presidenciais/assuntos/biografias/199-jair-messias-bolsonaro",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 309
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.investing.com/news/economy-news/brazil-supreme-court-justice-carmen-lucia-votes-in-bolsonaro-trial-could-secure-majority-4235881",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 20122
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://www.investing.com/news/economy-news/brazil-court-places-bolsonaro-under-house-arrest-on-health-grounds-4578271",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 15509
+      },
+      {
+        "sourceId": "s6",
+        "url": "https://www.investing.com/news/world-news/brazil-expresident-bolsonaro-wins-big-without-his-name-on-the-ballot-4933482",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 16190
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Presidente_Jair_Messias_Bolsonaro.jpg",
+    "sha256": "45a1606d8a03641b0d9d69a4f9c331b43ef8ba5e57e6018c66e7fef1d8454ea8",
+    "author": "US Embassy Brasília",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "The U.S. Secretary of State Michael Pompeo arrives at Planalto Palace accompanied by his wife, Mrs. Pompeo, to participate in President Jair Bolsonaro's inauguration ceremony. (Photo: US Embassy).",
+    "assetPath": "public/assets/portraits/jair-bolsonaro.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "fe252f45f86b824df4d78c520530ff5929f62754914eb58eea8c4285450fb900",
+    "englishTextSha256": "049f440486dc4f9d0f38a4095275a477bc3b2841d0934a188382706073f60a2f",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "10dbea43f81f4b0484d8172ef7bbd2f76b5969527111ef5d910c1a3eb0ce9550",
+      "fr": "04565c94bebec3beadef3df521e6664f711da9a914a6bfcebb421dc56b09c2a9",
+      "ar": "6c0267437f597e9421c6cce9df07b2b3bb7d778a7b94bea71abbd00e5a3ca29c",
+      "de": "6fa529d883df968a49c5b45db51b2cc1a486ea4b90eac4c58e6df153a4add95a",
+      "ja": "bfc159c1905be5391af845cb8feba7e9c966e345ae8bf180b620392d4260c97e",
+      "es": "deddd61637d8ef13293607d161893a24293500cb6a66d9e2171aaf96ac7aebac",
+      "ko": "c5e4679a1a45869dd9d8bc38b3fe90ad3444e5943764c6783649323ed041731c"
+    }
+  }
+}

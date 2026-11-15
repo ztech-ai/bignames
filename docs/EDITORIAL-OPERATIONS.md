@@ -20,7 +20,7 @@
 | `data/i18n/snapshots/` | 增量翻译使用的按内容哈希索引的底本快照 |
 | `dist/` | 由模板生成的静态网站；不直接在这里编辑人物内容 |
 
-目前425份正式档案提供8语言页面，千人集合401人完成、599人待完整采编；1000份证据/事实草稿是独立研究层。本批按最高剩余四星及领域候选容量选择100人，325份旧基础档案不变。提交和Pages发布已获用户授权，由main分支Actions执行。奥特加既有姓名占位例外保留，本批没有新增占位。
+目前600份正式档案提供8语言页面，千人集合576人完成、424人待完整采编；1000份证据/事实草稿仍是独立研究层。本批按最高剩余四星和领域候选容量选择175人，425份旧基础JSON保持原SHA-256。提交和Pages发布已获用户授权，由main分支Actions执行。奥特加既有姓名占位例外保留，本批没有新增占位。
 
 ## 常用流程
 
@@ -159,7 +159,7 @@ ZIP按固定顺序、固定时间戳和权限生成；相同输入与相同Pytho
 交付批次还可运行：
 
 ```sh
-node scripts/check-batch.mjs --batch data/collections/influence-100c-2026-11.json --report data/research/influence-100c-report.json
+node scripts/check-batch.mjs --batch data/collections/influence-175-2026-11.json --report data/research/influence-175-report.json
 ```
 
 它检查基线人物SHA-256未变、评级对象原样继承、领域均衡、资料最低覆盖、译文版本/审阅字段、肖像与已审字节哈希，并生成简短机器报告。它不能认证每条事实、照片身份或语言自然度。旧批次清单与报告是交付时点的历史记录，不要求在后续新增或获准更新存量后继续满足旧总人数。
@@ -179,7 +179,7 @@ node scripts/check-batch.mjs --batch data/collections/influence-100c-2026-11.jso
 当一批人物全部冻结后执行：
 
 ```sh
-npm run content:report -- --batch data/collections/influence-100c-2026-11.json
+npm run content:report -- --batch data/collections/influence-175-2026-11.json
 ```
 
 脚本先运行批次核验；失败不更新输出。通过后写入批次报告、`edition-report.json`、本批CSV和`docs/IMAGE-CREDITS.md`。完整档案、来源和研究草稿仍分开计数；程序不把计数或自报AI审阅记录当成事实认证，不修改人物、评级或译文。该步骤在完整构建/测试/打包之前完成。

@@ -1,0 +1,48 @@
+{
+  "id": "carver-mead",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biographies, linked reporting and source captions; no biometric identity assertion.",
+  "lifeStatusEvidence": "Current Caltech biography explicitly states Mead lives on campus and continues regular laboratory research on low-temperature superconductivity, not merely absence of death data.",
+  "lifeStatusEvidenceURL": "https://carvermead.caltech.edu/biography",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://carvermead.caltech.edu/biography",
+      "https://www.kyotoprize.org/en/laureates/carver_mead/",
+      "https://www.calyptus.caltech.edu/mead/research.html",
+      "https://www.invent.org/inductees/carver-mead",
+      "https://www.wired.com/2003/03/why-analog-is-cool-again",
+      "https://authors.library.caltech.edu/records/5trtx-m1e15"
+    ],
+    "scope": "AI compared primary institutional material, original work/announcements and linked independent reporting; cached claims were leads, not accepted without review.",
+    "limits": "Current institutional biography and primary prize/research records reviewed alongside indexed independent reporting. VLSI textbook catalog year1980 follows Caltech library; earlier drafts1977–79 are distinct. No new important2026 milestone established."
+  },
+  "portraitReview": {
+    "sourceLicenseReview": {
+      "reviewedAt": "2026-11-15",
+      "method": "Fetched actual Commons source description and reviewed named caption, author, license and permission notices; relevant photographer/attribution details retained.",
+      "limits": "Rights review relies on published source permission; no private copyright contracts or human legal certification."
+    },
+    "visualReview": "Inspected .qa/add175/a/portraits.jpg: real color photograph, identity and appearance consistent with named institutional/source caption. Original color bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Carver_Mead_at_CHM_Apr-2005.jpg",
+    "sha256": "22a1db5fa59a6c11ede4e16c9a4f14da5395c83545d8d35d3c0a639e38cd3dad",
+    "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "author": "Dick Lyon",
+    "color": "color-preserved",
+    "caption": "Carver Mead addressing attendees of George Gilder's launch of his book The Silicon Eye, at the Computer History Museum, Mountain View, CA, April 2005."
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and complete English intermediary frozen before six independently composed AI translations; all displayed fields reviewed for semantic alignment.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact contemporary-1000 influence object retained.",
+  "coverageEnd": "2022"
+}

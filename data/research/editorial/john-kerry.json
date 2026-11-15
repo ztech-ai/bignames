@@ -1,0 +1,101 @@
+{
+  "id": "john-kerry",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "Penn’s current2026 profile identifies his continuing climate-policy role and distinguishes the envoy term ended March6,2024 from subsequent advocacy.",
+  "lifeStatusEvidenceURL": "https://kleinmanenergy.upenn.edu/people/john-kerry/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "Penn’s current2026 profile identifies his continuing climate-policy role and distinguishes the envoy term ended March6,2024 from subsequent advocacy.",
+    "url": "https://kleinmanenergy.upenn.edu/people/john-kerry/"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/John_Kerry",
+    "https://2021-2025.state.gov/people/john-kerry/",
+    "https://history.state.gov/departmenthistory/people/kerry-john-forbes",
+    "https://kleinmanenergy.upenn.edu/people/john-kerry/"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Archived State biography returned only a short retrieval shell; State historian biography, indexed archived terms and current Penn profile were separately checked. Enlistment is shortly before Yale graduation, not after.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/John_Kerry",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 158801
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://2021-2025.state.gov/people/john-kerry/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 151
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://history.state.gov/departmenthistory/people/kerry-john-forbes",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 7659
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://kleinmanenergy.upenn.edu/people/john-kerry/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 3773
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:John_F._Kerry.jpg",
+    "sha256": "3d03d8c1333329af797ebfe3b744af0b1283c3d015bd55abcae979917589f6fe",
+    "author": "United States Congress",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Headshot of John Kerry with the U.S. flag in the background.",
+    "assetPath": "public/assets/portraits/john-kerry.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "88832cb3da20bc5a133043ebf515176fd377d2bbcb176c5428cd5f82e8378b06",
+    "englishTextSha256": "2d841e465f9c65b974a70c3db730b09ef43e658f42f1c7916e7eb4358b3f927a",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "83e9957f9fabd24df58ca8acf1d9ed41ecf687915d96d97e00b363144176f395",
+      "fr": "9bbc86004b4f3cab556692e00f078283fb9fde9a17aa9011170424f4ec943c4a",
+      "ar": "9f8747957a515fcc0c2a65896f783175e469d4c21c1ec847fafc43d15ce3f7a5",
+      "de": "a9661ed3186ff796ee189cd214ac65dfdfffc9b10acedb26fd6a13f18de72113",
+      "ja": "299525f96d061d2a0deaffab0cf3ef0dc9b472b3add6b8dc6cab92d674da1967",
+      "es": "19e89286b31cbf7136ec6995fa90d1cbd7656e57d54115f9b291e2b17825c68f",
+      "ko": "9bc0cf751403a9f4c2b290d2ec42547591c9fc37ba92cf045010b21a8bb23212"
+    }
+  }
+}

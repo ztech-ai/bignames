@@ -1,0 +1,90 @@
+{
+  "id": "sultan-al-jaber",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "WAM and The National report his actual opening address at ADIPEC on 2 November 2026 and identify him as UAE industry minister and ADNOC managing director/group CEO. This dated participation strengthens current-role evidence beyond inaccessible institutional biography pages.",
+  "lifeStatusEvidenceURL": "https://www.wam.ae/en/article/c31xcg9-global-energy-security-must-rebuilt-for-new-era",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Sultan_Al_Jaber",
+      "https://adnoc.ae/leadership/management/dr-sultan-ahmed-al-jaber",
+      "https://www.cop28.com/en/cop28-presidency",
+      "https://unfccc.int/news/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "ADNOCdirectpage403onwebopen; indexedprimarytextandministry/COP28bio used. Masdar2025solarstorageprojectannouncednotcompleted. Criticismofconflictingrolesincludedwithoutassertingpersonalcriminalmisconduct; COP28textnotblanketbindingfossilfuelban.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://adnoc.ae/leadership/management/dr-sultan-ahmed-al-jaber",
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "accessNotes": "ADNOC biography returned HTTP 403 and ministry biography HTTP 503 on direct refresh; indexed institutional text and COP28 sources were reviewed, and fresh opened WAM/The National reports on the 2 November 2026 address corroborate current roles."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named sultan-al-jaber panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sultan_Al_Jaber_-_2023_(cropped).jpg",
+    "sha256": "beafef34aceb2c1d2785814f26bd0c5edac06651a72f9ba529dcb3740473dac1",
+    "author": "Arctic Circle",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Image of Dr. Sultan Al Jaber",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/sultan-al-jaber.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "22d3c0dd485474bfa806846abd1ba9bdb3b00a994c28d999ac05f3c329678149",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "22d3c0dd485474bfa806846abd1ba9bdb3b00a994c28d999ac05f3c329678149"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "6e17127c44daf06f266c41f173b2aed488ee6483be86eba47c51bd63c3cf73da"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "5b4a27256d39979fb71378dd4574c03b6718e2c4c671727a6c7cbfd38023e0fd"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "41f9fc1764945b3e274d37156eab6d30ad5b95c52048e10f1ef73b2306e32da4"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "417aa50c76463f0811da272b2dc57838dd2ba1ac9dc9f1acc5842d28514353eb"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "5b472787afacd73a2949edbc50ac369ba4b3bc15681b610c57335559748c58a2"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "738340ef05b2759e68e016476d6673133ffe98caac48729ed3fa0cad4b112272"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "ADNOCdirectpage403onwebopen; indexedprimarytextandministry/COP28bio used. Masdar2025solarstorageprojectannouncednotcompleted. Criticismofconflictingrolesincludedwithoutassertingpersonalcriminalmisconduct; COP28textnotblanketbindingfossilfuelban.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ],
+  "lifeStatusEvidenceURLs": [
+    "https://www.wam.ae/en/article/c31xcg9-global-energy-security-must-rebuilt-for-new-era",
+    "https://www.thenationalnews.com/business/energy/2026/11/02/dr-sultan-al-jaber-urges-energy-security-overhaul-as-nearly-billion-barrels-drawn-from-oil-markets/"
+  ]
+}

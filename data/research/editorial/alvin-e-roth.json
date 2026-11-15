@@ -1,0 +1,111 @@
+{
+  "id": "alvin-e-roth",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "A named first-person Financial Times interview was indexed as published on 15 May 2026; Stanford’s current profile and the publisher’s May 2026 book record corroborate continuing work. Direct FT access was denied, so no claim of unrestricted full-article access is made.",
+  "lifeStatusEvidenceURL": "https://www.ft.com/content/25d74738-a142-4fa8-bc1c-681e982e96a9",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Alvin_E._Roth",
+      "https://www.nobelprize.org/prizes/economic-sciences/2012/roth/facts/",
+      "https://www.nobelprize.org/prizes/economic-sciences/2012/roth/biographical/",
+      "https://www.hachettebookgroup.com/titles/alvin-roth/moral-economics/9781541702011/",
+      "https://economics.stanford.edu/people/alvin-roth",
+      "https://www.ft.com/content/25d74738-a142-4fa8-bc1c-681e982e96a9"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "Stable matching framework credited toShapley/Gale andlaterimplementationteam; kidneyexchange isnotorgan-saleclaim. PrizeandStanfordmoveboth2012, exactsameyearorderdoesnotinventday.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://www.ft.com/content/25d74738-a142-4fa8-bc1c-681e982e96a9",
+        "status": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named alvin-e-roth panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Alvin_E._Roth_3_2012.jpg",
+    "sha256": "44417fbde7d07dc018e3159346a42cfd14da90ac8b516eba50ad763d7e96b8de",
+    "author": "Bengt Nyman",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Alvin E. Roth, Nobel Prize winner 2012 in economics. Sveriges Riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/alvin-e-roth.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "2964629c1a524b812ec19971919f498efd389321d78284978cd46e65f41f0579",
+    "locales": {
+      "en": {
+        "fields": 32,
+        "textSha256": "2964629c1a524b812ec19971919f498efd389321d78284978cd46e65f41f0579"
+      },
+      "fr": {
+        "fields": 32,
+        "textSha256": "aa61a7b19ed939fbe74fb250302f9bae74307a002a81ad9095156ae10da70d0e"
+      },
+      "ar": {
+        "fields": 32,
+        "textSha256": "8aabc7f731447ef9e9a46fa7f30855892f3350a87d7016ed76bab6ca15f416ba"
+      },
+      "de": {
+        "fields": 32,
+        "textSha256": "58ed28f48e3c29a8af2e70348d2193480d120b1585ec52be1afaf5fab9eeeb15"
+      },
+      "ja": {
+        "fields": 32,
+        "textSha256": "9bb60952758b20d9ef920d4a491f909dd79ffa79841147ea1f0fb8eb089e3463"
+      },
+      "es": {
+        "fields": 32,
+        "textSha256": "91d14be84adccbe0fe608c7052113fb4ee877a22ef3a17f322465d0776f5707a"
+      },
+      "ko": {
+        "fields": 32,
+        "textSha256": "cdb8bb65fd2f08d054bf90c5b8abd39059e4c02cf12045e156ba48a718bedfb1"
+      }
+    },
+    "delegatedReview": {
+      "reviewer": {
+        "kind": "ai",
+        "name": "OpenAI Codex integrator"
+      },
+      "reviewedAt": "2026-11-15",
+      "locales": [
+        "fr",
+        "ar",
+        "de",
+        "ja",
+        "es",
+        "ko"
+      ],
+      "scope": "Root integrator directly authored and semantically reviewed these six targets after exact Chinese/English hashes were frozen. Owner b authored Chinese/English, researched sources, inspected portraits and finalized this audit.",
+      "outputTextSha256ByLocale": {
+        "fr": "aa61a7b19ed939fbe74fb250302f9bae74307a002a81ad9095156ae10da70d0e",
+        "ar": "8aabc7f731447ef9e9a46fa7f30855892f3350a87d7016ed76bab6ca15f416ba",
+        "de": "58ed28f48e3c29a8af2e70348d2193480d120b1585ec52be1afaf5fab9eeeb15",
+        "ja": "9bb60952758b20d9ef920d4a491f909dd79ffa79841147ea1f0fb8eb089e3463",
+        "es": "91d14be84adccbe0fe608c7052113fb4ee877a22ef3a17f322465d0776f5707a",
+        "ko": "cdb8bb65fd2f08d054bf90c5b8abd39059e4c02cf12045e156ba48a718bedfb1"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "Stable matching framework credited toShapley/Gale andlaterimplementationteam; kidneyexchange isnotorgan-saleclaim. PrizeandStanfordmoveboth2012, exactsameyearorderdoesnotinventday.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results."
+  ]
+}

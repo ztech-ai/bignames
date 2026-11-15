@@ -1,0 +1,89 @@
+{
+  "id": "emma-walmsley",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional/publication biographies and the named portrait caption.",
+  "lifeStatusEvidence": "HP’s 4 November 2026 appointment announcement includes her acceptance statement and an explicit future start date of 4 January 2027.",
+  "lifeStatusEvidenceURL": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-appoints-emma-walmsley-chief-executive-officer.html",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Emma_Walmsley",
+      "https://www.gsk.com/en-gb/media/press-releases/luke-miels-appointed-ceo-designate-for-gsk/",
+      "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-appoints-emma-walmsley-chief-executive-officer.html",
+      "https://news.microsoft.com/source/exec/emma-walmsley/",
+      "https://www.reuters.com/world/uk/who-is-hps-new-ceo-emma-walmsley-2026-11-04/",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-succession-plan-for-leadership-of-consumer-healthcare-business/"
+    ],
+    "method": "AI reading and cross-checking of opened institutional biographies, original publications and independent reporting, with explicitly identified indexed text where direct access was denied. Research drafts were treated as leads, not publication-ready facts.",
+    "limits": "GSKCEOended31Dec2025,employeenoticeperiod30Sept2026different. HPappointmentfuture notalreadyCEO; GSKlegacyinfluence preservedasoriginalpast-careerassessment. Microsoft2019yearonly avoids election/start-month discrepancies.",
+    "checkedAt": "2026-11-15",
+    "accessLimitations": [
+      {
+        "url": "https://www.reuters.com/world/uk/who-is-hps-new-ceo-emma-walmsley-2026-11-04/",
+        "status": "HTTP Error 401: Unauthorized"
+      }
+    ],
+    "accessNotes": "Reuters returned HTTP 401 on direct refresh; the appointment and future effective date are directly confirmed in the opened HP announcement and the GSK transition release."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add175/b/contact.jpg (named emma-walmsley panel) as a color photograph and compared the named Commons caption with the biographical identity. This is visual editorial assessment, not biometric identification. Delivered bytes were copied without recoloring or image conversion.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Emma_Walmsley_at_The_Francis_Crick_Institute_(cropped).jpg",
+    "sha256": "7d98a2f68fbe98409d39a31ea6225ed410545c9e80d6876da5931af1c55af1d6",
+    "author": "FlyingFoxBoi",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Emma Walmsley, CEO of GSK, speaking to Paul Nurse at The Francis Crick Institute during a discussion on the role of company culture in company strategy. May 2019.",
+    "color": "color-preserved",
+    "identityBasis": "Explicitly named source caption plus visual comparison; not biometric identification.",
+    "asset": "assets/portraits/emma-walmsley.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese canonical and full English reference authored and reviewed, then all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and semantically reviewed against the frozen Chinese/English dossier. Programmatic saving validates keys and hashes; it does not translate. No public machine translation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified",
+    "sourceTextSha256": "3fa03bd6d7d62bd099ee92d368f2d0a4af19fb515f6ccd1a15641a09a08a0cd6",
+    "locales": {
+      "en": {
+        "fields": 34,
+        "textSha256": "3fa03bd6d7d62bd099ee92d368f2d0a4af19fb515f6ccd1a15641a09a08a0cd6"
+      },
+      "fr": {
+        "fields": 34,
+        "textSha256": "60ce8580f70b25e76c4967e07c0b95045d2f7d71328f3e74efac59630b077011"
+      },
+      "ar": {
+        "fields": 34,
+        "textSha256": "2a91bb220f2dd7a4d3815ecab82d8fe76d52cbe57c529c565c38aa9e963f61a4"
+      },
+      "de": {
+        "fields": 34,
+        "textSha256": "8418dd76617ee0755e4e54a0c34008feb1a72b295ff9aee433b6aac4735e948a"
+      },
+      "ja": {
+        "fields": 34,
+        "textSha256": "34576a8cd5492795b183be1b55367d224433784b388d1df45d439b85702c95f7"
+      },
+      "es": {
+        "fields": 34,
+        "textSha256": "e7da13869d7fd5fe3d69d4c9cfdc92c0672705ab68223c612b327ef7d70156b4"
+      },
+      "ko": {
+        "fields": 34,
+        "textSha256": "a374322ee5c77900aa14d526159bcda776e2af0160301bf21e389c4c7a45a884"
+      }
+    }
+  },
+  "influenceReview": "Original collection influence object retained verbatim.",
+  "editorialNotes": [
+    "GSKCEOended31Dec2025,employeenoticeperiod30Sept2026different. HPappointmentfuture notalreadyCEO; GSKlegacyinfluence preservedasoriginalpast-careerassessment. Microsoft2019yearonly avoids election/start-month discrepancies.",
+    "English review is direct from Chinese; six targets record actual English reference hash via reviewed-translation helper.",
+    "AI editorial self-report only: no human or native-speaker certification. Selected resume milestones do not claim exhaustive news monitoring or individual credit for team results.",
+    "Final French degree-precision review on 15 November 2026 retains Oxford’s original MA abbreviation in facts.f2.value, avoiding an unsupported implication of a taught postgraduate master’s course. Independent AI scope review also confirmed the existing Chinese/English/French role, GSK departure and future HP start-date statements. Only this French field changed; the frozen Chinese and English dossiers remain unchanged."
+  ]
+}

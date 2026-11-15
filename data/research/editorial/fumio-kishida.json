@@ -1,0 +1,110 @@
+{
+  "id": "fumio-kishida",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "The Japan Art Association announcement of October20,2026 identifies him as a former prime minister and serving representative, announcing an advisory appointment for October27. It is not used to prove that later appointment took place.",
+  "lifeStatusEvidenceURL": "https://www.praemiumimperiale.org/en/news/20261020-2/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "The Japan Art Association announcement of October20,2026 identifies him as a former prime minister and serving representative, announcing an advisory appointment for October27. It is not used to prove that later appointment took place.",
+    "url": "https://www.praemiumimperiale.org/en/news/20261020-2/"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Fumio_Kishida",
+    "https://www.japan.go.jp/kizuna/_userdata/pdf/2021/winter2021/prime_minister_kishida_fumio.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/e142.htm",
+    "https://www.investing.com/news/economy-news/japan-pm-kishida-wont-run-for-reelection-at-ldp-race-kyodo-reports-3570455",
+    "https://www.praemiumimperiale.org/en/news/20261020-2/"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Two indexed former Kantei archive URLs returned404. Replaced source s2 with the opened Government of Japan Kizuna PDF, downloaded successfully; its2021 chronology supports early career only. Later policy and departure attributions use the separate biography, current House record and Reuters coverage. No human verification or native-language certification; primary promotional wording is not repeated as independent judgment.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Fumio_Kishida",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 115554
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://www.japan.go.jp/kizuna/_userdata/pdf/2021/winter2021/prime_minister_kishida_fumio.pdf",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": null,
+        "note": "Government PDF opened with web tool; delivered PDF downloaded,995772 bytes."
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/e142.htm",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 2141
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://www.investing.com/news/economy-news/japan-pm-kishida-wont-run-for-reelection-at-ldp-race-kyodo-reports-3570455",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 17911
+      },
+      {
+        "sourceId": "s5",
+        "url": "https://www.praemiumimperiale.org/en/news/20261020-2/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 4403
+      }
+    ]
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Kishida_Fumio_in_1999.jpg",
+    "sha256": "0687def5a76a4a7df20331f7abbdf53c7298f3ac94e8f6420246dbb72fe4519f",
+    "author": "内閣官房内閣広報室",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "建設次官時の岸田文雄",
+    "assetPath": "public/assets/portraits/fumio-kishida.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "cc4245d70e64f19bc0ba2b422c197036c2c7dd6a11e3e2fd2cf1548ad0ccf8d2",
+    "englishTextSha256": "eed3f6f977925be5df52f7b2a7b1918926b838fa98d92bf2c853fa9f4432eb9f",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 32,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "58d5bcdfcc5f9809823c3a64039143928d4ffd5e35940de81958af0f8ee56f37",
+      "fr": "2bd94c619ae42a7497af6b58b87179d3d40de1cbe0ad37160e823cc9daa47950",
+      "ar": "ea09b92c0d84c16a74b7633e70ffedba1730f9036705fad672b0ccbeca3df791",
+      "de": "5313a7209d872378291d8a002a172ac6173d8daf13e3c1f55f9ba341bbe799bb",
+      "ja": "f69d891844632ed1c2a8d4fd093b0b9ab04ef554e8ef9643c3d90eba69777161",
+      "es": "0d2ae742de17c55fee2ccc22f57b84305d2e995117da5268e475ad1897c5a49e",
+      "ko": "662f22119e4138d39d99658eb0c9cb0202ae7d158185de6e840b1fe796e64906"
+    }
+  }
+}

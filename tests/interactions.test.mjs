@@ -176,7 +176,7 @@ test('chronological sort handles BCE births and restoring editorial order works'
   assert.deepEqual(visiblePeople(document), originalPage);
 });
 
-test('birth sorting keeps disputed years in chronological position across pagination',t=>{
+test('birth sorting retains chronology and puts unknown dates last across pagination',t=>{
   const {document,window}=openPage(t);
   select(window,'sort','birth');
   const displayed=[];
@@ -184,9 +184,11 @@ test('birth sorting keeps disputed years in chronological position across pagina
     if(page>1)document.querySelector('#pagination [aria-label="下一页"]').click();
     displayed.push(...visiblePeople(document));
   }
-  const earliest=p=>p.birth===null?Math.min(...p.birthYears):Number(p.birth.match(/^-?\d+/)[0]);
+  const earliest=p=>p.birth===null?(Array.isArray(p.birthYears)?Math.min(...p.birthYears):Number.POSITIVE_INFINITY):Number(p.birth.match(/^-?\d+/)[0]);
   const expected=[...indexData].sort((a,b)=>earliest(a)-earliest(b)).map(p=>p.id);
   assert.deepEqual(displayed,expected);
+  const unknown=indexData.filter(p=>p.birth===null&&!p.birthYears).map(p=>p.id);
+  if(unknown.length)assert.deepEqual(displayed.slice(-unknown.length),unknown,'unknown birth dates sort last instead of becoming year zero');
 });
 
 test('keyboard shortcut focuses search and Chinese composition commits only when complete', async t => {

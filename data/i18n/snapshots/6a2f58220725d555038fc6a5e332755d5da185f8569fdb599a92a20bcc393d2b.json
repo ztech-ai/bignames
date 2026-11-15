@@ -1,0 +1,206 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "6a2f58220725d555038fc6a5e332755d5da185f8569fdb599a92a20bcc393d2b",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "jeff-dean",
+    "name": "杰夫·迪恩",
+    "enName": "Jeff Dean",
+    "aliases": [],
+    "birth": "1968-07",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology",
+      "science"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "分布式系统",
+      "机器学习基础设施"
+    ],
+    "role": "计算机科学家、Discovery Loop联合创始人兼CEO",
+    "summary": "杰夫·迪恩长期参与谷歌搜索、分布式系统和机器学习基础设施建设，与桑杰·盖马瓦特等合作推动MapReduce、Bigtable及TensorFlow，影响大规模计算与AI工程。2023年出任谷歌首席科学家，2026年离职并与三位长期合作者创办Discovery Loop，探索自动化科研实验循环。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s4",
+          "s5"
+        ],
+        "title": "大规模计算基础",
+        "text": "与盖马瓦特等合作开发MapReduce和Bigtable，让海量数据处理与分布式存储更易实现。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s1",
+          "s3",
+          "s7"
+        ],
+        "title": "从机器学习系统到科研自动化",
+        "text": "参与TensorFlow等团队工作，后创办Discovery Loop；自动化科研是新公司的目标，并非已完成的普遍能力。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生地",
+        "value": "美国夏威夷州"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "明尼苏达大学计算机科学与经济学学士；华盛顿大学计算机科学博士"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2026-08-05",
+        "sourceIds": [
+          "s1",
+          "s8"
+        ],
+        "title": "创办Discovery Loop",
+        "text": "离开谷歌，与盖马瓦特、黎国、奥里奥尔·温亚尔斯共同创办公益公司，任CEO，首先聚焦机器学习实验自动化。"
+      },
+      {
+        "id": "t2",
+        "date": "2023-04-20",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "出任谷歌首席科学家",
+        "text": "谷歌Brain与DeepMind合并之际，负责两大研究部门的AI技术方向及战略项目。"
+      },
+      {
+        "id": "t3",
+        "date": "2015-11-09",
+        "sourceIds": [
+          "s3",
+          "s7"
+        ],
+        "title": "TensorFlow开源",
+        "text": "其参与建设的机器学习系统向公众开放，促进研究者和开发者共享可运行工具。"
+      },
+      {
+        "id": "t4",
+        "date": "2006",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "发表Bigtable论文",
+        "text": "与团队介绍大规模结构化数据的分布式存储系统。"
+      },
+      {
+        "id": "t5",
+        "date": "2004",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "发表MapReduce论文",
+        "text": "与盖马瓦特提出简化集群并行数据处理的编程模型及实现。"
+      },
+      {
+        "id": "t6",
+        "date": "1999",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "加入谷歌",
+        "text": "参与搜索及早期广告系统，并逐步建设支撑公司扩张的计算基础设施。"
+      },
+      {
+        "id": "t7",
+        "date": "1996",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "取得计算机科学博士",
+        "text": "在华盛顿大学随Craig Chambers研究面向对象语言的全程序优化。"
+      },
+      {
+        "id": "t8",
+        "date": "1990",
+        "sourceIds": [
+          "s6"
+        ],
+        "title": "完成明尼苏达大学本科",
+        "text": "取得计算机科学与经济学学位，本科阶段已探索神经网络。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Announcing Discovery Loop",
+        "publisher": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/blog/announcing-discovery-loop/"
+      },
+      {
+        "id": "s2",
+        "title": "Google DeepMind and chief scientist appointment",
+        "publisher": "Google",
+        "url": "https://blog.google/technology/ai/april-ai-update/"
+      },
+      {
+        "id": "s3",
+        "title": "TensorFlow open-source announcement",
+        "publisher": "Google",
+        "url": "https://blog.google/technology/ai/tensorflow-smarter-machine-learning-for/"
+      },
+      {
+        "id": "s4",
+        "title": "Bigtable: A Distributed Storage System for Structured Data",
+        "publisher": "Google Research / OSDI",
+        "url": "https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/"
+      },
+      {
+        "id": "s5",
+        "title": "MapReduce: Simplified Data Processing on Large Clusters",
+        "publisher": "Google Research / OSDI",
+        "url": "https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/"
+      },
+      {
+        "id": "s6",
+        "title": "Jeff Dean: Google’s Unsung Hero",
+        "publisher": "University of Minnesota",
+        "url": "https://cse.umn.edu/college/feature-stories/jeff-dean-googles-unsung-hero"
+      },
+      {
+        "id": "s7",
+        "title": "Jeff Dean distinguished lecture biography",
+        "publisher": "Purdue University",
+        "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Events/DistinguishedLectures/2023-2024/dean-lecture"
+      },
+      {
+        "id": "s8",
+        "title": "Google researchers leave to launch Discovery Loop",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+      },
+      {
+        "id": "s9",
+        "title": "The Friendship That Made Google Huge",
+        "publisher": "The New Yorker",
+        "url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge"
+      }
+    ],
+    "verifiedAt": "2026-11-15",
+    "coverageNote": "选录截至2026年11月13日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与Google分布式计算和机器学习基础设施建设，推动大规模数据处理与人工智能工程。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

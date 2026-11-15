@@ -1,0 +1,102 @@
+{
+  "id": "bruce-springsteen",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biographies, source captions and independent coverage matched to the selected person.",
+  "lifeStatusEvidence": "The official2026 tour history and completed concert records corroborate current performance activity, beyond AP’s initial tour announcement.",
+  "lifeStatusEvidenceURL": "https://brucespringsteen.net/tour-history/",
+  "lifeStatusReview": {
+    "status": "living",
+    "evidence": "The official2026 tour history and completed concert records corroborate current performance activity, beyond AP’s initial tour announcement.",
+    "url": "https://brucespringsteen.net/tour-history/"
+  },
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+    "https://brucespringsteen.net/band/bruce-springsteen",
+    "https://brucespringsteen.net/tour-history/",
+    "https://apnews.com/article/db6d615d92287e1ccdea7ec3a7948cce"
+  ],
+  "sourceReview": {
+    "scope": "Original concise paraphrases of institutional biographies, source documents and independent coverage; cached claims were leads only.",
+    "limits": "Some sites provide only indexed text or block automated retrieval; access details are retained locally. Source publication dates are distinct from event dates. Selected milestones; no human or native-speaker certification. Direct retrieval metadata records access only; it does not certify source accuracy or complete page reading. The authored profile is a selection of milestones, not a comprehensive news archive.",
+    "accessChecks": [
+      {
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 192876
+      },
+      {
+        "sourceId": "s2",
+        "url": "https://brucespringsteen.net/band/bruce-springsteen",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 7908
+      },
+      {
+        "sourceId": "s3",
+        "url": "https://brucespringsteen.net/tour-history/",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 65079
+      },
+      {
+        "sourceId": "s4",
+        "url": "https://apnews.com/article/db6d615d92287e1ccdea7ec3a7948cce",
+        "checkedAt": "2026-11-15",
+        "directRetrieval": "HTTP200",
+        "extractedCharacters": 41265
+      }
+    ],
+    "typographyReview": "Source-title spaces around dates and numerals reviewed separately; no event, attribution or translation meaning changed."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bruce_Springsteen_2025.jpg",
+    "sha256": "3d57f1b34adab2bd42f2a7830ff58b33318c87383a576f6049948e9f414f586f",
+    "author": "Raph_PH",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Bruce Springsteen in 2025",
+    "assetPath": "public/assets/portraits/bruce-springsteen.jpg",
+    "color": "color-preserved",
+    "visualReview": "AI inspected the actual color portrait on .qa/add175/d/portraits.jpg against the named source caption; Boris Johnson and Gordon Brown were inspected separately from newly downloaded original files. No biometric assertion.",
+    "identityBasis": "Source caption and visual comparison with documented public identity.",
+    "checkedAt": "2026-11-15"
+  },
+  "influenceReview": "Original candidate influence object retained verbatim; no score inflation.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and faithful English frozen, followed by complete AI authoring and field-by-field semantic review in French, Arabic, German, Japanese, Spanish and Korean; no public machine translation or human/native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSha256": "344adcd33fcaf538022b77866cd6d204026c7e0582fd224a002971b47b3117cc",
+    "englishTextSha256": "cd336a4a3a4f7a1d07c5a41782efcbe7e839afdb15ffc7ae18372c34798223bf",
+    "reviewedAt": "2026-11-15",
+    "fieldCountPerLocale": 34,
+    "targetReferenceReview": "All displayed fields authored and individually read in each target locale, including rationale concepts, disputed-status language and shared award credits. Programmatic save performs validation and provenance recording only, not translation or semantic certification.",
+    "deliveredFileSha256": {
+      "en": "e7648edb82e59e4afcc9344e4c96b313a98b0306d38bcc038654f49e625e129f",
+      "fr": "043a4632819a60b04aa23f59d204707f2a7f6c4e759c1c5875ab553d5f5edb55",
+      "ar": "c54ec6ac073518d2fd48ea056eb41d6e774d2d7d20e0b17c8083316803948af6",
+      "de": "46a550bdddbc119d1c246f64a95c3bf124bb9f7fb11574ebb2ff7c14885bebec",
+      "ja": "4d30ed5b80ed25499d4ae8de14950641590ec4c23d1e41641e40d0887b5eeaf7",
+      "es": "39292141d38154a86813cb12fec45a4b3791bb83bfa4e5466e24bf519cc80cbd",
+      "ko": "bce46545b4e9a7471608a3c3178a65bf1dad1054db0f5942b62dcd3877ecf5e5"
+    }
+  }
+}
