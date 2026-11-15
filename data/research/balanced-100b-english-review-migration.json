@@ -1,0 +1,502 @@
+{
+  "status": "passed",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "scope": "Metadata-only normalization of49 direct Chinese-to-English review declarations. Full declarations retained as authorshipReview; no prose/canonical/source/English-reference-hash changes. All294 dependent six-language provenance records revalidated.",
+  "records": [
+    {
+      "id": "ajay-banga",
+      "path": "data/i18n/en/people/ajay-banga.json",
+      "oldFileSha256": "4d22efe5802864bf16df07aa2f0925193ede998df2c9ad00ef685749a59121d1",
+      "newFileSha256": "cd175b744658653579711c8928d527d97c4c283faf3c4f430ca0ebdfe43181ba",
+      "canonicalSourceHash": "1c6e24e9d86337ab64bea7dca1b6c8ed8d7a7dec8a97e53e18b99f8127f2697f",
+      "englishTextSha256": "5fd26112793c23532f6f2b18ddae910631846978bb6a6a61e854d2bcdd07bdd5",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "jane-fraser",
+      "path": "data/i18n/en/people/jane-fraser.json",
+      "oldFileSha256": "21d93b717df22fccd6a127c3cccb649ea19017f5abc58747ebe4d22c93f862d3",
+      "newFileSha256": "6d99808af55c190d3474976eaddd6df2ce28b0e2aac3457ca35b72b2a25aa42d",
+      "canonicalSourceHash": "3fc4743a0c5a30d7b620da1622610d177057f6a307fdb9a50e8046bd54eb5a92",
+      "englishTextSha256": "3148ad12c4f3a25584888ebf6d0349cbe02c9997f2d51d674cfb02394b454b74",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "ana-botin",
+      "path": "data/i18n/en/people/ana-botin.json",
+      "oldFileSha256": "0b7cef93b464a3ee1edc568125d8eefabf88c7710e6975dae648038de7358672",
+      "newFileSha256": "fb50a4598cae0dff77fe6fbe8b5d05a9ea3414b010c11de17657e8866f5fb15b",
+      "canonicalSourceHash": "653c35ed58c58508fe5e2abf237266cf02e77b9e9e62cf2060fad4a7e0938571",
+      "englishTextSha256": "ab2a218da21381dbaf719e651e4dde74ae2d3801836d2a0c08ff9efab176ba38",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "richard-branson",
+      "path": "data/i18n/en/people/richard-branson.json",
+      "oldFileSha256": "46409145b2d888a7f17b82997f47617c8d760c402098b23b0ed074128c3281f6",
+      "newFileSha256": "ee9b5006ff95bcd6cf029515478f99ae1c689bfcf6e1fbb698fd24ec731bbe09",
+      "canonicalSourceHash": "b3bc089e49ca81de09987d1afb72d751af890ef3fc829d2895c79bf5456c3f38",
+      "englishTextSha256": "0c9ad619a1e83d2acc503c351c674277b64bb471b4cad8042f298fb8b9f60b0d",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "tadashi-yanai",
+      "path": "data/i18n/en/people/tadashi-yanai.json",
+      "oldFileSha256": "cdd856b9ecf2aefdcfe0e08c0b82052612617966215f9642f1a8e81d150936e5",
+      "newFileSha256": "9e4ddd1036e42beefdfb10944bd54ecc05cf7c739805fab3933e85e0279b4850",
+      "canonicalSourceHash": "5aa999d32c69eba8106da85133040ad3f44e514a533dacba60918215667e91d9",
+      "englishTextSha256": "655050117acc1274b3098f3d8cee268b0e18902e1ec41d4c7d0dae5cd8601875",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "li-shufu",
+      "path": "data/i18n/en/people/li-shufu.json",
+      "oldFileSha256": "0dfea7bad9b05a6df1f296213162d9950cdc1a209f526e1fbbc933cf697d4e2d",
+      "newFileSha256": "ce8231f824947ef5584d0b1a8f837f252666d04e36a751e74b13835f8e865be7",
+      "canonicalSourceHash": "66848a54e20a433fc5d105ef321f560aa295f6893134d64997c657b5cdff2315",
+      "englishTextSha256": "9e6a0c3166183a222762bb4823c1c4d9d21a8816abbfe93def424657b6854673",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "dong-mingzhu",
+      "path": "data/i18n/en/people/dong-mingzhu.json",
+      "oldFileSha256": "ea6e288d31e9f4743232ca80cb8bc8b09c66b8769699cd67f8dc5c0a449d697e",
+      "newFileSha256": "e0c6ca7d1a64e9bae404bde0509add960f7531ded34d31810f7bee9eed11317e",
+      "canonicalSourceHash": "0ac526fe423edadd20631c7a7b823d03560c902afa34162545d8fafa626687b8",
+      "englishTextSha256": "5335ed01f1b2c098456122eff2109204bb794109cb6b929904f47d751b717f1f",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "gautam-adani",
+      "path": "data/i18n/en/people/gautam-adani.json",
+      "oldFileSha256": "3fdc202512e5526024416771767cfd9167a4b15d95e89a1b0779700ee4aafb9f",
+      "newFileSha256": "70705acd9c47e6eeced66c2a3610c43a5b6d7371945b25af5f191c30d6da1a7b",
+      "canonicalSourceHash": "ad4812b0cc716beb003abe5b8292598625616fa51a966eb5534db2946c6ad85b",
+      "englishTextSha256": "54edf4aa02548da3e12b6ab9b3daa80a27b041b49474b97ae1b43b656d2a821c",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "howard-schultz",
+      "path": "data/i18n/en/people/howard-schultz.json",
+      "oldFileSha256": "5cd324bd23adec2227a502016db9972d826608769883b47a6c6bfd0f8e130ae5",
+      "newFileSha256": "0fe5ea478725fe57efd5fc42810a10354b50c603cffb898a539a6cc9f2758cb1",
+      "canonicalSourceHash": "4a3cfb26482fbc3187efafb16ea3c03317ad98c49198dd9b0ddd4a84cd965e32",
+      "englishTextSha256": "246692c9d0135772cd079e1d9e0a043a0137d43571fb470197e2024cc4f292e7",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "kristalina-georgieva",
+      "path": "data/i18n/en/people/kristalina-georgieva.json",
+      "oldFileSha256": "523fd5264ebaaa6d288c6cac42985d4611e88b2498cd38d3d15c30798438f69c",
+      "newFileSha256": "376311e79133d32cd56f2189cc89beb8d5498b25de2cfd95bde4ba3d28bc576e",
+      "canonicalSourceHash": "80ef848a7eeee215f9ece0b2c6ff4f25a023855707e477f1db8c62ee302164bd",
+      "englishTextSha256": "2e5f8f33097923a09d36f06157277a4aa0a6f4d18034bc1f4ee514d1909bae62",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "thomas-piketty",
+      "path": "data/i18n/en/people/thomas-piketty.json",
+      "oldFileSha256": "d686938a2995bc112e2a37d500c5a91c2696794719b1b0e2c6c0b2ca09f3a0ef",
+      "newFileSha256": "27fef105f861d30d48f285f4a13ec133459d2654af53ffdc5b404552688d28a8",
+      "canonicalSourceHash": "48c3d761b358c6517bc01adc3c261b20b3396f2e630649121f0709c5dd15ff13",
+      "englishTextSha256": "71b334e071aa3cce81b9bc5f27fab09324c070bf380622d0d9e9d11345875f27",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "james-a-robinson",
+      "path": "data/i18n/en/people/james-a-robinson.json",
+      "oldFileSha256": "e0d8c26f9f6b4a2a82b6ef164c2b1081ef17e9d2f68aef5794180de33cff6fe7",
+      "newFileSha256": "fbb1fe5b3ddcd3b6c4bd3c105aa8fe358607c30ede1e80c5959e544fa93227b6",
+      "canonicalSourceHash": "1eaa83729bccb42a83ab06e45832eb603e70404be4d7afb3099f034158587949",
+      "englishTextSha256": "abc75a5bc28219291eec4e77cc1f685cf5bf74eb3e40cf1675ece9507281bbc0",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "philippe-aghion",
+      "path": "data/i18n/en/people/philippe-aghion.json",
+      "oldFileSha256": "9564c43a146d30e11cdb536e6f4ea3eeb82429a72f31dcf861f00ab833af34b8",
+      "newFileSha256": "c2e6cea8b9adf45d82aa246d268a7d2ecec82d173abe3b2daa4d7e83124883d3",
+      "canonicalSourceHash": "778e79fcb2296ab7541599fe58df121391da91117d682db286fe753934c35c73",
+      "englishTextSha256": "09d13d3dbf786f976edbf9558d7315f377341273b96c33d2d0ba404d0247630a",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "pope-leo-xiv",
+      "path": "data/i18n/en/people/pope-leo-xiv.json",
+      "oldFileSha256": "ae4242b83e87e2a6ea1cf61fb50c3e95ab75ee2b78976b4204b43703edbf0021",
+      "newFileSha256": "de6e49f8690d2f0b6fbc652c75587c1d7de92f5ff3c79f32d678693b81b10649",
+      "canonicalSourceHash": "d2d7770c938ae18350e04802f60f0c57082ce3f01bcfa5d9518657398038b5bc",
+      "englishTextSha256": "e960d304270348f306bf4c1199a4cada14fdd53295ddef09ba88a7c9cba64821",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "mark-carney",
+      "path": "data/i18n/en/people/mark-carney.json",
+      "oldFileSha256": "1a8cc4a54cfc618766002bdce7e7717d17a64aff2e10ffdf8c4812a6515a082f",
+      "newFileSha256": "2607ccfbf1c6ef218385b69895fe23132a848f968a2be2835488a1ed78a13191",
+      "canonicalSourceHash": "babde90663f6a256adbd46401646ecd9cd9c7f93ef2f6034695d0963f055ed18",
+      "englishTextSha256": "f0cef0a2c2899be421a0b603695375db3946d4a135a1d43747f9e08cc2b8751e",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "recep-tayyip-erdogan",
+      "path": "data/i18n/en/people/recep-tayyip-erdogan.json",
+      "oldFileSha256": "3f481510d08fe29cb8c4879410f1c3ff8c0c7d4b261742c61e935945749dff32",
+      "newFileSha256": "035aad46ee1196074ce83fb76dd1a1d4c1754aa98ec138cc236a907578922d9c",
+      "canonicalSourceHash": "defa3e89cfaa31284a44e6988bc833ea010b6a7cfe96399601264d20b5a383d6",
+      "englishTextSha256": "b3a57b0f0e2597710e1541beaccd5243234e7d3d119e954f554f1080c98a0440",
+      "displayFields": 34,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "benjamin-netanyahu",
+      "path": "data/i18n/en/people/benjamin-netanyahu.json",
+      "oldFileSha256": "1201a9448761fbe84980a9aa95c7c7d632fd41c25eb676d03eadb43c0d02d6cb",
+      "newFileSha256": "e7e3eba582a258e96dbf8fcf5de9bffcd3cd808e09ebf233167affcc08b15ba7",
+      "canonicalSourceHash": "8394648719c17e1011b9fff12eb715e4f62b585f1dfb6ec2e5b0821fb34bde4c",
+      "englishTextSha256": "54c67eb3bbbd918c90c5d7801a595c46e4d7acff6363ef6f8fee00f75c762d4f",
+      "displayFields": 36,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "hans-zimmer",
+      "path": "data/i18n/en/people/hans-zimmer.json",
+      "oldFileSha256": "9ca63c2d43ed8b64b295470aba07fc8cdd670f2d475418ae55444ff36f0c9343",
+      "newFileSha256": "46f0f84bec6201b48e930282a1f2957e710c3329f4d3c84d3ece25c1981f3be3",
+      "canonicalSourceHash": "3e4afd7f8ed9bd9be1c1217a272ae02e42f91063f181ab0d971f6a6326383caf",
+      "englishTextSha256": "d34afd5e382e4887edcb77c34cde4ed90af9e935cf291565793607150dac8ab5",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "joe-hisaishi",
+      "path": "data/i18n/en/people/joe-hisaishi.json",
+      "oldFileSha256": "8de213ec5e1a7f36e95e215e0b22d37cf474178ca5f6659d9a15c88c6b7ea77f",
+      "newFileSha256": "a3ea83769e13a5b6a1aecf70f23050d191db343e15ce8ca0b0678fac7dcae4ef",
+      "canonicalSourceHash": "0efe764b83dd790d63a6080af2eac0e61bda76128f306a0f8650370f9244cfaa",
+      "englishTextSha256": "bfa6daeb5366c013c51f304a07ded91e15eef51e9e2938fc6a208bbc9089d058",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "jay-chou",
+      "path": "data/i18n/en/people/jay-chou.json",
+      "oldFileSha256": "0a1dde4d35e9ce39820a86712bfa30c74aae0a5beb6c379d9f1612cf7b3cf60d",
+      "newFileSha256": "61479f6dab8d98641648ac6cef0f0fa978a746db483f3e35678942a8e57bcca4",
+      "canonicalSourceHash": "501f18e128ba816e1ee1ca854184151e6158f3aa160b0be3e080b3967da7dd07",
+      "englishTextSha256": "82ac6d48fdc7d111134de3114b804319fa0470a349a9296ec5edf1857b59afe3",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "elton-john",
+      "path": "data/i18n/en/people/elton-john.json",
+      "oldFileSha256": "1dcaaaa333bab9d8b3ca9f356ccddf5d6e18a9c0bb6d8e50b4d15d98e3387d90",
+      "newFileSha256": "e024bd5a90d3cd52bd04cba1cb60e76c984b5fb8d7d3951f59c975f4fe6ffe75",
+      "canonicalSourceHash": "9482444a3a9803cd358a13e69c530accb91eae0af04a25e010044e873865544e",
+      "englishTextSha256": "310bc497e3297f331bceb3cccb5de4020cb5680ef622ffe0dd5625e47a459dd0",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "lady-gaga",
+      "path": "data/i18n/en/people/lady-gaga.json",
+      "oldFileSha256": "04ca39e22663dbda05f4a14b1427a9073485c4ab6d87e201a6c737e5bd4108c1",
+      "newFileSha256": "391db95ec6638b709c8141f508f253dfc89c46b78198171ca9d3c3edee8c6b60",
+      "canonicalSourceHash": "8f3e8b5c3090333fe2123e54ccb82ab982d06f03bf473cedcf4982cf712ef066",
+      "englishTextSha256": "953000f40d01eb826e1b93b5fb3bd82b89c967035a7ab5fb96c9e09933aa9d30",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "j-m-coetzee",
+      "path": "data/i18n/en/people/j-m-coetzee.json",
+      "oldFileSha256": "1e0e33bb6b6db2fbc244981514be9ce35080aaeb6e2dc91f4aceaa3ed4c2f7eb",
+      "newFileSha256": "f6e26d437c8773646f058813235c5f06a320919402f2d983d9df60e86e9b9598",
+      "canonicalSourceHash": "7f32802947c0790694b8d56fdc4d47e9bd8a4a704b954c0e14c7d29f53d847ac",
+      "englishTextSha256": "1f06e6e9efbfeed7cebb7cbb9f95cb3221890bf2e2750270d648b131b161b10f",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "jean-marie-gustave-le-clezio",
+      "path": "data/i18n/en/people/jean-marie-gustave-le-clezio.json",
+      "oldFileSha256": "cb3d4dbc8edd254e2ed77f7d5ce63217f3ef611bd3883420f3fca79d72b46078",
+      "newFileSha256": "446b6e50a511ff44bb4a1411376e82a8cccaf8c819a561339a8882026b0c85db",
+      "canonicalSourceHash": "112b2aa7bafbe7ce43a3bfc2dda5867f16440b6953d86f3813a23a0b357dec35",
+      "englishTextSha256": "1b03a9f1a889163704da78a4bdb7ddc8eeb73af1a9a2713450f7dc7e97640ec3",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "laszlo-krasznahorkai",
+      "path": "data/i18n/en/people/laszlo-krasznahorkai.json",
+      "oldFileSha256": "5d00fedca1362f5f3447d9f18b5f823c7d0bf469ef7f731225856d7acff0d4cb",
+      "newFileSha256": "aa113951d4b89f53327ed8a885e93381e2cf1c20bd6f69071b12a4b4f849e167",
+      "canonicalSourceHash": "8a84aac50d2ddc0128acf5ca6c20cccc5ea7d06fe60b65403616b31c1f12f45b",
+      "englishTextSha256": "60b387b172ea37bca3bf66075a760ef637b9337bd04125c157dc1dabe6c987a2",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "patrick-modiano",
+      "path": "data/i18n/en/people/patrick-modiano.json",
+      "oldFileSha256": "889d403ff51b07af705b0d693c5a8f2d2c679ee3418ad61d0217b227357682ce",
+      "newFileSha256": "0a0f018a6046f39a4ef3b285c72a345d5b75a959062fcd34143f71cd1c19dafa",
+      "canonicalSourceHash": "3d19dc20c100be9770fc7d9341bb882b24dc8ef675c749e3d40c0eeb5eaf402f",
+      "englishTextSha256": "762e3055214a489f81928be5958c52039aa68836242958c3e3baf87254a3f4dd",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "paulo-coelho",
+      "path": "data/i18n/en/people/paulo-coelho.json",
+      "oldFileSha256": "6051a3529554bb41071d5c87ed9a546f3c0c967cebc3eb1b9374add1d7edac5c",
+      "newFileSha256": "41dd1c47a9fe56efb53208bbd44ea3bb2c55a9d573173ee6d5a3fa0eead4ab76",
+      "canonicalSourceHash": "6008f671d9dc4e62a4ca23453d3a43a2f9119eaae36cb98009a937dd9b042ecc",
+      "englishTextSha256": "ccb72676c502063bfd8c210951c844ebde1ed60c0642001fe6fc82ca327a519e",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "svetlana-alexievich",
+      "path": "data/i18n/en/people/svetlana-alexievich.json",
+      "oldFileSha256": "c0cb0201b68b1b36bbb33b348811e05247a103b767b307ee6ccb46adc628f605",
+      "newFileSha256": "39556cbcb0a8635501a66d6a003f7e3f6d4f37a2af00034553d1ace73e9f9abc",
+      "canonicalSourceHash": "ac7df115330a217ba5c857735a63ba16f7a5ddc63dc4162bcca89c81d909ddc4",
+      "englishTextSha256": "750587665ff14715010ff27b9e770b35c84f210f592678843ab6cf761b8ba911",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "yu-hua",
+      "path": "data/i18n/en/people/yu-hua.json",
+      "oldFileSha256": "b6e10a9cc0a1c6cea1c4925594f025de22cfe115c15462d4e10d05f5beffb61b",
+      "newFileSha256": "2ca0241f927342b78dcf3f3109eedc0c0a9380315c8b4c88f9ea8f0acaedea02",
+      "canonicalSourceHash": "e769353f23c1399be67baa7a08429f41985bc7ca696f2f36b192ec06bfee036c",
+      "englishTextSha256": "506ebe82db8ef312355db75946e1eb28087acee69b8a4212793e1df599a6353a",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "yuval-noah-harari",
+      "path": "data/i18n/en/people/yuval-noah-harari.json",
+      "oldFileSha256": "0bdfde5372f94c7af8e952c9de03691921517ed7e0b2e4a6770be9f57b3031d0",
+      "newFileSha256": "f1fd181ca668eac8a144ffbef06d24c2f012a89b961ec2e720eba700c7cbea90",
+      "canonicalSourceHash": "edb4cfa50ddd39c4fc1fbc645e7c8f3b9f4e0fd73158906bd22a01ba564d71af",
+      "englishTextSha256": "7ff6b0168b9a619f65daeaae791db5c1fdf95a4c3d9f84233b17b65e0bcee559",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "elfriede-jelinek",
+      "path": "data/i18n/en/people/elfriede-jelinek.json",
+      "oldFileSha256": "139795f21a528102dd9c335b8c23f1f137900e299c28300f5edd1f2b81810b3a",
+      "newFileSha256": "c945a78583a9436f89884e8d1fca5670640c1986dd983ac1a82e42fdcdf767a1",
+      "canonicalSourceHash": "34cba2e4487dc46652656a787e5426b7af8b0338b1ae6fad47f7bf49e78d8ebc",
+      "englishTextSha256": "af0efc9ca28e14271106849e7cad94c70a7c3b16a66bac586af8bdcb292461e2",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "peter-handke",
+      "path": "data/i18n/en/people/peter-handke.json",
+      "oldFileSha256": "be34b5fe484cc56d3d20eb3424c2f51019de06a374814e0e68e8135d93f4a230",
+      "newFileSha256": "c2d9c3959905b77bcf8472445caf9fde4885408af9c8a6b18087ae2ff52de646",
+      "canonicalSourceHash": "f7f4bec6ac19ea1b42d0c09ed466ed774ecde612ab67747355e02ed2391f7b5e",
+      "englishTextSha256": "346f00f054b5eda9097dfb6fe80ed5fa5cd210bce72a06f8704e424a2fbd9f19",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "judith-butler",
+      "path": "data/i18n/en/people/judith-butler.json",
+      "oldFileSha256": "0283ef027bd316f7df058b1269cbec5b333678a33ebffe75414605ee2a91cf0f",
+      "newFileSha256": "195f857180c0055155bce5e99b3b6edc21d1551a4628d03061db1bd7c72d9ac2",
+      "canonicalSourceHash": "6977c33d261087f82f8511d564bba545237ea7b463b6b2f07616c69f5f2b031b",
+      "englishTextSha256": "ff596ec409f9f31e62adf0dc33f127810a0c79387799862798c2fbdf4e9185e9",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "martha-nussbaum",
+      "path": "data/i18n/en/people/martha-nussbaum.json",
+      "oldFileSha256": "e5eb6dc8463f29780aebec89c22be1306666464c7753021af007fadb9e4ceb14",
+      "newFileSha256": "e2881b0a5e0253a526db888d621f187f922b9373327552521322ca59b047daad",
+      "canonicalSourceHash": "3a0af1627eb056327d40c35c6e2eee577682ddbbf00354c0d4d08fc9fc948949",
+      "englishTextSha256": "e2cbb35ffde0fdc5492194460a623cc8bac0c26ec0cf3b0ae7930db4119edd1e",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "renzo-piano",
+      "path": "data/i18n/en/people/renzo-piano.json",
+      "oldFileSha256": "6436dbce41edfe492ccec66f24a3290c5965af8869b2bb906ccbf1d4d4bf0712",
+      "newFileSha256": "b0745fc4003841dd75b778dec9bc9c9a2f778feda8706fad8effb91f19c6290d",
+      "canonicalSourceHash": "5abde7bb4a8311509fda98d5c20bd78be18aa1a195b28c309c42434f50e217eb",
+      "englishTextSha256": "0b105f9de2b097a4c1719a31865dcef5d0e7706c27d2219624539f02e680bdf1",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "toyo-ito",
+      "path": "data/i18n/en/people/toyo-ito.json",
+      "oldFileSha256": "a3bd88446dff9df38d74384853afd0db6c6b893492e08e864bfb342b089e0647",
+      "newFileSha256": "eded83c7678d36b148e3f0692026dd67cd0347c90312bd2d66e17f78b94b2bb9",
+      "canonicalSourceHash": "d24df49afc78dda78e2586e21b269e4637e74d11e3838003fafdd637aa1db4d8",
+      "englishTextSha256": "fbbdafd32679d30d5d4cd9940223a82731a9fde0539663d6b83d7953f5a42015",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "wang-shu",
+      "path": "data/i18n/en/people/wang-shu.json",
+      "oldFileSha256": "f7bcfc0c59939c6bd00ad1f87f92f59791b1cecbcd0b70f97b2f5e2660a082c7",
+      "newFileSha256": "52082513642f20f458933c1fc21e29bcb6ca9c502daaebed04c051ac9e71b9c2",
+      "canonicalSourceHash": "de55dbaeb280a19266a9b4588eb008c6b873d312d4b6b928bd54c542cab65704",
+      "englishTextSha256": "94dfcf666ea6ada9b09afd25bf4c7f6afdda9568d71b97608c7e0d8302addfb3",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "liu-jiakun",
+      "path": "data/i18n/en/people/liu-jiakun.json",
+      "oldFileSha256": "d8a59ff4fc69625e9826a4f0e948f4dcaa3333000dc4194b2323bfceaf7b310f",
+      "newFileSha256": "77943680c8b142613d1d846ca00cbbd18ced7088014d57118c7cb4e7dcc6e225",
+      "canonicalSourceHash": "232f18249e3cd0eb781cdb1555689777954dacb874b6e4f180e8de7903299397",
+      "englishTextSha256": "9b5b6812d940c1280980d479930abcfc86e7250aa99027aabbb233c64d278057",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "riken-yamamoto",
+      "path": "data/i18n/en/people/riken-yamamoto.json",
+      "oldFileSha256": "a72a866807b01c7ddfc5bba36acabd374ded3a1bd92e27d3108540b37a61ac5c",
+      "newFileSha256": "6de658786a0f8fdde899c9a83488647fe9f22c14b55218bff8bd63ed4dda1030",
+      "canonicalSourceHash": "2d69c2c1101386a53e52efd3ddd4e33017a8ce331a6459c70faa22cc91cc65b0",
+      "englishTextSha256": "dacb5ccaf1446d22607dc5f63cf9b8368d72228505775832008433048046e1b2",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "alejandro-aravena",
+      "path": "data/i18n/en/people/alejandro-aravena.json",
+      "oldFileSha256": "0c1d4fe235a9adcbca0bbad86c27d12ad6cc25821cd3af7363a82b001c221b56",
+      "newFileSha256": "587bd0f87c9a24b1c3ab91567d09ebc39f0580eb3c1bef7f1a2f222c1db7cbcf",
+      "canonicalSourceHash": "6f3a7edb12e8c687b0a11e5194bc543982f74d0ef315e162fea278b2033bc340",
+      "englishTextSha256": "301e5220541ffbf3e13fb5f64954935705895a2a98591e7f4a066ca0ea8972e0",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "anne-lacaton",
+      "path": "data/i18n/en/people/anne-lacaton.json",
+      "oldFileSha256": "7d4b50234237d4f071209daf2b5ddfc10d1d815bbd03459eb6fcf319eb04dc7a",
+      "newFileSha256": "a03d41a8cc05a61ffd40ecf5d76e27ea45f7afe23f47c71a28cc79b25eb4825b",
+      "canonicalSourceHash": "72e528f33e33e5acb7e881b4449419edb633796b9181546748766fc8784c23a1",
+      "englishTextSha256": "489ea74ee2b10eb4a69a50865c90b6171aff686540064adaafd6425320c22ea7",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "jean-philippe-vassal",
+      "path": "data/i18n/en/people/jean-philippe-vassal.json",
+      "oldFileSha256": "b5cbaebc3d2a5e733287f68a5e01964c5fa0d78693153980f48d8322c0f87cb3",
+      "newFileSha256": "21df96b027728e978fa818cac1eaca8a6118509b3f8fda4957a5aecd3d70a210",
+      "canonicalSourceHash": "6965f812e019594d4e1c616d4319ec49151e2bfc81a7d0caa82a31e8f4ac05b2",
+      "englishTextSha256": "8a952ec3eab92f066d670640de7cb6267286ca7eb76af2766485a54c0f7a711e",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "bjarke-ingels",
+      "path": "data/i18n/en/people/bjarke-ingels.json",
+      "oldFileSha256": "cc4c50a3017ac45f6ebfad448b88dd50efc6f1d82643af2954daa0a7205ec51b",
+      "newFileSha256": "7f20e20657a4719710d6989731a453dfd1206b84a3fb4b31b24eb346d592f248",
+      "canonicalSourceHash": "2a5a83c062756e3ffd99f22debbee98eb38405f90140756e6bd1e2f075d516a2",
+      "englishTextSha256": "e5b0e480bfc36537615b8ab04482c75aa7f110429addbd2f071284deaf698cdf",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "takashi-murakami",
+      "path": "data/i18n/en/people/takashi-murakami.json",
+      "oldFileSha256": "c5b2ee6f17760d8cb8e7721ac02db7bb0d478fd27ae3d6ef7a9b73119fd5f37c",
+      "newFileSha256": "e1c91de7035435255d548112a22cdfda1ed59e500c19b2a631d798a2a4be865c",
+      "canonicalSourceHash": "658929caf8fb39906e6d5aec627b2de9c2d0399664b3516b6d9f5242c3ae18fc",
+      "englishTextSha256": "643d21105a9946e29558680b6271475ea9487172d225b3a09496cb2a38441078",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "jeff-koons",
+      "path": "data/i18n/en/people/jeff-koons.json",
+      "oldFileSha256": "efbb636fdf93a8bedb87f0b0fa86cae6954acf440d19710cca80b0c1086f63d4",
+      "newFileSha256": "1f35b6e81702cc465d580c175b2097d4617b030a618cdc02c0101be96c873d1a",
+      "canonicalSourceHash": "a1ebe936653d88cb026ba476acf55bd5ac767304972e1bd4e814ec4ac436bf05",
+      "englishTextSha256": "87e6403830f17ff647b720be63ed1b7463a3a7f9d17e7e52443e892dd2b8f967",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "xu-bing",
+      "path": "data/i18n/en/people/xu-bing.json",
+      "oldFileSha256": "a44e6c8a0bafd7bf651cc23bb301d94e189c4f82f2d66343da34387ad7fc9dc5",
+      "newFileSha256": "c77898d719efa838f89909b69bae03ba4878698215f4a19eb9ffdbdc4f7e0a6c",
+      "canonicalSourceHash": "4e4ed9e9b121b6456268149cf1c904f3bb13189e155b24462af288716e913bea",
+      "englishTextSha256": "accffa17faf2f9f3bb0f70abe4ad443b989f8afb3e9c995fc7acb6dd73408b06",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "ichiro-suzuki",
+      "path": "data/i18n/en/people/ichiro-suzuki.json",
+      "oldFileSha256": "e197e66c23147bbb843ac80633f1f1e9300e61247e6c046dfabf444ebefa5030",
+      "newFileSha256": "e6b77df9f30e2a74f1aa164319c3291b9063becf60ddc1af632bd115266dc3b2",
+      "canonicalSourceHash": "9823a7ccca927c5b41cce8fa005dcbe7de667b16d4b4718f3531b9dd03f50343",
+      "englishTextSha256": "5d71c1302c03c765db75aa1a92ee06cb50c2676bd632fd931bf8d2f88803c39b",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "alexia-putellas",
+      "path": "data/i18n/en/people/alexia-putellas.json",
+      "oldFileSha256": "c7b7a3dda4a9144d63b54c415bf3a2c460720296a6cd722ff47b7c263d444e41",
+      "newFileSha256": "b97d0bb90407b5886268e046a05e10643d3a9c821366d95880cb2bd91e3efaee",
+      "canonicalSourceHash": "e5fa8044a9cb6c98d6a65f6f173498f9e90398b799ccd7afb890e50da92fe73f",
+      "englishTextSha256": "7879fbbc68d6c0223ea88709c15a9cb1fee5d0db623e92477148630956c5d3b7",
+      "displayFields": 34,
+      "stringsUnchanged": true
+    },
+    {
+      "id": "allyson-felix",
+      "path": "data/i18n/en/people/allyson-felix.json",
+      "oldFileSha256": "e3e07bdb6ed41f3f1c27114f892c7d3895ca004d3976bad862ddc275846c5b3c",
+      "newFileSha256": "234cc48cb69ca46735857ed1dececbb45b26abe90afac9f5a7530f1449653885",
+      "canonicalSourceHash": "3a836b3f1d670886ae50d75291f10002b98d54d09c4e43006485bd8099052413",
+      "englishTextSha256": "8ecf434e3efa3c12cbdee571a4e908ae5322f8098444663d56aa1b4773bb52d7",
+      "displayFields": 32,
+      "stringsUnchanged": true
+    }
+  ],
+  "limits": "Preserves previously completed AI review evidence; does not perform or certify new human/native-language review."
+}

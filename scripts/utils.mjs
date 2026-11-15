@@ -16,9 +16,16 @@ export function lifeStatus(person) {
   if (typeof person.death === 'string' && /^-?\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(person.death)) return 'deceased';
   throw new Error(`${person.id ?? person.name ?? 'Person'}: death must be null (living) or a documented death date`);
 }
+// Disputed years are alternatives, not a fabricated exact birth date.
+export function birthYearValues(person) {
+  if(typeof person.birth==='string'&&/^-?\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(person.birth)&&!Object.hasOwn(person,'birthYears'))return [yearOf(person.birth)];
+  const years=person.birthYears;
+  if(person.birth===null&&Array.isArray(years)&&years.length>=2&&years.length<=5&&years.every((year,i)=>Number.isInteger(year)&&year!==0&&Math.abs(year)<=9999&&(!i||year>years[i-1])))return [...years];
+  throw new Error(`${person.id??person.name??'Person'}: birth must be a documented date or null with ordered, distinct birthYears alternatives`);
+}
 export function lifeLabel(person) {
-  const year = value => yearOf(value) < 0 ? `公元前${Math.abs(yearOf(value))}` : String(yearOf(value));
-  return `${year(person.birth)} — ${lifeStatus(person) === 'deceased' ? year(person.death) : '今'}`;
+  const year = value => value < 0 ? `公元前${Math.abs(value)}` : String(value);
+  return `${birthYearValues(person).map(year).join(' / ')} — ${lifeStatus(person) === 'deceased' ? year(yearOf(person.death)) : '今'}`;
 }
 export function timelineOrder(a, b) {
   const number = d => {

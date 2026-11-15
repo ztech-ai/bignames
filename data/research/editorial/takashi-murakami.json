@@ -1,0 +1,76 @@
+{
+  "id": "takashi-murakami",
+  "reviewedAt": "2026-11-15",
+  "checkedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biography, independent coverage and named source photograph caption.",
+  "lifeStatusEvidence": "AP May 2025 exhibition interview and official company biography with 2026 activity reviewed; no continuous monitoring claimed.",
+  "lifeStatusEvidenceURL": "https://www.kaikaikiki.com/en/artists/takashi_murakami/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.kaikaikiki.com/en/artists/takashi_murakami/",
+    "note": "AP May 2025 exhibition interview and official company biography with 2026 activity reviewed; no continuous monitoring claimed."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://artplatform.go.jp/artists/A1965",
+      "https://www.kaikaikiki.com/en/artists/takashi_murakami/",
+      "https://apnews.com/article/4c599315806a5aed77b5a6cc02b335fe",
+      "https://en.wikipedia.org/wiki/Takashi_Murakami"
+    ],
+    "scope": "Actually opened/search-reviewed institutional biographies, original work/award records and independent reporting. Cached evidence was treated as unreviewed leads.",
+    "limits": "AP direct opening failed in the web tool; its dated search excerpt was reviewed and cross-checked against the Cleveland Museum and institutional artist records. Future exhibitions and 2027 film plans are not treated as completed."
+  },
+  "portraitReview": {
+    "visualReview": "Inspected local contact sheet .qa/add100b/f/contact.jpg: real color photograph with visible skin/background color, consistent with named source caption and institutional identity. Original cached bytes retained; no generated or recolored imagery.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Takashi_Murakami_at_Versailles_Sept._2010_(1).jpg",
+    "assetPath": "public/assets/portraits/takashi-murakami.jpg",
+    "sha256": "e63a1a9e9dea9e0ca38885acd9fd8fc193c888bb991812ed040ffa5917c5e518",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Sodacan",
+    "caption": "Japanese Artist Takashi Murakami at the Palace of Versailles giving an interview to a film crew about his new exhibit 10th of September 2010",
+    "color": "color-preserved",
+    "identityBasis": "Named caption and institutional visual comparison; no biometric assertion."
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and frozen faithful English intermediary followed by direct AI translation and complete field-by-field semantic review of all six targets. No public translation service, substitution lexicon, human review or native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "658929caf8fb39906e6d5aec627b2de9c2d0399664b3516b6d9f5242c3ae18fc",
+    "englishReferenceTextHash": "643d21105a9946e29558680b6271475ea9487172d225b3a09496cb2a38441078",
+    "method": "Complete direct AI composition and semantic review; structural checks do not independently certify quality."
+  },
+  "englishReviewMetadataNormalization": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "reviewedAt": "2026-11-15",
+    "from": "translationProvenance",
+    "to": "authorshipReview",
+    "sourceLocale": "zh",
+    "stringsUnchanged": true,
+    "canonicalSourceHashUnchanged": true,
+    "englishReferenceTextHashUnchanged": true,
+    "reason": "Preserves direct Chinese-to-English review evidence separately from the six-target English-intermediary provenance contract."
+  }
+}

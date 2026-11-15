@@ -20,7 +20,7 @@
 | `data/i18n/snapshots/` | 增量翻译使用的按内容哈希索引的底本快照 |
 | `dist/` | 由模板生成的静态网站；不直接在这里编辑人物内容 |
 
-目前225份正式档案提供8语言页面；1000份证据和1000份事实草稿是独立的研究层。不要把研究文件数量当成完整档案或完全翻译数量。本批新增30位既有四星候选、八领域各3—4人，此前195份人物基础档案保留。提交和Pages发布已获用户授权，由main分支的Actions工作流执行。经用户确认，奥特加暂用姓名占位并标注肖像待补，元数据明确记录授权例外。
+目前325份正式档案提供8语言页面；1000份证据和1000份事实草稿是独立的研究层。不要把研究文件数量当成完整档案或完全翻译数量。本批继续新增100位既有四星候选、八领域各12—13人，此前225份人物基础档案保留。提交和Pages发布已获用户授权，由main分支的Actions工作流执行。经用户确认，奥特加暂用姓名占位并标注肖像待补，元数据明确记录授权例外。
 
 ## 常用流程
 
@@ -159,7 +159,7 @@ ZIP按固定顺序、固定时间戳和权限生成；相同输入与相同Pytho
 交付批次还可运行：
 
 ```sh
-node scripts/check-batch.mjs --batch data/collections/balanced-30-2026-11.json --report data/research/balanced-30-report.json
+node scripts/check-batch.mjs --batch data/collections/balanced-100b-2026-11.json --report data/research/balanced-100b-report.json
 ```
 
 它检查基线人物SHA-256未变、评级对象原样继承、领域均衡、资料最低覆盖、译文版本/审阅字段、肖像与已审字节哈希，并生成简短机器报告。它不能认证每条事实、照片身份或语言自然度。旧批次清单与报告是交付时点的历史记录，不要求在后续新增或获准更新存量后继续满足旧总人数。
@@ -173,3 +173,15 @@ node scripts/check-batch.mjs --batch data/collections/balanced-30-2026-11.json -
 ## 随素材提供完整许可
 
 图片仍必须保存真实的`license`、`licenseUrl`、`credit`和`sourceUrl`。需要随作品附完整文本时，把文件放入`public/assets/licenses/`，并在图片元数据添加`licenseText: "assets/licenses/GFDL-1.2.txt"`。生成器在八语人物和许可页使用可解析的本地链接；检查器拒绝越界路径并确认文件存在。该字段不改变素材本身的许可；不能据此声称任意图片可用。
+
+## 自动生成交付统计与署名表
+
+当一批人物全部冻结后执行：
+
+```sh
+npm run content:report -- --batch data/collections/balanced-100b-2026-11.json
+```
+
+脚本先运行批次核验；失败不更新输出。通过后写入批次报告、`edition-report.json`、本批CSV和`docs/IMAGE-CREDITS.md`。完整档案、来源和研究草稿仍分开计数；程序不把计数或自报AI审阅记录当成事实认证，不修改人物、评级或译文。该步骤在完整构建/测试/打包之前完成。
+
+来源对出生年份有分歧时，用`birth:null`+有序`birthYears`保存备选；在基础资料正文说明来源分歧。网站展示全部备选年份，排序按最早可能年，搜索引擎JSON-LD不输出确定出生日期。不要为通过格式检查而编造年份。

@@ -1,0 +1,108 @@
+{
+  "id": "kim-jong-un",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Compared named institutional/award biographies with independent reporting and the source-captioned photograph.",
+  "lifeStatusEvidence": "Recent 2026 institutional or news material checked for the person’s public activity; access on 2026-11-15 is distinct from the 2026-11-13 factual cutoff.",
+  "lifeStatusEvidenceURL": "https://en.yna.co.kr/view/AEN20260223000300315",
+  "lifeStatusReview": {
+    "status": "living",
+    "note": "Selected source material was checked, not continuous life-status monitoring."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.yna.co.kr/view/AEN20260223000300315",
+      "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=199653&lang=e",
+      "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+      "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=198668&lang=e",
+      "https://seoul.ohchr.org/sites/default/files/2025-09/Press%20Release_Eng_FINAL.pdf",
+      "https://time.com/archive/6641203/meet-kim-jong-un/"
+    ],
+    "checkedAt": "2026-11-15",
+    "scope": "Direct browsing/search and downloaded source-page review; cached structured evidence was treated as leads. Wikipedia supplied supplementary chronology, cross-checked against named institutions and reporting.",
+    "limits": "Some institutional/news pages rate-limited, blocked direct HTTP, or supplied only search-extracted text. This is a selective AI editorial review; source format does not independently certify facts. Claims and allegations are attributed, and scheduled events are not treated as completed.",
+    "accessNotes": "Yonhap and KBS current 2026 text retrieved; disputed birth alternatives checked against the biography and KBS birthday reporting. UN human-rights reporting and Swiss-school reporting searched."
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected .qa/add100b/c/portraits.jpg, containing this local cached photograph. It is a real color photograph consistent with the named source caption and institutional identity. Original image bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped).jpg",
+    "assetPath": "public/assets/portraits/kim-jong-un.jpg",
+    "sha256": "19189e6c6bc7f4c0be432bd6ede23ad55a25fd0c2e5b3e1d9bbe723eb14e80cd",
+    "caption": "Kim Jong Un, General Secretary of the Workers' Party of Korea",
+    "author": "Владимир Смирнов / ТАСС / Mil.ru",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "color": "color-preserved",
+    "identityBasis": "Named source caption and visual comparison; no biometric assertion.",
+    "licenseReview": "Opened the Commons file-description page directly in this review; compared caption, author, required attribution and license declaration with cached metadata. Required credit strings retained; unmodified cached photograph bytes delivered."
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and complete faithful English frozen before six directly authored AI translations; all displayed fields reviewed against the dossier, including the unchanged influence rationale.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained.",
+  "additionalLanguageReview": {
+    "completedAt": "2026-11-15",
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "canonicalSourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533",
+    "englishReferenceTextHash": "9e3a392249be8619cdd9f9df89ca111f69ef42db2afa54fc75047a55375103ab",
+    "method": "Direct AI composition and field-by-field semantic review; no public machine translation, substitution dictionary, human or native-speaker certification.",
+    "records": [
+      {
+        "id": "kim-jong-un",
+        "locale": "fr",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      },
+      {
+        "id": "kim-jong-un",
+        "locale": "ar",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      },
+      {
+        "id": "kim-jong-un",
+        "locale": "de",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      },
+      {
+        "id": "kim-jong-un",
+        "locale": "ja",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      },
+      {
+        "id": "kim-jong-un",
+        "locale": "es",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      },
+      {
+        "id": "kim-jong-un",
+        "locale": "ko",
+        "fields": 32,
+        "sourceHash": "20a27f447accbd2734e3ddb520b41901b61c9819addcd9805d81579fa58e0533"
+      }
+    ]
+  },
+  "coverageEnd": "2026-02-22",
+  "editorialNotes": [
+    "Birth year is disputed: birth:null and birthYears:[1982,1983,1984] preserve reported alternatives, not an asserted exact date. KBS January 2026 notes no official confirmation. Swiss schooling is reported, not a verified graduation. Repression is supported by UN reporting; no criminal verdict is invented."
+  ],
+  "checkedAt": "2026-11-15"
+}

@@ -1,6 +1,6 @@
 # 人物数据约定
 
-每个人一个 `data/people/<slug>.json`。只存有来源的事实，中文原创摘要，避免实时职位、财富数值等易失效断言。资料核对日 2026-11-13；年表覆盖范围通过 coverageNote 如实说明。
+每个人一个 `data/people/<slug>.json`。只存有来源的事实，中文原创摘要，避免实时职位、财富数值等易失效断言。`verifiedAt`记录实际编辑核对日；事实截止日和年表范围通过`coverageNote`及批次`cutoffDate`分别记录，不混为同一日期。
 
 ```json
 {
@@ -28,6 +28,8 @@
 
 highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早年/出生/教育和重要转折。不要为凑数量编造。日期为 YYYY / YYYY-MM / YYYY-MM-DD；公元前用 -0551；如果需要约数，添加 dateLabel，如 "约公元前551年"。
 
+若可靠来源对出生年份有分歧，使用`birth: null`及按升序排列、互不重复的整数`birthYears`（例如`[1951,1952]`），不要挑一个未经证实的年份充作精确出生日期。两者互斥；至少2个、至多5个可能年份，另以有来源的资料说明分歧。八语生卒栏和人物卡片展示所有可能年份；排序仅按最早可能年份定位，不视作确定日期；JSON-LD不输出`birthDate`。`death: null`仍独立表示经核对在世。
+
 `death` 为必填字段，也是生卒文字与肖像色彩的唯一依据：`null` 表示经核对仍在世，照片保留原图色彩；有效死亡日期表示已故，肖像统一以黑白显示。不得以缺失字段、空字符串或 `false` 表示在世，不另设独立的生存状态或色彩字段。状态不明时先核对再收录。首页精选、列表、详情及打印共用该规则，悬停不会改变色彩。后续更新死亡日期并重新构建即可同步全部页面；原始图片文件保持不变。
 
 领域：technology 科技与创新；politics 政治与公共事务；science 科学与医学；business 商业与经济；literature 文学与思想；arts 艺术与设计；culture 影视与音乐；sports 体育与探索。
@@ -49,3 +51,5 @@ highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早
 实际照片/画像继续要求 `src`、`alt`、`credit`、`license`、`licenseUrl`、`sourceUrl`。仅经用户明确同意的例外可使用 `{ "kind": "placeholder", "status": "awaiting-permission", "approvedBy": "user", "verifiedAt": "2026-11-13", "reason": "具体原因与确认范围" }`。这种记录禁止包含 `src`、`credit`、`license`、`licenseUrl`、`sourceUrl`，不能把姓名框描述成授权图片。本批仅奥特加适用。列表、详情、许可页及八语无障碍标签统一显示肖像待补；随后取得授权彩照时换成完整照片元数据并重新构建即可。
 
 本批六语`translationProvenance`记录`ai-reviewed`、实际reviewer、reviewedKeys及sourceLocale=en与sourceTextSha256。它不改变中文数据的唯一事实地位；英文是采编参考版本。审阅者必须实际读过对应文字，不能用程序填状态替代语义核对；未审机器稿不允许通过构建。保存工具见`scripts/reviewed-translation.mjs`，其保存行为不证明人类或母语资格。
+
+英文直接对照中文的AI审阅声明可保存在`authorshipReview`（`sourceLocale: "zh"`）中，独立于六种目标语言的英文中介依赖。`translationProvenance`仅用于以英文为中介的六语版本，须有`sourceLocale: "en"`及准确英文文字哈希。不要把英文自身声明放进中介依赖字段。声明都是AI自报，文字及中文底本哈希仍按同一正式译文约定校验。

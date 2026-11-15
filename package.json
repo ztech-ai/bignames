@@ -20,6 +20,7 @@
     "content:plan": "node scripts/content.mjs plan",
     "content:brief": "node scripts/content.mjs brief",
     "content:detail": "node scripts/content.mjs detail",
+    "content:report": "node scripts/edition-report.mjs",
     "i18n:snapshot": "node scripts/i18n-delta.mjs snapshot",
     "i18n:delta:export": "node scripts/i18n-delta.mjs export",
     "i18n:delta:import": "node scripts/i18n-delta.mjs import",

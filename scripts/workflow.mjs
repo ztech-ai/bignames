@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 import { validateTranslation, validateIntermediary, validateUI, validateUISource, sourceStrings } from './i18n-core.mjs';
-import { lifeStatus } from './utils.mjs';
+import { lifeStatus, birthYearValues } from './utils.mjs';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 import { fingerprint, packageArtifacts, validateOutputDirectory } from './package.mjs';
 
@@ -21,7 +21,7 @@ export async function workflowStatus(root=defaultRoot) {
   for(const locale of locales){const f=`data/i18n/${locale.id}/ui.json`;try{validateUI(base,await readJson(root,f),locale.id);if(locale.id!==source)validateUISource(base,await readJson(root,`data/i18n/${locale.id}/ui-source.json`),locale.id);}catch(error){issue('ui',f,error);}}
   for(const filename of files){
     const f=`data/people/${filename}`;let person;
-    try{person=await readJson(root,f);if(filename!==`${person.id}.json`)throw new Error('Filename and person ID differ');sourceStrings(person);lifeStatus(person);for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt'])if(typeof person[key]!=='string'||!person[key].trim())throw new Error(`Missing ${key}`);if(!person.timeline?.length||!person.sources?.length)throw new Error('Missing timeline or sources');published.add(person.id);}catch(error){issue('profile',f,error);continue;}
+    try{person=await readJson(root,f);if(filename!==`${person.id}.json`)throw new Error('Filename and person ID differ');sourceStrings(person);lifeStatus(person);birthYearValues(person);for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt'])if(typeof person[key]!=='string'||!person[key].trim())throw new Error(`Missing ${key}`);if(!person.timeline?.length||!person.sources?.length)throw new Error('Missing timeline or sources');published.add(person.id);}catch(error){issue('profile',f,error);continue;}
     const imageFile=`data/images/${person.id}.json`;
     try{const image=await readJson(root,imageFile);validateImageMetadata(image,person.id);if(hasPortrait(image)){if((await stat(path.join(root,'public',image.src))).size<=1000)throw new Error('Portrait file is missing or too small');images++;}else pendingPortraits++;}catch(error){issue('image',imageFile,error);}
     for(const locale of locales.filter(l=>l.id!==source)){const translationFile=`data/i18n/${locale.id}/people/${person.id}.json`;try{const translation=await readJson(root,translationFile);validateTranslation(person,translation,locale.id);if(translation.translationProvenance)validateIntermediary(translation,await readJson(root,`data/i18n/en/people/${person.id}.json`),locale.id,person.id);translations++;}catch(error){issue('translation',translationFile,error);}}

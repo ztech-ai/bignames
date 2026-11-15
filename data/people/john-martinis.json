@@ -1,0 +1,174 @@
+{
+  "id": "john-martinis",
+  "name": "约翰·马丁尼斯",
+  "enName": "John Martinis",
+  "aliases": [],
+  "birth": "1958",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "science",
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america",
+    "europe"
+  ],
+  "tags": [
+    "量子电路",
+    "超导"
+  ],
+  "role": "物理学家 · 超导量子计算研究者",
+  "summary": "马丁尼斯在伯克利接受物理训练，参与证明电路中的宏观量子隧穿与能量量子化，后在圣巴巴拉和谷歌推进超导量子处理器。其团队2019年报告特定采样任务的量子计算优势，该结果不代表通用实用计算已获突破。他共同创办Qolab，并于2025年与克拉克、德沃雷分享诺贝尔物理学奖。",
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "宏观量子效应",
+      "text": "与克拉克、德沃雷合作，在超导电路中观测量子效应。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "可编程处理器",
+      "text": "领导团队推进超导量子比特控制与处理器实验。",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生地",
+      "value": "美国加利福尼亚州洛杉矶圣佩德罗。"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "加州大学伯克利分校物理学学士（1980）、博士（1987）。"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2025-10-07",
+      "title": "分享诺贝尔奖",
+      "text": "与克拉克、德沃雷因电路中的量子现象实验共同获奖。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2022",
+      "title": "共同创办Qolab",
+      "text": "参与创办量子计算企业Qolab，推进硬件研究。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2020",
+      "title": "离开谷歌",
+      "text": "离开谷歌后，参与澳大利亚Silicon Quantum Computing研究。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2019",
+      "title": "报告采样实验",
+      "text": "Sycamore团队报告特定任务优势，引发对经典模拟成本的讨论。",
+      "sourceIds": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2014",
+      "title": "加入谷歌量子团队",
+      "text": "与团队受聘于谷歌，开发超导量子计算硬件。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2004",
+      "title": "任教圣巴巴拉",
+      "text": "进入加州大学圣巴巴拉分校，建立量子器件研究团队。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "1985",
+      "title": "开展量子电路实验",
+      "text": "在伯克利参与实验，展示电路中的隧穿和离散能级。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "1958",
+      "title": "出生于加利福尼亚",
+      "text": "1958年出生，在洛杉矶圣佩德罗长大。",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "John M. Martinis",
+      "publisher": "UC Santa Barbara",
+      "url": "https://www.ucsb.edu/about/faculty-and-alumni/john-martinis"
+    },
+    {
+      "id": "s2",
+      "title": "Nobel Prize in Physics 2025",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/2025/press-release/"
+    },
+    {
+      "id": "s3",
+      "title": "John Martinis: It’s a lifelong learning process",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/stories/students-meet-nobel-prize-laureate/john-martinis-its-a-lifelong-learning-process/"
+    },
+    {
+      "id": "s4",
+      "title": "John M. Martinis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_M._Martinis"
+    },
+    {
+      "id": "s5",
+      "title": "Martinis, John Matthew",
+      "publisher": "Croatian Encyclopedia",
+      "url": "https://www.enciklopedija.hr/clanak/martinis-john-matthew"
+    }
+  ],
+  "verifiedAt": "2026-11-15",
+  "coverageNote": "选录截至2026年11月13日可核对的重要履历；非实时新闻档案。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "推动超导量子电路与量子计算实验，参与从基础物理走向可编程量子处理器的研究。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  }
+}

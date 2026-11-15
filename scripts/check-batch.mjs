@@ -28,11 +28,13 @@ for(const c of batch.people){
   const original=collection.people.find(p=>p.id===c.id);assert(original,`${c.id}: absent from collection`);
   assert.equal(c.domain,original.domain);assert.equal(c.stars,original.influence.stars);
   const person=await json(`data/people/${c.id}.json`);assert.equal(person.id,c.id);
+  assert.equal(person.domains[0],c.domain,`${c.id}: displayed primary domain differs from selection`);
   assert.deepEqual(person.influence,original.influence,`${c.id}: rating drift`);
   assert.equal(person.death,null,`${c.id}: selected living-person batch contains a deceased/unknown person`);
   assert.equal(person.verifiedAt,batch.reviewedAt??batch.cutoffDate);
   assert(person.timeline.length>=8&&person.facts.length>=2&&person.highlights.length>=2&&person.sources.length>=3,`${c.id}: insufficient dossier coverage`);
   const audit=await json(`data/research/editorial/${c.id}.json`);assert.equal(audit.reviewer.kind,'ai');assert(audit.lifeStatusEvidence&&audit.portraitReview?.visualReview);
+  if(batch.reviewedAt)assert.equal(audit.reviewedAt,batch.reviewedAt,`${c.id}: actual editorial review date differs from batch`);
   const english=await json(`data/i18n/en/people/${c.id}.json`);
   for(const locale of locales){
     const translation=await json(`data/i18n/${locale}/people/${c.id}.json`);
@@ -42,6 +44,7 @@ for(const c of batch.people){
     counts.newForeignTranslations++;counts.translatedTextFields+=Object.keys(sourceStrings(person)).length;
   }
   const image=await json(`data/images/${c.id}.json`);validateImageMetadata(image,c.id);
+  if(batch.reviewedAt)assert.equal(image.verifiedAt,batch.reviewedAt,`${c.id}: actual portrait review date differs from batch`);
   if(hasPortrait(image)){
     assert.equal(image.kind,'photo');const file=path.join(root,'public',image.src);assert((await stat(file)).size>1000);
     assert.equal(sha(await readFile(file)),audit.portraitReview.sha256,`${c.id}: photo differs from reviewed bytes`);counts.newColorPortraits++;

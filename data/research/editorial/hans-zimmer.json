@@ -1,0 +1,77 @@
+{
+  "id": "hans-zimmer",
+  "reviewedAt": "2026-11-15",
+  "checkedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biography, independent coverage and named source photograph caption.",
+  "lifeStatusEvidence": "ABC interviewed Zimmer in September 2026 ahead of his Australian tour; official touring site also reviewed.",
+  "lifeStatusEvidenceURL": "https://www.abc.net.au/news/2026-09-01/multiple-award-winner-hans-zimmer-speaks-to-7-30/107104408",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.abc.net.au/news/2026-09-01/multiple-award-winner-hans-zimmer-speaks-to-7-30/107104408",
+    "note": "ABC interviewed Zimmer in September 2026 ahead of his Australian tour; official touring site also reviewed."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.sonyclassical.com/artists/artist-details/hans-zimmer",
+      "https://www.abc.net.au/news/2026-09-01/multiple-award-winner-hans-zimmer-speaks-to-7-30/107104408",
+      "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "https://d23.com/walt-disney-legend/hans-zimmer/",
+      "https://www.hurtwoodhouse.com/alumni/hall-of-fame/"
+    ],
+    "scope": "Actually opened/search-reviewed institutional biographies, original work/award records and independent reporting. Cached evidence was treated as unreviewed leads.",
+    "limits": "Selected career history, not exhaustive. Official promotional claims were paraphrased without superlatives. Access on 2026-11-15 is distinct from the 2026-11-13 factual cutoff; no human certification."
+  },
+  "portraitReview": {
+    "visualReview": "Inspected local contact sheet .qa/add100b/f/contact.jpg: real color photograph with visible skin/background color, consistent with named source caption and institutional identity. Original cached bytes retained; no generated or recolored imagery.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Hans-Zimmer-profile.jpg",
+    "assetPath": "public/assets/portraits/hans-zimmer.jpg",
+    "sha256": "d73aa91de30ad6fd242542eb58aaa1131d5dc159e4fe6f62ea3c36a9b7b714e2",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "author": "ColliderVideo. Uploader cropped.",
+    "caption": "الملحن هانز زيمر",
+    "color": "color-preserved",
+    "identityBasis": "Named caption and institutional visual comparison; no biometric assertion."
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and frozen faithful English intermediary followed by direct AI translation and complete field-by-field semantic review of all six targets. No public translation service, substitution lexicon, human review or native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "3e4afd7f8ed9bd9be1c1217a272ae02e42f91063f181ab0d971f6a6326383caf",
+    "englishReferenceTextHash": "d34afd5e382e4887edcb77c34cde4ed90af9e935cf291565793607150dac8ab5",
+    "method": "Complete direct AI composition and semantic review; structural checks do not independently certify quality."
+  },
+  "englishReviewMetadataNormalization": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "reviewedAt": "2026-11-15",
+    "from": "translationProvenance",
+    "to": "authorshipReview",
+    "sourceLocale": "zh",
+    "stringsUnchanged": true,
+    "canonicalSourceHashUnchanged": true,
+    "englishReferenceTextHashUnchanged": true,
+    "reason": "Preserves direct Chinese-to-English review evidence separately from the six-target English-intermediary provenance contract."
+  }
+}

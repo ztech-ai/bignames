@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { readFile, readdir } from 'node:fs/promises';
 import { JSDOM } from 'jsdom';
 import { sourceStrings, sourceHash, validateTranslation, validateUI, validateUISource, localizePerson, formatMessage } from '../scripts/i18n-core.mjs';
+import {birthYearValues} from '../scripts/utils.mjs';
 
 // These checks exercise static markup and DOM behavior. They do not certify
 // browser layout, Arabic typography, image appearance, or printed PDF output.
@@ -91,7 +92,8 @@ for (const locale of locales) {
           const n = Number(value.match(/^-?\d+/)[0]);
           return n < 0 ? formatMessage(ui['date.bce'], { year: numbers.format(-n) }) : numbers.format(n);
         };
-        assert.equal(details[0], `${year(person.birth)} — ${person.death === null ? ui['date.present'] : year(person.death)}`);
+        assert.equal(details[0], `${birthYearValues(person).map(n=>year(String(n))).join(' / ')} — ${person.death === null ? ui['date.present'] : year(person.death)}`);
+        if(person.birth===null)assert.equal(Object.hasOwn(JSON.parse(document.querySelector('script[type="application/ld+json"]').textContent),'birthDate'),false,'Disputed birth years must not become an exact structured birth date');
         const image = document.querySelector('.profile-photo .person-portrait');
         const metadata = await json(`data/images/${person.id}.json`);
         if(metadata.kind==='placeholder') {

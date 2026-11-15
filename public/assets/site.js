@@ -109,6 +109,7 @@
     }
 
     function birthYear(person) {
+      if(person.birth===null&&Array.isArray(person.birthYears))return person.birthYears[0];
       const match = String(person.birth || '').match(/^-?\d+/);
       return match ? Number(match[0]) : Number.POSITIVE_INFINITY;
     }

@@ -2,7 +2,7 @@ import { readFile, writeFile, readdir, mkdir, rm, cp } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { validateTranslation, validateIntermediary, validateUI, validateUISource, localizePerson, formatMessage } from './i18n-core.mjs';
-import { escapeHtml as e, yearOf, lifeStatus, timelineOrder, safeUrl } from './utils.mjs';
+import { escapeHtml as e, yearOf, lifeStatus, birthYearValues, timelineOrder, safeUrl } from './utils.mjs';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
@@ -50,8 +50,9 @@ const t=(key,params={})=>e(formatMessage(ui[key],params));
 const localeRoot=id=>id===localeConfig.default?'':`${id}/`;
 const assets=prefix=>`${prefix}${locale.id===localeConfig.default?'':'../'}`;
 const number=new Intl.NumberFormat(locale.lang,{useGrouping:false});
-const yearLabel=value=>yearOf(value)<0?formatMessage(ui['date.bce'],{year:number.format(Math.abs(yearOf(value)))}):number.format(yearOf(value));
-const lifeLabel=person=>`${yearLabel(person.birth)} — ${person.death?yearLabel(person.death):ui['date.present']}`;
+const yearNumberLabel=year=>year<0?formatMessage(ui['date.bce'],{year:number.format(Math.abs(year))}):number.format(year);
+const yearLabel=value=>yearNumberLabel(yearOf(value));
+const lifeLabel=person=>`${birthYearValues(person).map(yearNumberLabel).join(' / ')} — ${person.death?yearLabel(person.death):ui['date.present']}`;
 const dateLabel=value=>{
   if(value.startsWith('-'))return yearLabel(value);
   const parts=value.split('-').map(Number);
@@ -120,7 +121,7 @@ function profilePage(p,index) {
   const related=profiles.filter(x=>x.id!==p.id).sort((a,b)=> b.domains.filter(d=>p.domains.includes(d)).length-a.domains.filter(d=>p.domains.includes(d)).length).slice(0,3);
   const body=`<div class="container profile-container"><nav class="breadcrumb" aria-label="${t('nav.breadcrumb')}"><a href="${prefix}index.html#explore">${t('nav.index')}</a><span aria-hidden="true">/</span><a href="${prefix}index.html?domain=${p.domains[0]}#explore">${e(label('domains',p.domains[0]))}</a><span aria-hidden="true">/</span><span>${e(p.name)}</span></nav><div class="profile-layout"><aside class="profile-sidebar"><figure class="profile-photo">${picture(p,prefix,true)}${hasPortrait(p.image)&&p.image.kind!=='photo'?`<figcaption class="image-kind-note">${t('image.historicalNote')}</figcaption>`:''}</figure>${portraitCredit(p,prefix)}<dl class="profile-facts"><dt>${t('profile.lifespan')}</dt><dd>${e(lifeLabel(p))}</dd><dt>${t('profile.country')}</dt><dd>${e(p.country)}</dd><dt>${t('profile.eras')}</dt><dd>${p.eras.map(id=>e(label('eras',id))).join('<br>')}</dd><dt>${t('profile.regions')}</dt><dd>${p.regions.map(id=>e(label('regions',id))).join(' / ')}</dd>${p.facts.map(f=>`<dt>${e(f.label)}</dt><dd>${e(f.value)}</dd>`).join('')}</dl><div class="profile-actions"><button id="print-profile" type="button">${t('profile.print')} <span aria-hidden="true">↗</span></button><button id="copy-link" type="button">${t('profile.copy')} <span aria-hidden="true">↗</span></button><span id="copy-status" role="status" aria-live="polite"></span></div></aside><article class="profile-main"><header class="profile-heading"><p class="eyebrow">${t('profile.eyebrow',{number:String(index+1).padStart(3,'0')})}</p><h1>${e(p.name)}</h1>${p.name!==p.enName?`<p class="profile-english" lang="en" dir="ltr">${e(p.enName)}</p>`:''}<p class="profile-role">${e(p.role)}</p><div class="profile-tags">${tags.map(t=>`<a href="${prefix}index.html?${e(t.url)}#explore">${e(t.text)}</a>`).join('')}</div>${p.influence?influenceMarkup(p.influence,true):''}</header><section class="profile-section" aria-labelledby="overview"><h2 id="overview"><span class="section-number">01</span> ${t('profile.overview')}</h2><p class="profile-summary">${e(p.summary)}</p></section><section class="profile-section" aria-labelledby="achievements"><h2 id="achievements"><span class="section-number">02</span> ${t('profile.achievements')}</h2><div class="achievement-grid">${p.highlights.map(h=>`<div class="achievement"><h3>${e(h.title)}</h3><p>${e(h.text)} ${sourceLinks(p,h.sourceIds)}</p></div>`).join('')}</div></section><section class="profile-section" aria-labelledby="timeline-title"><h2 id="timeline-title"><span class="section-number">03</span> ${t('profile.timeline')} <small>${t('profile.reverse')}</small></h2><ol class="timeline">${p.timeline.map(t=>`<li class="timeline-item"><div class="timeline-date">${e(t.dateLabel??dateLabel(t.date))}</div><div class="timeline-content"><h3>${e(t.title)}</h3><p>${e(t.text)} ${sourceLinks(p,t.sourceIds)}</p></div></li>`).join('')}</ol></section><section class="profile-section sources-list" aria-labelledby="sources-title"><h2 id="sources-title"><span class="section-number">04</span> ${t('profile.sources')}</h2><ol>${p.sources.map(s=>`<li id="source-${e(s.id)}">${external(s.url,`${s.title} ↗`)}<span class="source-publisher">${e(s.publisher)}</span></li>`).join('')}</ol><div class="profile-note"><p>${t('profile.verified',{date:p.verifiedAt,count:p.timeline.length})}</p><p>${e(p.coverageNote)}</p><a href="${prefix}about.html">${t('profile.principles')} →</a></div></section></article></div><section class="related-section"><div class="section-heading"><p class="eyebrow">${t('profile.relatedEyebrow')}</p><h2>${t('profile.relatedTitle')}</h2></div><div class="related-grid">${related.map(x=>`<a class="related-card" href="../${x.id}/index.html"><span>${e(shortDomain(x.domains[0]))} / ${e(lifeLabel(x))}</span><h3>${e(x.name)}</h3><p lang="en">${e(x.enName)}</p>${arrow}</a>`).join('')}</div><a class="back-link" href="${prefix}index.html#explore">← ${t('profile.back')}</a></section></div>`;
   const jsonld={'inLanguage':locale.lang,'@context':'https://schema.org','@type':'Person',name:p.name,alternateName:[p.enName,...p.aliases],description:p.summary,sameAs:p.sources.map(s=>s.url)};
-  if(!p.birth.startsWith('-'))jsonld.birthDate=p.birth;
+  if(p.birth!==null&&!p.birth.startsWith('-'))jsonld.birthDate=p.birth;
   if(p.death&&!p.death.startsWith('-'))jsonld.deathDate=p.death;
   return layout({title:p.name,description:p.summary,body,prefix,jsonld,pageClass:'profile-page',pagePath:`people/${p.id}/index.html`});
 }
@@ -232,7 +233,7 @@ for(const bundle of prepared) {
   for(const [index,person] of profiles.entries())await write(`people/${person.id}/index.html`,views.profilePage(person,index));
   const localeScript=`window.SITE_LOCALE = ${js(locale.lang)};\nwindow.SITE_MESSAGES = ${js(ui)};\n`;
   await writeFile(path.join(output,`assets/locales/${locale.id}.js`),localeScript);
-  const indexData=profiles.map(p=>Object.fromEntries(['id','name','enName','aliases','birth','death','country','domains','eras','regions','tags','tagIds','role','summary'].map(key=>[key,p[key]])));
+  const indexData=profiles.map(p=>Object.fromEntries(['id','name','enName','aliases','birth','birthYears','death','country','domains','eras','regions','tags','tagIds','role','summary'].map(key=>[key,p[key]])));
   const indexName=locale.id===localeConfig.default?'people-index.js':`indexes/${locale.id}.js`;
   await writeFile(path.join(output,`assets/${indexName}`),`window.PEOPLE_INDEX = ${js(indexData)};\nwindow.TAXONOMY = ${js(taxonomy)};\n`);
   const homeFor404=siteBase?new URL(`${folder}index.html`,siteBase).pathname:`/${folder}index.html`;

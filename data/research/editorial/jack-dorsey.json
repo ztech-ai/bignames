@@ -1,0 +1,86 @@
+{
+  "id": "jack-dorsey",
+  "reviewedAt": "2026-11-15",
+  "checkedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biography and independent biographical coverage compared with the source caption; no biometric identification claim.",
+  "lifeStatusEvidence": "Reviewed current institutional biography or recent dated appearance: https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+  "lifeStatusEvidenceURL": "https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+    "note": "Current biography or dated recent participation supports living status at the cutoff; not inferred merely from an absent death date."
+  },
+  "sourceUrls": [
+    "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-bio-jdorsey-090518.pdf",
+    "https://en.wikipedia.org/wiki/Jack_Dorsey",
+    "https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+    "https://squareup.com/us/en/press/square-changes-name-to-block"
+  ],
+  "sourceReview": {
+    "scope": "Opened or searched the listed institutional, original-work and independent sources. Cached research was treated as unreviewed leads and original concise prose was authored.",
+    "limits": "Selected important milestones; dynamic source pages accessed on 2026-11-15 are distinguished from the 2026-11-13 factual cutoff. Search excerpts used where full pages were blocked; no claim of continuous monitoring. Web reader sometimes returned403 for Nobel or university pages; successful CLI retrieval of the same public page was used where available. Format checks certify neither facts nor individual access results.",
+    "checkedAt": "2026-11-15",
+    "accessResults": [
+      {
+        "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-bio-jdorsey-090518.pdf",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jack_Dorsey",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      },
+      {
+        "url": "https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+        "accessedAt": "2026-11-15",
+        "result": "HTTP Error 401: Unauthorized; available indexed excerpts used with other sources"
+      },
+      {
+        "url": "https://squareup.com/us/en/press/square-changes-name-to-block",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      }
+    ]
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected the local color contact sheet .qa/add100b/a/contact.jpg or individual local photo. Person is a real photographic subject consistent with the named caption and institutional likeness; original color bytes preserved.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jack_Dorsey_2014.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_Dorsey_2014.jpg",
+    "assetPath": "public/assets/portraits/jack-dorsey.jpg",
+    "sha256": "49b69261fb03e61e91b34ebbecd57c53e3edfccb2ddccdedf6669c3d3efe8769",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "cellanr",
+    "caption": "Jack Dorsey, Twitter and Square founder, in a London cafe in November 2014.",
+    "color": true,
+    "identityBasis": "Named source caption compared with institutional biographical portrait; no biometric assertion."
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete field-by-field AI semantic review of French, Arabic, German, Japanese, Spanish and Korean. Every displayed field, including influence rationale, is included.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained. English and all six translations preserve every concept.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "47125f2ef2c85d9132fd3170f0bd27425ea119f1954a371ec8d94a19b94d6412",
+    "englishReferenceTextHash": "761c19f5ccb2959eb8bf7719441b07b2bbc864e9fb0560cd566b16a6373cc754",
+    "method": "Direct AI translation and complete semantic review; format validation does not independently establish factual or linguistic quality."
+  }
+}

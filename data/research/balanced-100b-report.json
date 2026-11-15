@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "batch": "balanced-100b-2026-11",
+  "cutoffDate": "2026-11-13",
+  "counts": {
+    "newProfiles": 100,
+    "unchangedPreviousCanonicalFiles": 225,
+    "newTimelineEvents": 807,
+    "newSourceRecords": 465,
+    "newFacts": 200,
+    "newHighlights": 200,
+    "newForeignTranslations": 700,
+    "translatedTextFields": 22498,
+    "reviewedForeignTranslations": 600,
+    "newColorPortraits": 100,
+    "approvedPortraitPlaceholders": 0
+  },
+  "domains": {
+    "technology": 13,
+    "business": 13,
+    "politics": 13,
+    "culture": 13,
+    "science": 12,
+    "literature": 12,
+    "arts": 12,
+    "sports": 12
+  },
+  "highestEligibleStars": 4,
+  "newProfileHtmlPages": 800,
+  "totalProfiles": 325,
+  "totalHtmlPages": 2640,
+  "limits": [
+    "Structural/version checks and review-record consistency; not independent certification of source claims, portrait identity or native-language quality.",
+    "Portrait color and identity were inspected by AI editors; hashes only link these records to the delivered bytes."
+  ]
+}

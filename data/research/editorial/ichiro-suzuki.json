@@ -1,0 +1,76 @@
+{
+  "id": "ichiro-suzuki",
+  "reviewedAt": "2026-11-15",
+  "checkedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named institutional biography, independent coverage and named source photograph caption.",
+  "lifeStatusEvidence": "MLB player news records public alumni appearances in August 2026; Hall of Fame and SABR biographies corroborate identity.",
+  "lifeStatusEvidenceURL": "https://www.mlb.com/player/ichiro-suzuki-400085",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.mlb.com/player/ichiro-suzuki-400085",
+    "note": "MLB player news records public alumni appearances in August 2026; Hall of Fame and SABR biographies corroborate identity."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://baseballhall.org/hall-of-famers/suzuki-ichiro",
+      "https://sabr.org/bioproj/person/ichiro-suzuki/",
+      "https://en.wikipedia.org/wiki/Ichiro_Suzuki",
+      "https://www.mlb.com/player/ichiro-suzuki-400085"
+    ],
+    "scope": "Actually opened/search-reviewed institutional biographies, original work/award records and independent reporting. Cached evidence was treated as unreviewed leads.",
+    "limits": "Selected career history, not exhaustive. Official promotional claims were paraphrased without superlatives. Access on 2026-11-15 is distinct from the 2026-11-13 factual cutoff; no human certification."
+  },
+  "portraitReview": {
+    "visualReview": "Inspected local contact sheet .qa/add100b/f/contact.jpg: real color photograph with visible skin/background color, consistent with named source caption and institutional identity. Original cached bytes retained; no generated or recolored imagery.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Ichiro_Suzuki_on_May_11,_2011.jpg",
+    "assetPath": "public/assets/portraits/ichiro-suzuki.jpg",
+    "sha256": "db1f628ca95462ea372749861405319ca4c0599b62f8f1a09d7f239308bc4af4",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Keith Allison",
+    "caption": "Seattle Mariners right fielder Ichiro Suzuki (51) in action during the Seattle Mariners at Baltimore Orioles game on May 11, 2011.",
+    "color": "color-preserved",
+    "identityBasis": "Named caption and institutional visual comparison; no biometric assertion."
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained.",
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese original and frozen faithful English intermediary followed by direct AI translation and complete field-by-field semantic review of all six targets. No public translation service, substitution lexicon, human review or native-speaker certification.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "9823a7ccca927c5b41cce8fa005dcbe7de667b16d4b4718f3531b9dd03f50343",
+    "englishReferenceTextHash": "5d71c1302c03c765db75aa1a92ee06cb50c2676bd632fd931bf8d2f88803c39b",
+    "method": "Complete direct AI composition and semantic review; structural checks do not independently certify quality."
+  },
+  "englishReviewMetadataNormalization": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "reviewedAt": "2026-11-15",
+    "from": "translationProvenance",
+    "to": "authorshipReview",
+    "sourceLocale": "zh",
+    "stringsUnchanged": true,
+    "canonicalSourceHashUnchanged": true,
+    "englishReferenceTextHashUnchanged": true,
+    "reason": "Preserves direct Chinese-to-English review evidence separately from the six-target English-intermediary provenance contract."
+  }
+}

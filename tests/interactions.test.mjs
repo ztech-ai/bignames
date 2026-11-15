@@ -176,6 +176,19 @@ test('chronological sort handles BCE births and restoring editorial order works'
   assert.deepEqual(visiblePeople(document), originalPage);
 });
 
+test('birth sorting keeps disputed years in chronological position across pagination',t=>{
+  const {document,window}=openPage(t);
+  select(window,'sort','birth');
+  const displayed=[];
+  for(let page=1;page<=Math.ceil(indexData.length/12);page++){
+    if(page>1)document.querySelector('#pagination [aria-label="下一页"]').click();
+    displayed.push(...visiblePeople(document));
+  }
+  const earliest=p=>p.birth===null?Math.min(...p.birthYears):Number(p.birth.match(/^-?\d+/)[0]);
+  const expected=[...indexData].sort((a,b)=>earliest(a)-earliest(b)).map(p=>p.id);
+  assert.deepEqual(displayed,expected);
+});
+
 test('keyboard shortcut focuses search and Chinese composition commits only when complete', async t => {
   const { document, window } = openPage(t);
   document.body.dispatchEvent(new window.KeyboardEvent('keydown', { key: '/', bubbles: true }));

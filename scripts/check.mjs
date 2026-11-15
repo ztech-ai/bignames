@@ -2,7 +2,7 @@ import { readFile, readdir, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import { timelineOrder, yearOf, safeUrl, lifeStatus } from './utils.mjs';
+import { timelineOrder, yearOf, safeUrl, lifeStatus, birthYearValues } from './utils.mjs';
 import { sourceStrings, validateTranslation, validateIntermediary, validateUI, validateUISource } from './i18n-core.mjs';
 import { validateInfluence } from './influence.mjs';
 import { createHash } from 'node:crypto';
@@ -35,8 +35,8 @@ for(const file of files) {
   // Rating reasons use the same strict translation contract as biography prose.
   for(const key of ['name','enName','country','role','summary','coverageNote','verifiedAt']) assert.equal(typeof p[key],'string',`${p.id}: missing ${key}`);
   assert.match(p.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
-  assert.match(p.birth,datePattern);
-  if(lifeStatus(p)==='deceased') { assert.match(p.death,datePattern); assert(yearOf(p.death)>=yearOf(p.birth)); }
+  const earliestBirthYear=birthYearValues(p)[0];
+  if(lifeStatus(p)==='deceased') { assert.match(p.death,datePattern); assert(yearOf(p.death)>=earliestBirthYear); }
   for(const group of ['domains','eras','regions']) {
     assert(Array.isArray(p[group])&&p[group].length>0,`${p.id}: empty ${group}`);
     assert.equal(new Set(p[group]).size,p[group].length,`${p.id}: duplicate ${group}`);
@@ -54,7 +54,7 @@ for(const file of files) {
   }
   p.timeline.forEach((t,i)=> {
     assert.match(t.date,datePattern);
-    assert(yearOf(t.date)>=yearOf(p.birth),`${p.id}: event before birth`);
+    assert(yearOf(t.date)>=earliestBirthYear,`${p.id}: event before all possible birth years`);
     assert(!i||timelineOrder(p.timeline[i-1],t)<=0,`${p.id}: chronology not descending`);
   });
   const image = await readJson(`data/images/${p.id}.json`);

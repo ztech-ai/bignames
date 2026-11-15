@@ -1,0 +1,175 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "826a8da3a2b781a4f673cd10bf34f8bbbcecdfe68edecc25297144d37a893ec4",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "anders-hejlsberg",
+    "name": "安德斯·海尔斯伯格",
+    "enName": "Anders Hejlsberg",
+    "aliases": [],
+    "birth": "1960-12-02",
+    "death": null,
+    "country": "丹麦 / 美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "tags": [
+      "程序设计语言",
+      "开发工具"
+    ],
+    "role": "软件工程师 · 语言与编译器设计者",
+    "summary": "海尔斯伯格在丹麦成长，早期编写Pascal编译器，后在Borland推动Turbo Pascal和Delphi开发。1996年加入微软，参与设计C#，又领导TypeScript，为JavaScript的大型应用添加类型检查工具。他的工作重视快速反馈、兼容性及团队协作，影响了多代开发环境；相关语言和编译器均是长期团队与社区工作的成果。",
+    "highlights": [
+      {
+        "id": "h1",
+        "title": "开发工具演进",
+        "text": "从Turbo Pascal到Delphi，改进编译与编辑体验，缩短开发反馈周期。",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "h2",
+        "title": "语言与规模化开发",
+        "text": "参与C#设计并领导TypeScript，将类型与工具支持用于大型软件项目。",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生地",
+        "value": "丹麦哥本哈根。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "曾在丹麦技术大学学习工程，未完成学位。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2026-01",
+        "title": "回顾语言与工具设计",
+        "text": "在GitHub访谈中讨论开放开发、编译性能以及AI编程对工具的要求。",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "id": "t2",
+        "date": "2014",
+        "title": "TypeScript转向公开协作",
+        "text": "项目迁移至GitHub，以公开问题与代码评审深化社区参与。",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "id": "t3",
+        "date": "2012",
+        "title": "公布TypeScript",
+        "text": "介绍扩展JavaScript的类型系统和工具，面向大型应用开发。",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ]
+      },
+      {
+        "id": "t4",
+        "date": "2000",
+        "title": "参与发布C#",
+        "text": "与微软团队开发C#，结合类型安全、面向对象和平台需求。",
+        "sourceIds": [
+          "s3"
+        ]
+      },
+      {
+        "id": "t5",
+        "date": "1996",
+        "title": "加入微软",
+        "text": "离开Borland，开始在微软开展语言与开发平台工作。",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ]
+      },
+      {
+        "id": "t6",
+        "date": "1995",
+        "title": "推出Delphi",
+        "text": "担任关键架构师，将Pascal经验用于可视化应用开发工具。",
+        "sourceIds": [
+          "s2"
+        ]
+      },
+      {
+        "id": "t7",
+        "date": "1983",
+        "title": "Turbo Pascal面世",
+        "text": "其编译器工作成为Borland产品核心，强调快速编译与集成体验。",
+        "sourceIds": [
+          "s2"
+        ]
+      },
+      {
+        "id": "t8",
+        "date": "1960-12-02",
+        "title": "出生于哥本哈根",
+        "text": "在丹麦成长，后来学习工程并投入微型计算机软件开发。",
+        "sourceIds": [
+          "s2"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "7 learnings from Anders Hejlsberg",
+        "publisher": "GitHub Blog",
+        "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/"
+      },
+      {
+        "id": "s2",
+        "title": "Anders Hejlsberg",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anders_Hejlsberg"
+      },
+      {
+        "id": "s3",
+        "title": "ECMA-334, C# Language Specification",
+        "publisher": "Ecma International",
+        "url": "https://ecma-international.org/wp-content/uploads/ECMA-334_7th_edition_december_2023.pdf"
+      },
+      {
+        "id": "s4",
+        "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+        "publisher": "The Pragmatic Engineer",
+        "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with"
+      }
+    ],
+    "verifiedAt": "2026-11-15",
+    "coverageNote": "选录截至2026年11月13日可核对的重要履历；核对日为2026年11月15日，非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与设计Turbo Pascal、C#与TypeScript，影响现代编程语言工具与大型软件开发。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

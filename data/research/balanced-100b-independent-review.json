@@ -1,0 +1,332 @@
+{
+  "status": "completed-with-corrections",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "independentLanguageReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "reviewedAt": "2026-11-15",
+    "scope": "Independent bounded read-only semantic comparison of every displayed Chinese, English and Spanish field for four frozen dossiers, including name,role,country,summary,coverageNote,tags,influence rationale,two facts,two highlights and all eight timeline milestones. Canonical dates and references inspected. No other languages, portraits, unpublished assets, exhaustive source verification, human review or native-speaker certification.",
+    "files": [
+      {
+        "path": "data/people/omar-yaghi.json",
+        "sha256": "718f655de12f63fb1a75407341b84257f88a13f938ded010f7e167143545f4ac",
+        "bytes": 4594
+      },
+      {
+        "path": "data/i18n/en/people/omar-yaghi.json",
+        "sha256": "d5be9aa2d22466cbdd9d2056f42a7c026facc641fcde746881f4c38f72597289",
+        "bytes": 2921
+      },
+      {
+        "path": "data/i18n/es/people/omar-yaghi.json",
+        "sha256": "ad5bb7079d35559955e5643e590cea94e2eb957c1ba1790a978a22c7143260a5",
+        "bytes": 4488
+      },
+      {
+        "path": "data/people/maria-ressa.json",
+        "sha256": "e04fd470a37b7aaf17151501f103fbd64ff613e36ee3780ec28aac14401996ae",
+        "bytes": 4913
+      },
+      {
+        "path": "data/i18n/en/people/maria-ressa.json",
+        "sha256": "83bcdda85bfbba3effe0c150285351fb27cc1ccb50e6e594810f6979a879ac47",
+        "bytes": 2801
+      },
+      {
+        "path": "data/i18n/es/people/maria-ressa.json",
+        "sha256": "21cab7cf4b04784685fc2ad72818f7714c982a00b47e8d0c9c4d2eb2d83da901",
+        "bytes": 4265
+      },
+      {
+        "path": "data/people/j-m-coetzee.json",
+        "sha256": "1c07e08bd5e4228a03b2b87610d8217391dfda659db466220750a02d436dc887",
+        "bytes": 4322
+      },
+      {
+        "path": "data/i18n/en/people/j-m-coetzee.json",
+        "sha256": "1e0e33bb6b6db2fbc244981514be9ce35080aaeb6e2dc91f4aceaa3ed4c2f7eb",
+        "bytes": 3998
+      },
+      {
+        "path": "data/i18n/es/people/j-m-coetzee.json",
+        "sha256": "4e1a2385a7b7a7fc0a2b90da871063cb59d3a8e6c28771807e10caee49bb2567",
+        "bytes": 4296
+      },
+      {
+        "path": "data/people/andrej-karpathy.json",
+        "sha256": "28303a5bbaa96f4e677d35e6db2fb582d7076816395695ca3ee699aef9960128",
+        "bytes": 4876
+      },
+      {
+        "path": "data/i18n/en/people/andrej-karpathy.json",
+        "sha256": "96b15133d15388df22073a13297185cc1c838c2f410e6973968398fa76b56a27",
+        "bytes": 3162
+      },
+      {
+        "path": "data/i18n/es/people/andrej-karpathy.json",
+        "sha256": "345ffbd8dc04eb980fb370ab4658884ddc0f383689eb30dfe467d7714df1e2f8",
+        "bytes": 4570
+      }
+    ],
+    "displayFieldsReviewed": 384,
+    "findings": [
+      {
+        "id": "coetzee-es-summary-chronology",
+        "person": "j-m-coetzee",
+        "severity": "medium",
+        "path": "data/i18n/es/people/j-m-coetzee.json",
+        "key": "strings.summary",
+        "observed": "Tras el Nobel de 2003 continuó escribiendo narrativa, crítica y traducciones, se instaló en Australia y obtuvo su ciudadanía",
+        "issue": "Temporal construction implies move to Australia after 2003, conflicting with canonical timeline 2002. Citizenship2006 is correctly after the Nobel.",
+        "recommendation": "Separate dated relocation/citizenship from post-Nobel writing, e.g. Se instaló en Australia en 2002 y obtuvo la ciudadanía en 2006. Tras el Nobel de 2003 continuó escribiendo narrativa, crítica y traducciones. Preserve the animal-ethics clause.",
+        "sourceBasis": "Canonical timeline.t3 date 2002; timeline.t1 date 2006; Booker source confirms 2006 citizenship. Nobel biography direct request returned 403."
+      },
+      {
+        "id": "ressa-es-social-media-wording",
+        "person": "maria-ressa",
+        "severity": "low",
+        "path": "data/i18n/es/people/maria-ressa.json",
+        "key": "strings.summary",
+        "observed": "investigó abusos de poder y desinformación social",
+        "issue": "Chinese and English explicitly specify misinformation on social-media platforms; Spanish wording loses that setting and sounds unnatural.",
+        "recommendation": "Use investigó abusos de poder y la desinformación en las redes sociales."
+      }
+    ],
+    "results": [
+      {
+        "id": "omar-yaghi",
+        "displayFieldsPerLocale": 32,
+        "reviewedLocales": [
+          "zh",
+          "en",
+          "es"
+        ],
+        "status": "scoped-ai-review-passed",
+        "notes": [
+          "Chinese, English and Spanish preserve Nobel shared credit, 1985/1990 education chronology, framework research and all influence concepts.",
+          "Direct Tsinghua source confirms full-time chair appointment on July 3, 2026 and describes planned establishment of AIMATRY; dossier does not assert institute completion or widespread applications."
+        ]
+      },
+      {
+        "id": "maria-ressa",
+        "displayFieldsPerLocale": 32,
+        "reviewedLocales": [
+          "zh",
+          "en",
+          "es"
+        ],
+        "status": "scoped-ai-review-passed-with-wording-note",
+        "notes": [
+          "All three clearly distinguish government recommendation for acquittal from final verdict and preserve the separate cyberlibel appeal.",
+          "ICFJ April 2026 explicitly distinguishes closure of corporate case from cyberlibel final appeal. Bounded current search found recommendation material and no contrary final disposition; not an exhaustive docket search.",
+          "Spanish summary has a minor wording loss: desinformación social does not explicitly convey social-media platforms."
+        ]
+      },
+      {
+        "id": "j-m-coetzee",
+        "displayFieldsPerLocale": 32,
+        "reviewedLocales": [
+          "zh",
+          "en",
+          "es"
+        ],
+        "status": "issue-found",
+        "notes": [
+          "Award years and education facts align across all 3. Influence rationale preserves named works, power/colonialism/ethics and South African/world literary discussion.",
+          "Spanish summary shifts relocation under the temporal scope of Tras el Nobel de 2003; canonical t3 correctly dates the move2002."
+        ]
+      },
+      {
+        "id": "andrej-karpathy",
+        "displayFieldsPerLocale": 32,
+        "reviewedLocales": [
+          "zh",
+          "en",
+          "es"
+        ],
+        "status": "scoped-ai-review-passed",
+        "notes": [
+          "All3 preserve 2026 Anthropic pretraining move, Eureka Labs as announced education initiative, previous Tesla/OpenAI roles and all influence rationale concepts.",
+          "Direct Reuters May 19, 2026 confirms joining and team remit. Personal site corroborates degrees and earlier jobs. Canonical deliberately gives no Stanford completion year, avoiding its career-summary/thesis-date ambiguity."
+        ]
+      }
+    ],
+    "targetedSourcesOpened": [
+      {
+        "url": "https://www.tsinghua.edu.cn/en/info/1244/14984.htm",
+        "result": "Read full appointment report; completed appointment distinguished from future institute establishment."
+      },
+      {
+        "url": "https://karpathy.ai/",
+        "result": "Read relevant education, employment and teaching sections; extraneous humorous text ignored."
+      },
+      {
+        "url": "https://www.reuters.com/business/autos-transportation/former-tesla-ai-executive-openai-founding-member-andrej-karpathy-joins-anthropic-2026-05-19/",
+        "result": "Read joining date, company confirmation and pretraining remit."
+      },
+      {
+        "url": "https://www.icfj.org/news/key-case-against-maria-ressa-and-rappler-comes-end",
+        "result": "Read April 3, 2026 distinction between corporate case closure and separate cyberlibel appeal."
+      },
+      {
+        "url": "https://newsinfo.inquirer.net/2193463/fwd-subject-osg-asks-sc-ressas-acquittal-in-cyber-libel-case",
+        "result": "Direct 403; search extraction describes recommendation, not final acquittal."
+      },
+      {
+        "url": "https://thebookerprizes.com/the-booker-library/authors/jm-coetzee",
+        "result": "Read award years and2006 citizenship."
+      },
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/2003/coetzee/biographical/",
+        "result": "Direct 403; no unread body treated as inspected."
+      }
+    ],
+    "mutations": "Only this ignored independent review report written; no person,translation,audit,image,shared documentation or script edits; no build,commit,deploy.",
+    "conclusion": "Scoped independent AI review found two semantic issues; owners corrected them and related locale wording, root read the final two Spanish summary fields. Yaghi/Karpathy passed the defined comparison scope. This is not exhaustive or human/native-language certification.",
+    "resolutionStatus": {
+      "coetzee-es-summary-chronology": {
+        "status": "resolved",
+        "owner": "group-e",
+        "rootCheckedFields": [
+          "es/strings.summary"
+        ],
+        "ownerAlsoReviewedAndCorrected": [
+          "de/strings.summary",
+          "ko/strings.summary"
+        ],
+        "note": "Final Spanish summary explicitly dates relocation2002/citizenship2006 and separates post2003Nobel writing. Canonical/English prose unchanged."
+      },
+      "ressa-es-social-media-wording": {
+        "status": "resolved",
+        "owner": "group-c",
+        "rootCheckedFields": [
+          "es/strings.summary"
+        ],
+        "ownerAlsoReviewedAndCorrected": [
+          "fr/strings.summary",
+          "de/strings.summary"
+        ],
+        "note": "Final Spanish preserves misinformation on social-media platforms and recommendation-versus-ruling distinction."
+      }
+    },
+    "finalFileReferences": [
+      {
+        "path": "data/people/omar-yaghi.json",
+        "sha256": "718f655de12f63fb1a75407341b84257f88a13f938ded010f7e167143545f4ac",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/en/people/omar-yaghi.json",
+        "sha256": "d5be9aa2d22466cbdd9d2056f42a7c026facc641fcde746881f4c38f72597289",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/es/people/omar-yaghi.json",
+        "sha256": "ad5bb7079d35559955e5643e590cea94e2eb957c1ba1790a978a22c7143260a5",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/people/maria-ressa.json",
+        "sha256": "e04fd470a37b7aaf17151501f103fbd64ff613e36ee3780ec28aac14401996ae",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/en/people/maria-ressa.json",
+        "sha256": "83bcdda85bfbba3effe0c150285351fb27cc1ccb50e6e594810f6979a879ac47",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/es/people/maria-ressa.json",
+        "sha256": "266196ce5e3be404ff12028c0e3a6195f1b404f93a5e8ce7dbfc88c89130018b",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/people/j-m-coetzee.json",
+        "sha256": "1c07e08bd5e4228a03b2b87610d8217391dfda659db466220750a02d436dc887",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/en/people/j-m-coetzee.json",
+        "sha256": "f6e26d437c8773646f058813235c5f06a320919402f2d983d9df60e86e9b9598",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/es/people/j-m-coetzee.json",
+        "sha256": "ee518ad7dc02d55d8dfd2dcc1170034b5ccf177475f34580189b5ed5a7c70609",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/people/andrej-karpathy.json",
+        "sha256": "28303a5bbaa96f4e677d35e6db2fb582d7076816395695ca3ee699aef9960128",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/en/people/andrej-karpathy.json",
+        "sha256": "96b15133d15388df22073a13297185cc1c838c2f410e6973968398fa76b56a27",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      },
+      {
+        "path": "data/i18n/es/people/andrej-karpathy.json",
+        "sha256": "345ffbd8dc04eb980fb370ab4658884ddc0f383689eb30dfe467d7714df1e2f8",
+        "note": "Final byte reference after owner correction and/or metadata-only English review normalization; initial review hashes preserved above."
+      }
+    ]
+  },
+  "targetedRootSourceReview": [
+    {
+      "id": "maria-corina-machado",
+      "claim": "Return to Venezuela on2026-10-27",
+      "source": "https://www.nobelpeaceprize.org/press/press-releases/the-norwegian-nobel-committee-welcomes-maria-corina-machado-s-return-to-venezuela",
+      "result": "Primary dated Nobel committee statement confirms return and2025 prize year; narrative attributes committee's democratic-transition advocacy."
+    },
+    {
+      "id": "omar-yaghi",
+      "claim": "Full-time Tsinghua appointment on2026-07-03; institute remains a planned establishment",
+      "source": "https://www.tsinghua.edu.cn/en/info/1244/14984.htm",
+      "result": "Primary appointment report confirms ceremony/full-time role and uses future tense for AI Chemistry and Materials institute; dossier preserves distinction."
+    },
+    {
+      "id": "jack-dorsey",
+      "claim": "Block announced more than4000 job cuts in February2026 and Dorsey attributed overhaul to AI tools",
+      "source": "https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/",
+      "result": "Reuters dated2026-02-26 corroborates announced cuts and attributes AI rationale to CEO; dossier does not convert announcement into independently proven completed productivity gains."
+    },
+    {
+      "id": "gautam-adani",
+      "claim": "August2026 dismissal of criminal counts against him",
+      "sources": [
+        "https://www.reuters.com/legal/government/us-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10/",
+        "https://www.nacdl.org/getattachment/ef21bd70-4b84-4936-adbb-6ad01c587cdc/m-gov-uscourts-nyed-522756-49-0.pdf"
+      ],
+      "result": "Court/reporting search confirms Aug10 order with prejudice; owner asked to directly cite supporting court/report instead of generic bio and distinguish dismissal from factual acquittal/civil matters."
+    },
+    {
+      "id": "li-shufu",
+      "claim": "Stepped down from listed Geely Auto chair effective2026-08-18 but remains parent chair",
+      "source": "https://www.yicaiglobal.com/news/geely-auto-chairman-li-shufu-steps-down-marking-end-of-founder-led-era",
+      "result": "Independent Yicai/CnEVPost/WSJ reporting corroborates distinction. Owner confirms direct Yicai source already listed and will fix event sourceIds to supporting article; gambling-domain search mirror excluded."
+    },
+    {
+      "id": "benjamin-netanyahu",
+      "claim": "2026 election/November formation process does not establish a completed successor premiership",
+      "sources": [
+        "https://embassies.gov.il/egypt/en/news/president-herzog-tasks-gadi-eisenkot-forming-government-8-nov-2026",
+        "https://www.reuters.com/world/middle-east/netanyahu-rival-eisenkot-seeks-wide-government-path-power-uncertain-2026-11-08/"
+      ],
+      "result": "Primary Nov8 mandate ceremony/Reuters supports government-formation mandate to Eisenkot while Netanyahu remains incumbent. Nov7 announcement distinguished from actual Nov8 ceremony; owner notified."
+    },
+    {
+      "id": "alexia-putellas",
+      "claim": "Joined London City Lionesses inJuly2026, no longer current Barcelona player",
+      "sources": [
+        "https://www.londoncitylionesses.com/squad/alexia-putellas",
+        "https://www.wslfootball.com/news/wsl/alexia-putellas-signs-for-london-city"
+      ],
+      "result": "Official club and league source search confirms July8 signing; narrative must not keep stale Barcelona present-tense role."
+    }
+  ],
+  "limits": "AI source/semantic review of the stated subset; full author reviews are in individual audits. No universal factual or native-language certification."
+}

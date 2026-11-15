@@ -1,0 +1,92 @@
+{
+  "id": "bob-metcalfe",
+  "reviewedAt": "2026-11-15",
+  "checkedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Named institutional biography and independent biographical coverage compared with the source caption; no biometric identification claim.",
+  "lifeStatusEvidence": "Reviewed current institutional biography or recent dated appearance: https://www.acmturc.com/2026/en/keynote.html",
+  "lifeStatusEvidenceURL": "https://www.acmturc.com/2026/en/keynote.html",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.acmturc.com/2026/en/keynote.html",
+    "note": "Current biography or dated recent participation supports living status at the cutoff; not inferred merely from an absent death date."
+  },
+  "sourceUrls": [
+    "https://news.mit.edu/2023/bob-metcalfe-wins-acm-turing-award-0322",
+    "https://awards.acm.org/about/2022-turing",
+    "https://news.utexas.edu/2023/03/22/bob-metcalfe-receives-computer-industrys-highest-honor-for-ethernet-creation/",
+    "https://en.wikipedia.org/wiki/Robert_Metcalfe",
+    "https://www.acmturc.com/2026/en/keynote.html"
+  ],
+  "sourceReview": {
+    "scope": "Opened or searched the listed institutional, original-work and independent sources. Cached research was treated as unreviewed leads and original concise prose was authored.",
+    "limits": "Selected important milestones; dynamic source pages accessed on 2026-11-15 are distinguished from the 2026-11-13 factual cutoff. Search excerpts used where full pages were blocked; no claim of continuous monitoring. Web reader sometimes returned403 for Nobel or university pages; successful CLI retrieval of the same public page was used where available. Format checks certify neither facts nor individual access results. ACM full award page returned403; MIT and UT institutional reports and fresh indexed ACM evidence corroborate award details.",
+    "checkedAt": "2026-11-15",
+    "accessResults": [
+      {
+        "url": "https://news.mit.edu/2023/bob-metcalfe-wins-acm-turing-award-0322",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      },
+      {
+        "url": "https://awards.acm.org/about/2022-turing",
+        "accessedAt": "2026-11-15",
+        "result": "HTTP Error 403: Forbidden; available indexed excerpts used with other sources"
+      },
+      {
+        "url": "https://news.utexas.edu/2023/03/22/bob-metcalfe-receives-computer-industrys-highest-honor-for-ethernet-creation/",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      },
+      {
+        "url": "https://www.acmturc.com/2026/en/keynote.html",
+        "accessedAt": "2026-11-15",
+        "result": "full-text downloaded and reviewed or consulted alongside indexed search evidence"
+      }
+    ]
+  },
+  "portraitReview": {
+    "visualReview": "Actually inspected the local color contact sheet .qa/add100b/a/contact.jpg or individual local photo. Person is a real photographic subject consistent with the named caption and institutional likeness; original color bytes preserved.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:With_Bob_Metcalfe_(cropped).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:With_Bob_Metcalfe_(cropped).jpg",
+    "assetPath": "public/assets/portraits/bob-metcalfe.jpg",
+    "sha256": "3c63be203747f92d8979dc0b245692ef23fa2c1935d83959d85ffb24c3603ec3",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Andreu Veà, WiWiW.org",
+    "caption": "during his personal interview to record his voice at his home in Boston",
+    "color": true,
+    "identityBasis": "Named source caption compared with institutional biographical portrait; no biometric assertion."
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete field-by-field AI semantic review of French, Arabic, German, Japanese, Spanish and Korean. Every displayed field, including influence rationale, is included.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object retained. English and all six translations preserve every concept.",
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "d1a1936bf0493441ba81af7315295eb08e24770eb5ec554815475067f0cb05a0",
+    "englishReferenceTextHash": "3f8cc57324f3ed6123f65248077de66d0f3288de5c36b3cda89af5c0b7469d8f",
+    "method": "Direct AI translation and complete semantic review; format validation does not independently establish factual or linguistic quality."
+  }
+}
