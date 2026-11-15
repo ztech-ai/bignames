@@ -1,0 +1,121 @@
+{
+  "id": "tom-cruise",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "HOLA March9,2026 reports his actual Saturn Awards appearance, corroborating the named local2026 photograph. Official 2025 Governors Awards records his acceptance, and the named March 2026 Saturn Awards photograph is contemporary dated evidence of public activity; not inferred solely from missing death data.",
+  "lifeStatusEvidenceURL": "https://www.hola.com/us/celebrities/20260309888430/tom-cruise-rare-awards-season-appearance-supporting-nominees/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.hola.com/us/celebrities/20260309888430/tom-cruise-rare-awards-season-appearance-supporting-nominees/",
+    "note": "HOLA March9,2026 reports his actual Saturn Awards appearance, corroborating the named local2026 photograph. Official 2025 Governors Awards records his acceptance, and the named March 2026 Saturn Awards photograph is contemporary dated evidence of public activity; not inferred solely from missing death data."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "tom-cruise",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Tom_Cruise",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Tom Cruise - Wikipedia",
+        "characters": 110598
+      },
+      {
+        "id": "tom-cruise",
+        "sourceId": "s2",
+        "url": "https://www.oscars.org/governors/ceremonies/2025",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "2025 Governors Awards | 2025",
+        "characters": 2190
+      },
+      {
+        "id": "tom-cruise",
+        "sourceId": "s3",
+        "url": "https://www.reuters.com/business/media-telecom/tom-cruise-touts-power-cinema-he-accepts-honorary-oscar-2025-11-17/",
+        "checkedAt": "2026-11-15",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "id": "tom-cruise",
+        "sourceId": "s4",
+        "url": "https://www.biography.com/actors/tom-cruise",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Tom Cruise: Biography, Actor, Oscar Nominee",
+        "characters": 18175
+      },
+      {
+        "id": "tom-cruise",
+        "sourceId": "s5",
+        "url": "https://www.hola.com/us/celebrities/20260309888430/tom-cruise-rare-awards-season-appearance-supporting-nominees/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Tom Cruise pops up during awards season in a rare show of support for this year’s nominees",
+        "characters": 5704
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tom_Cruise",
+      "https://www.oscars.org/governors/ceremonies/2025",
+      "https://www.reuters.com/business/media-telecom/tom-cruise-touts-power-cinema-he-accepts-honorary-oscar-2025-11-17/",
+      "https://www.biography.com/actors/tom-cruise",
+      "https://www.hola.com/us/celebrities/20260309888430/tom-cruise-rare-awards-season-appearance-supporting-nominees/"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Academy record and Biography.com opened in full; Reuters article available through search summary but direct access returned 401. Biography.com supplied background only. All claims are paraphrased; award is honorary."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
+    "assetPath": "public/assets/portraits/tom-cruise.jpg",
+    "sha256": "776410540c6fddeda3c3b56b4e1b03353c64376a7fdb6cbee4a1bc33fe0cb5d0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Kevin Paul",
+    "caption": "Tom Cruise at the 53rd Saturn Awards",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2025-11-16",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Tom_Cruise",
+    "https://www.oscars.org/governors/ceremonies/2025",
+    "https://www.reuters.com/business/media-telecom/tom-cruise-touts-power-cinema-he-accepts-honorary-oscar-2025-11-17/",
+    "https://www.biography.com/actors/tom-cruise",
+    "https://www.hola.com/us/celebrities/20260309888430/tom-cruise-rare-awards-season-appearance-supporting-nominees/"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "d82da01953e16c2c7f4eab11db13a346ccf2087af3576d20286813a58239dbc3",
+    "englishReferenceTextHash": "1b7b19229dbda1a7fe57851032e8fe15b1abf2caf8e25adfa856baec085c8ae8",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

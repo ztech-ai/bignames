@@ -1,0 +1,123 @@
+{
+  "id": "stevie-wonder",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "Universal Music Canada September28,2026 announces Wonder-selected archival tracks and current anniversary tour; Pitchfork September8 reports his own tour announcement.",
+  "lifeStatusEvidenceURL": "https://www.universalmusic.ca/2026/09/28/stevie-wonder-celebrates-50-years-of-songs-in-the-key-of-life-with-four-previously-unreleased-recordings/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.universalmusic.ca/2026/09/28/stevie-wonder-celebrates-50-years-of-songs-in-the-key-of-life-with-four-previously-unreleased-recordings/",
+    "note": "Universal Music Canada September28,2026 announces Wonder-selected archival tracks and current anniversary tour; Pitchfork September8 reports his own tour announcement."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "stevie-wonder",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Stevie Wonder - Wikipedia",
+        "characters": 150165
+      },
+      {
+        "id": "stevie-wonder",
+        "sourceId": "s2",
+        "url": "https://rockhall.com/inductees/stevie-wonder/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Stevie Wonder | Rock & Roll Hall of Fame",
+        "characters": 1856
+      },
+      {
+        "id": "stevie-wonder",
+        "sourceId": "s3",
+        "url": "https://pitchfork.com/story/stevie-wonder-songs-in-the-key-of-life-tour/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Stevie Wonder Announces Songs in the Key of Life Anniversary Tour | Pitchfork",
+        "characters": 3633
+      },
+      {
+        "id": "stevie-wonder",
+        "sourceId": "s4",
+        "url": "https://www.oscars.org/oscars/ceremonies/1985",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 57th Academy Awards | 1985",
+        "characters": 17694
+      },
+      {
+        "id": "stevie-wonder",
+        "sourceId": "s5",
+        "url": "https://www.universalmusic.ca/2026/09/28/stevie-wonder-celebrates-50-years-of-songs-in-the-key-of-life-with-four-previously-unreleased-recordings/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Universal Music Canada",
+        "characters": 6381
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Stevie_Wonder",
+      "https://rockhall.com/inductees/stevie-wonder/",
+      "https://pitchfork.com/story/stevie-wonder-songs-in-the-key-of-life-tour/",
+      "https://www.oscars.org/oscars/ceremonies/1985",
+      "https://www.universalmusic.ca/2026/09/28/stevie-wonder-celebrates-50-years-of-songs-in-the-key-of-life-with-four-previously-unreleased-recordings/"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Rock Hall, Pitchfork, Academy1985 and Universal Music Canada consulted. September tour announcement is not treated as proof every scheduled show occurred;2026 EP uses archival recordings, not newly recorded1976 material."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Stevie_Wonder_1994.jpg",
+    "assetPath": "public/assets/portraits/stevie-wonder.jpg",
+    "sha256": "94bb1dd82f611a3a340e6d79ee7a08c5d5d561ee221ca7ddd51275b36ebf1028",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Kingkongphoto & www.celebrity-photos.com from Laurel  Maryland, USA",
+    "caption": "From Washington  D.C. National  Assoc. of black owned broadcasters March 1994\n\n ©   copyright  John Mathew Smith  2001",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026-09-28",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Stevie_Wonder",
+    "https://rockhall.com/inductees/stevie-wonder/",
+    "https://pitchfork.com/story/stevie-wonder-songs-in-the-key-of-life-tour/",
+    "https://www.oscars.org/oscars/ceremonies/1985",
+    "https://www.universalmusic.ca/2026/09/28/stevie-wonder-celebrates-50-years-of-songs-in-the-key-of-life-with-four-previously-unreleased-recordings/"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "85ec8143ec8018975e0db6923f3bf3447bde305955dc2df7a787b6e41033827e",
+    "englishReferenceTextHash": "df3ecaf8724b992572f14b3d385e286dd0a2c3c626c5b3497465bcf35bac31d1",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

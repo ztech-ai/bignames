@@ -1,0 +1,112 @@
+{
+  "id": "peter-jackson",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "AP May12,2026 reports Jackson receiving the honorary Palme in Cannes; festival May13 career conversation records his attendance and remarks.",
+  "lifeStatusEvidenceURL": "https://www.ap.org/news-highlights/spotlights/2026/peter-jackson-receives-honorary-palme-dor-as-cannes-flaunts-star-power-despite-hollywoods-retreat/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.ap.org/news-highlights/spotlights/2026/peter-jackson-receives-honorary-palme-dor-as-cannes-flaunts-star-power-despite-hollywoods-retreat/",
+    "note": "AP May12,2026 reports Jackson receiving the honorary Palme in Cannes; festival May13 career conversation records his attendance and remarks."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "peter-jackson",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Peter_Jackson",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Peter Jackson - Wikipedia",
+        "characters": 111555
+      },
+      {
+        "id": "peter-jackson",
+        "sourceId": "s2",
+        "url": "https://www.festival-cannes.com/en/2026/rendez-vous-with-the-brilliant-peter-jackson/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Rendez-vous with (the brilliant) Peter Jackson - Festival de Cannes",
+        "characters": 6031
+      },
+      {
+        "id": "peter-jackson",
+        "sourceId": "s3",
+        "url": "https://www.ap.org/news-highlights/spotlights/2026/peter-jackson-receives-honorary-palme-dor-as-cannes-flaunts-star-power-despite-hollywoods-retreat/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Peter Jackson receives honorary Palme D’Or as Cannes flaunts star power despite Hollywood's retreat | The Associated Press",
+        "characters": 9341
+      },
+      {
+        "id": "peter-jackson",
+        "sourceId": "s4",
+        "url": "https://www.oscars.org/oscars/ceremonies/2004",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 76th Academy Awards | 2004",
+        "characters": 18215
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Peter_Jackson",
+      "https://www.festival-cannes.com/en/2026/rendez-vous-with-the-brilliant-peter-jackson/",
+      "https://www.ap.org/news-highlights/spotlights/2026/peter-jackson-receives-honorary-palme-dor-as-cannes-flaunts-star-power-despite-hollywoods-retreat/",
+      "https://www.oscars.org/oscars/ceremonies/2004"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Selective milestones. Wikipedia provides biographical context; primary records checked for awards and named works. Announcements and completed events are distinguished. AI self-report, not independent certification."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Peter_Jackson_ONZ_(cropped).jpg",
+    "assetPath": "public/assets/portraits/peter-jackson.jpg",
+    "sha256": "0c4158aa37af11b041c268b72b8f9e1c727ccf86b344d78415839523e403b84d",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "author": "New Zealand Government, Office of the Governor-General",
+    "caption": "Sir Peter Jackson, after his investiture as an additional Member of the Order of New Zealand, at Government House, Wellington, on 17 September 2013.",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026-05-12",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Peter_Jackson",
+    "https://www.festival-cannes.com/en/2026/rendez-vous-with-the-brilliant-peter-jackson/",
+    "https://www.ap.org/news-highlights/spotlights/2026/peter-jackson-receives-honorary-palme-dor-as-cannes-flaunts-star-power-despite-hollywoods-retreat/",
+    "https://www.oscars.org/oscars/ceremonies/2004"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "488865eb22ba34bc221382ff33cad0be4a1e8a9fbbfcb318113f54070856c328",
+    "englishReferenceTextHash": "ff33782c0ded57008643cc8771a9564bce0394806938785ea74eb55b508b8e15",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

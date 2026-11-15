@@ -1,0 +1,110 @@
+{
+  "id": "denis-villeneuve",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "GQ November11,2026 report records Villeneuve discussing Dune3 and Bond in person, before the cutoff.",
+  "lifeStatusEvidenceURL": "https://www.gq.com/story/denis-villeneuve-men-of-the-year-screening-recap",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.gq.com/story/denis-villeneuve-men-of-the-year-screening-recap",
+    "note": "GQ November11,2026 report records Villeneuve discussing Dune3 and Bond in person, before the cutoff."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "denis-villeneuve",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Denis_Villeneuve",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Denis Villeneuve - Wikipedia",
+        "characters": 48708
+      },
+      {
+        "id": "denis-villeneuve",
+        "sourceId": "s2",
+        "url": "https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-director-denis-villeneuve",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "James Bond: Amazon sets Denis Villeneuve as director of next film",
+        "characters": 6330
+      },
+      {
+        "id": "denis-villeneuve",
+        "sourceId": "s3",
+        "url": "https://www.gq.com/story/denis-villeneuve-men-of-the-year-screening-recap",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Denis Villeneuve Talks ‘Dune: Part Three’ and Rebooting James Bond: ‘We Cannot F*ck It Up.’ | GQ",
+        "characters": 9297
+      },
+      {
+        "id": "denis-villeneuve",
+        "sourceId": "s4",
+        "url": "https://www.dunemovie.com/home/",
+        "checkedAt": "2026-11-15",
+        "error": "HTTP Error 503: Service Unavailable"
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Denis_Villeneuve",
+      "https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-director-denis-villeneuve",
+      "https://www.gq.com/story/denis-villeneuve-men-of-the-year-screening-recap",
+      "https://www.dunemovie.com/home/"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Amazon MGM announcement, GQ November11 report and official Dune3 site opened. Dune3 December2026 release remains future; James Bond announcement is not a completed film."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:DVilleneuveRFH121024_(12_of_23)_(54061976489)_(cropped).jpg",
+    "assetPath": "public/assets/portraits/denis-villeneuve.jpg",
+    "sha256": "ca94e168cd4be0c2c134ebd59bc3a13ed9a899d49b521a4cf7b55111038b7c4b",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Raph_PH",
+    "caption": "المخرج دوني فيلنوف عام 2024",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2025-06-25",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Denis_Villeneuve",
+    "https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-director-denis-villeneuve",
+    "https://www.gq.com/story/denis-villeneuve-men-of-the-year-screening-recap",
+    "https://www.dunemovie.com/home/"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "2af22a06b5f975d7fafc57cb2f18c55d0adc9c1e55ece40f022e3fa2c5f42ae3",
+    "englishReferenceTextHash": "28c836dd4dd5ffe6420dc8df01320fd76b42e75946f0b263431a5416c397e537",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

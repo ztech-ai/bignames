@@ -1,0 +1,101 @@
+{
+  "id": "ridley-scott",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "November10,2026 Independent report describes Scott prerecording an acceptance speech and missing the upcoming ceremony after a medical procedure. This is dated activity before cutoff; no health prognosis inferred.",
+  "lifeStatusEvidenceURL": "https://www.the-independent.com/arts-entertainment/films/news/ridley-scott-oscars-health-b3082340.html",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.the-independent.com/arts-entertainment/films/news/ridley-scott-oscars-health-b3082340.html",
+    "note": "November10,2026 Independent report describes Scott prerecording an acceptance speech and missing the upcoming ceremony after a medical procedure. This is dated activity before cutoff; no health prognosis inferred."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "ridley-scott",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Ridley_Scott",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Ridley Scott - Wikipedia",
+        "characters": 107786
+      },
+      {
+        "id": "ridley-scott",
+        "sourceId": "s2",
+        "url": "https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "THE ACADEMY TO HONOR GLENN CLOSE, FLOYD NORMAN, RIDLEY SCOTT AND CHRISTINE VACHON & PAMELA KOFFLER AT THE 2026 GOVERNORS AWARDS | Academy Press Office",
+        "characters": 7990
+      },
+      {
+        "id": "ridley-scott",
+        "sourceId": "s3",
+        "url": "https://www.the-independent.com/arts-entertainment/films/news/ridley-scott-oscars-health-b3082340.html",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Ridley Scott, 88, to miss honorary Oscars ceremony due to 'medical procedure' | The Independent",
+        "characters": 4348
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Ridley_Scott",
+      "https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026",
+      "https://www.the-independent.com/arts-entertainment/films/news/ridley-scott-oscars-health-b3082340.html"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Academy June10 announcement and Independent November10 report opened. Honorary Oscar ceremony November15 is outside factual cutoff and is never treated as completed."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg",
+    "assetPath": "public/assets/portraits/ridley-scott.jpg",
+    "sha256": "662a8ed73a24d64b040a380448221037c5019c49a6779e2b530118f54f449f24",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Raph_PH",
+    "caption": "Ridley Scott in 2025",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026-06-10",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Ridley_Scott",
+    "https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026",
+    "https://www.the-independent.com/arts-entertainment/films/news/ridley-scott-oscars-health-b3082340.html"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "07ac4930dadac0d9e554bd7eeedc7971c45156a6d0b6f41dc41d9a93e2a1b3f1",
+    "englishReferenceTextHash": "0531b93abb9fda94980e343c91e231b3028f3f30acc3d2292823cbd60e47b2d4",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

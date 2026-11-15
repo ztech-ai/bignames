@@ -1,0 +1,121 @@
+{
+  "id": "barbra-streisand",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "Reuters May23,2026 reports her honorary Palme in absentia after her own statement about injury; CannesMay17 statement corroborates her contemporaneous communication.",
+  "lifeStatusEvidenceURL": "https://www.reuters.com/business/media-telecom/fjord-by-romanias-mungiu-wins-cannes-film-festivals-top-prize-2026-05-23/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.reuters.com/business/media-telecom/fjord-by-romanias-mungiu-wins-cannes-film-festivals-top-prize-2026-05-23/",
+    "note": "Reuters May23,2026 reports her honorary Palme in absentia after her own statement about injury; CannesMay17 statement corroborates her contemporaneous communication."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "barbra-streisand",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Barbra Streisand - Wikipedia",
+        "characters": 175203
+      },
+      {
+        "id": "barbra-streisand",
+        "sourceId": "s2",
+        "url": "https://www.festival-cannes.com/en/medialibrary/isabelle-huppert-presents-barbra-streisand-palme-d-or-d-honneur/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Isabelle Huppert presents Barbra Streisand, Palme d'or d'honneur - Festival de Cannes",
+        "characters": 2901
+      },
+      {
+        "id": "barbra-streisand",
+        "sourceId": "s3",
+        "url": "https://www.reuters.com/business/media-telecom/fjord-by-romanias-mungiu-wins-cannes-film-festivals-top-prize-2026-05-23/",
+        "checkedAt": "2026-11-15",
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      {
+        "id": "barbra-streisand",
+        "sourceId": "s4",
+        "url": "https://www.oscars.org/oscars/ceremonies/1969",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 41st Academy Awards | 1969",
+        "characters": 17219
+      },
+      {
+        "id": "barbra-streisand",
+        "sourceId": "s5",
+        "url": "https://www.oscars.org/oscars/ceremonies/1977",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 49th Academy Awards | 1977",
+        "characters": 17900
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Barbra_Streisand",
+      "https://www.festival-cannes.com/en/medialibrary/isabelle-huppert-presents-barbra-streisand-palme-d-or-d-honneur/",
+      "https://www.reuters.com/business/media-telecom/fjord-by-romanias-mungiu-wins-cannes-film-festivals-top-prize-2026-05-23/",
+      "https://www.oscars.org/oscars/ceremonies/1969",
+      "https://www.oscars.org/oscars/ceremonies/1977"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Cannes ceremony and Academy1969/1977 records opened. Reuters direct401; report text was available through search.1969 acting award is tied with Hepburn;1977 songwriting award shared with Paul Williams. PD portrait is NIH federal-government work; explicit PD-USGov-HHS-NIH license template URL supplied."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_(27806589237)_(cropped).jpg",
+    "assetPath": "public/assets/portraits/barbra-streisand.jpg",
+    "sha256": "4856f5f22fe6d606f6b3d95719bbe8a9d80d60d8d80a16d6d1698615701d7dea",
+    "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-NIH",
+    "author": "NIH Image Gallery from Bethesda, Maryland, USA",
+    "caption": "Actor Barbra Streisand visited the NIH on May 15, 2018 to give the annual J. Edward Rall Cultural Lecture, where she highlighted the issue of women's cardiovascular health.\nPictured l-r: NIH Director Dr. Francis Collins, Ms. Streisand, and NIAID Director Dr. Anthony Fauci.\nRead about the visit: <a href=\"https://irp.nih.gov/blog/post/2018/05/barbra-streisand-talks-up-women-s-heart-health\" rel=\"nofollow\">irp.nih.gov/blog/post/2018/05/barbra-streisand-talks-up-w...</a>\n\nCredit: National Institutes of Health",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026-05-23",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Barbra_Streisand",
+    "https://www.festival-cannes.com/en/medialibrary/isabelle-huppert-presents-barbra-streisand-palme-d-or-d-honneur/",
+    "https://www.reuters.com/business/media-telecom/fjord-by-romanias-mungiu-wins-cannes-film-festivals-top-prize-2026-05-23/",
+    "https://www.oscars.org/oscars/ceremonies/1969",
+    "https://www.oscars.org/oscars/ceremonies/1977"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "24934ac3315127eb498c1835853d470c5f9e6981893079a1b88dddcf3938a4c7",
+    "englishReferenceTextHash": "057cf5e34c6ca6765e07c1eabe6efdeed87ae10692e0f3a8d9c762f07bc0ea3a",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

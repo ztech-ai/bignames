@@ -1,0 +1,645 @@
+{
+  "status": "completed-with-corrections",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "languageReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex",
+      "agent": "f"
+    },
+    "reviewedAt": "2026-11-15",
+    "cutoffDate": "2026-11-13",
+    "mode": "bounded independent read-only review",
+    "status": "completed-with-owner-corrections",
+    "scope": {
+      "people": [
+        "aung-san-suu-kyi",
+        "narges-mohammadi",
+        "imran-khan"
+      ],
+      "locales": [
+        "zh",
+        "en",
+        "fr"
+      ],
+      "completeDisplayFieldReview": true,
+      "canonicalDisplayFields": 96,
+      "foreignFieldComparisons": 192,
+      "languagesExcluded": [
+        "ar",
+        "de",
+        "ja",
+        "es",
+        "ko"
+      ],
+      "focus": [
+        "dates and roles",
+        "conviction versus appeal/pardon and suspension",
+        "medical bail versus permanent release",
+        "reported versus independently verified current health",
+        "influence-rationale semantic fidelity"
+      ],
+      "provenance": "All displayed Chinese, English and French fields actually read and compared. Supplemental supporting-source checks only for materially sensitive legal/health/date assertions.",
+      "totalDisplayFieldValuesReviewed": 288,
+      "displayFieldsPerPersonPerLocale": 32,
+      "accounting": "3 people × 3 locales × 32 displayed fields = 288 complete field values; 96 canonical fields and 192 translated-field comparisons."
+    },
+    "files": [
+      {
+        "id": "aung-san-suu-kyi",
+        "locale": "zh",
+        "path": "data/people/aung-san-suu-kyi.json",
+        "sha256": "262afe8addfac18b40ba7cbf94e4a908a2c364a14bfce2da380b28ed8aa7408d",
+        "displayFields": 32,
+        "translationSourceHash": null,
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "aung-san-suu-kyi",
+        "locale": "en",
+        "path": "data/i18n/en/people/aung-san-suu-kyi.json",
+        "sha256": "2be3da339344b3c4b56b696ab75791f5e338f0dc986775469cb8afb279ae91b9",
+        "displayFields": 32,
+        "translationSourceHash": "28238af86cf83ead69d7484b9273e93951062f502673a033ea6a4768dafcd97e",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "aung-san-suu-kyi",
+        "locale": "fr",
+        "path": "data/i18n/fr/people/aung-san-suu-kyi.json",
+        "sha256": "587aaed8150bb5acda0e9f6e856788b58a7bed3b0c01dfbcfb14c636060fc4d9",
+        "displayFields": 32,
+        "translationSourceHash": "28238af86cf83ead69d7484b9273e93951062f502673a033ea6a4768dafcd97e",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "narges-mohammadi",
+        "locale": "zh",
+        "path": "data/people/narges-mohammadi.json",
+        "sha256": "80e8c6fcbf9c773c586e2d8ba29bf99c0b9e85291f1508a72861006b926e6264",
+        "displayFields": 32,
+        "translationSourceHash": null,
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "narges-mohammadi",
+        "locale": "en",
+        "path": "data/i18n/en/people/narges-mohammadi.json",
+        "sha256": "f965d123559417543b0dfb35bbb9585affb09b158ee73d15255dbbb5b70bb0c6",
+        "displayFields": 32,
+        "translationSourceHash": "7d58a14ee24fe3ed99a8f14e3b735ff5d6baaf0a5480bb43f8970a1d61f3741c",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "narges-mohammadi",
+        "locale": "fr",
+        "path": "data/i18n/fr/people/narges-mohammadi.json",
+        "sha256": "0e5a29ff5ffba5ce6510b62ff419525f31ec0732ce779102cae615736d1cb1a0",
+        "displayFields": 32,
+        "translationSourceHash": "7d58a14ee24fe3ed99a8f14e3b735ff5d6baaf0a5480bb43f8970a1d61f3741c",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "imran-khan",
+        "locale": "zh",
+        "path": "data/people/imran-khan.json",
+        "sha256": "7d30cdeacb19ce918eac6e54a5a4b7e268c46f87f41415f9e849628aa1d92b70",
+        "displayFields": 32,
+        "translationSourceHash": null,
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "imran-khan",
+        "locale": "en",
+        "path": "data/i18n/en/people/imran-khan.json",
+        "sha256": "9c349a22b259d85630d705e13ab53c46e98663daa2560538ed4d60d127a48b8c",
+        "displayFields": 32,
+        "translationSourceHash": "a8a0c1a9fb42e68645f9c43539337cc1fd7c02cc9075c296dbd4050f1e9a6e35",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      },
+      {
+        "id": "imran-khan",
+        "locale": "fr",
+        "path": "data/i18n/fr/people/imran-khan.json",
+        "sha256": "69946bc859f56b44bc8c2ba8014714303626f45ae423c3a43e6c72174409536e",
+        "displayFields": 32,
+        "translationSourceHash": "a8a0c1a9fb42e68645f9c43539337cc1fd7c02cc9075c296dbd4050f1e9a6e35",
+        "snapshot": "original reviewed frozen version, before owner corrections"
+      }
+    ],
+    "findings": [
+      {
+        "id": "F1",
+        "person": "imran-khan",
+        "severity": "medium",
+        "classification": "translation-precision",
+        "file": "data/i18n/fr/people/imran-khan.json",
+        "field": "highlights.h2.text",
+        "current": "Fonde le PTI, devient Premier ministre en 2018, puis perd le vote de confiance de 2022.",
+        "finding": "Chinese and English explicitly identify a no-confidence vote. French vote de confiance names a confidence vote and weakens the procedural distinction; the French timeline separately uses the correct vote de défiance.",
+        "suggestion": "Fonde le PTI, devient Premier ministre en 2018, puis est renversé par une motion de censure en 2022.",
+        "sourceConsultationRequired": false,
+        "resolutionStatus": {
+          "status": "resolved",
+          "owner": "c",
+          "rootCheckedFinalField": true,
+          "finalValue": "Fonde le PTI, devient Premier ministre en 2018, puis perd le pouvoir après un vote de défiance en 2022.",
+          "note": "Owner reviewed corresponding six-locale fidelity and saved through reviewed translation helper; root read the four final French field values. Canonical/English unchanged for these corrections."
+        }
+      },
+      {
+        "id": "F2",
+        "person": "imran-khan",
+        "severity": "low",
+        "classification": "semantic-compression",
+        "file": "data/i18n/fr/people/imran-khan.json",
+        "field": "summary",
+        "currentPhrase": "Ses propositions anticorruption et sociales",
+        "finding": "Chinese 福利国家 and English welfare-state name a specific governing platform; generic sociales loses that concept.",
+        "suggestedPhrase": "Ses propositions anticorruption et en faveur d’un État-providence",
+        "sourceConsultationRequired": false,
+        "resolutionStatus": {
+          "status": "resolved",
+          "owner": "c",
+          "rootCheckedFinalField": true,
+          "finalValue": "Khan passa du cricket à la philanthropie et à la politique : capitaine des champions du monde de 1992, fondateur du PTI en 1996, Premier ministre en 2018–2022. Ses propositions anticorruption et son projet d’État-providence mobilisèrent ses partisans ; économie et rapports civils-militaires divisèrent sous son gouvernement. Emprisonné depuis 2023, il a vu des condamnations suspendues ou annulées, tandis que les appels continuent. Il nie toute faute ; le gouvernement nie des poursuites politiques.",
+          "note": "Owner reviewed corresponding six-locale fidelity and saved through reviewed translation helper; root read the four final French field values. Canonical/English unchanged for these corrections."
+        }
+      },
+      {
+        "id": "F3",
+        "person": "aung-san-suu-kyi",
+        "severity": "low",
+        "classification": "influence-rationale-fidelity",
+        "file": "data/i18n/fr/people/aung-san-suu-kyi.json",
+        "field": "influence.rationale",
+        "finding": "French preserves government leadership, Nobel reputation, governing controversy, detention and international discussion, but omits explicit long-term participation and Myanmar from the rationale itself. These appear in surrounding biography, so the overall meaning remains understandable; retaining them would satisfy full-field fidelity more closely.",
+        "suggestion": "Engagée de longue date dans le mouvement démocratique au Myanmar avant d’accéder à la direction gouvernementale, elle marque le débat international par sa réputation de lauréate du Nobel de la paix, les controverses de son gouvernement et son expérience de la détention.",
+        "sourceConsultationRequired": false,
+        "resolutionStatus": {
+          "status": "resolved",
+          "owner": "c",
+          "rootCheckedFinalField": true,
+          "finalValue": "Longtemps engagée dans le mouvement démocratique du Myanmar avant de diriger le gouvernement, sa réputation de lauréate du Nobel de la paix, les controverses de son gouvernement et sa détention ont influencé le débat international.",
+          "note": "Owner reviewed corresponding six-locale fidelity and saved through reviewed translation helper; root read the four final French field values. Canonical/English unchanged for these corrections."
+        }
+      },
+      {
+        "id": "F4",
+        "person": "narges-mohammadi",
+        "severity": "low",
+        "classification": "semantic-compression",
+        "file": "data/i18n/fr/people/narges-mohammadi.json",
+        "field": "highlights.h2.text",
+        "finding": "French ses campagnes refers back to context but drops the explicit women’s-rights and death-penalty-abolition scope present in Chinese and English. Restore those concepts if each display field must remain independently faithful.",
+        "suggestion": "Malgré des condamnations et emprisonnements répétés, elle poursuit ses campagnes pour les droits des femmes et l’abolition de la peine capitale ; sa santé et l’accès aux soins suscitent des inquiétudes.",
+        "sourceConsultationRequired": false,
+        "resolutionStatus": {
+          "status": "resolved",
+          "owner": "c",
+          "rootCheckedFinalField": true,
+          "finalValue": "Poursuit ses campagnes pour les droits des femmes et l’abolition de la peine capitale malgré condamnations et prison ; sa santé et l’accès aux soins suscitent des inquiétudes.",
+          "note": "Owner reviewed corresponding six-locale fidelity and saved through reviewed translation helper; root read the four final French field values. Canonical/English unchanged for these corrections."
+        }
+      }
+    ],
+    "personConclusions": [
+      {
+        "id": "aung-san-suu-kyi",
+        "conclusion": "No critical role/date/legal-status/health-attribution error found. October22 call is the event date, distinguished from AP October23 reporting. All three languages retain continued detention, attributed son report and limited independent health verification. ICJ defence correctly concerns Myanmar state responsibility, not her personal criminal trial. One minor French influence-fidelity omission recorded."
+      },
+      {
+        "id": "narges-mohammadi",
+        "conclusion": "No critical error found. Reuters February8 article explicitly says sentence received Saturday February7, corroborating timeline precision. May10 report attributes sentence suspension on heavy bail and hospital transfer to family foundation, with details unknown; all three languages avoid equating this with acquittal or permanent freedom. Sentence reporting remains attributed. One minor French highlight compression recorded."
+      },
+      {
+        "id": "imran-khan",
+        "conclusion": "No critical continued-detention or health-certainty error found. November11 Reuters report dates hospital treatment and return to Tuesday November10; officials and lawyers are distinguished. Suspended/overturned cases are not treated as release. French no-confidence terminology needs correction; welfare-state platform wording can be made more faithful."
+      }
+    ],
+    "sourceChecks": [
+      {
+        "url": "https://www.investing.com/news/world-news/irans-nobel-winner-narges-mohammadi-faces-a-new-prison-term-of-more-than-seven-years-4492504",
+        "publisher": "Reuters / Investing.com",
+        "access": "opened readable article",
+        "checkedAt": "2026-11-15",
+        "purpose": "Distinguish February8 report date from February7 sentence date; preserve foundation/lawyer attribution."
+      },
+      {
+        "url": "https://www.investing.com/news/world-news/jailed-iranian-peace-laureate-mohammadi-moved-to-hospital-in-tehran-4674859",
+        "publisher": "Reuters / Investing.com",
+        "access": "opened readable article",
+        "checkedAt": "2026-11-15",
+        "purpose": "Confirm May10 medical sentence suspension on heavy bail, not permanent release/acquittal."
+      },
+      {
+        "url": "https://theedgemalaysia.com/node/825304",
+        "publisher": "Reuters / The Edge Malaysia",
+        "access": "opened readable article",
+        "checkedAt": "2026-11-15",
+        "purpose": "Distinguish November11 report from November10 hospital treatment/return; official versus lawyer health statements."
+      },
+      {
+        "url": "https://apnews.com/article/myanmar-suu-kyi-kim-aris-phone-call-00c4a716b57888c75e1a3015fb7028e6",
+        "publisher": "Associated Press",
+        "access": "direct open unavailable; indexed AP article text and identified AP syndication extracts reviewed",
+        "checkedAt": "2026-11-15",
+        "purpose": "Confirm October22 call versus October23 report, 18-year sentence under house arrest and son’s attributed health account."
+      }
+    ],
+    "limits": [
+      "Scoped AI review only, not human or native-speaker certification.",
+      "No exhaustive independent source research or comprehensive rechecking of every historical fact, verdict, appeal or medical detail.",
+      "No independent medical verification; public reports and speaker attribution reviewed.",
+      "No evaluation of portraits, licenses, undisplayed metadata or the five excluded target languages.",
+      "No owner/shared files, translations, audits, scripts, build outputs or git state modified. Only this ignored independent review report was written.",
+      "Review applies only to the exact file byte hashes recorded here; subsequent changes require affected-field review."
+    ],
+    "structuralChecks": {
+      "scope": "Only the original3 EN and3 French translation files against their canonical originals",
+      "result": "6 translation-key/sourceHash validations and3 French English-intermediary validations passed",
+      "notEvidenceOfSemanticAccuracy": true
+    },
+    "resolutionOwner": "root will record final resolutions after owner c saves corrected files; this report preserves original review hashes"
+  },
+  "sourceChronologyReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex",
+      "task": "group-d independent bounded review of four group-c dossiers"
+    },
+    "reviewedAt": "2026-11-15",
+    "checkedAt": "2026-11-15",
+    "cutoffDate": "2026-11-13",
+    "status": "bounded-ai-review-complete",
+    "scope": "Read all canonical Chinese and English display fields for exactly these four profiles; directly checked selected current offices, term chronology, future appointments, nomination status, major war/legal attribution and specified milestones. Six other locales, portraits, licenses and exhaustive career/birth verification were outside scope. Read-only review: no owner content, shared code, manifest, git, build or publication edits.",
+    "limits": "AI peer review, not independent certification, human review or continuous monitoring. Sources assessed at access date with factual cutoff preserved. Dynamic official biographies can contain stale ancillary role claims; dated primary records were preferred for current status. Specific direct-access limits are recorded under Grossi. Publication-ready labels elsewhere were not treated as factual proof.",
+    "totals": {
+      "profiles": 4,
+      "chineseFieldsRead": 128,
+      "englishFieldsRead": 128,
+      "blockingIssues": 0,
+      "materialIssues": 0,
+      "nonblockingPrecisionNotes": 1
+    },
+    "people": [
+      {
+        "id": "mary-robinson",
+        "canonicalSourceHash": "415c185bd4ad36f25831c08d39664ffc1d60e6725d8bd620bb3859963bacf63c",
+        "canonicalFileSha256": "c2e05308de2347ab2de198673079cd6728cf56e3b086cd04c280f43101d4057a",
+        "englishFileSha256": "298d1423c3b9990b4abc9f5685ee922a0133b5fae96fc5d5bf57236e1fad972a",
+        "englishReferenceTextHash": "ed9e5836d7d6fe26c1211e3997320a7a448238bf01ec09a7f756d2b4ba2373f3",
+        "chineseDisplayedFieldsRead": 32,
+        "englishDisplayedFieldsRead": 32,
+        "matchesInitialReviewedSnapshot": true,
+        "result": "no-material-issue-found-in-scope",
+        "checks": [
+          {
+            "fields": [
+              "role",
+              "summary",
+              "timeline.t1"
+            ],
+            "finding": "GGGI release published 2026-11-02 explicitly dates the election to 2026-10-30 and the term to 2027–2028; Ban Ki-moon remains predecessor through end2026. Chinese and English correctly describe election without completed assumption of office.",
+            "urls": [
+              "https://gggi.org/mary-robinson-elected-president-of-the-assembly-and-chair-of-the-council-of-the-global-green-growth-institute-2/"
+            ]
+          },
+          {
+            "fields": [
+              "role",
+              "summary",
+              "timeline.t2",
+              "timeline.t3",
+              "timeline.t4"
+            ],
+            "finding": "The Elders profile identifies her as former chair and active member, with appointment in November2018, resignation in October2024 and foundation leadership2010–2019. The formal October31,2024 succession release names Santos. Irish presidency1990–1997 and UN human-rights role1997–2002 are supported.",
+            "urls": [
+              "https://theelders.org/profile/mary-robinson",
+              "https://theelders.org/news/juan-manuel-santos-named-new-chair-elders",
+              "https://www.president.ie/en/the-president/mary-robinson"
+            ]
+          }
+        ],
+        "issues": []
+      },
+      {
+        "id": "mia-mottley",
+        "canonicalSourceHash": "abec4ae096efbb72b5b1d56a1def13f16573d5b422abbe65092aa12164935666",
+        "canonicalFileSha256": "9d015204ec64183fcc8be5fcc8d43e72fe05dd0a2d229bbc7342fb192b6a685b",
+        "englishFileSha256": "a4adaa7c91e49e70e2e58a581ea4146bd1550df27d9e0d52a767e81f7444cf34",
+        "englishReferenceTextHash": "044367e1c3d8c94beddb4f5430737237dd14585a9741f14282014596e39c6c70",
+        "chineseDisplayedFieldsRead": 32,
+        "englishDisplayedFieldsRead": 32,
+        "matchesInitialReviewedSnapshot": true,
+        "result": "no-material-issue-found-in-scope",
+        "checks": [
+          {
+            "fields": [
+              "role",
+              "summary",
+              "highlights.h1",
+              "timeline.t1"
+            ],
+            "finding": "Reuters February12,2026 report states counting ended early that Thursday and BLP won all30 seats for a third time; the field is a victory/result milestone rather than a claim that polling occurred February12. UK official record of the November2 meeting, published November3, corroborates her current premiership before cutoff.",
+            "urls": [
+              "https://www.investing.com/news/world-news/barbados-pm-mia-mottley-wins-third-election-with-a-clean-sweep-4501827",
+              "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-mottley-of-barbados-2-november-2026"
+            ]
+          },
+          {
+            "fields": [
+              "summary",
+              "highlights.h2",
+              "timeline.t2",
+              "timeline.t3"
+            ],
+            "finding": "Initiative history explicitly dates the convened retreat to July2022. Government biography supports the2021 republican transition. The profile describes financing proposals and multilateral dependence rather than claiming completed worldwide reform.",
+            "urls": [
+              "https://www.bridgetown-initiative.org/history/",
+              "https://www.gov.bb/Government/prime-minister"
+            ]
+          }
+        ],
+        "issues": []
+      },
+      {
+        "id": "mohamed-bin-zayed-al-nahyan",
+        "canonicalSourceHash": "f9e0229cdbee7ae8934932d78ae11052efd439056f7ff953e92e2ce4518feee2",
+        "canonicalFileSha256": "a4c58a631dc6d5ba3c836456cea17c0c123bef746b5f3842b3f766bfdbb97164",
+        "englishFileSha256": "27c6652603913cfb304595f7d857de3f9cc7b14fd32cf7f732fa55dacb1c12e1",
+        "englishReferenceTextHash": "25659ca3d9fc9dcfa3ddc953baf0887bf375240afc3239e3699ed7085d0e5ac8",
+        "chineseDisplayedFieldsRead": 32,
+        "englishDisplayedFieldsRead": 32,
+        "matchesInitialReviewedSnapshot": true,
+        "result": "no-material-issue-found-in-scope",
+        "checks": [
+          {
+            "fields": [
+              "role",
+              "summary",
+              "timeline.t2",
+              "timeline.t4",
+              "timeline.t5",
+              "timeline.t6"
+            ],
+            "finding": "Embassy biography supports presidency election May14,2022 and historic crown-prince2004–2022/chief-of-staff1993–2005 sequence. WAM November13,2026 records his live presidential meeting. Historical Executive Council wording is not a claim of present chairship in the reviewed profile.",
+            "urls": [
+              "https://www.uae-embassy.org/discover-uae/governance/about-uae-president-sheikh-mohamed-bin-zayed",
+              "https://www.wam.ae/en/article/c38h43h-uae-president-and-arab-league-secretary-general"
+            ]
+          },
+          {
+            "fields": [
+              "summary",
+              "timeline.t1"
+            ],
+            "finding": "Reuters September3,2026 reports UN investigators found grounds to believe a network involving individuals and entities in UAE, Chad, Libya and Somalia supplied RSF support; it also reports the UAE denial. Reviewed text attributes the investigation and includes denial. It does not allege personal criminal responsibility by MBZ, a final court merits finding or exoneration through a procedural dismissal.",
+            "urls": [
+              "https://www.investing.com/news/world-news/foreign-support-drones-fuel-sudan-war-and-possible-war-crimes-un-probe-says-4887059"
+            ]
+          },
+          {
+            "fields": [
+              "highlights.h2",
+              "timeline.t3"
+            ],
+            "finding": "August13,2020 joint White House statement explicitly records the three leaders agreeing to full normalization. The profile dates the agreement rather than claiming that later bilateral agreements had already been signed that day.",
+            "urls": [
+              "https://trumpwhitehouse.archives.gov/briefings-statements/joint-statement-united-states-state-israel-united-arab-emirates/"
+            ]
+          }
+        ],
+        "issues": [],
+        "precisionNotes": [
+          {
+            "severity": "nonblocking-source-precision",
+            "field": "English summary",
+            "note": "The cited Reuters passage describes one network and uses a grounds-to-believe threshold; the summary compresses this to identified UAE-linked networks. Attribution and denial prevent a material adjudication error. If prose is revised later, singular network and an explicit reported-finding threshold would track the source more exactly. No owner edit was made."
+          }
+        ],
+        "sourceCautions": [
+          "Embassy page contains a stale present-tense Executive Council chair claim elsewhere. Reviewed profile only places chairing in the historic2004 milestone; do not extrapolate that source sentence into a current office."
+        ]
+      },
+      {
+        "id": "rafael-grossi",
+        "canonicalSourceHash": "6df3400a920f0d4f0908d9792c595a70e4eeaed913e0822cf256e1362b4d2633",
+        "canonicalFileSha256": "c7dcf33dc64cbe816a0f265bc78ba48433b34531695346505df0fa2bb1147a3a",
+        "englishFileSha256": "bbcc2a6d4db958219e0e554dddde05c76ac43b74939fbc9173476cd6d4a58694",
+        "englishReferenceTextHash": "9b8090eb96b19b23e029a14198c9190ee75bcf77be015ed39407f4ba0cec1acb",
+        "chineseDisplayedFieldsRead": 32,
+        "englishDisplayedFieldsRead": 32,
+        "matchesInitialReviewedSnapshot": true,
+        "result": "no-material-issue-found-in-scope",
+        "checks": [
+          {
+            "fields": [
+              "role",
+              "summary",
+              "timeline.t1"
+            ],
+            "finding": "IAEA biography and November3,2026 Caracol interview identify him as current director general. UN official indexed selection pages list him as candidate nominated by Argentina on November26,2025. The profile correctly distinguishes nomination from appointment; no Secretary-General role or completed2027 succession is asserted.",
+            "urls": [
+              "https://www.iaea.org/about/rafael-mariano-grossi/biography",
+              "https://caracol.com.co/2026/11/03/hoy-iran-no-tiene-un-arma-nuclear-rafael-grossi-director-de-la-oiea-en-6am-w/?outputType=amp",
+              "https://www.un.org/pga/81/sg-selection/rafael-mariano-grossi/",
+              "https://www.un.org/en/sg-selection-and-appointment"
+            ]
+          },
+          {
+            "fields": [
+              "summary",
+              "timeline.t2",
+              "timeline.t4",
+              "timeline.t5",
+              "timeline.t6",
+              "timeline.t7",
+              "timeline.t8"
+            ],
+            "finding": "IAEA biography supports December3,2019 start, NSG2014–2016, Austria/Vienna appointment2013 and ministry entry1985. IAEA September25,2023 conference summary approves term December3,2023–December2,2027; GC(67)/8 separately records the March10 Board appointment. Graduate Institute explicitly confirms PhD1997.",
+            "urls": [
+              "https://www.iaea.org/about/rafael-mariano-grossi/biography",
+              "https://www.iaea.org/sites/default/files/summary_of_25_september_2023.pdf",
+              "https://www.iaea.org/sites/default/files/gc/gc67-8.pdf",
+              "https://www.graduateinstitute.ch/node/61141"
+            ]
+          },
+          {
+            "fields": [
+              "highlights.h1",
+              "highlights.h2",
+              "timeline.t3"
+            ],
+            "finding": "The IAEA two-year-presence report supports staff deployment from September1,2022, Grossi leading missions and Russian armed-forces control of ZNPP since March4,2022. Caracol November3 records his advocacy of political/diplomatic solutions. The profile does not turn Iran commentary into a proved weapons finding or promise guaranteed nuclear safety.",
+            "urls": [
+              "https://www.iaea.org/sites/default/files/documents/two-years-of-iaea-continued-presence-at-the-zaporizhzhaya-nuclear-power-plant.pdf",
+              "https://caracol.com.co/2026/11/03/hoy-iran-no-tiene-un-arma-nuclear-rafael-grossi-director-de-la-oiea-en-6am-w/?outputType=amp"
+            ]
+          }
+        ],
+        "issues": [],
+        "accessLimits": [
+          {
+            "url": "https://www.un.org/pga/81/sg-selection/rafael-mariano-grossi/",
+            "directOpen": "403 Forbidden",
+            "reviewedInstead": "Official UN indexed search text: candidate, nomination November26,2025 and interactive dialogue April21,2026."
+          },
+          {
+            "url": "https://www.un.org/en/sg-selection-and-appointment",
+            "directOpen": "403 Forbidden",
+            "reviewedInstead": "Official indexed UN selection-page text and the PGA81 selection index; no unsupported claim of appointment inferred."
+          },
+          {
+            "url": "https://www.un.org/pga/81/sg-selection/",
+            "directOpen": "403 Forbidden",
+            "reviewedInstead": "Official indexed text lists Grossi and nomination date."
+          },
+          {
+            "url": "https://www.iaea.org/sites/default/files/documents/two-years-of-iaea-continued-presence-at-the-zaporizhzhaya-nuclear-power-plant.pdf",
+            "directOpen": "Web tool rejected length15140916bytes; ordinary urllib returned HTTP200 and text was extracted in memory with pdftotext.",
+            "reviewedPassages": "Deployment since September1,2022; Grossi-led visits; control by Russian armed forces since March4,2022."
+          }
+        ]
+      }
+    ]
+  },
+  "targetedRootSourceReview": {
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex"
+    },
+    "reviewedAt": "2026-11-15",
+    "cutoffDate": "2026-11-13",
+    "status": "completed-targeted-checks",
+    "scope": "Targeted independent source checks for selected new2026 developments. Search extraction and source access limits distinguished; not universal factual or native-language certification.",
+    "records": [
+      {
+        "id": "ronaldinho",
+        "claim": "Ravenna June2026 contract/investment; planned Nov15 match still future at cutoff",
+        "sources": [
+          "https://www.reuters.com/sports/soccer/ronaldinho-poised-ravenna-start-perhaps-one-last-goal-2026-11-13/",
+          "https://bdnews24.com/sport/n7vaijay1u",
+          "https://www.arabnews.com/football/ronaldinho-poised-for-ravenna-start-and-perhaps-one-last-goal-3011910"
+        ],
+        "access": "Direct Reuters open unavailable; indexed wire and accessible syndication extracts corroborate June signing/stake and future competitive return. A Portuguese syndication typo saying2022WorldCup was excluded; FIFA/Brazil2002 is the established sporting fact.",
+        "result": "No completed comeback appearance asserted before Nov13. Review concerned role/plan distinction, not a prediction of match outcome."
+      },
+      {
+        "id": "masayoshi-son",
+        "claim": "SoftBank2026Nov10 quarter report:1.1trillion yen loss, US data-centre/financing costs",
+        "sources": [
+          "https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234",
+          "https://www.channelnewsasia.com/business/softbank-books-us7-billion-quarterly-loss-us-data-centre-hit-6538511",
+          "https://apnews.com/article/b2cfbb190e27c0202d533799b6ec3e8b"
+        ],
+        "access": "Direct Reuters unavailable; indexed Reuters syndications and AP independently corroborate reported quarter loss/cost context.",
+        "result": "Corporate financial report attributed, not personal financial loss or future-return certainty."
+      },
+      {
+        "id": "karl-deisseroth",
+        "claim": "Shares2026Nobel Medicine with Peter Hegemann/Georg Nagel",
+        "sources": [
+          "https://www.nsf.gov/bio/updates/nsf-bio-congratulates-winners-2026-nobel-prize-physiology-or",
+          "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-funded-researcher-peter-hegemann-wins-2026-nobel-prize-physiology-or-medicine-2026-10-05_en",
+          "https://med.stanford.edu/news/all-news/2026/10/deisseroth-nobel-prize.html"
+        ],
+        "access": "Institutional/government indexed statements confirm joint award and October announcement. Original research team credit is separate from the three prize recipients.",
+        "result": "Shared2026award included, with no claim of universal approved treatment or completed December ceremony."
+      },
+      {
+        "id": "anne-carson",
+        "claim": "2026Nobel Literature announced October8",
+        "sources": [
+          "https://apnews.com/article/05a268ffc76827d273f9d986c5a5a65e",
+          "https://www.marketscreener.com/news/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature-ce785ddfd989f222",
+          "https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306"
+        ],
+        "access": "AP/Reuters/ABC indexed reporting agrees on recipient and announcement date; author also checked Swedish Academy primary biobibliography.",
+        "result": "Latest major achievement will be included with date distinction from December ceremony."
+      }
+    ]
+  },
+  "rootResolutions": {
+    "mbzPrecision": {
+      "status": "resolved",
+      "note": "Owner updated Chinese, English and all6 summaries/timeline to singular network and reported grounds-to-believe threshold, retaining UAE denial and no personal MBZ liability or court-merits inference. Root read final Chinese/English summaries."
+    }
+  },
+  "finalFileReferences": [
+    {
+      "path": "data/people/aung-san-suu-kyi.json",
+      "sha256": "262afe8addfac18b40ba7cbf94e4a908a2c364a14bfce2da380b28ed8aa7408d"
+    },
+    {
+      "path": "data/i18n/en/people/aung-san-suu-kyi.json",
+      "sha256": "2be3da339344b3c4b56b696ab75791f5e338f0dc986775469cb8afb279ae91b9"
+    },
+    {
+      "path": "data/i18n/fr/people/aung-san-suu-kyi.json",
+      "sha256": "b33e83161443d7b3bbc4187bbd471916a57238364dbdd975d327d33e9d4cc878"
+    },
+    {
+      "path": "data/people/narges-mohammadi.json",
+      "sha256": "80e8c6fcbf9c773c586e2d8ba29bf99c0b9e85291f1508a72861006b926e6264"
+    },
+    {
+      "path": "data/i18n/en/people/narges-mohammadi.json",
+      "sha256": "f965d123559417543b0dfb35bbb9585affb09b158ee73d15255dbbb5b70bb0c6"
+    },
+    {
+      "path": "data/i18n/fr/people/narges-mohammadi.json",
+      "sha256": "00c378e9277ade5e04aecde46e1423d47a2315b8c9ae3243d9b5ac792f37b6ac"
+    },
+    {
+      "path": "data/people/imran-khan.json",
+      "sha256": "7d30cdeacb19ce918eac6e54a5a4b7e268c46f87f41415f9e849628aa1d92b70"
+    },
+    {
+      "path": "data/i18n/en/people/imran-khan.json",
+      "sha256": "9c349a22b259d85630d705e13ab53c46e98663daa2560538ed4d60d127a48b8c"
+    },
+    {
+      "path": "data/i18n/fr/people/imran-khan.json",
+      "sha256": "ddab07d35f85fa2e6cc35a443fec8350c53efba036541c8c9b0a211bca74f7fd"
+    },
+    {
+      "path": "data/people/mary-robinson.json",
+      "sha256": "c2e05308de2347ab2de198673079cd6728cf56e3b086cd04c280f43101d4057a"
+    },
+    {
+      "path": "data/i18n/en/people/mary-robinson.json",
+      "sha256": "298d1423c3b9990b4abc9f5685ee922a0133b5fae96fc5d5bf57236e1fad972a"
+    },
+    {
+      "path": "data/people/mia-mottley.json",
+      "sha256": "9d015204ec64183fcc8be5fcc8d43e72fe05dd0a2d229bbc7342fb192b6a685b"
+    },
+    {
+      "path": "data/i18n/en/people/mia-mottley.json",
+      "sha256": "a4adaa7c91e49e70e2e58a581ea4146bd1550df27d9e0d52a767e81f7444cf34"
+    },
+    {
+      "path": "data/people/mohamed-bin-zayed-al-nahyan.json",
+      "sha256": "998e371f5419714440ce44d7b991ff0b0447122878fa994a6c3631eadb6186e0"
+    },
+    {
+      "path": "data/i18n/en/people/mohamed-bin-zayed-al-nahyan.json",
+      "sha256": "5762f770107be7d3b71a126ba350760f0523d0f561b7b53b1fa5b6f67af0b9d1"
+    },
+    {
+      "path": "data/people/rafael-grossi.json",
+      "sha256": "17b1c73384d2a09e06f883a14847fbc8a32fc426bb6b5bbfba431cb0bf0093c4"
+    },
+    {
+      "path": "data/i18n/en/people/rafael-grossi.json",
+      "sha256": "1654a1a054d2f71bf62543eed0acb6767a1aba73a088302692e5f5e6fa3ddcd3"
+    }
+  ],
+  "limits": "Independent review actually read544 Chinese/English/French display-field values across the specified7 people, plus targeted source checks; it did not independently certify every person, all8languages or portrait identity. Author checks are separate. No human/native-language certification."
+}

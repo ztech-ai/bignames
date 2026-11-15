@@ -1,0 +1,121 @@
+{
+  "id": "tom-hanks",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "San Francisco Chronicle dated June17,2026 reports Hanks at the June9 Toy Story5 premiere and interviews the cast; search text reviewed, direct article paywall limits full access.",
+  "lifeStatusEvidenceURL": "https://www.sfchronicle.com/entertainment/movies-tv/article/toy-story-5-pixar-hanks-allen-22290278.php/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://www.sfchronicle.com/entertainment/movies-tv/article/toy-story-5-pixar-hanks-allen-22290278.php/",
+    "note": "San Francisco Chronicle dated June17,2026 reports Hanks at the June9 Toy Story5 premiere and interviews the cast; search text reviewed, direct article paywall limits full access."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "tom-hanks",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Tom_Hanks",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Tom Hanks - Wikipedia",
+        "characters": 133240
+      },
+      {
+        "id": "tom-hanks",
+        "sourceId": "s2",
+        "url": "https://www.afi.com/laa/tom-hanks/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Tom Hanks | American Film Institute",
+        "characters": 10723
+      },
+      {
+        "id": "tom-hanks",
+        "sourceId": "s3",
+        "url": "https://www.oscars.org/oscars/ceremonies/1994",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 66th Academy Awards | 1994",
+        "characters": 17496
+      },
+      {
+        "id": "tom-hanks",
+        "sourceId": "s4",
+        "url": "https://www.oscars.org/oscars/ceremonies/1995",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 67th Academy Awards | 1995",
+        "characters": 17746
+      },
+      {
+        "id": "tom-hanks",
+        "sourceId": "s5",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/toy-story-5-pixar-hanks-allen-22290278.php/",
+        "checkedAt": "2026-11-15",
+        "error": "HTTP Error 402: Payment Required"
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Tom_Hanks",
+      "https://www.afi.com/laa/tom-hanks/",
+      "https://www.oscars.org/oscars/ceremonies/1994",
+      "https://www.oscars.org/oscars/ceremonies/1995",
+      "https://www.sfchronicle.com/entertainment/movies-tv/article/toy-story-5-pixar-hanks-allen-22290278.php/"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, AFI and Academy award records opened. San Francisco Chronicle premiere report was available in search text; direct access returned 402. Award ceremony years are separate from film release years; educational attendance is not described as graduation."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tom_Hanks_at_the_Elvis_Premiere_2022.jpg",
+    "assetPath": "public/assets/portraits/tom-hanks.jpg",
+    "sha256": "3027476d8f830354498f1c0d6e6723fe4a134442a82de8f8ec7ef38016814ed8",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Eva Rinaldi from Abbotsford, Australia",
+    "caption": "Баз Лурман, Ева Рынальдзі, Алівія ДэДжонг, Осцін Батлер, Том Хэнкс.",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Tom_Hanks",
+    "https://www.afi.com/laa/tom-hanks/",
+    "https://www.oscars.org/oscars/ceremonies/1994",
+    "https://www.oscars.org/oscars/ceremonies/1995",
+    "https://www.sfchronicle.com/entertainment/movies-tv/article/toy-story-5-pixar-hanks-allen-22290278.php/"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "06a4bd572937356322c98bbb25fe9645c0039cd09ad671d61211c37a3fecaf2f",
+    "englishReferenceTextHash": "9a1d078a1ed202d957ee96a5af99803fddf52bcae5b1cbeb8d839e0281555b18",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

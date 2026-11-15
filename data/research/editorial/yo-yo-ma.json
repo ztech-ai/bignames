@@ -1,0 +1,145 @@
+{
+  "id": "yo-yo-ma",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "Chicago Classical Review November12,2026 reports his November11 live performance with CSO; NAC institutional biography updatedJuly2,2026 corroborates ongoing activity.",
+  "lifeStatusEvidenceURL": "https://chicagoclassicalreview.com/2026/11/yo-yo-ma-returns-to-cso-for-riveting-shostakovich/",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://chicagoclassicalreview.com/2026/11/yo-yo-ma-returns-to-cso-for-riveting-shostakovich/",
+    "note": "Chicago Classical Review November12,2026 reports his November11 live performance with CSO; NAC institutional biography updatedJuly2,2026 corroborates ongoing activity."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Yo-Yo_Ma",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Yo-Yo Ma - Wikipedia",
+        "characters": 51773
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s2",
+        "url": "https://www.yo-yoma.com/biography/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Biography |  Yo-Yo Ma",
+        "characters": 4019
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s3",
+        "url": "https://nac-cna.ca/en/bio/yo-yo-ma",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Yo-Yo Ma | Biographies | National Arts Centre",
+        "characters": 9041
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s4",
+        "url": "https://www.praemiumimperiale.org/en/laureate/ma/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Yo-Yo Ma | The official website of the Praemium Imperiale",
+        "characters": 7210
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s5",
+        "url": "https://obamawhitehouse.archives.gov/the-press-office/2011/02/15/remarks-president-honoring-recipients-2010-medal-freedom",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Remarks by the President Honoring the Recipients of the 2010 Medal of Freedom | whitehouse.gov",
+        "characters": 30830
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s6",
+        "url": "https://chicagoclassicalreview.com/2026/11/yo-yo-ma-returns-to-cso-for-riveting-shostakovich/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Chicago Classical Review  »   » Yo-Yo Ma returns to CSO for riveting Shostakovich",
+        "characters": 7370
+      },
+      {
+        "id": "yo-yo-ma",
+        "sourceId": "s7",
+        "url": "https://bach.yo-yoma.com/about/",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The Bach Project About |  Yo-Yo Ma",
+        "characters": 3845
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Yo-Yo_Ma",
+      "https://www.yo-yoma.com/biography/",
+      "https://nac-cna.ca/en/bio/yo-yo-ma",
+      "https://www.praemiumimperiale.org/en/laureate/ma/",
+      "https://obamawhitehouse.archives.gov/the-press-office/2011/02/15/remarks-president-honoring-recipients-2010-medal-freedom",
+      "https://chicagoclassicalreview.com/2026/11/yo-yo-ma-returns-to-cso-for-riveting-shostakovich/",
+      "https://bach.yo-yoma.com/about/"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Official biography, Praemium Imperiale, White House and Bach Project pages opened. NAC full text retrieved via CLI despite browser503. Chicago performance review supplies near-cutoff living evidence. Presidential Medal class2010 distinguished from actual February2011 presentation."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Yo-Yo_Ma_in_2018_(cropped).jpg",
+    "assetPath": "public/assets/portraits/yo-yo-ma.jpg",
+    "sha256": "4ad554eb3248d8467fb613e70b18aec0a3d9ec2af2facc7013b0c70d824faea4",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Joi Ito",
+    "caption": "Yo-Yo Ma in 2018",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2026-11-11",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Yo-Yo_Ma",
+    "https://www.yo-yoma.com/biography/",
+    "https://nac-cna.ca/en/bio/yo-yo-ma",
+    "https://www.praemiumimperiale.org/en/laureate/ma/",
+    "https://obamawhitehouse.archives.gov/the-press-office/2011/02/15/remarks-president-honoring-recipients-2010-medal-freedom",
+    "https://chicagoclassicalreview.com/2026/11/yo-yo-ma-returns-to-cso-for-riveting-shostakovich/",
+    "https://bach.yo-yoma.com/about/"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "07d4f48894e24580201459510f120a643fee38048a38b11861f34ec1854394f6",
+    "englishReferenceTextHash": "cb422f859a9f2afc6b661ea111245a2cb0ef34a2bff129c84df873a798483ca2",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

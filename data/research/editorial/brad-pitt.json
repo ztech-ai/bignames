@@ -1,0 +1,134 @@
+{
+  "id": "brad-pitt",
+  "reviewedAt": "2026-11-15",
+  "cutoffDate": "2026-11-13",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biography, works and institutional records; source caption compared with locally inspected photograph.",
+  "lifeStatusEvidence": "ABC News August10,2026 reports his contemporary interview, supplying fresh living evidence. Formula1 official cast feature for the released 2025 F1 film describes his contemporary starring work; Biography.com and current biography reviewed. No inference from absence of death data.",
+  "lifeStatusEvidenceURL": "https://abcnews.com/GMA/Culture/brad-pitt-opens-sobriety-suicidal-thoughts-candid-interview/story?id=135523431",
+  "lifeStatusReview": {
+    "status": "living",
+    "lifeStatusEvidenceURL": "https://abcnews.com/GMA/Culture/brad-pitt-opens-sobriety-suicidal-thoughts-candid-interview/story?id=135523431",
+    "note": "ABC News August10,2026 reports his contemporary interview, supplying fresh living evidence. Formula1 official cast feature for the released 2025 F1 film describes his contemporary starring work; Biography.com and current biography reviewed. No inference from absence of death data."
+  },
+  "birthPrecision": "day",
+  "sourceAccessReview": {
+    "checkedAt": "2026-11-15",
+    "records": [
+      {
+        "id": "brad-pitt",
+        "sourceId": "s1",
+        "url": "https://en.wikipedia.org/wiki/Brad_Pitt",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Brad Pitt - Wikipedia",
+        "characters": 140430
+      },
+      {
+        "id": "brad-pitt",
+        "sourceId": "s2",
+        "url": "https://www.oscars.org/oscars/ceremonies/2020",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 92nd Academy Awards | 2020",
+        "characters": 10781
+      },
+      {
+        "id": "brad-pitt",
+        "sourceId": "s3",
+        "url": "https://www.oscars.org/oscars/ceremonies/2014",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "The 86th Academy Awards | 2014",
+        "characters": 19694
+      },
+      {
+        "id": "brad-pitt",
+        "sourceId": "s4",
+        "url": "https://www.formula1.com/en/latest/article/all-the-key-f1-the-movie-cast-members-and-the-characters-they-play.7gTzQ326rBLko6fiVTjvRH",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "F1 The Movie: All the key cast members and the characters they play | Formula 1®",
+        "characters": 10577
+      },
+      {
+        "id": "brad-pitt",
+        "sourceId": "s5",
+        "url": "https://www.biography.com/actors/brad-pitt",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Brad Pitt: Biography, Actor, Oscar Winner, Movie Producer",
+        "characters": 27653
+      },
+      {
+        "id": "brad-pitt",
+        "sourceId": "s6",
+        "url": "https://abcnews.com/GMA/Culture/brad-pitt-opens-sobriety-suicidal-thoughts-candid-interview/story?id=135523431",
+        "checkedAt": "2026-11-15",
+        "status": 200,
+        "title": "Brad Pitt opens up about sobriety, suicidal thoughts and more in candid interview - ABC News",
+        "characters": 3761
+      }
+    ],
+    "note": "HTTP status describes CLI access; browser/search access and source-specific limits are described separately. Successful fetch is not an independent factual certification."
+  },
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Brad_Pitt",
+      "https://www.oscars.org/oscars/ceremonies/2020",
+      "https://www.oscars.org/oscars/ceremonies/2014",
+      "https://www.formula1.com/en/latest/article/all-the-key-f1-the-movie-cast-members-and-the-characters-they-play.7gTzQ326rBLko6fiVTjvRH",
+      "https://www.biography.com/actors/brad-pitt",
+      "https://abcnews.com/GMA/Culture/brad-pitt-opens-sobriety-suicidal-thoughts-candid-interview/story?id=135523431"
+    ],
+    "scope": "Opened source pages and compared biographical, work and award information. Cached evidence was used as unreviewed leads.",
+    "limits": "Wikipedia, Academy records, Formula1 and Biography.com opened. Family litigation is summarized without treating disputed allegations as judicial findings. Best Picture is credited to the producing team."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-15",
+    "visualReview": "Actually inspected the local photograph in .qa/add100c/d/portraits.jpg; a real color photograph consistent with the named source caption. Original cached bytes retained.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Brad_Pitt_2019_by_Glenn_Francis.jpg",
+    "assetPath": "public/assets/portraits/brad-pitt.jpg",
+    "sha256": "ba8ea8a718c0a2fa392c1e5e95af3858cac7c466b82f7ad98a2aad2a4416a5cb",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Glenn Francis / PacificProDigital.com (Toglenn)",
+    "caption": "Brad Pitt at the premiere of \"Once Upon A Time In Hollywood\" - Photo by Glenn Francis of www.PacificProDigital.com",
+    "identityBasis": "Named source caption and institutional identity comparison; no biometric assertion.",
+    "color": "color-preserved"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Original Chinese and full faithful English intermediary frozen before direct composition and complete semantic review of all displayed fields in French, Arabic, German, Japanese, Spanish and Korean.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object preserved.",
+  "coverageEnd": "2025",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Brad_Pitt",
+    "https://www.oscars.org/oscars/ceremonies/2020",
+    "https://www.oscars.org/oscars/ceremonies/2014",
+    "https://www.formula1.com/en/latest/article/all-the-key-f1-the-movie-cast-members-and-the-characters-they-play.7gTzQ326rBLko6fiVTjvRH",
+    "https://www.biography.com/actors/brad-pitt",
+    "https://abcnews.com/GMA/Culture/brad-pitt-opens-sobriety-suicidal-thoughts-candid-interview/story?id=135523431"
+  ],
+  "additionalLanguageReview": {
+    "locales": [
+      "fr",
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "completedAt": "2026-11-15",
+    "canonicalSourceHash": "2975e33ff18010181105a01243b1120461a0731cfaf6712668bdf253105bf53a",
+    "englishReferenceTextHash": "87232be2da9847cb9adb403dfb0be734aa6419724bfae882aba60169f4446cc3",
+    "method": "Direct AI translation and complete field-by-field semantic review; save helper records provenance and does not translate or certify quality."
+  }
+}

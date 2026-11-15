@@ -5,6 +5,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {validateTranslation,validateIntermediary,sourceStrings} from './i18n-core.mjs';
 import {validateImageMetadata,hasPortrait} from './image-core.mjs';
+import {allocateWithinCapacity} from './batch-allocation.mjs';
 
 const root=fileURLToPath(new URL('../',import.meta.url));
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
@@ -22,7 +23,7 @@ const highestEligibleStars=Math.max(...eligible.map(p=>p.influence.stars));
 const config=await json('data/i18n/locales.json'),source=config.source??config.default;
 const locales=config.locales.filter(l=>l.enabled&&l.id!==source).map(l=>l.id);
 const counts={newProfiles:ids.size,unchangedPreviousCanonicalFiles:previous.size,newTimelineEvents:0,newSourceRecords:0,newFacts:0,newHighlights:0,newForeignTranslations:0,translatedTextFields:0,reviewedForeignTranslations:0,newColorPortraits:0,approvedPortraitPlaceholders:0};
-const domains={};
+const domains=Object.fromEntries(Object.keys(batch.domains).map(d=>[d,0]));
 for(const c of batch.people){
   assert(!previous.has(c.id),`${c.id}: already complete before batch`);
   const original=collection.people.find(p=>p.id===c.id);assert(original,`${c.id}: absent from collection`);
@@ -53,9 +54,23 @@ for(const c of batch.people){
   domains[c.domain]=(domains[c.domain]??0)+1;
 }
 assert.deepEqual(domains,batch.domains);
+assert(batch.people.every(p=>p.stars===highestEligibleStars),'Batch skips a higher existing influence tier');
 if(batch.allocation==='balanced-primary-domains'){
   assert.equal(Object.keys(domains).length,8);assert(Math.max(...Object.values(domains))-Math.min(...Object.values(domains))<=1);
-  assert(batch.people.every(p=>p.stars===highestEligibleStars),'Batch skips a higher existing influence tier');
+  assert.equal(counts.approvedPortraitPlaceholders,0);
+}
+if(batch.allocation==='capacity-balanced-highest-tier'){
+  assert.deepEqual([...batch.domainPriority].sort(),[...new Set(collection.people.map(p=>p.domain))].sort(),'Capacity allocation must consider every collection domain');
+  const exclusions=batch.selectionExclusions??[],excluded=new Set(exclusions.map(p=>p.id));
+  assert.equal(excluded.size,exclusions.length,'Duplicate selection exclusions');
+  for(const exclusion of exclusions){
+    assert(eligible.some(p=>p.id===exclusion.id&&p.influence.stars===highestEligibleStars),'Excluded candidate is outside the remaining highest tier');
+    assert(!ids.has(exclusion.id),'Excluded candidate was selected');
+    assert(typeof exclusion.reason==='string'&&exclusion.reason.trim(),'Missing editorial exclusion reason');
+  }
+  const capacities=Object.fromEntries(batch.domainPriority.map(d=>[d,eligible.filter(p=>p.domain===d&&p.influence.stars===highestEligibleStars&&!excluded.has(p.id)).length]));
+  assert.deepEqual(capacities,batch.domainCapacities,'Remaining highest-tier capacities changed');
+  assert.deepEqual(domains,allocateWithinCapacity(capacities,batch.confirmedCount,batch.domainPriority),'Allocation is not balanced within eligible domain capacity');
   assert.equal(counts.approvedPortraitPlaceholders,0);
 }
 const allFiles=(await readdir(path.join(root,'data/people'))).filter(f=>f.endsWith('.json'));
