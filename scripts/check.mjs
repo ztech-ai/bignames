@@ -62,6 +62,7 @@ for(const file of files) {
   if(hasPortrait(image)) {
     const imageStat=await stat(path.join(root,'public',image.src));
     assert(imageStat.size>1000,`${p.id}: suspicious image size`);
+    if(image.licenseText)assert((await stat(path.join(root,'public',image.licenseText))).size>100,`${p.id}: missing full bundled image license`);
     portraitStatuses.set(image.src,lifeStatus(p));
   }
   assert(candidates.some(c=>c.id===p.id),`${p.id}: absent from roster`);

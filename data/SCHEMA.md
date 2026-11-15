@@ -44,6 +44,8 @@ highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早
 
 ## 缺失肖像的明确例外
 
+需要随素材提供完整许可时，可添加`licenseText`，仅允许`assets/licenses/<文件名>.txt`，对应文件必须保存在`public/`中并随站发布；`licenseUrl`仍保存真实许可原文地址。可选`permissionNotice`保存来源原有许可声明，八语人物和许可页面均原样显示，不把声明改写为新的授权。
+
 实际照片/画像继续要求 `src`、`alt`、`credit`、`license`、`licenseUrl`、`sourceUrl`。仅经用户明确同意的例外可使用 `{ "kind": "placeholder", "status": "awaiting-permission", "approvedBy": "user", "verifiedAt": "2026-11-13", "reason": "具体原因与确认范围" }`。这种记录禁止包含 `src`、`credit`、`license`、`licenseUrl`、`sourceUrl`，不能把姓名框描述成授权图片。本批仅奥特加适用。列表、详情、许可页及八语无障碍标签统一显示肖像待补；随后取得授权彩照时换成完整照片元数据并重新构建即可。
 
 本批六语`translationProvenance`记录`ai-reviewed`、实际reviewer、reviewedKeys及sourceLocale=en与sourceTextSha256。它不改变中文数据的唯一事实地位；英文是采编参考版本。审阅者必须实际读过对应文字，不能用程序填状态替代语义核对；未审机器稿不允许通过构建。保存工具见`scripts/reviewed-translation.mjs`，其保存行为不证明人类或母语资格。

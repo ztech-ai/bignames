@@ -87,7 +87,7 @@ npm run i18n:delta:import -- --locale en --person sam-altman --file /tmp/sam-en-
 
 ## 静态产物规则
 
-默认中文保留根目录旧地址；其他语言位于 `<语言>/`。当前每种语言生成首页、195 份完整人物 HTML、收录计划、说明、许可和 404 页，共 1,600 页。所有语言共用图片与样式文件，不复制七份肖像。
+默认中文保留根目录旧地址；其他语言位于 `<语言>/`。当前每种语言生成首页、225 份完整人物 HTML、收录计划、说明、许可和 404 页，共 1,840 页。所有语言共用图片与样式文件，不复制七份肖像。
 
 每页提供普通链接形式的语言菜单、正确的 `lang` / `dir` 和 `hreflang`；设置 `SITE_URL` 后还会生成绝对 canonical 与站点地图地址。即使 JavaScript 不可用，人物页语言切换与阅读仍可用。JavaScript 只负责搜索、筛选、分页和保留当前查询条件。
 
@@ -95,6 +95,8 @@ npm run i18n:delta:import -- --locale en --person sam-altman --file /tmp/sam-en-
 
 ## 完整语义复核的来源记录
 
-新增100人的fr/ar/de/ja/es/ko译文包含`translationProvenance`：实际AI审阅者、完整reviewedKeys、中文版本对应的sourceHash，以及英文参考文字SHA-256。构建、检查和状态命令拒绝未审机器草稿、缺失审阅字段或过期英文参考版本；记录格式通过不等于事实/语言正确。完整语义审阅后用`scripts/reviewed-translation.mjs`的save函数保存，不手改版本哈希。
+此前100人及本批30人的fr/ar/de/ja/es/ko译文包含`translationProvenance`：实际AI审阅者、完整reviewedKeys、中文版本对应的sourceHash，以及英文参考文字SHA-256。构建、检查和状态命令拒绝未审机器草稿、缺失审阅字段或过期英文参考版本；记录格式通过不等于事实/语言正确。完整语义审阅后用`scripts/reviewed-translation.mjs`的save函数保存，不手改版本哈希。
 
 机翻试验只留下开发缓存，正式六语均逐字段经AI复核或直接翻译，未声称母语或人类编辑认证。共同奖项、冠军次数、单打/双打、青年组、任职起止、未来计划与责任归属均保留；日期、来源URL、评级和生卒不在各语重复存储。
+
+本批30人先形成中文及完整英文参考，再由AI逐字段编写并复核其余六语，共180份带完整审阅记录的正文；未调用公共机器翻译接口。共240个新人物页由模板生成，日期、来源、评级和照片共享。

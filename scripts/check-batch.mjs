@@ -30,7 +30,7 @@ for(const c of batch.people){
   const person=await json(`data/people/${c.id}.json`);assert.equal(person.id,c.id);
   assert.deepEqual(person.influence,original.influence,`${c.id}: rating drift`);
   assert.equal(person.death,null,`${c.id}: selected living-person batch contains a deceased/unknown person`);
-  assert.equal(person.verifiedAt,batch.cutoffDate);
+  assert.equal(person.verifiedAt,batch.reviewedAt??batch.cutoffDate);
   assert(person.timeline.length>=8&&person.facts.length>=2&&person.highlights.length>=2&&person.sources.length>=3,`${c.id}: insufficient dossier coverage`);
   const audit=await json(`data/research/editorial/${c.id}.json`);assert.equal(audit.reviewer.kind,'ai');assert(audit.lifeStatusEvidence&&audit.portraitReview?.visualReview);
   const english=await json(`data/i18n/en/people/${c.id}.json`);

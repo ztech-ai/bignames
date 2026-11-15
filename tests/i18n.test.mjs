@@ -105,6 +105,8 @@ for (const locale of locales) {
         } else {
           assert.equal(image.src, `${baseURL}${metadata.src}`);
           assert.equal(image.alt, formatMessage(ui[metadata.kind === 'photo' ? 'image.altPhoto' : 'image.altArtwork'], { name: p.name }));
+          if(metadata.licenseText)assert.equal(document.querySelector('.photo-credit a').href,`${baseURL}${metadata.licenseText}`,'The full bundled image license must resolve correctly in every language');
+          if(metadata.permissionNotice)assert.equal(document.querySelector('.image-permission-notice').textContent,metadata.permissionNotice,'The original image permission notice must accompany every language page');
         }
         assert.equal(image.dataset.lifeStatus, person.death === null ? 'living' : 'deceased');
         assert.equal(document.querySelector('link[rel="stylesheet"]').href, `${baseURL}assets/site.css`);
