@@ -1,0 +1,68 @@
+{
+  "id": "wang-yi",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Chinese MFA7November2026report describes Wang meeting Vietnamforeignminister on4November2026; current ministerbiography confirms foreignminister/Politburo/foreign-affairsoffice roles.",
+  "lifeStatusEvidenceURL": "https://www.fmprc.gov.cn/eng/wjbzhd/202611/t20261107_12055338.html",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.fmprc.gov.cn/mfa_eng/wjb/wjbz/",
+      "https://en.wikipedia.org/wiki/Wang_Yi_(politician)",
+      "https://www.fmprc.gov.cn/eng/wjbzhd/202611/t20261107_12055338.html"
+    ],
+    "access": [
+      {
+        "id": "wang-yi",
+        "n": 1,
+        "url": "https://www.fmprc.gov.cn/mfa_eng/wjb/wjbz/",
+        "status": 200,
+        "characters": 6601,
+        "access": "body-fetched"
+      },
+      {
+        "id": "wang-yi",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/Wang_Yi_(politician)",
+        "status": 200,
+        "characters": 64795,
+        "access": "body-fetched"
+      },
+      {
+        "id": "wang-yi",
+        "n": 3,
+        "url": "https://www.fmprc.gov.cn/eng/wjbzhd/202611/t20261107_12055338.html",
+        "status": 200,
+        "characters": 6640,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Official current ministerprofile and datedmeeting body read, with Wikipediacareer chronology. Official biography suppliesOctober1953only; kept monthprecision rather than dayfromunconfirmedsecondarylabel. Official education says undergraduate qualification and economicsmaster; no claimed doctorate. Collective foreignpolicy decisions not treated as his sole decisions."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jake_Sullivan_and_Wang_Yi_met_in_Bangkok_(2024)_(cropped).jpg",
+    "sha256": "8f303e43341ef02630f525dbaf2fecb79842bb1a3bbab3ed0964a718e6cddcb6",
+    "author": "Office of U.S. National Security Advisor",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Jake Sullivan: \"Just finished two days of meetings with CCP Politburo foreign chief Wang Yi in Bangkok to follow up on the Woodside Summit between U.S. President Joe Biden and CCP General Secretary Xi Jinping last November.\"",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/wang-yi.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-04"
+}

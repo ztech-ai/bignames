@@ -1,0 +1,212 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "b3f69ea5549f5a5163402e8d54e5898046f857d6533ceb73038b1bf0a8d6a74b",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "moxie-marlinspike",
+    "name": "莫克西·马林斯派克",
+    "enName": "Moxie Marlinspike",
+    "aliases": [],
+    "birth": null,
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "加密通信",
+      "隐私技术"
+    ],
+    "role": "软件开发者 · 通信隐私与加密技术倡导者",
+    "summary": "马林斯派克从软件开发和安全研究走向加密通信创业，曾共同创办Whisper Systems并在Twitter负责安全工作。他与特雷弗·佩林及开源社区推动Signal协议和应用发展，后来与布赖恩·阿克顿建立Signal基金会。卸任Signal首席执行官后，他创办Confer，将隐私保护理念扩展到AI对话，并宣布与Meta合作。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "title": "Signal与非营利基础",
+        "text": "与合作者把加密协议、开源应用和基金会组织结合，降低安全通信的使用门槛。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s5",
+          "s7"
+        ],
+        "title": "将隐私问题带入AI",
+        "text": "通过Confer探索加密对话、机密计算和受保护的文件处理。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "成长经历",
+        "value": "在美国佐治亚州长大，1999年前往硅谷。"
+      },
+      {
+        "id": "f2",
+        "label": "早期工作",
+        "value": "早年从事软件开发，曾在BEA Systems等科技企业工作。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2026-09-05",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "介绍机密计算工作器",
+        "text": "在技术文章中说明Confer如何用可信执行环境处理文件和运行程序。"
+      },
+      {
+        "id": "t2",
+        "date": "2026-03-17",
+        "sourceIds": [
+          "s6"
+        ],
+        "title": "宣布与Meta合作",
+        "text": "表示将把Confer隐私技术接入Meta AI，同时保持Confer独立运营。"
+      },
+      {
+        "id": "t3",
+        "date": "2025-12-23",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "公开介绍Confer",
+        "text": "以面向AI对话的加密服务继续其隐私技术工作。"
+      },
+      {
+        "id": "t4",
+        "date": "2022-01-10",
+        "sourceIds": [
+          "s1"
+        ],
+        "title": "宣布卸任Signal首席执行官",
+        "text": "启动继任者寻找程序，并表示将继续在董事会支持项目。"
+      },
+      {
+        "id": "t5",
+        "date": "2018-02-21",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "成立Signal基金会",
+        "text": "与阿克顿推出非营利机构，为开放通信隐私技术提供长期支持。"
+      },
+      {
+        "id": "t6",
+        "date": "2014-07-29",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "Signal在iPhone发布",
+        "text": "Open Whisper Systems推出加密语音应用，与Android的RedPhone兼容。"
+      },
+      {
+        "id": "t7",
+        "date": "2011-11",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "加入Twitter",
+        "text": "Whisper Systems被收购后加入公司；随后推动部分代码开源。"
+      },
+      {
+        "id": "t8",
+        "date": "2010",
+        "sourceIds": [
+          "s9"
+        ],
+        "title": "共同创办Whisper Systems",
+        "text": "与斯图尔特·安德森开发移动安全工具，包括TextSecure和RedPhone。"
+      },
+      {
+        "id": "t9",
+        "date": "1999",
+        "sourceIds": [
+          "s8"
+        ],
+        "title": "前往硅谷",
+        "text": "高中毕业后转向软件行业，逐步发展安全研究与独立项目。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "New year, new CEO",
+        "publisher": "Signal",
+        "url": "https://signal.org/blog/new-year-new-ceo/"
+      },
+      {
+        "id": "s2",
+        "title": "Signal Foundation",
+        "publisher": "Signal",
+        "url": "https://signal.org/blog/signal-foundation/"
+      },
+      {
+        "id": "s3",
+        "title": "Free, worldwide, encrypted phone calls for iPhone",
+        "publisher": "Signal",
+        "url": "https://signal.org/blog/signal/"
+      },
+      {
+        "id": "s4",
+        "title": "The Whispers Are True",
+        "publisher": "Twitter",
+        "url": "https://blog.x.com/developer/en_us/a/2011/whispers-are-true"
+      },
+      {
+        "id": "s5",
+        "title": "Confessions to a data lake",
+        "publisher": "Moxie Marlinspike / Confer",
+        "url": "https://confer.to/blog/2025/12/confessions-to-a-data-lake/"
+      },
+      {
+        "id": "s6",
+        "title": "Confer is bringing foundational AI privacy to Meta",
+        "publisher": "Moxie Marlinspike / Confer",
+        "url": "https://confer.to/blog/2026/03/encrypted-meta/"
+      },
+      {
+        "id": "s7",
+        "title": "Confidential workers for private AI",
+        "publisher": "Moxie Marlinspike / Confer",
+        "url": "https://confer.to/blog/2026/09/confidential-workers-for-private-ai/"
+      },
+      {
+        "id": "s8",
+        "title": "Meet Moxie Marlinspike",
+        "publisher": "WIRED",
+        "url": "https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/"
+      },
+      {
+        "id": "s9",
+        "title": "Moxie Marlinspike",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moxie_Marlinspike"
+      }
+    ],
+    "verifiedAt": "2026-11-16",
+    "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "参与创建Signal和端到端加密协议，推动个人通信隐私及安全消息系统的普及。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    },
+    "birthUnknown": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "thabo-mbeki",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "SABC19October2026reports and photographs Mbeki giving evidence at TRC Cases Inquiry; actual hearing report text read.",
+  "lifeStatusEvidenceURL": "https://www.sabcnews.com/sabcnews/mbeki-urges-respect-for-agreements-made-during-sas-transition/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.nelsonmandela.org/thabo-mbeki-bio",
+      "https://www.gov.za/about-government/contact-directory/thabo-mvuyelwa-mbeki-mr",
+      "https://www.sabcnews.com/sabcnews/mbeki-urges-respect-for-agreements-made-during-sas-transition/",
+      "https://en.wikipedia.org/wiki/Thabo_Mbeki",
+      "https://news.harvard.edu/gazette/story/2008/11/south-african-aids-policy-tied-to-330000-lives-lost/"
+    ],
+    "access": [
+      {
+        "id": "thabo-mbeki",
+        "n": 1,
+        "url": "https://www.nelsonmandela.org/thabo-mbeki-bio",
+        "status": 200,
+        "characters": 5172,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thabo-mbeki",
+        "n": 2,
+        "url": "https://www.gov.za/about-government/contact-directory/thabo-mvuyelwa-mbeki-mr",
+        "status": 200,
+        "characters": 6454,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thabo-mbeki",
+        "n": 3,
+        "url": "https://www.sabcnews.com/sabcnews/mbeki-urges-respect-for-agreements-made-during-sas-transition/",
+        "status": 200,
+        "characters": 5155,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thabo-mbeki",
+        "n": 4,
+        "url": "https://en.wikipedia.org/wiki/Thabo_Mbeki",
+        "status": 200,
+        "characters": 126509,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Read Mandela Foundation and government biographical sections, SABC2026hearing report, Wikipediarelevantchronology/HIVsections and Harvard2008researchreport.2026hearing allegations are allegations, with Mbeki denial explicit; no conviction asserted. HIVpolicy harms described without converting research estimates into court findings. No claim of listening to hearing video."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:SthAfrica.ThaboMbeki.01.jpg",
+    "sha256": "22d3cf0fca78cb48185e585f6257d255999a3fee0691a216e317cc77cbff574e",
+    "author": "Antônio Milena / Agência Brasil",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/br/",
+    "caption": "O presidente da África do Sul Thabo Mbeki",
+    "visualReview": "Viewed labeled .qa/add200/c/portraits-additional.jpg: Mbeki is a real color suited portrait, consistent with named Agência Brasil caption. Downloaded source bytes retained.",
+    "sourceLicenseReview": "Fresh Commons page quotes former Agência Brasil CC BY3.0Brazil terms, names Antônio Milena/ABr, links original image. Historical agency license retained rather than inventing public domain.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/thabo-mbeki.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-10-19"
+}

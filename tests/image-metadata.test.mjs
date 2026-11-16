@@ -8,6 +8,7 @@ test('a missing portrait needs an explicit exception and cannot claim a photogra
   assert.throws(()=>validateImageMetadata({...placeholder,approvedBy:undefined},'example'),/explicit editorial exception/);
   assert.throws(()=>validateImageMetadata({...placeholder,license:'CC BY'},'example'),/must not claim/);
   assert.throws(()=>validateImageMetadata({...placeholder,src:'assets/portraits/example.jpg'},'example'),/must not claim/);
+  assert.throws(()=>validateImageMetadata({...placeholder,zoom:3},'example'),/must not claim/);
   assert.throws(()=>validateImageMetadata({kind:'photo',src:'assets/portraits/example.jpg'},'example'),/incomplete image provenance/);
 });
 
@@ -23,4 +24,11 @@ test('required photographer links accept HTTP(S) and reject unsafe URLs or place
   for(const creditUrl of ['javascript:alert(1)','data:text/html,test','/author','',null])assert.throws(()=>validateImageMetadata({...photo,creditUrl},'example'),/invalid image credit URL/);
   const placeholder={kind:'placeholder',status:'awaiting-permission',approvedBy:'user',reason:'Awaiting licensed portrait',verifiedAt:'2026-11-13',creditUrl:'https://photographer.example/'};
   assert.throws(()=>validateImageMetadata(placeholder,'example'),/must not claim/);
+});
+
+test('portrait zoom requires bounded numeric scale and an explicit safe focal point',()=>{
+  const photo={kind:'photo',src:'assets/portraits/example.jpg',alt:'Example',credit:'Author',license:'CC BY 4.0',licenseUrl:'https://creativecommons.org/licenses/by/4.0/',sourceUrl:'https://example.com/photo'};
+  validateImageMetadata({...photo,zoom:3,position:'46.5% 23.5%'},'example');
+  for(const zoom of [0,-1,6.01,'3',Infinity,NaN,null])assert.throws(()=>validateImageMetadata({...photo,zoom,position:'50% 25%'},'example'),/zoom must be a number/);
+  for(const position of [undefined,'center','101% 50%','-1% 50%','50% 20%;transform:rotate(90deg)'])assert.throws(()=>validateImageMetadata({...photo,zoom:3,position},'example'),/zoom requires a percentage/);
 });

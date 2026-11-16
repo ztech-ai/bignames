@@ -30,7 +30,7 @@ const living=people.filter(p=>lifeStatus(p)==='living').length;
 const completed=collection.people.filter(p=>ids.has(p.id)).length;
 const edition=await read('data/research/edition-report.json');
 Object.assign(edition,{
-  cutoffDate:batch.cutoffDate,reviewedAt:batch.reviewedAt??batch.cutoffDate,
+  cutoffDate:batch.cutoffDate,researchCollectionCutoffDate:collection.cutoffDate,latestBatchCutoffDate:batch.cutoffDate,reviewedAt:batch.reviewedAt??batch.cutoffDate,
   newCompleteProfiles:completed,totalCompleteProfiles:people.length,pendingNewProfiles:collection.people.length-completed,
   languages:enabledLanguages,staticHtmlPages:(people.length+5)*enabledLanguages,
   timelineEvents:people.reduce((n,p)=>n+p.timeline.length,0),sourceRecords:people.reduce((n,p)=>n+p.sources.length,0),

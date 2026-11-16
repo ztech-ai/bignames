@@ -1,0 +1,88 @@
+{
+  "id": "roland-busch",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Reuters dated12November2026 reports his remarks as Siemens CEO; fresh ERT biography names him President/CEO. Dated activity assessed positively for life status.",
+  "lifeStatusEvidenceURL": "https://www.reuters.com/business/siemens-posts-q4-profit-above-forecasts-raises-mid-term-guidance-2026-11-12/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://ert.eu/members/roland-busch/",
+      "https://press.siemens.com/global/en/pressrelease/supervisory-board-endorses-strategic-direction-and-leadership-team-siemens-ag-and",
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:b2c1118e-9c6c-4349-9ad2-c83b33172f9c/210226-cv-buschroland-d.pdf",
+      "https://www.reuters.com/business/siemens-posts-q4-profit-above-forecasts-raises-mid-term-guidance-2026-11-12/",
+      "https://press.siemens.com/global/en/pressrelease/siemens-launches-siemens-xcelerator-open-digital-business-platform-accelerate-digital"
+    ],
+    "access": [
+      {
+        "id": "roland-busch",
+        "n": 1,
+        "url": "https://ert.eu/members/roland-busch/",
+        "status": 200,
+        "characters": 2502,
+        "access": "body-fetched"
+      },
+      {
+        "id": "roland-busch",
+        "n": 2,
+        "url": "https://press.siemens.com/global/en/pressrelease/supervisory-board-endorses-strategic-direction-and-leadership-team-siemens-ag-and",
+        "status": 200,
+        "characters": 11581,
+        "access": "body-fetched"
+      },
+      {
+        "id": "roland-busch",
+        "n": 3,
+        "url": "https://www.fau.eu/2021/07/08/news/once-a-quantum-theorist-now-the-ceo-of-siemens/",
+        "status": 200,
+        "characters": 1092,
+        "access": "body-fetched"
+      },
+      {
+        "id": "roland-busch",
+        "n": 4,
+        "url": "https://www.reuters.com/business/siemens-posts-q4-profit-above-forecasts-raises-mid-term-guidance-2026-11-12/",
+        "error": "HTTP Error 401: Unauthorized",
+        "access": "not-opened"
+      },
+      {
+        "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b2c1118e-9c6c-4349-9ad2-c83b33172f9c/210226-cv-buschroland-d.pdf",
+        "access": "pdf-body-read",
+        "localEvidence": ".qa/add200/c/roland-cv.txt"
+      },
+      {
+        "url": "https://press.siemens.com/global/en/pressrelease/siemens-launches-siemens-xcelerator-open-digital-business-platform-accelerate-digital",
+        "status": 200,
+        "access": "body-read",
+        "localEvidence": ".qa/add200/c/roland-xcelerator.txt"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Siemens official CV PDF and ERT biography read; appointment release read. Reuters2026report available as indexed extract; direct fetch401. FAU URL returned a small anti-bot body, not a usable biography, and was replaced by the CV. Latest financial figures omitted; no unsupported doctorate year. Xcelerator launch verified against the fresh29June2022Siemens release."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Roland_Busch.jpg",
+    "sha256": "9f8bb71e33d2ed614a379ce6bdf086d91badded1d8025fc2118186ca00afc1b1",
+    "author": "Siemens Portugal",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "Roland Busch, CEO Siemens AG",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/roland-busch.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-12"
+}

@@ -1,0 +1,195 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "0c051011a8671ce71adcf8550764ca0831d504f8dd1f023c17c26a92852dc3bf",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "matei-zaharia",
+    "name": "马泰·扎哈里亚",
+    "enName": "Matei Zaharia",
+    "aliases": [],
+    "birth": null,
+    "death": null,
+    "country": "罗马尼亚 / 加拿大",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "分布式计算",
+      "数据与AI平台"
+    ],
+    "role": "计算机科学家 · Databricks共同创办人",
+    "summary": "扎哈里亚在博士研究期间发起Apache Spark，以内存计算改善大规模数据处理。随后共同创办Databricks，并参与开发MLflow和Delta Lake，将开源系统研究连接到企业分析与人工智能。他先后在MIT、斯坦福和伯克利任教，研究重点逐渐延伸至可靠的AI系统与智能体。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "title": "发起Apache Spark",
+        "text": "以适合迭代计算的分布式框架支持大规模分析。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "title": "开源数据工具",
+        "text": "与团队发展MLflow和Delta Lake，改进模型管理及数据可靠性。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "研究领域",
+        "value": "分布式系统、数据管理及人工智能基础设施。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "滑铁卢大学数学学士（2007）；伯克利计算机科学博士（2013）。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2026-04-08",
+        "sourceIds": [
+          "s3",
+          "s6"
+        ],
+        "title": "获公布计算大奖",
+        "text": "ACM宣布其获2025年度计算奖，表彰分布式数据系统贡献。"
+      },
+      {
+        "id": "t2",
+        "date": "2023",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "返回伯克利任教",
+        "text": "加入电子工程与计算机科学系，任副教授。"
+      },
+      {
+        "id": "t3",
+        "date": "2018-06-05",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "发布MLflow",
+        "text": "与团队推出开源平台，管理实验、复现与模型部署。"
+      },
+      {
+        "id": "t4",
+        "date": "2016",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "赴斯坦福任教",
+        "text": "从MIT转任计算机科学助理教授。"
+      },
+      {
+        "id": "t5",
+        "date": "2015",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "加入MIT教师队伍",
+        "text": "开始担任计算机科学助理教授。"
+      },
+      {
+        "id": "t6",
+        "date": "2013",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "title": "博士毕业并共同创业",
+        "text": "完成伯克利博士，与研究伙伴共同创办Databricks。"
+      },
+      {
+        "id": "t7",
+        "date": "2009",
+        "sourceIds": [
+          "s1",
+          "s3"
+        ],
+        "title": "发起Spark项目",
+        "text": "在伯克利博士研究期间开始开发分布式数据处理系统。"
+      },
+      {
+        "id": "t8",
+        "date": "2007",
+        "sourceIds": [
+          "s6"
+        ],
+        "title": "完成滑铁卢学业",
+        "text": "取得数学学士，随后赴伯克利进行研究生训练。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Matei Zaharia: faculty biography",
+        "publisher": "UC Berkeley",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/matei.html"
+      },
+      {
+        "id": "s2",
+        "title": "Matei Zaharia: personal homepage",
+        "publisher": "UC Berkeley",
+        "url": "https://people.eecs.berkeley.edu/~matei/"
+      },
+      {
+        "id": "s3",
+        "title": "Matei Zaharia awarded ACM Prize in Computing",
+        "publisher": "UC Berkeley",
+        "url": "https://vcresearch.berkeley.edu/news/matei-zaharia-awarded-acm-prize-computing"
+      },
+      {
+        "id": "s4",
+        "title": "Curriculum Vitae",
+        "publisher": "Matei Zaharia",
+        "url": "https://people.eecs.berkeley.edu/~matei/cv.pdf"
+      },
+      {
+        "id": "s5",
+        "title": "Introducing MLflow",
+        "publisher": "Databricks",
+        "url": "https://www.databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html"
+      },
+      {
+        "id": "s6",
+        "title": "Matei Zaharia receives 2025 ACM Prize",
+        "publisher": "University of Waterloo",
+        "url": "https://uwaterloo.ca/computer-science/news/cheriton-school-computer-science-alum-matei-zaharia-receives-2025-acm-prize-computing"
+      },
+      {
+        "id": "s7",
+        "title": "Matei Zaharia",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Matei_Zaharia"
+      }
+    ],
+    "verifiedAt": "2026-11-16",
+    "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "创建Apache Spark并共同创办Databricks，推动大规模数据处理和统一分析平台的发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    },
+    "birthUnknown": true
+  }
+}

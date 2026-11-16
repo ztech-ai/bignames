@@ -1,0 +1,197 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "3fe6439e3a328f3d97d290ad0df33c1eb26b98dcabfaba08e89a3cb02cd5cac2",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "alfred-aho",
+    "name": "阿尔弗雷德·阿霍",
+    "enName": "Alfred Aho",
+    "aliases": [],
+    "birth": "1941-08-09",
+    "death": null,
+    "country": "加拿大 / 美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "编译器",
+      "算法教育"
+    ],
+    "role": "计算机科学家 · 编译器与算法研究者",
+    "summary": "阿霍在多伦多大学和普林斯顿大学接受训练，在贝尔实验室从事程序语言、模式匹配与编译研究，后来任教于哥伦比亚大学。他与合作者将理论、UNIX工具和教材连接起来，参与创制AWK，并通过算法及编译器著作影响计算机教育。2021年被宣布与杰弗里·厄尔曼共同获得2020年度图灵奖。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s2",
+          "s3"
+        ],
+        "title": "将编译理论写入教材",
+        "text": "与厄尔曼等人合著算法与编译器教材，系统讲解从程序语言到实现的关键方法。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s1",
+          "s4"
+        ],
+        "title": "AWK与文本处理工具",
+        "text": "与布赖恩·克尼汉、彼得·温伯格合作开发AWK，也编写早期egrep和fgrep。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生地",
+        "value": "加拿大安大略省蒂明斯。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "多伦多大学工程物理学士；普林斯顿大学电气工程与计算机科学博士。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2023-09-06",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "新版AWK著作出版",
+        "text": "与克尼汉、温伯格共同署名的《The AWK Programming Language》第二版出版。"
+      },
+      {
+        "id": "t2",
+        "date": "2022",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "当选美国国家科学院院士",
+        "text": "因算法、程序语言与编译器方面的研究入选。"
+      },
+      {
+        "id": "t3",
+        "date": "2021-03-31",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "图灵奖公布",
+        "text": "ACM宣布他与厄尔曼共享2020年度图灵奖，表彰程序语言实现的算法和理论。"
+      },
+      {
+        "id": "t4",
+        "date": "1995",
+        "sourceIds": [
+          "s1"
+        ],
+        "title": "加入哥伦比亚大学",
+        "text": "转入大学研究与教学，并曾担任计算机科学系主任。"
+      },
+      {
+        "id": "t5",
+        "date": "1986",
+        "sourceIds": [
+          "s2"
+        ],
+        "title": "编译器“龙书”出版",
+        "text": "与拉维·塞西、厄尔曼合著《Compilers: Principles, Techniques, and Tools》。"
+      },
+      {
+        "id": "t6",
+        "date": "1977",
+        "sourceIds": [
+          "s2",
+          "s4"
+        ],
+        "title": "AWK与编译器教材成形",
+        "text": "与同事开发AWK；同年与厄尔曼出版《Principles of Compiler Design》。"
+      },
+      {
+        "id": "t7",
+        "date": "1967",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "在贝尔实验室展开合作",
+        "text": "开始与厄尔曼长期合作，研究程序语言理论、实现和算法。"
+      },
+      {
+        "id": "t8",
+        "date": "1963",
+        "sourceIds": [
+          "s7"
+        ],
+        "title": "取得多伦多大学学位",
+        "text": "完成工程物理本科学业，随后赴普林斯顿深造。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Alfred V. Aho: biography",
+        "publisher": "Columbia University",
+        "url": "https://www.cs.columbia.edu/~aho/bio.html"
+      },
+      {
+        "id": "s2",
+        "title": "Alfred V. Aho: books",
+        "publisher": "Columbia University",
+        "url": "https://www.cs.columbia.edu/~aho/books.html"
+      },
+      {
+        "id": "s3",
+        "title": "ACM Turing Award honors innovators who shaped the foundations of programming",
+        "publisher": "ACM / EurekAlert",
+        "url": "https://www.eurekalert.org/news-releases/875990"
+      },
+      {
+        "id": "s4",
+        "title": "The AWK Programming Language, second edition",
+        "publisher": "Addison-Wesley / InformIT",
+        "url": "https://www.informit.com/store/awk-programming-language-9780138269722"
+      },
+      {
+        "id": "s5",
+        "title": "Four Columbians elected to the National Academy of Sciences",
+        "publisher": "Columbia University",
+        "url": "https://news.columbia.edu/news/four-columbians-elected-national-academy-sciences"
+      },
+      {
+        "id": "s6",
+        "title": "NAS member directory: living members",
+        "publisher": "National Academy of Sciences",
+        "url": "https://www.nasonline.org/membership/member-directory/?_livingdeceased=living&_member_directory_sort=last_name_asc&_membership_type=international-member%2Cmember&_per_page=100"
+      },
+      {
+        "id": "s7",
+        "title": "Alumnus Alfred Aho wins A.M. Turing Award",
+        "publisher": "University of Toronto",
+        "url": "https://www.utoronto.ca/celebrates/alumnus-alfred-aho-wins-am-turing-award"
+      },
+      {
+        "id": "s8",
+        "title": "Alfred Aho",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alfred_Aho"
+      }
+    ],
+    "verifiedAt": "2026-11-16",
+    "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "推动算法、编译器与程序语言理论，通过教材和工具影响计算机教育及软件工程。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

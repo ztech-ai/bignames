@@ -1,0 +1,85 @@
+{
+  "id": "viktor-orban",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "AP25April2026reports his personal video announcing he would decline his parliamentaryseat after election defeat;2026subsequenttransition reporting names formerpremier.",
+  "lifeStatusEvidenceURL": "https://apnews.com/article/164be0a9a221f25db0e66385c9420d23",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+      "https://apnews.com/article/164be0a9a221f25db0e66385c9420d23",
+      "https://www.euronews.com/2026/05/09/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-april-election-victor",
+      "https://www.reuters.com/world/hungarian-parliament-rules-out-orban-return-with-eight-year-limit-prime-2026-06-15/",
+      "https://2010-2014.kormany.hu/en/prime-minister-s-office/the-prime-minister"
+    ],
+    "access": [
+      {
+        "id": "viktor-orban",
+        "n": 1,
+        "url": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+        "status": 200,
+        "characters": 168036,
+        "access": "body-fetched"
+      },
+      {
+        "id": "viktor-orban",
+        "n": 2,
+        "url": "https://apnews.com/article/164be0a9a221f25db0e66385c9420d23",
+        "status": 200,
+        "characters": 46203,
+        "access": "body-fetched"
+      },
+      {
+        "id": "viktor-orban",
+        "n": 3,
+        "url": "https://www.euronews.com/2026/05/09/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-april-election-victor",
+        "status": 200,
+        "characters": 9571,
+        "access": "body-fetched"
+      },
+      {
+        "id": "viktor-orban",
+        "n": 4,
+        "url": "https://www.reuters.com/world/hungarian-parliament-rules-out-orban-return-with-eight-year-limit-prime-2026-06-15/",
+        "error": "HTTP Error 401: Unauthorized",
+        "access": "not-opened"
+      },
+      {
+        "id": "viktor-orban",
+        "n": 5,
+        "url": "https://2010-2014.kormany.hu/en/prime-minister-s-office/the-prime-minister",
+        "status": 200,
+        "characters": 2635,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Fresh Wikipediabiography read with2026transition facts; AP/Euronews and Reuters passages checked. Parliamentaryterm limit is adoptedconstitutionalchange, not criminalpenalty. Former/currentrole distinction follows9May2026handover. Associated corruption allegations concerningotherpeople not imputedas his convictions."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg",
+    "sha256": "f7d7acf331f17bb0bf4730c5b9b45402e1e18ee7cf6523f4716dc061d336b886",
+    "author": "The White House",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/viktor-orban.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-06-15"
+}

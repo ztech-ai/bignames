@@ -1,0 +1,68 @@
+{
+  "id": "alexander-stubb",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "OfficeofPresidentpublishedStubb’s11November2026COP31leaders’summitstatementinAntalya; freshcurrentofficialCVconfirmsPresidentfrom1March2024. Positive2026attributedpublicactivity.",
+  "lifeStatusEvidenceURL": "https://www.presidentti.fi/en/statement-by-president-of-the-republic-of-finland-alexander-stubb-at-the-world-leaders-summit-at-cop31-in-antalya-turkiye-on-11-november-2026/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.presidentti.fi/en/curriculum-vitae/cai-goran-alexander-stubb/",
+      "https://en.wikipedia.org/wiki/Alexander_Stubb",
+      "https://www.presidentti.fi/en/statement-by-president-of-the-republic-of-finland-alexander-stubb-at-the-world-leaders-summit-at-cop31-in-antalya-turkiye-on-11-november-2026/"
+    ],
+    "access": [
+      {
+        "id": "alexander-stubb",
+        "n": 1,
+        "url": "https://www.presidentti.fi/en/curriculum-vitae/cai-goran-alexander-stubb/",
+        "status": 200,
+        "characters": 12848,
+        "access": "body-fetched"
+      },
+      {
+        "id": "alexander-stubb",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/Alexander_Stubb",
+        "status": 200,
+        "characters": 75938,
+        "access": "body-fetched"
+      },
+      {
+        "id": "alexander-stubb",
+        "n": 3,
+        "url": "https://www.presidentti.fi/en/statement-by-president-of-the-republic-of-finland-alexander-stubb-at-the-world-leaders-summit-at-cop31-in-antalya-turkiye-on-11-november-2026/",
+        "status": 200,
+        "characters": 5873,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Freshofficialbiography/CVandsummitstatementread; initialold/president-of-the-republic/cv/and/news/URLs404replacedwithactualcurrentURLs. Precisehistoricdayscross-checkedwithfreshWikipedia. Summittextmarkedcheckagainstdelivery; noaudio/videoattestationclaimed. FinlandjoinedNATOin2023beforehis2024presidency; doesnotcreditaccessiontohisadministration. EUI/EuropeanInvestmentBankpositionshistorical, notcurrent."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tasavallan_presidentin_virkaanastujaiset_1.3.2024_-_43_(cropped_2).jpg",
+    "sha256": "34d59becb2e235e743e5997573038da5bdb457057f85d3f90c379fd2859fb481",
+    "author": "Fanni Uusitalo / Finnish Government, Prime Minister’s Office",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Kuvien käyttöehdot - Villkor för att använda bilderna - Use and rights\n© Fanni Uusitalo, valtioneuvoston kanslia",
+    "visualReview": "Actually viewed .qa/add200/c/portraits-additional.jpg: labeled Stubb photograph shows real color portrait in inauguration setting, matching1March2024FinnishGovernmentcaption. FreshCommonsdescriptionexplicitlynamesFanniUusitalo/PrimeMinister’sOfficeandCCBY2.0; originalphotoandcolorretained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/alexander-stubb.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-11"
+}

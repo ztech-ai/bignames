@@ -20,7 +20,7 @@
 | `data/i18n/snapshots/` | 增量翻译使用的按内容哈希索引的底本快照 |
 | `dist/` | 由模板生成的静态网站；不直接在这里编辑人物内容 |
 
-目前600份正式档案提供8语言页面，千人集合576人完成、424人待完整采编；1000份证据/事实草稿仍是独立研究层。本批按最高剩余四星和领域候选容量选择175人，425份旧基础JSON保持原SHA-256。提交和Pages发布已获用户授权，由main分支Actions执行。奥特加既有姓名占位例外保留，本批没有新增占位。
+目前800份正式档案提供8语言页面，千人集合776人完成、224人待完整采编；1000份证据/事实草稿仍是独立研究层。最新200人先选109位四星再选91位三星，600份旧基础JSON保持原SHA-256。最新批次截止2026-11-16，原始研究截止2026-11-13。提交和Pages发布已获用户授权，由main分支Actions执行。奥特加既有姓名占位例外保留，本批没有新增占位。
 
 ## 常用流程
 
@@ -159,7 +159,7 @@ ZIP按固定顺序、固定时间戳和权限生成；相同输入与相同Pytho
 交付批次还可运行：
 
 ```sh
-node scripts/check-batch.mjs --batch data/collections/influence-175-2026-11.json --report data/research/influence-175-report.json
+node scripts/check-batch.mjs --batch data/collections/influence-200-2026-11.json --report data/research/influence-200-report.json
 ```
 
 它检查基线人物SHA-256未变、评级对象原样继承、领域均衡、资料最低覆盖、译文版本/审阅字段、肖像与已审字节哈希，并生成简短机器报告。它不能认证每条事实、照片身份或语言自然度。旧批次清单与报告是交付时点的历史记录，不要求在后续新增或获准更新存量后继续满足旧总人数。
@@ -179,7 +179,7 @@ node scripts/check-batch.mjs --batch data/collections/influence-175-2026-11.json
 当一批人物全部冻结后执行：
 
 ```sh
-npm run content:report -- --batch data/collections/influence-175-2026-11.json
+npm run content:report -- --batch data/collections/influence-200-2026-11.json
 ```
 
 脚本先运行批次核验；失败不更新输出。通过后写入批次报告、`edition-report.json`、本批CSV和`docs/IMAGE-CREDITS.md`。完整档案、来源和研究草稿仍分开计数；程序不把计数或自报AI审阅记录当成事实认证，不修改人物、评级或译文。该步骤在完整构建/测试/打包之前完成。
@@ -191,3 +191,11 @@ npm run content:report -- --batch data/collections/influence-175-2026-11.json
 批次设置`allocation: "capacity-balanced-highest-tier"`，记录覆盖全部领域的`domainPriority`、同级剩余`domainCapacities`及有具体理由的`selectionExclusions`。`batch-allocation.mjs`逐轮分配，少量领域到容量即停止，其余名额继续给有容量的同星级领域。`check-batch`重算容量和配额，拒绝跳过更高星级、无理由排除、领域遗漏、未审姓名占位或与基础数据不同的主领域。
 
 程序只能约束已记录的选择，不独立认证每个待编候选仍在世或已获肖像授权。出版前仍需逐人研究、照片与完整八语语义审阅；有新障碍时保留理由并由整合者更新名单/容量，不能靠临时降星填数。
+
+### 跨星级容量分配与合照取景
+
+最新批次使用`tiered-capacity-balanced`。程序按旧档案基线重算剩余候选与具名排除项，先耗尽更高星级，再按累计领域人数及容量轮流分配；保存每级容量及实际配额，拒绝跳过可用高星、伪造容量或改变原评级。该检查不替代逐人编辑判断。
+
+具名合照通过`position`及可选`zoom`作CSS取景，安全范围见[data/SCHEMA.md](../data/SCHEMA.md)，必须实际查看原图并记录被选人物位置。各语言共享原图，不修改颜色、生成脸部或删除来源信息。
+
+全站事件截止校验按`sourceCollection`匹配的已完成批次为具名人物读取事实截止日；未完成批次、其他集合或未列入该批的人物不能因此获得更晚日期。截止日不得晚于批次及人物的实际核对日，也不能在未来。该规则只控制正式档案，原始千人研究的2026-11-13截止日保持不变；后续日期的已核对事实不再被旧研究日期误拦截。

@@ -1,0 +1,186 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "570e997bb7a8ba1f99b7da364e1f5b8a384debc69bf3540600b21558d6130a23",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "andrew-barto",
+    "name": "安德鲁·巴托",
+    "enName": "Andrew Barto",
+    "aliases": [],
+    "birth": "1948",
+    "death": null,
+    "country": "美国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "tags": [
+      "强化学习",
+      "神经计算"
+    ],
+    "role": "计算机科学家 · 强化学习研究者",
+    "summary": "巴托在密歇根大学学习数学与计算机科学，1977年加入马萨诸塞大学阿默斯特分校，从神经网络与动物学习的联系探索强化学习。他与理查德·萨顿等合作者研究智能体如何依据奖励反馈改进行动，并共同撰写重要教材。2012年退休成为荣休教授，2025年与萨顿共同获宣布为2024年度图灵奖得主。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s3",
+          "s5"
+        ],
+        "title": "通过奖励学习行动",
+        "text": "与萨顿、查尔斯·安德森等研究者发展基于反馈的学习与控制方法。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s2",
+          "s4"
+        ],
+        "title": "把领域组织为教材",
+        "text": "与萨顿合著《Reinforcement Learning: An Introduction》，连接理论、算法和实例。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "研究方向",
+        "value": "自然与人工系统中的学习，特别是奖励信号和控制。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "密歇根大学数学学士（1970）、计算机科学博士（1975）。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2025-03-05",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "图灵奖公布",
+        "text": "与萨顿共享2024年度图灵奖，表彰强化学习的概念与算法基础。"
+      },
+      {
+        "id": "t2",
+        "date": "2018",
+        "sourceIds": [
+          "s4"
+        ],
+        "title": "强化学习教材第二版",
+        "text": "与萨顿扩充著作，纳入函数逼近、策略梯度和神经科学等内容。"
+      },
+      {
+        "id": "t3",
+        "date": "2012",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "退休并转为荣休教授",
+        "text": "结束全职教学岗位，继续保持与学习研究领域的联系。"
+      },
+      {
+        "id": "t4",
+        "date": "1998",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "出版强化学习教材",
+        "text": "与萨顿共同推出首版，系统介绍智能体与环境互动的学习方法。"
+      },
+      {
+        "id": "t5",
+        "date": "1983",
+        "sourceIds": [
+          "s5"
+        ],
+        "title": "发表学习控制论文",
+        "text": "与萨顿、安德森用类神经自适应单元研究小车倒立摆控制。"
+      },
+      {
+        "id": "t6",
+        "date": "1977",
+        "sourceIds": [
+          "s1"
+        ],
+        "title": "加入马萨诸塞大学",
+        "text": "以博士后研究员身份进入阿默斯特分校，开展神经网络研究。"
+      },
+      {
+        "id": "t7",
+        "date": "1975",
+        "sourceIds": [
+          "s1"
+        ],
+        "title": "完成计算机科学博士",
+        "text": "在密歇根大学完成博士训练，继续探索自然与人工学习系统。"
+      },
+      {
+        "id": "t8",
+        "date": "1970",
+        "sourceIds": [
+          "s1"
+        ],
+        "title": "完成数学本科学业",
+        "text": "取得密歇根大学数学学位，为计算研究打下基础。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Andrew G. Barto: faculty directory",
+        "publisher": "UMass Amherst",
+        "url": "https://www.cics.umass.edu/about/directory/andrew-g-barto"
+      },
+      {
+        "id": "s2",
+        "title": "Biographical sketch",
+        "publisher": "Andrew Barto / UMass Amherst",
+        "url": "https://people.cs.umass.edu/~barto/biosketch.html"
+      },
+      {
+        "id": "s3",
+        "title": "Barto named co-recipient of 2024 Turing Award",
+        "publisher": "UMass Amherst",
+        "url": "https://www.umass.edu/news/article/umass-amherst-computer-scientist-co-recipient-nobel-prize-computing-foundational-work"
+      },
+      {
+        "id": "s4",
+        "title": "Reinforcement Learning: An Introduction, second edition",
+        "publisher": "MIT Press",
+        "url": "https://mitpress.mit.edu/9780262039246/reinforcement-learning/"
+      },
+      {
+        "id": "s5",
+        "title": "Neuronlike adaptive elements that can solve difficult learning control problems",
+        "publisher": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/6313077/"
+      },
+      {
+        "id": "s6",
+        "title": "Andrew Barto",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Barto"
+      }
+    ],
+    "verifiedAt": "2026-11-16",
+    "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "共同奠定现代强化学习的重要概念与算法基础，推动智能体通过反馈学习的方法发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

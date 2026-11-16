@@ -1,0 +1,44 @@
+{
+  "id": "iris-van-herpen",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched the intended named person across current biographical and career sources; cached research treated as leads.",
+  "lifeStatusEvidence": "Read her official retrospective report that she celebrated the Brooklyn exhibition opening on11 May2026, plus the completed6 July2026 Sonic Starquakes presentation. These are fresh reported participation and creative activity, alongside current designer biography.",
+  "lifeStatusEvidenceURL": "https://www.irisvanherpen.com/news/collections/news/sculpting-the-senses-opens-at-the-brooklyn-museum-in-new-york",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.irisvanherpen.com/about",
+      "https://www.irisvanherpen.com/collections/collections/sympoiesis/about-18",
+      "https://www.irisvanherpen.com/news/collections/news/sculpting-the-senses-opens-at-the-brooklyn-museum-in-new-york",
+      "https://en.wikipedia.org/wiki/Iris_van_Herpen",
+      "https://www.irisvanherpen.com/collections/sonic-starquakes"
+    ],
+    "scope": "Local official pages returned empty202 challenge bodies, but the web tool opened and supplied actual Maison, Sympoiesis, designer biography, Brooklyn opening and Sonic Starquakes bodies, which were read. Initial Brooklyn collection URL returned an error page despite HTTP200 and was replaced; FT403 not relied on. Museum/public exhibition dates vary in closing date, so record May opening only. The living-algae garment is one collaboration within Sympoiesis, not the material of every look.",
+    "limits": "Selected career record, not exhaustive daily monitoring; no human certification. Current activity is positive life evidence at its stated date, not proof of uninterrupted status monitoring."
+  },
+  "portraitReview": {
+    "visualReview": "AI actually viewed local bytes in labeled .qa/add200/e/contact-2.jpg; real color photograph of the person named in the source caption. Original supplied bytes preserved; no identity inference from P18 alone.",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Iris_van_Herpen_-_snapshot_during_the_Haute_Couture_Spring_Summer_2012.jpg",
+    "sha256": "ff670f259a1412a9a7025f660bd8b86a818abc82398b396790d72ddacbe147ba",
+    "caption": "Iris Van Herpen Haute Couture SS2012\n\nIris van Herpen - Haute Couture Spring/Summer 2012.",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "author": "CHRISTOPHER MACSURAK from Chicago, USA",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/iris-van-herpen.jpg",
+    "rightsReview": "Fresh Commons description page read on 2026-11-16; named caption, author and exact license declaration checked. License basis and source links retained; no inferred rights from filename."
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese and complete English directly composed and semantically aligned; all displayed fields in French, Arabic, German, Japanese, Spanish and Korean directly AI authored and read for semantic alignment. Dates, sources, life status and rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "influenceReview": "Exact original contemporary-1000 influence object and primary domain retained without star inflation.",
+  "coverageEnd": "2026-07-06"
+}

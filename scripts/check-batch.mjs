@@ -5,7 +5,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {validateTranslation,validateIntermediary,sourceStrings} from './i18n-core.mjs';
 import {validateImageMetadata,hasPortrait} from './image-core.mjs';
-import {allocateWithinCapacity} from './batch-allocation.mjs';
+import {allocateWithinCapacity,allocateByTier} from './batch-allocation.mjs';
 
 const root=fileURLToPath(new URL('../',import.meta.url));
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
@@ -55,7 +55,7 @@ for(const c of batch.people){
   domains[c.domain]=(domains[c.domain]??0)+1;
 }
 assert.deepEqual(domains,batch.domains);
-assert(batch.people.every(p=>p.stars===highestEligibleStars),'Batch skips a higher existing influence tier');
+if(batch.allocation!=='tiered-capacity-balanced')assert(batch.people.every(p=>p.stars===highestEligibleStars),'Batch skips a higher existing influence tier');
 if(batch.allocation==='balanced-primary-domains'){
   assert.equal(Object.keys(domains).length,8);assert(Math.max(...Object.values(domains))-Math.min(...Object.values(domains))<=1);
   assert.equal(counts.approvedPortraitPlaceholders,0);
@@ -74,8 +74,27 @@ if(batch.allocation==='capacity-balanced-highest-tier'){
   assert.deepEqual(domains,allocateWithinCapacity(capacities,batch.confirmedCount,batch.domainPriority),'Allocation is not balanced within eligible domain capacity');
   assert.equal(counts.approvedPortraitPlaceholders,0);
 }
+if(batch.allocation==='tiered-capacity-balanced'){
+  assert.deepEqual([...batch.domainPriority].sort(),[...new Set(collection.people.map(p=>p.domain))].sort(),'Tiered allocation must consider every collection domain');
+  const exclusions=batch.selectionExclusions??[],excluded=new Set(exclusions.map(p=>p.id));assert.equal(excluded.size,exclusions.length,'Duplicate selection exclusions');
+  for(const exclusion of exclusions){
+    assert(eligible.some(p=>p.id===exclusion.id),'Excluded candidate is outside the unpublished pool');assert(!ids.has(exclusion.id),'Excluded candidate was selected');assert(typeof exclusion.reason==='string'&&exclusion.reason.trim(),'Missing editorial exclusion reason');
+  }
+  const stars=[...new Set(eligible.map(p=>p.influence.stars))].sort((a,b)=>b-a);
+  const inputs=stars.map(stars=>({stars,domainCapacities:Object.fromEntries(batch.domainPriority.map(d=>[d,eligible.filter(p=>p.domain===d&&p.influence.stars===stars&&!excluded.has(p.id)).length]))}));
+  const expected=allocateByTier(inputs,batch.confirmedCount,batch.domainPriority);
+  assert.deepEqual(domains,expected.domains,'Cumulative domain balance differs from available influence tiers');
+  const recorded=batch.tiers.map(({stars,domainCapacities,selectedCount,domains})=>({stars,domainCapacities,selectedCount,domains}));
+  assert.deepEqual(recorded,expected.tiers,'Recorded influence-tier capacities or allocations changed');
+  for(const tier of expected.tiers){
+    const actual=Object.fromEntries(batch.domainPriority.map(d=>[d,batch.people.filter(p=>p.stars===tier.stars&&p.domain===d).length]));
+    assert.deepEqual(actual,tier.domains,`Tier${tier.stars}: selection skips an available higher tier or changes domain allocation`);
+  }
+  assert.equal(counts.approvedPortraitPlaceholders,0);
+}
 const allFiles=(await readdir(path.join(root,'data/people'))).filter(f=>f.endsWith('.json'));
 assert.equal(allFiles.length,previous.size+ids.size,'Unexpected people outside this batch');
-const report={status:'passed',batch:batch.id,cutoffDate:batch.cutoffDate,counts,domains,highestEligibleStars,newProfileHtmlPages:ids.size*config.locales.filter(l=>l.enabled).length,totalProfiles:allFiles.length,totalHtmlPages:(allFiles.length+5)*config.locales.filter(l=>l.enabled).length,limits:['Structural/version checks and review-record consistency; not independent certification of source claims, portrait identity or native-language quality.','Portrait color and identity were inspected by AI editors; hashes only link these records to the delivered bytes.']};
+const selectedByStars=Object.fromEntries([...new Set(batch.people.map(p=>p.stars))].sort((a,b)=>b-a).map(stars=>[stars,batch.people.filter(p=>p.stars===stars).length]));
+const report={status:'passed',selectedByStars,...(batch.allocation==='tiered-capacity-balanced'?{tierAllocations:batch.tiers}:{}),batch:batch.id,cutoffDate:batch.cutoffDate,counts,domains,highestEligibleStars,newProfileHtmlPages:ids.size*config.locales.filter(l=>l.enabled).length,totalProfiles:allFiles.length,totalHtmlPages:(allFiles.length+5)*config.locales.filter(l=>l.enabled).length,limits:['Structural/version checks and review-record consistency; not independent certification of source claims, portrait identity or native-language quality.','Portrait color and identity were inspected by AI editors; hashes only link these records to the delivered bytes.']};
 if(options['--report'])await writeFile(path.join(root,options['--report']),JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify(report));

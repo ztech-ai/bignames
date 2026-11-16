@@ -1,0 +1,68 @@
+{
+  "id": "gabriel-boric",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "ChileCongresslibraryupdatedbiographyexplicitlyends presidency11March2026 andAPactual11Marchhandoverreport identifiesoutgoingBoric; neitheroldcurrentpresidentbio norabsenceofdeathused.",
+  "lifeStatusEvidenceURL": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gabriel_Boric_Font",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gabriel_Boric_Font",
+      "https://apnews.com/article/00d398c96e0ff25378838dc8831dcbe8",
+      "https://en.wikipedia.org/wiki/Gabriel_Boric"
+    ],
+    "access": [
+      {
+        "id": "gabriel-boric",
+        "n": 1,
+        "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gabriel_Boric_Font",
+        "status": 200,
+        "characters": 42390,
+        "access": "body-fetched"
+      },
+      {
+        "id": "gabriel-boric",
+        "n": 2,
+        "url": "https://apnews.com/article/00d398c96e0ff25378838dc8831dcbe8",
+        "status": 200,
+        "characters": 51253,
+        "access": "body-fetched"
+      },
+      {
+        "id": "gabriel-boric",
+        "n": 3,
+        "url": "https://en.wikipedia.org/wiki/Gabriel_Boric",
+        "status": 200,
+        "characters": 113517,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Read ChileCongressbiographyincluding2025pensionlawpromulgated20March/published26March andJanuary2026carebill passage, AP2026inaugurationreport and Wikipediaconstitution/educationsections. Courseworkcompletionnotlawdegree; studentfederationleadershipdated2012perprimaryrecord. Carebillpassagenotclaimedinstantnationwideimplementation. SecondconstitutionfailedDecember2023afterfirstfailed2022."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Presidente_Boric_Font.jpg",
+    "sha256": "e3957d61694d847b7611642395da409e4e97ccd453a73be95b03b455843761d8",
+    "author": "Estado de Chile / Gobierno de Chile",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/cl/deed.en",
+    "caption": "Gabriel Boric Font is a Chilean politician who was president of Chile from 11 March 2022 to 11 March 2026.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/gabriel-boric.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-03-11"
+}

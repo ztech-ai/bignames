@@ -107,6 +107,9 @@ for (const locale of locales) {
           assert.equal(document.querySelector('.photo-credit a'),null,'A placeholder must not fabricate an image license or source');
         } else {
           assert.equal(image.src, `${baseURL}${metadata.src}`);
+          assert.equal(image.style.objectPosition,metadata.position??'50% 25%');
+          assert.equal(image.style.transform,metadata.zoom===undefined?'':`scale(${metadata.zoom})`);
+          assert.equal(image.style.transformOrigin,metadata.zoom===undefined?'':metadata.position);
           assert.equal(image.alt, formatMessage(ui[metadata.kind === 'photo' ? 'image.altPhoto' : 'image.altArtwork'], { name: p.name }));
           if(metadata.licenseText)assert.ok([...document.querySelectorAll('.photo-credit a')].some(a=>a.href===`${baseURL}${metadata.licenseText}`),'The full bundled image license must resolve correctly in every language');
           if(metadata.creditUrl){
@@ -134,9 +137,11 @@ for (const locale of locales) {
       } finally { dom.window.close(); }
     }
   });
-  test(`${locale.id}: the image credits page retains required photographer links`,async()=>{
+  test(`${locale.id}: the image credits page retains required author links and recorded review dates`,async()=>{
     const dom=new JSDOM(await read(`dist/${route(locale.id,'credits.html')}`),{url:`${baseURL}${route(locale.id,'credits.html')}`});
     try{
+      const note=dom.window.document.querySelector('.prose').textContent;
+      for(const image of imageMetadata.values())if(image.kind!=='placeholder'&&image.verifiedAt)assert.ok(note.includes(image.verifiedAt),`${locale.id}: missing recorded image review date ${image.verifiedAt}`);
       for(const [id,image]of imageMetadata)if(image.creditUrl){
         const row=dom.window.document.querySelector(`.credits-table a[href="people/${id}/index.html"]`).closest('tr');
         const author=row.querySelector('.image-author-credit');

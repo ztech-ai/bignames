@@ -1,0 +1,67 @@
+{
+  "id": "sergio-ermotti",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Fresh UBS leadership biography names him Group CEO; dated2March2026 Reuters report quotes UBS confirming his tenure until at least early2027.",
+  "lifeStatusEvidenceURL": "https://www.ubs.com/global/en/our-firm/governance/ubs-group-ag/group-executive-board.html",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.ubs.com/global/en/our-firm/governance/ubs-group-ag/group-executive-board.html",
+      "https://en.wikipedia.org/wiki/Sergio_Ermotti",
+      "https://www.rte.ie/news/business/2026/0302/1561203-ubs-plans-to-keep-ermotti-on-as-ceo-for-longer-report/"
+    ],
+    "access": [
+      {
+        "id": "sergio-ermotti",
+        "n": 1,
+        "url": "https://www.ubs.com/global/en/our-firm/governance/ubs-group-ag/group-executive-board.html",
+        "status": 200,
+        "characters": 29983,
+        "access": "body-fetched"
+      },
+      {
+        "id": "sergio-ermotti",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/Sergio_Ermotti",
+        "status": 200,
+        "characters": 16971,
+        "access": "body-fetched"
+      },
+      {
+        "id": "sergio-ermotti",
+        "n": 3,
+        "url": "https://www.rte.ie/news/business/2026/0302/1561203-ubs-plans-to-keep-ermotti-on-as-ceo-for-longer-report/",
+        "error": "HTTP Error 403: Forbidden",
+        "access": "not-opened"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "UBS biographical and career entries and fresh Wikipedia text read. RTÉ/Reuters2026report reviewed as indexed excerpt; direct RTÉ403. Succession reports treated as prospective; no claimed completed departure."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sergio_P._Ermotti.jpg",
+    "sha256": "8d7d7a5ec050f3eec2aeb70ef134c88b6ca72d682727707e7faa812ff7379fd5",
+    "author": "The official global picture collection of UBS from Switzerland",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Sergio P. Ermotti was appointed Group CEO in November 2011.\nSergio P. Ermotti wurde im November 2011 zum Group CEO ernannt.\n\nUBS Group Executive Board",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/sergio-ermotti.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-03-02"
+}

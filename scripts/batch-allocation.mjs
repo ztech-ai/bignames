@@ -16,3 +16,34 @@ export function allocateWithinCapacity(capacities,count,priority=Object.keys(cap
   }
   return result;
 }
+
+// Exhaust each available influence tier before selecting a lower one. Domain
+// balance includes places already assigned by higher tiers in this batch.
+export function allocateByTier(tiers,count,priority){
+  assert(Array.isArray(tiers)&&tiers.length,'At least one influence tier is required');
+  assert(Number.isInteger(count)&&count>=0,'Batch size must be a nonnegative integer');
+  assert(Array.isArray(priority)&&priority.length&&new Set(priority).size===priority.length,'Domain priority must be nonempty and distinct');
+  const seen=new Set(),ordered=[...tiers].sort((a,b)=>b.stars-a.stars);
+  let available=0;
+  for(const tier of ordered){
+    assert(Number.isInteger(tier.stars)&&tier.stars>=1&&tier.stars<=5&&!seen.has(tier.stars),'Influence tiers must have distinct stars from1to5');seen.add(tier.stars);
+    assert.deepEqual(Object.keys(tier.domainCapacities).sort(),[...priority].sort(),'Each tier must cover every priority domain');
+    for(const value of Object.values(tier.domainCapacities)){assert(Number.isInteger(value)&&value>=0,'Domain capacities must be nonnegative integers');available+=value;}
+  }
+  assert(count<=available,'Insufficient eligible highest-tier capacity');
+  const domains=Object.fromEntries(priority.map(d=>[d,0])),allocations=[];
+  let remaining=count;
+  for(const tier of ordered){
+    if(!remaining)break;
+    const selectedCount=Math.min(remaining,Object.values(tier.domainCapacities).reduce((a,b)=>a+b,0));
+    const allocation=Object.fromEntries(priority.map(d=>[d,0]));
+    for(let i=0;i<selectedCount;i++){
+      let next;
+      for(const domain of priority)if(allocation[domain]<tier.domainCapacities[domain]&&(next===undefined||domains[domain]+allocation[domain]<domains[next]+allocation[next]))next=domain;
+      allocation[next]++;
+    }
+    for(const domain of priority)domains[domain]+=allocation[domain];
+    allocations.push({stars:tier.stars,domainCapacities:{...tier.domainCapacities},selectedCount,domains:allocation});remaining-=selectedCount;
+  }
+  return {domains,tiers:allocations};
+}

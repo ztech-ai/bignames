@@ -1,0 +1,69 @@
+{
+  "id": "antonio-costa",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "EuropeanCouncilfreshspeechesindexexplicitlyrecords Costa travelledtoMadridandspoke5November2026; sittingpresidentbiography confirms1December2024start.",
+  "lifeStatusEvidenceURL": "https://www.consilium.europa.eu/en/european-council/president/speeches/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.consilium.europa.eu/en/european-council/president/biography/",
+      "https://www.consilium.europa.eu/en/european-council/president/speeches/",
+      "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+      "https://eco.sapo.pt/2026/10/02/operacao-influencer-antonio-costa-acusa-ministerio-publico-de-atentado-ao-estado-de-direito/"
+    ],
+    "access": [
+      {
+        "id": "antonio-costa",
+        "n": 1,
+        "url": "https://www.consilium.europa.eu/en/european-council/president/biography/",
+        "status": 200,
+        "characters": 7400,
+        "access": "body-fetched"
+      },
+      {
+        "id": "antonio-costa",
+        "n": 2,
+        "url": "https://www.consilium.europa.eu/en/european-council/president/speeches/",
+        "status": 200,
+        "characters": 11370,
+        "access": "body-fetched"
+      },
+      {
+        "id": "antonio-costa",
+        "n": 3,
+        "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+        "status": 200,
+        "characters": 74993,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "EuropeanCouncil biography and2026speechrecords read; freshWikipediachronology and ECO2October2026proceduralreport read. Costa2023resignation andApril2024caretakerexit differentiated. Portuguese suspeito/arguido not equated with conviction or formalindictment. Report states investigationongoing, not cleared. EuropeanCouncilinstitutiondistinctfromCommission."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg",
+    "sha256": "0dfd2bb7141b0e812be615e6bd60e4a550c790ff15b5c5fa025da4dace0a1c0e",
+    "author": "© European Union, 2026 / European Council / Frédéric Sierakowski",
+    "licenseURL": "https://www.consilium.europa.eu/en/about-site/copyright/",
+    "caption": "Portrait of António Costa, President-elect of the European Council, October 2024",
+    "visualReview": "Viewed labeled .qa/add200/c/portraits-additional.jpg: real color bespectacled portrait in suit against EU flags, matched to Council named2024portrait caption; downloaded source bytes retained.",
+    "sourceLicenseReview": "Read Commonsnamedportrait and Councilactualcopyrightpage, which authorizes reproduction of Council-ownedcontent with attribution and no distortion. Used originalbytes with existingCommonscrop identified by sourceURL. Did not rely on Commonsincorrect EuropeanCommissioninstitution label.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/antonio-costa.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-05"
+}

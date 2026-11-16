@@ -1,0 +1,89 @@
+{
+  "id": "luiza-trajano",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Exame5May2026published a fresh named exclusive interview with the sitting MagazineLuiza boardchair, discussing retail andwomeninitiatives; actualarticlebody read viawebtool.",
+  "lifeStatusEvidenceURL": "https://exame.com/negocios/eu-acredito-no-brasil-apesar-dos-juros-diz-luiza-helena-trajano/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://museudapessoa.org/historia-de-vida/inovar-para-crescer/",
+      "https://www.weforum.org/people/luiza-helena-trajano/",
+      "https://ri.magazineluiza.com.br/ShowCanal/Outros-Conselhos-e-Comites?=YniPStop0rXJaiwd+AGgaQ%3D%3D",
+      "https://exame.com/negocios/eu-acredito-no-brasil-apesar-dos-juros-diz-luiza-helena-trajano/",
+      "https://en.wikipedia.org/wiki/Luiza_Trajano"
+    ],
+    "access": [
+      {
+        "id": "luiza-trajano",
+        "n": 1,
+        "url": "https://museudapessoa.org/historia-de-vida/inovar-para-crescer/",
+        "error": "HTTP Error 403: Forbidden",
+        "access": "not-opened"
+      },
+      {
+        "id": "luiza-trajano",
+        "n": 2,
+        "url": "https://www.weforum.org/people/luiza-helena-trajano/",
+        "status": 200,
+        "characters": 2146,
+        "access": "body-fetched"
+      },
+      {
+        "id": "luiza-trajano",
+        "n": 3,
+        "url": "https://ri.magazineluiza.com.br/ShowCanal/Outros-Conselhos-e-Comites?=YniPStop0rXJaiwd+AGgaQ%3D%3D",
+        "status": 200,
+        "characters": 42253,
+        "access": "body-fetched"
+      },
+      {
+        "id": "luiza-trajano",
+        "n": 4,
+        "url": "https://exame.com/negocios/eu-acredito-no-brasil-apesar-dos-juros-diz-luiza-helena-trajano/",
+        "status": 200,
+        "characters": 28553,
+        "access": "body-fetched"
+      },
+      {
+        "id": "luiza-trajano",
+        "n": 5,
+        "url": "https://en.wikipedia.org/wiki/Luiza_Trajano",
+        "status": 200,
+        "characters": 12659,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://exame.com/negocios/eu-acredito-no-brasil-apesar-dos-juros-diz-luiza-helena-trajano/",
+        "access": "body-opened-read-via-web-tool"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "WEFandcompanycommittee biographies and Wikipediarelevantsections read. Examefresh2026article opened viawebtool; no claim of listening to podcast. Museuoralhistorydirect403, self-reported1948excerpt indexed; WEFexplicitly1951. Both conflictingyears disclosed; no invented exactbirthdate. Retailerstaffandtraineeprogram effects not presentedascompletednationalchange."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Magazine_Luiza_Luiza_Helena_Trajano_(51387211323)_(cropped).jpg",
+    "sha256": "6a94fa40569cdfa7ade8490dfcd546e978e7019d7814b42584f12427de18a66b",
+    "author": "Magazine Luiza - Magalu",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Presidente do Conselho de Administração\n\nMagazine Luiza",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/luiza-trajano.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-05-05"
+}

@@ -1,0 +1,179 @@
+{
+  "formatVersion": 1,
+  "kind": "person",
+  "sourceHash": "2bde80f89a532ad5bec17487c4dd19ce96bc806dd6ff5bc706868e64cc0a2454",
+  "basis": "validated-existing-translation",
+  "source": {
+    "id": "jurgen-schmidhuber",
+    "name": "于尔根·施米德胡伯",
+    "enName": "Jürgen Schmidhuber",
+    "aliases": [],
+    "birth": "1963-01-17",
+    "death": null,
+    "country": "德国",
+    "domains": [
+      "technology"
+    ],
+    "eras": [
+      "contemporary"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "tags": [
+      "神经网络",
+      "元学习"
+    ],
+    "role": "计算机科学家 · 神经网络研究者",
+    "summary": "施米德胡伯研究循环神经网络、元学习与自主智能体。他与塞普·霍赫赖特共同提出长短期记忆网络，长期在瑞士IDSIA组织研究，并参与创办NNAISENSE。其团队推进了序列学习与视觉识别，后来转赴沙特阿拉伯KAUST开展人工智能研究与教学。",
+    "highlights": [
+      {
+        "id": "h1",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "共同提出LSTM",
+        "text": "与霍赫赖特共同研究长序列中的梯度与记忆问题。"
+      },
+      {
+        "id": "h2",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "连接研究与应用",
+        "text": "在IDSIA及NNAISENSE推动神经网络研究和产业应用。"
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "label": "出生地",
+        "value": "德国慕尼黑。"
+      },
+      {
+        "id": "f2",
+        "label": "教育",
+        "value": "慕尼黑工业大学计算机科学与数学文凭（1987）、博士（1991）。"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t1",
+        "date": "2024",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "参与领导生成式AI中心",
+        "text": "出任KAUST生成式人工智能中心共同主席。"
+      },
+      {
+        "id": "t2",
+        "date": "2021",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "加入KAUST",
+        "text": "开始领导该校人工智能倡议，将研究工作扩展至沙特阿拉伯。"
+      },
+      {
+        "id": "t3",
+        "date": "2016",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "获神经网络先驱奖",
+        "text": "IEEE计算智能学会表彰其深度学习与神经网络研究。"
+      },
+      {
+        "id": "t4",
+        "date": "2014",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "共同创办NNAISENSE",
+        "text": "参与成立瑞士人工智能公司，后任首席科学家。"
+      },
+      {
+        "id": "t5",
+        "date": "2009",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "任教卢加诺大学",
+        "text": "出任人工智能教授，任期延续至2021年。"
+      },
+      {
+        "id": "t6",
+        "date": "1997",
+        "sourceIds": [
+          "s3"
+        ],
+        "title": "发表LSTM论文",
+        "text": "与霍赫赖特在《Neural Computation》发表长短期记忆网络研究。"
+      },
+      {
+        "id": "t7",
+        "date": "1995",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "赴瑞士IDSIA",
+        "text": "开始担任瑞士人工智能实验室科学主任。"
+      },
+      {
+        "id": "t8",
+        "date": "1991",
+        "sourceIds": [
+          "s1",
+          "s2"
+        ],
+        "title": "取得博士学位",
+        "text": "在慕尼黑工业大学完成动态神经网络方向博士研究。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Curriculum Vitae",
+        "publisher": "Jürgen Schmidhuber",
+        "url": "https://people.idsia.ch/~juergen/cv.html"
+      },
+      {
+        "id": "s2",
+        "title": "Jürgen Schmidhuber: faculty profile",
+        "publisher": "KAUST",
+        "url": "https://cemse.kaust.edu.sa/profiles/jurgen-schmidhuber"
+      },
+      {
+        "id": "s3",
+        "title": "Long short-term memory",
+        "publisher": "Neural Computation / PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9377276/"
+      },
+      {
+        "id": "s4",
+        "title": "Thoughts About Machine Learning",
+        "publisher": "KAUST",
+        "url": "https://cemse.kaust.edu.sa/events/by-type/seminar/2026/01/26/thoughts-about-machine-learning"
+      }
+    ],
+    "verifiedAt": "2026-11-16",
+    "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+    "influence": {
+      "stars": 4,
+      "scope": "field",
+      "rationale": "长期研究深度学习、循环神经网络和智能体学习，推动相关方法的理论与工程发展。",
+      "assessedAt": "2026-11-13",
+      "methodVersion": "1.0",
+      "reviewStatus": "provisional"
+    }
+  }
+}

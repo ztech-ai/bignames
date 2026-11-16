@@ -1,0 +1,73 @@
+{
+  "id": "j-d-vance",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Dated20February2026USCongressionalDirectory includesVanceastheincumbentVicePresident; freshWhiteHouseadministrationbiography andCommonscaptionofanactual25March2026WhiteHousephotograph independentlymatchtheperson.",
+  "lifeStatusEvidenceURL": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/pdf/CDIR-2026-02-20.pdf",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.whitehouse.gov/administration/jd-vance/",
+      "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/pdf/CDIR-2026-02-20.pdf",
+      "https://en.wikipedia.org/wiki/JD_Vance"
+    ],
+    "access": [
+      {
+        "id": "j-d-vance",
+        "n": 1,
+        "url": "https://www.whitehouse.gov/administration/jd-vance/",
+        "status": 200,
+        "characters": 6112,
+        "access": "body-fetched"
+      },
+      {
+        "id": "j-d-vance",
+        "n": 2,
+        "url": "https://bioguide.congress.gov/search/bio/V000137",
+        "status": 200,
+        "characters": 152,
+        "access": "body-fetched"
+      },
+      {
+        "id": "j-d-vance",
+        "n": 3,
+        "url": "https://en.wikipedia.org/wiki/JD_Vance",
+        "status": 200,
+        "characters": 141919,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/pdf/CDIR-2026-02-20.pdf",
+        "access": "pdf-body-read",
+        "localEvidence": ".qa/add200/c/vance-congress.txt"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "FreshWhiteHousebiographicalbody andCongressionalDirectoryvice-presidentialentryread; Wikipediarelevantcareerchronologyread. BioGuide initiallyreturnedJSshellandwasreplacedbyGPOPDF. Thedirectory wording incorrectlysuggestselectionbythePresident; productusespublicticket-electiondateverifiedagainstWikipedia instead. No promotionalpolicyclaimsorcertainfuturetermcompletionadopted."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
+    "sha256": "d112cceb22eda0dac44f298ba69d17d204dc69f966bbcb4aeba6fe0500f73885",
+    "author": "Emily J. Higgins",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Vice President JD Vance stands for portrait, Wednesday, March 25, 2026, in Vice President’s ceremonial office at the White House. (Official White House Photo by Emily J. Higgins.)",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/j-d-vance.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2025-01-20"
+}

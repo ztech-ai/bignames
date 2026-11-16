@@ -1,0 +1,68 @@
+{
+  "id": "jean-claude-juncker",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Deutschlandfunk17March2026lists newly dated interview with him and interviewerPhilippMay,13:46duration, on EuropeanParliament politicalfirewall. Actualpage metadata read, not an oldNov2026rebroadcast usedasnewinterview.",
+  "lifeStatusEvidenceURL": "https://www.deutschlandfunk.de/interview-mit-jean-claude-juncker-ex-eu-kommissionspraesident-zur-ep-brandmauer-100.html",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Jean-Claude_Juncker",
+      "https://www.britannica.com/biography/Jean-Claude-Juncker",
+      "https://www.deutschlandfunk.de/interview-mit-jean-claude-juncker-ex-eu-kommissionspraesident-zur-ep-brandmauer-100.html"
+    ],
+    "access": [
+      {
+        "id": "jean-claude-juncker",
+        "n": 1,
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker",
+        "status": 200,
+        "characters": 64449,
+        "access": "body-fetched"
+      },
+      {
+        "id": "jean-claude-juncker",
+        "n": 2,
+        "url": "https://www.britannica.com/biography/Jean-Claude-Juncker",
+        "status": 200,
+        "characters": 12642,
+        "access": "body-fetched"
+      },
+      {
+        "id": "jean-claude-juncker",
+        "n": 3,
+        "url": "https://www.deutschlandfunk.de/interview-mit-jean-claude-juncker-ex-eu-kommissionspraesident-zur-ep-brandmauer-100.html",
+        "status": 200,
+        "characters": 4779,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Fresh Wikipedia/Britannica biographical sections and actualDeutschlandfunkepisodepage read. Radiointerviewpage has date/title but no transcript; no claim of listening to audio or detailed quotes. RejectedNovember2026Europodrebroadcast as freshlifeevidence. Institutionalterminology EuropeanCommission versusCouncil keptdistinct."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Jean-Claude_Juncker_April_2019.jpg",
+    "sha256": "00ef315d4dfd70f7e4d4358831630b022bc9478cf7d6e45e1263c8e42ddc0ef8",
+    "author": "euranet_plus",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "On April 2, 2019, Euranet Plus invited Jean-Claude Juncker, President of the European Commission, to debate with moderators Olivier Hanrion and Calderon Sandro  the upcoming EU elections, the legacy of Juncker commission, #Brexit, the #EU budget for next 7 years and much more. Get all the details at <a href=\"https://euranetplus-inside.eu/euranet-plus-summit-2019/\" rel=\"noreferrer nofollow\">euranetplus-inside.eu/euranet-plus-summit-2019/</a>",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/jean-claude-juncker.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-03-17"
+}

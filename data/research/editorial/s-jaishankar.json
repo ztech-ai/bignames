@@ -1,0 +1,72 @@
+{
+  "id": "s-jaishankar",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "French foreign ministry23September2026communiqué names Jaishankar as Indian foreign minister at22Septembertrilateral meeting; Indian MEA current biography checked.",
+  "lifeStatusEvidenceURL": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/agnu-entretien-de-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres-avec-ses",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.mea.gov.in/eam.htm",
+      "https://en.wikipedia.org/wiki/S._Jaishankar",
+      "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/agnu-entretien-de-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres-avec-ses"
+    ],
+    "access": [
+      {
+        "id": "s-jaishankar",
+        "n": 1,
+        "url": "https://www.mea.gov.in/eam.htm",
+        "status": 200,
+        "characters": 7276,
+        "access": "body-fetched"
+      },
+      {
+        "id": "s-jaishankar",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/S._Jaishankar",
+        "status": 200,
+        "characters": 55136,
+        "access": "body-fetched"
+      },
+      {
+        "id": "s-jaishankar",
+        "n": 3,
+        "url": "https://www.mea.gov.in/eam-visits.htm",
+        "status": 200,
+        "characters": 4815,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/agnu-entretien-de-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres-avec-ses",
+        "access": "body-read"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Read Indian ministerial biography and French23September2026communiqué directly. MEA visits index yielded navigation without usable event listings, so replaced with France primary record. Wikipediaused for birth,1977service entry and2024reappointment. No attribution of sole authorship of collective diplomatic agreements."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:The_official_portrait_of_External_Minister_Subrahmanyam_Jaishankar.jpg",
+    "sha256": "84eca54381ef8fbbe4c8119a964b7a5a4118b1f61e244d00ebd64483b2162311",
+    "author": "BMEIA / Gruber",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Am 13. Mai 2023 nahm Außenminister Alexander Schallenberg beim EU-Indopazifik Forum in Stockholm teil. Im Bild mit seinem indischen Amtskollegen Subrahmanyam Jaishankar nach der Unterzeichnung des Österreichisch-Indischen           Migrations- und Mobilitätsabkommen. Foto: BMEIA/Gruber",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/s-jaishankar.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-09-22"
+}

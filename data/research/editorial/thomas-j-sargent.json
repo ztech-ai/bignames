@@ -1,0 +1,97 @@
+{
+  "id": "thomas-j-sargent",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Wharton published19October2026 article introducing Sargent as newly appointed Rowan Distinguished Professor of Finance, including his research remarks; Federal Reserve9July2026 names him task-force co-leader.",
+  "lifeStatusEvidenceURL": "https://knowledge.wharton.upenn.edu/article/nobel-laureate-among-9-new-faculty-at-wharton/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.nobelprize.org/prizes/economic-sciences/2011/sargent/facts/",
+      "https://www.stern.nyu.edu/faculty/bio/thomas-sargent",
+      "https://knowledge.wharton.upenn.edu/article/nobel-laureate-among-9-new-faculty-at-wharton/",
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "https://www.tomsargent.com/personal/resume.pdf",
+      "https://english.phbs.pku.edu.cn/info/3812/44432.htm"
+    ],
+    "access": [
+      {
+        "id": "thomas-j-sargent",
+        "n": 1,
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/sargent/facts/",
+        "status": 200,
+        "characters": 4502,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thomas-j-sargent",
+        "n": 2,
+        "url": "https://www.stern.nyu.edu/faculty/bio/thomas-sargent",
+        "status": 200,
+        "characters": 6274,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thomas-j-sargent",
+        "n": 3,
+        "url": "https://knowledge.wharton.upenn.edu/article/nobel-laureate-among-9-new-faculty-at-wharton/",
+        "status": 200,
+        "characters": 20855,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thomas-j-sargent",
+        "n": 4,
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+        "status": 200,
+        "characters": 13153,
+        "access": "body-fetched"
+      },
+      {
+        "id": "thomas-j-sargent",
+        "n": 5,
+        "url": "https://www.tomsargent.com/personal/resume.pdf",
+        "error": "HTTP Error 503: Service Unavailable",
+        "access": "not-opened"
+      },
+      {
+        "url": "https://english.phbs.pku.edu.cn/info/3812/44432.htm",
+        "status": 200,
+        "access": "body-read",
+        "localEvidence": ".qa/add200/c/sargent-phbs.txt"
+      },
+      {
+        "url": "https://www.tomsargent.com/personal/resume.pdf",
+        "access": "not-opened-web-timeout",
+        "reviewDate": "2026-11-16"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Nobel, NYU, Wharton and Federal Reserve bodies opened and relevant passages read. Personal CV fetch503, not claimed read. NYU biography retains older affiliation wording;2026Wharton appointment explicitly takes precedence. No claim to have listened to accompanying interview. Fresh PHBS institutional CV explicitly dates Army service February1968–December1969 and Harvard PhD March1968; Wharton says service before PhD, while earlier wording said afterward. Replaced that simplified sequence with independently stated precise dates showing overlap. Personal-site PDF remains inaccessible."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7717.jpg",
+    "sha256": "547f89a00a7024aa12aafba0fa60776060cb29e2d0d9f3b5b29e001959ff5615",
+    "author": "Holger Motzkau, Wikipedia/Wikimedia Commons",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Nobel Prize 2011, press conference with the laureates of the Nobel prizes in chemistry and physics and the memorial prize in economic sciences at the Royal Swedish Academy of Sciences.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/thomas-j-sargent.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-10-19"
+}

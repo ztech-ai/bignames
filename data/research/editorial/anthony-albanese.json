@@ -1,0 +1,76 @@
+{
+  "id": "anthony-albanese",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "AustralianPM10November2026release personallyattributes quotes toAlbanese andannounceshisupcomingmulticountrydiplomacy; current official PM biography matches the sitting prime minister.2025re-election providesdatedgoverningactivity.",
+  "lifeStatusEvidenceURL": "https://www.pm.gov.au/media/advancing-australias-national-interest",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.pm.gov.au/about-prime-minister",
+      "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
+      "https://www.pm.gov.au/media/advancing-australias-national-interest",
+      "https://en.wikipedia.org/wiki/Anthony_Albanese"
+    ],
+    "access": [
+      {
+        "id": "anthony-albanese",
+        "n": 1,
+        "url": "https://www.pm.gov.au/about-prime-minister",
+        "status": 200,
+        "characters": 3409,
+        "access": "body-fetched"
+      },
+      {
+        "id": "anthony-albanese",
+        "n": 2,
+        "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
+        "error": "HTTP Error 403: Forbidden",
+        "access": "not-opened"
+      },
+      {
+        "id": "anthony-albanese",
+        "n": 3,
+        "url": "https://www.pm.gov.au/media/advancing-australias-national-interest",
+        "status": 200,
+        "characters": 4262,
+        "access": "body-fetched"
+      },
+      {
+        "id": "anthony-albanese",
+        "n": 4,
+        "url": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+        "status": 200,
+        "characters": 196227,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Official PM biography and10November2026release read, with fresh Wikipedia career/election/referendum chronology. Parliamentary biography returned403 in CLI and web attempts and was not read. Releaseannouncesfuturetravel; noattendanceornegotiationresultinferred. Voice2023referendumdefeatretained. No sourcecamp slogans or claims of universalpolicy success adopted."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
+    "sha256": "eda62a87d635101eebb8342e120cbbcf80909e3c6baba3420d3261350a0890f7",
+    "author": "Australian Government",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Official portrait of Australian Prime Minister Anthony Albanese",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/anthony-albanese.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-10"
+}

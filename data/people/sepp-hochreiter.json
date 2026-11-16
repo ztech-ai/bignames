@@ -1,0 +1,206 @@
+{
+  "id": "sepp-hochreiter",
+  "name": "塞普·霍赫赖特",
+  "enName": "Sepp Hochreiter",
+  "aliases": [],
+  "birth": "1967",
+  "death": null,
+  "country": "德国；在奥地利工作",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "europe"
+  ],
+  "tags": [
+    "序列学习",
+    "神经网络"
+  ],
+  "role": "计算机科学家、林茨开普勒大学教授、NXAI共同创办人",
+  "summary": "霍赫赖特研究神经网络的长期依赖与学习机制，早期分析梯度消失问题，并与于尔根·施米德胡伯共同提出LSTM。此后在林茨开展机器学习、生物信息学及AI研究，近年与团队探索xLSTM、时间序列模型TiRex及产业应用。",
+  "highlights": [
+    {
+      "id": "h1",
+      "sourceIds": [
+        "s8",
+        "s9"
+      ],
+      "title": "让网络学习长期依赖",
+      "text": "其梯度分析揭示深层及循环网络训练的困难，后来与施米德胡伯用记忆单元和门控发展LSTM，而非由一人独力完成整个领域。"
+    },
+    {
+      "id": "h2",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "title": "延续循环模型研究",
+      "text": "与多名研究者提出xLSTM和TiRex，研究可扩展语言建模与时间序列预测；实验结果有具体任务和测试条件。"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生地",
+      "value": "德国巴伐利亚州因河畔米尔多夫。"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "慕尼黑工业大学计算机科学Diplom及博士；另曾学习数学。"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-08-17",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "讲述AI下一阶段",
+      "text": "在FAU演讲中讨论xLSTM、TiRex及机器人记忆，主办方随后发布录像；这些方向仍属于持续研究。"
+    },
+    {
+      "id": "t2",
+      "date": "2025-05-29",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "发表TiRex预印本",
+      "text": "与Andreas Auer等合作者提出基于xLSTM的时间序列基础模型，研究短期及长期的零样本预测。"
+    },
+    {
+      "id": "t3",
+      "date": "2024-05-07",
+      "sourceIds": [
+        "s3"
+      ],
+      "title": "发表xLSTM预印本",
+      "text": "与团队公开扩展LSTM架构，用指数门控和不同记忆结构研究大规模序列建模。"
+    },
+    {
+      "id": "t4",
+      "date": "2023-12",
+      "sourceIds": [
+        "s5"
+      ],
+      "title": "共同创办NXAI",
+      "text": "参与2023年12月成立的公司，随后与JKU宣布研究合作，寻求把AI成果转向产业应用。"
+    },
+    {
+      "id": "t5",
+      "date": "2017",
+      "sourceIds": [
+        "s6"
+      ],
+      "title": "领导LIT AI Lab",
+      "text": "开始领导林茨技术研究院人工智能实验室，把机器学习与跨学科研究结合。"
+    },
+    {
+      "id": "t6",
+      "date": "2006",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ],
+      "title": "赴林茨任教授",
+      "text": "在慕尼黑、科罗拉多和柏林研究后，成为JKU生物信息学教授，后来转向机器学习研究所领导工作。"
+    },
+    {
+      "id": "t7",
+      "date": "1997",
+      "sourceIds": [
+        "s7",
+        "s8"
+      ],
+      "title": "共同发表LSTM",
+      "text": "与施米德胡伯在《Neural Computation》发表长短期记忆网络研究，为长序列学习提供重要架构。"
+    },
+    {
+      "id": "t8",
+      "date": "1991",
+      "sourceIds": [
+        "s7",
+        "s9"
+      ],
+      "title": "完成早期神经网络论文",
+      "text": "在慕尼黑工业大学Diplom论文中分析动态神经网络训练及梯度问题，形成其长期依赖研究的起点。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Sepp Hochreiter: academy member",
+      "publisher": "Austrian Academy of Sciences",
+      "url": "https://www.oeaw.ac.at/en/m/hochreiter-sepp"
+    },
+    {
+      "id": "s2",
+      "title": "The Next Phase of Artificial Intelligence: recording announcement",
+      "publisher": "FAU Pattern Recognition Lab",
+      "url": "https://lme.tf.fau.de/news/recording-available-prof-sepp-hochreiter-johannes-kepler-university-linz-nxai-the-next-phase-of-artificial-intelligence/"
+    },
+    {
+      "id": "s3",
+      "title": "xLSTM: Extended Long Short-Term Memory",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2405.04517"
+    },
+    {
+      "id": "s4",
+      "title": "TiRex: Zero-Shot Forecasting Across Long and Short Horizons",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2505.23719"
+    },
+    {
+      "id": "s5",
+      "title": "AI made in Europe: NXAI founding announcement",
+      "publisher": "Johannes Kepler University Linz",
+      "url": "https://www.jku.at/news-events/news/detail/news/ai-made-in-europe-spitzenforscher-sepp-hochreiter-und-sein-xlstm-erhalten-unternehmerische-verstaerkung-fuer-europaeisches-large-language-model/"
+    },
+    {
+      "id": "s6",
+      "title": "Sepp Hochreiter: short biography",
+      "publisher": "IT:U",
+      "url": "https://it-u.at/en/persons/team/josef-hochreiter/"
+    },
+    {
+      "id": "s7",
+      "title": "Prof. Hochreiter erhält AI-Award",
+      "publisher": "Johannes Kepler University Linz",
+      "url": "https://www.jku.at/technisch-naturwissenschaftliche-fakultaet/organisation/fachbereiche/mechatronik/news-events/detail/news/prof-hochreiter-erhaelt-ai-award/"
+    },
+    {
+      "id": "s8",
+      "title": "Long short-term memory",
+      "publisher": "Neural Computation",
+      "url": "https://doi.org/10.1162/neco.1997.9.8.1735"
+    },
+    {
+      "id": "s9",
+      "title": "Sepp Hochreiter’s Fundamental Deep Learning Problem (1991)",
+      "publisher": "Jürgen Schmidhuber / IDSIA",
+      "url": "https://people.idsia.ch/~juergen/fundamentaldeeplearningproblem.html"
+    },
+    {
+      "id": "s10",
+      "title": "Sepp Hochreiter: author biography",
+      "publisher": "Benevento Publishing",
+      "url": "https://www.beneventopublishing.com/autor/hochreiter-sepp/"
+    }
+  ],
+  "verifiedAt": "2026-11-16",
+  "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "共同提出长短期记忆网络，推动长序列建模在语音、语言和时间序列分析中的应用。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  }
+}

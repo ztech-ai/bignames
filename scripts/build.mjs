@@ -39,6 +39,7 @@ const editorialRank=new Map(featured.map((id,index)=>[id,index]));
 profiles.sort((a,b) => (editorialRank.get(a.id)??Number.MAX_SAFE_INTEGER) - (editorialRank.get(b.id)??Number.MAX_SAFE_INTEGER) || a.id.localeCompare(b.id));
 function createViews(locale,ui,profiles,taxonomy) {
 const byId = new Map(profiles.map(p => [p.id, p]));
+const imageReviewDates=[...new Set(profiles.filter(p=>hasPortrait(p.image)).map(p=>p.image.verifiedAt).filter(date=>/^\d{4}-\d{2}-\d{2}$/.test(date??'')))].sort().join(' / ')||'—';
 const label = (group, id) => taxonomy[group].find(x => x.id === id)?.label ?? id;
 const shortDomain = id => taxonomy.domains.find(x => x.id === id)?.short ?? id;
 const external = (url, text, cls = '') => `<a class="${e(cls)}" href="${e(safeUrl(url))}" target="_blank" rel="noopener noreferrer">${e(text)}</a>`;
@@ -80,7 +81,9 @@ function layout({title, description, body, active = '', prefix = '', script = fa
 
 function picture(p, prefix = '', eager = false, extra = '') {
   if(!hasPortrait(p.image))return `<div class="person-portrait portrait-placeholder" data-life-status="${lifeStatus(p)}" role="img" aria-label="${t('image.pendingAlt',{name:p.name})}"><span class="portrait-initials" aria-hidden="true">${e(p.enName.split(/\s+/).map(word=>word[0]).slice(0,2).join(''))}</span><span class="portrait-name" aria-hidden="true">${e(p.name)}</span><span class="portrait-status" aria-hidden="true">${t('image.pending')}</span></div>`;
-  return `<img class="person-portrait" data-life-status="${lifeStatus(p)}" src="${assets(prefix)}${e(p.image.src)}" alt="${t(p.image.kind==='photo'?'image.altPhoto':'image.altArtwork',{name:p.name})}" width="600" height="680" loading="${eager ? 'eager' : 'lazy'}" decoding="async" style="object-position:${e(p.image.position ?? '50% 25%')}" ${extra}>`;
+  const position=p.image.position??'50% 25%';
+  const framing=p.image.zoom===undefined?'':`;transform:scale(${p.image.zoom});transform-origin:${position}`;
+  return `<img class="person-portrait" data-life-status="${lifeStatus(p)}" src="${assets(prefix)}${e(p.image.src)}" alt="${t(p.image.kind==='photo'?'image.altPhoto':'image.altArtwork',{name:p.name})}" width="600" height="680" loading="${eager ? 'eager' : 'lazy'}" decoding="async" style="object-position:${e(position)}${e(framing)}" ${extra}>`;
 }
 function card(p, index) {
   return `<article class="person-card" data-id="${e(p.id)}"><a class="card-link" href="people/${e(p.id)}/index.html"><div class="card-image">${picture(p, '', index < 6)}<span class="card-domain">${e(shortDomain(p.domains[0]))}</span>${hasPortrait(p.image) && p.image.kind !== 'photo' ? `<span class="image-kind">${t('image.historical')}</span>` : ''}</div><div class="card-body"><div class="card-kicker"><span>${e(lifeLabel(p))}</span><span class="card-arrow">${arrow}</span></div><h3>${e(p.name)}${p.name!==p.enName?`<span class="en-name" lang="en" dir="ltr">${e(p.enName)}</span>`:''}</h3><p class="card-role">${e(p.role)}</p>${p.influence?influenceMarkup(p.influence):''}<div class="card-tags">${p.tags.slice(0,2).map(t => `<span>${e(t)}</span>`).join('')}</div></div></a></article>`;
@@ -169,7 +172,7 @@ function creditRow(p) {
   return `<tr>${name}${hasPortrait(p.image)?`<td>${imageAuthorCredit(p.image)}</td><td>${imageLicenseLink(p)}</td><td>${external(p.image.sourceUrl,`${ui['credits.view']} ↗`)}</td>`:`<td colspan="3">${t('image.pendingNote')}</td>`}</tr>`;
 }
 function creditsPage() {
-  const body=`<div class="container"><header class="page-intro"><p class="eyebrow">${t('credits.eyebrow')}</p><h1>${t('credits.heading')}</h1><p>${t('credits.description1')}<br>${t('credits.description2')}</p></header><div class="table-wrap"><table class="candidate-table credits-table"><caption class="sr-only">${t('credits.tableCaption',{count:profiles.length})}</caption><thead><tr><th scope="col">${t('candidates.name')}</th><th scope="col">${t('credits.author')}</th><th scope="col">${t('credits.license')}</th><th scope="col">${t('credits.source')}</th></tr></thead><tbody>${profiles.map(creditRow).join('')}</tbody></table></div><div class="prose"><p>${t('credits.note1',{date:'2026-11-13'})}</p><p>${t('credits.note2')}</p></div><a class="back-link" href="index.html">← ${t('credits.back')}</a></div>`;
+  const body=`<div class="container"><header class="page-intro"><p class="eyebrow">${t('credits.eyebrow')}</p><h1>${t('credits.heading')}</h1><p>${t('credits.description1')}<br>${t('credits.description2')}</p></header><div class="table-wrap"><table class="candidate-table credits-table"><caption class="sr-only">${t('credits.tableCaption',{count:profiles.length})}</caption><thead><tr><th scope="col">${t('candidates.name')}</th><th scope="col">${t('credits.author')}</th><th scope="col">${t('credits.license')}</th><th scope="col">${t('credits.source')}</th></tr></thead><tbody>${profiles.map(creditRow).join('')}</tbody></table></div><div class="prose"><p>${t('credits.note1',{date:imageReviewDates})}</p><p>${t('credits.note2')}</p></div><a class="back-link" href="index.html">← ${t('credits.back')}</a></div>`;
   return layout({title:ui['nav.credits'],description:ui['credits.meta'],body,pageClass:'credits-page',pagePath:'credits.html'});
 }
 

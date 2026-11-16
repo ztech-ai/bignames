@@ -1,0 +1,190 @@
+{
+  "id": "michael-stonebraker",
+  "name": "迈克尔·斯通布雷克",
+  "enName": "Michael Stonebraker",
+  "aliases": [],
+  "birth": "1943-10-11",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "数据库",
+    "系统研究"
+  ],
+  "role": "计算机科学家 · 数据库研究者与创业者",
+  "summary": "斯通布雷克在普林斯顿和密歇根大学接受训练，长期在加州大学伯克利分校研究数据库，后来转至麻省理工学院。他与团队开发Ingres、Postgres及面向不同负载的数据库架构，并将研究转化为多家企业。其工作兼顾系统设计、开放软件和商业应用；近年参与DBOS，研究可靠工作流。",
+  "highlights": [
+    {
+      "id": "h1",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ],
+      "title": "Ingres与Postgres",
+      "text": "与团队将关系数据管理及可扩展对象关系系统付诸实践。"
+    },
+    {
+      "id": "h2",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "title": "针对负载设计数据库",
+      "text": "参与C-Store等项目，以不同架构回应分析、事务与科学数据的需求。"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生地",
+      "value": "美国马萨诸塞州纽伯里波特。"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "普林斯顿大学电气工程学士（1965）；密歇根大学博士（1971）。"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-09",
+      "sourceIds": [
+        "s7"
+      ],
+      "title": "讨论可靠工作流",
+      "text": "在DBOS技术文章中主张以工作流组织中间层，并关注AI应用的故障恢复。"
+    },
+    {
+      "id": "t2",
+      "date": "2024-03-12",
+      "sourceIds": [
+        "s6"
+      ],
+      "title": "DBOS公开推出",
+      "text": "共同创办的企业公布种子融资，将数据库研究用于云应用可靠性。"
+    },
+    {
+      "id": "t3",
+      "date": "2015-03-25",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "图灵奖公布",
+      "text": "获宣布为2014年度图灵奖得主，表彰现代数据库系统的贡献。"
+    },
+    {
+      "id": "t4",
+      "date": "2005",
+      "sourceIds": [
+        "s3"
+      ],
+      "title": "发表C-Store论文",
+      "text": "与多校团队提出面向读取和分析负载的列式数据库设计。"
+    },
+    {
+      "id": "t5",
+      "date": "1986",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "发表Postgres设计",
+      "text": "与劳伦斯·罗发表后继数据库系统设计，支持复杂对象等扩展能力。"
+    },
+    {
+      "id": "t6",
+      "date": "1976",
+      "sourceIds": [
+        "s5"
+      ],
+      "title": "发表Ingres系统论文",
+      "text": "与尤金·黄等人说明关系数据库的设计、实现与取舍。"
+    },
+    {
+      "id": "t7",
+      "date": "1971",
+      "sourceIds": [
+        "s1"
+      ],
+      "title": "完成博士训练",
+      "text": "取得密歇根大学博士学位，并于这一时期加入伯克利学术队伍。"
+    },
+    {
+      "id": "t8",
+      "date": "1965",
+      "sourceIds": [
+        "s1"
+      ],
+      "title": "完成普林斯顿学业",
+      "text": "获得电气工程学士学位，随后继续研究生学习。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Michael Stonebraker",
+      "publisher": "UC Berkeley EECS",
+      "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stonebraker.html"
+    },
+    {
+      "id": "s2",
+      "title": "Michael Stonebraker wins Turing Award",
+      "publisher": "MIT News",
+      "url": "https://news.mit.edu/2015/michael-stonebraker-wins-turing-award-0325"
+    },
+    {
+      "id": "s3",
+      "title": "C-Store: A Column-oriented DBMS",
+      "publisher": "VLDB",
+      "url": "https://www.vldb.org/conf/2005/papers/p553-stonebraker.pdf"
+    },
+    {
+      "id": "s4",
+      "title": "The design of POSTGRES",
+      "publisher": "ACM",
+      "url": "https://doi.org/10.1145/16894.16888"
+    },
+    {
+      "id": "s5",
+      "title": "The design and implementation of INGRES",
+      "publisher": "ACM / University of Wisconsin mirror",
+      "url": "https://pages.cs.wisc.edu/~nil/764/root/3_p189-stonebraker.pdf"
+    },
+    {
+      "id": "s6",
+      "title": "Technology pioneer Mike Stonebraker launches DBOS",
+      "publisher": "DBOS / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/technology-pioneer-mike-stonebraker-raises-8-5m-to-launch-dbos-and-radically-transform-cloud-computing-302086000.html"
+    },
+    {
+      "id": "s7",
+      "title": "Applications are Dead. Long Live Workflows",
+      "publisher": "Mike Stonebraker / DBOS",
+      "url": "https://www.dbos.dev/blog/applications-are-dead-long-live-workflows"
+    },
+    {
+      "id": "s8",
+      "title": "Michael Stonebraker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Stonebraker"
+    }
+  ],
+  "verifiedAt": "2026-11-16",
+  "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "推动关系数据库和新型数据库系统发展，连接数据库研究、开源软件与产业应用。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  }
+}

@@ -1,0 +1,2278 @@
+{
+  "status": "bounded-ai-review-complete",
+  "batch": "influence-200-2026-11",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewers": [
+    {
+      "kind": "ai",
+      "name": "OpenAI Codex integrator",
+      "scope": "Narayen/Hasina/Ruto ZH/EN/FR and final readback of three peer profiles; named source checks and portrait spot checks."
+    },
+    {
+      "kind": "ai",
+      "name": "OpenAI Codex peer f",
+      "independentFromAuthor": "c",
+      "scope": "Costa/Sargent/Luiza complete ZH/EN/FR and specified external sources."
+    }
+  ],
+  "scope": {
+    "profiles": 6,
+    "fullTextLanguages": [
+      "zh",
+      "en",
+      "fr"
+    ],
+    "completeTextDocuments": 18,
+    "uniqueDisplayedFieldsInCompleteDocuments": 588,
+    "additionalLimitedFields": 5,
+    "uniqueDisplayedFieldsActuallyRead": 593,
+    "additionalLimitedRead": {
+      "person": "thomas-j-sargent",
+      "locales": [
+        "ar",
+        "de",
+        "ja",
+        "es",
+        "ko"
+      ],
+      "keys": [
+        "summary"
+      ]
+    },
+    "finalFilesHashed": 66
+  },
+  "method": "Actual prose and named source reading; all changed/added/deleted keys from the initial root review reread, peer versions reconciled by full final ZH/EN/FR reread, then the last seven Sargent summaries reread. Programs verify only file/field/version consistency and organize this declaration.",
+  "rootInitialToFinalReadbacks": [
+    {
+      "person": "shantanu-narayen",
+      "locale": "zh",
+      "initialSha256": "d06a2c250c7588026583b1d093364ef7de258652d3b8249b333ac5c6347c7b3f",
+      "finalSha256": "a91da4e1b492e18abd53a506688070ee1dc034adb182352eb8fb06385b5d6426",
+      "changedKeysActuallyRead": [
+        "role",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "person": "shantanu-narayen",
+      "locale": "en",
+      "initialSha256": "0535d71a21fd04ce622f438de50f64596279659d27dc1a868cbab8adcab17535",
+      "finalSha256": "57c3d3aed511be527ff74abf95c14fd59515bbc0bbbb9e175d2af649730e117e",
+      "changedKeysActuallyRead": [
+        "role",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "person": "shantanu-narayen",
+      "locale": "fr",
+      "initialSha256": "807a5ff5e335353df4b011d5d7e5855e82fe0b1ca9a6a8a96ed6f220a2349ca2",
+      "finalSha256": "0fa3f8839eb9f2f6c32ca4ab798191132825e7155c308b184f81bf29f3c23e2d",
+      "changedKeysActuallyRead": [
+        "role",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "person": "sheikh-hasina",
+      "locale": "zh",
+      "initialSha256": "29e1d2f82dba9d8ae96da44f67e9e74372a6a5eb9515506cfb8da17fd9c030d5",
+      "finalSha256": "995fed8ce1fc4f3596d9ffd17556248bffd59d848e97f8358b5c7ce008cd73e2",
+      "changedKeysActuallyRead": [
+        "summary",
+        "timeline.t1.text"
+      ]
+    },
+    {
+      "person": "sheikh-hasina",
+      "locale": "en",
+      "initialSha256": "6daff97028770627dc1e3b8052442d237d4a42fd08803627ef57be733cbc4201",
+      "finalSha256": "6f6ce136f3e05ae640030ecff1370a85788615fafedb2248a4ac559f2d5b62da",
+      "changedKeysActuallyRead": [
+        "summary",
+        "timeline.t1.text"
+      ]
+    },
+    {
+      "person": "sheikh-hasina",
+      "locale": "fr",
+      "initialSha256": "990ff2328abdc97c33854fe3d50045a130260cd94ac42e4dbf09d9264853bc20",
+      "finalSha256": "487fbefdcd4176eedea883d035bc1f46260b647a8021d1f75f351a6480fa6b9b",
+      "changedKeysActuallyRead": [
+        "summary",
+        "timeline.t1.text"
+      ]
+    },
+    {
+      "person": "william-ruto",
+      "locale": "zh",
+      "initialSha256": "891d46e2d7931768fd1c3c709ccfa3b85717dd0b222aa6967a8e1397e9852304",
+      "finalSha256": "891d46e2d7931768fd1c3c709ccfa3b85717dd0b222aa6967a8e1397e9852304",
+      "changedKeysActuallyRead": []
+    },
+    {
+      "person": "william-ruto",
+      "locale": "en",
+      "initialSha256": "d0ac877f2a5a8ca62941475c0c8b55ebf4f5550158fb963f83d3cd13d8872518",
+      "finalSha256": "d0ac877f2a5a8ca62941475c0c8b55ebf4f5550158fb963f83d3cd13d8872518",
+      "changedKeysActuallyRead": []
+    },
+    {
+      "person": "william-ruto",
+      "locale": "fr",
+      "initialSha256": "60b8accf1a41fe68b8e737f3e54a8bad7c18b4ea44b8b8cb6319edf60e66ce7d",
+      "finalSha256": "8cff4f1d376271926635ab9edc598ff02a27051d0ec8893a6d840699392c06a0",
+      "changedKeysActuallyRead": [
+        "highlights.h2.text"
+      ]
+    }
+  ],
+  "authorFixesAndReadback": [
+    {
+      "id": "shantanu-narayen",
+      "fields": [
+        "role"
+      ],
+      "resolution": "All eight roles specify current Adobe chair/CEO; announced December1 succession remains future at November16 cutoff."
+    },
+    {
+      "id": "shantanu-narayen",
+      "fields": [
+        "timeline.t9"
+      ],
+      "resolution": "Added May6,2013 Creative Cloud transition in all eight languages, preserving continued sale/support of CS6 perpetual licenses."
+    },
+    {
+      "id": "shantanu-narayen",
+      "fields": [
+        "timeline.t2"
+      ],
+      "resolution": "May1,2023 is interview publication date rather than a claimed event day."
+    },
+    {
+      "id": "sheikh-hasina",
+      "fields": [
+        "timeline.t1.text"
+      ],
+      "resolution": "All eight versions specify Bangladesh International Crimes Tribunal chief prosecutor and attribute the legal argument; not a new court ruling or national attorney-general statement."
+    },
+    {
+      "id": "sheikh-hasina",
+      "fields": [
+        "summary"
+      ],
+      "resolution": "Father Sheikh Mujibur Rahman retained across languages; separate corruption cases explicitly total21 years imprisonment, distinct from the in-absentia death sentence."
+    },
+    {
+      "id": "william-ruto",
+      "fields": [
+        "fr.highlights.h2.text"
+      ],
+      "resolution": "French now conveys taxation and employment difficulties fluently; does not convert proposals into implemented policy."
+    },
+    {
+      "id": "thomas-j-sargent",
+      "fields": [
+        "timeline.t7.text",
+        "timeline.t7.date",
+        "sources.s6"
+      ],
+      "resolution": "PHBS institutional CV supports PhD March1968 and Army February1968–December1969, overlapping. All eight versions state dates without false before/after ordering; direct personal PDF remained unavailable."
+    },
+    {
+      "id": "thomas-j-sargent",
+      "fields": [
+        "en/fr/ar/de/ja/es/ko.summary"
+      ],
+      "resolution": "Restored the same historical teaching institutions as Chinese: Minnesota, Chicago, Stanford,NYU. All seven changed summaries actually read back by integrator; this does not extend the review to their full other five language bodies."
+    },
+    {
+      "id": "luiza-trajano",
+      "fields": [
+        "fr.summary"
+      ],
+      "resolution": "French retains women leadership, domestic-violence support and racial inclusion with corrected grammar. Birth1948/1951 conflict remains explicit."
+    },
+    {
+      "id": "antonio-costa",
+      "fields": [
+        "fr.highlights.h2.text"
+      ],
+      "resolution": "Added the French articles for security and multilateral diplomacy. Suspect versus formal arguido procedural distinction retained."
+    }
+  ],
+  "rootSourceChecks": [
+    {
+      "person": "shantanu-narayen",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "access": "Primary announcement body actually opened and read.",
+      "assessment": "Succession effective December1,2026; no already-completed CEO change at cutoff."
+    },
+    {
+      "person": "shantanu-narayen",
+      "url": "https://www.dvinfo.net/news/adobe-accelerates-shift-to-the-cloud.html",
+      "access": "Original Adobe company release republished by DVInfoNet, May6,2013 body actually opened and read.",
+      "assessment": "Future creative innovations move to subscriptions while CS6 remains supported and sold."
+    },
+    {
+      "person": "shantanu-narayen",
+      "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634313000058/adbe10qq313.htm",
+      "access": "SEC filing actually opened; relevant Creative Cloud passages around1979–1983 and2265 actually read, not entire3592-line filing.",
+      "assessment": "Corroborates May2013 innovation/perpetual-license distinction."
+    },
+    {
+      "person": "sheikh-hasina",
+      "url": "https://www.thedailystar.net/news/crime-justice/news/international-crimes-tribunal-chief-prosecutor-rejects-suggestions-hasinas-retrial-4324446",
+      "access": "Integrator direct web open403. Integrator actually read author-captured public article body with author-recordedHTTP200, publishedNovember15,2026. Not independently retrieved by integrator.",
+      "assessment": "Institutional chief-prosecutor title and attributed no-retrial argument; not a newly opened judgment."
+    },
+    {
+      "person": "sheikh-hasina",
+      "url": "https://www.hrw.org/news/2025/11/17/bangladesh-hasina-found-guilty-of-crimes-against-humanity",
+      "access": "Actual November17,2025 article body497–521 read.",
+      "assessment": "In-absentia death sentence plus fair-trial and death-penalty critique."
+    },
+    {
+      "person": "sheikh-hasina",
+      "url": "https://www.aljazeera.com/news/2025/11/27/after-death-sentence-bangladesh-ex-pm-hasina-gets-21-years-for-land-grab",
+      "access": "Actual November27,2025 article body62–93 read.",
+      "assessment": "Separate corruption cases: three seven-year consecutive prison terms; not another death sentence."
+    },
+    {
+      "person": "william-ruto",
+      "url": "https://www.icc-cpi.int/kenya/rutosang",
+      "access": "Direct case-page open403; no full case record claimed.",
+      "assessment": "Procedural outcome cross-checked with indexed primary ICC press releases."
+    },
+    {
+      "person": "william-ruto",
+      "url": "https://www.icc-cpi.int/news/ruto-and-sang-case-icc-trial-chamber-va-terminates-case-without-prejudice-re-prosecution",
+      "access": "Fresh indexed primary release text actually read; direct open403.",
+      "assessment": "Charges vacated and case terminated without prejudice to re-prosecution, not acquittal."
+    },
+    {
+      "person": "thomas-j-sargent",
+      "url": "https://english.phbs.pku.edu.cn/info/3812/44432.htm",
+      "access": "Web tool returned no readable lines; integrator independently fetched actual public HTML via urllibHTTP200,60753bytes, then read Education and WorkExperience body.",
+      "assessment": "March1968 doctorate overlaps February1968–December1969 Army service. Historical four university appointments supported; old present labels are not evidence of current2026 employment."
+    }
+  ],
+  "peerReviewAtObservedVersion": {
+    "status": "independent-review-of-observed-versions",
+    "reviewer": {
+      "kind": "ai",
+      "name": "OpenAI Codex",
+      "taskOwner": "f",
+      "independentFromAuthor": "c"
+    },
+    "reviewedAt": "2026-11-16",
+    "versionCheckpoint": "2026-11-16T10:14:11Z",
+    "scope": "Three profiles only: complete ZH/EN/FR displayed prose and shared identity, chronology, sources and image/audit metadata. No formal files modified;32 own frozen dossiers unchanged.",
+    "profiles": 3,
+    "displayedFieldsRead": 288,
+    "reviewedLocales": [
+      "zh",
+      "en",
+      "fr"
+    ],
+    "otherLocalesNotSemanticallyReviewed": [
+      "ar",
+      "de",
+      "ja",
+      "es",
+      "ko"
+    ],
+    "fileHashesRecorded": 33,
+    "summary": {
+      "confirmedMaterialFactualErrors": 0,
+      "authorVerificationItems": 1,
+      "recommendedFrenchPolishItems": 2,
+      "assessment": "No proven factual correction identified in this bounded review. Resolve Sargent Army/PhD source ordering and consider the two explicit French grammar edits."
+    },
+    "people": [
+      {
+        "id": "antonio-costa",
+        "reviewedAt": "2026-11-16T10:14:11Z",
+        "localesActuallyRead": [
+          "zh",
+          "en",
+          "fr"
+        ],
+        "displayedFieldsPerLocale": 32,
+        "displayedFieldsActuallyRead": {
+          "zh": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.欧洲协调",
+            "tags.葡萄牙政治",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "en": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.欧洲协调",
+            "tags.葡萄牙政治",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "fr": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.欧洲协调",
+            "tags.葡萄牙政治",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ]
+        },
+        "sharedMetadataActuallyRead": [
+          "id",
+          "enName",
+          "aliases",
+          "birth",
+          "birthYears when present",
+          "death",
+          "domains",
+          "eras",
+          "regions",
+          "timeline[].id/date/sourceIds",
+          "highlights[].id/sourceIds",
+          "facts[].id",
+          "sources[].id/title/publisher/url",
+          "verifiedAt",
+          "influence entire original object"
+        ],
+        "imageMetadataActuallyRead": [
+          "src",
+          "alt",
+          "kind",
+          "verifiedAt",
+          "credit",
+          "license",
+          "licenseUrl",
+          "sourceUrl",
+          "position",
+          "permissionNotice"
+        ],
+        "editorialAuditActuallyRead": [
+          "identityReview",
+          "lifeStatusEvidence and URL",
+          "sourceReview all access/method/limits",
+          "portraitReview metadata and author assertions",
+          "translationReview assertions",
+          "influenceReview",
+          "coverageEnd"
+        ],
+        "contentAssessment": "Current European Council office and legal procedural distinction supported; no confirmed factual error found.",
+        "independentSourceAccess": [
+          {
+            "url": "https://www.consilium.europa.eu/en/european-council/president/biography/",
+            "publisher": "European Council",
+            "type": "institutional primary biography",
+            "access": "Actual page body opened and relevant entire biography/CV and role paragraphs read; last-review label October 9, 2026 observed.",
+            "readPassages": [
+              "Election June 27, 2024 and took office December 1, 2024",
+              "Born Lisbon July 17, 1961",
+              "Lisbon law and Catholic University postgraduate education",
+              "Parliament1991–2004, justice1999–2002, Lisbon mayor2007–2015, premier2015–2024",
+              "European Council chair/representation responsibilities"
+            ],
+            "assessment": "Supports current president identity, birth, education and main historic office dates. Does not independently prove the November5 summit event or legal status."
+          },
+          {
+            "url": "https://eco.sapo.pt/2026/10/02/operacao-influencer-antonio-costa-acusa-ministerio-publico-de-atentado-ao-estado-de-direito/",
+            "publisher": "ECO",
+            "type": "Original dated reporting page, relying on Expresso; not a court/prosecutor primary document",
+            "access": "October2,2026 article body paragraphs171–177 actually opened and read despite subscription/login navigation above.",
+            "readPassages": [
+              "Investigation still pending",
+              "Prosecutor described Costa as suspeito, not arguido/assistente/ofendido",
+              "Denial of access to investigation file and defense objection"
+            ],
+            "assessment": "ZH/EN/FR preserve suspect versus formal arguido distinction and do not claim charge, conviction or exoneration."
+          }
+        ],
+        "findings": [
+          {
+            "id": "F-COSTA-FR-1",
+            "severity": "low",
+            "category": "French grammar",
+            "fields": [
+              "fr.highlights.h2.text"
+            ],
+            "observation": "The phrase “sur sécurité et diplomatie multilatérale” omits the normal articles.",
+            "suggestedAction": "Optional fluency correction to “sur la sécurité et la diplomatie multilatérale”.",
+            "requiresFactualCorrection": false
+          },
+          {
+            "id": "F-COSTA-LEGAL",
+            "severity": "info",
+            "category": "Substantive verification",
+            "fields": [
+              "zh/en/fr.summary",
+              "timeline.t2"
+            ],
+            "observation": "The ECO text supports suspect without arguido status; three-language wording avoids conflating this with conviction or formal indictment.",
+            "requiresFactualCorrection": false
+          }
+        ],
+        "technicalReadOnlyChecks": {
+          "chineseEnglishFrenchFieldSetsAndSourceHashes": "passed",
+          "frenchEnglishIntermediary": "passed",
+          "birthForm": "passed",
+          "livingForm": "passed; evidence assessment separately described",
+          "timelineOrderWithTimelineOrder": "passed",
+          "sourceIdReferences": "passed",
+          "originalInfluenceAndMainDomain": "passed"
+        },
+        "versionChangesObservedDuringReview": [
+          {
+            "path": "data/images/antonio-costa.json",
+            "initialSha256": "db6dcf37b024a12cdd4ded667831ddeae8fba3cfa1337f05a57c6df456c01840",
+            "reviewedSha256": "92ef88f988ed990505895c39997beaf9a95ba73ce6f054a8ce4ba999e991e47c"
+          },
+          {
+            "path": "data/research/editorial/antonio-costa.json",
+            "initialSha256": "3451b3c407af4a26cde75ff4a3322d0903a4e680eb09b08c21da3c36db5009a4",
+            "reviewedSha256": "d48e08e79d9c604395ae7351411a8b6192c3772bc34f72ff38971e77f3c071d7"
+          }
+        ],
+        "changedContentReread": "Re-read entire changed image metadata and matching portrait-audit fields: only spacing after European Union copyright comma changed.",
+        "files": [
+          {
+            "path": "data/people/antonio-costa.json",
+            "sha256": "223bd590c65e11b95ae7e62e3ebdfd2c0c6c1e1f9f3728532222db1d28ce1221",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/en/people/antonio-costa.json",
+            "sha256": "d7b3c1ae64ba556105d0ce2aff3b0428c885594b7af7f43732d636bcb1e81c8b",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/fr/people/antonio-costa.json",
+            "sha256": "8ea29b9623d1edadbd73840f6bbf5169884c982372f393fccd33edfbc1164af4",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/ar/people/antonio-costa.json",
+            "sha256": "3274840550167e8eda8d5fbf11d92ddfa63f245f7aa3bf9e8fec39b42a5b2ee2",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/de/people/antonio-costa.json",
+            "sha256": "2ef9bf7a5b66b68d851778a853973cf53e0a994fc7c08a6b8ba3c7dcc95a3483",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ja/people/antonio-costa.json",
+            "sha256": "4ca16946526ed8b0f5fe3b3801e310e14e8f2c61fe7978b955c3112edb43acba",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/es/people/antonio-costa.json",
+            "sha256": "350e74566445c20e4cd91cd13f7e6ca8a827959dd68e79ecdb05be8dd7f22e0b",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ko/people/antonio-costa.json",
+            "sha256": "7b9644d59e60abcfe67e9ecc69ba2becf8f204f9a050876f12c50c771f26803e",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/images/antonio-costa.json",
+            "sha256": "92ef88f988ed990505895c39997beaf9a95ba73ce6f054a8ce4ba999e991e47c",
+            "reviewScope": "full image metadata read; no independent image/licence re-review"
+          },
+          {
+            "path": "data/research/editorial/antonio-costa.json",
+            "sha256": "d48e08e79d9c604395ae7351411a8b6192c3772bc34f72ff38971e77f3c071d7",
+            "reviewScope": "audit-text-read; original author assertions not re-certified"
+          },
+          {
+            "path": "public/assets/portraits/antonio-costa.jpg",
+            "sha256": "0dfd2bb7141b0e812be615e6bd60e4a550c790ff15b5c5fa025da4dace0a1c0e",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          }
+        ],
+        "limits": [
+          "Only ZH/EN/FR prose reviewed; not an eight-language or native-speaker certification.",
+          "Independent external checks targeted the listed key claims, not every historical milestone.",
+          "Photo metadata and original audit assertions were read, but photograph bytes were not visually inspected and licenses were not independently re-certified in this task.",
+          "Hashes identify the actually observed reviewed version; root must reconcile any later author changes."
+        ]
+      },
+      {
+        "id": "thomas-j-sargent",
+        "reviewedAt": "2026-11-16T10:14:11Z",
+        "localesActuallyRead": [
+          "zh",
+          "en",
+          "fr"
+        ],
+        "displayedFieldsPerLocale": 32,
+        "displayedFieldsActuallyRead": {
+          "zh": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.宏观经济学",
+            "tags.理性预期",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "en": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.宏观经济学",
+            "tags.理性预期",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "fr": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.宏观经济学",
+            "tags.理性预期",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ]
+        },
+        "sharedMetadataActuallyRead": [
+          "id",
+          "enName",
+          "aliases",
+          "birth",
+          "birthYears when present",
+          "death",
+          "domains",
+          "eras",
+          "regions",
+          "timeline[].id/date/sourceIds",
+          "highlights[].id/sourceIds",
+          "facts[].id",
+          "sources[].id/title/publisher/url",
+          "verifiedAt",
+          "influence entire original object"
+        ],
+        "imageMetadataActuallyRead": [
+          "src",
+          "alt",
+          "kind",
+          "verifiedAt",
+          "credit",
+          "license",
+          "licenseUrl",
+          "sourceUrl",
+          "position",
+          "permissionNotice"
+        ],
+        "editorialAuditActuallyRead": [
+          "identityReview",
+          "lifeStatusEvidence and URL",
+          "sourceReview all access/method/limits",
+          "portraitReview metadata and author assertions",
+          "translationReview assertions",
+          "influenceReview",
+          "coverageEnd"
+        ],
+        "contentAssessment": "2026 appointment and Fed task-force co-leadership supported; Army/PhD source ordering conflict needs author/root check.",
+        "independentSourceAccess": [
+          {
+            "url": "https://knowledge.wharton.upenn.edu/article/nobel-laureate-among-9-new-faculty-at-wharton/",
+            "publisher": "Knowledge at Wharton",
+            "type": "Institutional primary appointment article",
+            "access": "October19,2026 article opened; Sargent section paragraphs91–104 read, including current comments. Other eight faculty sections were outside review.",
+            "readPassages": [
+              "Appointment as Rowan Distinguished Professor of Finance",
+              "Earlier Penn economics teaching for a year and a half beginning1970",
+              "Current research comments and2011 shared Nobel",
+              "Article says Army service before Harvard PhD"
+            ],
+            "assessment": "Supports current Wharton role,2026 return and continuing life/research. Contains an Army/PhD ordering conflict with dossier t7; flagged for author resolution, not automatically used to reverse chronology."
+          },
+          {
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+            "publisher": "Federal Reserve Board",
+            "type": "Primary official press release",
+            "access": "July9,2026 full short press-release body and complete leadership list actually opened and read.",
+            "readPassages": [
+              "Five task forces co-led by external advisers",
+              "Inflation Frameworks group names Mankiw,Thomas Sargent,William White",
+              "Task force will review drivers of inflation"
+            ],
+            "assessment": "Supports t2 co-leader appointment, without implying he became a Fed employee or decision-making governor."
+          }
+        ],
+        "findings": [
+          {
+            "id": "F-SARGENT-CHRONOLOGY",
+            "severity": "medium",
+            "category": "Source conflict requiring author check",
+            "fields": [
+              "zh/en/fr.timeline.t7.text",
+              "source s3 versus t7 cited s1/s2"
+            ],
+            "observation": "Current t7 says PhD completed and then US Army service. The independently opened Wharton2026 article instead says Army service before the Harvard PhD.",
+            "suggestedAction": "Author/root should check the historical CV or NYU/Nobel biographical source and record which chronology is supported. Do not reverse the dossier based solely on one recent institutional article.",
+            "requiresAuthorVerification": true,
+            "confirmedDossierError": false
+          },
+          {
+            "id": "F-SARGENT-CURRENT",
+            "severity": "info",
+            "category": "Substantive verification",
+            "fields": [
+              "zh/en/fr.role",
+              "zh/en/fr.summary",
+              "timeline.t1",
+              "timeline.t2"
+            ],
+            "observation": "Wharton confirms the Rowan appointment; Fed confirms one of three external co-leaders. No erroneous governor/staff attribution found.",
+            "requiresFactualCorrection": false
+          }
+        ],
+        "technicalReadOnlyChecks": {
+          "chineseEnglishFrenchFieldSetsAndSourceHashes": "passed",
+          "frenchEnglishIntermediary": "passed",
+          "birthForm": "passed",
+          "livingForm": "passed; evidence assessment separately described",
+          "timelineOrderWithTimelineOrder": "passed",
+          "sourceIdReferences": "passed",
+          "originalInfluenceAndMainDomain": "passed"
+        },
+        "versionChangesObservedDuringReview": [
+          {
+            "path": "data/i18n/de/people/thomas-j-sargent.json",
+            "initialSha256": "498f5840e346ee1049fb723174fcf0bac1d9e1d45bf52bea4d212f22e7cbb407",
+            "reviewedSha256": "0e3697190dbc4d4afa36b6407181b8f6dbbe55d4af0d7311e177796a3c751f44"
+          }
+        ],
+        "changedContentReread": "German file hash changed; German is outside the text-review scope and no semantic approval is claimed for it. ZH/EN/FR and shared metadata unchanged at observed checkpoint.",
+        "files": [
+          {
+            "path": "data/people/thomas-j-sargent.json",
+            "sha256": "d513389532c609ff58fe9bd362f3ca6387df4f62828730d5db1235b3b11099d9",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/en/people/thomas-j-sargent.json",
+            "sha256": "27439c2b2f7a9f91b4eb1d915fe00d69d1e48d35193273dd0b64c68a12d710d1",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/fr/people/thomas-j-sargent.json",
+            "sha256": "aeea186a77f1c929dee94f5fc75672d418206d2093a089be39b8f3a16138352c",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/ar/people/thomas-j-sargent.json",
+            "sha256": "0febeba59e142494c56b48cbfe409417e182497db86e984a682b24169fd6aacd",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/de/people/thomas-j-sargent.json",
+            "sha256": "0e3697190dbc4d4afa36b6407181b8f6dbbe55d4af0d7311e177796a3c751f44",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ja/people/thomas-j-sargent.json",
+            "sha256": "b8705b2c3a4a8f5e68e05dcddc1d79fbfd277d54aa0d8ff403d6c5078437759b",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/es/people/thomas-j-sargent.json",
+            "sha256": "c7d864eb6e545fd31ec7b44a12b59eb854507a2ec1a5979a74503651cd000b89",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ko/people/thomas-j-sargent.json",
+            "sha256": "1b271d54bf399791bd0896bb55b322f3d8693fb791896f0f6b29962d00202023",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/images/thomas-j-sargent.json",
+            "sha256": "250ec6f19ce579fcac1b80a102c6afd5ed3abec7c7e37ee07785cbc69b5dd334",
+            "reviewScope": "full image metadata read; no independent image/licence re-review"
+          },
+          {
+            "path": "data/research/editorial/thomas-j-sargent.json",
+            "sha256": "981cb3bdd093d1276ee5699f722e888ca5004a890186d31f39afc772f1f797c4",
+            "reviewScope": "audit-text-read; original author assertions not re-certified"
+          },
+          {
+            "path": "public/assets/portraits/thomas-j-sargent.jpg",
+            "sha256": "547f89a00a7024aa12aafba0fa60776060cb29e2d0d9f3b5b29e001959ff5615",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          }
+        ],
+        "limits": [
+          "Only ZH/EN/FR prose reviewed; not an eight-language or native-speaker certification.",
+          "Independent external checks targeted the listed key claims, not every historical milestone.",
+          "Photo metadata and original audit assertions were read, but photograph bytes were not visually inspected and licenses were not independently re-certified in this task.",
+          "Hashes identify the actually observed reviewed version; root must reconcile any later author changes."
+        ]
+      },
+      {
+        "id": "luiza-trajano",
+        "reviewedAt": "2026-11-16T10:14:11Z",
+        "localesActuallyRead": [
+          "zh",
+          "en",
+          "fr"
+        ],
+        "displayedFieldsPerLocale": 32,
+        "displayedFieldsActuallyRead": {
+          "zh": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.零售业",
+            "tags.女性领导力",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "en": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.零售业",
+            "tags.女性领导力",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ],
+          "fr": [
+            "name",
+            "role",
+            "country",
+            "summary",
+            "coverageNote",
+            "influence.rationale",
+            "tags.零售业",
+            "tags.女性领导力",
+            "facts.f1.label",
+            "facts.f1.value",
+            "facts.f2.label",
+            "facts.f2.value",
+            "highlights.h1.title",
+            "highlights.h1.text",
+            "highlights.h2.title",
+            "highlights.h2.text",
+            "timeline.t1.title",
+            "timeline.t1.text",
+            "timeline.t2.title",
+            "timeline.t2.text",
+            "timeline.t3.title",
+            "timeline.t3.text",
+            "timeline.t4.title",
+            "timeline.t4.text",
+            "timeline.t5.title",
+            "timeline.t5.text",
+            "timeline.t6.title",
+            "timeline.t6.text",
+            "timeline.t7.title",
+            "timeline.t7.text",
+            "timeline.t8.title",
+            "timeline.t8.text"
+          ]
+        },
+        "sharedMetadataActuallyRead": [
+          "id",
+          "enName",
+          "aliases",
+          "birth",
+          "birthYears when present",
+          "death",
+          "domains",
+          "eras",
+          "regions",
+          "timeline[].id/date/sourceIds",
+          "highlights[].id/sourceIds",
+          "facts[].id",
+          "sources[].id/title/publisher/url",
+          "verifiedAt",
+          "influence entire original object"
+        ],
+        "imageMetadataActuallyRead": [
+          "src",
+          "alt",
+          "kind",
+          "verifiedAt",
+          "credit",
+          "license",
+          "licenseUrl",
+          "sourceUrl",
+          "position"
+        ],
+        "editorialAuditActuallyRead": [
+          "identityReview",
+          "lifeStatusEvidence and URL",
+          "sourceReview all access/method/limits",
+          "portraitReview metadata and author assertions",
+          "translationReview assertions",
+          "influenceReview",
+          "coverageEnd"
+        ],
+        "contentAssessment": "Current board-chair interview,1991 leadership and1972 education supported; birth-year conflict is correctly retained. French summary needs minor fluency polish.",
+        "independentSourceAccess": [
+          {
+            "url": "https://www.weforum.org/people/luiza-helena-trajano/",
+            "resolvedUrl": "https://www.weforum.org/people/luiza-helena-trajano",
+            "publisher": "World Economic Forum",
+            "type": "Institutional participant biography",
+            "access": "Web tool returned a rewritten rendering; independently fetched the actual original URL with urllib HTTP200 and read the complete biographical body.",
+            "readPassages": [
+              "October9,1951 birth year",
+              "Magazine Luiza board chair",
+              "Law degree1972 at Faculdade de Direito de Franca",
+              "Director-Superintendent1991 after sales and other functions"
+            ],
+            "assessment": "Supports1951 alternative and education/1991 transition. Store counts appear historical and were not treated as current. São Paulo birthplace wording is broad; dossier Franca comes from oral history."
+          },
+          {
+            "url": "https://exame.com/negocios/eu-acredito-no-brasil-apesar-dos-juros-diz-luiza-helena-trajano/",
+            "publisher": "Exame",
+            "type": "Original written article presenting an exclusive interview",
+            "access": "May5,2026 actual article body paragraphs18–113 opened and read; no audio/video listened to or watched.",
+            "readPassages": [
+              "Present board-chair role and current first-person comments",
+              "Interest rates and credit constraints",
+              "Physical/digital retail integration",
+              "Mulheres do Brasil founded2013 and women entrepreneurship"
+            ],
+            "assessment": "Supports living/current-chair assessment and t1 topics. Proposed August summit was not treated as completed by this independent review."
+          },
+          {
+            "url": "https://museudapessoa.org/historia-de-vida/inovar-para-crescer/",
+            "publisher": "Museu da Pessoa",
+            "type": "Primary oral-history transcript, restricted direct access",
+            "access": "Direct page open exposed only JavaScript/robot-verification text. Fresh exact-URL search provided indexed transcript excerpts; not a direct full-body read.",
+            "readPassages": [
+              "Indexed speaker gives full name Luiza Helena Trajano Inácio Rodrigues, Franca,October9,1948",
+              "Indexed page identifies March14,2016 recording and family-store development"
+            ],
+            "assessment": "Indexed self-report genuinely conflicts with WEF1951; birth:null plus birthYears[1948,1951] is appropriately conservative. No claim of hearing the recording or reading the complete transcript."
+          }
+        ],
+        "findings": [
+          {
+            "id": "F-LUIZA-FR-1",
+            "severity": "low",
+            "category": "French grammar and specificity",
+            "fields": [
+              "fr.summary"
+            ],
+            "observation": "“elle défend femmes, lutte contre les violences et inclusion raciale” is grammatically clipped and loses the explicit women’s-leadership emphasis of ZH/EN.",
+            "suggestedAction": "Polish to “elle soutient le leadership féminin, la lutte contre les violences et l’inclusion raciale”.",
+            "requiresFactualCorrection": false,
+            "recommendedLanguageCorrection": true
+          },
+          {
+            "id": "F-LUIZA-BIRTH",
+            "severity": "info",
+            "category": "Substantive uncertainty handling",
+            "fields": [
+              "birth",
+              "birthYears",
+              "zh/en/fr.summary",
+              "facts.f1"
+            ],
+            "observation": "Independently read WEF1951; fresh indexed first-person oral-history excerpt gives1948. Both years and source attribution are retained without choosing an exact birthday.",
+            "requiresFactualCorrection": false
+          }
+        ],
+        "technicalReadOnlyChecks": {
+          "chineseEnglishFrenchFieldSetsAndSourceHashes": "passed",
+          "frenchEnglishIntermediary": "passed",
+          "birthForm": "passed",
+          "livingForm": "passed; evidence assessment separately described",
+          "timelineOrderWithTimelineOrder": "passed",
+          "sourceIdReferences": "passed",
+          "originalInfluenceAndMainDomain": "passed"
+        },
+        "versionChangesObservedDuringReview": [
+          {
+            "path": "data/people/luiza-trajano.json",
+            "initialSha256": "779f28ad237f839ceb87b0d242a2dda742ff54a8710fa94c6c83c686028d7260",
+            "reviewedSha256": "a86901b0388f8c7f73ec6d1adb9d715234fb21b055649cc5ab15e314a4859540"
+          },
+          {
+            "path": "data/i18n/en/people/luiza-trajano.json",
+            "initialSha256": "d75e1c5be6ff67a77ca3f3eb0eada20adfc42e284e80c85285b733cf3cfe7d60",
+            "reviewedSha256": "218144d6b39ddf8603b868f6a64907c0e7bf0b3a06952ccea3a6ec6f3442b9cf"
+          },
+          {
+            "path": "data/i18n/fr/people/luiza-trajano.json",
+            "initialSha256": "3d623677755664df146dec015ffe3bbd40c08869effdb1e0ae7a7a103f0c1e10",
+            "reviewedSha256": "879cf4e726163b7a9e300685f79abe100d61ed7e055e429e49c797edba135457"
+          },
+          {
+            "path": "data/i18n/ar/people/luiza-trajano.json",
+            "initialSha256": "0bb81f2def2a67fe12d3a577a947ff89eb29df5ed6cb3ff3b8cbb28efa7a3a1a",
+            "reviewedSha256": "9c7018f5d0575b4f6c49d9dfefaca8457a1f341786a64d34f737c2f0666a6ba0"
+          },
+          {
+            "path": "data/i18n/de/people/luiza-trajano.json",
+            "initialSha256": "be982dbe141faa0a51934a5d778087f25397e02197bdd50de7352a92a28ba00d",
+            "reviewedSha256": "23e6e3566c510af613d8e27fcb2444660e3884d67f3f99c3b29548d6b495bd3d"
+          },
+          {
+            "path": "data/i18n/ja/people/luiza-trajano.json",
+            "initialSha256": "a6064bf52f2313ce756de5fb1a86330e64ad7d2fd5a888f31d00000115927303",
+            "reviewedSha256": "72f4e630c77c61f0733bb7f9cf0198c4c43953adaeaa6a86ec12bc60519c4fb2"
+          },
+          {
+            "path": "data/i18n/es/people/luiza-trajano.json",
+            "initialSha256": "0f47cb21f95be7006858728a96a1c31ea23657626f31723a524fd0780a04d8ab",
+            "reviewedSha256": "01dd67ccadfe84c10cd6dfd901ae277e93b17e0ef222c33e848a96115bb0649d"
+          },
+          {
+            "path": "data/i18n/ko/people/luiza-trajano.json",
+            "initialSha256": "2507777bb0c7bbdd3307ed94cafd3e59c3e8a51f58ce7f595cb4b2ffd7d1c813",
+            "reviewedSha256": "8d0873d4291b265bbc23ef1df04c6634ab195c9cbeefb01700af37918f86be90"
+          },
+          {
+            "path": "data/research/editorial/luiza-trajano.json",
+            "initialSha256": "29a518e05136e64160f2af8b732b9ccf0fe36631b523f931799442573d2d85fd",
+            "reviewedSha256": "e5865da098b37c818302e5cb160ea412faf827387bfd641db4cd908820f06d31"
+          }
+        ],
+        "changedContentReread": "Re-read current full ZH/EN/FR documents and all shared metadata. ZH facts.f1.label changed to 出生地与年份; EN/FR prose unchanged but canonical hashes resaved. Re-read added Exame body-access audit record. Other five locale files only hashed, not semantically reviewed.",
+        "files": [
+          {
+            "path": "data/people/luiza-trajano.json",
+            "sha256": "a86901b0388f8c7f73ec6d1adb9d715234fb21b055649cc5ab15e314a4859540",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/en/people/luiza-trajano.json",
+            "sha256": "218144d6b39ddf8603b868f6a64907c0e7bf0b3a06952ccea3a6ec6f3442b9cf",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/fr/people/luiza-trajano.json",
+            "sha256": "879cf4e726163b7a9e300685f79abe100d61ed7e055e429e49c797edba135457",
+            "reviewScope": "complete ZH/EN/FR displayed text or shared canonical metadata actually read"
+          },
+          {
+            "path": "data/i18n/ar/people/luiza-trajano.json",
+            "sha256": "9c7018f5d0575b4f6c49d9dfefaca8457a1f341786a64d34f737c2f0666a6ba0",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/de/people/luiza-trajano.json",
+            "sha256": "23e6e3566c510af613d8e27fcb2444660e3884d67f3f99c3b29548d6b495bd3d",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ja/people/luiza-trajano.json",
+            "sha256": "72f4e630c77c61f0733bb7f9cf0198c4c43953adaeaa6a86ec12bc60519c4fb2",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/es/people/luiza-trajano.json",
+            "sha256": "01dd67ccadfe84c10cd6dfd901ae277e93b17e0ef222c33e848a96115bb0649d",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/i18n/ko/people/luiza-trajano.json",
+            "sha256": "8d0873d4291b265bbc23ef1df04c6634ab195c9cbeefb01700af37918f86be90",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          },
+          {
+            "path": "data/images/luiza-trajano.json",
+            "sha256": "37cc11c3984f4dcea15e17acdc7c2073913e4492ed66c38ee20ecafd43992453",
+            "reviewScope": "full image metadata read; no independent image/licence re-review"
+          },
+          {
+            "path": "data/research/editorial/luiza-trajano.json",
+            "sha256": "e5865da098b37c818302e5cb160ea412faf827387bfd641db4cd908820f06d31",
+            "reviewScope": "audit-text-read; original author assertions not re-certified"
+          },
+          {
+            "path": "public/assets/portraits/luiza-trajano.jpg",
+            "sha256": "6a94fa40569cdfa7ade8490dfcd546e978e7019d7814b42584f12427de18a66b",
+            "reviewScope": "hash inventory only; contents/visuals not independently reviewed"
+          }
+        ],
+        "limits": [
+          "Only ZH/EN/FR prose reviewed; not an eight-language or native-speaker certification.",
+          "Independent external checks targeted the listed key claims, not every historical milestone.",
+          "Photo metadata and original audit assertions were read, but photograph bytes were not visually inspected and licenses were not independently re-certified in this task.",
+          "Hashes identify the actually observed reviewed version; root must reconcile any later author changes."
+        ]
+      }
+    ],
+    "globalLimits": [
+      "Not a review of all200 profiles or all8 languages.",
+      "AI substantive cross-check, not human/native/legal certification.",
+      "Costa ECO is reporting based on Expresso rather than an independently opened legal filing.",
+      "Luiza oral-history source was indexed-only after direct anti-bot blocking; no audio/video claimed."
+    ]
+  },
+  "peerFinalReadback": {
+    "status": "completed-by-integrator",
+    "fullTextFieldsRead": 288,
+    "notes": "All final nine ZH/EN/FR documents read in full after first author changes, plus all last seven changed Sargent summaries. Source/date metadata read; final hashes below supersede peer observed hashes without pretending the earlier peer saw future versions."
+  },
+  "portraitSpotChecks": [
+    {
+      "people": [
+        "alfred-aho",
+        "jeffrey-ullman"
+      ],
+      "source": "https://www.eurekalert.org/multimedia/754323",
+      "scope": "Integrator actually viewed named joint color image and read original usage/license declaration and underlying credits. Left/right CSS framing preserves bytes; no invented Creative Commons grant."
+    },
+    {
+      "people": [
+        "andrew-barto"
+      ],
+      "source": "https://www.eurekalert.org/multimedia/1063532",
+      "scope": "Integrator actually viewed Barto left/Sutton right color image and read PublicDomain/NoRestrictions declaration; ACM credit retained, no US-government claim."
+    },
+    {
+      "people": [
+        "peter-wennink"
+      ],
+      "source": "https://audiovisual.ec.europa.eu/en/media/photo/P-052216/00-16",
+      "scope": "Integrator viewed original named group-photo rendition and source metadata: Wennink second from left. Rejected poorly framed00-06; original high-resolution source reused with CSS focus/zoom, original color/bytes/credits preserved. Browser visual result not verified."
+    }
+  ],
+  "files": [
+    {
+      "path": "data/people/shantanu-narayen.json",
+      "sha256": "a91da4e1b492e18abd53a506688070ee1dc034adb182352eb8fb06385b5d6426",
+      "initialReviewedSha256": "d06a2c250c7588026583b1d093364ef7de258652d3b8249b333ac5c6347c7b3f",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.创意软件",
+        "tags.云订阅",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t9.title",
+        "timeline.t9.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/shantanu-narayen.json",
+      "sha256": "57c3d3aed511be527ff74abf95c14fd59515bbc0bbbb9e175d2af649730e117e",
+      "initialReviewedSha256": "0535d71a21fd04ce622f438de50f64596279659d27dc1a868cbab8adcab17535",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.创意软件",
+        "tags.云订阅",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t9.title",
+        "timeline.t9.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/shantanu-narayen.json",
+      "sha256": "0fa3f8839eb9f2f6c32ca4ab798191132825e7155c308b184f81bf29f3c23e2d",
+      "initialReviewedSha256": "807a5ff5e335353df4b011d5d7e5855e82fe0b1ca9a6a8a96ed6f220a2349ca2",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.创意软件",
+        "tags.云订阅",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t9.title",
+        "timeline.t9.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/shantanu-narayen.json",
+      "sha256": "fbe864f3c54f40e6c035299e906b239c6cea94e481944f357592ab88961f8161",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/de/people/shantanu-narayen.json",
+      "sha256": "f1c9e15a8eb4423b1dc228a81cd3720838c0c11a6eb8b37bec42b90581843969",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ja/people/shantanu-narayen.json",
+      "sha256": "6fb6607685ffef3a7bd7ebdb2cc14f12801b50c8393d67def79922a34d50b9d5",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/es/people/shantanu-narayen.json",
+      "sha256": "ed002df248b7ec501e4ce34f8007700e4108eadd42b3f7f671a0a6ff1e186bc2",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ko/people/shantanu-narayen.json",
+      "sha256": "e0619d08d2c48751454bccf2366ded63b83c0b664749c363f91fc5bb239266fa",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/images/shantanu-narayen.json",
+      "sha256": "d0d38e8e289bbde09561268f90400b517a69826d93313b215ac43a7e28a4c128",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/shantanu-narayen.json",
+      "sha256": "707ad176e651bf088462911eb3e3fd4820e4911bf4a55dfe2fe95f7c19fe7982",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/shantanu-narayen.jpg",
+      "sha256": "970f1b86cee67470e000f6cc9a7f9827734a765b26350a22a5b8b066b7fa6ac4",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/people/sheikh-hasina.json",
+      "sha256": "995fed8ce1fc4f3596d9ffd17556248bffd59d848e97f8358b5c7ce008cd73e2",
+      "initialReviewedSha256": "29e1d2f82dba9d8ae96da44f67e9e74372a6a5eb9515506cfb8da17fd9c030d5",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.孟加拉国政治",
+        "tags.治理与问责",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/sheikh-hasina.json",
+      "sha256": "6f6ce136f3e05ae640030ecff1370a85788615fafedb2248a4ac559f2d5b62da",
+      "initialReviewedSha256": "6daff97028770627dc1e3b8052442d237d4a42fd08803627ef57be733cbc4201",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.孟加拉国政治",
+        "tags.治理与问责",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/sheikh-hasina.json",
+      "sha256": "487fbefdcd4176eedea883d035bc1f46260b647a8021d1f75f351a6480fa6b9b",
+      "initialReviewedSha256": "990ff2328abdc97c33854fe3d50045a130260cd94ac42e4dbf09d9264853bc20",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.孟加拉国政治",
+        "tags.治理与问责",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/sheikh-hasina.json",
+      "sha256": "953860921b4efe8fb091a4a3e3bda08f2152db9918067fa1c5ad6702da2dddcf",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/de/people/sheikh-hasina.json",
+      "sha256": "356114fff1ffad78f723c39bddbf81b8ef4fd28ec290ac23b47d1d9cc243978d",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ja/people/sheikh-hasina.json",
+      "sha256": "8500b9524c442b4d26c30cac411ab9c2f66bc9f6a203d3fae0a926e9b28ec6fa",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/es/people/sheikh-hasina.json",
+      "sha256": "62506b79a05cafb39099fc19a8b7cc48d0853da06ea3f2879651b18b5c4e5ddc",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ko/people/sheikh-hasina.json",
+      "sha256": "4497c2fa4b2d49fc5ec1c74c6fd1305cbea3c1d209aff031e3cb9fb981433b52",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/images/sheikh-hasina.json",
+      "sha256": "4117c9edb0e44d26612aa607e8f8c9a14636be80d46827d7daba0d5d3b975d9c",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/sheikh-hasina.json",
+      "sha256": "6ae8e1d6ec0b18661f60de842d1fb1ed36468e592dc64c8031dba763c7045026",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/sheikh-hasina.jpg",
+      "sha256": "6a887e5c25edffbf285873eff2d3ed187dd40d363153c4bd4abb79cdf6cb8a62",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/people/william-ruto.json",
+      "sha256": "891d46e2d7931768fd1c3c709ccfa3b85717dd0b222aa6967a8e1397e9852304",
+      "initialReviewedSha256": "891d46e2d7931768fd1c3c709ccfa3b85717dd0b222aa6967a8e1397e9852304",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.经济政策",
+        "tags.东非政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/william-ruto.json",
+      "sha256": "d0ac877f2a5a8ca62941475c0c8b55ebf4f5550158fb963f83d3cd13d8872518",
+      "initialReviewedSha256": "d0ac877f2a5a8ca62941475c0c8b55ebf4f5550158fb963f83d3cd13d8872518",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.经济政策",
+        "tags.东非政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/william-ruto.json",
+      "sha256": "8cff4f1d376271926635ab9edc598ff02a27051d0ec8893a6d840699392c06a0",
+      "initialReviewedSha256": "60b8accf1a41fe68b8e737f3e54a8bad7c18b4ea44b8b8cb6319edf60e66ce7d",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.经济政策",
+        "tags.东非政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text",
+        "timeline.t9.title",
+        "timeline.t9.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/william-ruto.json",
+      "sha256": "dfbfe81a6a990e52a993616fe7b3f9d48372ecfe6d457b7cfefaa1ae4b62f657",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/de/people/william-ruto.json",
+      "sha256": "42d051735ad02adeb2f9dd8075b1babb17ad2f1c83bf42c1ebba5a13c7b63daf",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ja/people/william-ruto.json",
+      "sha256": "6b1906887ec3d334086f283a18be1722b142582d39f5a3c78f075be74d94ab79",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/es/people/william-ruto.json",
+      "sha256": "f9597be64095950a1c5be4020623d346da07832f91a7ea344a971907663981cf",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ko/people/william-ruto.json",
+      "sha256": "c9cceb315ee7dfdafc7fc58f1515a8aba9e64619c37b406afeae6e20c99e15a9",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/images/william-ruto.json",
+      "sha256": "d616ba5ba76b504d9dad6f79dcb3862f03151ff5c270b584d76a1c3137500ebc",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/william-ruto.json",
+      "sha256": "b198784361ada43b8373dcb8e15fb112ce5670450eedef058717f3d508b3ff85",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/william-ruto.jpg",
+      "sha256": "e9d690d26a68b810c29d9766857edd0a14399f06f78666db844ba7cb3095169b",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/people/antonio-costa.json",
+      "sha256": "223bd590c65e11b95ae7e62e3ebdfd2c0c6c1e1f9f3728532222db1d28ce1221",
+      "initialReviewedSha256": "223bd590c65e11b95ae7e62e3ebdfd2c0c6c1e1f9f3728532222db1d28ce1221",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.欧洲协调",
+        "tags.葡萄牙政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/antonio-costa.json",
+      "sha256": "d7b3c1ae64ba556105d0ce2aff3b0428c885594b7af7f43732d636bcb1e81c8b",
+      "initialReviewedSha256": "d7b3c1ae64ba556105d0ce2aff3b0428c885594b7af7f43732d636bcb1e81c8b",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.欧洲协调",
+        "tags.葡萄牙政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/antonio-costa.json",
+      "sha256": "7b86ea1ef2abf16217966f6dd35f6f7aac899d369878c8a5fa81d4d57646e1dd",
+      "initialReviewedSha256": "8ea29b9623d1edadbd73840f6bbf5169884c982372f393fccd33edfbc1164af4",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.欧洲协调",
+        "tags.葡萄牙政治",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/antonio-costa.json",
+      "sha256": "3274840550167e8eda8d5fbf11d92ddfa63f245f7aa3bf9e8fec39b42a5b2ee2",
+      "initialReviewedSha256": "3274840550167e8eda8d5fbf11d92ddfa63f245f7aa3bf9e8fec39b42a5b2ee2",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/de/people/antonio-costa.json",
+      "sha256": "2ef9bf7a5b66b68d851778a853973cf53e0a994fc7c08a6b8ba3c7dcc95a3483",
+      "initialReviewedSha256": "2ef9bf7a5b66b68d851778a853973cf53e0a994fc7c08a6b8ba3c7dcc95a3483",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ja/people/antonio-costa.json",
+      "sha256": "4ca16946526ed8b0f5fe3b3801e310e14e8f2c61fe7978b955c3112edb43acba",
+      "initialReviewedSha256": "4ca16946526ed8b0f5fe3b3801e310e14e8f2c61fe7978b955c3112edb43acba",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/es/people/antonio-costa.json",
+      "sha256": "350e74566445c20e4cd91cd13f7e6ca8a827959dd68e79ecdb05be8dd7f22e0b",
+      "initialReviewedSha256": "350e74566445c20e4cd91cd13f7e6ca8a827959dd68e79ecdb05be8dd7f22e0b",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ko/people/antonio-costa.json",
+      "sha256": "7b9644d59e60abcfe67e9ecc69ba2becf8f204f9a050876f12c50c771f26803e",
+      "initialReviewedSha256": "7b9644d59e60abcfe67e9ecc69ba2becf8f204f9a050876f12c50c771f26803e",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/images/antonio-costa.json",
+      "sha256": "92ef88f988ed990505895c39997beaf9a95ba73ce6f054a8ce4ba999e991e47c",
+      "initialReviewedSha256": "92ef88f988ed990505895c39997beaf9a95ba73ce6f054a8ce4ba999e991e47c",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/antonio-costa.json",
+      "sha256": "d48e08e79d9c604395ae7351411a8b6192c3772bc34f72ff38971e77f3c071d7",
+      "initialReviewedSha256": "d48e08e79d9c604395ae7351411a8b6192c3772bc34f72ff38971e77f3c071d7",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/antonio-costa.jpg",
+      "sha256": "0dfd2bb7141b0e812be615e6bd60e4a550c790ff15b5c5fa025da4dace0a1c0e",
+      "initialReviewedSha256": "0dfd2bb7141b0e812be615e6bd60e4a550c790ff15b5c5fa025da4dace0a1c0e",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/people/thomas-j-sargent.json",
+      "sha256": "559735cfc21a443284830f8722385e21fe4143b9374ff0a1bc94ab14d8fbf243",
+      "initialReviewedSha256": "d513389532c609ff58fe9bd362f3ca6387df4f62828730d5db1235b3b11099d9",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.宏观经济学",
+        "tags.理性预期",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/thomas-j-sargent.json",
+      "sha256": "1d52106ce6b79edd85aa809b1e5c7a3168fbad2b491dfb91da08b95f00949bea",
+      "initialReviewedSha256": "27439c2b2f7a9f91b4eb1d915fe00d69d1e48d35193273dd0b64c68a12d710d1",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.宏观经济学",
+        "tags.理性预期",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/thomas-j-sargent.json",
+      "sha256": "220db719227e1b35733eed587a0a1e02d2fad3e04550d6c3e69d65c920e34b6e",
+      "initialReviewedSha256": "aeea186a77f1c929dee94f5fc75672d418206d2093a089be39b8f3a16138352c",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.宏观经济学",
+        "tags.理性预期",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/thomas-j-sargent.json",
+      "sha256": "0e081de1449c2e7ea0e5423a9dc41c7006905872c0b61617bbf575e830f64065",
+      "initialReviewedSha256": "0febeba59e142494c56b48cbfe409417e182497db86e984a682b24169fd6aacd",
+      "reviewScope": "limited-final-summary-read",
+      "displayedKeysActuallyRead": [
+        "summary"
+      ]
+    },
+    {
+      "path": "data/i18n/de/people/thomas-j-sargent.json",
+      "sha256": "4baee39ff83a15893d9595134aa5caef10aeb45c00eed7f98e919467e927f7b4",
+      "initialReviewedSha256": "0e3697190dbc4d4afa36b6407181b8f6dbbe55d4af0d7311e177796a3c751f44",
+      "reviewScope": "limited-final-summary-read",
+      "displayedKeysActuallyRead": [
+        "summary"
+      ]
+    },
+    {
+      "path": "data/i18n/ja/people/thomas-j-sargent.json",
+      "sha256": "1992bdcf9dd4d178cd6132a38e36a7ef7d059d9a387484c1f200fbd1fadf0e61",
+      "initialReviewedSha256": "b8705b2c3a4a8f5e68e05dcddc1d79fbfd277d54aa0d8ff403d6c5078437759b",
+      "reviewScope": "limited-final-summary-read",
+      "displayedKeysActuallyRead": [
+        "summary"
+      ]
+    },
+    {
+      "path": "data/i18n/es/people/thomas-j-sargent.json",
+      "sha256": "965673525188c7cfb5ed018bef7eeeb0341c61d42fe69d8a04cba74a2548c1b5",
+      "initialReviewedSha256": "c7d864eb6e545fd31ec7b44a12b59eb854507a2ec1a5979a74503651cd000b89",
+      "reviewScope": "limited-final-summary-read",
+      "displayedKeysActuallyRead": [
+        "summary"
+      ]
+    },
+    {
+      "path": "data/i18n/ko/people/thomas-j-sargent.json",
+      "sha256": "7e6cb1306f7aa494bbc619bb3322ffa0fc27eef17e3ff470afa1e663520d9911",
+      "initialReviewedSha256": "1b271d54bf399791bd0896bb55b322f3d8693fb791896f0f6b29962d00202023",
+      "reviewScope": "limited-final-summary-read",
+      "displayedKeysActuallyRead": [
+        "summary"
+      ]
+    },
+    {
+      "path": "data/images/thomas-j-sargent.json",
+      "sha256": "250ec6f19ce579fcac1b80a102c6afd5ed3abec7c7e37ee07785cbc69b5dd334",
+      "initialReviewedSha256": "250ec6f19ce579fcac1b80a102c6afd5ed3abec7c7e37ee07785cbc69b5dd334",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/thomas-j-sargent.json",
+      "sha256": "ee04060b81c92400ef75ccd9de77de00cc98569f89ab721d13d0aa67aac2c454",
+      "initialReviewedSha256": "981cb3bdd093d1276ee5699f722e888ca5004a890186d31f39afc772f1f797c4",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/thomas-j-sargent.jpg",
+      "sha256": "547f89a00a7024aa12aafba0fa60776060cb29e2d0d9f3b5b29e001959ff5615",
+      "initialReviewedSha256": "547f89a00a7024aa12aafba0fa60776060cb29e2d0d9f3b5b29e001959ff5615",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/people/luiza-trajano.json",
+      "sha256": "a86901b0388f8c7f73ec6d1adb9d715234fb21b055649cc5ab15e314a4859540",
+      "initialReviewedSha256": "a86901b0388f8c7f73ec6d1adb9d715234fb21b055649cc5ab15e314a4859540",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.零售业",
+        "tags.女性领导力",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/en/people/luiza-trajano.json",
+      "sha256": "218144d6b39ddf8603b868f6a64907c0e7bf0b3a06952ccea3a6ec6f3442b9cf",
+      "initialReviewedSha256": "218144d6b39ddf8603b868f6a64907c0e7bf0b3a06952ccea3a6ec6f3442b9cf",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.零售业",
+        "tags.女性领导力",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/fr/people/luiza-trajano.json",
+      "sha256": "63876d1b15b32d4539d294d87d9f19f2ab129760248044f027fe6cc2759b668d",
+      "initialReviewedSha256": "879cf4e726163b7a9e300685f79abe100d61ed7e055e429e49c797edba135457",
+      "reviewScope": "all-displayed-ZH-EN-FR-text-and-specified-shared-metadata-read",
+      "displayedKeysActuallyRead": [
+        "name",
+        "role",
+        "country",
+        "summary",
+        "coverageNote",
+        "influence.rationale",
+        "tags.零售业",
+        "tags.女性领导力",
+        "facts.f1.label",
+        "facts.f1.value",
+        "facts.f2.label",
+        "facts.f2.value",
+        "highlights.h1.title",
+        "highlights.h1.text",
+        "highlights.h2.title",
+        "highlights.h2.text",
+        "timeline.t1.title",
+        "timeline.t1.text",
+        "timeline.t2.title",
+        "timeline.t2.text",
+        "timeline.t3.title",
+        "timeline.t3.text",
+        "timeline.t4.title",
+        "timeline.t4.text",
+        "timeline.t5.title",
+        "timeline.t5.text",
+        "timeline.t6.title",
+        "timeline.t6.text",
+        "timeline.t7.title",
+        "timeline.t7.text",
+        "timeline.t8.title",
+        "timeline.t8.text"
+      ]
+    },
+    {
+      "path": "data/i18n/ar/people/luiza-trajano.json",
+      "sha256": "9c7018f5d0575b4f6c49d9dfefaca8457a1f341786a64d34f737c2f0666a6ba0",
+      "initialReviewedSha256": "9c7018f5d0575b4f6c49d9dfefaca8457a1f341786a64d34f737c2f0666a6ba0",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/de/people/luiza-trajano.json",
+      "sha256": "1dd2c31e66126e3b0ba0652a82b381d8854046c7e4278483c53be45c269ade3a",
+      "initialReviewedSha256": "23e6e3566c510af613d8e27fcb2444660e3884d67f3f99c3b29548d6b495bd3d",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ja/people/luiza-trajano.json",
+      "sha256": "72f4e630c77c61f0733bb7f9cf0198c4c43953adaeaa6a86ec12bc60519c4fb2",
+      "initialReviewedSha256": "72f4e630c77c61f0733bb7f9cf0198c4c43953adaeaa6a86ec12bc60519c4fb2",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/es/people/luiza-trajano.json",
+      "sha256": "01dd67ccadfe84c10cd6dfd901ae277e93b17e0ef222c33e848a96115bb0649d",
+      "initialReviewedSha256": "01dd67ccadfe84c10cd6dfd901ae277e93b17e0ef222c33e848a96115bb0649d",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/i18n/ko/people/luiza-trajano.json",
+      "sha256": "8d0873d4291b265bbc23ef1df04c6634ab195c9cbeefb01700af37918f86be90",
+      "initialReviewedSha256": "8d0873d4291b265bbc23ef1df04c6634ab195c9cbeefb01700af37918f86be90",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    },
+    {
+      "path": "data/images/luiza-trajano.json",
+      "sha256": "37cc11c3984f4dcea15e17acdc7c2073913e4492ed66c38ee20ecafd43992453",
+      "initialReviewedSha256": "37cc11c3984f4dcea15e17acdc7c2073913e4492ed66c38ee20ecafd43992453",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "data/research/editorial/luiza-trajano.json",
+      "sha256": "e5865da098b37c818302e5cb160ea412faf827387bfd641db4cd908820f06d31",
+      "initialReviewedSha256": "e5865da098b37c818302e5cb160ea412faf827387bfd641db4cd908820f06d31",
+      "reviewScope": "final hash inventory; peer read image/audit metadata for its three people, original author assertions not re-certified"
+    },
+    {
+      "path": "public/assets/portraits/luiza-trajano.jpg",
+      "sha256": "6a94fa40569cdfa7ade8490dfcd546e978e7019d7814b42584f12427de18a66b",
+      "initialReviewedSha256": "6a94fa40569cdfa7ade8490dfcd546e978e7019d7814b42584f12427de18a66b",
+      "reviewScope": "hash inventory only; no independent full semantic/visual review"
+    }
+  ],
+  "limits": [
+    "Not an independent review of all200 biographies, all800 profiles or all eight full language bodies.",
+    "AI authoring/peer review is not human, native-speaker, identity-biometric or legal certification.",
+    "Only named source passages were independently checked; access restrictions and indexed-only/cached-body limitations are preserved.",
+    "Photo metadata, licenses, actual-image viewing and byte hashes are distinct checks; no independent legal-rights certification inferred.",
+    "Browser runtime initialization failed: the gaas-browser node_repl sandbox cannot be disabled. Actual responsive/RTL/print appearance remains unverified.",
+    "Hash inventories link declarations to final bytes; hashes cannot establish semantic or factual correctness."
+  ]
+}

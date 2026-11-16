@@ -1,0 +1,74 @@
+{
+  "id": "javier-milei",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "CurrentArgentinepresidencyactivityindexrecords11November2026MileieventwithPopeLeoXIV; official23October2026statement directlyidentifieshimaspresident. Matchedfreshcurrentbiography.",
+  "lifeStatusEvidenceURL": "https://www.argentina.gob.ar/opra",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Javier_Milei",
+      "https://www.argentina.gob.ar/presidencia",
+      "https://www.argentina.gob.ar/opra",
+      "https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-171",
+      "https://www.reuters.com/legal/government/argentina-drops-probe-into-president-milei-sister-over-meme-coin-scandal-2026-10-23/"
+    ],
+    "access": [
+      {
+        "id": "javier-milei",
+        "n": 1,
+        "url": "https://en.wikipedia.org/wiki/Javier_Milei",
+        "status": 200,
+        "characters": 195235,
+        "access": "body-fetched"
+      },
+      {
+        "id": "javier-milei",
+        "n": 2,
+        "url": "https://www.argentina.gob.ar/presidencia",
+        "status": 200,
+        "characters": 1328,
+        "access": "body-fetched"
+      },
+      {
+        "id": "javier-milei",
+        "n": 3,
+        "url": "https://www.argentina.gob.ar/opra",
+        "status": 200,
+        "characters": 1737,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-171",
+        "access": "body-opened-read-via-web-tool"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "FreshWikipediacareer/education/policysections andArgentinepresidencyindexread; official23October2026statement opened/readviawebtool; Reuterssame-daycourt-recordreport reviewedindexed, directaccessrestricted. Politicalself-exonerationlanguage notadopted: records specificcriminalinvestigationended, not allLibraactors/worldwidecasescleared. Undergraduateeducationonly; latercourseworknotmasters.1989careerorientationbiographicalaccount, not degreeaward."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Javier_Milei_en_el_Sal%C3%B3n_Blanco_2_(cropped).jpg",
+    "sha256": "fe673e6c56dd5638a476e9bd2e103ff8986c2af780104760e9ae0e188077d832",
+    "author": "Cancillería Argentina",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Javier Milei en el Salón Blanco el día de su jura como tal.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/javier-milei.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-10-23"
+}

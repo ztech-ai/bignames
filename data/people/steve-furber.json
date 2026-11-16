@@ -1,0 +1,167 @@
+{
+  "id": "steve-furber",
+  "name": "史蒂夫·弗伯",
+  "enName": "Steve Furber",
+  "aliases": [],
+  "birth": "1953",
+  "death": null,
+  "country": "英国",
+  "domains": [
+    "technology",
+    "business"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "europe"
+  ],
+  "tags": [
+    "ARM处理器",
+    "神经形态计算"
+  ],
+  "role": "计算机工程师 · ARM与神经形态计算研究者",
+  "summary": "弗伯从剑桥数学与空气动力学训练转入计算机工程，在Acorn与索菲·威尔逊共同设计BBC Micro和ARM处理器。1990年赴曼彻斯特大学，研究异步电路、低功耗系统及神经计算，并推动SpiNNaker多核平台用于神经网络模拟。2023年退休后保留荣誉教授身份，2026年的合作论文仍见于大学研究记录。",
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生地",
+      "value": "英国曼彻斯特。"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "剑桥大学数学学士（1974）、空气动力学博士（1980）。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "共同设计ARM",
+      "text": "与威尔逊及Acorn团队把精简指令集处理器转为实际芯片。"
+    },
+    {
+      "id": "h2",
+      "sourceIds": [
+        "s3",
+        "s4"
+      ],
+      "title": "SpiNNaker平台",
+      "text": "推动以大量低功耗处理器模拟脉冲神经网络的研究系统。"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-02-16",
+      "sourceIds": [
+        "s1"
+      ],
+      "title": "发表神经计算合作论文",
+      "text": "参与全密度脉冲神经网络模型研究，继续连接脑模型与计算架构。"
+    },
+    {
+      "id": "t2",
+      "date": "2023-09",
+      "sourceIds": [
+        "s3"
+      ],
+      "title": "退休并任荣誉教授",
+      "text": "结束大学常规任职，继续以计算机工程荣誉教授身份参与学术工作。"
+    },
+    {
+      "id": "t3",
+      "date": "2018-11-02",
+      "sourceIds": [
+        "s4"
+      ],
+      "title": "百万核SpiNNaker启动",
+      "text": "曼彻斯特团队启动百万处理器核心系统，用于大规模神经网络模拟。"
+    },
+    {
+      "id": "t4",
+      "date": "2012",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "获计算机历史博物馆表彰",
+      "text": "与威尔逊因BBC Micro和ARM的设计工作共同入选院士。"
+    },
+    {
+      "id": "t5",
+      "date": "1990",
+      "sourceIds": [
+        "s3"
+      ],
+      "title": "加入曼彻斯特大学",
+      "text": "出任ICL计算机工程讲席教授，转向异步与低功耗系统研究。"
+    },
+    {
+      "id": "t6",
+      "date": "1985",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "ARM处理器实现",
+      "text": "与Acorn团队完成早期ARM设计，形成可扩展的处理器技术基础。"
+    },
+    {
+      "id": "t7",
+      "date": "1980",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ],
+      "title": "进入Acorn",
+      "text": "完成空气动力学博士后进入硬件开发团队，参与BBC Micro等产品。"
+    },
+    {
+      "id": "t8",
+      "date": "1974",
+      "sourceIds": [
+        "s2"
+      ],
+      "title": "取得数学学士",
+      "text": "在剑桥大学完成数学学业，后来继续研究空气动力学。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Steve Furber — research profile",
+      "publisher": "University of Manchester",
+      "url": "https://research.manchester.ac.uk/en/persons/steve.furber/"
+    },
+    {
+      "id": "s2",
+      "title": "Steve Furber — 2012 Fellow",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/profile/steve-furber/"
+    },
+    {
+      "id": "s3",
+      "title": "Steve Furber — Academy biography",
+      "publisher": "CORE Academy",
+      "url": "https://www.coreacad.org/Member.aspx?ProId=222"
+    },
+    {
+      "id": "s4",
+      "title": "Million-processor brain supercomputer switched on",
+      "publisher": "University of Manchester",
+      "url": "https://www.manchester.ac.uk/about/news/human-brain-supercomputer-with-1million-processors-switched-on-for-first-time/"
+    }
+  ],
+  "verifiedAt": "2026-11-16",
+  "coverageNote": "选录截至2026年11月16日可核对的重要履历；非实时新闻档案。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "参与ARM处理器早期设计并研究神经形态计算，对低功耗芯片和计算机体系结构具有影响。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  }
+}

@@ -8,6 +8,7 @@ import { validateInfluence } from './influence.mjs';
 import { createHash } from 'node:crypto';
 import { hasPortrait, validateImageMetadata } from './image-core.mjs';
 import { legacyExpectedBlobs } from './legacy-refresh.mjs';
+import { completedBatchCutoffs, assertProfileCutoff } from './editorial-cutoff.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const readJson = async name => JSON.parse(await readFile(path.join(root,name),'utf8'));
@@ -79,6 +80,8 @@ try {
   assert.equal(new Set(collection.people.map(p=>p.id)).size,1000,'Duplicate contemporary candidate');
   const qids=collection.people.map(p=>p.wikidataId).filter(Boolean);
   assert.equal(new Set(qids).size,qids.length,'Duplicate Wikidata identities in contemporary collection');
+  const editorialBatches=await Promise.all((await readdir(path.join(root,'data/collections'))).filter(f=>f.endsWith('.json')).map(f=>readJson(`data/collections/${f}`)));
+  const profileCutoffs=completedBatchCutoffs(collection,editorialBatches);
   for(const p of collection.people) {
     validateInfluence(p.influence,p.id,{required:true,minimum:3,cutoff:collection.cutoffDate});
     assert(!oldIds.has(p.id),`${p.id}: existing published person mixed into new collection`);
@@ -94,7 +97,7 @@ try {
       assert.equal(person.influence?.stars,p.influence.stars,`${p.id}: profile/collection rating drift`);
       assert.equal(person.influence?.scope,p.influence.scope,`${p.id}: profile/collection influence scope drift`);
       assert.equal(person.influence?.rationale,p.influence.rationale,`${p.id}: profile/collection rating reason drift`);
-      for(const event of person.timeline)assert(event.date.startsWith('-')||event.date<=collection.cutoffDate.slice(0,event.date.length),`${p.id}: event after research cutoff`);
+      assertProfileCutoff(person,profileCutoffs.get(p.id));
     }
   }
   let refresh=null;

@@ -44,6 +44,8 @@ highlights 2—3项；timeline 至少6项（理想8—10），倒序，包括早
 
 如果来源要求署名链接，可添加 `creditUrl`，必须为经核对的 HTTP(S) 作者地址。构建时人物页、图片许可页与生成的署名文档共用该字段，将 `credit` 文字链接到作者页面；不能用作者主页替代照片来源或许可链接。
 
+具名合照需要突出本人时，可使用 `position: "46.5% 23.5%"` 与可选数字 `zoom: 3`。`zoom`范围为1—6；使用时必须提供两个0—100之间的百分比锚点。生成器只在CSS中取景，保留原照片字节、颜色、来源与署名；列表、详情及打印共用锚点，图片容器裁切溢出。审计应说明原图中的人物位置与取景方式，不能把合照说成原始单人照。默认不缩放，未知人物或不清楚的照片不能靠放大替代身份核验。
+
 当代新增档案的 `influence` 包含 `stars`（1—5）、`scope`（`global` / `field` / `regional`）、中文 `rationale`、`assessedAt`、`methodVersion`、`reviewStatus`。评级衡量影响范围，不是道德评价；原有档案允许暂未评级。完整档案与候选名单的星级、范围、中文理由应一致。各语言理由存于译文 `strings["influence.rationale"]`，不在基础数据重复保存外语理由。评级标准见 `data/collections/influence-method.json`。
 
 多语言：`facts`、`highlights`、`timeline` 的每个条目必须有稳定且组内唯一的 `id`。修改内容或调整顺序时保留原 ID；新增条目使用新 ID。人物译文位于 `data/i18n/<语言>/people/<slug>.json`，只翻译展示文字，日期、来源、分类 ID、图片和 `death` 均复用基础数据。详见 `docs/TRANSLATION-CONTRACT.md`。

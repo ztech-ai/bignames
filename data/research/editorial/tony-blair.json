@@ -1,0 +1,82 @@
+{
+  "id": "tony-blair",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "His Institute17January2026published his personal statement accepting Board of Peace Executive Board appointment; current leadership biography and2026datedactivitylist also checked.",
+  "lifeStatusEvidenceURL": "https://institute.global/insights/news/tony-blairs-statement-following-white-house-announcement",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.gov.uk/government/history/past-prime-ministers/tony-blair",
+      "https://institute.global/experts/tony-blair/bio",
+      "https://institute.global/experts/tony-blair",
+      "https://en.wikipedia.org/wiki/Tony_Blair",
+      "https://institute.global/insights/news/tony-blairs-statement-following-white-house-announcement"
+    ],
+    "access": [
+      {
+        "id": "tony-blair",
+        "n": 1,
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/tony-blair",
+        "status": 200,
+        "characters": 7462,
+        "access": "body-fetched"
+      },
+      {
+        "id": "tony-blair",
+        "n": 2,
+        "url": "https://institute.global/experts/tony-blair/bio",
+        "status": 200,
+        "characters": 5809,
+        "access": "body-fetched"
+      },
+      {
+        "id": "tony-blair",
+        "n": 3,
+        "url": "https://institute.global/experts/tony-blair",
+        "status": 200,
+        "characters": 6522,
+        "access": "body-fetched"
+      },
+      {
+        "id": "tony-blair",
+        "n": 4,
+        "url": "https://en.wikipedia.org/wiki/Tony_Blair",
+        "status": 200,
+        "characters": 175130,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://institute.global/insights/news/tony-blairs-statement-following-white-house-announcement",
+        "access": "body-opened-read-via-web-tool"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Governmenthistory and TBIbiography/activity bodies read, including primary17January2026statement viawebtool. Institutional self-praise not adopted as independent metrics. Iraqcontroversyretained. Statement supports Executive Board appointment, not sole authorship or completed success of Gaza peace plan. Selected career coverage does not catalogue every corporateadvisory role."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tony_Blair_2010_(cropped).jpg",
+    "sha256": "c6d4fd1c9b0119386d36c916d101ca8c851348a23ccd912d02673c2f5bb2eee5",
+    "author": "© European Union, 2010 / EU, Photo: Pavel Golovkin",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Portrait of Tony Blair (1953–)",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/tony-blair.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-01-17"
+}

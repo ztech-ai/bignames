@@ -1,0 +1,82 @@
+{
+  "id": "ales-bialiatski",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Lithuaniangovernment27April2026reports actualmeeting betweenPrimeMinisterandBialiatski, explicitly afterDecember2025release; namedcaptionandbody read.",
+  "lifeStatusEvidenceURL": "https://lrv.lt/en/news/the-prime-minister-meets-with-nobel-peace-prize-laureate-ales-bialiatski-cBwM/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.nobelprize.org/prizes/peace/2022/bialiatski/facts/",
+      "https://www.nobelpeaceprize.org/press/press-releases/norwegian-nobel-committee-expresses-relief-at-the-release-of-ales-bialiatski-1",
+      "https://lrv.lt/en/news/the-prime-minister-meets-with-nobel-peace-prize-laureate-ales-bialiatski-cBwM/",
+      "https://en.wikipedia.org/wiki/Ales_Bialiatski",
+      "https://www.europarl.europa.eu/delegations/en/joint-statement-on-the-sentencing-of-ale/product-details/20230303DPU35662"
+    ],
+    "access": [
+      {
+        "id": "ales-bialiatski",
+        "n": 1,
+        "url": "https://www.nobelprize.org/prizes/peace/2022/bialiatski/facts/",
+        "status": 200,
+        "characters": 4955,
+        "access": "body-fetched"
+      },
+      {
+        "id": "ales-bialiatski",
+        "n": 2,
+        "url": "https://www.nobelpeaceprize.org/press/press-releases/norwegian-nobel-committee-expresses-relief-at-the-release-of-ales-bialiatski-1",
+        "status": 200,
+        "characters": 2168,
+        "access": "body-fetched"
+      },
+      {
+        "id": "ales-bialiatski",
+        "n": 3,
+        "url": "https://lrv.lt/en/news/the-prime-minister-meets-with-nobel-peace-prize-laureate-ales-bialiatski-cBwM/",
+        "status": 200,
+        "characters": 2838,
+        "access": "body-fetched"
+      },
+      {
+        "id": "ales-bialiatski",
+        "n": 4,
+        "url": "https://en.wikipedia.org/wiki/Ales_Bialiatski",
+        "status": 200,
+        "characters": 37228,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://www.nobelpeaceprize.org/press/press-releases/norwegian-nobel-committee-expresses-relief-at-the-release-of-ales-bialiatski-1",
+        "access": "body-opened-read-via-web-tool"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Nobel historicalfacts and Lithuaniangovernment2026body read; releaseannouncement and EPsentencingrecord checked. Nobel2022factsparagraph refers to incarcerationthen, not now. Birth/educationfromfreshWikipedia.2023convictionfor smuggling/public-order financing distinctfrom2011taxcase. Rightsorganizations characterizeprosecutionsaspolitical; convictions not erasedbyeditorialview."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Alaksandr_Bialacki.jpg",
+    "sha256": "cba33c7d1c98df8db38a5802e4d19a0b200225411d5507cd1c8d7c3627af84b4",
+    "author": "Bladyniec",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Alaksandr Bialacki, białoruski obrońca praw człowieka, w czasie spotkania w klubie \"Grawitacja\" w Warszawie, 14 stycznia 2011 roku.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/ales-bialiatski.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-04-27"
+}

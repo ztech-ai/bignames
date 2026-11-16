@@ -1,0 +1,77 @@
+{
+  "id": "adena-friedman",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Nasdaq10June2026shareholdermeetingrelease names her re-elected chair andCEO; currentcompanybiography recordsAugust2026Intuitboardappointment. Positive2026activity evidence.",
+  "lifeStatusEvidenceURL": "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-announces-results-2026-annual-meeting-shareholders",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.nasdaq.com/about/our-people/adena-t-friedman",
+      "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-announces-results-2026-annual-meeting-shareholders",
+      "https://business.vanderbilt.edu/bio/adena-friedman/",
+      "https://en.wikipedia.org/wiki/Adena_Friedman"
+    ],
+    "access": [
+      {
+        "id": "adena-friedman",
+        "n": 1,
+        "url": "https://www.nasdaq.com/about/our-people/adena-t-friedman",
+        "status": 200,
+        "characters": 6333,
+        "access": "body-fetched"
+      },
+      {
+        "id": "adena-friedman",
+        "n": 2,
+        "url": "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-announces-results-2026-annual-meeting-shareholders",
+        "status": 200,
+        "characters": 9441,
+        "access": "body-fetched"
+      },
+      {
+        "id": "adena-friedman",
+        "n": 3,
+        "url": "https://business.vanderbilt.edu/bio/adena-friedman/",
+        "status": 200,
+        "characters": 3517,
+        "access": "body-fetched"
+      },
+      {
+        "id": "adena-friedman",
+        "n": 4,
+        "url": "https://en.wikipedia.org/wiki/Adena_Friedman",
+        "status": 200,
+        "characters": 11329,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "CurrentNasdaqbiography and2026annualmeetingbody read, plus Vanderbilt/Wikipediabiography. Birthyear1969only; no exactday invented. Baltimore isupbringing, not assertedbirthplace. NewYorkFeddirectorshipended2025notlistedascurrent. IntuitappointmentAugust2026supportedbycurrentprimarycompanybiography."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Adena_Friedman,_President,_NASDAQ_(40040735371).jpg",
+    "sha256": "ddad500e4be6daa48cf910e8897c0927cd1f80a7d1eed3b96f1809ae465e52eb",
+    "author": "Financial Times",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "caption": "Adena Friedman, President, NASDAQ",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/adena-friedman.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-08"
+}

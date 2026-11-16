@@ -1,0 +1,75 @@
+{
+  "id": "tamim-bin-hamad-al-thani",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "Amiri Diwan4November2026named directive calls national prayer;11November2026QNAreports cabinet discussing his ongoing US-Iran mediation. Current named official biography opened.",
+  "lifeStatusEvidenceURL": "https://www.diwan.gov.qa/en/briefing-room/news/general/ao/2026/november/4/hh-the-amir-calls-for-istisqa-prayer-tomorrow",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.diwan.gov.qa/hh-the-amir/biography?sc_lang=en",
+      "https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani",
+      "https://www.diwan.gov.qa/en/briefing-room/news/general/ao/2026/november/4/hh-the-amir-calls-for-istisqa-prayer-tomorrow",
+      "https://qna.org.qa/en/news/news-details?date=11%2F11%2F2026&id=qatar-cabinet-discusses-regional-developments-approves-key-intl-cooperation-agreements"
+    ],
+    "access": [
+      {
+        "id": "tamim-bin-hamad-al-thani",
+        "n": 1,
+        "url": "https://www.diwan.gov.qa/hh-the-amir/biography?sc_lang=en",
+        "error": "HTTP Error 503: Service Unavailable",
+        "access": "not-opened"
+      },
+      {
+        "id": "tamim-bin-hamad-al-thani",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani",
+        "status": 200,
+        "characters": 92696,
+        "access": "body-fetched"
+      },
+      {
+        "id": "tamim-bin-hamad-al-thani",
+        "n": 3,
+        "url": "https://www.diwan.gov.qa/en/briefing-room/news/general/ao/2026/november/4/hh-the-amir-calls-for-istisqa-prayer-tomorrow",
+        "error": "HTTP Error 503: Service Unavailable",
+        "access": "not-opened"
+      },
+      {
+        "url": "https://www.diwan.gov.qa/hh-the-amir/biography?sc_lang=en",
+        "access": "body-opened-read-via-web-tool-after-CLI503"
+      },
+      {
+        "url": "https://www.diwan.gov.qa/en/briefing-room/news/general/ao/2026/november/4/hh-the-amir-calls-for-istisqa-prayer-tomorrow",
+        "access": "body-opened-read-via-web-tool-after-CLI503"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Official biography and4Novemberdirective opened through web tool after CLI503. QNA11Novemberreport reviewed as indexedexcerpt; web open500. Wikipediarelevantgovernance/sport/educationsections read. Constitutional2024change distinguished from earlier elected Shura. Historical RIAphoto rejected."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:President_Trump_Meets_with_the_Amir_of_Qatar_(48244263811).jpg",
+    "sha256": "fd1a4a6e5f536ac47490676724bc9c0e871320754efabaea24685239513f383b",
+    "author": "The White House / Shealah Craighead",
+    "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+    "caption": "President Trump meets with Amir Tamim bin Hamad Al Thani in the Oval Office,9July2019. Official White House photo by Shealah Craighead.",
+    "visualReview": "Individually opened .qa/add200/c/tamim-alternative.jpg: named Amir is the dark-haired man on the left next to Trump; color photograph. CSS20% horizontal focus selected; original bytes unchanged.",
+    "sourceLicenseReview": "Rejected2026RIAlead: generalized historic partnership template did not establish rights for new photograph. Freshly opened2019Commonsfile explicitly identifies White House photographer and US federal work; original color bytes downloaded.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/tamim-bin-hamad-al-thani.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-11"
+}

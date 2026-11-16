@@ -1,8 +1,8 @@
 # 图片署名与许可
 
-核对日：2026-11-15；事实截止：2026-11-13。全站599张本地肖像，另有1个经用户确认的姓名占位。图片在八语之间共享，不依赖运行时外链。
+核对日：2026-11-16；事实截止：2026-11-16。全站799张本地肖像，另有1个经用户确认的姓名占位。图片在八语之间共享，不依赖运行时外链。
 
-本批175张真实彩照由AI编辑查看本地文件并对照具名来源、作者和许可；逐人采编记录保存检查范围及图片SHA-256。程序整理本表，不据此认证身份、法律权利或语言质量。
+本批200张真实彩照由AI编辑查看本地文件并对照具名来源、作者和许可；逐人采编记录保存检查范围及图片SHA-256。程序整理本表，不据此认证身份、法律权利或语言质量。
 
 在世人物保留原图色彩，已故人物统一显示黑白，不修改原图。历史画像不是生前照片；照片拍摄时间不等于资料核对日，旧队服或场景不表示现有任职。原许可声明按元数据保留。需要附全文的许可随站提供并在各语人物、许可页链接；GFDL 1.2文本来自系统提供的未修改标准GNU许可副本。
 
@@ -13,6 +13,7 @@
 | A·R·拉赫曼 | Dani Charles Silverscreen Media Inc. (https://silverscreen.in) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:AR_Rahman_At_The_%E2%80%98Marvel_Anthem%E2%80%99_Launch.jpg) |
 | 阿米尔·汗 | Bollywood Hungama | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Aamir_Khan_after_a_spa_session_in_Bandra.jpg) |
 | 阿卜杜勒-法塔赫·塞西 | Ministry of Communications and Information Technology in Egypt | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:AbdelFattah_Elsisi_(cropped).jpg) |
+| 阿伯德拉马纳·希萨柯 | Georges Biard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Abderrahmane_Sissako_C%C3%A9sar_2016.jpg) |
 | 阿卜杜拉二世 | Number 10 | [OGL 3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3) | [来源说明](https://commons.wikimedia.org/wiki/File:Abdullah_II_portrait_at_10_Downing_Street_February_2026_(cropped).jpg) |
 | 阿卜杜勒拉扎克·古尔纳 | Adrian Tync | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Abdulrazak_Gurnah_2025.jpg) |
 | 阿比吉特·班纳吉 | Sriya Sarkar | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Abhijit_Banerjee_at_the_2025_Jaipur_Literature_Festival.jpg) |
@@ -22,6 +23,7 @@
 | 阿希姆·施泰纳 | Rama | [CC BY-SA 2.0 fr](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Achim_Steiner-IMG_0837.jpg) |
 | 阿达·洛夫莱斯 | Antoine Claudet | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png) |
 | 阿黛尔 | Marc E. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Adele_2016.jpg) |
+| 阿德娜·弗里德曼 | Financial Times | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Adena_Friedman,_President,_NASDAQ_(40040735371).jpg) |
 | 阿迪·沙米尔 | Erik Tews | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Adi_Shamir_at_TU_Darmstadt_(2013).jpg) |
 | 阿涅丝·卡拉马尔 | Foreign and Commonwealth Office | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Agn%C3%A8s_Callamard_-_Global_Conference_for_Media_Freedom_(48249126867)_(cropped).jpg) |
 | 艾未未 | Jindřich Nosek (NoJin) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Aj_Wej-wej_I_(2017).jpg) |
@@ -31,15 +33,20 @@
 | 丰田章男 | Moto@Club4AG (Motohide Miwa) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Akio_Toyoda_cropped_1_Akio_Toyoda_20110818_1.jpg) |
 | 阿尔·戈尔 | US Executive Office of the President; photographer unidentified | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov) | [来源说明](https://commons.wikimedia.org/wiki/File:Al_Gore,_Vice_President_of_the_United_States,_official_portrait_1994.jpg) |
 | 阿兰·阿斯佩 | Ecole polytechnique Université Paris-Saclay | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alain_Aspect_(26341660894)_(cropped).jpg) |
+| 艾伦·乔普 | World Economic Forum | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alan_Jope_(born_c._1963)_at_World_Economic_Forum_Davos_2021.png) |
 | 阿尔伯特·布尔拉 | World Economic Forum | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Albert_Bourla.jpg) |
 | 阿尔伯特·爱因斯坦 | Oren Jack Turner | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg) |
 | 亚历杭德罗·阿拉维纳 | Centro de Políticas Públicas UC | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg) |
 | 亚历杭德罗·冈萨雷斯·伊纳里图 | Bart Michiels | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg) |
+| 亚历山大·武契奇 | © European Union, 2026 / European Commission / Oliver Bunic | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg) |
+| 阿列斯·比亚利亚茨基 | Bladyniec | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Alaksandr_Bialacki.jpg) |
 | 亚历克斯·弗格森 | Austin Osuide | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alex_Ferguson.jpg) |
 | 亚历克斯·霍诺德 | Niccolò Caranti | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alex_Honnold_-_Trento_Film_Festival_2014.JPG) |
 | 亚历克斯·摩根 | Hameltion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:NC_Courage_v_San_Diego_Wave_(Oct_2023)_014_(Morgan).jpg) |
+| 亚历山大·斯图布 | Fanni Uusitalo / Finnish Government, Prime Minister’s Office | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tasavallan_presidentin_virkaanastujaiset_1.3.2024_-_43_(cropped_2).jpg) |
 | 阿莱克西娅·普特利亚斯 | Pedro J Pacheco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Alexia_Putellas_(cropped).jpg) |
 | 阿方索·卡隆 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:DisclaimerBFILFF101024_(88_of_113)_(54062275143)_(cropped).jpg) |
+| 阿尔弗雷德·阿霍 | Association for Computing Machinery; Alfred Aho portrait © Eileen Barosso (as credited in image); Jeffrey Ullman portrait courtesy Stanford School of Engineering | [Licensed content; Usage Restrictions: None](https://www.eurekalert.org/multimedia/754323)<br>Usage Restrictions: None. License: Licensed content. | [来源说明](https://www.eurekalert.org/multimedia/754323) |
 | 阿利科·丹格特 | Saba Dubai / Investment Corporation of Dubai | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Al_Shabani_at_the_acquisition_of_Dangote_Cement_by_ICD_in_2014_(cropped).jpg) |
 | 艾莉森·菲利克斯 | Doha Stadium Plus Qatar from Doha, Qatar | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Allyson_Felix_Doha_2015.jpg) |
 | 阿尔文·罗斯 | Bengt Nyman | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alvin_E._Roth_3_2012.jpg) |
@@ -47,11 +54,17 @@
 | 阿明·纳赛尔 | World Economic Forum | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Amin_Hassan_Nasser_at_WEF_Special_Meeting_on_Global_Collaboration,_Growth_and_Energy_for_Development,_2024.png) |
 | 阿米娜·穆罕默德 | International Maritime Organization | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Amina_J._Mohammed_in_London_-_2018_(41824822362)_(cropped).jpg) |
 | 阿米塔布·巴强 | Soumik from Mumbai, India | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Amitabh_Bachchan.jpg) |
+| 阿米塔夫·高希 | Gage Skidmore from Peoria, AZ, United States of America | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Amitav_Ghosh_(33426517822).jpg) |
 | 安娜·博廷 | Jennifer Jacquemart / European Commission (© European Union) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ana_Botin_with_Teresa_Ribera_2025_(cropped).jpg) |
+| 安南德·马恒达 | World Economic Forum | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anand_Mahindra_(1).jpg) |
 | 安德斯·海尔斯伯格 | DBegley | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anders_Hejlsberg.jpg) |
+| 安德烈·埃斯特维斯 | Luiz Prado / LUZ | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Esteves_Entrevista_2.jpg) |
 | 安德烈娅·盖兹 | BorderlineRebel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrea_Ghez_(cropped1).jpg) |
+| 安德烈亚·奥塞尔 | [UniCredit](https://www.unicreditgroup.eu/en/press-media/press-kit.html?topmenu=INT-TM_PRE06_en075) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrea_Orcel.jpg) |
 | 安德烈·卡帕西 | Gladwin Analytics | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrej_Karpathy,_OpenAI.png) |
 | 安德烈斯·伊涅斯塔 | Bryan Berlin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_(cropped).jpg) |
+| 安德鲁·贝利 | Office of U.S. Ambassador to U.K. | [Public domain — U.S. federal government work](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrew_Bailey_and_Jane_Hartley_(Andrew_Bailey_3x4_cropped).jpg) |
+| 安德鲁·巴托 | Association for Computing Machinery | [Public Domain](https://www.eurekalert.org/multimedia/1063532)<br>Usage Restrictions: No restrictions. License: Public Domain. | [来源说明](https://www.eurekalert.org/multimedia/1063532) |
 | 安德鲁·福雷斯特 | Chatham House | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrew_Forrest_(cropped).jpg) |
 | 吴恩达 | TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg) |
 | 安德鲁·怀尔斯 | kwiles7 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Andrew_Wiles_Degree_2010.jpg) |
@@ -63,21 +76,27 @@
 | 安吉莉克·基乔 | Library of Congress Life | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Ang%C3%A9lique_Kidjo_2023.jpg) |
 | 安格斯·迪顿 | Holger Motzkau | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Angus_Deaton_0244.jpg) |
 | 安尼施·卡普尔 | Bengt Oberger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anish_Kapoor_01.jpg) |
+| 安妮塔 | [Mauricio Tonetto / Secom, Governo RS](https://www.flickr.com/photos/governodors/) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:30.01.2026_%E2%80%93_Anitta_no_Planeta_Atl%C3%A2ntida,_em_Xangri-L%C3%A1_-_55070531884.jpg) |
 | 安妮·卡森 | Jay Dixit | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anne_Carson,_poet,_at_the_2024_National_Book_Awards_finalist_reading_0_(cropped).jpg) |
 | 安妮·吕利耶 | Bengt Oberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anne_LHuiller_01.JPG) |
 | 安妮·拉卡顿 | GSAPPstudent | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anne_Lacaton.jpg) |
 | 安妮·埃尔诺 | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Annie_Ernaux_in_2022_(5_av_11).jpg) |
 | 安妮卡·索伦斯坦 | Keith Allison | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2008_LPGA_Championship_-_Annika_Sorenstam_tee_shot.jpg) |
+| 安东尼·阿尔巴尼斯 | Australian Government | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg) |
 | 陈炳耀 | Masato Kanda | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_meets_with_Anthony_Tan,_Group_CEO_and_Co-founder_of_Grab_at_the_World_Economic_Forum_in_Davos,_Switzerland_-_cropped.jpg) |
 | 安东·蔡林格 | Jaqueline Godany | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:A._Zeilinger_(cropped).jpg) |
+| 安东尼奥·科斯塔 | © European Union, 2026 / European Council / Frédéric Sierakowski | [European Council reproduction permission with attribution](https://www.consilium.europa.eu/en/about-site/copyright/)<br>Reproducing content from this website is authorised, provided that: the source is acknowledged; the original meaning or message is not distorted; any change to the content is clearly indicated. | [来源说明](https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg) |
 | 安东尼奥·古特雷斯 | Chuck Kennedy / US Department of State | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov) | [来源说明](https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg) |
 | 安瓦尔·易卜拉欣 | Cabinet Public Relations Office of the Cabinet Secretariat / 首相官邸ホームページ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_in_June_2026.jpg) |
+| 爱莉安娜·格兰德 | Barbie Simons | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ariana_Grande_promoting_Wicked_(2024).jpg) |
+| 阿里安娜·赫芬顿 | David Shankbone | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Arianna_Huffington_2011_Shankbone_2.JPG) |
 | 阿曼德·杜普兰蒂斯 | Peter Arnold | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Armand_Duplantis_DSC02363.jpg) |
 | 阿兰达蒂·洛伊 | Augustus Binu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Arundhati_Roy_W.jpg) |
 | 阿尔温德·克里希纳 | World Economic Forum | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Arvind_Krishna_(born_1962)_at_World_Economic_Forum_Davos_2021.png) |
 | 阿斯哈·法哈蒂 | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Asghar_Farhadi_in_2018-2_(cropped).jpg) |
 | 唐凤 | AudreyTang | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:AudreyTang060527.jpg) |
 | 昂山素季 | Cabinet Public Relations Office of the Cabinet Secretariat / 首相官邸ホームページ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_(1).jpg) |
+| 艾娃·杜威内 | Montclair Film | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ava_DuVernay_Portrait_2026.jpg) |
 | 阿维·威格德森 | "copyright C. J. Mozzochi, Princeton N.J" | [Attribution](https://commons.wikimedia.org/wiki/Template:Attribution)<br>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted. Required attribution: "copyright C. J. Mozzochi, Princeton N.J" | [来源说明](https://commons.wikimedia.org/wiki/File:Avi_Wigderson_(2005-11-17).jpg) |
 | 阿齐姆·普雷姆吉 | © Monika Flueckiger / World Economic Forum, swiss-image.ch | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)<br>© Monika Flueckiger / World Economic Forum, swiss-image.ch / CC BY-SA 2.0 | [来源说明](https://commons.wikimedia.org/wiki/File:Azim_Premji_-_World_Economic_Forum_Annual_Meeting_Davos_2009_(crop).jpg) |
 | 坏痞兔 | Toglenn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bad_Bunny_2019_by_Glenn_Francis_(cropped).jpg) |
@@ -87,6 +106,7 @@
 | 芭芭拉·史翠珊 | NIH Image Gallery from Bethesda, Maryland, USA | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-HHS-NIH) | [来源说明](https://commons.wikimedia.org/wiki/File:Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_(27806589237)_(cropped).jpg) |
 | 巴里·巴里什 | R. Hahn | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:05-0367-92D.hr.jpg) |
 | 本·伯南克 | United States Federal Reserve | [Public domain](https://commons.wikimedia.org/wiki/File:Ben_Bernanke_official_portrait.jpg#Licensing) | [来源说明](https://commons.wikimedia.org/wiki/File:Ben_Bernanke_official_portrait.jpg) |
+| 本·奥克瑞 | Metsavend | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ben_Okri_in_Tallinn.jpg) |
 | 本特·霍尔姆斯特伦 | Soppakanuuna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bengt_Holmstr%C3%B6m.jpg) |
 | 本雅明·内塔尼亚胡 | Avi Ohayon / Government Press Office of Israel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg) |
 | 伯纳德·阿尔诺 | Jérémy Barande | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bernard_Arnault_(3)_-_2017_(cropped).jpg) |
@@ -101,6 +121,7 @@
 | 鲍勃·迪伦 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:DylanYoungKilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg) |
 | 鲍勃·艾格 | Village Global | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2018_Bob_Iger_(cropped).jpg) |
 | 鲍勃·梅特卡夫 | Andreu Veà, WiWiW.org | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:With_Bob_Metcalfe_(cropped).jpg) |
+| 博拉·蒂努布 | Nosa Asemota | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bola_Tinubu_portrait.jpg) |
 | 奉俊昊 | Kevin Paul | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bong_Joon_Ho_-_Okja.jpg) |
 | 博诺 | Daniel Hazard | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bono_singing_in_Indianapolis_on_Joshua_Tree_Tour_2017_9-10-17.jpg) |
 | 鲍里斯·约翰逊 | Ben Shread | [OGL 3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3) | [来源说明](https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg) |
@@ -131,9 +152,11 @@
 | 席琳·迪翁 | Georges Biard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:C%C3%A9line_Dion_2012.jpg) |
 | 查尔斯·贝内特 | IBM Research | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Dr._Charles_Bennett_IBM_Fellow.jpg) |
 | 查理·卓别林 | Strauss-Peyton Studio | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [来源说明](https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg) |
+| 查理兹·塞隆 | PhilipRomano | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:CharlizeTheron-byPhilipRomano2.jpg) |
 | 程维 | Kiwibluuce | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Portrait_of_Cheng_Wei.jpg) |
 | 雪儿 | Raph_PH | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Cher_in_2019_cropped.jpg) |
 | 奇玛曼达·恩戈兹·阿迪契 | Greg Salibian / Fronteiras do Pensamento (fronteirasweb) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2025-06-16_Chimamanda_Ngozi_Adichie_no_Fronteiras_do_Pensamento_2025_em_S%C3%A3o_Paulo,_013_(cropped).jpg) |
+| 赵婷 | [Harald Krichel / WikiPortraits](https://commons.wikimedia.org/wiki/User:Harald_Krichel) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Chlo%C3%A9_Zhao_at_the_2026_Berlin_International_Film_Festival-68507.jpg) |
 | 克里斯·埃弗特 | Like tears in rain | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Eurosport_at_the_2026_Roland_Garros_(cropped).jpg) |
 | 克里斯蒂安娜·菲格雷斯 | International Maritime Organization | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Christiana_Figueres_in_London_-_2018_(39536174340)_(cropped).jpg) |
 | 克里斯蒂娜·拉加德 | International Monetary Fund | [Public domain](https://commons.wikimedia.org/wiki/File:Lagarde,_Christine_(official_portrait_2011).jpg#Summary) | [来源说明](https://commons.wikimedia.org/wiki/File:Lagarde,_Christine_(official_portrait_2011).jpg) |
@@ -172,6 +195,7 @@
 | 戴维·西尔弗 | Association for Computing Machinery | [Licensed content — usage restrictions: None](https://www.eurekalert.org/multimedia/676287)<br>Credit: Association for Computing Machinery. Usage Restrictions: None. License: Licensed content. | [来源说明](https://www.eurekalert.org/multimedia/676287) |
 | 戴维·贝莱斯 | Sam Barnes / Web Summit Rio / Sportsfile | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:SAM_5134_(cropped).jpg) |
 | 迪恩·卡门 | Airman 1st Class Keenan Berry / U.S. Air Force | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force)<br>This image or file is a work of a U.S. Air Force Airman or employee, taken or made as part of that person's official duties. As a work of the U.S. federal government, the image or file is in the public domain in the United States. | [来源说明](https://commons.wikimedia.org/wiki/File:Dean_Kamen_visits_Team_Whiteman_160426-F-TQ704-039_(cropped).jpg) |
+| 迪皮卡·帕度柯妮 | [Bollywood Hungama](http://www.bollywoodhungama.com/more/photos/view/stills/parties-and-events/id/1507189) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Deepika_Padukone.jpg) |
 | 德米斯·哈萨比斯 | John Sears | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Demis_Hassabis,_2024_Nobel_Prize_Laureate_in_Chemistry_7_(cropped).jpg) |
 | 德尼·穆奎格 | Foreign and Commonwealth Office | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Denis_Mukwege_2018.jpg) |
 | 丹尼斯·维伦纽瓦 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:DVilleneuveRFH121024_(12_of_23)_(54061976489)_(cropped).jpg) |
@@ -181,6 +205,7 @@
 | 黛安·格林 | Steve Jennings / Getty Images for TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Diane_Greene_-_TechCrunch_Disrupt_SF_2016_-_Day_2_(29036999614).jpg) |
 | 迪埃贝多·弗朗西斯·凯雷 | Astrid Eckert | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Francis_Kere,_2019.jpg) |
 | 德克·诺维茨基 | Sven Mandel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Dirk_Nowitzki_-_2019202181209_2019-07-21_Champions_for_Charity_-_1829_-_B70I1864.jpg) |
+| 德米特里·穆拉托夫 | Lymantria | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Dmitry_Muratov_Four_Freedoms_Award_2010.jpg) |
 | 唐纳德·克努特 | Flickr user Jacob Appelbaum, uploaded to en.wikipedia by users BeSherman, Duozmo | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [来源说明](https://commons.wikimedia.org/wiki/File:KnuthAtOpenContentAlliance.jpg) |
 | 唐纳德·特朗普 | Daniel Torok | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg) |
 | 唐纳德·图斯克 | European People’s Party / https://www.flickr.com/people/45198836@N04 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Donald_Tusk_EPP_Summit_2023.png) |
@@ -191,18 +216,21 @@
 | 道格拉斯·戴蒙德 | Office of President Joe Biden | [Public domain — U.S. federal government work](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:Douglas_Diamond.jpg) |
 | 德雷克 | The Come Up Show | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Drake_July_2016.jpg) |
 | 德鲁·韦斯曼 | Thorne Media at 0:08 and 0:28, cropped, brightened | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Drew_Weissman_Life_Science_medalist.jpg) |
+| 杜阿·利帕 | [Harald Krichel / WikiPortraits](https://commons.wikimedia.org/wiki/User:Harald_Krichel) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Dua_Lipa-69798_(cropped).jpg) |
 | 迪伦·菲尔德 | Joi Ito | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Dylan_Field_2008_(cropped).jpg) |
 | 艾德·希兰 | Harald Krichel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ed_Sheeran-6886_(cropped).jpg) |
 | 爱德华·莫泽 | Foto: Henrik Fjørtoft/NTNU Komm.avd. | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Edvard_Moser.jpg) |
 | 谷爱凌 | Original:  Martin Rulsch, Wikimedia Commons / Derivative work:  Danyele | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2020-01-20_Freestyle_skiing_at_the_2020_Winter_Youth_Olympics_%E2%80%93_Women%27s_Halfpipe_%E2%80%93_Mascot_Ceremony_(Martin_Rulsch)_06_(cropped).jpg) |
 | 伊莱恩·汤普森-赫拉 | Erik van Leeuwen, attribution: Erik van Leeuwen (bron: Wikipedia). | [GFDL](../public/assets/licenses/GFDL-1.2.txt)<br>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. | [来源说明](https://commons.wikimedia.org/wiki/File:Elaine_Thompson_Beijing_2015.jpg) |
 | 埃尔弗里德·耶利内克 | G. Huengsberg | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Elfriede_jelinek_2004_small.jpg) |
+| 埃利芙·沙法克 | Zeynel Abidin / Dogan Kitap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:ElifShafak_creditZeynelAbidin.jpg) |
 | 埃鲁德·基普乔格 | Denis Barthel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Berlin-Marathon_2015_Runners_1.jpg) |
 | 伊丽莎白·布莱克本 | Gerbil | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Elizabeth_Blackburn_2009-01.JPG) |
 | 埃伦·约翰逊·瑟利夫 | U.S. Institute of Peace | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:12_6_2022_Breaking_the_Barriers_of_Entry_for_Women_Leaders_in_Africa_(52577486307)_(Ellen_Johnson-Sirleaf).jpg) |
 | 埃隆·马斯克 | Debbie Rowe / The Royal Society | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg) |
 | 埃尔顿·约翰 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Elton_John_2023.jpg) |
 | 埃米纳姆 | Brendan_linden | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Eminem_2021_Color_Corrected.jpg) |
+| 艾玛·斯通 | Gabriel Hutchinson | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Emma_Stone_at_the_2025_Cannes_Film_Festival_04.jpg) |
 | 艾玛·沃姆斯利 | FlyingFoxBoi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Emma_Walmsley_at_The_Francis_Crick_Institute_(cropped).jpg) |
 | 埃马纽埃尔·马克龙 | Nebojša Tejić | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg) |
 | 埃马纽埃尔·沙尔庞捷 | Bianca Fioretti, Hallbauer & Fioretti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Emmanuelle_Charpentier.jpg) |
@@ -219,7 +247,9 @@
 | 费德里科·法金 | Intel Free Press; source crop and color balance by Rsocol | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Federico_Faggin_(cropped).jpg) |
 | 李飞飞 | ITU Pictures | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Fei-Fei_Li_at_AI_for_Good_2017.jpg) |
 | 张锋 | PuppyEggs | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Fzhang_at_summit.jpg) |
+| 费迪南德·马科斯 | Office of the President of the Philippines | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Portrait_of_President_Ferdinand_R._Marcos,_Jr_(cropped).jpg) |
 | 费伦茨·克劳斯 | Thorsten Naeser / Max-Planck-Institut für Quantenoptik | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ferenc_Krausz_(cropped).jpg) |
+| 费尔南达·托雷斯 | Ricardo Stuckert / PR, Lula Oficial | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Fernanda_Torres,_September_2024.jpg) |
 | 费尔南多·阿隆索 | Box Repsol \| Flickr | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Alonso_2016.jpg) |
 | 菲利波·格兰迪 | Ministerie van Buitenlandse Zaken | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Filippo_Grandi_-_UNHCR_-_2019_(cropped).jpg) |
 | 弗洛伊德·梅威瑟 | DEWALT POWER TOOLS FIGHT NIGHT CLUB 2010 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Floyd_Mayweather,_Jr._at_DeWalt_event_(5888721735)_(rotated_4).jpg) |
@@ -228,8 +258,11 @@
 | 弗朗索瓦-亨利·皮诺 | Leafar | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Portrait_de_Fran%C3%A7ois-Henri_Pinault_pris_aux_journ%C3%A9e_de_la_terre_en_2011_%C3%A0_l%27unesco_paris.jpg) |
 | 弗朗索瓦·皮诺 | S. Plaine | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Pinault_Stade_rennais_-_Le_Havre_AC_20150708_44.jpg) |
 | 弗里达·卡罗 | Guillermo Kahlo | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [来源说明](https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg) |
+| 弗里德里希·默茨 | Steffen Prößdorf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg) |
 | 岸田文雄 | 内閣官房内閣広報室 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kishida_Fumio_in_1999.jpg) |
 | 权志龙 | K-POPIT 케이팝잇 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:G-Dragon_in_February_2025.png) |
+| 加夫列尔·博里奇 | Estado de Chile / Gobierno de Chile | [CC BY 3.0 cl](https://creativecommons.org/licenses/by/3.0/cl/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Retrato_Oficial_Presidente_Boric_Font.jpg) |
+| 盖尔·加西亚·贝纳尔 | Karl Byrnison / Festival Ambulante | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gael_Garcia_Bernal_2015.jpg) |
 | 高塔姆·阿达尼 | Gautam Adani | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gautam_Adani.jpg) |
 | 杰弗里·辛顿 | Cmichel67 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_in_2026.jpg) |
 | 乔治·丘奇 | Christopher Michel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:George_Church_in_2023_06.jpg) |
@@ -242,6 +275,7 @@
 | 扬尼斯·阿德托昆博 | Keith Allison from Hanover, MD, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(24845003687)_(cropped).jpg) |
 | 吉尔贝托·吉尔 | Ricardo Stuckert / PR | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:22.05.2026_-_Gilberto_Gil_(cropped).jpg) |
 | 吉勒·布拉萨尔 | Lëa-Kim Châteauneuf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gilles_Brassard_(2019).jpg) |
+| 吉娜·莱因哈特 | [Department of Foreign Affairs and Trade website – www.dfat.gov.au](https://www.dfat.gov.au/) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gina_Rinehart_June_2015.jpg) |
 | 焦尔贾·梅洛尼 | Governo Italiano | [CC BY 3.0 it](https://creativecommons.org/licenses/by/3.0/it/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg) |
 | 吉塔·戈皮纳特 | World Economic Forum from Cologny, Switzerland | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gita_Gopinath,_2012_(cropped).jpg) |
 | 巩俐 | Georges Biard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg) |
@@ -267,11 +301,13 @@
 | 天野浩 | 文部科学省ホームページ / 研究振興局振興企画課 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)<br>This work is licensed under the Government of Japan Standard Terms of Use (Ver.2.0). The Terms of Use are compatible with the Creative Commons Attribution License 4.0 International. Attribution: 文部科学省ホームページ | [来源说明](https://commons.wikimedia.org/wiki/File:Hiroshi_Amano_20141211.jpg) |
 | 石黑浩 | Mikhail (Vokabre) Shcherbakov from Moscow, Russia | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Hiroshi_Ishiguro_(%D0%A5%D0%B8%D1%80%D0%BE%D1%81%D0%B8_%D0%98%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BE)_(6795439075).jpg) |
 | 三木谷浩史 | [Guillaume Paumier](https://guillaumepaumier.com/) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)<br>Credit line on the web (with hyperlink): Guillaume Paumier, CC-BY. | [来源说明](https://commons.wikimedia.org/wiki/File:Hiroshi_Mikitani_at_the_37th_G8_Summit_in_Deauville_033.jpg) |
+| 希托·施泰耶尔 | Dominik Butzmann / re:publica | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Future_Affairs_Berlin_2019_-_%E2%80%9EDigital_Revolution_Resetting_Global_Power_Politics%3F%E2%80%9C_(47959578672).jpg) |
 | 何光平 | Smuconlaw. | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ho_Kwon_Ping_at_the_ground-breaking_ceremony_for_the_new_School_of_Law_building,_Singapore_Management_University_-_20140120.jpg) |
 | 陈福阳 | Greg Bezat, d/b/a Bezat Video Group | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Hock_Tan_2022.png) |
 | 侯逸凡 | Andreas Kontokanis from Piraeus, Greece | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Hou_Yifan_(29762728494)_(cropped).jpg) |
 | 霍华德·舒尔茨 | Gage Skidmore | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Howard_Schultz_by_Gage_Skidmore.jpg) |
 | 伊恩·古德费洛 | Ian Goodfellow | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ian_Goodfellow.jpg) |
+| 伊恩·麦克尤恩 | TimDuncan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:IanMcEwan_EIBF2025_i481.jpg) |
 | 铃木一朗 | Keith Allison | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ichiro_Suzuki_on_May_11,_2011.jpg) |
 | 伊加·斯维亚特克 | Hameltion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg) |
 | 伊利亚·苏茨克维 | Eladkarmel; Commons crop by Sintegrity | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ilya_Sutskever_and_Sam_Altman_in_TAU_(cropped).jpg) |
@@ -279,8 +315,10 @@
 | 英德拉·努伊 | Michael Wuertenberg / World Economic Forum; crop by JeffBedford | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:IndraNooyiDavos2010ver2.jpg) |
 | 英格·安诺生 | UN Biodiversity | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Inger_Andersen_-_2022_(52546882286)_(cropped).jpg) |
 | 英格丽德·多贝西 | ICM 2018 / Photo: Rodrigo Leão | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Ingrid_Daubechies_ICM_2018_(42687401960)_(cropped).jpg) |
+| 艾里斯·范·赫本 | CHRISTOPHER MACSURAK from Chicago, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Iris_van_Herpen_-_snapshot_during_the_Haute_Couture_Spring_Summer_2012.jpg) |
 | 伊莎贝尔·阿连德 | Lesekreis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Isabel_Allende_Frankfurter_Buchmesse_2015_(cropped).JPG) |
 | 杰弗里·布赖恩·施特劳贝尔 | RudolfSimon | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jeffrey_B._Straubel_3.JPG) |
+| J·D·万斯 | Emily J. Higgins | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg) |
 | J·M·库切 | Mariusz Kubik, http://www.mariuszkubik.pl | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [来源说明](https://commons.wikimedia.org/wiki/File:J.M._Coetzee.JPG) |
 | 杰辛达·阿德恩 | New Zealand Government, Office of the Governor-General | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jacinda_Ardern_-_Waitangi_2022_(cropped).jpg) |
 | 杰克·唐加拉 | ICLTSG | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jack-dongarra-2022.jpg) |
@@ -302,20 +340,26 @@
 | 珍妮特·耶伦 | US Department of the Treasury | [Public domain](https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait_(cropped).jpg#Licensing) | [来源说明](https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait_(cropped).jpg) |
 | 扬尼克·辛纳 | The White House  derivative work: Kacir | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg) |
 | 哈维尔·巴登 | Martin Kraft | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MJK_71654_Javier_Bardem_(The_Roads_Not_Taken,_Berlinale_2020).jpg) |
+| 哈维尔·米莱 | Cancillería Argentina | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Javier_Milei_en_el_Sal%C3%B3n_Blanco_2_(cropped).jpg) |
 | 周杰伦 | GEM_Ady (GEM_brilliant) | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [来源说明](https://commons.wikimedia.org/wiki/File:%E5%92%AA%E5%92%95%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8_(25).jpg) |
 | Jay-Z | Photo Courtesy of NYS Senate Media Services | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jay-Z_meets_with_New_York_Senate_Majority_Leader_in_Albany_(cropped).webp) |
+| 让-克洛德·容克 | euranet_plus | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jean-Claude_Juncker_April_2019.jpg) |
 | 让-马里·古斯塔夫·勒克莱齐奥 | Holger Motzkau | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th,_2008-2.jpg) |
 | 让-帕斯卡·特里夸尔 | Richter Frank-Jurgen | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jean-Pascal_Tricoire.jpg) |
 | 让-菲利普·瓦萨尔 | User:GSAPPstudent | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jean-Philippe_Vassal.png) |
 | 让·梯若尔 | Jérémy Barande | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jean_Tirole_2019.jpg) |
+| 珍妮·甘 | Kramesarah | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jeanne_Gang.jpg) |
 | 杰夫·贝索斯 | Seattle City Council from Seattle | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg) |
 | 杰夫·迪恩 | Christopher P. Michel (Cmichel67) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jeff_Dean_in_2025_x.jpg) |
 | 杰夫·昆斯 | Bengt Oberger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jeff_Koons_01.JPG) |
 | 杰弗里·萨克斯 | Bundesministerium für Europa, Integration und Äußeres | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:FMSTAN_%26_SPIDER_Global_meeting_in_Austrian_Foreign_Ministries_in_Vienna_(49120446508)_(cropped).jpg) |
+| 杰弗里·厄尔曼 | Association for Computing Machinery; Alfred Aho portrait © Eileen Barosso (as credited in image); Jeffrey Ullman portrait courtesy Stanford School of Engineering | [Licensed content; Usage Restrictions: None](https://www.eurekalert.org/multimedia/754323)<br>Usage Restrictions: None. License: Licensed content. | [来源说明](https://www.eurekalert.org/multimedia/754323) |
 | 詹妮弗·杜德纳 | The Royal Society; crop: Duncan.Hull / Ravenpuff | [CC BY-SA 4.0 (crop; original CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Professor_Jennifer_Doudna_ForMemRS_(cropped).jpg) |
+| 詹妮弗·洛佩兹 | Everwest | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_(cropped_3).jpg) |
 | 延斯·斯托尔滕贝格 | U.S. Department of State from United States | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:NATO_Secretary_General_Jens_Stoltenberg.jpg) |
 | 黄仁勋 | Prime Minister's Office | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped).jpg) |
 | 杰罗姆·鲍威尔 | Federalreserve | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Jerome_H._Powell,_Federal_Reserve_Chair.jpg) |
+| 裘帕·拉希里 | librairie mollat | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jhumpa_Lahiri_(2015).png) |
 | 贾樟柯 | Christopher Adams | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jia_Zhangke_20081105.jpg) |
 | 吉米·威尔士 | PhilipRomano | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jimmy_Wales_by_Philip_Romano_(3x4_cropped).jpg) |
 | 乔斯琳·贝尔·伯内尔 | Victoria | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jocelyn_Bell_Burnell_in_Manchester_2026.MP.jpg) |
@@ -334,26 +378,38 @@
 | 佐科·维多多 | Ministry of State Secretariat of the Republic of Indonesia (Kementerian Sekretariat Negara Republik Indonesia) | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Joko_Widodo_2019_official_portrait.jpg) |
 | 约恩·福瑟 | Jarle Vines (Jarvin) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Jon_Fosse_(cropped).jpg) |
 | 琼尼·米切尔 | Library of Congress Life | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Joni_Mitchell_2021_Kennedy_Center_Honors_(cropped).jpg) |
+| 乔丹·皮尔 | Kevin Edwards from Palo Alto | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jordan_Peele_2012.jpg) |
 | 豪尔赫·保罗·雷曼 | Fundação Estudar | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jorge_Paulo_Lemann_em_fevereiro_de_2012.png) |
+| 若泽·曼努埃尔·巴罗佐 | State Chancellery of Latvia | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Manuel_Barroso_(cropped).jpg) |
 | 若泽·穆里尼奥 | Zafer | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:José_Mourinho_20250206_(1).jpg) |
 | 若泽·拉莫斯·奥尔塔 | Ministro da Defesa Dr. Filomeno da Paixão de Jesus | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:2022-05-20_Jos%C3%A9_Ramos-Horta.jpg) |
 | 约瑟夫·斯蒂格利茨 | Jérémy Barande | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Joseph_E._Stiglitz,_2019_(cropped).jpg) |
+| 约书亚·安格里斯特 | MeJudice | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Joshua_Angrist_-_2011.jpg) |
 | 胡安·曼努埃尔·桑托斯 | Wilson Dias / Agência Brasil; crop by Coronades | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Juan_Manuel_Santos_and_Lula_(cropped).jpg) |
 | 朱迪亚·珀尔 | Better Than Bacon | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Judea_Pearl_at_NIPS_2013_(11781981594)_(cropped).jpg) |
 | 朱迪思·巴特勒 | University of California, Berkeley | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:JudithButler2013.jpg) |
 | 朱莉娅·罗伯茨 | Colleen Sturtevant | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Julia_Roberts_2025_(cropped).jpg) |
+| 朱莉·梅雷图 | U.S. Department of State | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS) | [来源说明](https://commons.wikimedia.org/wiki/File:Julie_Mehretu,_2015.jpg) |
+| 田柾国 | [K-POPIT 케이팝잇](https://www.youtube.com/watch?v=59qurhtFJcQ&t=26) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jung_Kook_of_BTS,_February_12,_2026_(1).png) |
 | 尤尔根·克洛普 | Mehdi Bolourian | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Jürgen_Klopp,_Liverpool_vs._Chelsea,_UEFA_Super_Cup_2019-08-14_04.jpg) |
+| 于尔根·施米德胡伯 | ITU/R.Farrell | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:J%C3%BCrgen_Schmidhuber,_2017_(cropped).jpg) |
 | 贾斯汀·比伯 | Lou Stejskal | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Justin_Bieber_in_2015.jpg) |
 | 林毅夫 | Bdwgast | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:JustinYifuLin_Portrait.jpg) |
 | 李开复 | Press Service of the President of the Republic of Azerbaijan / President.az | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kai-Fu_Lee_in_September_2026_(cropped).jpg) |
 | 凯拉什·萨蒂亚尔蒂 | Leandro Uchoas | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kailash_Satyarthi.jpg) |
+| 卡娅·卡拉斯 | © European Union, 2026 / Aurore Martignoni | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kaja_Kallas,_High_Representative_of_the_Union,_and_Vice-President_of_the_European_Commission_-_P064583-775481_(cropped).jpg) |
+| 卡玛拉·哈里斯 | Lawrence Jackson | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg) |
+| 卡拉·沃克 | Studio International / Martin Kennedy (film); Anna McNay (interview) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kara_Walker_Interview_Camden_Arts_Centre_01.47_(cropped).jpg) |
 | 卡里姆·阿卜杜勒-贾巴尔 | Angela George | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:KareemAbdulJabbarSept2011.jpg) |
 | 卡里姆·本泽马 | Chris Deahr | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Karim_Benzema_vs._FC_Schalke_04_(16647992937).jpg) |
 | 卡尔·戴瑟罗斯 | Christopher Michel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Karl_Deisseroth_by_Christopher_Michel_04.jpg) |
+| 卡罗尔·G | Junta de Andalucía | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_15_(cropped_2).jpg) |
 | 考里科·卡塔琳 | File:Katalin Kariko.jpg: Krdobyns; derivative work: Innisfree987 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Katalin_Kariko_light_corrected.jpeg) |
+| 凯瑟琳·毕格罗 | David Shankbone | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kathryn_Bigelow_by_David_Shankbone.jpg) |
 | 凯蒂·莱德基 | Mledecky | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Katie_Ledecky_at_the_2023_Golden_Goggle_Awards_(cropped).jpg) |
 | 石黑一雄 | Mariusz Kubik, http://www.mariuszkubik.pl | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [来源说明](https://commons.wikimedia.org/wiki/File:Kazuo_Ishiguro_by_Kubik.JPG) |
 | 妹岛和世 | Columbia GSAPP | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Canopy_Gathering_Space_(Kazuyo_Sejima)_(15137242547)_cropped.jpg) |
+| 凯欣德·威利 | U.S. Department of State | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS) | [来源说明](https://commons.wikimedia.org/wiki/File:Kehinde_Wiley_(2015)_(cropped).jpg) |
 | 基尔·斯塔默 | Chris McAndrew / UK Parliament | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Keir_Starmer.jpg) |
 | 凯利·斯雷特 | US Embassy in Fiji | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Kelly_Slater_2017.jpg) |
 | 肯·格里芬 | Paul Elledge | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kenneth_C._Griffin_photo.jpg) |
@@ -364,6 +420,7 @@
 | 凯文·杜兰特 | Keith Allison | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kevin_Durant_Feb_2014.jpg) |
 | 金正恩 | Владимир Смирнов / ТАСС / Mil.ru | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped).jpg) |
 | 基普·索恩 | Keenan Pepper | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kip_Thorne_at_Caltech.jpg) |
+| 基兰·马宗达尔-肖 | Science History Institute / Sofia Negron | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kiran_Mazumdar-Shaw_HD2014_crop.jpg) |
 | 内村航平 | Rick McCharles from Calgary, Canada | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kohei_Uchimura_(2011).jpg) |
 | 克里斯塔利娜·格奥尔基耶娃 | World Bank Group/ Grant Ellis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kristalina_Georgieva_Headshot.jpg) |
 | 基利安·姆巴佩 | Bryan Berlin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg) |
@@ -376,10 +433,13 @@
 | 拉里·埃里森 | Oracle PR Hartmann Studios | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Larry_Ellison_picture.png) |
 | 拉里·芬克 | Kena Betancur/European Commission | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Larry_Fink_with_Valdis_Dombrovskis_(cropped).jpg) |
 | 拉里·佩奇 | Stansfield PL | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Larry_Page_in_the_European_Parliament,_17.06.2009_(cropped_2).jpg) |
+| 拉尔斯·彼得·汉森 | Ricardomayer at the English Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Lars_Peter_Hansen_photo_in_2007.jpg) |
 | 克拉斯诺霍尔卡伊·拉斯洛 | US Embassy Slovenia | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:L%C3%A1szl%C3%B3_Krasznahorkai_September_2014.jpg) |
+| 黄循财 | Isaac Castillo / Presidencia de la República del Ecuador | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Lawrence_Wong,_August_2026_(cropped).jpg) |
 | 勒布朗·詹姆斯 | Erik Drost | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg) |
 | 李宗伟 | Mayeres | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Badminton-lee_chong_wei.jpg) |
 | 李显龙 | U.S. Department of Defense / Tech. Sgt. Brigitte N. Brantley | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Lee_Hsien_Loong_2016_(cropped).jpg) |
+| 李在明 | Korea.net / Korean Culture and Information Service / Joint press photo (Republic of Korea Government) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)<br>All photographs in the official Flickr account of the Republic of Korea are available only for publication by news organizations and/or for public purposes with proper attribution to the correct source (photographer and organizations mentioned above). Any distortion to the original meaning of a photograph for provision to a third party through posting and resale, partial reproduction, falsification or use of the photograph with other images is strictly prohibited without the express written permission of the government of the Republic of Korea. | [来源说明](https://commons.wikimedia.org/wiki/File:President_Lee_Jae-myung_2025_(cropped).jpg) |
 | 李在镕 | KBS | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Lee_Jae-yong_in_2016.jpg) |
 | 雷军 | China News Service | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_1.jpg) |
 | 莱昂·马尔尚 | Tanis Coralee Leonhardi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)<br>I do not consent to nor do I support the misuse/misportrayal of my work and the event(s) the picture documents. | [来源说明](https://commons.wikimedia.org/wiki/File:L%C3%A9on_Marchand,_2023_Pac-12_Championships,_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg) |
@@ -387,6 +447,7 @@
 | 莱昂纳多·迪卡普里奥 | Raph_PH | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank_3_(crop).jpg) |
 | 莱斯利·兰波特 | Leslie Lamport | [Copyrighted free use](https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use) | [来源说明](https://commons.wikimedia.org/wiki/File:Leslie_Lamport.jpg) |
 | 刘易斯·汉密尔顿 | Governo do Estado de São Paulo | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_(52498120773)_(cropped).jpg) |
+| 莱伊曼·古博韦 | [Fronteiras do Pensamento](https://www.flickr.com/people/61838152@N06) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Leymah_Gbowee_(cropped).jpg) |
 | 李嘉诚 | EdTech Stanford University School of Medicine | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Li_Ka_Shing.jpg) |
 | 李娜 | Tourism Victoria from Australia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Li_Na_(China)_(24364518991).jpg) |
 | 李书福 | 中国新闻网 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Li_Shufu.jpg) |
@@ -395,14 +456,19 @@
 | 利昂内尔·梅西 | Bryan Berlin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg) |
 | 陈立武 | United States Department of Commerce | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOC)<br>This image or file is a work of a United States Department of Commerce employee, taken or made as part of that person's official duties. As a work of the U.S. federal government, the image is in the public domain. | [来源说明](https://commons.wikimedia.org/wiki/File:Intel_CEO_Lip-Bu_Tan_(2025)_(cropped).jpg) |
 | 苏姿丰 | Fuzheado | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg) |
+| 柳传志 | Zhisland-Thinktank | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Liu_Chuanzhi.png) |
 | 刘慈欣 | opacity from Chicago | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Geek_Bar_Tor_authors_event_-_Cixin_Liu_(18397919319).jpg) |
 | 刘家琨 | Huangchinhsu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Liu_Jiakun_20260718_155612.jpg) |
 | 鲁迅 | 作者不详 | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [来源说明](https://commons.wikimedia.org/wiki/File:LuXun1930.jpg) |
+| 路易斯·冯·安 | EneasMx | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Wikimania_2015_-_Day_2_(18)_(cropped).jpg) |
 | 路易斯·伊纳西奥·卢拉·达席尔瓦 | Ricardo Stuckert / Palácio do Planalto | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(estreita).jpg) |
+| 路易莎·特拉雅诺 | Magazine Luiza - Magalu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Magazine_Luiza_Luiza_Helena_Trajano_(51387211323)_(cropped).jpg) |
 | 卢卡·东契奇 | Erik Drost | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Luka_Doncic_(51914951721)_(cropped1).jpg) |
 | 卢卡·莫德里奇 | Bryan Berlin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg) |
+| 露皮塔·尼永奥 | PhilipRomano | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:LupitaNyongo-byPhilipRomano3.jpg) |
 | 马化腾 | 中国新闻网 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E5%8C%96%E8%85%BE_Pony_Ma_2019.jpg) |
 | 马龙 | China News Service | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ma_Long_(2024).png) |
+| 马岩松 | World Economic Forum / swiss-image.ch / Photo Urs Jaudas | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ma_Yansong_World_Economic_Forum_2013.jpg) |
 | 麦当娜 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg) |
 | 魔术师约翰逊 | Daniel Benavides from Austin, TX | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_SXSW_2022_(51958828669)_(cropped).jpg) |
 | 马格努斯·卡尔森 | Andreas Kontokanis from Piraeus, Greece | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Carlsen_Magnus_(30238051906).jpg) |
@@ -410,14 +476,22 @@
 | 新海诚 | Ilya Voyager | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Makoto_Shinkhai_in_Moscow.JPG) |
 | 马拉拉·优素福扎伊 | Simon Davis / DFID | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_2015.jpg) |
 | 曼尼·帕奎奥 | SC Ryan A on Picasa Web Albums | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Manny_Pacman_Pacquiao_1.jpg) |
+| 曼努埃尔·诺伊尔 | Bryan Berlin / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg) |
+| 马克·贝尼奥夫 | Christie Hemm Klok / Salesforce | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Marc_Benioff.jpg) |
+| 马克·马尔克斯 | Box Repsol | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Marc_M%C3%A1rquez_portrait_2022.jpg) |
+| 马克·雷伯特 | Alexander Altenhof | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Marc_raibert_cebit_hannover_2018.jpg) |
+| 马克·罗恩 | Mercatus TV / Mercatus Center | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Marc_Rowan_in_Mercatus_Center_interview_2024_(cropped).png) |
 | 马尔科·鲁比奥 | U.S. Department of State | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg) |
+| 马科斯·加尔佩林 | Edans | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Marcos_Galperin_(cropped).jpg) |
 | 玛格丽特·阿特伍德 | Collision Conf | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Margaret_Atwood_(52161564186)_(cropped).jpg) |
 | 玛丽亚·科里纳·马查多 | Kevin Payravi / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_(cropped).jpg) |
 | 玛丽亚·雷萨 | Jaramo81 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2025-10-19_Buchmesse_Maria_Ressa_(4).jpg) |
 | 玛丽亚·凯莉 | Shawn Miller | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-LOC) | [来源说明](https://commons.wikimedia.org/wiki/File:Mariah_Carey_Library_of_Congress_2023_2_(cropped)02.jpg) |
+| 玛丽安娜·马祖卡托 | AlexTaffetani | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mariana_Mazzucato.jpg) |
 | 玛丽·居里 | Henri Manuel | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg) |
 | 玛丽娜·阿布拉莫维奇 | Francesco Pierantoni from Bologna, Italy | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Marina_Abramovi%C4%87_(2018).jpg) |
 | 马里奥·德拉吉 | European Parliament | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mario_Draghi_EP_2022_(cropped).jpg) |
+| 玛丽昂·歌迪亚 | [Harald Krichel / WikiPortraits](https://commons.wikimedia.org/wiki/User:Harald_Krichel) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Marion_Cotillard-1061_(cropped).jpg) |
 | 马克·卡尼 | Bryan Berlin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mark_Carney_Argentina_v_Spain_19_July_2026-303_(3x4_close_up_cropped).jpg) |
 | 马克·吕特 | European Commission / Christophe Licoppe (cropped) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mark_Rutte,_23.03.23_(cropped).jpg) |
 | 马克·扎克伯格 | Anthony Quintano from Westminster, United States | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_2019_(cropped).jpg) |
@@ -425,71 +499,114 @@
 | 玛莎·努斯鲍姆 | Robin Holland (website) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Martha_Nussbaum_wikipedia_10-10.jpg) |
 | 马丁·赫尔曼 | User .:Ajvol:. on en.wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Martin-Hellman.jpg) |
 | 马丁·斯科塞斯 | Montclair Film / Neil Grabowsky | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Martin_Scorsese_MFF_2023.jpg) |
+| 玛蒂娜·纳芙拉蒂洛娃 | Vbrunophotog / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Martina_Navratilova_at_2025_Miami_Open_01.jpg) |
 | 玛丽·博拉 | Benjamin Applebaum / U.S. Department of Homeland Security | [Public domain](https://commons.wikimedia.org/wiki/File:Mary_Barra,_official_portrait,_Homeland_Security_Council.jpg#Licensing) | [来源说明](https://commons.wikimedia.org/wiki/File:Mary_Barra,_official_portrait,_Homeland_Security_Council.jpg) |
 | 玛丽-克莱尔·金 | Uwe Dettmar/Paul-Ehrlich-Stiftung | [Copyrighted free use](https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use)<br>Usage restrictions: None. The copyright holder of this work allows anyone to use it for any purpose including unrestricted redistribution, commercial use, and modification. | [来源说明](https://commons.wikimedia.org/wiki/File:Mary-claire_king.jpg) |
+| 玛丽·科姆 | British High Commission, India | [OGL v1.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/) | [来源说明](https://commons.wikimedia.org/wiki/File:Mary_Kom_-_British_High_Commission,_Delhi,_27_July_2011.jpg) |
 | 玛丽·罗宾逊 | Nationaal Comité 4 en 5 mei | [Attribution](https://commons.wikimedia.org/wiki/File:Mary_Robinson_(2014).jpg#Licensing)<br>The copyright holder of this file, Nationaal Comité 4 en 5 mei, allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted. | [来源说明](https://commons.wikimedia.org/wiki/File:Mary_Robinson_(2014).jpg) |
 | 玛丽娜·维亚佐夫斯卡 | Original photo by Petra Lein | [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Maryna_Vazovska_MFO_2013_crop2.jpg) |
 | 孙正义 | European Communities, 2025 / EC - Audiovisual Service | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Masayoshi_Son_(P066533-522034,_cropped).jpg) |
+| 马苏德·佩泽希齐扬 | [Khamenei.ir](https://khamenei.ir/) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_2025_(K).jpg) |
+| 马泰·扎哈里亚 | David Hill / ICPCNews | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Matei_Zaharia_at_the_2004_ACM-ICPC_World_Finals_in_Prague_(cropped).jpg) |
+| 马克斯·列夫琴 | Morgan Sherwood (flawedartist) from San Francisco (CA), USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Max_Levchin.jpg) |
 | 马克斯·维斯塔潘 | Steffen Prößdorf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(portrait_cropped).jpg) |
 | 迈-布里特·莫泽 | Thor Nielsen / NTNU Trondheim | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:May-Britt_Moser_(20902423978)_(cropped).jpg) |
+| 梅格·奥尼尔 | U.S. Consulate General Perth / U.S. Department of State | [Public domain (U.S. government)](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS) | [来源说明](https://commons.wikimedia.org/wiki/File:Ambassador_Culvahouse_Policy_Speech,_hosted_by_CEDA_and_Squire_Patton_Boggs_(47520855791).jpg) |
 | 梅根·拉皮诺埃 | Daniel Nickson | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Megan_Rapinoe_Stat_Sports_2.jpg) |
+| 梅兰妮·珀金斯 | Melanie Perkins | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:M_Perkins.jpg) |
 | 梅丽尔·斯特里普 | Ministry of culture, sports and Tourism- Lee Jeong-woo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_(cropped1).jpg) |
+| 米亚·科托 | Luis Miguel Martins / derivative: MachoCarioca | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Mia_Couto_cropped.jpg) |
+| 米娅·哈姆 | Rob Poetsch on Flickr; cropped by Blackcat | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mia_Hamm_2010_cropped.jpg) |
 | 米娅·莫特利 | Ricardo Stuckert / PR / Lula Oficial | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_(54906293485)_(Mia_Mottley).jpg) |
 | 迈克尔·布隆伯格 | Bloomberg Philanthropies | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Mike_Bloomberg_Headshot.jpg) |
 | 迈克尔·戴尔 | mikeandryan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Dell_2010.jpg) |
 | 迈克尔·曼 | Greg Grieco | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_E._Mann,_2010_(cropped).jpg) |
 | 迈克尔·杰克逊 | Matthew Rolston; Distributed by Epic Records | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg) |
 | 迈克尔·乔丹 | DOD photo by D. Myles Cullen | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg) |
+| 迈克尔·奥利里 | World Travel & Tourism Council | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_O%E2%80%99Leary_2015_(cropped).jpg) |
 | 迈克尔·菲尔普斯 | Agência Brasil Fotografias | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Phelps_August_2016.jpg) |
 | 迈克尔·舒马赫 | Original:  Aécio Neves – Wellington Pedro/Imprensa MG / Derivative work:  F1fans, FMSky | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Schumacher,_September_2005.jpg) |
+| 迈克尔·斯通布雷克 | Dcoetzee | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Michael_Stonebraker_2.jpg) |
 | 米歇尔·巴切莱特 | Laura Kotila / Finnish Government | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michelle_Bachelet,_2020_1.1_(cropped).jpg) |
 | 米歇尔·奥巴马 | Official White House Photo by Chuck Kennedy | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Michelle_Obama_2013_official_portrait_(2).jpg) |
 | 杨紫琼 | Harald Krichel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Michelle_Yeoh-2268.jpg) |
 | 米凯拉·希弗林 | Manfred Werner (Tsui) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mikaela_Shiffrin_(Portrait).jpg) |
+| 迈克·泰森 | Super Festivals | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg) |
+| 米拉·奈尔 | [Bollywood Hungama](https://www.bollywoodhungama.com/stills/partiesnevents/Mira_Nair_alongwith_Deepa_Mehta,_Sudhir_Mishra_at_the_%27IIFW_Masterclass_Directors_Meet%27/still53230.html) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mira_Nair.jpg) |
+| 莫·法拉赫 | Foreign and Commonwealth Office | [OGL v1.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/) | [来源说明](https://commons.wikimedia.org/wiki/File:Mo_Farah_(cropped).jpg) |
 | 穆·易卜拉欣 | World Economic Forum from Cologny, Switzerland | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mo_Ibrahim.jpg) |
 | 莫言 | Johannes Kolfhaus, Gymn. Marienthal | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MoYan_Hamburg_2008.jpg) |
 | 穆罕默德·本·扎耶德·阿勒纳哈扬 | Press Service of the President of the Republic of Azerbaijan / President.az | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mohamed_bin_Zayed_Al_Nahyan_-_2024_(cropped).jpg) |
 | 穆罕默德·巴拉迪 | IAEA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mohamed_ElBaradei.jpg) |
+| 穆罕默德·萨拉赫 | Bryan Berlin / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg) |
 | 穆罕默德·本·萨勒曼 | Saudi Press Agency (SPA) / وكالة الأنباء السعودية | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%84%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF_(%D9%85%D9%82%D8%B5%D9%88%D8%B5%D8%A9).jpg) |
 | 张忠谋 | 總統府 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Morris_Chang_2021APEC.jpg) |
+| 莫克西·马林斯派克 | Max Morse for TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Moxie_Marlinspike_TC_2017-09-18_(cropped00).jpg) |
 | 马亨德拉·辛格·多尼 | President's Secretariat | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Mahendra_Singh_Dhoni_receiving_Padma_Bhushan.jpg) |
 | 穆罕默德·尤努斯 | University of Salford Press Office / Nick Harrison (cropped) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_(cropped).jpg) |
 | 穆克什·安巴尼 | World Economic Forum | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mukesh_Ambani.jpg) |
+| 穆斯塔法·苏莱曼 | Joi Ito from Cambridge, MA, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Mustafa_Suleyman_(29099346447).jpg) |
+| 纳拉亚纳·穆尔蒂 | ps482207 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Narayana_Murthy_CIF_(cropped).JPG) |
+| 纳迪娅·科马内奇 | Ioan-Sebastian Buduroi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nadia_Comăneci_in_Iaşi,_22_september_2011.jpg) |
 | 娜迪娅·穆拉德 | BMEIA / Michael Gruber | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nadia_Murad_2023_(close-up).jpg) |
+| 娜丁·拉巴基 | [Matteo Chinellato / ChinellatoPhoto.com; permission submitted by Nadine Labaki (VRT 2017101210006859)](https://www.chinellatophoto.com/) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nadine_Labaki_by_Matteo_Chinellato_(cropped).jpg) |
 | 南希·佩洛西 | John Harrington | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg) |
+| 南丹·尼勒卡尼 | World Economic Forum / swiss-image.ch / E. T. Studhalter | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nandan_M._Nilekani.jpg) |
 | 大阪直美 | si.robi | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Naomi_Osaka_2017_Wimbledon.jpg) |
 | 纳伦德拉·莫迪 | Prime Minister's Office | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png) |
 | 纳尔吉斯·穆罕默迪 | VOA | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Narges_Mohammadi_(cropped).jpg) |
+| 娜塔莉·波特曼 | [Colleen Sturtevant / WikiPortraits](https://commons.wikimedia.org/wiki/User:ColleenSturtevant) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:NataliePortman.jpg) |
 | 纳塔拉詹·钱德拉塞卡兰 | World Economic Forum / Eric Miller | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Natarajan_Chandrasekaran_-_India_Economic_Summit_2011.jpg) |
 | 纳维·皮莱 | US Mission Geneva | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Navi_Pillay_June_2014.jpg) |
 | 纳尔逊·曼德拉 | Kingkongphoto & www.celebrity-photos.com from Laurel / ©   copyright  John Mathew Smith  2001 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg) |
+| 内马尔 | Bryan Berlin / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg) |
 | 恩戈齐·奥孔乔-伊韦阿拉 | WTO / Bryan Lehmann | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ngozi_Okonjo-Iweala_takes_over_as_new_WTO_Director-General,_1_March_2021_(50993534756)_(cropped).jpg) |
 | 尼古拉斯·马杜罗 | Ricardo Stuckert | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Maduro_in_2023_(cropped).jpg) |
 | 妮可·基德曼 | Harald Krichel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nicole_Kidman-66060_(cropped).jpg) |
+| 尼科什·阿罗拉 | Nikesh_Arora.jpg: Loic Le Meur derivative work: Boseritwik | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nikesh_Arora(cropped).jpg) |
 | 尼古拉·约基奇 | All-Pro Reels | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nikola_Jokic_free_throw_(cropped).jpg) |
 | 诺曼·福斯特 | Diario de Madrid | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Un_edificio_sostenible_de_acero_y_cristal,_nuevo_proyecto_de_Foster_para_Madrid_04_(cropped).jpg) |
 | 诺瓦克·德约科维奇 | Andymiah | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Paris_2024_Olympic_Games_(cropped).jpg) |
 | 奥拉维尔·埃利亚松 | Maximilian Bühn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_(cropped).jpg) |
+| 奥列克桑德拉·马特维丘克 | Mykola Swarnyk | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Oleksandra_Matviichuk_Tryzub_Gala_Toronto_2025.jpg) |
 | 奥尔加·托卡尔丘克 | Fryta 73 from Strzegom (Wikimedia Commons account: Fryta73) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Olga_Tokarczuk_(2018).jpg) |
+| 奥利弗·哈特 | Bengt Nyman from Vaxholm, Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Nobel_Laureates_Oliver_Hart_2016_(31341903482).jpg) |
+| 奥利维耶·布兰查德 | IMF Staff Photographer Eugene Salazar | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-author) | [来源说明](https://commons.wikimedia.org/wiki/File:Oliver_Blanchard,_IMF_98BlanchardWEO1_lg.jpg) |
+| 奥马·希 | Georges Biard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Omar_Sy_avp_Samba_2014.jpg) |
 | 奥马尔·亚吉 | Christopher Michel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Omar_Yaghi_413953_by_Christopher_Michel_1-7-2025.jpg) |
 | 奥尔罕·帕慕克 | David Shankbone | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Orhan_Pamuk_2009_Shankbone.jpg) |
 | 厄兹莱姆·图雷奇 | Stefan Albrecht / BioNTech / CC-BY-SA 4.0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ozlem_Tureci_v1.jpg) |
 | 朴赞郁 | YantsImages | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Park_Chan-wook,_2026_Cannes_Film_Festival.jpg) |
+| 帕斯卡·索里奥 | Kaitlyn DeHarde / Office of Governor Glenn Youngkin | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Pascal_Soriot_2025.jpg) |
+| 帕特·基辛格 | Cody Glenn / Web Summit via Sportsfile | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [来源说明](https://commons.wikimedia.org/wiki/File:Pat_Gelsinger.jpg) |
+| 帕特里斯·莫采佩 | World Economic Forum / swiss-image.ch / Monika Flueckiger | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Patrice_Motsepe.jpg) |
+| 帕特里克·科利森 | JD Lasica | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Patrick_Collison.jpg) |
 | 帕特里克·莫迪亚诺 | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Patrick_Modiano_6_dec_2014_-_23.jpg) |
+| 帕特里克·普扬内 | Jérémy Barande / Ecole polytechnique Université Paris-Saclay / CC BY-SA 2.0 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Patrick_Pouyann%C3%A9,_PDG_du_groupe_Total_(cropped).jpg) |
 | 保罗·卡加梅 | Hildenbrand /MSC | [CC BY 3.0 de](https://creativecommons.org/licenses/by/3.0/de/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Paul_Kagame_MSC_2017.jpg) |
 | 保罗·克鲁格曼 | David Shankbone; Commons crop by JB Hoang Tam 2 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Paul_Krugman_close-up_(cropped).jpg) |
 | 保罗·麦卡特尼 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:ACL18051018-122_(43716152470).jpg) |
+| 保罗·米尔格罗姆 | Eva Meyersson Milgrom | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-author) | [来源说明](https://commons.wikimedia.org/wiki/File:Paul_Milgrom_Headshot.jpg) |
 | 保罗·波尔曼 | World Economic Forum / Sikarin Thanachaiary | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Paul_Polman_-_World_Economic_Forum_on_East_Asia_2011.jpg) |
+| 保罗·罗默 | The original uploader was Doerrb at English Wikipedia. | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Paul_Romer,_2005_(cropped).jpg) |
 | 保罗·科埃略 | Ricardo Stuckert / PR (Lula Oficial) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Paulo_Coelho,_June_2024.jpg) |
+| 帕维尔·杜罗夫 | TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_Europe_Berlin_2013_(10536888854)_(cropped).jpg) |
 | 佩德罗·阿尔莫多瓦 | Gorupdebesanez | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Pedro_Almod%C3%B3var_1988.jpg) |
+| 佩德罗·桑切斯 | Foto: Nebojša Tejić/STA | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Obisk_%C5%A1panskega_predsednika_vlade_v_Sloveniji_(53658605930)_(cropped).jpg) |
+| 佩内洛普·克鲁兹 | Pedro J Pacheco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Goyas_2024_-_Pen%C3%A9lope_Cruz-2_(cropped).jpg) |
 | 佩普·瓜迪奥拉 | Steffen Prößdorf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Josep_Guardiola_2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2797_(cropped).jpg) |
+| 彼得·戴蒙德 | Pete Souza / The White House | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:Peter_Diamond_(economist).jpg) |
 | 彼得·汉德克 | "Wild + Team Agentur - UNI Salzburg" | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Peter-handke.jpg) |
 | 彼得·豪伊特 | Karen Zhou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Peter_Howitt_2025_Nobel_laurates_in_economic_sciences_(cropped).jpg) |
 | 彼得·杰克逊 | New Zealand Government, Office of the Governor-General | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Peter_Jackson_ONZ_(cropped).jpg) |
+| 彼得·诺维格 | James Duncan Davidson | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Peter_Norvig_2000_(1).jpg) |
+| 彼得·温宁克 | © European Union, 2021 / Dati Bendo, EC Audiovisual Service | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>© European Union, 2021, licensed under CC BY 4.0. Photographer: Dati Bendo. EC AV conditions of use apply; original photographic bytes preserved. | [来源说明](https://audiovisual.ec.europa.eu/en/media/photo/P-052216/00-16) |
+| 菲利普·迪布维格 | US Embassy Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Philip_Dybvig_-_Nobel_2022_Group_-_52637857287_(cropped).jpg) |
 | 菲利普·阿吉翁 | File:Phillipe Aghion - The State of France (cropped).jpg: Center for the Study of Europe Boston University from Boston, USA derivative work: TeKaBe | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Phillipe_Aghion_-_The_State_of_France_(cropped%2Boptimised).jpg) |
 | 菲利普·斯塔克 | marco formento; crop by Pruneau | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Philippe_Starck_crop.jpg) |
 | 教宗利奥十四世 | Ricardo Stuckert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg) |
 | 普拉博沃·苏比延多 | Darwis Triadi & Ministry of State Secretariat | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Prabowo_Subianto_2024_official_portrait.jpg) |
+| 普里扬卡·乔普拉·乔纳斯 | [Bollywood Hungama](https://www.bollywoodhungama.com/news/parties-and-events/photos-madhuri-dixit-shriram-madhav-nene-snapped-isha-ambanis-event/photos-priyanka-chopra-jonas-madhuri-dixit-and-shriram-madhav-nene-snapped-at-isha-ambanis-event-2/) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Priyanka_Chopra_at_Bulgary_launch,_2024_(cropped).jpg) |
 | 昆汀·塔伦蒂诺 | Gage Skidmore | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_by_Gage_Skidmore.jpg) |
 | 拉宾德拉纳特·泰戈尔 | Georges Chevalier | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:1926_Rabindrath_Tagore.jpg) |
 | 拉斐尔·格罗西 | IAEA Imagebank | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rafael_Mariano_Grossi_(00110002)_(51192184415).jpg) |
@@ -499,56 +616,101 @@
 | 雷杰普·塔伊普·埃尔多安 | Ricardo Stuckert / Presidência da República (Lula Oficial) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:10.11.2026_-_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Turquia_-_55645239849_(Recep_Tayyip_Erdo%C4%9Fan).jpg) |
 | 里德·哈斯廷斯 | James Duncan Davidson / O'Reilly Media, Inc. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/w/index.php?title=File:Reed_Hastings,_Web_2.0_Conference.jpg&oldid=3647411) |
 | 赖因哈德·根策尔 | MPE | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Reinhard_Genzel.jpg) |
+| 莱因霍尔德·梅斯纳尔 | [Ptolusque, Wikimedia Commons, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/User:Ptolusque) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Reinhold_Messner_at_Frankfurt_Book_Fair_2017_(26)_(cropped).jpg) |
 | 雷姆·库哈斯 | Strelka Institute for Media, Architecture and Design from Moscow, Russia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rem_Koolhaas_2013.jpg) |
 | 任正非 | © European Union, 2016 / EC, Photo: Georges Boulougouris / CC BY 4.0 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ren_Zhengfei_(2016).jpg) |
 | 伦佐·皮亚诺 | Columbia GSAPP; existing crop by Alonso de Mendoza | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Renzo_Piano_(2015).jpg) |
+| 雷什马·凯瓦尔拉马尼 | Pacamah | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:ReshmaKewalramaniBUGrad2026.jpg) |
 | 理查德·布兰森 | User:David Shankbone | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:5.3.10RichardBransonByDavidShankbone.jpg) |
+| 理查德·弗拉纳根 | AUrandomhouse | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:RichardFlanagan_300w.jpg) |
+| 刘强东 | World Economic Forum | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Liu_Qiangdong.jpg) |
 | 理查德·斯托曼 | Patafisik | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Richard_Stallman_Bologna_2024_abc1.jpg) |
 | 理查德·萨顿 | Numenta | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Richard_Sutton_2021_(cropped).jpg) |
 | 理查德·塞勒 | Chatham House | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Richard_Thaler_Chatham.jpg) |
+| 里奇·麦考 | New Zealand Government, Office of the Governor-General | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Richie_McCaw_ONZ_(cropped).jpg) |
+| 瑞奇·马丁 | [Harald Krichel / WikiPortraits](https://commons.wikimedia.org/wiki/User:Harald_Krichel) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ricky_Martin-4262_(cropped).jpg) |
 | 雷德利·斯科特 | Raph_PH | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg) |
 | 蕾哈娜 | U.S. Embassy Bridgetown | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS) | [来源说明](https://commons.wikimedia.org/wiki/File:Rihanna_visits_U.S._Embassy_in_Barbados_2024_(cropped).jpg) |
 | 山本理显 | Instituto Cervantes de Tokio | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Riken_Yamamoto_2016_(cropped).jpg) |
 | 罗伯特·德尼罗 | Georges Biard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robert_De_Niro_Cannes_2016.jpg) |
 | 罗伯特·卡恩 | Вени Марковски \| Veni Markovski | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bob_Kahn.jpg) |
+| 罗伯特·兰格 | Science History Institute / Douglas A. Lockard | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robert_Langer_MTMLecture_2008_09_25_portrait.JPG) |
+| 罗伯特·莱万多夫斯基 | Светлана Бекетова | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robert_Lewandowski_2018,_JAP-POL_(cropped).jpg) |
+| 罗伯特·席勒 | World Economic Forum / swiss-image.ch / Moritz Hager; crop and revision by César | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robert_Shiller_-_World_Economic_Forum_Annual_Meeting_2012_(cropped).jpg) |
 | 李彦宏 | 中国新闻社 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robin_Li_(2020).png) |
+| 罗德尼·布鲁克斯 | Science History Institute / staff photographer | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rodney_Brooks_ML40.jpg) |
+| 鲁道夫·萨德 | © European Union, 2026 / Theo Giacometti – European Commission | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rodolphe_Saad%C3%A9_2025_(cropped).jpg) |
 | 罗杰·费德勒 | si.robi | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg) |
+| 罗杰·迈尔森 | Eric Draper / The White House | [Public domain — U.S. federal government work](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:George_W._Bush_meets_with_the_American_2007_Nobel_Award_recipients-20071126.jpg) |
 | 罗杰·彭罗斯 | Biswarup Ganguly | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Roger_Penrose_9560.JPG) |
+| 罗兰·布施 | Siemens Portugal | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Roland_Busch.jpg) |
 | 罗纳德·李维斯特 | NightGaunt at Italian Wikipedia | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Corrado_Giustozzi_e_Ron_Rivest_1999.jpg) |
 | 罗纳尔迪尼奥 | Marcos Corrêa/PR | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg) |
 | 罗纳尔多 | Web Summit | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:051119SMcC0014.jpg) |
+| 罗里·麦克罗伊 | TourProGolfClubs | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rory_McIlroy_watches_drive_flight_(portrait_orientation).jpg) |
+| 罗莎莉亚 | Junta de Andalucía | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_27_(cropped).jpg) |
 | 鲁珀特·默多克 | Eva Rinaldi | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg) |
+| 瑞恩·库格勒 | Kevin Paul | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ryan_Coogler_-_Sinners_2025_(cropped).jpg) |
+| 苏杰生 | BMEIA / Gruber | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:The_official_portrait_of_External_Minister_Subrahmanyam_Jaishankar.jpg) |
+| S·S·拉贾穆里 | [Bollywood Hungama](http://www.bollywoodhungama.com/more/photos/view/stills/parties-and-events/id/1573551) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)<br>Bollywood Hungama (formerly known as IndiaFM) grants permission to copy, distribute and/or modify this photograph, provided it is: attributed to Bollywood Hungama; from BollywoodHungama.com (with a link to the source page); of a Bollywood party or event in India; taken by a Bollywood Hungama photographer; This permission does not extend to: screenshots, wallpapers, vacation pictures, promotional posters; photographs copyrighted by others; and similar exceptions. | [来源说明](https://commons.wikimedia.org/wiki/File:Rajamouli_at_the_special_screening_of_%27Makkhi%27_(cropped).jpg) |
 | 萨钦·滕杜尔卡 | Bollywood Hungama | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:SachinTendulkar.jpg) |
+| 萨迪奥·马内 | Bryan Berlin / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg) |
+| 萨弗拉·卡茨 | Oracle PR/Hartmann Studios | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Safra_Catz_2014_(cropped).jpg) |
+| 萨尔玛·海耶克 | [Martin Kraft](https://photo.martinkraft.com/) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MKr383631_Salma_Hayek_(Women_In_Motion,_Cannes_2025)_crop.jpg) |
 | 萨尔曼·鲁西迪 | Elena Ternovaja | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Salman_Rushdie,_2024.jpg) |
 | 萨姆·奥尔特曼 | Steve Jurvetson | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sam_Altman_speaking_at_TED_(cropped).jpg) |
+| 山姆·科尔 | The original uploader was Thewomensgame at English Wikipedia. | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Samkerr_perthglory.jpg) |
+| 高市早苗 | [Ministry of Foreign Affairs of Japan / Embassy of Japan in South Africa (Cabinet Public Affairs Office)](https://www.mofa.go.jp/) | [Public Data License 1.0 / CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Sanae_Takaichi,_Prime_Minister_of_Japan_(HD).jpg) |
+| 桑杰·梅赫罗特拉 | copyright 2016 SanDisk Corporation used by permission. | [Attribution](https://commons.wikimedia.org/wiki/Template:Attribution)<br>copyright 2016 SanDisk Corporation used by permission. | [来源说明](https://commons.wikimedia.org/wiki/File:Sanjay_Mehrotra.png) |
+| 萨拉·舍斯特伦 | Oleg Bkhambri (Voltmetro) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kazan_2015_-_Sjöström_WR_award_cropped.JPG) |
 | 萨蒂亚·纳德拉 | Brian Smale and Microsoft | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg) |
+| 斯嘉丽·约翰逊 | Harald Krichel / WikiPortraits | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8588.jpg) |
+| 塞巴斯蒂安·谢米亚特科夫斯基 | John Phillips / Getty Images for TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sebastian_Siemiatkowski.jpg) |
+| 塞巴斯蒂安·维特尔 | Morio | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_2011_Sebastian_Vettel_in_Yokohama.jpg) |
+| 塞普·霍赫赖特 | [C.Stadler/Bwag](https://commons.wikimedia.org/wiki/User:Bwag) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)<br>Feel free to use my photos, but please mention me as the author like © C.Stadler/Bwag or © C.Stadler/Bwag; CC-BY-SA-4.0 (that's good enough). | [来源说明](https://commons.wikimedia.org/wiki/File:Sepp_Hochreiter_-_Buch_Wien_2025.JPG) |
 | 塞雷娜·威廉姆斯 | AndrewHenkelman | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Serena-Smiling-2020.png) |
 | 谢尔盖·布林 | Steve Jurvetson | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sergey_Brin_Ted_2010_(cropped).jpg) |
+| 塞尔吉奥·埃尔莫蒂 | The official global picture collection of UBS from Switzerland | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sergio_P._Ermotti.jpg) |
 | 莎菲·戈德瓦瑟 | Weizmann Institute of Science | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)<br>This work has been released into the public domain by its author, Weizmann Institute of Science. This applies worldwide. | [来源说明](https://commons.wikimedia.org/wiki/File:Shafi_Goldwasser.JPG) |
 | 沙鲁克·汗 | Bollywood Hungama | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg) |
 | 夏奇拉 | Junta de Andalucía | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)01.jpg) |
+| 山塔努·纳拉延 | Jolie O'Dell | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Adobe_CEO_Shantanu_Narayen.jpg) |
 | 沙奎尔·奥尼尔 | MarkScottAustinTX | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shaquille_O%27Neal_October_2017_(cropped).jpg) |
+| 肖恩·怀特 | U.S. Department of Defense — Dominique A. Pineiro | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shaun_White_in_2018_181222-D-PB383-014_(46423162561)_(cropped).jpg) |
+| 谢赫·哈西娜 | Press Information Department | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Prime_Minister_Sheikh_Hasina_Attends_Business_Advisory_Committee_Meeting_2024-05-02_(PID-0008829)_(portrait_cropped).jpg) |
 | 雪莉-安·弗雷泽-普赖斯 | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Shelly-Ann_Fraser-Pryce_in_2015.jpg) |
 | 谢丽尔·桑德伯格 | Financial Times | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sheryl_Sandberg_Moet_Hennessy_Financial_Times_Club_Dinner_2011.jpg) |
 | 坂茂 | 準建築人手札網站 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shigeru_Ban.jpg) |
+| 石破茂 | Cabinet Public Relations Office of the Cabinet Secretariat | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ishiba_Shigeru_20241001_(cropped).jpg) |
 | 山中伸弥 | 日本学士院 / The Japan Academy | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shinya_Yamanaka_20141226.jpg) |
 | 希琳·埃巴迪 | Bengt Oberger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shirin_Ebadi_01.jpg) |
 | 施林·奈沙特 | Manfred Werner - Tsui | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Viennale_talk_(2),_Shirin_Neshat.jpg) |
+| 希夫·纳达尔 | British High Commission, New Delhi | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Shiv_Nadar,_Founder,_HCL_and_Chairman,_HCL_Technologies,_with_Sir_Richard_Stagg,_British_High_Commissioner_to_India_12_October_2009.jpg) |
 | 大谷翔平 | The White House / Joyce N. Boghosian | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:2026_Shohei_Ohtani_(cropped).jpg) |
 | 中村修二 | Glenn Beltz | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Professor_Shuji_Nakamura_(Cropped).jpg) |
+| 西尔维奥·米卡利 | [Rama](https://commons.wikimedia.org/wiki/User:Rama) | [CC BY-SA 2.0 fr](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Silvio_Micali_IMG_0459.jpg) |
 | 西蒙·约翰逊 | New Economic Thinking | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Simon_Johnson_on_Institute_for_New_Economic_Thinking.jpg) |
 | 西蒙·拜尔斯 | Ocoudis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Simone_Biles_National_Team_2024.jpg) |
+| 西娅·科利西 | Stefano Delfrate | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Siya_Kolisi_2022.jpg) |
 | 斯拉沃热·齐泽克 | Amrei-Marie | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Slavoj_%C5%BDi%C5%BEek_2015_(cropped).jpg) |
+| 斯米尔扬·拉迪奇 | Tomáš Znamenáček | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Smiljan_Radi%C4%87.jpg) |
+| 孙兴慜 | Ujishadow | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg) |
+| 宋康昊 | [Ministry of Information & Broadcasting, Government of India (GODL-India)](https://mib.gov.in/) | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Song_Gangho_2016.jpg) |
+| 索菲·威尔逊 | Chris Monk | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sophie_Wilson.jpg) |
 | 斯派克·李 | Montclair Film | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Spike_Lee_2025.jpg) |
 | 施特菲·格拉芙 | Steffi_Graf_in_Hamburg.jpg: Mark Henckel from Hamburg-Altona, Deutschland (http://sommer-in-hamburg.de/) derivative work: César | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Steffi_Graf_in_Hamburg_2010_(cropped).jpg) |
+| 斯特凡·班塞尔 | Xuthoria | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_08_(cropped).jpg) |
 | 斯蒂芬·库里 | Cyrus Saatsaz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Stephen_Curry_Shooting_(cropped)_(cropped).jpg) |
 | 苏世民 | UKinUSA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Stephen_Schwarzman,_19_March_2024.jpg) |
 | 史蒂夫·鲍尔默 | Eric Garcetti | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Steve_Ballmer_2014.jpg) |
+| 史蒂夫·弗伯 | Trevor Johnson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Steve_Furber_playing_electric_bass_guitar_2012.jpg) |
 | 史蒂夫·沃兹尼亚克 | Gage Skidmore | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Steve_Wozniak_by_Gage_Skidmore.jpg) |
 | 史蒂文·斯皮尔伯格 | Raph_PH | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Steven_Spielberg_2025.jpg) |
 | 史蒂维·旺德 | Kingkongphoto & www.celebrity-photos.com from Laurel  Maryland, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Stevie_Wonder_1994.jpg) |
 | 斯汀 | Raph_PH | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sting_in_April_2018.jpg) |
 | 斯特赖夫·马西伊瓦 | Richter Frank-Jurgen | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Strive_Masiwia,_Chairman,_Econet_Wireless_(34345475883).jpg) |
+| 斯图尔特·罗素 | © Stuart Russell (photographer uncredited) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Stuart_Russell.jpg) |
+| 苏·伯德 | SusanLesch | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Bird-20180912_(cropped).jpg) |
 | 苏丹·贾比尔 | Arctic Circle | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sultan_Al_Jaber_-_2023_(cropped).jpg) |
 | 桑达尔·皮查伊 | Photographer: Lukasz Kobus (European Commission) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg) |
 | 苏尼尔·米塔尔 | Prime Minister's Office | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Sunil_Mittal.jpg) |
@@ -560,52 +722,90 @@
 | 安藤忠雄 | Press Information Department, Government of Bangladesh | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-BDGov-PID) | [来源说明](https://commons.wikimedia.org/wiki/File:Tadao_Ando_meeting_Sheikh_Hasina_at_Akasaka_Palace_Tokyo_2023-04-27_(PID-0016308).jpg) |
 | 柳井正 | Prime Minister's Office, Government of India / Press Information Bureau, 23 May 2022 | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Tadashi_Yanai,_in_Japan_on_May_23,_2022_(1)_(cropped).jpg) |
 | 村上隆 | Sodacan | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)<br>Sodacan grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law. | [来源说明](https://commons.wikimedia.org/wiki/File:Takashi_Murakami_at_Versailles_Sept._2010_(1).jpg) |
+| 塔米姆·本·哈马德·阿勒萨尼 | The White House / Shealah Craighead | [Public domain – U.S. federal government work](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:President_Trump_Meets_with_the_Amir_of_Qatar_(48244263811).jpg) |
 | 塔拉娜·伯克 | Brittany "B.Monét" Fennell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tarana_Burke_from_She%27s_Revolutionary.jpg) |
+| 塔瓦库勒·卡曼 | Jindřich Nosek (NoJin) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tawakkol_Karman_(2019)_II.jpg) |
 | 泰勒·斯威夫特 | iHeartRadioCA | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png) |
 | 谭德塞·阿达诺姆·盖布雷耶苏斯 | Derek French / European Commission / © European Union, 2026 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tedros_Adhanom_Ghebreyesus_September_2025.jpg) |
 | 陶哲轩 | Institute for Pure & Applied Mathematics (video frame, cropped by Endof) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_(50m16s)_(cropped).jpg) |
+| 塔博·姆贝基 | Antônio Milena / Agência Brasil | [CC BY 3.0 BR](https://creativecommons.org/licenses/by/3.0/br/) | [来源说明](https://commons.wikimedia.org/wiki/File:SthAfrica.ThaboMbeki.01.jpg) |
 | 威肯 | Brian Ziff | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg) |
+| 西斯特·盖茨 | World Economic Forum / swiss-image.ch / Photo Urs Jaudas | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Unleashing_Entrepreneurial_Innovation_with_Stanford_University_Theaster_Gates.jpg) |
+| 蒂埃里·亨利 | Diarmuid Greene / Web Summit via Sportsfile | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Thierry_Henry_(51649035951)_(cropped).jpg) |
+| 托马斯·萨金特 | Holger Motzkau, Wikipedia/Wikimedia Commons | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)<br>If you want to use this image outside a Wikimedia project or need a higher resolution/raw image please contact me at prolineserver(a)gmaildotcom. | [来源说明](https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7717.jpg) |
 | 托马斯·皮凯蒂 | librairie mollat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Thomas_Piketty2.jpg) |
 | 泰格·伍兹 | Joyce N. Boghosian / The White House | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS) | [来源说明](https://commons.wikimedia.org/wiki/File:Tiger_Woods_in_May_2019.jpg) |
 | 蒂姆·伯纳斯-李 | Web Summit | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:LS3_4919_(cropped).jpg) |
 | 蒂姆·库克 | Dati Bendo / European Union | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tim_Cook_in_New_York_City_-_2026_(cropped).jpg) |
+| 蒂姆·邓肯 | Keith Allison from Owings Mills, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tim_Duncan.jpg) |
+| 托比亚斯·吕特克 | Union Eleven | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tobias_L%C3%BCtke,_Shopify.jpg) |
 | 汤姆·克鲁斯 | Kevin Paul | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg) |
 | 汤姆·汉克斯 | Eva Rinaldi from Abbotsford, Australia | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tom_Hanks_at_the_Elvis_Premiere_2022.jpg) |
+| 托尼·布莱尔 | © European Union, 2010 / EU, Photo: Pavel Golovkin | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Blair_2010_(cropped).jpg) |
+| 托尼·埃卢梅卢 | Graham Carlow / DFID – UK Department for International Development | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Elumelu_-_2020_(cropped).jpg) |
+| 托尼·法德尔 | OFFICIAL LEWEB PHOTOS | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Fadell.jpg) |
+| 托尼·费尔南德斯 | lastsham | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Fernandes.jpg) |
+| 托尼·霍克 | Christopher Michel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Hawk_in_2023.jpg) |
 | 梁朝伟 | Dick Thomas Johnson from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tony_Leung_as_the_President_of_the_International_Competition_Jury_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2024_(54578353950).jpg) |
 | 伊东丰雄 | Jerome Tobias | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Toyo_Ito_2009.jpg) |
+| 特拉维斯·卡兰尼克 | TechCrunch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Travis_Kalanick_-_Disrupt_SF_2012_(7979997908).jpg) |
 | 蔡英文 | 總統府 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Photo_by_Tsai_Ing-wen.jpg) |
+| 齐齐·丹加伦布加 | Rudolf H. Boettcher | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Tsitsi_Dangarembga_FBM_2021.jpg) |
 | 屠呦呦 | Bengt Nyman from Vaxholm, Sweden | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:D810_4987_Tu_Youyou,_medicine_(22945001843)_(cropped).jpg) |
 | 乌古尔·沙欣 | Stefan Albrecht / BioNTech / CC-BY-SA 4.0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ugur_Sahin_v1.jpg) |
 | 乌尔苏拉·冯德莱恩 | European People's Party | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_2024.jpg) |
 | 尤塞恩·博尔特 | Fernando Frazão/Agência Brasil | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Usain_Bolt_Rio_100m_final_2016k.jpg) |
+| 瓦伦蒂诺·罗西 | RaúlBlancoRueda | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Valentino_Rossi_2017.jpg) |
 | 文卡特拉曼·拉马克里希南 | The Royal Society | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)<br>Attribution: The Royal Society. Commons records a CC BY-SA 3.0 release confirmed in VRT ticket 2014062710019796; a CC BY-SA 4.0 statement also appears. This use follows the explicit 3.0 attribution release. | [来源说明](https://commons.wikimedia.org/wiki/File:Venki_Ramakrishnan.jpg) |
+| 维纳斯·威廉姆斯 | Tatiana from Moscow, Russia | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Venus_Williams_(14948553428).jpg) |
+| 阮清越 | Elaina Finkelstein / Library of Congress | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Viet_Thanh_Nguyen_at_the_2024_Library_of_Congress_National_Book_Festival_in_Washington,_D.C._on_August_24,_2024_(cropped).jpg) |
+| 维杰·谢卡尔·夏尔马 | Richter Frank-Jurgen | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Vijay_Shekhar_Sharma,_Founder_and_Chief_Executive_Officer,_Paytm.jpg) |
+| 维克托·欧尔班 | The White House | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg) |
 | 文顿·瑟夫 | The Royal Society; uploaded by Duncan Hull | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Dr_Vint_Cerf_ForMemRS.jpg) |
 | 维奥拉·戴维斯 | Gage Skidmore from Peoria, AZ, United States of America | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Viola_Davis_(27983785894)_(cropped).jpg) |
 | 维拉特·科利 | Prime Minister's Office | [GODL-India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf) | [来源说明](https://commons.wikimedia.org/wiki/File:Virat_Kohli_in_PMO_New_Delhi.jpg) |
+| 维斯瓦纳坦·阿南德 | Wolfgang Jekel | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016).jpeg) |
 | 弗拉基米尔·普京 | Presidential Press and Information Office / Kremlin.ru | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Vladimir_Putin_official_portrait.jpg) |
 | 福尔克尔·图尔克 | © Lauri Heikkinen, valtioneuvoston kanslia - FinnishGovernment | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Volker_T%C3%BCrk_in_Helsinki_-_2022_(52573271488)_(cropped).jpg) |
 | 弗拉基米尔·泽连斯基 | Press Service of the President of Ukraine | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg) |
 | 王传福 | Alexander-93 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Wang_Chuanfu_IAA_2023_1X7A0154.jpg) |
 | 王澍 | Marco Casagrande / Movez; existing crop by ELEKHH; white balance by Palosirkka | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Wang-Shu_Taipei.jpg) |
+| 王兴 | X\|Media\|Lab | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Wang_Xing_in_2009.jpg) |
+| 王毅 | Office of U.S. National Security Advisor | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Jake_Sullivan_and_Wang_Yi_met_in_Bangkok_(2024)_(cropped).jpg) |
 | 沃伦·巴菲特 | USA International Trade Administration | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_(cropped).jpg) |
 | 惠特菲尔德·迪菲 | The Royal Society; uploaded by Duncan Hull | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Whitfield_Diffie_Royal_Society.jpg) |
 | 威廉·肯特里奇 | Peter Campbell | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:William_Kentridge_DSC_2685.JPG) |
+| 威廉·鲁托 | [Presidenza della Repubblica / Quirinale.it](https://www.quirinale.it/) | [Attribution — unrestricted reuse permission for pre-10 September2024files](https://commons.wikimedia.org/wiki/Template:Attribution-Quirinale)<br>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted. | [来源说明](https://commons.wikimedia.org/wiki/File:William_Ruto_2023_(cropped).jpg) |
 | 温妮·比亚尼马 | COP PARIS | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [来源说明](https://commons.wikimedia.org/wiki/File:Winnie_Byanyima,_directrice_ex%C3%A9cutive_d%27Oxfam_international.jpg) |
+| 维蒂·伊希马埃拉 | NZatFrankfurt | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Witi_Ihimaera.jpg) |
+| 威兹基德 | Muhammed amine benloulou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Wizkid_in_Canex_-_Algiers_2025.jpg) |
 | 沃莱·索因卡 | Frankie Fouganthin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Wole_Soyinka_in_2018.jpg) |
 | 王家卫 | derivative work: Tabercil (talk) Wong Kar-wai at 2008 TIFF.jpg: lukeisback.com | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Wong_Kar-wai_at_2008_TIFF_cropped.jpg) |
+| 哈维 | [Mehdi Zare / Fars Media Corporation](https://www.farsnews.ir/) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Xavi_13981129001173637176666027076571.jpg) |
 | 习近平 | Isaac Castillo / Presidencia de la República del Ecuador (existing crop) | [Public domain (author-applied PDM)](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Xi_Jinping_on_August_18,_2026_(cropped).jpg) |
 | 徐冰 | James Yuanxin Li | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Xu_Bing_1-28-2011.jpg) |
 | 扬·勒昆 | Ecole  polytechnique from Paris | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Yann_LeCun_-_2025_(cropped).jpg) |
+| 姚明 | Keith Allison from Baltimore, USA | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:YaoMingonoffense2.jpg) |
 | 马友友 | Joi Ito | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Yo-Yo_Ma_in_2018_(cropped).jpg) |
+| 奈良美智 | Hsinhuei Chiou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Yoshitomo_Nara_Yokohama_2012.jpg) |
 | 约书亚·本吉奥 | Maryse Boyce | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Yoshua_Bengio_2019_cropped.jpg) |
 | 尤苏·恩杜尔 | Kotoviski photograph by Henryk Kotowski | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:YoussouNdour20090913.jpg) |
 | 余华 | 中国新闻社 / China News Service | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Yu_Hua_2023hk.jpg) |
+| 松本行弘 | Mathias Meyer | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Yukihiro_Matsumoto_EuRuKo_2011.jpg) |
+| 金妍儿 | David Shankbone | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Kim_Yu_Na_David_Shankbone_2010_NYC.jpg) |
 | 尤里·加加林 | Arto Jousi / Finnish Museum of Photography / Alma Media / Uuden Suomen kokoelma | [Public domain](https://commons.wikimedia.org/wiki/Template:PD-Finland50) | [来源说明](https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_(1961).jpg) |
 | 尤瓦尔·诺亚·赫拉利 | Martin Kraft | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:MKr364751_Yuval_Noah_Harari_(Frankfurter_Buchmesse_2024).jpg) |
+| 羽生结弦 | [David W. Carmichael](http://davecskatingphoto.com/) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Hanyu_-_2018_Olympics_(cropped).jpg) |
 | 伊冯·乔伊纳德 | Portlandjim | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [来源说明](https://commons.wikimedia.org/wiki/File:Yvon_Chouinard._Mt_Hood.jpg) |
+| 伊冯娜·法雷尔 | Amor Vacui | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Yvonne_Farrell_at_arcVision_2015.jpg) |
+| 扎迪·史密斯 | David Shankbone | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zadie_Smith_NBCC_2011_Shankbone.jpg) |
+| 扎内莱·穆霍利 | International Gay and Lesbian Film Festival «Side by Side» | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zanele_Muholi,_2011_(cropped).JPG) |
 | 曾毓群 | 中国新闻社 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Robin_Zeng_2023.jpg) |
 | 张一鸣 | The CEO Magazine — theceomagazine.cn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:The_CEO_Magazine_Cover.jpg) |
 | 张艺谋 | Dick Thomas Johnson from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_(53347207442)_(cropped).jpg) |
+| 张雨霏 | Oleg Bkhambri (Voltmetro) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zhang_Yufei_(CHN)_2015.jpg) |
+| 章子怡 | Dick Thomas Johnson | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zhang_Ziyi_the_Jury_President_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2019_(49013444988)_(cropped).jpg) |
+| 朱婷 | Sakhalinio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zhu_Ting_5_Vakıfbank_SK_TWVL_20180426_(1).jpg) |
 | 齐内丁·齐达内 | Hadi Abyar | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [来源说明](https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg) |
 
 ## 已确认的缺失肖像例外

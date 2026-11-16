@@ -1,0 +1,68 @@
+{
+  "id": "bola-tinubu",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "StateHouse11November2026actualreportquotes hisTuesdayDutsespeechanddescribesin-personprojectcommissioning; currentpresidentialbiography checked. Eventdated10NovemberTuesday, report11November.",
+  "lifeStatusEvidenceURL": "https://statehouse.gov.ng/president-tinubu-reaffirms-determination-to-overcome-insecurity-thanks-jigawa-people-for-support/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://statehouse.gov.ng/team/bola-ahmed-tinubu/",
+      "https://en.wikipedia.org/wiki/Bola_Tinubu",
+      "https://statehouse.gov.ng/president-tinubu-reaffirms-determination-to-overcome-insecurity-thanks-jigawa-people-for-support/"
+    ],
+    "access": [
+      {
+        "id": "bola-tinubu",
+        "n": 1,
+        "url": "https://statehouse.gov.ng/team/bola-ahmed-tinubu/",
+        "status": 200,
+        "characters": 2807,
+        "access": "body-fetched"
+      },
+      {
+        "id": "bola-tinubu",
+        "n": 2,
+        "url": "https://en.wikipedia.org/wiki/Bola_Tinubu",
+        "status": 200,
+        "characters": 76988,
+        "access": "body-fetched"
+      },
+      {
+        "id": "bola-tinubu",
+        "n": 3,
+        "url": "https://statehouse.gov.ng/",
+        "status": 200,
+        "characters": 6090,
+        "access": "body-fetched"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "StateHousebiography and datedDutsevisitbody directlyread; Wikipediacareer/education/ageandpresidencysectionsread. Officialeconomicpraise not adoptedasindependentoutcome. Publishedstandardbirthdate1952retained; politicalopponents’ unsourcedageallegations not manufacturedinto alternateyear. Civilforfeiturebackgroundnot misrepresented ascriminalconviction; selectedcareercoverage notexhaustive."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bola_Tinubu_portrait.jpg",
+    "sha256": "e0b0fc290e2998fe5288ea11bbac5c7e73a20d0016b96f29a3b34ba45f57dbf1",
+    "author": "Nosa Asemota",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "The official portrait of Bola Ahmed Tinubu, the President of Nigeria",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/bola-tinubu.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-10"
+}

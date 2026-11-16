@@ -1,0 +1,71 @@
+{
+  "id": "patrice-motsepe",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "ARM2026results signed4September2026explicitly record his transition to continuingnon-executivechair from16February2026; CAF12March2025reports his re-election and speech. Positivegovernance/activityassessment.",
+  "lifeStatusEvidenceURL": "https://arm-ir-reports.co.za/results/2026/annual-results/commentary.php",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://arm-ir-reports.co.za/results/2026/annual-results/commentary.php",
+      "https://www.cafonline.com/inside-caf/news/dr-patrice-motsepe-re-elected-unopposed-as-caf-president-for-second-term/",
+      "https://en.wikipedia.org/wiki/Patrice_Motsepe"
+    ],
+    "access": [
+      {
+        "id": "patrice-motsepe",
+        "n": 1,
+        "url": "https://arm.co.za/about-us/leadership/",
+        "error": "HTTP Error 404: Not Found",
+        "access": "not-opened"
+      },
+      {
+        "id": "patrice-motsepe",
+        "n": 2,
+        "url": "https://www.cafonline.com/inside-caf/news/dr-patrice-motsepe-re-elected-unopposed-as-caf-president-for-second-term/",
+        "status": 200,
+        "characters": 3988,
+        "access": "body-fetched"
+      },
+      {
+        "id": "patrice-motsepe",
+        "n": 3,
+        "url": "https://en.wikipedia.org/wiki/Patrice_Motsepe",
+        "status": 200,
+        "characters": 23326,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://arm-ir-reports.co.za/results/2026/annual-results/commentary.php",
+        "access": "body-read"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "ARMoldleadershipURL404; replaced with direct2026annualresults and read preciseboardchangeparagraph. CAFre-electionbody and Wikipediacareer/educationsections read. Executivechair ends15February; non-executivefrom16February. Businessprimarydomain retained despiteCAFrole. Pledge is commitment, not proof donationscompleted."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Patrice_Motsepe.jpg",
+    "sha256": "b147921fbd4bf83c99fe9b8a8e57aa01741a1bc7acebbf42bd2d643350e90698",
+    "author": "World Economic Forum / swiss-image.ch / Monika Flueckiger",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "DAVOS-KLOSTERS/SWITZERLAND, 30JAN09 - Patrice T. Motsepe, Executive Chairman, African Rainbow Minerals, South Africa captured during the session 'Global Industry Outlook 1' at the Annual Meeting 2009 of the World Economic Forum in Davos, Switzerland, January 30, 2009.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/patrice-motsepe.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-02-16"
+}

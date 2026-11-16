@@ -1,0 +1,82 @@
+{
+  "id": "kaja-kallas",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "FreshCommissionbiographylistsKallasinhercurrentEUrolesandrecords4November2026enlargementremarks; datedspeechPDFdirectlyidentifiesherastheHighRepresentative. Positive2026activity, notmerelyabsenceofdeath.",
+  "lifeStatusEvidenceURL": "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/speech_26_2344/SPEECH_26_2344_EN.pdf",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://commission.europa.eu/about/organisation/college-commissioners/kaja-kallas_en",
+      "https://www.consilium.europa.eu/en/council-eu/high-representative-foreign-affairs-security-policy/",
+      "https://en.wikipedia.org/wiki/Kaja_Kallas",
+      "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/speech_26_2344/SPEECH_26_2344_EN.pdf"
+    ],
+    "access": [
+      {
+        "id": "kaja-kallas",
+        "n": 1,
+        "url": "https://commission.europa.eu/about/organisation/college-commissioners/kaja-kallas_en",
+        "status": 200,
+        "characters": 9847,
+        "access": "body-fetched"
+      },
+      {
+        "id": "kaja-kallas",
+        "n": 2,
+        "url": "https://www.consilium.europa.eu/en/council-eu/high-representative-foreign-affairs-security-policy/",
+        "status": 200,
+        "characters": 9044,
+        "access": "body-fetched"
+      },
+      {
+        "id": "kaja-kallas",
+        "n": 3,
+        "url": "https://en.wikipedia.org/wiki/Kaja_Kallas",
+        "status": 200,
+        "characters": 67673,
+        "access": "body-fetched"
+      },
+      {
+        "id": "kaja-kallas",
+        "n": 4,
+        "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/speech_26_2344/SPEECH_26_2344_EN.pdf",
+        "status": 200,
+        "characters": 14990,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/speech_26_2344/SPEECH_26_2344_EN.pdf",
+        "access": "pdf-body-read",
+        "localEvidence": ".qa/add200/c/kallas-speech.txt"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "FreshCommission/Councilbiographyandrole-descriptionbodiesread; relevantWikipediaeducationandEstoniantermsread. PresscornerHTMLisa44charactershell, replacedwithofficialdatedspeechPDF. Distinguishes1December2024effectiveEUtermfromearliernomination; EMBA2010distinctfromunfinishedMBAstudiesbegun2007."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Kaja_Kallas,_High_Representative_of_the_Union,_and_Vice-President_of_the_European_Commission_-_P064583-775481_(cropped).jpg",
+    "sha256": "ec59780f3c576cd8802e55badf0020c4fae06701088947964665d7c55b6f6f95",
+    "author": "© European Union, 2026 / Aurore Martignoni",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Portrait of Kaja Kallas, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission.",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/kaja-kallas.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-04"
+}

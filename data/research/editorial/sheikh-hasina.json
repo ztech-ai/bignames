@@ -1,0 +1,78 @@
+{
+  "id": "sheikh-hasina",
+  "reviewedAt": "2026-11-16",
+  "cutoffDate": "2026-11-16",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "status": "ai-reviewed",
+  "publicationReady": true,
+  "identityReview": "Matched named biographical institutions, fresh dated activity and source captions to the intended person; no biometric identity claim.",
+  "lifeStatusEvidence": "DailyStar15November2026reports prosecutor discussing Hasina living in India and passport/retrial requests; this is positive contemporary reporting of her exile, not inference from absent death.",
+  "lifeStatusEvidenceURL": "https://www.thedailystar.net/news/crime-justice/news/international-crimes-tribunal-chief-prosecutor-rejects-suggestions-hasinas-retrial-4324446",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Sheikh_Hasina",
+      "https://www.britannica.com/biography/Sheikh-Hasina-Wazed",
+      "https://www.thedailystar.net/news/crime-justice/news/international-crimes-tribunal-chief-prosecutor-rejects-suggestions-hasinas-retrial-4324446",
+      "https://www.hrw.org/news/2025/11/17/bangladesh-hasina-found-guilty-of-crimes-against-humanity",
+      "https://www.aljazeera.com/news/2025/11/27/after-death-sentence-bangladesh-ex-pm-hasina-gets-21-years-for-land-grab"
+    ],
+    "access": [
+      {
+        "id": "sheikh-hasina",
+        "n": 1,
+        "url": "https://en.wikipedia.org/wiki/Sheikh_Hasina",
+        "status": 200,
+        "characters": 148039,
+        "access": "body-fetched"
+      },
+      {
+        "id": "sheikh-hasina",
+        "n": 2,
+        "url": "https://www.britannica.com/biography/Sheikh-Hasina-Wazed",
+        "status": 200,
+        "characters": 17856,
+        "access": "body-fetched"
+      },
+      {
+        "id": "sheikh-hasina",
+        "n": 3,
+        "url": "https://www.thedailystar.net/news/crime-justice/news/international-crimes-tribunal-chief-prosecutor-rejects-suggestions-hasinas-retrial-4324446",
+        "status": 200,
+        "characters": 6182,
+        "access": "body-fetched"
+      },
+      {
+        "url": "https://www.hrw.org/news/2025/11/17/bangladesh-hasina-found-guilty-of-crimes-against-humanity",
+        "access": "body-opened-read-via-web-tool"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2025/11/27/after-death-sentence-bangladesh-ex-pm-hasina-gets-21-years-for-land-grab",
+        "access": "body-opened-read-via-web-tool"
+      }
+    ],
+    "method": "Fresh public source bodies fetched where accessible; relevant biography, chronology and recent-event passages read by AI. Search-indexed excerpts identified separately. Cached evidence used only as a lead.",
+    "limits": "Britannica, Wikipedia and DailyStarbodies fetched/read relevantsections; HRW and AlJazeera opened through web tool. Deathsentence is17November2025, before2026cutoff, and is a sentence rather than execution. Prosecutor2026positions attributed to him, not declared independent final legal conclusions. HRWfair-trial objections retained. Education stated as attendance without unsupported degree."
+  },
+  "portraitReview": {
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sheikh_Hasina_Attends_Business_Advisory_Committee_Meeting_2024-05-02_(PID-0008829)_(portrait_cropped).jpg",
+    "sha256": "6a887e5c25edffbf285873eff2d3ed187dd40d363153c4bd4abb79cdf6cb8a62",
+    "author": "Press Information Department",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "caption": "Prime Minister and Leader of the House Sheikh Hasina attended the first meeting of the \"Business Advisory Committee\" of the 12th Jatiya Sangsad in the permanent committee room of the Jatiya Sangsad Bhaban (Thursday, May 2, 2024). -PID.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-pars",
+    "visualReview": "Actually viewed the labeled local portrait contact sheet .qa/add200/c/portraits-0.jpg, portraits-1.jpg or portraits-2.jpg as appropriate; real color photograph matched to the named source caption. Original photo bytes and color retained.",
+    "sourceLicenseReview": "Fresh Commons description opened HTTP200; read named caption, author and explicit license/permission notice. Credit includes source-stated photographer or institution; no private contract review.",
+    "color": "color-preserved",
+    "assetPath": "public/assets/portraits/sheikh-hasina.jpg"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All Chinese, English, French, Arabic, German, Japanese, Spanish and Korean displayed fields directly AI composed and semantically reviewed; no public machine translation. Dates, source IDs, identity/life status and original rating shared.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified"
+  },
+  "influenceReview": "Original collection influence object preserved exactly; main domain unchanged.",
+  "coverageEnd": "2026-11-15"
+}
