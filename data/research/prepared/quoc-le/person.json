@@ -1,0 +1,219 @@
+{
+  "id": "quoc-le",
+  "name": "黎曰国",
+  "enName": "Quoc Le",
+  "aliases": [
+    "Lê Viết Quốc",
+    "Quoc Viet Le"
+  ],
+  "birth": "1982",
+  "death": null,
+  "country": "美国（越南裔）",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "asia",
+    "north-america"
+  ],
+  "tags": [
+    "深度学习",
+    "自动化机器学习"
+  ],
+  "role": "人工智能研究者 · Discovery Loop共同创办人",
+  "summary": "黎曰国参与序列到序列学习、文档向量、神经架构搜索及高效图像模型研究，相关成果均由团队共同完成。他曾在Google工作，2026年与Jeff Dean、Sanjay Ghemawat及Oriol Vinyals共同创办Discovery Loop。",
+  "coverageNote": "核对至2026年11月17日。论文年表采用首次预印本提交日期；区分实验结果与一般能力，不沿用旧简介中的Google现职。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "推动深度学习、神经架构搜索和大语言模型研究，参与将研究成果应用于全球技术平台。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "澳大利亚国立大学软件工程一等荣誉学士，斯坦福大学计算机科学博士。"
+    },
+    {
+      "id": "f2",
+      "label": "学术指导",
+      "value": "本科阶段与Alex Smola研究，斯坦福博士导师为Andrew Ng。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "序列与文档表示",
+      "text": "与合作者研究将序列和文档映射为向量，分别用于翻译与文本表示。",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "自动化模型设计",
+      "text": "参与神经架构搜索、EfficientNet及AutoML-Zero，探索架构选择、网络缩放与学习算法搜索。",
+      "sourceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-08-05",
+      "title": "宣布共同创办Discovery Loop",
+      "text": "与Dean、Ghemawat和Vinyals创办公益目的公司，提出自动化科研实验的目标。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2022-01-28",
+      "title": "思维链提示论文首次提交",
+      "text": "与Jason Wei等作者研究用含中间步骤的示例提示改善模型在部分推理任务上的表现。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2020-03-06",
+      "title": "AutoML-Zero论文首次提交",
+      "text": "与Esteban Real、Chen Liang和David R. So研究从基本数学运算演化搜索学习算法。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2019-05-28",
+      "title": "EfficientNet论文首次提交",
+      "text": "与Mingxing Tan提出协调缩放卷积网络深度、宽度与图像分辨率的方法。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2016-11-05",
+      "title": "神经架构搜索论文首次提交",
+      "text": "与Barret Zoph用循环网络生成模型架构，以强化学习优化验证集表现。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2014-09-10",
+      "title": "序列到序列学习论文首次提交",
+      "text": "与Ilya Sutskever及Oriol Vinyals研究LSTM编码器与解码器，并进行英法翻译实验。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2014-05-16",
+      "title": "段落向量论文首次提交",
+      "text": "与Tomas Mikolov研究从不同长度文本学习固定长度向量表示。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2011-12-29",
+      "title": "高层特征学习论文首次提交",
+      "text": "与Ranzato、Ng等作者研究无标签图像的特征学习，观察到人脸及猫脸等特征检测。",
+      "sourceIds": [
+        "s8"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Announcing Discovery Loop",
+      "publisher": "Discovery Loop / Jeff Dean",
+      "url": "https://www.discoveryloop.com/blog/announcing-discovery-loop/"
+    },
+    {
+      "id": "s2",
+      "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "publisher": "arXiv / Wei and coauthors",
+      "url": "https://arxiv.org/abs/2201.11903"
+    },
+    {
+      "id": "s3",
+      "title": "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch",
+      "publisher": "arXiv / Real, Liang, So and Le",
+      "url": "https://arxiv.org/abs/2003.03384"
+    },
+    {
+      "id": "s4",
+      "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+      "publisher": "arXiv / Tan and Le",
+      "url": "https://arxiv.org/abs/1905.11946"
+    },
+    {
+      "id": "s5",
+      "title": "Neural Architecture Search with Reinforcement Learning",
+      "publisher": "arXiv / Zoph and Le",
+      "url": "https://arxiv.org/abs/1611.01578"
+    },
+    {
+      "id": "s6",
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "publisher": "arXiv / Sutskever, Vinyals and Le",
+      "url": "https://arxiv.org/abs/1409.3215"
+    },
+    {
+      "id": "s7",
+      "title": "Distributed Representations of Sentences and Documents",
+      "publisher": "arXiv / Le and Mikolov",
+      "url": "https://arxiv.org/abs/1405.4053"
+    },
+    {
+      "id": "s8",
+      "title": "Building High-level Features Using Large Scale Unsupervised Learning",
+      "publisher": "arXiv / Le and coauthors",
+      "url": "https://arxiv.org/abs/1112.6209"
+    },
+    {
+      "id": "s9",
+      "title": "Quoc Le",
+      "publisher": "Stanford / Quoc Le",
+      "url": "https://cs.stanford.edu/~quocle/"
+    },
+    {
+      "id": "s10",
+      "title": "Le Viet Quoc",
+      "publisher": "Fulbright University Vietnam USA",
+      "url": "https://www.fuvusa.org/people/le-viet-quoc/"
+    },
+    {
+      "id": "s11",
+      "title": "Top innovator Le Viet Quoc leaves Google to launch AI research startup Discovery Loop",
+      "publisher": "VnExpress / Luu Quy",
+      "url": "https://e.vnexpress.net/news/tech/vietnam-innovation/top-innovator-le-viet-quoc-leaves-google-to-launch-ai-research-startup-discovery-loop-5107182.html"
+    },
+    {
+      "id": "s12",
+      "title": "Quoc V. Le",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quoc_V._Le"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
