@@ -1,7 +1,7 @@
 {
   "id": "marissa-mayer",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -72,14 +72,16 @@
       "publisher": "Sunshine / PR Newswire",
       "findings": "Original announcement identifies Mayer as cofounder/CEO and Enrique Munoz Torres as cofounder/president. Sunshine formerly Lumi Labs publicly debuted with Sunshine Contacts in November 2020. App initially invitation-only and US/iPhone focused.",
       "caution": "Public debut is not incorporation or start of work in 2018. Later worldwide availability or current service operation cannot be inferred from this historical release. Promotional product claims not independently tested."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526119888/d919223ddef14a.htm",
+      "publisher": "AT&T / SEC",
+      "findings": "2026 proxy biography dates Dazzle founding to September 2025, Sunshine CEO tenure 2018 through acquisition by Dazzle in 2025, and confirms education and public-company board roles.",
+      "caution": "No exact acquisition closing date inferred; board roles are not operating management positions."
     }
   ],
   "remainingWork": [
-    "Education degree types verified; verify graduation years only if included. APM founding verified without exact founding year.",
-    "Verify Sunshine founding chronology and 2025 asset transaction details; do not assume simple rename or infer legal close date from reporting date.",
-    "Read board appointment sources if included in timeline.",
-    "Inspect portrait license and actual image bytes; do not assume institutional photo reuse permission.",
-    "Write and review Chinese profile plus seven translations, then update campaign status only when complete."
+    "Obtain and visually inspect licensed portrait bytes; review original photo license history and record attribution before publication."
   ],
   "portraitReview": {
     "checkedAt": "2026-11-17",
@@ -92,5 +94,6 @@
     "downloadResult": "curl --fail returned HTTP 403; original bytes not obtained. Historical cached file data/research/cache/portraits/c867e15a5b69408bfd7f919d.jpg absent.",
     "unresolved": "Identity, color and crop usability await visual inspection. Commons caption and category identify Mayer but are not a visual review. Original source photograph should also be checked for license history.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/marissa-mayer"
 }
