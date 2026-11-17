@@ -1,0 +1,225 @@
+{
+  "id": "dawn-song",
+  "name": "宋晓冬",
+  "enName": "Dawn Song",
+  "aliases": [
+    "Dawn Xiaodong Song",
+    "Dawn X. Song",
+    "宋晓东"
+  ],
+  "birth": null,
+  "birthUnknown": true,
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "asia",
+    "north-america"
+  ],
+  "tags": [
+    "计算机安全",
+    "人工智能安全"
+  ],
+  "role": "计算机科学家 · 伯克利教授",
+  "summary": "宋晓冬研究计算机系统安全、隐私与人工智能安全，现为加州大学伯克利分校教授及负责任去中心化智能中心联合主任。她把程序分析、密码学与机器学习用于安全研究，并参与DecodingTrust等大模型评测工作。其研究既分析系统弱点，也探索防护方法；团队论文和评测结果不代表对所有系统或后续模型作出安全保证。",
+  "coverageNote": "核对至2026年11月17日。出生日期未可靠确认；ACM会士采用2019届记录。2026年Meta人员变化按报道表述，不将6月入职消息视为持续任职证明，也不推定个人离职日。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "研究计算机安全、隐私保护与机器学习安全，推动可信人工智能和数据使用保护方法。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "1996年获清华大学学士、1999年获卡内基梅隆大学硕士、2002年获伯克利博士学位。"
+    },
+    {
+      "id": "f2",
+      "label": "研究岗位",
+      "value": "伯克利计算机科学教授、负责任去中心化智能中心（RDI）联合主任。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "系统安全与隐私",
+      "text": "研究软件、网络和分布式系统的安全问题，结合程序分析与密码学探索防护。",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "大模型可信度评测",
+      "text": "参与DecodingTrust合作研究，评测当时GPT模型的偏见、隐私与对抗鲁棒性等问题。",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-02",
+      "title": "Meta团队离职报道",
+      "text": "Semafor引述Meta称，正解聘6月招入的Virtue AI团队成员；宋晓冬在该入职团队之列。",
+      "sourceIds": [
+        "s10"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-03",
+      "title": "合著论文获时间检验奖",
+      "text": "RSAC表彰2002年同态签名论文；共同作者包括Robert Johnson、David Molnar、宋晓冬和David Wagner。",
+      "sourceIds": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2025",
+      "title": "当选美国文理科学院院士",
+      "text": "伯克利确认她当选American Academy of Arts and Sciences成员；这不同于美国科学促进会。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2023-12-11",
+      "title": "DecodingTrust获论文奖",
+      "text": "NeurIPS公布该合作论文获数据集与基准赛道杰出论文奖（基准类别）；她是共同作者之一。",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2019-12-11",
+      "title": "伯克利公布ACM会士消息",
+      "text": "校方确认她因安全与隐私贡献入选2019届ACM会士，采用该记录而非个人主页的2020年份。",
+      "sourceIds": [
+        "s4",
+        "s11"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2010-09-28",
+      "title": "获麦克阿瑟资助",
+      "text": "基金会公布其入选2010届，肯定其计算机安全研究。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2007",
+      "title": "加入伯克利教职",
+      "text": "结束2002至2007年在卡内基梅隆大学的任教经历，转入伯克利。",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2002",
+      "title": "取得伯克利博士学位",
+      "text": "完成计算机科学博士学位；校方会士介绍列出导师Doug Tygar。",
+      "sourceIds": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Dawn Song faculty profile",
+      "publisher": "UC Berkeley EECS",
+      "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html"
+    },
+    {
+      "id": "s2",
+      "title": "Dawn Song — Class of 2010",
+      "publisher": "MacArthur Foundation",
+      "url": "https://www.macfound.org/fellows/class-of-2010/dawn-song"
+    },
+    {
+      "id": "s3",
+      "title": "Dawn Song",
+      "publisher": "Berkeley CHAI",
+      "url": "https://chai.berkeley.edu/people/dawn-song/"
+    },
+    {
+      "id": "s4",
+      "title": "Dawn Song named 2019 ACM Fellow",
+      "publisher": "UC Berkeley EECS",
+      "url": "https://eecs.berkeley.edu/news/dawn-song-named-2019-acm-fellow/"
+    },
+    {
+      "id": "s5",
+      "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+      "publisher": "NeurIPS Proceedings",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/63cb9921eecf51bfad27a99b2c53dd6d-Abstract-Datasets_and_Benchmarks.html"
+    },
+    {
+      "id": "s6",
+      "title": "Announcing the NeurIPS 2023 Paper Awards",
+      "publisher": "NeurIPS",
+      "url": "https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/"
+    },
+    {
+      "id": "s7",
+      "title": "Two CDSS faculty elected to the American Academy of Arts and Sciences",
+      "publisher": "UC Berkeley CDSS",
+      "url": "https://cdss.berkeley.edu/news/two-CDSS-faculty-elected-to-AmericanAcademyofArtsandSciences-2025"
+    },
+    {
+      "id": "s8",
+      "title": "Cryptography: 2026 Test of Time Awards",
+      "publisher": "RSAC",
+      "url": "https://www.rsaconference.com/events/2026-usa/programs/cryptography"
+    },
+    {
+      "id": "s9",
+      "title": "Test of Time: Homomorphic Signature Schemes",
+      "publisher": "RSAC",
+      "url": "https://www.rsaconference.com/library/presentation/usa/2026/test-of-time-homomorphic-signature-schemes"
+    },
+    {
+      "id": "s10",
+      "title": "Meta parts ways with Virtue AI",
+      "publisher": "Semafor / Ashley Gold",
+      "url": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai"
+    },
+    {
+      "id": "s11",
+      "title": "Dawn Xiaodong Song home page",
+      "publisher": "Dawn Song",
+      "url": "https://dawnsong.io/"
+    },
+    {
+      "id": "s12",
+      "title": "Dawn Song",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dawn_Song"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
