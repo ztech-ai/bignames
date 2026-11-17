@@ -37,19 +37,58 @@
       "publisher": "The Standard",
       "findings": "Visible November 22, 2024 article opening describes farewell video after resignation.",
       "caution": "Only public opening read; remainder paywalled. Farewell publication is not itself authoritative exact termination date."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1065088/000129993308000426/exhibit1.htm",
+      "publisher": "eBay / SEC",
+      "findings": "January 23, 2008 announcement: Whitman CEO handover effective March 31, 2008; remained director. Dates joining March 1998.",
+      "caution": "Contemporaneous source preferred over later biography claiming November 2008 CEO end. Revenue baselines vary across biographies; omit promotional growth figures unless reconciled."
+    },
+    {
+      "url": "https://www.ebayinc.com/company/our-history/",
+      "publisher": "eBay",
+      "findings": "Corporate history lists Whitman joining as president/CEO in 1998 and Donahoe succession in March 2008.",
+      "caution": "History places joining under February while contemporaneous SEC release says March; use 1998 unless further resolved. Not founder: company existed before she joined."
+    },
+    {
+      "url": "https://quibi-hq.medium.com/an-open-letter-from-quibi-8af6b415377f",
+      "publisher": "Quibi / Jeffrey Katzenberg and Meg Whitman",
+      "findings": "Joint October 21, 2020 open letter announces business wind-down and intended sale of assets, acknowledging failure.",
+      "caution": "Announcement is not exact final service shutdown or end of executive employment. Explanations of failure are authors views, not independent causal proof."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meg_Whitman",
+      "publisher": "Wikipedia contributors",
+      "findings": "Margaret Cushing Whitman, American executive/diplomat, born August 4, 1956. Education and 2010 gubernatorial loss described.",
+      "caution": "Birth is secondary-source evidence. Infobox diplomatic end date conflates resignation announcement; prefer separately verified dates. Political registration changed according to page; do not assume current Republican affiliation from 2010 candidacy."
+    },
+    {
+      "url": "https://www.dailypress.senate.gov/thursday-july-14-2022/",
+      "publisher": "U.S. Senate Daily Press",
+      "findings": "July 14, 2022 log confirms Margaret C. Whitman nomination to Kenya en bloc by voice vote.",
+      "caution": "Voice vote is not a recorded 100-0 roll-call tally. Confirmation is separate from oath and presentation of credentials."
     }
   ],
   "remainingWork": [
-    "Verify identity and birth year, degrees and early eBay history; do not mistake CEO for founder.",
-    "Check diplomatic confirmation, oath, credentials and resignation/termination chronology with primary records where available.",
-    "Verify Quibi launch and shutdown separately from executive tenure; include balanced career coverage and 2010 election if used.",
-    "Check recent activity and corporate role through cutoff; September 2026 appointment provides dated official office evidence.",
-    "Review licensed portrait metadata and bytes.",
-    "Write Chinese dossier plus seven translations and full review; checkpoint does not change completed counts."
+    "Verify any additional exact diplomatic end/credentials dates used; may retain 2022–2024 tenure without unsupported precision.",
+    "Verify 2010 election outcome through official results if included beyond secondary-source summary.",
+    "Complete Chinese dossier, seven translations and review; ten source records now available.",
+    "Obtain and visually inspect portrait before publication."
   ],
   "researchLeadsNotYetVerified": [
     "State Department October 23, 2024 ambassador assignments PDF search result lists Margaret C. Whitman oath July 19, 2022; body not yet read.",
     "Albertsons September 30, 2026 board expansion release may provide later dated activity.",
     "Stanford speaker biography still calls her HP Inc. chair; likely historical, not current role evidence."
-  ]
+  ],
+  "portraitReview": {
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked",
+    "visualReview": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Meg_Whitman,_U.S._Ambassador.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Meg_Whitman%2C_U.S._Ambassador.jpg",
+    "rightsEvidence": "Commons identifies U.S. Department of State official-duty portrait, public domain under U.S. federal government rules. Source embassy page linked. Page describes August 1, 2022 photograph, 1572x1972, approximately 421 KB.",
+    "downloadResult": "Direct curl --fail returned HTTP 403. Historical cached file data/research/cache/portraits/e0cdd64ebf1e690552afa913.jpg absent.",
+    "unresolved": "Identity/color/crop await actual image inspection. Historical cached hash is not current-file verification. TNC copyrighted headshot is a different image, not covered by government-image status.",
+    "placeholderApproval": "not-received"
+  }
 }
