@@ -1,0 +1,195 @@
+{
+  "id": "michael-widenius",
+  "name": "迈克尔·维德纽斯",
+  "enName": "Michael Widenius",
+  "aliases": [
+    "Ulf Michael Widenius",
+    "Monty"
+  ],
+  "birth": "1962",
+  "death": null,
+  "country": "芬兰",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "europe"
+  ],
+  "tags": [
+    "开源数据库",
+    "软件社区"
+  ],
+  "role": "MySQL共同创始人、MariaDB公司CTO",
+  "summary": "迈克尔·维德纽斯是芬兰程序员，以Monty之名活跃于数据库社区。他参与创建MySQL，推动MariaDB分支及其社区发展，并参与建立MariaDB基金会。其技术与组织工作由众多开发者共同推进。",
+  "coverageNote": "核对至2026年11月17日。区分MariaDB公司与基金会、项目开始与首个版本发布，以及收购公告与完成；早期MySQL年份存在来源差异，未写入精确年表。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "共同创建MySQL并推动MariaDB发展，对开放数据库软件和互联网应用基础设施具有影响。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育与技术写作",
+      "value": "曾就读赫尔辛基理工大学，并合著MySQL参考手册；就读经历不表述为取得学位。"
+    },
+    {
+      "id": "f2",
+      "label": "组织职务",
+      "value": "担任MariaDB公司CTO，并以创始人身份担任MariaDB基金会当然董事；基金会CEO为Anna Widenius。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "开放数据库基础设施",
+      "text": "参与MySQL与MariaDB开发，为互联网应用提供关系数据库工具；不将团队全部成果归于个人。",
+      "sourceIds": [
+        "s1",
+        "s8"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "社区治理",
+      "text": "参与建立独立基金会，为数据库代码、贡献者及用户社区提供持续协作机制。",
+      "sourceIds": [
+        "s2",
+        "s6"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-19",
+      "title": "在苏黎世技术活动演讲",
+      "text": "VSHN在10月28日回顾中记载其讲述MySQL与MariaDB历史；活动日期与报道日期分开。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-06-24",
+      "title": "基金会纪要确认董事身份",
+      "text": "以创始人当然董事身份列入缺席名单；该记录不能作为本人出席会议的证据。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2024-10-30",
+      "title": "回顾MariaDB十五年",
+      "text": "署名文章回顾项目起源与技术演进，并强调首个版本依赖团队共同工作。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2012-12-04",
+      "title": "共同宣布成立MariaDB基金会",
+      "text": "与David Axmark、Allan Larsson共同宣布基金会成立，公告列其为临时CTO。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2009-10-29",
+      "title": "MariaDB首个版本发布",
+      "text": "其回顾文章将5.1.38列为首个版本；首发与正式稳定版发布不是同一概念。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2009-04-20",
+      "title": "启动MariaDB项目",
+      "text": "据其回顾，项目在Oracle宣布拟收购Sun之日启动；这是收购公告而非交易完成日。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2008-02-26",
+      "title": "Sun完成收购MySQL AB",
+      "text": "该交易承接1月宣布的收购计划；其MySQL技术领导经历与后续MariaDB工作分开记录。",
+      "sourceIds": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2003",
+      "title": "获芬兰软件创业者奖",
+      "text": "公司及基金会履历记载其获年度软件创业者称号。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "MariaDB leadership",
+      "publisher": "MariaDB",
+      "url": "https://mariadb.com/about-us/leadership/"
+    },
+    {
+      "id": "s2",
+      "title": "MariaDB Foundation board and biographies",
+      "publisher": "MariaDB Foundation",
+      "url": "https://mariadb.org/about/"
+    },
+    {
+      "id": "s3",
+      "title": "Board meeting minutes, June 24, 2026",
+      "publisher": "MariaDB Foundation",
+      "url": "https://mariadb.org/bodminutes/2026-06-24/"
+    },
+    {
+      "id": "s4",
+      "title": "Zurich technical roadshow recap",
+      "publisher": "VSHN",
+      "url": "https://www.vshn.ch/en/blog/a-day-with-open-source-legends-technical-roadshow-mariadb-vshn-with-michael-monty-widenius-anders-karlsson/"
+    },
+    {
+      "id": "s5",
+      "title": "Michael Widenius",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Michael_Widenius"
+    },
+    {
+      "id": "s6",
+      "title": "MariaDB Foundation formation announcement",
+      "publisher": "MariaDB Foundation",
+      "url": "https://blog.mariadb.org/mariadb-foundation-to-safeguard-leading-open-source-database/"
+    },
+    {
+      "id": "s7",
+      "title": "Questions about MySQL: 2010 briefing",
+      "publisher": "Ronald Bradford / hosted by Oracle",
+      "url": "https://www.oracle.com/technetwork/community/oracle-ace/mysqlquestions-161804.pdf"
+    },
+    {
+      "id": "s8",
+      "title": "Celebrating 15 years of MariaDB Server",
+      "publisher": "Michael Monty Widenius / MariaDB",
+      "url": "https://mariadb.com/resources/blog/celebrating-15-years-of-mariadb-server/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}

@@ -1,7 +1,7 @@
 {
   "id": "michael-widenius",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -58,9 +58,8 @@
     }
   ],
   "remainingWork": [
-    "Resolve MySQL founding and first-release chronology using original records; verify any additional historical timeline dates used.",
-    "Write Chinese profile, seven translations and full review; do not count checkpoint as prepared text.",
-    "Obtain licensed portrait bytes for visual identity, color and crop review."
+    "Obtain portrait bytes and visually review identity, color and crop; record image attribution and share-alike obligations before publication.",
+    "Optional future enrichment: resolve exact early MySQL founding and first-release dates; disputed dates omitted from prepared text."
   ],
   "failedSources": [
     {
@@ -83,5 +82,6 @@
     "downloadResult": "Direct curl --fail returned HTTP 403 on November 17. Historical cached file data/research/cache/portraits/7924417e78997e19f44b00e6.jpg absent; historical hash is not present-file verification.",
     "unresolved": "Identity, color and crop need visual inspection. Metadata color space alone does not establish color photograph.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/michael-widenius"
 }
