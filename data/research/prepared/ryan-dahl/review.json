@@ -1,0 +1,57 @@
+{
+  "id": "ryan-dahl",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched Node.js creator and Deno co-creator through signed announcements and original nodejs mailing-list message; excluded DJ namesake.",
+  "lifeStatusEvidence": "October 9, 2026 signed Deno and coauthored Cloudflare announcements describe Dahl joining Cloudflare and leading new work with Bert Belder.",
+  "lifeStatusEvidenceURL": "https://deno.com/blog/cloudflare",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://deno.com/blog/cloudflare",
+      "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "https://deno.com/blog/introducing-deno-sandbox",
+      "https://deno.com/blog/v2.0",
+      "https://deno.com/blog/jsr_open_beta",
+      "https://deno.com/blog/v1",
+      "https://sequoiacap.com/article/deno-spotlight",
+      "https://groups.google.com/g/nodejs/c/hfajgpvGTLY",
+      "https://en.wikipedia.org/wiki/Ryan_Dahl"
+    ],
+    "accessMethod": "Web search/open/find; substantive article text and mailing-list message actually inspected on 2026-11-17.",
+    "scope": "Original 2012 handover message; signed Deno product and organizational announcements; Cloudflare cross-check; Sequoia interview-based profile for 2009 and June 2018 public presentations; secondary biography for birth year.",
+    "corrections": [
+      "October 2026 team move is distinct from planned six-month Deploy wind-down and one-year runtime maintenance period; no immediate shutdown claimed.",
+      "Original January 30, 2012 message says he remains a Joyent employee and adviser, handing release authority to Isaac Schlueter, not leaving all work immediately.",
+      "JSR March 1, 2024 announcement is public beta.",
+      "Retain named coauthors for Deno 1.0, Deno 2 and JSR; do not attribute the entire ecosystem to one person.",
+      "Cloudflare blog overstates invention of server-side JavaScript; this historical claim is excluded.",
+      "Birth month/day not reliably reconciled; use explicit 1981 year only.",
+      "Sandbox protections are vendor descriptions, not independently validated security guarantees."
+    ],
+    "limits": "Sequoia is a Deno investor and its interview profile is not treated as independent performance testing. No human/native-language certification. Failed guessed Node blog URL was replaced by original mailing-list source."
+  },
+  "portraitReview": {
+    "status": "download-and-visual-review-pending",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/File:Ryan_Dahl.jpg"
+    ],
+    "rightsEvidence": "Commons identifies Ryan Dahl at YUIConf 2010, photographer David Calhoun, CC BY 2.0, and Flickr license review March 14, 2012 by File Upload Bot (Magnus Manske). Public description and license text inspected.",
+    "unresolved": "Download actual photo, confirm identity and original color, preserve photographer attribution. Recorded research cache file is absent in this workspace.",
+    "downloadBlocker": "Previously reconfirmed Wikimedia CONNECT 403 restriction remains unresolved; no bypass attempted.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All eight versions authored and read semantically, preserving future versus completed actions, beta status, team credit, 2012 employment qualification and birth-year precision. Japanese handover title corrected to express handing off rather than taking over.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-10-09"
+}

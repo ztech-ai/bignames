@@ -1,0 +1,202 @@
+{
+  "id": "ryan-dahl",
+  "name": "瑞安·达尔",
+  "enName": "Ryan Dahl",
+  "aliases": [
+    "Ryan Dahl"
+  ],
+  "birth": "1981",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "JavaScript",
+    "开源运行时"
+  ],
+  "role": "软件工程师 · Node.js与Deno创建者",
+  "summary": "瑞安·达尔创建Node.js，推动JavaScript在浏览器之外的应用，后来与团队发展Deno及相关工具。2026年10月，Deno团队加入Cloudflare，将开发重点转向Workers相关平台，同时公布Deno运行时维护期与Deno Deploy退出计划。项目成果包含合作者与开源社区贡献，不能把服务器端JavaScript本身的发明归于他。",
+  "coverageNote": "核对至2026年11月17日。出生信息仅采用可核对的1981年，不补写月日；区分团队加入、未来维护结束与托管停服计划，产品安全性不作独立认证。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "创建Node.js与Deno，推动JavaScript在服务器端和现代应用开发中的应用。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "代表项目",
+      "value": "Node.js、Deno；均在后续发展中依赖团队与社区维护。"
+    },
+    {
+      "id": "f2",
+      "label": "2026年方向",
+      "value": "加入Cloudflare，参与推进Workers与workerd的自托管应用。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "扩展JavaScript应用范围",
+      "text": "通过Node.js和Deno推进服务器、命令行工具和应用开发。",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "重新设计运行时工具",
+      "text": "与团队发展权限控制、TypeScript支持和跨运行时软件包工具。",
+      "sourceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-09",
+      "title": "Deno团队加入Cloudflare",
+      "text": "宣布转向共享平台；运行时另维护一年，Deploy计划继续运行六个月后关闭，均不等于当日已停止。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-02-03",
+      "title": "介绍Deno Sandbox",
+      "text": "署名公告介绍运行不可信代码的Linux微虚拟机、网络出口控制及密钥保护；此为产品方说明。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2024-10-09",
+      "title": "共同发布Deno 2",
+      "text": "与合作者发布新版，重点扩展Node.js、npm兼容性及项目管理工具。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2024-03-01",
+      "title": "宣布JSR公开测试",
+      "text": "与Luca Casonato、Kevin Whinnery共同介绍支持TypeScript和ES模块的软件包注册服务。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2020-05-13",
+      "title": "共同发布Deno 1.0",
+      "text": "与Bert Belder、Bartek Iwańczuk共同署名，介绍浏览器外的JavaScript和TypeScript运行时。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2018-06",
+      "title": "公开介绍Deno",
+      "text": "在柏林JSConf EU演讲中介绍Deno，并反思Node.js的设计取舍。",
+      "sourceIds": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2012-01-30",
+      "title": "交接Node.js日常领导职责",
+      "text": "在邮件列表将发布决策交给Isaac Schlueter，表示仍在Joyent任职并提供建议。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2009",
+      "title": "创建Node.js",
+      "text": "开发并公开介绍基于JavaScript的运行时，随后由更广泛的团队和社区继续发展。",
+      "sourceIds": [
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Deno is joining Cloudflare",
+      "publisher": "Deno / Ryan Dahl",
+      "url": "https://deno.com/blog/cloudflare"
+    },
+    {
+      "id": "s2",
+      "title": "Deno is joining Cloudflare",
+      "publisher": "Cloudflare / Kenton Varda and Ryan Dahl",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/"
+    },
+    {
+      "id": "s3",
+      "title": "Introducing Deno Sandbox",
+      "publisher": "Deno / Ryan Dahl",
+      "url": "https://deno.com/blog/introducing-deno-sandbox"
+    },
+    {
+      "id": "s4",
+      "title": "Announcing Deno 2",
+      "publisher": "Deno",
+      "url": "https://deno.com/blog/v2.0"
+    },
+    {
+      "id": "s5",
+      "title": "Introducing JSR — the JavaScript Registry",
+      "publisher": "Deno",
+      "url": "https://deno.com/blog/jsr_open_beta"
+    },
+    {
+      "id": "s6",
+      "title": "Deno 1.0",
+      "publisher": "Deno",
+      "url": "https://deno.com/blog/v1"
+    },
+    {
+      "id": "s7",
+      "title": "Revisionist Engineering: How Deno’s Founder Is Rebuilding the Runtime of the Web",
+      "publisher": "Sequoia Capital",
+      "url": "https://sequoiacap.com/article/deno-spotlight"
+    },
+    {
+      "id": "s8",
+      "title": "New gatekeeper",
+      "publisher": "Ryan Dahl / nodejs mailing list",
+      "url": "https://groups.google.com/g/nodejs/c/hfajgpvGTLY"
+    },
+    {
+      "id": "s9",
+      "title": "Ryan Dahl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ryan_Dahl"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
