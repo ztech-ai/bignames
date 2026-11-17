@@ -1,0 +1,54 @@
+{
+  "id": "anima-anandkumar",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched Caltech faculty profile and interview, named paper authors, company founders and institutional research announcement.",
+  "lifeStatusEvidence": "Caltech announcement on October 28, 2026 identifies her current research participation; August 2026 Reuters interview excerpt and company founders page provide additional positive evidence.",
+  "lifeStatusEvidenceURL": "https://www.caltech.edu/about/news/five-caltech-faculty-selected-by-meta-to-help-solve-open-problems-in-ai",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.bbe.caltech.edu/people/anima-anandkumar",
+      "https://www.caltech.edu/about/news/teaching-machines-how-learn-interview-animashree-anandkumar-80159",
+      "https://www.jmlr.org/papers/v15/anandkumar14b.html",
+      "https://arxiv.org/abs/2010.08895",
+      "https://developer.nvidia.com/blog/nvidia-opening-core-ai-ml-research-lab-in-santa-clara/",
+      "https://acceleratedunderstanding.com/",
+      "https://www.caltech.edu/about/news/five-caltech-faculty-selected-by-meta-to-help-solve-open-problems-in-ai",
+      "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/"
+    ],
+    "accessMethod": "Web search/open; returned source text read on 2026-11-17. Reuters was read through a substantive search-delivered excerpt; direct open was unavailable.",
+    "scope": "Official Caltech sources support education, birthplace, appointments and ongoing 2026 project. Original NVIDIA article supports its November 2018 lab announcement. JMLR and arXiv support team-authored technical work. Official company page and Reuters excerpt support founders and public introduction.",
+    "corrections": [
+      "No reliable birth year established; birthUnknown=true.",
+      "Caltech appointment is 2017 according to institutional sources.",
+      "NVIDIA employment is described as former; the 2018 lab announcement is not represented as her initial hiring date.",
+      "October 2020 is preprint submission, distinguished from later publication.",
+      "2026 research goals are ongoing work, not completed scientific breakthroughs."
+    ],
+    "limits": "Caltech lab homepage and CV could not be read. Reuters direct article unavailable; only returned excerpt used. No use of NVIDIA AI-generated summary as independent evidence. No independent validation of company performance marketing."
+  },
+  "portraitReview": {
+    "status": "download-and-visual-review-pending",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/File:Anima_Anandkumar_speaking_at_AAAS_2026.jpg"
+    ],
+    "rightsEvidence": "Fresh Commons page text names Anima Anandkumar, capture February 14, 2026, author Runawaymo, own work, CC BY-SA 4.0. Text inspected; actual image pixels not viewed.",
+    "unresolved": "Download original, inspect identity and color, and preserve complete attribution before publishing.",
+    "downloadBlocker": "Cloud proxy CONNECT 403 for upload.wikimedia.org remains unresolved.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Chinese and seven non-Chinese versions authored and read field by field, preserving unknown birth year, team credit, former employment and ongoing research status.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-10-28"
+}
