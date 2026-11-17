@@ -1,0 +1,62 @@
+{
+  "id": "meg-whitman",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Margaret Cushing Whitman / Meg Whitman, American former executive and ambassador, matched across SEC-filed company biographies, Senate confirmation and institutional biographies. Birth year 1956 uses Wikipedia identity section.",
+  "lifeStatusEvidence": "September 9, 2026 SEC-filed Albertsons announcement appoints Whitman executive chair and includes her statement. Dated official role evidence, not independently verified personal appearance.",
+  "lifeStatusEvidenceURL": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000054/ex991-pressreleasebod.htm",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000054/ex991-pressreleasebod.htm",
+      "https://www.sec.gov/Archives/edgar/data/1645590/000164559017000006/pressrelease112117.htm",
+      "https://www.nature.org/en-us/about-us/who-we-are/our-people/meg-whitman/",
+      "https://milkeninstitute.org/events/global-conference-2026/speakers/meg-whitman",
+      "https://www.standardmedia.co.ke/national/article/2001506857/kwaherini-wakenya-whitman-bids-farewell-after-two-years",
+      "https://www.sec.gov/Archives/edgar/data/1065088/000129993308000426/exhibit1.htm",
+      "https://www.ebayinc.com/company/our-history/",
+      "https://quibi-hq.medium.com/an-open-letter-from-quibi-8af6b415377f",
+      "https://en.wikipedia.org/wiki/Meg_Whitman",
+      "https://www.dailypress.senate.gov/thursday-july-14-2022/"
+    ],
+    "accessMethod": "Read sources recorded in checkpoint: company releases filed with SEC, corporate history, Senate daily log, Quibi signed open letter, institutional biographies and visible news opening.",
+    "scope": "Identity, education, executive career, nonprofit board return, diplomatic confirmation and tenure, Quibi wind-down and current Albertsons role.",
+    "corrections": [
+      "Birth year follows secondary Wikipedia source; Princeton economics AB class 1977 and Harvard MBA corroborated in Milken speaker biography. Milken explicitly says biographies are supplied by speakers and not independently verified.",
+      "1998 eBay entry year supported by both sources; company history places entry in February while contemporaneous SEC-filed 2008 release says March. Timeline uses year only. Whitman was hired CEO, not founder.",
+      "eBay CEO handover effective March 31, 2008 follows contemporaneous release and corporate history, rather than erroneous November 2008 in some later biographies. Announcement January 23 is separate. Continued board service is not ongoing CEO tenure.",
+      "HP CEO began September 2011. HPE separate company from 2015; its CEO handover effective February 1, 2018 is distinct from November 21, 2017 announcement. Historical HPE board continuation not claimed current.",
+      "Quibi October 21, 2020 signed letter announces wind-down and asset-sale intentions. Do not equate with exact service termination or February 2021 corporate tenure end described by later biography. Founders explanations of failure are not independently proven causes.",
+      "2010 Republican gubernatorial candidacy and loss to Jerry Brown rely on secondary identity biography. No vote totals, exact percentages, spending or current political affiliation claimed.",
+      "Senate July 14, 2022 confirms nomination en bloc by voice vote, not recorded 100-0 vote. Confirmation differs from oath and credentials. Broad 2022–2024 ambassador tenure is supported; exact resignation versus termination day omitted.",
+      "November 22, 2024 farewell story was read only through public opening; no paywall remainder used. Milken says return home December 2024, which need not be diplomatic termination.",
+      "TNC body says previous board service ended January 2020 and new three-year term elected October 2025. Header October 2011–October 2031 conflicts; no uninterrupted tenure or inferred term end included.",
+      "Albertsons September 9, 2026 Executive Chair appointment is not CEO appointment: Susan Morris continues CEO, Kim Fennebresque becomes lead independent director. Historical Stanford HP chair title not treated as current.",
+      "Corporate turnaround praise and inconsistent revenue baselines excluded. Team and organizational contributions retained rather than attributing every result to an individual."
+    ],
+    "limits": "AI authorship and semantic review, not human/native-language certification. Birth year and election summary use secondary source. Exact diplomatic end date and eBay joining month deliberately not asserted."
+  },
+  "portraitReview": {
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked",
+    "visualReview": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Meg_Whitman,_U.S._Ambassador.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Meg_Whitman%2C_U.S._Ambassador.jpg",
+    "rightsEvidence": "Commons identifies U.S. Department of State official-duty portrait, public domain under U.S. federal government rules. Source embassy page linked. Page describes August 1, 2022 photograph, 1572x1972, approximately 421 KB.",
+    "downloadResult": "Direct curl --fail returned HTTP 403. Historical cached file data/research/cache/portraits/e0cdd64ebf1e690552afa913.jpg absent.",
+    "unresolved": "Identity/color/crop await actual image inspection. Historical cached hash is not current-file verification. TNC copyrighted headshot is a different image, not covered by government-image status.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All 32 Chinese fields and seven translations checked for HP/HPE and chair/CEO distinctions, eBay handover and nonfounder identity, voice-vote confirmation, nonprofit service interruption and Quibi wind-down versus employment.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-09-09"
+}

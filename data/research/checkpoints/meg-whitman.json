@@ -1,7 +1,7 @@
 {
   "id": "meg-whitman",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -70,10 +70,8 @@
     }
   ],
   "remainingWork": [
-    "Verify any additional exact diplomatic end/credentials dates used; may retain 2022–2024 tenure without unsupported precision.",
-    "Verify 2010 election outcome through official results if included beyond secondary-source summary.",
-    "Complete Chinese dossier, seven translations and review; ten source records now available.",
-    "Obtain and visually inspect portrait before publication."
+    "Obtain portrait bytes and visually inspect identity/color/crop before publication.",
+    "Optional enrichment: official 2010 election totals and precise diplomatic termination date; current text does not assert these details."
   ],
   "researchLeadsNotYetVerified": [
     "State Department October 23, 2024 ambassador assignments PDF search result lists Margaret C. Whitman oath July 19, 2022; body not yet read.",
@@ -90,5 +88,6 @@
     "downloadResult": "Direct curl --fail returned HTTP 403. Historical cached file data/research/cache/portraits/e0cdd64ebf1e690552afa913.jpg absent.",
     "unresolved": "Identity/color/crop await actual image inspection. Historical cached hash is not current-file verification. TNC copyrighted headshot is a different image, not covered by government-image status.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/meg-whitman"
 }
