@@ -1,0 +1,221 @@
+{
+  "id": "sanjay-ghemawat",
+  "name": "桑杰·盖马瓦特",
+  "enName": "Sanjay Ghemawat",
+  "aliases": [],
+  "birth": "1966",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "分布式系统",
+    "数据基础设施"
+  ],
+  "role": "计算机科学家 · Discovery Loop共同创办人",
+  "summary": "桑杰·盖马瓦特参与Google文件系统、MapReduce、Bigtable和Spanner的研究与实现，长期与Jeff Dean及其他工程师合作。他曾在DEC和Google工作，2026年与Dean、Quoc Le及Oriol Vinyals共同创办Discovery Loop，探索科研与工程实验自动化。",
+  "coverageNote": "核对至2026年11月17日。保留团队贡献，区分论文发表、学位论文提交、奖项届次及公告日期；出生仅确认到年份。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "参与Google文件系统、MapReduce和分布式计算基础设施研究，推动大规模网络服务工程。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "1987年康奈尔学士，1990年MIT硕士，1995年MIT博士。"
+    },
+    {
+      "id": "f2",
+      "label": "研究经历",
+      "value": "曾任DEC系统研究中心研究员，1999年加入Google。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "大规模数据处理",
+      "text": "与Dean共同研究MapReduce，让程序员通过映射与归约表达数据任务，由运行系统协调并行执行。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "分布式存储系统",
+      "text": "与不同团队共同开发文件系统和数据库，将容错、扩展性与一致性要求纳入系统设计。",
+      "sourceIds": [
+        "s3",
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-08-05",
+      "title": "宣布共同创办Discovery Loop",
+      "text": "与Dean、Quoc Le及Oriol Vinyals创办公益目的公司，提出自动化科研实验的目标。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2016",
+      "title": "入选美国文理科学院",
+      "text": "以计算机科学领域贡献当选；该机构2026年11月更新的简介列出Discovery Loop。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2013-03-26",
+      "title": "公布2012年度ACM–Infosys奖",
+      "text": "与Jeff Dean共同获奖，表彰互联网规模的软件基础设施工作。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2012",
+      "title": "共同发表Spanner论文",
+      "text": "与Corbett等作者介绍全球分布式数据库及暴露时钟不确定性的时间接口。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2006-11",
+      "title": "共同发表Bigtable论文",
+      "text": "与Fay Chang、Dean等作者介绍用于大规模结构化数据的分布式存储系统。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2004",
+      "title": "与Dean发表MapReduce论文",
+      "text": "在OSDI介绍编程模型和实现，由运行系统处理任务分配、机器故障及通信。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2003",
+      "title": "共同发表Google文件系统论文",
+      "text": "与Howard Gobioff及Shun-Tak Leung介绍面向大规模数据应用的容错文件系统。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "1995-09-07",
+      "title": "提交MIT博士论文",
+      "text": "研究面向对象数据库的存储管理；导师为Barbara Liskov和Frans Kaashoek。",
+      "sourceIds": [
+        "s9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Announcing Discovery Loop",
+      "publisher": "Discovery Loop / Jeff Dean",
+      "url": "https://www.discoveryloop.com/blog/announcing-discovery-loop/"
+    },
+    {
+      "id": "s2",
+      "title": "The next chapter of our AI momentum",
+      "publisher": "Google / Sundar Pichai and Demis Hassabis",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
+    },
+    {
+      "id": "s3",
+      "title": "The Google File System",
+      "publisher": "Google Research / Ghemawat, Gobioff and Leung",
+      "url": "https://research.google/pubs/the-google-file-system/"
+    },
+    {
+      "id": "s4",
+      "title": "MapReduce: Simplified Data Processing on Large Clusters",
+      "publisher": "Google Research / Dean and Ghemawat",
+      "url": "https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/"
+    },
+    {
+      "id": "s5",
+      "title": "Bigtable: A Distributed Storage System for Structured Data",
+      "publisher": "USENIX / Chang and coauthors",
+      "url": "https://www.usenix.org/conference/osdi-06/bigtable-distributed-storage-system-structured-data"
+    },
+    {
+      "id": "s6",
+      "title": "Spanner: Google’s Globally-Distributed Database",
+      "publisher": "USENIX / Corbett and coauthors",
+      "url": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett"
+    },
+    {
+      "id": "s7",
+      "title": "Sanjay Ghemawat",
+      "publisher": "American Academy of Arts and Sciences",
+      "url": "https://www.amacad.org/person/sanjay-ghemawat"
+    },
+    {
+      "id": "s8",
+      "title": "ACM And Infosys Foundation Honor Google Developers",
+      "publisher": "ACM and Infosys Foundation",
+      "url": "https://www.infosys.com/newsroom/press-releases/documents/2013/infosys-foundation-acm-science-award2012.pdf"
+    },
+    {
+      "id": "s9",
+      "title": "The Modified Object Buffer: A Storage Management Technique for Object-Oriented Databases",
+      "publisher": "MIT / Sanjay Ghemawat",
+      "url": "https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-666.pdf"
+    },
+    {
+      "id": "s10",
+      "title": "Chat with Sanjay Ghemawat: ACM interview",
+      "publisher": "Stephen Ibaraki / ACM interviews",
+      "url": "https://stephenibaraki.com/acm/interviews/v0413/sanjay_ghemawat_acm.html"
+    },
+    {
+      "id": "s11",
+      "title": "The Friendship That Made Google Huge",
+      "publisher": "The New Yorker / James Somers",
+      "url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge"
+    },
+    {
+      "id": "s12",
+      "title": "Sanjay Ghemawat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanjay_Ghemawat"
+    },
+    {
+      "id": "s13",
+      "title": "Bigtable: A Distributed Storage System for Structured Data",
+      "publisher": "Google Research / Chang and coauthors",
+      "url": "https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}

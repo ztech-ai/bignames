@@ -1,0 +1,65 @@
+{
+  "id": "sanjay-ghemawat",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched distributed-systems researcher, MIT thesis author and Discovery Loop cofounder across institutional records. Distinct from management scholar Pankaj Ghemawat. Birth year 1966 supported by New Yorker reporting and Wikipedia; no month/day inferred. US country label corroborated by Wikipedia.",
+  "lifeStatusEvidence": "Discovery Loop August 5, 2026 primary founding announcement identifies him as one of four cofounders; Google confirms the new venture. American Academy of Arts and Sciences biography updated November 2026 lists Discovery Loop. Update is a current affiliation check, not proof of attendance at an event in November.",
+  "lifeStatusEvidenceURL": "https://www.discoveryloop.com/blog/announcing-discovery-loop/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.discoveryloop.com/blog/announcing-discovery-loop/",
+      "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "https://research.google/pubs/the-google-file-system/",
+      "https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/",
+      "https://www.usenix.org/conference/osdi-06/bigtable-distributed-storage-system-structured-data",
+      "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett",
+      "https://www.amacad.org/person/sanjay-ghemawat",
+      "https://www.infosys.com/newsroom/press-releases/documents/2013/infosys-foundation-acm-science-award2012.pdf",
+      "https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-666.pdf",
+      "https://stephenibaraki.com/acm/interviews/v0413/sanjay_ghemawat_acm.html",
+      "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+      "https://en.wikipedia.org/wiki/Sanjay_Ghemawat",
+      "https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/"
+    ],
+    "accessMethod": "Opened Discovery Loop founding post, Google leadership announcement, American Academy biography, ACM/Infosys release PDF, MIT thesis title and abstract pages, Google publication records, USENIX Bigtable/Spanner entries, ACM interview text, New Yorker article and Wikipedia.",
+    "scope": "Identity, birth year, academic qualifications, changing affiliations, collective systems research, historical publication dates and honors.",
+    "corrections": [
+      "Discovery Loop August 5, 2026 announcement names four cofounders: Jeff Dean, Sanjay Ghemawat, Quoc Le and Oriol Vinyals. Dean is CEO; no unsupported CEO role assigned to Ghemawat. Public benefit corporation is not automatically a nonprofit charity. Experimental automation is a stated goal, not proven universal scientific capability.",
+      "Google announcement supports transition to an independent venture and continued investment/cloud partnership. American Academy profile updated November 2026 lists Discovery Loop; stale Google current-role labels in older biographies are not retained.",
+      "MIT thesis first page lists Cornell SB 1987, MIT SM 1990, doctoral submission September 7, 1995, September 1995 thesis, and both Barbara Liskov and M. Frans Kaashoek as supervisors. September 7 is submission, not a separately verified degree-conferral date. Degree completion corroborated by later ACM/Infosys biography.",
+      "ACM interview introduction confirms Google from 1999 and earlier DEC Systems Research Center work. Do not confuse his DEC lab with Dean’s Western Research Laboratory, or adopt generated secondary reports claiming 2000.",
+      "Google File System paper has Ghemawat, Howard Gobioff and Shun-Tak Leung as authors. No sole-inventor attribution; publication 2003 is distinct from development start.",
+      "MapReduce OSDI 2004 has Dean and Ghemawat as coauthors. Later 2008 journal presentation is not the original conference date; programming model and runtime are distinguished from a database.",
+      "Bigtable OSDI 2006 bibliography gives November and nine authors, including Fay Chang. Technical summary checked against Google abstract. Do not equate the paper’s publication with public Cloud Bigtable launch or attribute its creation solely to the two award winners.",
+      "Spanner OSDI 2012 is a large collaborative paper, led in the byline by James C. Corbett; Ghemawat is one coauthor. Time interface exposes clock uncertainty rather than eliminating uncertainty or making all distributed operations instantaneous.",
+      "March 26, 2013 joint announcement recognizes the 2012 ACM–Infosys Foundation Award in the Computing Sciences, later known as the ACM Prize in Computing. Timeline dates the announcement, not award cohort or scheduled June banquet. No claim that it is the Turing Award.",
+      "American Academy of Arts and Sciences election is 2016, distinct from National Academy of Engineering 2009. Updated affiliation in the same page is not retroactively a 2016 Discovery Loop role.",
+      "New Yorker December 3, 2018 article in December 10 issue corroborates 1966 West Lafayette birth. No invented full birthday, unverified Indian birthplace or personal relationship details used."
+    ],
+    "limits": "AI authored and reviewed; no human/native-language certification, independent system benchmark replication or full thesis analysis. Read interview text, not audio."
+  },
+  "portraitReview": {
+    "status": "license-scope-not-confirmed",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://www.facesofopensource.com/sanjay-ghemawat-2/",
+      "https://www.facesofopensource.com/licensing/"
+    ],
+    "rightsEvidence": "Opened 2018 portrait entry and project licensing page. Photographer credit Faces of Open Source / Peter Adams. Page permits CC BY-NC-SA for noncommercial uses, but specifically asks publishers using images in reference publications and editorial users to obtain a commercial license. Applicability to this reference website not established; no unrestricted CC BY/CC0 claim.",
+    "unresolved": "Original research portrait is null. No image downloaded or pixels inspected. Obtain a suitable license or another licensed original, then verify identity, original color and crop. No photographer contact or purchase made.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All 32 Chinese fields and seven translations reviewed for shared authorship, distributed-systems terminology, public benefit corporation, current affiliation, degree dates, award year versus announcement, and thesis submission. Arabic runtime wording corrected to execution environment before validation.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-08-05"
+}
