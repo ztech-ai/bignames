@@ -1,0 +1,210 @@
+{
+  "id": "kent-beck",
+  "name": "肯特·贝克",
+  "enName": "Kent Beck",
+  "aliases": [
+    "Kent Beck"
+  ],
+  "birth": "1961",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "敏捷开发",
+    "自动化测试"
+  ],
+  "role": "软件开发者 · 技术作家",
+  "summary": "肯特·贝克推动极限编程与测试驱动开发，与Erich Gamma共同创建JUnit，也是敏捷宣言的17名共同作者之一。他通过工具和著作传播短反馈周期、测试与代码整理实践，近年继续讨论AI辅助开发中的信任问题。这些方法与项目由多位实践者和社区共同发展。",
+  "coverageNote": "核对至2026年11月17日。区分图书首发与版权年份，不将测试优先思想称为其个人首次发明；共同成果保留合作者。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "推动极限编程、测试驱动开发与敏捷实践，对现代软件团队的工作方法具有广泛影响。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "获俄勒冈大学计算机与信息科学学士、硕士学位。"
+    },
+    {
+      "id": "f2",
+      "label": "代表著作",
+      "value": "Extreme Programming Explained、Test-Driven Development: By Example与Tidy First?。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "开发中的短反馈周期",
+      "text": "通过极限编程和测试驱动开发著作，推广测试、协作和小步改动。",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "共同创建JUnit",
+      "text": "与Erich Gamma合作开发Java单元测试工具，后续由项目社区发展。",
+      "sourceIds": [
+        "s7"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-30",
+      "title": "讨论AI开发中的信任",
+      "text": "发表文章，认为AI加快代码生产后，测试、审查和协作建立的信任仍是重要约束；这是作者观点。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2023-10-17",
+      "title": "Tidy First?首发",
+      "text": "出版社版本记录列此日为第一版首次发布；版权年2024不等于首发年。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2002-11-08",
+      "title": "出版测试驱动开发教材",
+      "text": "Addison-Wesley发布Test-Driven Development: By Example，以实例介绍测试驱动开发。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2001-02",
+      "title": "共同形成敏捷宣言",
+      "text": "2月11日至13日，在犹他州Snowbird参加17人聚会，共同形成软件开发价值宣言。",
+      "sourceIds": [
+        "s6",
+        "s11"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "1999-10-05",
+      "title": "极限编程著作首版出版",
+      "text": "出版社记录Extreme Programming Explained首版在此日出版，系统介绍极限编程。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "1997",
+      "title": "合作开发早期JUnit",
+      "text": "据早期使用者Martin Fowler回忆，与Erich Gamma在赴OOPSLA的航班上结对开发初版；这不是精确的公开发布日。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "1989-10",
+      "title": "共同介绍CRC卡教学",
+      "text": "与Ward Cunningham的OOPSLA论文介绍用类、职责、协作者卡片教授面向对象思考。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "1987-09-17",
+      "title": "共同撰写模式语言报告",
+      "text": "与Ward Cunningham撰写技术报告，将Christopher Alexander的模式语言思想用于面向对象界面设计；日期为报告日期。",
+      "sourceIds": [
+        "s9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Kent Beck",
+      "publisher": "Kent Beck",
+      "url": "https://kentbeck.com/"
+    },
+    {
+      "id": "s2",
+      "title": "Trust Is The Binding Constraint",
+      "publisher": "Kent Beck",
+      "url": "https://newsletter.kentbeck.com/p/trust-is-the-binding-constraint"
+    },
+    {
+      "id": "s3",
+      "title": "Tidy First? copyright and revision history",
+      "publisher": "O’Reilly",
+      "url": "https://www.oreilly.com/library/view/tidy-first/9781098151232/copyright-page01.html"
+    },
+    {
+      "id": "s4",
+      "title": "Test Driven Development: By Example",
+      "publisher": "Addison-Wesley / InformIT",
+      "url": "https://www.informit.com/store/test-driven-development-by-example-9780321146533"
+    },
+    {
+      "id": "s5",
+      "title": "Extreme Programming Explained",
+      "publisher": "Addison-Wesley / InformIT",
+      "url": "https://www.informit.com/store/extreme-programming-explained-embrace-change-9780201616415"
+    },
+    {
+      "id": "s6",
+      "title": "History: The Agile Manifesto",
+      "publisher": "Jim Highsmith",
+      "url": "https://agilemanifesto.org/history.html"
+    },
+    {
+      "id": "s7",
+      "title": "Xunit",
+      "publisher": "Martin Fowler",
+      "url": "https://martinfowler.com/bliki/Xunit.html"
+    },
+    {
+      "id": "s8",
+      "title": "A Laboratory For Teaching Object-Oriented Thinking",
+      "publisher": "Kent Beck / Ward Cunningham",
+      "url": "https://c2.com/doc/oopsla89/paper.html"
+    },
+    {
+      "id": "s9",
+      "title": "Using Pattern Languages for Object-Oriented Programs",
+      "publisher": "Kent Beck / Ward Cunningham",
+      "url": "https://c2.com/doc/oopsla87.html"
+    },
+    {
+      "id": "s10",
+      "title": "Kent Beck",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kent_Beck"
+    },
+    {
+      "id": "s11",
+      "title": "Manifesto for Agile Software Development",
+      "publisher": "Agile Manifesto authors",
+      "url": "https://agilemanifesto.org/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
