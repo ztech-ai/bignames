@@ -1,0 +1,104 @@
+{
+  "id": "nadiem-makarim",
+  "status": "text-review-completed-awaiting-portrait",
+  "publicationReady": false,
+  "checkedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sources": [
+    {
+      "url": "https://www.seameo.org/img/ministers/indonesia.pdf",
+      "publisher": "SEAMEO",
+      "title": "Minister curriculum vitae",
+      "findings": "Born July 4, 1984; Brown international relations BA and Harvard MBA; Gojek CEO 2010–2019; consulting 2006–2009.",
+      "caution": "Historical CV: current minister wording obsolete. Resignation chronology superseded by dated reporting. Award claims not adopted."
+    },
+    {
+      "url": "https://advancement.brown.edu/emails/iave/16September/",
+      "publisher": "Brown University",
+      "title": "September 2016 international alumni newsletter",
+      "findings": "Identifies Nadiem Makarim as class of 2006 and Gojek founder/CEO.",
+      "caution": "Historical role; no current CEO inference."
+    },
+    {
+      "url": "https://www.gotocompany.com/en/products/gojek",
+      "publisher": "GoTo",
+      "title": "Gojek at a glance",
+      "findings": "Company established 2010; app launched January 2015; transport, food delivery and logistics platform.",
+      "caution": "Corporate account; user/driver totals and social-impact claims not independently evaluated."
+    },
+    {
+      "url": "https://www.antaranews.com/berita/1123904/nadiem-makarim-dipanggil-istana-ini-profilnya",
+      "publisher": "ANTARA",
+      "title": "October 21, 2019 profile and Gojek departure",
+      "findings": "Announced departure October 21, 2019; company confirmed new co-CEOs. MBA 2011 after starting 2009.",
+      "caution": "Contains errors: Brown located in England, Gojek founded 2011 and Nikkei prize 2018. These are not adopted; MBA year omitted pending stronger university evidence."
+    },
+    {
+      "url": "https://setkab.go.id/kabinet-indonesia-maju/",
+      "publisher": "Indonesian Cabinet Secretariat",
+      "title": "Indonesia Maju cabinet roster",
+      "findings": "Education and Culture minister October 23, 2019–April 28, 2021; expanded title from April 28, 2021; cabinet term ends October 20, 2024.",
+      "caution": "Historic roster, dashes not current service."
+    },
+    {
+      "url": "https://setneg.go.id/baca/index/presiden_ri_lantik_menteri_investasi_mendikbudristek_dan_kepala_brin",
+      "publisher": "Indonesian State Secretariat",
+      "title": "April 28, 2021 ministerial inauguration",
+      "findings": "Sworn in as Education, Culture, Research and Technology minister for remainder of 2019–2024 term.",
+      "caution": "BRIN leadership belongs to Laksana Tri Handoko, not Makarim."
+    },
+    {
+      "url": "https://merdekabelajar.kemdikbud.go.id/upload/file/156_1642041681.pdf",
+      "publisher": "Indonesian education ministry",
+      "title": "Merdeka Belajar episode one",
+      "findings": "First package launched December 11, 2019: school exams, national assessment, lesson plans and admissions zoning.",
+      "caution": "Retrospective ministry account; policy announcements not proof of learning gains."
+    },
+    {
+      "url": "https://www.antaranews.com/berita/5756589/nadiem-akan-langsung-ajukan-kasasi-usai-hukumannya-diringankan",
+      "publisher": "ANTARA",
+      "title": "September 24, 2026 appeal and response",
+      "findings": "Appeal reduced Chromebook procurement corruption sentence from ten to nine years; Makarim denies wrongdoing and seeks cassation. Reported court appearance September 24.",
+      "caution": "Fine and restitution default imprisonment conditional; not summed into current primary sentence. Court judgment itself not accessed."
+    },
+    {
+      "url": "https://www.antaranews.com/berita/5797025/nadiem-makarim-ajukan-kasasi-minta-putusan-banding-dibatalkan",
+      "publisher": "ANTARA",
+      "title": "October 19, 2026 cassation report",
+      "findings": "Lawyer says memorandum filed October 16, requesting Supreme Court quash appeal ruling and acquit.",
+      "caution": "Defense statement, not court disposition. Photo September 24, not October 19. Caption mislabels restitution as fine; do not adopt. No later Supreme Court result established."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Nadiem_Makarim.jpg",
+      "publisher": "Wikimedia Commons / World Economic Forum",
+      "title": "Nadiem Makarim portrait and licensing",
+      "findings": "September 12, 2018 Hanoi ASEAN forum portrait; World Economic Forum, photo Sikarin Thanachaiary; CC BY-SA 2.0.",
+      "caution": "October 14, 2018 is upload/license review date. License text read; image bytes unavailable, visual identity not reviewed."
+    }
+  ],
+  "remainingWork": [
+    "Retrieve licensed portrait and visually verify identity, color and crop before publication."
+  ],
+  "portraitReview": {
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadiem_Makarim.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nadiem_Makarim.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "World Economic Forum; photo Sikarin Thanachaiary",
+    "visualReview": null,
+    "unresolved": "Expected cache absent; urllib download returned Tunnel connection failed: 403 Forbidden. No image bytes obtained.",
+    "placeholderApproval": "not-received"
+  },
+  "leadsNotUsed": [
+    "HBS course participant blog mentions MBA 2011; not registrar evidence. Degree confirmed by SEAMEO but year omitted.",
+    "Prosecutor June 30 release partial extraction and subsequent 404; primary-charge acquittal must not be mistaken for all-charge acquittal.",
+    "AP initial verdict page inaccessible. CNN October 17 defense report corroborates filing but sums conditional default sentences; do not adopt sum.",
+    "No original Supreme Court decision retrieved; do not assert finality or physical custody."
+  ],
+  "preparedDossier": "data/research/prepared/nadiem-makarim"
+}
