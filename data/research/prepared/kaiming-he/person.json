@@ -1,0 +1,203 @@
+{
+  "id": "kaiming-he",
+  "name": "何恺明",
+  "enName": "Kaiming He",
+  "aliases": [],
+  "birth": "1984",
+  "death": null,
+  "country": "中国 / 美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "asia",
+    "north-america"
+  ],
+  "tags": [
+    "计算机视觉",
+    "残差网络"
+  ],
+  "role": "计算机科学家 · 深度学习研究者",
+  "summary": "何恺明研究计算机视觉和深度学习，曾在微软亚洲研究院和Facebook AI Research工作，现任MIT终身教职副教授，并兼职担任Google DeepMind杰出科学家。他与合作者提出残差学习及Mask R-CNN等方法，推动深层网络训练和图像理解。相关论文与奖项属于团队共同成果。",
+  "coverageNote": "核对至2026年11月17日，选录教育、论文、任职和获奖节点。出生日期仅确认到年份；论文提交、任命生效与颁奖时间分别记录。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "参与提出残差网络并推动计算机视觉研究，对深度神经网络训练和图像理解具有影响。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "出生年份",
+      "value": "1984年；依据清华大学校友报道。"
+    },
+    {
+      "id": "f2",
+      "label": "教育",
+      "value": "清华大学学士（2007年），香港中文大学博士（2011年）。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "深度残差学习",
+      "text": "与张祥雨、任少卿、孙剑提出残差学习框架，改善深层神经网络的训练。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "实例分割",
+      "text": "与Georgia Gkioxari、Piotr Dollár、Ross Girshick提出Mask R-CNN，同时检测物体并预测每个实例的分割掩码。",
+      "sourceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026",
+      "title": "ResNet获时间检验奖",
+      "text": "合著论文获CVPR Longuet-Higgins Prize，表彰其十年来对计算机视觉研究的影响。",
+      "sourceIds": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2025-07-01",
+      "title": "取得MIT终身教职",
+      "text": "终身教职副教授任命生效，区别于2024年入职时的非终身教职。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2024-02-27",
+      "title": "加入MIT任教",
+      "text": "获任电气工程与计算机科学系非终身教职副教授。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2023",
+      "title": "共同获得未来科学大奖",
+      "text": "与孙剑、任少卿、张祥雨共同获得数学与计算机科学奖，获奖工作为深度残差学习。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2017-03-20",
+      "title": "提交Mask R-CNN预印本",
+      "text": "四人团队发表实例分割方法的预印本；此日期是首次提交日期。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2015-12-10",
+      "title": "提交ResNet预印本",
+      "text": "四人团队发布深度残差学习论文，研究更深网络的优化问题。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2011",
+      "title": "获得博士学位",
+      "text": "在香港中文大学取得博士学位，同年加入微软亚洲研究院。",
+      "sourceIds": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2007",
+      "title": "完成本科学业",
+      "text": "在清华大学物理系基础科学班取得学士学位。",
+      "sourceIds": [
+        "s7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Kaiming He — academic homepage",
+      "publisher": "MIT",
+      "url": "https://people.csail.mit.edu/kaiming/"
+    },
+    {
+      "id": "s2",
+      "title": "Department of EECS Announces 2024 Promotions",
+      "publisher": "MIT EECS",
+      "url": "https://www.eecs.mit.edu/department-of-eecs-announces-2024-promotions/"
+    },
+    {
+      "id": "s3",
+      "title": "Department of EECS Announces Promotions",
+      "publisher": "MIT EECS",
+      "url": "https://www.eecs.mit.edu/department-of-eecs-announces-promotions/"
+    },
+    {
+      "id": "s4",
+      "title": "Deep Residual Learning for Image Recognition",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1512.03385"
+    },
+    {
+      "id": "s5",
+      "title": "Mask R-CNN",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1703.06870"
+    },
+    {
+      "id": "s6",
+      "title": "2023 Mathematics and Computer Science Prize — Kaiming He",
+      "publisher": "Future Science Prize",
+      "url": "https://www.futureprize.org/en/laureates/detail/72.html"
+    },
+    {
+      "id": "s7",
+      "title": "清华大学校友柴继杰、何恺明获得2023未来科学大奖",
+      "publisher": "清华大学",
+      "url": "https://www.tsinghua.edu.cn/info/1175/106001.htm"
+    },
+    {
+      "id": "s8",
+      "title": "Computer Vision Awards",
+      "publisher": "Computer Vision Foundation",
+      "url": "https://www.thecvf.com/?page_id=413"
+    },
+    {
+      "id": "s9",
+      "title": "中国科大任少卿教授合著论文ResNet获CVPR2026时间检验奖",
+      "publisher": "中国科学技术大学",
+      "url": "https://fc.ustc.edu.cn/2026/0612/c14587a744333/pagem.htm"
+    },
+    {
+      "id": "s10",
+      "title": "6.7960 Deep Learning, Fall 2026",
+      "publisher": "MIT EECS",
+      "url": "https://deeplearning6-7960.github.io/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}

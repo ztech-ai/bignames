@@ -1,0 +1,56 @@
+{
+  "id": "daniela-amodei",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched Daniela rather than Dario through SEC executive biographies, university alumni coverage, founding announcement and named Stanford event.",
+  "lifeStatusEvidence": "November 10, 2026 S-1/A includes her signed president/co-founder/director entry and current executive biography; university April 2026 report includes her recent interview remarks.",
+  "lifeStatusEvidenceURL": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+      "https://news.ucsc.edu/2026/04/alumna-and-anthropic-co-founder-daniela-amodei-and-civil-rights-activist-dolores-huerta-named-in-times-100-most-influential-people-of-2026/",
+      "https://events.stanford.edu/event/daniela_amodei_entrepreneurial_thought_leader_speaker_series_etl",
+      "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+      "https://www.anthropic.com/news/introducing-claude",
+      "https://en.wikipedia.org/wiki/Daniela_Amodei",
+      "https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/"
+    ],
+    "accessMethod": "Web search/open/find; source text actually read on 2026-11-17. SEC biography, founding chronology and signature sections inspected, not every filing page.",
+    "scope": "SEC supports employment months, seven founders and current board chair role; UCSC confirms 2009 literature BA and politics minor; company announcements establish president role and Claude launch; Stanford supplies recruiting/people-management context. Wikipedia explicitly gives 1987, corroborated by WIRED reporting Dario born in 1983 and Daniela four years later.",
+    "corrections": [
+      "Stanford event says founded in 2020, but SEC specifies January 2021; use SEC corporate chronology, preserving December 2020 OpenAI departure.",
+      "Stanford lists literature, politics and music together; degree-granting university specifies literature BA with politics minor, adopted here.",
+      "SEC gives current board chair role without a start date in inspected biography; no appointment date invented.",
+      "November 10 filing is a registration amendment, not completed IPO, pricing or trading confirmation.",
+      "Claude recorded as company product milestone, not personal technical invention.",
+      "Birth year only; no month/day from astrology or scraped biography sites used."
+    ],
+    "limits": "Stanford GSB direct open returned 403; its search excerpt was not needed as canonical evidence. Direct TIME page returned sponsored reference material, so recognition is sourced to UCSC instead. No reliance on unofficial amodei.co as a personal site. No human/native review."
+  },
+  "portraitReview": {
+    "status": "permission-unresolved",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/Category:Anthropic",
+      "https://events.stanford.edu/event/daniela_amodei_entrepreneurial_thought_leader_speaker_series_etl",
+      "https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/"
+    ],
+    "rightsEvidence": "Commons category and targeted search did not establish a Daniela portrait. Stanford has a named image without verified reuse terms; WIRED credits photographer Amber Hakim but no reusable license established.",
+    "unresolved": "Find a licensed real color portrait and inspect pixels before publication; no placeholder authorization received.",
+    "downloadBlocker": "Managed environment continues to enforce restricted allowlist without Wikimedia hosts.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All eight languages authored and read field by field, preserving partial dates, seven founders, degree/minor distinction, present chair role and incomplete offering status.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-11-10"
+}
