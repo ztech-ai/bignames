@@ -1,7 +1,7 @@
 {
   "id": "noubar-afeyan",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -49,18 +49,39 @@
       "publisher": "Moderna 2026 proxy via SEC",
       "findings": "Page13 continuing independent director since2010,chairman since2012,PhDbiochemicalengineering; chairman distinctCEO Bancel.",
       "caution": "Selected biography portions read, not entire92pages. Term2028 not guarantee future service. Beneficial ownership includes other holdings, not personal directly held shares alone."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1098972/000095013503002018/b45648ane10vk.htm",
+      "publisher": "Antigenics 2002 Form10-K via SEC",
+      "findings": "PerSeptive founded1987; prior chairman/CEO; Flagship early founding1999; Applera position untilAugust1999.",
+      "caution": "Selected biography only. 1999Flagship differs from current2000; omit exact founding year. Until1997CEO wording does not settle merger completion."
+    },
+    {
+      "url": "https://aurorahumanitarian.org/en/prize-about",
+      "publisher": "Aurora Humanitarian Initiative",
+      "findings": "Founded2015 by Vartan Gregorian, Noubar Afeyan and Ruben Vardanyan; Afeyan cofounder/boardchair.",
+      "caution": "Later phase cofounders not original2015 founders; founder not prize recipient; humanitarian impact metrics self-reported."
+    },
+    {
+      "url": "https://massbioportalimages.blob.core.windows.net/massbioportalimages/3978a9240b83ea11a812000d3a378f47/A%20Conversation%20with%20Noubar%20Afeyan.pdf",
+      "publisher": "Gary Pisano interview via MassBio",
+      "findings": "December2019 interview: Armenian family, Beirut birth,1975 migration toCanada and citizenship;1987PerSeptive creation; engineering/science approach.",
+      "caution": "Participant recollection, not citizenship documentation. No exact naturalization day or sole-inventor claim. Selected opening read."
+    },
+    {
+      "url": "https://cheme.mit.edu/michaels-lecture-2004/",
+      "publisher": "MIT Chemical Engineering",
+      "findings": "2004speaker biography gives PerSeptive merger1998 and Applera roleuntilAugust1999; Flagshipcofounding1999.",
+      "caution": "Historical offices not current; merger naming uses laterApplera name; year only used. InaccessibleSEC acquisition text not read."
     }
   ],
   "remainingWork": [
-    "Corroborate early PerSeptive founding and acquisition chronology; optional humanitarian initiative chronology.",
-    "Verify NAE2022 election and2026 award using full original evidence if retained.",
-    "Resolve nationality scope without confusing Armenian ancestry and Beirut birthplace with citizenship.",
-    "Write Chinese dossier and seven translations with semantic review.",
-    "Obtain portrait bytes and visually inspect identity/color/crop."
+    "Obtain portrait bytes and visually inspect identity/color/crop before publication."
   ],
   "leadsNotYetRead": [
     "2026 Simon Ramo Founders Award seen in NAE LinkedIn search and OncoDaily quotation; original announcement/ceremony not read.",
-    "Secondary Moderna2009 founding conflicts with2010 director record; check founding source before timeline claim."
+    "Secondary Moderna2009 founding conflicts with2010 director record; check founding source before timeline claim.",
+    "Perkin-Elmer acquisition SEC text returned404; search-only January22,1998 day not used."
   ],
   "portraitReview": {
     "checkedAt": "2026-11-17",
@@ -73,5 +94,6 @@
     "visualReview": null,
     "unresolved": "Commons page confirms own work, author and CC BY-SA4.0. Cache absent; original fetch failed proxy tunnelHTTP403. Any derivative must preserve attribution/share-alike and indicate changes.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/noubar-afeyan"
 }
