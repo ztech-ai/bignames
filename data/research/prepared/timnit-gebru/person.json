@@ -1,0 +1,220 @@
+{
+  "id": "timnit-gebru",
+  "name": "蒂姆尼特·格布鲁",
+  "enName": "Timnit Gebru",
+  "aliases": [],
+  "birth": "1983",
+  "death": null,
+  "country": "美国（生于埃塞俄比亚）",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "africa",
+    "north-america"
+  ],
+  "tags": [
+    "算法责任",
+    "数据集文档"
+  ],
+  "role": "AI研究者 · DAIR创办人与执行主任",
+  "summary": "蒂姆尼特·格布鲁研究人工智能偏差、数据集及技术的社会影响，创办并领导DAIR，倡导植根社区的独立研究。她曾共同领导Google伦理AI团队，并与Rediet Abebe共同创办Black in AI。其论文与倡议涉及多位合作者，关注谁参与技术开发以及谁承担其影响。",
+  "coverageNote": "核对至2026年11月17日。区分历史模型研究与当前系统、论文初稿与正式发表、奖项公告与典礼；Google离职原因保留双方说法。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "研究人工智能偏差、数据集和技术社会影响，推动独立研究与算法责任问题的公共讨论。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "斯坦福大学电气工程学士、硕士和博士；2017年完成博士，导师为李飞飞。"
+    },
+    {
+      "id": "f2",
+      "label": "研究经历",
+      "value": "曾在Microsoft Research纽约FATE团队做博士后，研究算法偏差及数据研究的伦理问题。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "交叉群体审计",
+      "text": "与Joy Buolamwini共同研究历史商业性别分类器的群体误差差异，并非对所有人脸识别系统的统一结论。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "完善数据集说明",
+      "text": "与合作者提出记录数据来源、组成及建议用途的说明文档。",
+      "sourceIds": [
+        "s2"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-11-03",
+      "title": "参加AFROTECH讨论",
+      "text": "在休斯敦讨论AI的人力成本与数据责任，呼吁关注受影响群体；会后报道确认实际发言日期。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-09-30",
+      "title": "获公布为正确生活奖得主",
+      "text": "主办方表彰其AI责任研究；12月1日颁奖尚在未来，不写成已参加典礼。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2021-12-02",
+      "title": "创办DAIR",
+      "text": "启动独立、跨学科且植根社区的人工智能研究机构。",
+      "sourceIds": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2021-03",
+      "title": "合著随机鹦鹉论文",
+      "text": "与Emily M. Bender、Angelina McMillan-Major、署名Shmargaret Shmitchell的作者共同讨论大型语言模型的成本与数据风险。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2020-12",
+      "title": "离开Google伦理AI团队",
+      "text": "她称遭解雇；Google称接受其辞职。争议涉及论文审查与工作环境，双方对离职性质说法不同。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2018-03-23",
+      "title": "数据集说明书预印本发布",
+      "text": "与六位合作者提出数据文档方案；期刊版发表于2021年。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2018-02",
+      "title": "共同发表Gender Shades",
+      "text": "与Joy Buolamwini评估三个商业性别分类器，发现按肤色和性别分组的错误率差异。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2017",
+      "title": "共同创办Black in AI",
+      "text": "与Rediet Abebe建立会员组织，促进黑人AI从业者参与；非营利资格于2018年完成。",
+      "sourceIds": [
+        "s9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+      "publisher": "PMLR / Joy Buolamwini and Timnit Gebru",
+      "url": "https://proceedings.mlr.press/v81/buolamwini18a.html"
+    },
+    {
+      "id": "s2",
+      "title": "Datasheets for Datasets",
+      "publisher": "arXiv / Timnit Gebru and coauthors",
+      "url": "https://arxiv.org/abs/1803.09010"
+    },
+    {
+      "id": "s3",
+      "title": "The Human Cost Of Smarter Systems at AFROTECH",
+      "publisher": "AfroTech / Samantha Dorisca",
+      "url": "https://afrotech.com/in-ai-era-timnit-gebru-says-not-to-accept-the-devaluing-of-black-people"
+    },
+    {
+      "id": "s4",
+      "title": "Timnit Gebru receives 2026 Right Livelihood Award",
+      "publisher": "Right Livelihood",
+      "url": "https://rightlivelihood.org/news/pioneering-ai-researcher-timnit-gebru-receives-2026-right-livelihood-award-for-challenging-concentrated-power-in-technology/"
+    },
+    {
+      "id": "s5",
+      "title": "Timnit Gebru laureate biography",
+      "publisher": "Right Livelihood",
+      "url": "https://rightlivelihood.org/the-change-makers/find-a-laureate/timnit-gebru/"
+    },
+    {
+      "id": "s6",
+      "title": "Timnit Gebru on Community Rooted Research",
+      "publisher": "Stanford Symbolic Systems",
+      "url": "https://symsys.stanford.edu/events/ssp-distinguished-speaker-timnit-gebru-community-rooted-research"
+    },
+    {
+      "id": "s7",
+      "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
+      "publisher": "ACM FAccT / author paper hosted by UC Davis",
+      "url": "https://www.cs.ucdavis.edu/~koehl/Teaching/ECS088/PDF_files/Gebru_21.pdf"
+    },
+    {
+      "id": "s8",
+      "title": "Top AI ethics researcher says Google fired her; company denies it",
+      "publisher": "Reuters / Paresh Dave and Jeffrey Dastin via Investing.com",
+      "url": "https://www.investing.com/news/technology-news/top-ai-ethics-researcher-says-google-fired-her-company-denies-it-2362453"
+    },
+    {
+      "id": "s9",
+      "title": "We are Black in AI",
+      "publisher": "Black in AI",
+      "url": "https://www.blackinai.org/about"
+    },
+    {
+      "id": "s10",
+      "title": "Timnit Gebru, Diverse Minds",
+      "publisher": "Caltech",
+      "url": "https://diverseminds.caltech.edu/speakers/timnit-gebru"
+    },
+    {
+      "id": "s11",
+      "title": "Computer Vision Lab alumni",
+      "publisher": "Stanford University",
+      "url": "https://www-cs.stanford.edu/groups/vision/people.html"
+    },
+    {
+      "id": "s12",
+      "title": "CDAC Distinguished Speaker Series: Timnit Gebru",
+      "publisher": "University of Chicago",
+      "url": "https://datascience.uchicago.edu/events/cdac-distinguished-speaker-series-timnit-gebru/"
+    },
+    {
+      "id": "s13",
+      "title": "Deep Unlearning: publisher listing",
+      "publisher": "Simon & Schuster",
+      "url": "https://www.simonandschuster.com/books/Deep-Unlearning/Timnit-Gebru/9781668093078"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
