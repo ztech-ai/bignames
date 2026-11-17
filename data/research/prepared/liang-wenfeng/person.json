@@ -1,0 +1,215 @@
+{
+  "id": "liang-wenfeng",
+  "name": "梁文锋",
+  "enName": "Liang Wenfeng",
+  "aliases": [
+    "Wenfeng Liang"
+  ],
+  "birth": "1985",
+  "death": null,
+  "country": "中国",
+  "domains": [
+    "technology",
+    "business"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "asia"
+  ],
+  "tags": [
+    "人工智能",
+    "量化投资"
+  ],
+  "role": "企业家 · DeepSeek创办人",
+  "summary": "梁文锋共同创办幻方量化，并于2023年创办DeepSeek，将量化投资中的计算与机器学习经验延伸到大模型研究。他参与团队技术研究；DeepSeek的开放权重模型与训练效率引发国际讨论，不能将团队成果全部归于个人。",
+  "coverageNote": "核对至2026年11月17日。区分模型发布、论文提交与公司接口更新；成本采用技术报告限定口径，研究目标与已实现能力分开。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "创办DeepSeek并参与人工智能模型研发，推动开放模型、训练效率和全球技术竞争讨论。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "在浙江大学学习电子信息工程，2010年获信息与通信工程硕士学位。"
+    },
+    {
+      "id": "f2",
+      "label": "研究训练",
+      "value": "研究生阶段师从项志宇，研究机器视觉。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "开放模型与团队研究",
+      "text": "DeepSeek发布R1权重及代码供研究和商业使用；蒸馏模型还需注意其基础模型许可。",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "训练效率的成本边界",
+      "text": "V3报告估算正式训练算力成本约557.6万美元，不含先前研究和消融实验，并非公司全部研发支出。",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-11-13",
+      "title": "公司扩展应用接口",
+      "text": "DeepSeek宣布向开发者开放搜索、文件输入、链接读取及语音等应用接口能力。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-07-23",
+      "title": "长期研究取向获报道",
+      "text": "路透社援引第一财经报道其近期投资者会谈：优先长期通用人工智能研究，并倾向继续开放先进模型。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2025-01-20",
+      "title": "团队发布DeepSeek-R1",
+      "text": "发布推理模型及较小的蒸馏模型；技术路线包括强化学习，R1并非完全不使用监督微调。",
+      "sourceIds": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2024-12-26",
+      "title": "团队发布DeepSeek-V3",
+      "text": "官方接口升级为V3；随后提交的技术报告列梁文锋为众多共同作者之一。",
+      "sourceIds": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2023",
+      "title": "创办DeepSeek",
+      "text": "建立人工智能研究公司，早期资金部分来自幻方业务收益。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2015",
+      "title": "共同创办幻方",
+      "text": "与同学共同建立量化投资企业，使用数学与人工智能方法研究交易。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2010",
+      "title": "取得硕士学位",
+      "text": "在浙江大学完成信息与通信工程硕士学习。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2002",
+      "title": "进入浙江大学",
+      "text": "开始学习电子信息工程，后来继续在本校攻读研究生。",
+      "sourceIds": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Change Log",
+      "publisher": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates/"
+    },
+    {
+      "id": "s2",
+      "title": "Founder says DeepSeek prioritises AGI over profit, likely to keep top models open-source, Yicai reports",
+      "publisher": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929?ampMode=1"
+    },
+    {
+      "id": "s3",
+      "title": "DeepSeek-R1 Release",
+      "publisher": "DeepSeek",
+      "url": "https://deepseek.com/en/news/deepseek-r1/"
+    },
+    {
+      "id": "s4",
+      "title": "DeepSeek-V3 Technical Report",
+      "publisher": "DeepSeek-AI and coauthors / arXiv",
+      "url": "https://arxiv.org/abs/2412.19437"
+    },
+    {
+      "id": "s5",
+      "title": "DeepSeek-V3 Technical Report: training cost scope",
+      "publisher": "DeepSeek-AI and coauthors / arXiv",
+      "url": "https://arxiv.org/html/2412.19437v2"
+    },
+    {
+      "id": "s6",
+      "title": "Liang Wenfeng",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/profile/liang-wenfeng/"
+    },
+    {
+      "id": "s7",
+      "title": "梁文锋导师项志宇引关注，个人主页满满都是对团队的祝贺表扬",
+      "publisher": "澎湃新闻 / 岳怀让",
+      "url": "https://m.thepaper.cn/newsDetail_forward_30132149"
+    },
+    {
+      "id": "s8",
+      "title": "DeepSeek-R1 repository: model summary and licenses",
+      "publisher": "DeepSeek-AI / GitHub",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1"
+    },
+    {
+      "id": "s9",
+      "title": "梁文锋素描：我只是不小心成为一条鲇鱼",
+      "publisher": "新民周刊 / 吴雪",
+      "url": "https://paper.xinmin.cn/html/xmzk/2025-02-24/17/38907.html"
+    },
+    {
+      "id": "s10",
+      "title": "Liang Wenfeng",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liang_Wenfeng"
+    },
+    {
+      "id": "s11",
+      "title": "Who is Liang Wenfeng, the founder of DeepSeek?",
+      "publisher": "Reuters / Eduardo Baptista",
+      "url": "https://www.reuters.com/technology/deepseek-founder-liang-wenfeng-puts-focus-chinese-innovation-2025-01-28/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}

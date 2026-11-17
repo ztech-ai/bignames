@@ -1,0 +1,62 @@
+{
+  "id": "liang-wenfeng",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched Liang Wenfeng / Wenfeng Liang / 梁文锋 across DeepSeek-V3 byline, Forbes and Chinese biographical reporting. Birth 1985 corroborated by The Paper, Xinmin and Wikipedia; no full birthday inferred. Chinese citizenship corroborated by Forbes. Avoid same-name employees in unrelated securities filings.",
+  "lifeStatusEvidence": "Reuters July 23, 2026 reports Yicai’s account of Liang speaking at a recent investor meeting. Forbes editorial biography updated November 4, 2026 identifies him as founder. November 13 company API release establishes company activity only, not his physical attendance or personal authorship.",
+  "lifeStatusEvidenceURL": "https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929?ampMode=1",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://api-docs.deepseek.com/updates/",
+      "https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929?ampMode=1",
+      "https://deepseek.com/en/news/deepseek-r1/",
+      "https://arxiv.org/abs/2412.19437",
+      "https://arxiv.org/html/2412.19437v2",
+      "https://www.forbes.com/profile/liang-wenfeng/",
+      "https://m.thepaper.cn/newsDetail_forward_30132149",
+      "https://github.com/deepseek-ai/DeepSeek-R1",
+      "https://paper.xinmin.cn/html/xmzk/2025-02-24/17/38907.html",
+      "https://en.wikipedia.org/wiki/Liang_Wenfeng",
+      "https://www.reuters.com/technology/deepseek-founder-liang-wenfeng-puts-focus-chinese-innovation-2025-01-28/"
+    ],
+    "accessMethod": "Opened official API changelog, R1 release and repository model/license sections; V3 arXiv author/date entry and HTML training-cost paragraph; Forbes current profile; The Paper and Xinmin biographical reports; Wikipedia; Reuters January 2025 profile and July 2026 report syndicated by Investing.com. University department original biography was not retrieved; The Paper explicitly attributes its educational facts to that department.",
+    "scope": "Identity, education, cofounding history, model releases and collaborative authorship, licensing boundaries, training-cost scope and recent reported research priorities.",
+    "corrections": [
+      "The Paper reports electronic information engineering study, 2010 information-and-communication-engineering master’s and machine-vision supervision by Xiang Zhiyu. Do not assign Liang his supervisor’s 2002 doctorate or infer a PhD. Forbes corroborates bachelor/master degree levels. 2002 entry explicitly corroborated by Xinmin and Wikipedia, not merely calculated from age.",
+      "Xinmin February 24, 2025 biography has an internally inconsistent passage associating 2010 with age 30 and High-Flyer founding; that chronology is not adopted. Forbes and Reuters corroborate 2015 cofounding. Xinmin dynamic page masthead showing November 2026 is not article publication date. Its speculative valuations and broad cost comparisons are omitted.",
+      "DeepSeek founding is 2023, distinct from High-Flyer 2015 and earlier quantitative experiments. Sources differ on announcement/incorporation month, so year only. Initial High-Flyer financing does not imply permanent absence of outside investors: current Reuters/Forbes describe 2026 external funding. No disputed current valuation or personal net worth included.",
+      "V3 API release December 26, 2024 precedes first arXiv submission December 27. Wenfeng Liang appears among many authors; no sole invention or sole model-training attribution.",
+      "V3 report paragraph estimates 2.788 million H800 GPU-hours at an assumed US$2 per hour, totaling US$5.576 million for official training including context extension and post-training. It excludes prior research and ablation experiments. This is not total company R&D, acquisition of all hardware or an R1 training-cost audit.",
+      "R1 release January 20, 2025 confirmed by dedicated official release. Changelog has an inconsistent V3 reference under deepseek-reasoner; dedicated release and repository identify it as R1. R1-Zero’s no-preliminary-SFT setup is not the same as R1’s multi-stage SFT/RL pipeline. Models are not trained without data or without human design.",
+      "R1 code and weights licensed MIT according to repository; distilled Qwen/Llama models retain relevant original base-model license considerations. Do not infer disclosure of all training data or apply one blanket permission to every derivative. Released weights are described as open-weight; no independent benchmark replication or universal capability claim.",
+      "July 23, 2026 is Reuters publication date, not a verified exact investor-meeting date. Reuters explicitly cites Yicai and its reported transcript. Preference for open advanced models is not an irrevocable guarantee; AGI is a research objective, not demonstrated achievement. No private meeting transcript directly inspected.",
+      "November 13, 2026 changelog opens application API features including search, file/URL input and voice capabilities. This is a company release, not a personal product demo by Liang. Original R1/V3 are historical milestones, not described as the newest models at cutoff.",
+      "Reuters September 2026 search result discusses prospective UN participation and says Liang did not plan to attend; no claim he addressed the UN Security Council. Future plans, speculative funding figures and unverified chip-inventory claims omitted."
+    ],
+    "limits": "AI authored and reviewed, not human/native-language certified. Read relevant technical report sections, not an independent model evaluation, full legal license opinion, financial audit or private transcript. Educational institutional source available through attributed reporting, not independently opened original."
+  },
+  "portraitReview": {
+    "status": "license-not-confirmed",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://www.forbes.com/profile/liang-wenfeng/",
+      "https://paper.xinmin.cn/html/xmzk/2025-02-24/17/38907.html"
+    ],
+    "rightsEvidence": "Forbes portrait credit is VCG/Getty Images; Xinmin includes news photographs. No reusable portrait license established. Model code licenses do not license photographs of the founder.",
+    "unresolved": "Evidence portrait is null. No image downloaded or pixels inspected. Find suitable licensed original and verify identity, original color and crop before publication.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All 32 Chinese fields and seven translations reviewed for coauthorship, open weights versus blanket open-source claims, base-model licenses, V3 cost boundary and decimal conventions, R1 versus R1-Zero, publication versus event dates and research aims.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-11-13"
+}
