@@ -1,0 +1,217 @@
+{
+  "id": "noam-shazeer",
+  "name": "诺姆·沙泽尔",
+  "enName": "Noam Shazeer",
+  "aliases": [],
+  "birth": null,
+  "birthUnknown": true,
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "语言模型",
+    "条件计算"
+  ],
+  "role": "AI研究者 · Character.AI共同创办人",
+  "summary": "诺姆·沙泽尔参与Transformer、稀疏混合专家及高效解码研究，曾共同领导Google Gemini。他与Daniel De Freitas共同创办Character.AI，后返回Google；2026年宣布转赴OpenAI，个人主页已列出该机构。其创业经历也涉及未成年人安全诉讼与公司破产程序。",
+  "coverageNote": "核对至2026年11月17日。保留共同作者，区分论文提交、任职公告和生效时间；出生年份存在差异，暂不填写。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "参与Transformer及大型神经网络系统研究，推动语言模型效率与对话人工智能应用。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "杜克大学1998届，学习数学与计算机科学。"
+    },
+    {
+      "id": "f2",
+      "label": "早期Google工作",
+      "value": "2000年加入，曾改进搜索拼写纠错系统。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "Transformer共同研究",
+      "text": "与Vaswani等七位作者提出基于注意力的序列模型，最初验证包括机器翻译。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "模型效率研究",
+      "text": "参与稀疏混合专家研究，并提出共享键和值的多查询注意力，以降低解码带宽需求。",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-10-12",
+      "title": "共同创办的公司申请破产保护",
+      "text": "Character.AI进入Chapter 11程序并寻求资产出售；这是公司程序，不是沙泽尔个人破产。",
+      "sourceIds": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-06-17",
+      "title": "宣布转赴OpenAI",
+      "text": "Reuters报道他将离开Google加入OpenAI，但当时未确认具体离职日。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2026-01",
+      "title": "相关诉讼达成原则性和解",
+      "text": "Garcia案涉及公司、共同创办人及Google；报道确认原则性和解，未披露条款，不等同责任裁定。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2024-08",
+      "title": "返回Google并共同领导Gemini",
+      "text": "回归与Character.AI技术授权安排相关；他与Jeff Dean、Oriol Vinyals共同担任技术负责人。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2021",
+      "title": "共同创办Character.AI",
+      "text": "与Daniel De Freitas建立对话AI公司，曾任CEO；创办年份不等同产品公开上线日期。",
+      "sourceIds": [
+        "s9",
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2019-11-06",
+      "title": "提交多查询注意力论文",
+      "text": "以单作者论文提出共享键和值，研究增量解码的速度与质量权衡。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2017-06-12",
+      "title": "提交Transformer论文",
+      "text": "八位作者共同提交Attention Is All You Need，提出不依赖循环或卷积的注意力架构。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2017-01-23",
+      "title": "提交稀疏混合专家论文",
+      "text": "与Mirhoseini、Maziarz、Davis、Le、Hinton和Dean研究按输入选择部分专家的条件计算。",
+      "sourceIds": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Attention Is All You Need",
+      "publisher": "Vaswani, Shazeer and coauthors / arXiv",
+      "url": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "id": "s2",
+      "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+      "publisher": "Shazeer and coauthors / arXiv",
+      "url": "https://arxiv.org/abs/1701.06538"
+    },
+    {
+      "id": "s3",
+      "title": "Fast Transformer Decoding: One Write-Head is All You Need",
+      "publisher": "Noam Shazeer / arXiv",
+      "url": "https://arxiv.org/abs/1911.02150"
+    },
+    {
+      "id": "s4",
+      "title": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
+      "publisher": "Reuters / WSAU",
+      "url": "https://wsau.com/2026/10/12/character-ai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million/"
+    },
+    {
+      "id": "s5",
+      "title": "Attorney General Nessel Seeks Consumer Protections in Character.AI Bankruptcy",
+      "publisher": "Michigan Department of Attorney General",
+      "url": "https://www.michigan.gov/ag/news/press-releases/2026/10/15/attorney-general-nessel-seeks-consumer-protections-in-character-ai-bankruptcy"
+    },
+    {
+      "id": "s6",
+      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+      "publisher": "Reuters / CNA",
+      "url": "https://www.channelnewsasia.com/business/google-gemini-co-lead-noam-shazeer-join-ipo-bound-openai-6191756"
+    },
+    {
+      "id": "s7",
+      "title": "Teen’s Mom Settles with Google and AI Company After Teen Son’s Suicide",
+      "publisher": "PEOPLE / Sam Gillette",
+      "url": "https://people.com/teens-mom-settles-with-google-and-ai-company-after-claiming-his-suicide-was-fueled-by-love-of-chatbot-11881597"
+    },
+    {
+      "id": "s8",
+      "title": "Google appoints former Character.AI founder as co-lead of its AI models",
+      "publisher": "Reuters / Kenrick Cai",
+      "url": "https://www.reuters.com/technology/google-appoints-former-characterai-founder-co-lead-its-ai-models-2024-08-23/"
+    },
+    {
+      "id": "s9",
+      "title": "Noam Shazeer: biography",
+      "publisher": "Noam Shazeer",
+      "url": "https://www.noamshazeer.com/"
+    },
+    {
+      "id": "s10",
+      "title": "2024 C&C Prize: Transformer Team biographies",
+      "publisher": "NEC C&C Foundation",
+      "url": "https://www.nec.com/en/press/202410/images/1501-01-02.pdf"
+    },
+    {
+      "id": "s11",
+      "title": "Duke Math News, April 1998",
+      "publisher": "Duke University Mathematics Department",
+      "url": "https://sites.math.duke.edu/math_news/April98/April98.html"
+    },
+    {
+      "id": "s12",
+      "title": "Noam Shazeer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noam_Shazeer"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
