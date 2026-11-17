@@ -1,7 +1,7 @@
 {
   "id": "tristan-harris",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -55,17 +55,37 @@
       "publisher": "CHT",
       "findings": "July 2, 2026 episode 137 with Harris and Raskin discussing Vatican visit and AI governance.",
       "caution": "Public description only; meeting timing not episode date. Page corrections to historical claims must not be copied as original errors. Vatican corroboration needed if retaining meeting."
+    },
+    {
+      "url": "https://docs.house.gov/meetings/IF/IF17/20200108/110351/HHRG-116-IF17-Bio-HarrisT-20200108.pdf",
+      "publisher": "US House witness biography",
+      "findings": "Stanford computer science degree; Apture cofounder/CEO acquired by Google in 2011; 2013 presentation; 2016 departure stated.",
+      "caution": "Supplied witness biography, not congressional independent certification. Departure year conflicts with December 2015 in secondary biography; omit precise date."
+    },
+    {
+      "url": "https://www.inc.com/30under30/2009/profile_apture.html",
+      "publisher": "Inc.",
+      "findings": "October 2009 profile identifies Harris, Can Sar and Jesse Young; July 2007 company formation with Harris CEO.",
+      "caution": "Age25 supports 1983/1984 range, not exact year. Graduate enrollment not completed masters."
+    },
+    {
+      "url": "https://www.mediapost.com/publications/article/162196/google-buys-search-expert-apture.html",
+      "publisher": "MediaPost",
+      "findings": "November 10, 2011 report quotes Apture acquisition announcement; staff to join Chrome team; terms undisclosed.",
+      "caution": "Do not infer acquisition price or individual payout. Page title November11 differs from article byline November10; timeline month precision."
+    },
+    {
+      "url": "https://stvp.stanford.edu/av/making-technology-less-manipulative-entire-talk",
+      "publisher": "Stanford Technology Ventures Program",
+      "findings": "November 3, 2017 published talk describes Harris as Time Well Spent cofounder.",
+      "caution": "Public synopsis read, not full video or transcript; publication not exact recording date."
     }
   ],
   "remainingWork": [
-    "Corroborate Apture founding/acquisition and early Google chronology.",
-    "Handle uncertain birth year explicitly in supported schema.",
-    "Write Chinese dossier and seven translations, with semantic review.",
-    "Obtain portrait bytes and visually inspect identity/color/crop."
+    "Obtain portrait bytes and visually inspect identity/color/crop before publication."
   ],
   "leadsNotYetRead": [
-    "Congress January 2020 witness bio PDF failed restricted URL fetch.",
-    "Stanford 2010 eCorner transcript PDF returned 403; search excerpt alone not full read."
+    "Stanford 2010 eCorner transcript PDF returned403; not used as full source."
   ],
   "portraitReview": {
     "checkedAt": "2026-11-17",
@@ -78,5 +98,6 @@
     "visualReview": null,
     "unresolved": "Commons source page read and credit/license confirmed. Cache absent. Original image retrieval failed with proxy tunnel HTTP 403. Cropped derivative requires change indication.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/tristan-harris"
 }
