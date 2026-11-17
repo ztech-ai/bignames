@@ -1,0 +1,102 @@
+{
+  "id": "carl-icahn",
+  "status": "text-review-completed-awaiting-portrait",
+  "publicationReady": false,
+  "checkedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sources": [
+    {
+      "url": "https://carlicahn.com/about/",
+      "publisher": "Carl Icahn",
+      "title": "Personal biography",
+      "findings": "1957 philosophy degree; 1961 Wall Street career; 1968 Icahn & Co.; substantial company positions from 1978.",
+      "caution": "Historical career only. Current holdings list is stale; promotional success claims not adopted."
+    },
+    {
+      "url": "https://lsi.princeton.edu/about/founding-donors",
+      "publisher": "Princeton Lewis-Sigler Institute",
+      "title": "Founding donors",
+      "findings": "Class of 1957, philosophy thesis prize, medical school attendance then finance.",
+      "caution": "Medical attendance is not a medical degree; no current academic appointment."
+    },
+    {
+      "url": "https://www.princeton.edu/news/1999/12/10/icahn-foundation-gives-20-million-genomics-lab",
+      "publisher": "Princeton University",
+      "title": "Icahn Foundation Gives $20 Million for Genomics Lab",
+      "findings": "December 10, 1999 announcement of foundation gift for laboratory construction.",
+      "caution": "Foundation gift, not personal scientific discovery or completed building opening."
+    },
+    {
+      "url": "https://www.mountsinai.org/about/newsroom/2012/mount-sinai-school-of-medicine-to-be-named-in-honor-of-carl-icahn",
+      "publisher": "Mount Sinai",
+      "title": "School naming announcement",
+      "findings": "November 15, 2012 release: nearly $200 million lifetime giving; agreement November 13; board approval September 24.",
+      "caution": "Cumulative support not a new single $200 million donation; not a medical qualification."
+    },
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-99",
+      "publisher": "US Securities and Exchange Commission",
+      "title": "August 19, 2024 disclosure settlement",
+      "findings": "Personal securities pledges not adequately disclosed; IEP $1.5 million and Carl $500,000 civil penalties; neither admits nor denies findings.",
+      "caution": "Civil administrative disclosure settlement, not criminal conviction, acquittal or proof of all short-seller allegations."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/813762/000110465926019821/tmb-20251231x10k.htm",
+      "publisher": "Icahn Enterprises / SEC EDGAR",
+      "title": "2025 annual report",
+      "findings": "GP chairman since 1990; Icahn Capital CEO since August 2007; annual report age 90 in February 2026.",
+      "caution": "Annual-report CEO Andrew Teno superseded by May 2026 announcement; former subsidiary positions not current."
+    },
+    {
+      "url": "https://www.ielp.com/node/17371",
+      "publisher": "Icahn Enterprises",
+      "title": "May 6, 2026 management changes",
+      "findings": "Ted Papapostolou promoted to president and CEO effective May 6.",
+      "caution": "Initial text read through line 12; later fetch returned 403. Do not infer Carl was outgoing company CEO."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/813762/000110465926122308/tmb-20260930x10q.htm",
+      "publisher": "Icahn Enterprises / SEC EDGAR",
+      "title": "September 30, 2026 quarterly report",
+      "findings": "Carl remains controlling owner; approximately 87% of depositary units with affiliates; Brett succession remains anticipated after agreement term or earlier at Carl discretion.",
+      "caution": "Reporting date differs from filing; no accomplished succession. Estate planning is hypothetical, not a death report."
+    },
+    {
+      "url": "https://ielp.gcs-web.com/news-releases/news-release-details/icahn-enterprises-lp-nasdaq-iep-today-announced-its-third-2",
+      "publisher": "Icahn Enterprises",
+      "title": "November 3, 2026 third-quarter results",
+      "findings": "Q3 net loss attributable to IEP $225 million; $522 million refining hedge losses included.",
+      "caution": "Company result not personal loss; do not mix indicative NAV, EBITDA and GAAP net income or call announced acquisition closed."
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/2006/03/20/the-raid",
+      "publisher": "The New Yorker",
+      "title": "The Raid, March 13, 2006",
+      "findings": "Born Brooklyn 1936; grew up Queens; activist disputes with Time Warner management.",
+      "caution": "Use birth year and brief context only. Historical journalism not current status or universal investment success evidence."
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Icahn,_1980s.jpg",
+      "publisher": "Wikimedia Commons",
+      "title": "Carl Icahn, 1980s portrait candidate",
+      "findings": "Caption identifies historical conference portrait; AviateHistory credit, CC0 declaration.",
+      "caution": "2021 file date is not established capture date. Original provenance and original color need checking; image unavailable for visual inspection."
+    }
+  ],
+  "remainingWork": [
+    "Obtain portrait bytes, verify identity, original color and provenance before publication."
+  ],
+  "portraitReview": {
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked-awaiting-visual-review",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Icahn,_1980s.jpg",
+    "visualReview": null,
+    "unresolved": "Old cache absent. urllib request to original image failed with tunnel 403. Commons declares CC0 and AviateHistory credit, but provenance, image identity and color have not been visually verified.",
+    "placeholderApproval": "not-received"
+  },
+  "preparedDossier": "data/research/prepared/carl-icahn"
+}
