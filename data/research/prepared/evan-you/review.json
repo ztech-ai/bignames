@@ -1,0 +1,55 @@
+{
+  "id": "evan-you",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Personal homepage explicitly connects Evan You and 尤雨溪 with Vue.js, Vite and VoidZero.",
+  "lifeStatusEvidence": "November 5, 2026 VoidZero post retrospectively lists his completed ViteConf talk; personal homepage confirms current work and residence. Read written recap, not video.",
+  "lifeStatusEvidenceURL": "https://voidzero.dev/posts/whats-new-oct-2026",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://evanyou.me/",
+      "https://github.com/readme/stories/evan-you",
+      "https://blog.vuejs.org/posts/vue-3-one-piece",
+      "https://vite.dev/blog/announcing-vite2",
+      "https://voidzero.dev/posts/announcing-voidzero-inc",
+      "https://voidzero.dev/posts/voidzero-cloudflare",
+      "https://voidzero.dev/posts/whats-new-oct-2026",
+      "https://gitnation.com/contents/10-years-of-independent-oss-a-retrospective"
+    ],
+    "accessMethod": "Web search, open and find; substantive returned text inspected on 2026-11-17.",
+    "scope": "Personal homepage, first-person GitHub profile, Vue/Vite releases, VoidZero announcements and conference transcript establish identity, chronology and collective credit.",
+    "corrections": [
+      "VoidZero start in 2023 comes from 2026 retrospective; October 1, 2024 is the public company/funding announcement.",
+      "Vite 2.0 is the first stable release, not the project origin.",
+      "February 2014 is public Vue launch; earlier code existed.",
+      "November 5, 2026 is recap publication, not asserted talk date.",
+      "Residence is Singapore; citizenship and birth date are not inferred.",
+      "GitNation transcript contains an apparent default-version year error; that claim is excluded and Vue release date is checked against original release post."
+    ],
+    "limits": "Mostly first-party material. No independent performance testing, acquisition financial analysis, human review or native-language certification. Birth date remains unknown."
+  },
+  "portraitReview": {
+    "status": "licensed-portrait-unresolved",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://github.com/readme/stories/evan-you"
+    ],
+    "rightsEvidence": "GitHub profile includes named photographs but no inspected reusable portrait license. Commons-targeted search did not produce a suitable candidate; existing research portrait is null.",
+    "unresolved": "Locate reuse permission, obtain original color image and visually confirm identity.",
+    "downloadBlocker": "Previously established Wikimedia access restriction remains unresolved; no bypass attempted. No licensed candidate established for this person.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Eight versions authored and semantically read field by field, preserving founding versus announcement, first stable version, recap date, unknown birth date, residence versus nationality and team credit. Arabic grammar corrected during review.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-11-05"
+}

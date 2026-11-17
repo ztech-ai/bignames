@@ -1,0 +1,197 @@
+{
+  "id": "evan-you",
+  "name": "尤雨溪",
+  "enName": "Evan You",
+  "aliases": [
+    "Evan You"
+  ],
+  "birth": null,
+  "birthUnknown": true,
+  "death": null,
+  "country": "新加坡（现居）",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "asia",
+    "north-america"
+  ],
+  "tags": [
+    "开源软件",
+    "前端工具"
+  ],
+  "role": "软件开发者 · Vue.js与Vite创建者",
+  "summary": "尤雨溪创建Vue.js和Vite，与开源社区共同发展网页应用框架及构建工具。2016年转为全职开源维护者，后来创办VoidZero，组织团队开发JavaScript工具链。2026年VoidZero加入Cloudflare；其个人主页确认公司被收购。项目成果包含团队与社区贡献，不应全部归为个人独立开发。",
+  "coverageNote": "核对至2026年11月17日。出生日期未可靠确认；现居地不代表国籍。区分公司创办与公开公告、版本发布与项目起源；11月记录为会后回顾发布日期。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "创建Vue.js与Vite，推动开放前端框架和开发工具在全球网页应用工程中的使用。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "代表项目",
+      "value": "Vue.js网页应用框架、Vite前端构建工具。"
+    },
+    {
+      "id": "f2",
+      "label": "现居地",
+      "value": "新加坡，依据本人主页；不据此推断国籍。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "发展Vue生态",
+      "text": "创建Vue，并与维护者和贡献者共同发展框架及社区。",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "推进前端工具链",
+      "text": "创建Vite并创办VoidZero，组织团队建设可支持不同框架的工具。",
+      "sourceIds": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-11-05",
+      "title": "会后回顾收录演讲",
+      "text": "VoidZero回顾文章列出他在ViteConf关于智能体时代开发工具的演讲；此日期是文章发布日期。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-06-04",
+      "title": "VoidZero宣布加入Cloudflare",
+      "text": "公告表示他与团队继续领导相关开源项目；本人主页确认公司于2026年被收购。",
+      "sourceIds": [
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2024-10-01",
+      "title": "公开介绍VoidZero",
+      "text": "宣布公司及460万美元种子融资，目标是统一JavaScript开发工具链；这不是创办日期。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2023",
+      "title": "开始创办VoidZero",
+      "text": "他在2026年回顾中将公司起点追溯至2023年，以专职团队推进工具链开发。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2021-02-16",
+      "title": "Vite 2.0正式发布",
+      "text": "项目发布首个稳定版，采用不依赖特定框架的核心与插件支持。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2020-09-18",
+      "title": "宣布Vue 3.0发布",
+      "text": "署名公告介绍新版框架，并明确感谢团队、贡献者和社区的共同工作。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2016-02",
+      "title": "转为全职维护者",
+      "text": "据本人在GitHub的回顾，开始全职维护Vue，社区资助支持项目发展。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2014-02",
+      "title": "向公众推出Vue",
+      "text": "在后来的演讲中将公开推出Vue追溯至这个月；此前已存在早期代码。",
+      "sourceIds": [
+        "s8"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Evan You",
+      "publisher": "Evan You",
+      "url": "https://evanyou.me/"
+    },
+    {
+      "id": "s2",
+      "title": "Starting with an idea and building a community",
+      "publisher": "GitHub ReadME",
+      "url": "https://github.com/readme/stories/evan-you"
+    },
+    {
+      "id": "s3",
+      "title": "Announcing Vue 3.0 One Piece",
+      "publisher": "Vue",
+      "url": "https://blog.vuejs.org/posts/vue-3-one-piece"
+    },
+    {
+      "id": "s4",
+      "title": "Announcing Vite 2.0",
+      "publisher": "Vite",
+      "url": "https://vite.dev/blog/announcing-vite2"
+    },
+    {
+      "id": "s5",
+      "title": "Announcing VoidZero",
+      "publisher": "VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-voidzero-inc"
+    },
+    {
+      "id": "s6",
+      "title": "VoidZero is Joining Cloudflare",
+      "publisher": "VoidZero",
+      "url": "https://voidzero.dev/posts/voidzero-cloudflare"
+    },
+    {
+      "id": "s7",
+      "title": "Tales from the Void: October 2026 Recap",
+      "publisher": "VoidZero",
+      "url": "https://voidzero.dev/posts/whats-new-oct-2026"
+    },
+    {
+      "id": "s8",
+      "title": "10 Years of Independent OSS: A Retrospective",
+      "publisher": "GitNation",
+      "url": "https://gitnation.com/contents/10-years-of-independent-oss-a-retrospective"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
