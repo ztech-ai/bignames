@@ -1,7 +1,7 @@
 {
   "id": "mikko-hypponen",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -49,12 +49,28 @@
       "publisher": "Mikko Hypponen website",
       "findings": "Links PR photographs to Flickr album. Homepage also contains incongruous therapy template copy.",
       "caution": "Do not turn template filler into biography or service claims; individual photo license must be checked, not blanket Creative Commons statement."
+    },
+    {
+      "url": "https://www.ted.com/talks/mikko_hypponen_how_the_nsa_betrayed_the_world_s_trust_time_to_act",
+      "publisher": "TED",
+      "findings": "Official TED metadata dates NSA surveillance talk to TEDxBrussels October 2013; description presents his viewpoint.",
+      "caution": "Historical or attributed self-report; do not infer current office or independently verified completion from a plan."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/hypponen_some-personal-news-from-me-back-in-1991-activity-7335645210846072833-cH8q",
+      "publisher": "Mikko Hypponen / LinkedIn",
+      "findings": "Public personal announcement states 1991 Data Fellows joining during computer-science studies for virus reverse engineering; planned last WithSecure day August 12.",
+      "caution": "Historical or attributed self-report; do not infer current office or independently verified completion from a plan."
+    },
+    {
+      "url": "https://thecyberwire.com/podcasts/8th-layer-insights/23/transcript",
+      "publisher": "CyberWire",
+      "findings": "2022 episode transcript confirms then-current dual research roles and recollection of first company website in 1994.",
+      "caution": "Historical or attributed self-report; do not infer current office or independently verified completion from a plan."
     }
   ],
   "remainingWork": [
-    "Verify additional historical milestones for substantive timeline, including early employment and research; no inference of sole discovery from public speaking.",
-    "Write and review Chinese profile plus seven translations; checkpoint excluded from completed counts.",
-    "Obtain and visually inspect licensed portrait; official Flickr candidate also returned 403 via web fetch."
+    "Obtain licensed portrait bytes, visually review identity/color/crop and record attribution before publication."
   ],
   "portraitReview": {
     "status": "download-blocked",
@@ -67,5 +83,6 @@
     "downloadResult": "Web image fetch returned HTTP 403; image bytes and visual identity/color/crop not inspected.",
     "unresolved": "Alternative to old Commons 2021 crop, not assumed identical. Current candidate license differs from old Commons derivative CC BY-SA 4.0. No license transfer between images.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/mikko-hypponen"
 }
