@@ -1,0 +1,87 @@
+{
+  "id": "michael-widenius",
+  "researchedAt": "2026-11-17",
+  "status": "research-in-progress",
+  "publicationReady": false,
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "sourcesRead": [
+    {
+      "url": "https://mariadb.com/about-us/leadership/",
+      "publisher": "MariaDB",
+      "findings": "Current biography identifies cofounder and CTO, former MySQL AB CTO, TCX founder, 2003 Finnish Software Entrepreneur award and Helsinki University of Technology study.",
+      "caution": "Studied does not establish a completed degree; corporate CTO is separate from foundation governance."
+    },
+    {
+      "url": "https://mariadb.org/about/",
+      "publisher": "MariaDB Foundation",
+      "findings": "Current board lists Michael Monty Widenius ex officio as Founder. Biography confirms company CTO and foundation founder/director. Anna Widenius is CEO and Kaj Arno executive chairman.",
+      "caution": "Do not confuse similarly named Anna Widenius with Michael, or company and foundation offices. Do not transfer Kaj Arno education to Widenius."
+    },
+    {
+      "url": "https://mariadb.org/bodminutes/2026-06-24/",
+      "publisher": "MariaDB Foundation",
+      "findings": "June 24, 2026 minutes list Widenius among absent board members as ex-officio Founder.",
+      "caution": "Evidence of board membership, NOT attendance or a personal appearance."
+    },
+    {
+      "url": "https://www.vshn.ch/en/blog/a-day-with-open-source-legends-technical-roadshow-mariadb-vshn-with-michael-monty-widenius-anders-karlsson/",
+      "publisher": "VSHN",
+      "findings": "October 28, 2026 recap describes Widenius speaking at October 19 Zurich technical roadshow about MySQL and MariaDB history.",
+      "caution": "Event date differs from publication date. Host is a commercial partner; benchmark and marketing claims are not independently tested."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Widenius",
+      "publisher": "Wikipedia contributors",
+      "findings": "Identity: Ulf Michael Widenius, known as Monty, Finnish programmer, born March 3, 1962 in Helsinki. Describes TCX with Allan Larsson in 1985 and Sun departure announced February 5, 2009.",
+      "caution": "Secondary birth source. Body says MySQL release 1996 and Sun sale January 2008; resolve chronology against original sources before inclusion. January acquisition announcement differs from February close."
+    },
+    {
+      "url": "https://blog.mariadb.org/mariadb-foundation-to-safeguard-leading-open-source-database/",
+      "publisher": "MariaDB Foundation",
+      "findings": "December 4, 2012 original announcement names Widenius, David Axmark and Allan Larsson. Interim CTO Widenius; board elections planned February 2013.",
+      "caution": "Announcement describes application for US 501(c)(3) status, not confirmed approval. Preserve shared founding and distinguish foundation from commercial company."
+    },
+    {
+      "url": "https://www.oracle.com/technetwork/community/oracle-ace/mysqlquestions-161804.pdf",
+      "publisher": "Ronald Bradford / hosted by Oracle",
+      "findings": "2010 Oracle ACE briefing slides date Sun announcement January 16, 2008, completed acquisition February 26, 2008 and Oracle acquisition of Sun January 27, 2010.",
+      "caution": "Author explicitly disclaims employer representation; Oracle hosting does not make slides a corporate press release. Slides date MySQL AB founding 1994 and first internal release May 23, 1995; chronology needs cross-check."
+    },
+    {
+      "url": "https://mariadb.com/resources/blog/celebrating-15-years-of-mariadb-server/",
+      "publisher": "Michael Monty Widenius / MariaDB",
+      "findings": "October 30, 2024 retrospective dates MariaDB project start April 20, 2009 and first release 5.1.38 October 29, 2009. Explicitly credits team effort.",
+      "caution": "Author retrospective, not independent history. First release is not necessarily GA; do not claim all current versions universally interchangeable with MySQL."
+    }
+  ],
+  "remainingWork": [
+    "Resolve MySQL founding and first-release chronology using original records; verify any additional historical timeline dates used.",
+    "Write Chinese profile, seven translations and full review; do not count checkpoint as prepared text.",
+    "Obtain licensed portrait bytes for visual identity, color and crop review."
+  ],
+  "failedSources": [
+    {
+      "url": "https://monty-says.blogspot.com/2024/10/celebrating-15-years-of-mariadb.html",
+      "result": "Fetch redirected to Google sorry page; used author repost on MariaDB company website instead."
+    },
+    {
+      "url": "https://www.mysql.com/news-and-events/events/mysql-30th/mysql_30_year_timeline_poster.pdf",
+      "result": "No readable text; screenshot failed. Poster contents not treated as reviewed."
+    }
+  ],
+  "portraitReview": {
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked",
+    "visualReview": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg",
+    "rightsEvidence": "Commons self-published photo by SofiaEk, CC BY-SA 4.0. Attribution, license link, modification disclosure and same/compatible license for adapted image required. 1698x2546, current page approximately 2.53 MB.",
+    "dateCaution": "Photo date February 23, 2019; March 5 is upload/edit metadata.",
+    "downloadResult": "Direct curl --fail returned HTTP 403 on November 17. Historical cached file data/research/cache/portraits/7924417e78997e19f44b00e6.jpg absent; historical hash is not present-file verification.",
+    "unresolved": "Identity, color and crop need visual inspection. Metadata color space alone does not establish color photograph.",
+    "placeholderApproval": "not-received"
+  }
+}
