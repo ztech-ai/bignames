@@ -3,13 +3,16 @@
   "researchedAt": "2026-11-17",
   "status": "research-in-progress",
   "publicationReady": false,
-  "reviewer": {"kind": "ai", "name": "OpenAI Codex"},
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
   "sourcesRead": [
     {
       "url": "https://corporate.walmart.com/about/board-of-directors/marissa-mayer",
       "publisher": "Walmart",
       "findings": "Current biography names Dazzle AI founder/CEO; Sunshine tenure 2018–2025 ended with acquisition by Dazzle. Yahoo president/CEO/board July 2012–June 2017. Stanford symbolic systems bachelor and computer science master. Walmart board since 2012; AT&T since March 2024, Hilton May 2025, Starbucks June 2025; Nextdoor May 2024–June 2025.",
-      "caution": "Page still describes Dazzle as stealth; November 2026 interview discusses actual product use. Do not retain stale stealth label without further launch verification. Board membership does not imply operating executive role at these companies."
+      "caution": "Walmart still calls Dazzle stealth, superseded by official September 29, 2026 launch post. Board membership does not imply operating executive role at these companies."
     },
     {
       "url": "https://engineering.stanford.edu/news/marissa-mayer-named-ceo-yahoo",
@@ -23,12 +26,37 @@
       "publishedAt": "2026-11-02",
       "findings": "Direct interview with Mayer about Dazzle and AI assistance provides dated recent activity evidence. She says product is for everyone, discusses photo-based personalization and routine task assistance, and responds to concerns about parenting and emotional labor.",
       "caution": "Product capabilities are interviewee claims, not independently tested performance. Do not describe product as exclusively for women. Transcript warns audio is authoritative; audio not audited."
+    },
+    {
+      "url": "https://dazzle.ai/about/",
+      "publisher": "Dazzle",
+      "findings": "Official company page identifies Marissa Mayer as founder and describes a personal AI agent using photo context.",
+      "caution": "Company product descriptions are not independently tested capability claims."
+    },
+    {
+      "url": "https://dazzle.ai/blog/",
+      "publisher": "Dazzle",
+      "publishedAt": "2026-09-29",
+      "findings": "Launch post dated September 29, 2026 and signed Marissa Mayer announces Dazzle and App Store availability. An October 11 post is also signed by Mayer.",
+      "caution": "Supersedes stale stealth description on Walmart biography. Launch date is distinct from 2025 company formation and Sunshine transaction. Do not reproduce promotional accuracy claims as tested fact."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/verizon-completes-yahoo-acquisition-creating-a-diverse-house-of-50-brands-under-new-oath-subsidiary-300472958.html",
+      "publisher": "Verizon / PR Newswire",
+      "publishedAt": "2017-06-13",
+      "findings": "Verizon original release confirms completion of acquisition of Yahoo operating business, combination with AOL assets into Oath, Tim Armstrong as Oath CEO and Mayer choosing to resign.",
+      "caution": "Operating-business acquisition is not purchase of every asset or the entire Yahoo corporate entity. Do not describe Mayer as Oath CEO."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marissa_Mayer",
+      "publisher": "Wikipedia contributors",
+      "findings": "Identity section identifies Marissa Ann Mayer, born May 30, 1975 in Wausau, Wisconsin, as American executive and engineer.",
+      "caution": "Distinguish executive Marissa Mayer from novelist Marissa Meyer. Birth is a secondary-source finding; age in Stanford appointment article is not independent birth-date verification."
     }
   ],
   "remainingWork": [
-    "Verify birth year and nationality against suitable identity sources.",
-    "Read original Google employment and Yahoo departure/acquisition evidence; distinguish operating-business sale from entire corporate entity.",
-    "Verify Sunshine founding chronology and Dazzle transaction and launch dates.",
+    "Read original Google employment evidence and verify education years if included.",
+    "Verify Sunshine founding chronology and 2025 asset transaction details; do not assume simple rename or infer legal close date from reporting date.",
     "Read board appointment sources if included in timeline.",
     "Inspect portrait license and actual image bytes; do not assume institutional photo reuse permission.",
     "Write and review Chinese profile plus seven translations, then update campaign status only when complete."
