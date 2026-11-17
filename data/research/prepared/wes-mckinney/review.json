@@ -1,0 +1,58 @@
+{
+  "id": "wes-mckinney",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched pandas creator, Arrow co-creator and current Kenn/Posit roles through personal biography, project history and institutional announcements.",
+  "lifeStatusEvidence": "August 12, 2026 Kenn article is signed by Wes McKinney and describes his ongoing work with the team; current Kenn and personal sites confirm roles.",
+  "lifeStatusEvidenceURL": "https://kenn.io/blog/agentic-engineering-aug-2026/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://wesmckinney.com/about",
+      "https://pandas.pydata.org/about/",
+      "https://posit.co/blog/welcome-wes",
+      "https://wesmckinney.com/book/",
+      "https://wesmckinney.com/blog/announcing-ursalabs/",
+      "https://news.apache.org/foundation/entry/the_apache_software_foundation_announces87",
+      "https://kenn.io/",
+      "https://github.com/readme/stories/wes-mckinney",
+      "https://kenn.io/blog/agentic-engineering-aug-2026/"
+    ],
+    "accessMethod": "Web search/open/find, original project and author pages inspected on 2026-11-17.",
+    "scope": "pandas official development history; ASF original Arrow announcement; author book edition metadata; Ursa Labs announcement; Posit arrival notice; current personal and Kenn roles; GitHub first-person account of graduate study and community maintenance.",
+    "corrections": [
+      "pandas development in 2008 is distinct from open sourcing by end of 2009.",
+      "Duke doctoral enrollment and subsequent departure do not establish an earned doctorate.",
+      "Personal biography says MIT graduation in late 2006; GitHub first-person account and publisher material say 2007. Do not assert an exact graduation year.",
+      "Posit November 6, 2023 date is welcome announcement, not asserted contract start date.",
+      "Apache Arrow was collaborative; creator status does not mean McKinney performs all current pandas maintenance.",
+      "Book third edition initially appeared August 2022; online reading availability is distinct from an open license for reproducing prose.",
+      "2026 founder date uses year precision, not an inferred incorporation day.",
+      "July 2026 website transcript is explicitly AI-generated and potentially erroneous; it is excluded as proof of Voltron Data winding down and other new claims."
+    ],
+    "limits": "Mostly first-party statements; no independent performance or business-outcome verification. Birth year 1985 comes from his own biography. No human/native-language certification."
+  },
+  "portraitReview": {
+    "status": "download-and-visual-review-pending",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/File:Wes_McKinney.jpg"
+    ],
+    "rightsEvidence": "Commons identifies McKinney at Web Summit 2015, author Web Summit, CC BY 2.0 and FlickreviewR 2 verification on June 9, 2025. Current file was cropped by Listz3 on June 10, 2025. Text inspected; pixels not reviewed.",
+    "unresolved": "Obtain photo, confirm identity and color, retain Web Summit and crop attribution. Recorded cached file is absent.",
+    "downloadBlocker": "Previously reconfirmed Wikimedia CONNECT 403 restriction remains unresolved; no bypass attempted.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Eight versions authored and read against the same facts, retaining study versus degree, development versus open sourcing, collaborative credit, announcement dates, and book reading rights versus reuse rights.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026"
+}

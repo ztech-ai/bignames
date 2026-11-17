@@ -1,0 +1,203 @@
+{
+  "id": "wes-mckinney",
+  "name": "韦斯·麦金尼",
+  "enName": "Wes McKinney",
+  "aliases": [
+    "Wes McKinney"
+  ],
+  "birth": "1985",
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "Python数据分析",
+    "数据互操作"
+  ],
+  "role": "软件开发者 · pandas创建者",
+  "summary": "韦斯·麦金尼创建pandas，共同创建Apache Arrow，并通过Python for Data Analysis传播数据分析实践。他关注跨语言数据交换及开源维护的可持续性。现为Kenn Software创始人和Posit首席架构师。pandas后续发展依靠维护者与社区，不能把今天的全部功能和维护工作归于创建者个人。",
+  "coverageNote": "核对至2026年11月17日。区分2008年开始开发与2009年开源，博士就读不等于获得学位；MIT毕业年份资料有差异，正文不作精确年份断言。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "创建pandas并参与Apache Arrow，推动Python数据分析和跨系统数据交换工具的发展。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "在MIT学习数学，后进入杜克大学统计科学博士项目，2011年离开以专注开源。"
+    },
+    {
+      "id": "f2",
+      "label": "代表项目",
+      "value": "创建pandas与Ibis，共同创建Apache Arrow；成果依靠团队与社区。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "Python数据分析工具",
+      "text": "创建pandas，帮助处理和分析表格数据，后续由社区持续发展。",
+      "sourceIds": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "跨系统数据交换",
+      "text": "参与创建Apache Arrow，推动不同语言和系统共享列式内存数据。",
+      "sourceIds": [
+        "s1",
+        "s6"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026",
+      "title": "创办Kenn Software",
+      "text": "个人主页记载这一年的创业经历；公司网站列其为团队负责人，他同时继续在Posit任职。",
+      "sourceIds": [
+        "s1",
+        "s7"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2023-11-06",
+      "title": "Posit宣布其加入",
+      "text": "公司欢迎公告确认他已加入；个人主页列出现任首席架构师及Python、AI战略工作。",
+      "sourceIds": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2022-08",
+      "title": "出版教材第三版",
+      "text": "Python for Data Analysis第三版首次出版；作者另提供在线阅读版本，正文并非可自由复制的开放许可文本。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2018-04-19",
+      "title": "宣布成立Ursa Labs",
+      "text": "宣布与RStudio、Two Sigma合作，支持跨语言开源数据科学基础设施。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2016-02-17",
+      "title": "Apache Arrow公开宣布",
+      "text": "ASF宣布Arrow成为顶级项目，并引用他的说明；这是多项目开发者协作的成果。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2012-10",
+      "title": "出版首版数据分析教材",
+      "text": "据本人GitHub访谈，Python for Data Analysis第一版于这一月推出。",
+      "sourceIds": [
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2011",
+      "title": "离开博士项目转向开源",
+      "text": "从杜克大学博士项目休学并最终退学，把主要精力投入pandas。",
+      "sourceIds": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2008",
+      "title": "开始开发pandas",
+      "text": "在AQR工作期间启动项目，2009年底前才将其开源。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "About Wes McKinney",
+      "publisher": "Wes McKinney",
+      "url": "https://wesmckinney.com/about"
+    },
+    {
+      "id": "s2",
+      "title": "About pandas",
+      "publisher": "pandas project",
+      "url": "https://pandas.pydata.org/about/"
+    },
+    {
+      "id": "s3",
+      "title": "Welcome, Wes!",
+      "publisher": "Posit",
+      "url": "https://posit.co/blog/welcome-wes"
+    },
+    {
+      "id": "s4",
+      "title": "Python for Data Analysis, 3E: About the Open Edition",
+      "publisher": "Wes McKinney",
+      "url": "https://wesmckinney.com/book/"
+    },
+    {
+      "id": "s5",
+      "title": "Announcing Ursa Labs",
+      "publisher": "Wes McKinney",
+      "url": "https://wesmckinney.com/blog/announcing-ursalabs/"
+    },
+    {
+      "id": "s6",
+      "title": "Apache Arrow announced as a Top-Level Project",
+      "publisher": "Apache Software Foundation",
+      "url": "https://news.apache.org/foundation/entry/the_apache_software_foundation_announces87"
+    },
+    {
+      "id": "s7",
+      "title": "Kenn Software",
+      "publisher": "Kenn Software",
+      "url": "https://kenn.io/"
+    },
+    {
+      "id": "s8",
+      "title": "The sustainable future open source deserves",
+      "publisher": "GitHub ReadME / Wes McKinney",
+      "url": "https://github.com/readme/stories/wes-mckinney"
+    },
+    {
+      "id": "s9",
+      "title": "How Kenn is doing Agentic Engineering",
+      "publisher": "Kenn Software / Wes McKinney",
+      "url": "https://kenn.io/blog/agentic-engineering-aug-2026/"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
