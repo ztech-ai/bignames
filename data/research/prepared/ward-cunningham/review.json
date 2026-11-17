@@ -1,0 +1,65 @@
+{
+  "id": "ward-cunningham",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched Wiki inventor and Kent Beck collaborator across original technical reports, Purdue, IEEE interview and podcast. Birth May 26, 1949 agrees between IEEE biographical box, IT History Society and Wikipedia. Birth city conflicts: IEEE says Chicago, Wikipedia Michigan City; neither asserted.",
+  "lifeStatusEvidence": "The Value of Pattern Collections, public author-hosted paper by Rebecca Wirfs-Brock and Lise Hvatum, page 12, explicitly records April 27, 2026 email communication with Cunningham and reports his account. This is author-reported correspondence, not direct access to private email. Supplemented by March 25, 2025 podcast appearance.",
+  "lifeStatusEvidenceURL": "https://wirfs-brock.com/rebecca/papers/valueofpatterncollections/valueofpatterncollections.pdf",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.purdue.edu/home/about/history/innovators/",
+      "https://ithistory.org/honoree/howard-ward-g-cunningham",
+      "https://indieweb.org/2011/Smallest_Federated_Wiki",
+      "https://federated.wiki/federated-wiki.html",
+      "https://agilemanifesto.org/",
+      "https://agilemanifesto.org/history.html",
+      "https://c2.com/doc/oopsla92.html",
+      "https://c2.com/doc/oopsla89/paper.html",
+      "https://c2.com/doc/oopsla87.html",
+      "https://wirfs-brock.com/rebecca/papers/valueofpatterncollections/valueofpatterncollections.pdf",
+      "https://podcasts.apple.com/cd/podcast/ward-cunningham/id1346062023?i=1000700762773",
+      "https://www.walden-family.com/ieee/published-man2011040062.pdf",
+      "https://engineering.purdue.edu/150/Consequential-Stories/150th-ward-cunningham",
+      "https://en.wikipedia.org/wiki/Ward_Cunningham"
+    ],
+    "accessMethod": "Opened original C2 technical papers, Agile Manifesto and history, university profiles, IEEE interview PDF, author-hosted 2026 paper, IndieWeb session notes, Federated Wiki community description, podcast listing and secondary biographies.",
+    "scope": "Identity and birth, education, original wiki, CRC cards, pattern-language report, debt metaphor, collaborative authorship, federation and recent author-reported activity.",
+    "corrections": [
+      "No assertion Cunningham invented HyperCard. O’Reilly search biography makes this error and retains an outdated AboutUs CTO title; excluded from dossier sources.",
+      "WikiWikiWeb is distinct from Wikipedia. March 25, 1995 public launch supported by IT History Society and 30th-anniversary podcast; 1994 development and earlier private testing are separate. C2 WikiHistory endpoint exposed only a JavaScript notice, not inspected article text.",
+      "Purdue identifies interdisciplinary engineering bachelor’s and computer-science master’s. Anniversary profile assigns 1978 to bachelor’s; Wikipedia ambiguously says graduating in 1978. IEEE interview describes extended campus employment before Tektronix in 1978. Separate degree completion years remain unconfirmed and are omitted; do not manufacture a contradictory exact year.",
+      "IEEE biographical box says Chicago while Wikipedia says Michigan City. Exact birth date corroborated, specific city omitted. IT History Society legacy author is unknown and is not independent primary birth documentation.",
+      "Retain Kent Beck as coauthor of both original papers and Christopher Alexander as antecedent of pattern-language ideas. September 17, 1987 is technical-report date, not conference occurrence. CRC source says October 1989 proceedings and October 1–6 conference; month precision retained.",
+      "March 26, 1992 is manuscript date on WyCash report, not a claim about the OOPSLA conference date. Debt metaphor concerns incremental development and consolidation, not blanket endorsement of careless code.",
+      "Manifesto has seventeen coauthors at the February 11–13, 2001 meeting. Cunningham is not its sole author and agile is not synonymous with Scrum.",
+      "2011 IndieWeb notes identify M. Edward Borasky as collaborator. Current project description credits open-source community maintenance; no claim sole ongoing maintenance or verified current corporate job.",
+      "April 27, 2026 is correspondence date cited on page 12 of the public paper, not publication date. No personal messages accessed. November 2026 MediaWiki conference listings name Cunningham only as a notable past speaker; not proof of attending that event.",
+      "March 25, 2025 podcast is an episode release date, not verified recording date; description read, no claim to have listened to the audio. FIT site failed to open and no unsupported exact launch event was included."
+    ],
+    "limits": "Original reports and public documents reviewed, no independent experiment replication. Biography discrepancies recorded. No human/native-language certification."
+  },
+  "portraitReview": {
+    "status": "download-and-visual-review-pending",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/File:Wikimedia_Developer_Summit_2017_-_Ward_Cunningham-8602.jpg"
+    ],
+    "rightsEvidence": "Commons states own work by Raimond Spekking, captured January 9, 2017 at Wikimedia Developer Summit keynote; uploaded January 19, 2017. Explicit CC BY-SA 4.0 and required credit: © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons). Text inspected, pixels not viewed.",
+    "unresolved": "Cache 88ab9df6d9384430185e1174.jpg absent. Download image, verify identity/color/crop, retain author and license credit and indicate any crop under compatible license.",
+    "downloadBlocker": "Direct original-image HEAD request returned CONNECT 403 on November 17, 2026 at 04:25 UTC. No bypass attempted.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Eight versions reviewed for Wiki/Wikipedia distinction, coauthorship, historical employment, uncertain birth city and degree years, manuscript versus event dates, and public-paper evidence versus direct private correspondence.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-04-27"
+}
