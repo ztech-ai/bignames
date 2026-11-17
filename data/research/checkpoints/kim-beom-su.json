@@ -1,6 +1,6 @@
 {
   "id": "kim-beom-su",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "checkedAt": "2026-11-17",
   "cutoffDate": "2026-11-17",
@@ -51,25 +51,64 @@
       "publisher": "Kakao 2020 ESG report",
       "findings": "Governance table as of March31,2021: born March1966, Seoul National University industrial engineering masters; Hangame founder and NHN leadership history.",
       "caution": "Selected governance section only; nominal term through March2023 superseded by later resignation, not evidence actual service to2023."
+    },
+    {
+      "url": "https://www.givingpledge.org/pledger/miseon-hyeong-and-beom-su-kim/",
+      "publisher": "The Giving Pledge",
+      "title": "Miseon Hyeong and Beom-su Kim pledge letter",
+      "findings": "Korean original letter dated March16,2021 pledges over half wealth during lifetimes, jointly with wife Miseon Hyeong (형미선).",
+      "caution": "Commitment, not completed giving. Planned support for 100 innovators not verified accomplishment; not Bongjin Kim."
+    },
+    {
+      "url": "https://www.kakaocorp.com/page/detail/4933",
+      "publisher": "Kakao",
+      "title": "The birth of KakaoTalk",
+      "findings": "Winter2006 Brian and JB cofound IWILAB; later mobile pivot and March2010 KakaoTalk launch, Android August2010. Team members identified.",
+      "caution": "Corporate retrospective, not independent impact measurement; no claim first mobile messenger."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20260923122551004",
+      "publisher": "Yonhap",
+      "title": "Korean report of September23,2026 appeal closing hearing",
+      "findings": "Prosecution seeks15years; Kim denies illegal instructions and requests acquittal maintained. November20 scheduled verdict; September23 court appearance photo caption.",
+      "caution": "Korean original confirms 구형 requested punishment, not 선고 imposed sentence. February2023 dates alleged trading activity, not indictment."
+    },
+    {
+      "url": "https://nwww.newsis.com/view/NISX20261113_0003867470",
+      "publisher": "Newsis",
+      "title": "November15,2026 court week preview",
+      "findings": "Korean article still schedules Kim appeal verdict November20. Identifies Future Initiative Center role.",
+      "caution": "Not an appellate outcome; November15 publication photo shows August26 appearance, not November15. Unrelated cases on same page excluded."
+    },
+    {
+      "url": "https://www.sdf.or.kr/archive/2004/en/speaker/10000000160",
+      "publisher": "SBS Seoul Digital Forum",
+      "title": "2004 Beom-Su Kim speaker biography",
+      "findings": "Bachelor and masters in industrial engineering Seoul National University; Samsung SDS software development before founding Hangame1998; NHN president/CEO at2004 forum.",
+      "caution": "Historical speaker bio, not current office. Merge and NHN naming chronology compressed; avoid asserting merger2001."
     }
   ],
   "remainingWork": [
-    "Verify Hangame, Samsung/NHN career and KakaoTalk launch with primary chronology.",
-    "Verify philanthropy pledge versus actual giving and current role.",
-    "Read Korean appeal report and confirm no intervening ruling before cutoff; do not infer November20 outcome.",
-    "Draft Chinese and seven translations, review all fields.",
-    "Recheck Commons license and obtain/visually inspect portrait."
+    "Obtain portrait and visually check identity, color and crop; verify applicability of ACROFAN permission exceptions before publication."
   ],
   "portraitReview": {
-    "status": "not-yet-rechecked",
-    "existingEvidence": "data/research/evidence/kim-beom-su.json lists acrofan.com CC BY-SA3.0 image",
-    "cachedFile": "data/research/cache/portraits/86779c37a5b040833565c62b.jpg",
-    "cacheExists": false,
+    "checkedAt": "2026-11-17",
+    "status": "download-blocked-awaiting-visual-review",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Bum-soo,_Chairman_of_board,_Kakao_Inc.jpg",
+    "author": "acrofan.com / ACROFAN",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "dateOnCommons": "2012-11-21",
     "visualReview": null,
-    "note": "No new download attempted this turn."
+    "cachedFileExists": false,
+    "downloadAttempt": "urllib original Wikimedia URL: Tunnel connection failed: 403 Forbidden",
+    "unresolved": "Commons permission notice includes editorial-team/news/third-party/slide exclusions. Need original source applicability and visual verification; VRT notice does not replace those checks.",
+    "placeholderApproval": "not-received"
   },
   "leadsNotUsed": [
-    "AlphaBiz article open returned403; date corroborated in Asia Business Daily body.",
-    "Reuters and giving pledge search leads not yet opened."
-  ]
+    "AlphaBiz403; Korean Yonhap and Newsis bodies corroborate scheduled November20.",
+    "NHN2014PDF search snippet has1998/1999 timeline but extracted document did not contain1998; no launch month inferred from snippet. Hangame founding year uses2004SDF biography.",
+    "No quantified current wealth or donation completion claim."
+  ],
+  "preparedDossier": "data/research/prepared/kim-beom-su"
 }
