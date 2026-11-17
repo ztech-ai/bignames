@@ -1,0 +1,27 @@
+{
+  "id": "ashish-vaswani",
+  "checkedAt": "2026-11-17",
+  "status": "source-conflict-needs-resolution",
+  "publicationReady": false,
+  "reviewer": {"kind": "ai", "name": "OpenAI Codex"},
+  "sourcesOpened": [
+    {"id": "nec-2024", "url": "https://www.nec.com/en/press/202410/images/1501-01-02.pdf", "publisher": "NEC", "title": "Profile and Detailed Achievements of the Group B Recipient of the 2024 C&C Prize"}
+  ],
+  "supportedNotes": [
+    {"text": "NEC的2024年获奖人物材料记载2014年获南加州大学博士学位、2016至2021年在Google Brain、2022年共同创立Adept AI Labs、2023年共同创立Essential AI。记录保留该来源的年份，发布前应核对其他原始记录对成立时间的不同口径。", "sourceIds": ["nec-2024"]},
+    {"text": "NEC材料将Transformer奖项归于论文的八位作者；不应把团队贡献写成个人独立发明。", "sourceIds": ["nec-2024"]}
+  ],
+  "conflicts": [
+    {
+      "field": "birth",
+      "sourceA": {"path": "data/research/evidence/ashish-vaswani.json", "property": "P569", "claim": "1985", "references": []},
+      "sourceB": {"sourceId": "nec-2024", "claim": "1986"},
+      "decision": "两项记录冲突，未解决。不把无引用的Wikidata年份升级为确定事实；继续寻求本人或可靠独立传记。"
+    }
+  ],
+  "followUpLeads": [
+    {"url": "https://www.groundlevel-ai.com/p/nvidia-quietly-acquihires-essential", "title": "Nvidia quietly acquihires Essential AI team, including Transformer coauthor Ashish Vaswani", "status": "search-result-only-not-full-source-reviewed", "note": "检索结果提示2026年6月职业变化；需打开报道并补充原始或可靠独立来源后决定如何表述。不能把2024年CEO头衔直接写成现职。"}
+  ],
+  "unresolved": ["出生年份冲突", "Adept共同创立时间口径", "2026年职业变化及当前状态", "可复用且确为本人的彩色肖像", "完整生涯及七语翻译尚未完成"],
+  "limits": "本文件是有限来源复核与冲突记录，不是正式档案或发布批准。"
+}
