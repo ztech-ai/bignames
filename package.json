@@ -26,7 +26,8 @@
     "i18n:delta:import": "node scripts/i18n-delta.mjs import",
     "workflow:status": "node scripts/workflow.mjs status",
     "workflow:verify": "node scripts/workflow.mjs verify",
-    "workflow:package": "node scripts/workflow.mjs package"
+    "workflow:package": "node scripts/workflow.mjs package",
+    "content:remaining": "node scripts/remaining-progress.mjs"
   },
   "engines": {
     "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
