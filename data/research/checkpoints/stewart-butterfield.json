@@ -1,7 +1,7 @@
 {
   "id": "stewart-butterfield",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -18,7 +18,7 @@
       "url": "https://www.ebsco.com/research-starters/biography/stewart-butterfield",
       "publisher": "EBSCO Research Starters",
       "findings": "Public biography introduction identifies Canadian entrepreneur born March 21, 1973 in Lund, BC.",
-      "caution": "Secondary identity source; later personal details not needed for professional profile."
+      "caution": "Secondary identity source; later personal details not needed for professional profile. Expanded body incorrectly places CEO departure in December 2022; prefer contemporaneous announcement and retrospective January 2023 succession. Avoid claimed personal acquisition proceeds/net worth and unsupported legal nationality of website."
     },
     {
       "url": "https://blog.flickr.net/en/2012/02/10/an-amazing-8-years",
@@ -61,17 +61,37 @@
       "publisher": "The Next Web",
       "findings": "October 26, 2026 report discusses Rodgers memoir and identifies Butterfield as former CEO.",
       "caution": "Derives from same memoir, not independent corroboration of its claims. Article image from July 2022 is not 2026 appearance; NC-ND image license unsuitable for unrestricted cropped reuse."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/slack-founder-stewart-butterfield",
+      "publisher": "Lenny Rachitsky / Lenny’s Podcast",
+      "findings": "November 20, 2025 episode with Butterfield discussing product frameworks, leadership and pivots. Public description identifies post-Slack philanthropy and creative work.",
+      "caution": "Public description read, not subscriber-only takeaways or full audio. Publication date not exact recording date."
+    },
+    {
+      "url": "https://chief.com/articles/from-slack-to-bumble-why-lidiane-jones-says-she-never-takes-the-safe-route-in-her-career",
+      "publisher": "Chief",
+      "findings": "November 9, 2023 interview report retrospectively dates Lidiane Jones becoming Slack CEO to January 2023.",
+      "caution": "Supports month of succession with prior Salesforce-confirmed Reuters report, not precise Butterfield termination day. Jones career details are not Butterfield’s."
+    },
+    {
+      "url": "https://blog.flickr.net/en/2024/02/02/20-years-of-significant-moments-in-flickrs-development/",
+      "publisher": "Flickr Blog",
+      "findings": "Official history identifies Butterfield and Caterina Fake as cofounders, game-origin photo tool released February 10, 2004, and Yahoo acquisition March 2005.",
+      "caution": "Corporate retrospective; team achievements not sole invention. History page publication February 2 differs from birthday February 10."
+    },
+    {
+      "url": "https://www.metmuseum.org/press-releases/internship-endowment-perpetuity",
+      "publisher": "Metropolitan Museum of Art",
+      "findings": "Announcement names joint pledge exceeding USD23m through Rubio Butterfield Foundation to endow paid internships. Identifies former Slack CEO and philanthropic work; April 30 page date versus May 1, 2026 dateline.",
+      "caution": "Pledge not proof full disbursement; joint foundation gift not sole personal donation. Existing paid internships began 2021 with Adrienne Arsht support, not created from nothing in 2026. Rubio is Met trustee; do not transfer her title to Butterfield. Use May 2026 to avoid date conflict. Future naming and Tang Wing opening are plans."
     }
   ],
   "remainingWork": [
-    "Verify dated personal activity; 2026 memoir publication does not date quoted interview.",
-    "Confirm retrospective CEO departure and add game-to-product pivot/cofounder evidence.",
-    "Write Chinese dossier, seven translations and semantic review.",
-    "Resolve portrait attribution and visually inspect image bytes before publication."
+    "Resolve portrait photographer attribution and obtain image bytes for visual identity/color/crop review before publication."
   ],
   "leadsNotYetRead": [
-    "Lenny podcast interview reportedly published November 20, 2025; inspect original for recent dated personal activity.",
-    "Stanford CS183F item reposted October 2026 may be an archival lecture; do not infer new appearance."
+    "Optional enrichment: detailed game-to-Slack pivot with cofounder roles; current text avoids an unsupported sole-inventor claim."
   ],
   "portraitReview": {
     "checkedAt": "2026-11-17",
@@ -82,7 +102,8 @@
     "originalFlickrURL": "https://www.flickr.com/photos/stewart/126252236/",
     "status": "attribution-and-download-unresolved",
     "visualReview": null,
-    "unresolved": "Commons lists CC BY 2.0 and original Flickr photo dated April 10, 2006; author/credit fields absent in existing evidence. Original Flickr author attribution still to verify, not automatically assumed from account name. Cached image absent; download failed with proxy tunnel HTTP 403.",
+    "unresolved": "Commons lists CC BY 2.0 and original Flickr photo dated April 10, 2006; author/credit fields absent in existing evidence. Original Flickr author attribution still to verify, not automatically assumed from account name. Cached image absent; download failed with proxy tunnel HTTP 403. Original Flickr page also inaccessible through web tool; attribution remains unresolved.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/stewart-butterfield"
 }
