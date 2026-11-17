@@ -1,0 +1,202 @@
+{
+  "id": "jim-keller",
+  "name": "吉姆·凯勒",
+  "enName": "Jim Keller",
+  "aliases": [
+    "James B. Keller"
+  ],
+  "birth": null,
+  "birthUnknown": true,
+  "death": null,
+  "country": "美国",
+  "domains": [
+    "technology",
+    "business"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "处理器架构",
+    "人工智能计算"
+  ],
+  "role": "微处理器工程师、Tenstorrent CEO",
+  "summary": "吉姆·凯勒参与DEC、AMD、Apple及Tesla等公司的处理器项目，职业经历涵盖通用计算、移动设备与汽车硬件。他现领导Tenstorrent；芯片架构、软件及量产成果来自多位工程师和团队协作。",
+  "coverageNote": "核对至2026年11月17日。出生年份未确证；区分任命公告与生效、融资与收入，以及合作计划与已实现部署。",
+  "influence": {
+    "stars": 3,
+    "scope": "field",
+    "rationale": "参与多代高性能处理器设计，推动跨企业芯片架构与计算平台的技术演进。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "宾夕法尼亚州立大学电气工程理学学士；此处不填未经确认的毕业年份。"
+    },
+    {
+      "id": "f2",
+      "label": "技术工作",
+      "value": "参与x86-64指令集和HyperTransport规范编写，也曾从事移动芯片及汽车硬件开发。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "跨代处理器设计",
+      "text": "在多个企业参与处理器架构与设计领导工作，包括AMD Zen及Apple A4/A5；不把整代芯片成果归于个人。",
+      "sourceIds": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "AI计算企业领导",
+      "text": "从Tenstorrent总裁及CTO转任CEO，推动AI计算系统及CPU知识产权业务。",
+      "sourceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2026-11-16",
+      "title": "公司宣布自托管AI合作",
+      "text": "Tenstorrent与ConfidentialMind公布平台验证及联合销售计划；这是公司团队合作，并非已完成全球部署。",
+      "sourceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2026-10-19",
+      "title": "公司公布E轮融资",
+      "text": "Tenstorrent称完成15亿美元融资、投后估值62亿美元；凯勒评论其计算架构，融资与估值均非营业收入。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2023-01",
+      "title": "出任Tenstorrent CEO",
+      "text": "与原CEO Ljubisa Bajic交换职责，后者转任CTO；这一当时的安排不表示后者仍任该职。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2021-01-06",
+      "title": "公布总裁及CTO任命",
+      "text": "Tenstorrent宣布凯勒加入担任总裁、CTO及董事；采用公告日期，不据此判定更早合作起点。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2020-06-11",
+      "title": "辞去Intel职务",
+      "text": "Intel称其因个人原因辞职，当日生效，并同意提供六个月过渡咨询服务。",
+      "sourceIds": [
+        "s4"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2018-04-30",
+      "title": "正式开始Intel新职",
+      "text": "担任高级副总裁并领导芯片工程；任命于4月26日公布，此前任职Tesla汽车硬件部门。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2012-08-01",
+      "title": "AMD宣布其回归",
+      "text": "出任公司副总裁及微处理器核心首席架构师，负责高性能与低功耗核心设计方向。",
+      "sourceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2008",
+      "title": "P.A. Semi被Apple收购",
+      "text": "其职业经历包括P.A. Semi和Apple；企业收购年份与个人转职日期不等同。",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Leadership: Jim Keller",
+      "publisher": "Tenstorrent",
+      "url": "https://tenstorrent.com/vision"
+    },
+    {
+      "id": "s2",
+      "title": "Computer Architect Jim Keller Joins AMD as Chief of Processor Group",
+      "publisher": "AMD",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/240/computer-architect-jim-keller-joins-amd-as-chief-of-processor-group"
+    },
+    {
+      "id": "s3",
+      "title": "Jim Keller Joins Intel to Lead Silicon Engineering",
+      "publisher": "Intel",
+      "url": "https://download.intel.com/newsroom/2021/archive/2018-04-26-news-releases-jim-keller-joins-intel-lead-silicon-engineering.pdf"
+    },
+    {
+      "id": "s4",
+      "title": "Changes in Technology, Systems Architecture and Client Group",
+      "publisher": "Intel",
+      "url": "https://www.intel.com/content/www/us/en/newsroom/news/changes-technology-systems-architecture-client.html"
+    },
+    {
+      "id": "s5",
+      "title": "Jim Keller joins Tenstorrent as President and CTO",
+      "publisher": "Tenstorrent via PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/jim-keller-joins-tenstorrent-as-president-and-cto-301201505.html"
+    },
+    {
+      "id": "s6",
+      "title": "Jim Keller Steps Into CEO Role at Tenstorrent",
+      "publisher": "EE Times",
+      "url": "https://www.eetimes.com/jim-keller-steps-into-ceo-role-at-tenstorrent/"
+    },
+    {
+      "id": "s7",
+      "title": "Tenstorrent Announces a $1.5B Series E at a $6.2B valuation",
+      "publisher": "Tenstorrent",
+      "url": "https://tenstorrent.com/newsroom/tenstorrent-announces-series-e"
+    },
+    {
+      "id": "s8",
+      "title": "Tenstorrent and ConfidentialMind Partner to Deliver Sovereign AI on Open Hardware",
+      "publisher": "Tenstorrent",
+      "url": "https://tenstorrent.com/newsroom/tenstorrent-and-confidentialmind-partner-to-deliver-sovereign-ai-on-open-hardware"
+    },
+    {
+      "id": "s9",
+      "title": "Jim Keller (engineer)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Jim_Keller_(engineer)"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}
