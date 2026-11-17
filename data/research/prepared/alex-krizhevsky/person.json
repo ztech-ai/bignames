@@ -1,0 +1,223 @@
+{
+  "id": "alex-krizhevsky",
+  "name": "亚历克斯·克里泽夫斯基",
+  "enName": "Alex Krizhevsky",
+  "aliases": [],
+  "birth": null,
+  "birthUnknown": true,
+  "death": null,
+  "country": "加拿大",
+  "domains": [
+    "technology"
+  ],
+  "eras": [
+    "contemporary"
+  ],
+  "regions": [
+    "north-america"
+  ],
+  "tags": [
+    "计算机视觉",
+    "GPU计算"
+  ],
+  "role": "机器学习研究者 · AlexNet共同作者",
+  "summary": "亚历克斯·克里泽夫斯基与Ilya Sutskever、Geoffrey Hinton共同开发AlexNet，推动深度卷积网络在图像识别中的应用。他也参与创建CIFAR数据集、研究多GPU训练和机器人抓取，曾任职Google并担任Dessa技术顾问。",
+  "coverageNote": "核对至2026年11月17日。最新可核对的参与记录来自2025年博物馆致谢；出生日期及现职未确认，不将历史任职写成现职。",
+  "influence": {
+    "stars": 4,
+    "scope": "field",
+    "rationale": "参与开发AlexNet，推动深度卷积网络在图像识别上的突破并影响后续人工智能发展。",
+    "assessedAt": "2026-11-13",
+    "methodVersion": "1.0",
+    "reviewStatus": "provisional"
+  },
+  "facts": [
+    {
+      "id": "f1",
+      "label": "教育",
+      "value": "多伦多大学理学学士（2007）、理学硕士（2009）。"
+    },
+    {
+      "id": "f2",
+      "label": "CIFAR合作者",
+      "value": "与Vinod Nair、Geoffrey Hinton共同创建CIFAR-10和CIFAR-100。"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "视觉识别突破",
+      "text": "AlexNet结合深度卷积网络与GPU训练，推动计算机视觉方法转变。",
+      "sourceIds": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "并行训练研究",
+      "text": "研究卷积网络的多GPU训练方法。",
+      "sourceIds": [
+        "s3"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "date": "2025-03-20",
+      "title": "AlexNet原始代码获保存",
+      "text": "CHM与Google发布2012版源代码；馆方文章感谢他协助澄清资料。",
+      "sourceIds": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "id": "t2",
+      "date": "2018-06-11",
+      "title": "Dessa宣布顾问任命",
+      "text": "公司宣布任命他为技术顾问，支持团队开发AI工具。",
+      "sourceIds": [
+        "s5"
+      ]
+    },
+    {
+      "id": "t3",
+      "date": "2017-09",
+      "title": "结束Google任职",
+      "text": "本人主页将Google任职结束时间列为此月。",
+      "sourceIds": [
+        "s6"
+      ]
+    },
+    {
+      "id": "t4",
+      "date": "2016-03-07",
+      "title": "共同发表抓取研究预印本",
+      "text": "与Sergey Levine、Peter Pastor、Deirdre Quillen研究机器人从图像学习手眼协调。",
+      "sourceIds": [
+        "s7"
+      ]
+    },
+    {
+      "id": "t5",
+      "date": "2014-04-23",
+      "title": "发布并行训练预印本",
+      "text": "提出跨多个GPU训练卷积网络的方法。",
+      "sourceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "t6",
+      "date": "2013-03",
+      "title": "随DNNresearch团队加入Google",
+      "text": "Google收购他与Hinton、Sutskever共同创办的公司；本人主页确认此月入职。",
+      "sourceIds": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "id": "t7",
+      "date": "2012",
+      "title": "共同发表AlexNet论文",
+      "text": "与Sutskever、Hinton报告ImageNet竞赛成果，展示大规模卷积网络的潜力。",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "t8",
+      "date": "2009",
+      "title": "完成多伦多大学硕士",
+      "text": "硕士研究报告讨论从小图像学习多层特征。",
+      "sourceIds": [
+        "s6",
+        "s9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "publisher": "NeurIPS / Krizhevsky, Sutskever and Hinton",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"
+    },
+    {
+      "id": "s2",
+      "title": "CHM Releases AlexNet Source Code",
+      "publisher": "Computer History Museum / Hansen Hsu",
+      "url": "https://computerhistory.org/blog/chm-releases-alexnet-source-code/"
+    },
+    {
+      "id": "s3",
+      "title": "One weird trick for parallelizing convolutional neural networks",
+      "publisher": "arXiv / Alex Krizhevsky",
+      "url": "https://arxiv.org/abs/1404.5997"
+    },
+    {
+      "id": "s4",
+      "title": "CHM Makes AlexNet Source Code Available to the Public",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/press-releases/chm-makes-alexnet-source-code-available-to-the-public/"
+    },
+    {
+      "id": "s5",
+      "title": "Dessa announces Alex Krizhevsky as technical advisor",
+      "publisher": "Dessa via GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2018/06/11/1519506/0/en/DeepLearni-ng-Rebrands-as-Dessa-and-Announces-AlexNet-Inventor-Alex-Krizhevsky-as-Exclusive-Technical-Advisor.html"
+    },
+    {
+      "id": "s6",
+      "title": "Alex Krizhevsky: personal research page",
+      "publisher": "Alex Krizhevsky / University of Toronto",
+      "url": "https://cave.cs.toronto.edu/kriz/"
+    },
+    {
+      "id": "s7",
+      "title": "Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection",
+      "publisher": "arXiv / Levine, Pastor, Krizhevsky and Quillen",
+      "url": "https://arxiv.org/abs/1603.02199"
+    },
+    {
+      "id": "s8",
+      "title": "Google acquires Canadian neural networks startup DNNresearch",
+      "publisher": "The Next Web / Emil Protalinski",
+      "url": "https://thenextweb.com/news/google-acquires-canadian-neural-networks-startup-dnnresearch-aims-to-improve-image-and-voice-search"
+    },
+    {
+      "id": "s9",
+      "title": "Three papers authored by U of T computer scientists among most cited",
+      "publisher": "University of Toronto / Matt Hintsa",
+      "url": "https://web.cs.toronto.edu/news-events/news/three-papers-authored-by-u-of-t-computer-scientists-among-the-most-cited-of-the-21st-century-nature"
+    },
+    {
+      "id": "s10",
+      "title": "CIFAR-10 and CIFAR-100 datasets",
+      "publisher": "University of Toronto / dataset authors",
+      "url": "https://cave.cs.toronto.edu/kriz/cifar.html"
+    },
+    {
+      "id": "s11",
+      "title": "Our Team",
+      "publisher": "Two Bear Capital",
+      "url": "https://www.twobearcapital.com/team/"
+    },
+    {
+      "id": "s12",
+      "title": "Learning Hand-Eye Coordination: later publication record",
+      "publisher": "Google Research",
+      "url": "https://research.google/pubs/learning-hand-eye-coordination-for-robotic-grasping-with-deep-learning-and-large-scale-data-collection/"
+    },
+    {
+      "id": "s13",
+      "title": "Alex Krizhevsky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alex_Krizhevsky"
+    }
+  ],
+  "verifiedAt": "2026-11-17"
+}

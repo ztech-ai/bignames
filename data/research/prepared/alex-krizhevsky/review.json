@@ -1,0 +1,64 @@
+{
+  "id": "alex-krizhevsky",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched AlexNet coauthor and Toronto alumnus across original paper, university degree record, personal page and museum history. Canadian country label corroborated by Wikipedia. Birth date unconfirmed; no inferred 1986 birth year or conversion of century-precision Wikidata value into a date.",
+  "lifeStatusEvidence": "CHM curator Hansen Hsu explicitly thanks Alex Krizhevsky for clarifications in the March 20, 2025 article. This documents participation in preparation of the history, but no exact communication date or 2026 personal activity was established. The article separately dates an earlier contact to 2020; these are not conflated. Recheck before final publication.",
+  "lifeStatusEvidenceURL": "https://computerhistory.org/blog/chm-releases-alexnet-source-code/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+      "https://computerhistory.org/blog/chm-releases-alexnet-source-code/",
+      "https://arxiv.org/abs/1404.5997",
+      "https://computerhistory.org/press-releases/chm-makes-alexnet-source-code-available-to-the-public/",
+      "https://www.globenewswire.com/news-release/2018/06/11/1519506/0/en/DeepLearni-ng-Rebrands-as-Dessa-and-Announces-AlexNet-Inventor-Alex-Krizhevsky-as-Exclusive-Technical-Advisor.html",
+      "https://cave.cs.toronto.edu/kriz/",
+      "https://arxiv.org/abs/1603.02199",
+      "https://thenextweb.com/news/google-acquires-canadian-neural-networks-startup-dnnresearch-aims-to-improve-image-and-voice-search",
+      "https://web.cs.toronto.edu/news-events/news/three-papers-authored-by-u-of-t-computer-scientists-among-the-most-cited-of-the-21st-century-nature",
+      "https://cave.cs.toronto.edu/kriz/cifar.html",
+      "https://www.twobearcapital.com/team/",
+      "https://research.google/pubs/learning-hand-eye-coordination-for-robotic-grasping-with-deep-learning-and-large-scale-data-collection/",
+      "https://en.wikipedia.org/wiki/Alex_Krizhevsky"
+    ],
+    "accessMethod": "Opened Toronto alumni news, personal research page and CIFAR page, NeurIPS original paper, arXiv records, CHM release and curator article, Dessa announcement, contemporary TNW acquisition report, Google Research record, Two Bear official team page and Wikipedia.",
+    "scope": "Education, collaborative contributions, historical jobs, preprint versus later publication, museum preservation and unsupported current-job assertions.",
+    "corrections": [
+      "Toronto university news explicitly gives BSc 2007 and MSc 2009. No doctorate awarded is asserted; being a PhD student is not evidence of completion.",
+      "AlexNet is a collaboration with Ilya Sutskever and Geoffrey Hinton. Earlier GPU neural-network work exists, including work described in the museum account; do not claim first-ever GPU training, sole invention of deep learning or a personal Nobel Prize.",
+      "CIFAR authors page explicitly credits Vinod Nair and Geoffrey Hinton alongside Krizhevsky. CIFAR datasets are not ImageNet; the latter was led by Fei-Fei Li and collaborators.",
+      "Personal page gives March 2013 through September 2017 at Google. TNW March 12, 2013 reports acquisition and confirms hiring. Current Google employment not inferred from old paper affiliations.",
+      "Dessa announcement is June 11, 2018. Avoid secondary accounts that collapse Google departure in September 2017 into the formal advisory announcement. No current Dessa appointment asserted.",
+      "Parallelization arXiv first submission is April 23, 2014; revision April 26. No universal contemporary hardware speedup asserted.",
+      "Grasping preprint first submitted March 7, 2016 and carries four authors. Google Research later record adds Julian Ibarz and lists 2017. Timeline explicitly describes the preprint, not later publication or universal robotics performance.",
+      "CHM release March 20, 2025 is preservation of the original 2012 code, not initial invention or a new model in 2025. Personal clarification acknowledged without inventing an interview or attendance date.",
+      "Two Bear Capital official current team page does not list him, while third-party search results call him a venture partner. Omitted current title; absence does not establish a departure date or that he never held the position.",
+      "Master research title/year read on personal page and degree independently confirmed by Toronto. Linked report PDF timed out; no claim of having read the full thesis.",
+      "Wikipedia supplies nationality and research leads only. Its simplified claim about pre-AlexNet CPU-only training is not adopted. Podcast mention indexes are not evidence that he personally appeared in those episodes."
+    ],
+    "limits": "No 2026 personal activity confirmed. AI translations have not been certified by human/native reviewers. Source records verify reported experiments, not independent replication."
+  },
+  "portraitReview": {
+    "status": "reusable-portrait-not-confirmed",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://computerhistory.org/blog/chm-releases-alexnet-source-code/"
+    ],
+    "rightsEvidence": "Museum article captions a 2018 portrait as courtesy of Alex Krizhevsky and group photographs as University of Toronto credit. Courtesy/credit alone does not establish a public reuse license. No licensed Commons candidate located in this search; original research portrait field is null.",
+    "unresolved": "Find a suitably licensed color portrait and verify identity, source, attribution and actual image pixels before publication.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All 32 fields across Chinese and seven target languages reviewed for collaborative attribution, degree names, historical employment, preprint authorship, museum acknowledgement and explicit limits on current activity.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2025-03-20"
+}
