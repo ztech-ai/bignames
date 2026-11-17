@@ -1,0 +1,54 @@
+{
+  "id": "michael-i-jordan",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched middle initial, IEEE first-person Q&A, Berkeley CV, JMLR author list and BBVA biography. Explicitly distinguished from the basketball player.",
+  "lifeStatusEvidence": "INFORMS published a named interview episode on September 21, 2026 with a quoted statement from Jordan and a current Inria/Berkeley biography. Used actual released interview metadata and text, not just a prospective conference appearance.",
+  "lifeStatusEvidenceURL": "https://resoundinglyhuman.com/episodes/rethinking-what-makes-ai-intelligent/",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://people.eecs.berkeley.edu/~jordan/jordan-cv.pdf",
+      "https://ethw.org/First-Hand:IEEE_Award_Recipient_Series:Michael_I._Jordan",
+      "https://www.frontiersofknowledgeawards-fbbva.es/galardonados/michael-i-jordan-2/",
+      "https://www.premiosfronterasdelconocimiento.es/wp-content/uploads/sites/2/2025/06/Jordan_Acceptance_speech_Frontiers_Award_17th_edition.pdf",
+      "https://www.jmlr.org/papers/v3/blei03a.html",
+      "https://resoundinglyhuman.com/episodes/rethinking-what-makes-ai-intelligent/"
+    ],
+    "accessMethod": "Web search/open; actual returned source text read on 2026-11-17. Read CV education, appointments and honors pages, not all 71 pages.",
+    "scope": "IEEE Q&A confirms full birth date and birthplace. CV confirms degrees and faculty ranks. JMLR confirms three authors and January 2003 publication. Award organizer and dated acceptance speech distinguish 2024 edition from June 19, 2025 receipt. INFORMS provides current activity.",
+    "corrections": [
+      "Homepage search text says Inria began in 2023, CV says 2024; no definite Inria start date asserted.",
+      "Berkeley emeritus status begins in 2024; older directory biographies are not treated as current regular professorship.",
+      "The 1988 MIT appointment was assistant professor, not full professor.",
+      "Do not import the CV’s 2028 scheduled honor as a completed event. The listed 2026 honorary doctorate was not used without clearer ceremony timing.",
+      "No claim that he alone invented LDA, variational inference or the technologies underlying ChatGPT.",
+      "September 21, 2026 is episode publication, not recording date; future plenary appearance in the episode notes is not treated as proof of completed attendance."
+    ],
+    "limits": "The Inria-hosted chair PDF returned an access-denied page. It was not read or used. INFORMS transcript is pending: only published episode text and metadata were read; no claim of listening to audio. Personal economic views are labeled as views, not established technical results."
+  },
+  "portraitReview": {
+    "status": "permission-unresolved",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://www.frontiersofknowledgeawards-fbbva.es/galardonados/michael-i-jordan-2/",
+      "https://resoundinglyhuman.com/episodes/rethinking-what-makes-ai-intelligent/"
+    ],
+    "rightsEvidence": "Named source pages contain images but no reusable portrait license established. Targeted Commons name search returned no results; this does not prove no licensed portrait exists.",
+    "unresolved": "Locate an authorized real color portrait, download and visually corroborate identity before publication.",
+    "downloadBlocker": "Environment policy rechecked this turn: enforced restricted network still only has GitHub custom allowed hosts, without Wikimedia.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "All eight versions authored and read field by field, checking person disambiguation, appointment ranks, dated award receipt, partial dates, team credit and views versus established results.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-09-21"
+}
