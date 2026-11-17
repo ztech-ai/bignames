@@ -1,7 +1,7 @@
 {
   "id": "kristo-kaarmann",
   "researchedAt": "2026-11-17",
-  "status": "research-in-progress",
+  "status": "text-review-completed-awaiting-portrait",
   "publicationReady": false,
   "reviewer": {
     "kind": "ai",
@@ -73,12 +73,17 @@
       "publisher": "Kristo Kaarmann personal website",
       "findings": "Undated self-biography lists prior Deloitte/PwC consulting and bioinformatics/data-mining research with Jaak Vilo group.",
       "caution": "TransferWise branding indicates stale undated page; not proof current grant operation or current role titles. Grant beneficiary count is historical self-report."
+    },
+    {
+      "url": "https://news.err.ee/116928/transferwise-co-founders-receive-award-in-london",
+      "publisher": "Estonian Public Broadcasting / ERR",
+      "findings": "Identifies both cofounders as Estonian, reports joint EY Entrepreneur Of The Year UK 2015 award, and dates service launch in London to 2011.",
+      "caution": "Use 2011 service launch rather than claim exact incorporation date. Award is joint, not sole achievement; historical article not proof current activity."
     }
   ],
   "remainingWork": [
-    "Resolve founding/incorporation versus public launch chronology and explicit nationality.",
-    "Write Chinese dossier, seven translations and semantic review.",
-    "Obtain portrait bytes and visually inspect identity/color/crop."
+    "Obtain portrait bytes and visually inspect identity/color/crop before publication.",
+    "Optional enrichment: exact incorporation chronology; current text only asserts supported 2011 service launch."
   ],
   "portraitReview": {
     "checkedAt": "2026-11-17",
@@ -91,5 +96,6 @@
     "visualReview": null,
     "unresolved": "Commons description and license read; original photo 5333x3555. Existing evidence cache file absent. Direct original image download returned HTTP 403; image not visually inspected. Commons upload timestamp is not photograph date.",
     "placeholderApproval": "not-received"
-  }
+  },
+  "preparedDossier": "data/research/prepared/kristo-kaarmann"
 }
