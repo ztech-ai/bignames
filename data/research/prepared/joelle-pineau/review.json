@@ -1,0 +1,65 @@
+{
+  "id": "joelle-pineau",
+  "status": "text-reviewed-awaiting-portrait",
+  "publicationReady": false,
+  "reviewedAt": "2026-11-17",
+  "cutoffDate": "2026-11-17",
+  "reviewer": {
+    "kind": "ai",
+    "name": "OpenAI Codex"
+  },
+  "identityReview": "Matched McGill researcher, Cohere AI executive and PBVI coauthor using academic homepage, CMU alumni/thesis records, publisher records and Ottawa biography. Birth year 1974 and Canadian background use read Wikipedia biography; no exact birthday asserted.",
+  "lifeStatusEvidence": "November 1, 2026 Building What’s Next episode listing names Pineau in discussion with Aidan Gomez and Evan Solomon; cross-checked against 2026 Ottawa university biography and current McGill status. Episode release is not a verified recording date.",
+  "lifeStatusEvidenceURL": "https://podcasts.apple.com/ie/podcast/building-secure-al-in-canada-aidan-gomez-and-jo%C3%ABlle-pineau/id6816484898?i=1000799277614",
+  "sourceReview": {
+    "sourceUrls": [
+      "https://www.cs.mcgill.ca/~jpineau/",
+      "https://cohere.com/blog/august-2025-funding-round",
+      "https://www.constellationr.com/insights/news/cohere-raises-500-million-hires-chief-ai-officer-cfo",
+      "https://cs.mcgill.ca/news/166/",
+      "https://arxiv.org/abs/2003.12206",
+      "https://www.jmlr.org/papers/v22/20-303.html",
+      "https://reporter.mcgill.ca/governor-generals-innovation-award-for-ai-pioneer-joelle-pineau/",
+      "https://ijcai.org/proceedings/2003/146",
+      "https://about.fb.com/news/2017/09/fair-montreal/",
+      "https://www.ri.cmu.edu/alumni/joelle-pineau/",
+      "https://podcasts.apple.com/ie/podcast/building-secure-al-in-canada-aidan-gomez-and-jo%C3%ABlle-pineau/id6816484898?i=1000799277614",
+      "https://www.uottawa.ca/about-us/president/honorary-doctorates/joelle-pineau",
+      "https://publications.ri.cmu.edu/tractable-planning-under-uncertainty-exploiting-structure",
+      "https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau"
+    ],
+    "accessMethod": "Web search/open/find on university records, original research abstracts, arXiv version history, publisher, corporate notices and podcast listing. Cohere full article body was absent from open output; its substantive search excerpt cross-checked with full Constellation article and current Ottawa biography.",
+    "scope": "Current and former employment, partial leave, education, dated paper versions, coauthorship, award announcements and recent interview publication.",
+    "corrections": [
+      "McGill homepage explicitly says part-time leave and no new graduate students. Retains professorship; old associate-professor biographies do not override current professor title.",
+      "September 15, 2017 appointment led the Montreal FAIR lab, not proof of global FAIR leadership throughout 2017–2025. Meta role is former; August 14, 2025 Cohere notice is an announcement date, not a separately confirmed first workday.",
+      "CMU alumni directory and thesis catalog both give August 2004. An early search hint suggesting 2003 was not supported by those records and was discarded. No unresolved degree-year conflict asserted.",
+      "2026 Ottawa DUniv is an honorary degree, separate from the earned CMU robotics doctorate. No claimed honorary ceremony attendance.",
+      "September 5, 2023 McGill school announcement predates September 6 faculty news and September 11 Mila report. 2023 RSC Fellow status is distinct from 2016 College of New Scholars membership.",
+      "NeurIPS project year 2019, arXiv first submission March 27, 2020, and JMLR publication 2021 are distinct. Eight coauthors retained; no claim this single program guarantees all results reproducible.",
+      "PBVI is coauthored with Geoffrey Gordon and Sebastian Thrun and is approximate POMDP planning, not the invention of reinforcement learning or a universal exact solver.",
+      "May 13, 2019 innovation award announcement recognizes research; not a clinical efficacy or regulatory approval finding.",
+      "November 1, 2026 podcast date verified on Apple listing. Original RSS host link initially resolved but follow-up open failed. Show description read; no claim to have listened to audio or verified recording date.",
+      "Reuters full article unavailable; only substantive search excerpt corroborated appointment and is not treated as a fully reviewed source. Unofficial Forbes mirror found in search was not used."
+    ],
+    "limits": "Secondary birth-year evidence; no independent replication of algorithms or clinical assessment. Corporate announcement body only accessible through search excerpt; alternate full reporting used. No human/native-language certification."
+  },
+  "portraitReview": {
+    "status": "download-and-visual-review-pending",
+    "visualReview": null,
+    "sourceURLs": [
+      "https://commons.wikimedia.org/wiki/File:Jo%C3%ABlle_Pineau_at_the_Canada_Science_and_Technology_Museum.jpg"
+    ],
+    "rightsEvidence": "Commons identifies Canada Science and Technology Museum video, April 25, 2018, still at 12:35 cropped, CC BY 3.0. Uploaded by GRuban October 30, 2019; license checked November 3, 2019 by Leoboudv. Historical license not automatically changed by YouTube’s 2025 license-version change. Text inspected, source video and pixels not viewed.",
+    "unresolved": "Cache f6e22d910f0fc65c0bd796ee.jpg absent. Download actual image, inspect identity/color/crop and preserve museum, still and crop attribution and license link.",
+    "downloadBlocker": "Wikimedia CONNECT 403 reconfirmed in immediately preceding batch; remains unresolved. No bypass attempted.",
+    "placeholderApproval": "not-received"
+  },
+  "translationReview": {
+    "kind": "ai",
+    "scope": "Eight versions reviewed field by field for current versus former roles, partial leave, doctorate date, approximate algorithm and coauthors, announcement/event distinction and research versus clinical approval.",
+    "humanReview": false,
+    "nativeLanguageReview": "not-certified-by-this-program"
+  },
+  "coverageEnd": "2026-11-01"
+}
