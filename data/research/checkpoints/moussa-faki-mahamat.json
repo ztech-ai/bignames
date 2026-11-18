@@ -96,18 +96,34 @@
   ],
   "portraitReview": {
     "checkedAt": "2026-11-18",
-    "status": "original-download-blocked-and-source-lineage-unresolved",
+    "status": "eu-policy-read-source-lineage-and-image-review-pending",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moussa_Faki_-_2023_(cropped).jpg",
     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Moussa_Faki_-_2023_%28cropped%29.jpg",
-    "license": "CC BY 4.0 according to Commons; candidate-specific original EC grant not independently confirmed",
+    "license": "CC BY 4.0 according to Commons; EU-owned-content default policy independently read, individual file exceptions still pending",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "credit": "European Commission / photographer Amanuel Sileshi, according to Commons; cropped/uploaded by Sikander",
     "visualReview": null,
-    "unresolved": "Read Commons cropped and parent metadata: photo October 3, 2023 at 12:11:38 during Jutta Urpilainen Ethiopia visit, Faki at right in parent caption. Crop 456×684, about 238 KB, uploaded by Sikander October 4, 2023 at 19:51, 89% horizontal/74% vertical crop; parent 4000×2667, 4.98 MB uploaded at 19:48. Both pages mark licence review needed. Dynamic European Union 2026 footer is not capture year. Original EC reportage P-061893 timed out. EC copyright index read, but linked Licences_with_CC_BY.zip unsupported and not inspected; general licence link is not candidate-specific permission proof. One executor original-image request returned curl exit 22 / 403 / HTTP 000. Old recorded cache e7091e0724e991aed3a71c9c.jpg, 243350 bytes, SHA-256 070b6539bcac9eb0e3046af84bbba2d947405a0c12b3a2bbb366001f381fdf4c is absent with cache directory. No actual identity, colour, orientation, sharpness or crop review performed.",
-    "placeholderApproval": "not-received"
+    "unresolved": "Original EU reuse policy is now documented. Original gallery and source lineage remain unavailable. Inspect the individual file conditions and any applicable exceptions; recover actual image pixels and verify identity, natural color, sharpness, orientation and crop correspondence before publication. Preserve photographer, EU copyright year and crop attribution. No image is locally available; cloud policy remains restricted/enforced and Wikimedia download retest returned curl exit 22, 403/HTTP000 after environment restart. Commons external licence-review flags have not been independently resolved.",
+    "placeholderApproval": "not-received",
+    "previousUnresolvedFindings": "Read Commons cropped and parent metadata: photo October 3, 2023 at 12:11:38 during Jutta Urpilainen Ethiopia visit, Faki at right in parent caption. Crop 456×684, about 238 KB, uploaded by Sikander October 4, 2023 at 19:51, 89% horizontal/74% vertical crop; parent 4000×2667, 4.98 MB uploaded at 19:48. Both pages mark licence review needed. Dynamic European Union 2026 footer is not capture year. Original EC reportage P-061893 timed out. EC copyright index read, but linked Licences_with_CC_BY.zip unsupported and not inspected; general licence link is not candidate-specific permission proof. One executor original-image request returned curl exit 22 / 403 / HTTP 000. Old recorded cache e7091e0724e991aed3a71c9c.jpg, 243350 bytes, SHA-256 070b6539bcac9eb0e3046af84bbba2d947405a0c12b3a2bbb366001f381fdf4c is absent with cache directory. No actual identity, colour, orientation, sharpness or crop review performed.",
+    "licensePolicyUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+    "officialSourceUrl": "https://audiovisual.ec.europa.eu/en/media/photo/P-061893",
+    "followUpReview": {
+      "checkedAt": "2026-11-18",
+      "reviewer": {
+        "kind": "ai",
+        "name": "OpenAI Codex"
+      },
+      "policyUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+      "policySummary": "EU-owned audiovisual content defaults to CC BY 4.0, with credit, marked changes and no distortion, unless individual notices state otherwise. File-specific and third-party restrictions must still be checked.",
+      "officialGalleryRead": false,
+      "findings": "Current general reuse policy read, but neither original reportage P-061893 nor the newer media/photo route yielded a readable source gallery. Search results repeat Commons metadata and are not independent source confirmation. Original caption/rights chain for the selected Faki crop remains unresolved.",
+      "individualFileConditionsReviewed": false,
+      "imagePixelsReviewed": false
+    }
   },
   "remainingWork": [
-    "Confirm candidate-specific original image source and CC BY permission, retrieve bytes and visually check identity, colour, orientation, sharpness and crop, or select a fully verified alternative. Commons metadata and a general copyright index are insufficient.",
+    "Complete individual-file rights/exception review and recover the selected portrait pixels for identity, natural color, clarity and framing review; preserve EU/photographer/crop attribution. General EU CC BY 4.0 policy has now been read. Original EC source gallery remains unavailable and still needs corroboration.",
     "Refresh current office and recent completed activities before publication; keep planned events, policy aims and collective multilateral outcomes separate from verified individual accomplishments."
   ],
   "preparedDossier": "data/research/prepared/moussa-faki-mahamat"
